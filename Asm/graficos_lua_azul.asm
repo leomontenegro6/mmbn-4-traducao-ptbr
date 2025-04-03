@@ -5,7 +5,9 @@
 
 ; Gráficos descomprimidos, em seus respectivos offsets.
 ; Fonte dos textos acentuada (sem VWF, usada em alguns menus)
+.org 0x08694D44
+    .incbin "Graficos/Editados/Fonte textos.gba"
 .org 0x086C7744
-.incbin "Graficos/Editados/Fonte textos.gba"
+    .incbin "Graficos/Editados/Fonte textos sombra.gba"
 			
 .close
