@@ -19,8 +19,8 @@ echo ==Gerando rom traduzida da versao Sol Vermelho.
 
 echo ==Aplicando patches extras na rom modificada:==
 
-::echo ==Graficos descomprimidos==
-::.\Ferramentas\armips.exe .\Asm\graficos_versao_sol_vermelho.asm
+echo ==Graficos descomprimidos==
+.\Ferramentas\armips.exe .\Asm\graficos_sol_vermelho.asm
 
 echo ==Expandindo rom para 16mb==
 .\Ferramentas\armips.exe .\Asm\expansor_rom.asm -strequ output "Sol Vermelho"
@@ -35,8 +35,8 @@ echo ==Gerando rom traduzida da versao Lua Azul.
 
 echo ==Aplicando patches extras na rom modificada:==
 
-::echo ==Graficos descomprimidos==
-::.\Ferramentas\armips.exe .\Asm\graficos_versao_lua_azul.asm
+echo ==Graficos descomprimidos==
+.\Ferramentas\armips.exe .\Asm\graficos_lua_azul.asm
 
 echo ==Expandindo rom para 16mb==
 .\Ferramentas\armips.exe .\Asm\expansor_rom.asm -strequ output "Lua Azul"
