@@ -14,6 +14,9 @@ if "%ERRORLEVEL%" == "3" GOTO exit
 
 GOTO %ERRORLEVEL%
 :red_sun
+echo ==Unindo scripts .tpl avulsos no "script-red-sun.tpl"
+php .\unir_scripts.php v
+
 echo ==Gerando rom traduzida da versao Sol Vermelho.
 .\Ferramentas\TextPet.exe run-script insert-red-sun.tpl
 
@@ -30,6 +33,9 @@ pause
 exit
 
 :blue_moon
+echo ==Unindo scripts .tpl avulsos no "script-blue-moon.tpl"
+php .\unir_scripts.php a
+
 echo ==Gerando rom traduzida da versao Lua Azul.
 .\Ferramentas\TextPet.exe run-script insert-blue-moon.tpl
 
