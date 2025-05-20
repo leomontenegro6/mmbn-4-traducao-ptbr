@@ -5,8 +5,9 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ha ha,you crooks!
-	Looks like ya lost!
+	Ha ha,bandidos
+	bestas! Parece que
+	vocês perderam!
 	"""
 	keyWait
 		any = false
@@ -18,32 +19,32 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	"""
-	Don't waste your
-	breath. They're
-	probably long gone.
+	Não desperdice sali-
+	va. Já devem ter ido
+	embora faz tempo.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Heh,all except me."
+	"He,só eu que não\nfui."
 	keyWait
 		any = false
 	clearMsg
-	"How dare they."
-	keyWait
-		any = false
-	clearMsg
-	"""
-	They took over my
-	very own plan and
-	then left me behind.
-	"""
+	"A ousadia."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Bah!
-	Can you believe it!
+	Eles roubaram o meu
+	próprio plano e me
+	deixaram pra trás.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Arh!
+	Dá pra acreditar?!
 	"""
 	keyWait
 		any = false
@@ -57,18 +58,15 @@ script 2 mmbn4 {
 		value = 1
 	mugshotShow
 		mugshot = Lan
-	"Yes,actually."
+	"Na verdade,dá."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's cool how you
-	risked your life for
+	Foi legal como você
+	arriscou a vida por
+	alguém que ama.
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"someone you like."
 	keyWait
 		any = false
 	clearMsg
@@ -79,16 +77,16 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	"""
-	Um,that's not what
-	I meant.
+	Er,não foi isso que
+	eu quis dizer.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,call the
-	Officials.
-	I won't resist.
+	Enfim,chama lá os
+	Oficiais. Eu não
+	vou resistir.
 	"""
 	keyWait
 		any = false
@@ -100,15 +98,15 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Whadaya talking
-	about? Hurry up and
+	Que papo é esse?
+	Vai,se prepara logo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	get ready! Our bat-
-	tle's not over yet!
+	A nossa luta ainda
+	não acabou!
 	"""
 	keyWait
 		any = false
@@ -119,7 +117,7 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
-	"You won't report me?"
+	"Você não vai me\nentregar?"
 	keyWait
 		any = false
 	clearMsg
@@ -130,20 +128,20 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Don't be silly!
-	The perps fled.
+	Não fala besteira!
+	Os culpados fugiram.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And you didn't do
-	anything wrong.
+	E você não fez nada
+	de errado.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Everyone knows that."
+	"Todo mundo sabe\ndisso."
 	keyWait
 		any = false
 	clearMsg
@@ -153,7 +151,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = HotDogLady
-	"Mr.Match,fight!"
+	"Sr. Match,lute!"
 	keyWait
 		any = false
 	clearMsg
@@ -165,7 +163,7 @@ script 8 mmbn4 {
 	soundDisableTextSFX
 	soundPlay
 		track = 244
-	"Hurray!!"
+	"Êêêê!!"
 	wait
 		frames = 133
 	keyWait
@@ -173,7 +171,7 @@ script 8 mmbn4 {
 	clearMsg
 	soundPlay
 		track = 244
-	"Fight!! Fight!!"
+	"Luta!! Luta!!"
 	wait
 		frames = 133
 	keyWait
@@ -185,8 +183,7 @@ script 9 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hey ref,let's get
-	on with it!
+	Ei,juiz,vamos logo!
 	"""
 	keyWait
 		any = false
@@ -208,9 +205,9 @@ script 11 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Match,it's just
-	you and me now,
-	man to man!
+	Match,somos só
+	você e eu agora!
+	Homem contra homem!
 	"""
 	keyWait
 		any = false
@@ -221,7 +218,7 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
-	"Heh,Lan,you're⋯"
+	"He. Lan,você é..."
 	keyWait
 		any = false
 	clearMsg
@@ -234,14 +231,14 @@ script 12 mmbn4 {
 	"."
 	waitSkip
 		frames = 30
-	" raring to go."
+	" Tô pronto."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I expect you to put
-	up a fight deserving
-	of this huge crowd!
+	Vamos,Lan! Mostre
+	uma luta digna desta
+	multidão!
 	"""
 	keyWait
 		any = false
@@ -251,14 +248,14 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"Let's get it on!"
+	"Vamos lá!"
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Match
 	Vs.
-	Lan!
+	Lan Hikari!
 	"""
 	keyWait
 		any = false
@@ -276,7 +273,7 @@ script 13 mmbn4 {
 script 14 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -287,8 +284,8 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = FireMan
 	"""
-	Let's set this
-	place on fire!
+	Hora de acender
+	esta fogueira!
 	"""
 	keyWait
 		any = false

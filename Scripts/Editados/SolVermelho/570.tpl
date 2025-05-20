@@ -5,13 +5,13 @@ script 0 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	All ready for the
-	usual plan.
+	Tudo pronto pro
+	plano de sempre.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hee hee hee⋯"
+	"He he he..."
 	keyWait
 		any = false
 	clearMsg
@@ -22,9 +22,9 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = FireMan
 	"""
-	Good work.
-	Now we just wait
-	till the time comes.
+	Bom trabalho.
+	Agora é só esperar
+	até a hora chegar.
 	"""
 	keyWait
 		any = false
@@ -36,9 +36,9 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	"""
-	Alright.
-	We'll be waiting
-	around here.
+	Certo.
+	A gente vai esperar
+	aqui.
 	"""
 	keyWait
 		any = false
@@ -48,7 +48,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = FireMan
 	msgOpen
-	"Wait,you guys."
+	"Esperem."
 	keyWait
 		any = false
 	end
@@ -57,7 +57,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	msgOpen
-	"What is it?"
+	"Que foi?"
 	keyWait
 		any = false
 	clearMsg
@@ -68,16 +68,15 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = FireMan
 	"""
-	Lay off that Hotdog
-	Stand joint by
-	DenDome.
+	Deixem a Barraca de
+	Cachorro-Quente no
+	DenDomo em paz.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's an order
-	from Match.
+	Ordens do Match.
 	"""
 	keyWait
 		any = false
@@ -89,15 +88,16 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	"""
-	Got it. We won't
-	go near there.
+	Belê. A gente não
+	toca mais nela.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hee hee hee⋯But why
-	would he say that?
+	He he he... Mas por
+	que ele liga pra
+	isso?
 	"""
 	keyWait
 		any = false
@@ -109,9 +109,9 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	"""
-	Shaddup! Stop
-	yer blabbering!
-	Now scram!
+	Cala a boca! Parem
+	com esse lero-lero!
+	Se mandem!
 	"""
 	keyWait
 		any = false
@@ -122,7 +122,7 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
-	"OK,later."
+	"Tá bom,tá bom.\nFalou."
 	keyWait
 		any = false
 	end
@@ -132,8 +132,8 @@ script 9 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	FireMan,who were
-	that Navis?
+	FireMan,quem eram
+	aqueles Navis?
 	"""
 	keyWait
 		any = false
@@ -145,23 +145,22 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = FireMan
 	"""
-	None of your
-	business.
+	Não é da sua conta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So,whadaya want
-	from me?
+	E aí,quer o quê
+	comigo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You wanna battle it
-	out right here? I'm
-	always ready!
+	Quer lutar logo
+	aqui? Eu tô sempre
+	pronto!
 	"""
 	keyWait
 		any = false
@@ -173,17 +172,16 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	No,the Hotdog
-	Stand's fryer
-	broke down.
+	Não,a fritadeira da
+	Barraca quebrou.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wasn't able to fix
-	it,but I thought
-	Mr.Match might.
+	Achei que talvez o
+	Sr. Match pudesse
+	consertar.
 	"""
 	keyWait
 		any = false
@@ -195,14 +193,14 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	"""
-	Why didn't you say
-	so? He's probably
-	just tired.
+	Por que não falou
+	logo? Ela só deve
+	estar enferrujada.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's roll,FireMan!"
+	"Vamos lá,FireMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -212,14 +210,14 @@ script 12 mmbn4 {
 script 13 mmbn4 {
 	mugshotShow
 		mugshot = FireMan
-	"You're sure lucky."
+	"Você deu sorte."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But you've only
-	bought some time
-	till yer deleted.
+	Mas só o que fez foi
+	ganhar um tempo até
+	a sua deleção.
 	"""
 	keyWait
 		any = false
@@ -230,15 +228,17 @@ script 14 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The hotdog lady
-	will be OK now.
+	Acho que a moça da
+	barraquinha vai
+	ficar bem agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But what about that
-	evil-looking Navis?
+	Mas qual era a
+	daqueles Navis com
+	cara de mau?
 	"""
 	keyWait
 		any = false
@@ -250,17 +250,17 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	That bugged me to.
-	I knew he was up
-	to something!
+	Pois é... Eu SABIA
+	que ele tava
+	aprontando!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We better stick
-	close to Match!
-	Back to the stand!
+	É melhor a gente não
+	sair do pé do Match!
+	Pra barraca!
 	"""
 	keyWait
 		any = false
@@ -271,7 +271,7 @@ script 15 mmbn4 {
 script 16 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Roger!"
+	"Tá!"
 	keyWait
 		any = false
 	end

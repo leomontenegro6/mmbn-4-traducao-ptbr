@@ -135,8 +135,8 @@ script 8 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Então é aqui que vai
-	ser o Torneio da
+	Então este é o palco
+	do Torneio de
 	Batalha Den...
 	"""
 	keyWait
@@ -148,8 +148,8 @@ script 9 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	CyberTopComp⋯Try
-	not to get dizzy!
+	CPUCyberPião...
+	Não vá ficar tonto!
 	"""
 	keyWait
 		any = false
@@ -161,8 +161,8 @@ script 10 mmbn4 {
 	msgOpen
 	"""
 	É incrível como tem
-	entrada até numas
-	coisas tão finas...
+	entrada até em coi-
+	sas finas assim...
 	"""
 	keyWait
 		any = false
@@ -213,7 +213,7 @@ script 14 mmbn4 {
 	"""
 	Espero que aí tenha
 	ar... Pera,EXISTE
-	ar no cyberespaço?
+	ar no ciberespaço?
 	"""
 	keyWait
 		any = false
@@ -265,9 +265,9 @@ script 18 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Thanks to this dog
-	house,our home is
-	safe⋯I think.
+	Graças a esta casi-
+	nha,nosso lar está
+	a salvo... talvez.
 	"""
 	keyWait
 		any = false
@@ -324,8 +324,8 @@ script 31 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan! Fix the
-	lion statue!
+	MegaMan! Mexe aí na
+	estátua de leão!
 	"""
 	keyWait
 		any = false
@@ -336,8 +336,8 @@ script 44 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Então é aqui que
-	vai ser o Torneio de
+	Então este é o palco
+	ser o Torneio de
 	Batalha da Cidade...
 	"""
 	keyWait

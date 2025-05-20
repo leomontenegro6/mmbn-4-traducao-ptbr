@@ -9,17 +9,17 @@ script 0 mmbn4 {
 	soundPlay
 		track = 213
 	"""
-	MegaMan
-	pressed the ToyRobo
-	Stop switch!
+	MegaMan apertou o
+	botão de desligar do
+	Robô-Brinquedo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	At the same time as
-	pressing the button,
-	a virus started!
+	Mas assim que
+	apertou o botão,
+	um vírus saiu dele!
 	"""
 	keyWait
 		any = false
@@ -30,9 +30,9 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	msgOpen
 	"""
-	The Stop switch for
-	ToyRobo⋯No need
-	to press it now.
+	O botão de desligar
+	do Robô... Não pre-
+	cisa apertar agora.
 	"""
 	keyWait
 		any = false
@@ -70,7 +70,7 @@ script 10 mmbn4 {
 }
 script 11 mmbn4 {
 	msgOpen
-	"That's not right."
+	"Errado."
 	keyWait
 		any = false
 	end
@@ -79,41 +79,41 @@ script 12 mmbn4 {
 	mugshotHide
 	msgOpen
 	"""
-	This is the sad
-	story of the robot
-	TinMan.
+	Esta é a triste
+	história do robô
+	Flandrô.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This robot had been
-	originally built
-	for "****".
+	Originalmente,ele
+	foi construído para
+	"****".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But now he lived
-	a quiet life alone
-	in the woods.
+	Mas,agora,levava
+	uma vida tranquila
+	na floresta,sozinho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	As a robot,TinMan
-	didn't have any
-	"****",but
+	Como robô,o Flandrô
+	não tinha
+	"****",mas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	desiring this gift
-	so much,he often
-	prayed for it.
+	como muito desejava
+	ter,ele rezava por
+	isso o tempo todo.
 	"""
 	keyWait
 		any = false
@@ -123,39 +123,40 @@ script 13 mmbn4 {
 	mugshotHide
 	msgOpen
 	"""
-	"****" was
-	TinMan's friend,and
-	one day
+	"****" era
+	amiga do Flandrô,e,
+	um dia,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	he suddenly became
-	still and lifeless.
+	ela,de repente,parou
+	de se mover,parou de
+	apresentar vida.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now cold and without
-	a sign of life,
+	Agora fria e sem
+	vida,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	this friend would
-	not reply to any
-	of TinMan's calls.
+	essa amiga parou de
+	atender aos chamados
+	do Flandrô.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Even when he used
-	his "****",
-	nothing happened.
+	Mesmo após ele usar
+	sua "****",
+	nada aconteceu.
 	"""
 	keyWait
 		any = false
@@ -165,63 +166,64 @@ script 14 mmbn4 {
 	mugshotHide
 	msgOpen
 	"""
-	Without Emotion,
-	TinMan could not
-	understand death.
+	Sem Emoção,o Flandrô
+	não era capaz de
+	entender a morte.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Moved by his plight,
-	God decided to give
-	TinMan Emotion.
+	Comovido por isso,
+	Deus decidiu dar
+	a Flandrô Emoção.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	However,TinMan had
-	been used in many,
-	many wars,and now
+	Porém,Flandrô havia
+	sido usado em inú-
+	meras guerras,e ao
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	remembering his
-	horrible deeds,he
-	felt deep anguish.
+	se lembrar de seus
+	atos horríveis,caiu
+	em grande angústia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To atone for his
-	deeds,he decided to
-	be a "****".
+	Para expiar por seus
+	atos,ele decidiu ser
+	um "****".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To make up for his
-	wrongs,he'd make
-	dreams come true.
+	Para pagar por seus
+	pecados,ele havia
+	realizado seu sonho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	As he left the woods
-	and made for town,
+	Enquanto deixava a
+	floresta e seguia
+	rumo à cidade,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	he almost seemed⋯
-	a littly happy.
+	ele parecia quase...
+	feliz.
 	"""
 	keyWait
 		any = false

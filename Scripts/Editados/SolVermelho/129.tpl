@@ -12,9 +12,9 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	msgOpen
 	"""
-	I don't wanna put my
-	hand in its mouth,
-	even if it is safe⋯
+	Melhor não enfiar
+	a mão nessa boca,
+	mesmo sendo seguro.
 	"""
 	keyWait
 		any = false
@@ -52,17 +52,17 @@ script 4 mmbn4 {
 		jumpIfBlueMoon = 10
 	msgOpen
 	"""
-	The flame lighting
-	the hallway can't be
-	put out so easily.
+	As chamas iluminando
+	o corredor não são
+	apagadas facilmente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Stand next to it,
-	and you can feel the
-	fierce heat.
+	Se ficar perto dela,
+	dá para sentir seu
+	calor voraz.
 	"""
 	keyWait
 		any = false
@@ -71,17 +71,17 @@ script 4 mmbn4 {
 script 10 mmbn4 {
 	msgOpen
 	"""
-	The blue flame's so
-	strong,you can't
-	put it out easily.
+	As chamas azuis são
+	fortes,então,não se
+	apagam facilmente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Stand next to it,
-	and you can feel
-	it's really hot.
+	Se ficar ao lado
+	dele,dá para sentir
+	todo o seu calor.
 	"""
 	keyWait
 		any = false

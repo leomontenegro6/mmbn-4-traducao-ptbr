@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Argh! My canister's
-	all out of air! I
-	can't breathe!
+	Argh! Acabou o ar
+	do meu tanque! Não
+	consigo respirar!
 	"""
 	keyWait
 		any = false

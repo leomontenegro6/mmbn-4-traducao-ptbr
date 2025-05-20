@@ -43,7 +43,7 @@ script 1 mmbn4 {
 		jumpIfGreater = continue
 		jumpIfLess = 2
 	msgOpen
-	"MegaMan used:"
+	"MegaMan usou:"
 	keyWait
 		any = false
 	clearMsg
@@ -58,7 +58,7 @@ script 1 mmbn4 {
 	printItem
 		buffer = 0
 		item = 115
-	"\" and"
+	"\" e"
 	keyWait
 		any = false
 	clearMsg
@@ -83,9 +83,9 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	I think up ahead
-	could be Nebula's
-	base. Stay alert!
+	A base da Nebula
+	pode estar à frente.
+	Não baixe a guarda!
 	"""
 	keyWait
 		any = false
@@ -93,8 +93,8 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	As always!
-	Right,let's go!
+	Nunca!
+	Certo,vamos lá!
 	"""
 	keyWait
 		any = false
@@ -111,13 +111,13 @@ script 2 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Chaud,there's a
-	door here too!
+	Chaud,tem uma
+	porta auqi também!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Get "
+	"\"Pegue "
 	printItem
 		buffer = 0
 		item = 114
@@ -129,28 +129,28 @@ script 2 mmbn4 {
 	printItem
 		buffer = 0
 		item = 116
-	"\""
+	"\"."
 	keyWait
 		any = false
 	clearMsg
-	"is written on it!"
+	"É isso que tem\nescrito nela!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Chaud
 	"""
-	This is probably the
-	last door. Just get
-	the keys one by one.
+	Deve ser a última
+	porta. É só reunir
+	as chaves uma a uma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The first one is in
-	front of the 5th out
-	of 9 bones.
+	A primeira está
+	diante do quinto
+	de 9 ossos.
 	"""
 	keyWait
 		any = false
@@ -158,8 +158,8 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	9 bones⋯?
-	Right,I'll find it!
+	9 ossos...?
+	Tá,eu vou lá achar!
 	"""
 	keyWait
 		any = false
@@ -170,9 +170,9 @@ script 3 mmbn4 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Don't hurry!
-	Just start by
-	collecting the keys.
+	Não tenha pressa!
+	Apenas comece
+	coletando as chaves.
 	"""
 	keyWait
 		any = false
@@ -181,8 +181,9 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	msgOpen
 	"""
-	Sharo SpaceCtr's
-	Security Cube.
+	Cubo de Segurança
+	do Centro Espacial
+	de Sharo.
 	"""
 	keyWait
 		any = false

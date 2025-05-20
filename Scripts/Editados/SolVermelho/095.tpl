@@ -21,8 +21,8 @@ script 11 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Try not to get lost,
-	MegaMan!
+	Cuidado pra não se
+	perder,MegaMan!
 	"""
 	keyWait
 		any = false
@@ -33,9 +33,9 @@ script 20 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan! Fix the
-	WaterGod! Don't
-	get lost!
+	MegaMan! Conserta o
+	Deus da Água! Não vá
+	se perder!
 	"""
 	keyWait
 		any = false

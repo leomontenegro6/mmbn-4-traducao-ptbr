@@ -4,13 +4,13 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Ah! Look,MegaMan!"
+	"Ah! Olha,MegaMan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Our next opponent
-	is Roll!
+	A nossa próxima
+	adversária é a Roll!
 	"""
 	keyWait
 		any = false
@@ -22,18 +22,19 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You're right."
+	"Pois é,né?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wow,they made it
-	this far!
+	Que louco que elas
+	chegaram longe
+	assim!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm impressed."
+	"Tô impressionado."
 	keyWait
 		any = false
 	end
@@ -43,23 +44,22 @@ script 2 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I've never had a
-	NetBattle with Roll
-	before.
+	Eu nunca NetLutei
+	com a Roll antes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	She's not a fighting
-	Navi,really.
+	Ela não é realmente
+	uma Navi de luta,né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Can she really
-	fight? Should she?
+	Ela consegue lutar?
+	Ela DEVIA lutar?
 	"""
 	keyWait
 		any = false
@@ -72,17 +72,17 @@ script 3 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Well,if she made it
-	this far,she must
-	have some skills⋯
+	Bom,se ela chegou
+	longe assim,deve
+	ser habilidosa...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A battle with Roll,
-	huh! Something about
-	that seems wrong.
+	Uma luta com a
+	Roll... Isso parece
+	errado,sei lá.
 	"""
 	keyWait
 		any = false
@@ -94,7 +94,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah⋯"
+	"É..."
 	keyWait
 		any = false
 	clearMsg
@@ -106,14 +106,14 @@ script 5 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	But Roll and Mayl
-	are definitely
-	nearby.
+	Bom,a Roll e a Mayl
+	devem estar por
+	perto.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's go find them!"
+	"Bora falar com elas!"
 	keyWait
 		any = false
 	clearMsg
@@ -124,7 +124,7 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah,let's go!"
+	"É,vamos lá!"
 	keyWait
 		any = false
 	end

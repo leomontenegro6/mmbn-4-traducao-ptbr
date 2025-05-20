@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yeah! YumLand and
-	Netopia Area are now
-	connected,Lan!
+	Boa! Saborya e a
+	Área Ameropa estão
+	reconectadas!
 	"""
 	keyWait
 		any = false

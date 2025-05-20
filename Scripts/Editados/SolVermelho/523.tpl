@@ -4,11 +4,11 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Ooooh,my head⋯"
+	"Aaai,minha cabeça..."
 	keyWait
 		any = false
 	clearMsg
-	"Uh! Where am I?"
+	"Ué?!\nOnde é que eu tô?"
 	keyWait
 		any = false
 	clearMsg
@@ -20,15 +20,14 @@ script 1 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,
-	You're awake?!
+	Lan,acordou?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It looks live we've
-	been kidnapped.
+	Parece que a gente
+	foi sequestrado.
 	"""
 	keyWait
 		any = false
@@ -38,7 +37,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"K-Kidnapped?"
+	"S-sequestrado?!"
 	keyWait
 		any = false
 	clearMsg
@@ -51,9 +50,9 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	But luckily,they
-	forgot to take away
-	your PET.
+	Mas,felizmente,
+	esqueceram de levar
+	o seu PET.
 	"""
 	keyWait
 		any = false
@@ -62,8 +61,8 @@ script 3 mmbn4 {
 		timer = 0
 		value = 3
 	"""
-	⋯Ah!
-	Someone's coming!
+	... Ah!
+	Tem alguém vindo!
 	"""
 	keyWait
 		any = false
@@ -74,53 +73,53 @@ script 4 mmbn4 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	Heh heh,bro!
-	I tink dat kid's
-	still sleepin'!
+	He he,mano!
+	Acho que o pirralho
+	tá nanando!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wid a pretty little
-	face like dat,he's
-	gotta be rich!
+	Viu a carinha de
+	anjo dele? Esse aí
+	deve ser ricaço!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	His family's gonna
-	pay a big ransom,
-	right?
+	A família dele vai
+	pagar um resgate
+	daqueeeles,né?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Huh? Da door key?"
+	"Hã?\nA chave da porta?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I broke da "KeyData"
-	in 4 bits an' hid it
-	in da Netopia Area.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	All da bits are in
-	strong boxes,so
-	don't worry y'self!!
+	Eu parti os "Dados-
+	Chave" em 4 e escon-
+	di na Área Ameropa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I even prepared in
-	case da boxes are
-	opened!!
+	Os pedaços tão todos
+	em caixas fortes,
+	então,relaxa!!!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Eu até preparei um
+	negócio pra caso
+	alguém abra elas!!
 	"""
 	keyWait
 		any = false
@@ -131,16 +130,15 @@ script 5 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Did you hear that,
-	MegaMan?
+	Ouviu isso,MegaMan?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The key to this room
-	is hidden in
-	Netopia Area.
+	A chave deste quarto
+	tá escondida na
+	Área Ameropa.
 	"""
 	keyWait
 		any = false
@@ -152,16 +150,17 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	So,if we can jack in
-	from this room,
+	Então,se a gente
+	puder se conectar a
+	ela deste quarto,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	we'll be able to
-	search for the bits
-	of "KeyData"!
+	vamos poder ir atrás
+	dos pedaços dos
+	Dados-Chave!
 	"""
 	keyWait
 		any = false
@@ -172,13 +171,13 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Exactly!"
+	"Exatamente!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So where can we jack
-	in from⋯
+	Tá,por onde a gente
+	se conecta...?
 	"""
 	keyWait
 		any = false

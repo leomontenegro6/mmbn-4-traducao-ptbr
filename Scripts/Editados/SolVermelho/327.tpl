@@ -15,18 +15,18 @@ script 0 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	YOUR OPERATOR IS
-	BEING HELD HOSTAGE?!
-	THAT CANNOT BE
+	SEU OPERADOR ESTÁ
+	SENDO FEITO DE
+	REFÉM?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"TOLERATED! HERE,TAKE"
+	"INACEITÁVEL!"
 	keyWait
 		any = false
 	clearMsg
-	"THIS!"
+	"AQUI,TOME ISTO!"
 	keyWait
 		any = false
 	clearMsg
@@ -52,8 +52,8 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	I HOPE YOU CAN
-	ESCAPE SOON!
+	ESPERO QUE VOCÊS
+	CONSIGAM FUGIR LOGO!
 	"""
 	keyWait
 		any = false
@@ -69,8 +69,9 @@ script 2 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I MUST CONSTANTLY
-	KEEP THIS HP CLEAN!
+	EU PRECISO MANTER
+	ESTA PÁGINA SEMPRE
+	LIMPA!
 	"""
 	keyWait
 		any = false
@@ -91,14 +92,18 @@ script 10 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	I thought this HP
-	was locked,but it's
-	being used for the
+	Eu pensei que esta
+	página estaria
+	bloqueada,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"tournament⋯"
+	"""
+	mas cá está ela,
+	sendo usada para
+	o torneio...
+	"""
 	keyWait
 		any = false
 	end
@@ -120,17 +125,17 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviPink
 	msgOpen
-	"Hi! You're the"
+	"Oi!"
 	keyWait
 		any = false
 	clearMsg
-	"representative from \nElectopia,right? I"
+	"Você é o\nrepresentante de\nNi-Hon,né?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	watched you at the
-	Eagle Tournament!
+	Eu te vi no Torneio
+	Águia!
 	"""
 	keyWait
 		any = false
@@ -160,13 +165,14 @@ script 12 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Hmm⋯Interesting,
-	very interesting⋯
+	Hmm...
+	Interessante. Muito
+	interessante...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Heh heh heh⋯"
+	"He he he..."
 	keyWait
 		any = false
 	end
@@ -175,20 +181,17 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviPink
 	msgOpen
-	"Hi! You're the"
+	"Oi!"
+	keyWait
+		any = false
+	clearMsg
+	"Você é o\nrepresentante de\nNi-Hon,né?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	representative from
-	Electopia,right? I
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	watched you at the
-	Hawk Tournament!
+	Eu te vi no Torneio
+	Falcão!
 	"""
 	keyWait
 		any = false
@@ -203,14 +206,14 @@ script 15 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Access to each
-	country's Net has
-	been cut off! Was
+	O acesso às Redes
+	de cada país foi
+	cortado!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"there an accident?"
+	"Teve algum acidente?"
 	keyWait
 		any = false
 	end
@@ -220,8 +223,9 @@ script 16 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Oh no! The Net's in
-	chaos! Aaaahhhhh!!
+	Essa não! A Rede
+	está um caos!
+	Aaaahhhhh!!
 	"""
 	keyWait
 		any = false
@@ -232,8 +236,8 @@ script 17 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Hmm⋯I never saw a
-	chip like this⋯
+	Hmm... Eu nunca vi
+	um chip desses...
 	"""
 	keyWait
 		any = false
@@ -244,13 +248,13 @@ script 20 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	The Net's division
-	was no accident. It
+	A divisão da Rede
+	não foi acidente.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"was done on purpose!"
+	"Foi proposital!"
 	keyWait
 		any = false
 	end
@@ -260,15 +264,16 @@ script 21 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	In my country,we are
-	taught to jack out
+	No meu país,
+	a gente aprende
+	a desconectar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the instant we sense
-	danger!
+	no instante em que o
+	perigo se apresenta!
 	"""
 	keyWait
 		any = false
@@ -279,9 +284,9 @@ script 22 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	So⋯a "DarkChip",
-	huh?
-	Interesting⋯Yes⋯
+	Um... "Chip das
+	Trevas",é?
+	Interessante... É...
 	"""
 	keyWait
 		any = false
@@ -292,8 +297,8 @@ script 25 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Huh? Where did
-	everyone go?
+	Ué? Pra onde foi
+	todo mundo?
 	"""
 	keyWait
 		any = false

@@ -5,16 +5,16 @@ script 0 mmbn4 {
 		mugshot = Woman
 	msgOpen
 	"""
-	These events are
-	fun,but cleaning up
-	after them isn't⋯
+	Os eventos são
+	divertidos,mas a
+	limpeza não é...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't even know
-	where to begin!
+	Eu nem sei por onde
+	começar!
 	"""
 	keyWait
 		any = false
@@ -25,24 +25,23 @@ script 1 mmbn4 {
 		mugshot = Woman
 	msgOpen
 	"""
-	I have to separate
-	out all of the
-	recyclables!
+	Preciso separar o
+	lixo direitinho!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'd think that
-	people would at
-	least do that⋯
+	Seria bom se as pes-
+	soas fizessem isso,
+	pelo menos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	At least these have
-	been separated!
+	Pelo menos este
+	aqui foi separado!
 	"""
 	keyWait
 		any = false
@@ -53,16 +52,17 @@ script 2 mmbn4 {
 		mugshot = Woman
 	msgOpen
 	"""
-	Ooops,looks like
-	somebody lost a chip
-	here⋯
+	Ops,parece que
+	alguém perdeu um
+	chip aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll have to give it
-	to the Lost & Found⋯
+	Tenho que levá-lo
+	aos Achados e
+	Perdidos...
 	"""
 	keyWait
 		any = false
@@ -73,16 +73,16 @@ script 3 mmbn4 {
 		mugshot = Woman
 	msgOpen
 	"""
-	Well,I'm finally
-	finished here⋯
+	Bem,finalmente
+	terminei aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My job was made
-	easier,since many
-	people cooperated⋯
+	O trabalho não foi
+	tão difícil. Muita
+	gente ajudou...
 	"""
 	keyWait
 		any = false
@@ -93,23 +93,23 @@ script 10 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	The mayor is giving
-	a speech in there.
-	You can't go in.
+	O prefeito está dis-
+	cursando lá dentro.
+	Não pode entrar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What's with the
-	expression?
+	Tá olhando assim
+	pra mim por quê?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're a scary kid,
-	you know?
+	Você é um menino
+	medonho,sabia?
 	"""
 	keyWait
 		any = false
@@ -120,25 +120,25 @@ script 11 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	⋯Well,I'll overlook
-	it this time. Just
-	scram⋯
+	... Bem,vou ignorar
+	desta vez. Só vá
+	embora...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To tell you the
-	truth,I don't really
-	like that mayor⋯
+	Na verdade,eu não
+	gosto nada do
+	prefeito...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯So I was amused
-	when you interrupted
-	his speech!
+	Então,achei engra-
+	çado quando você
+	interrompeu ele!
 	"""
 	keyWait
 		any = false

@@ -17,8 +17,7 @@ script 0 mmbn4 {
 	clearMsg
 	"""
 	Será que alguém
-	guardou um tigre
-	aqui?
+	guardou um tigre aí?
 	"""
 	keyWait
 		any = false
@@ -27,16 +26,16 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	msgOpen
 	"""
-	A restaurant⋯
-	Those great smells
-	tease your nose.
+	Um restaurante...
+	Os aromas incríveis
+	atiçam seu nariz.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's hard not to
-	start drooling⋯
+	É difícil não
+	começar a babar...
 	"""
 	keyWait
 		any = false
@@ -45,23 +44,24 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	msgOpen
 	"""
-	This attraction's
-	designed around the
-	park's characters,
+	Esta atração envol-
+	ve os personagens
+	do parque.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and you can take
-	a photo on it.
+	Você pode tirar
+	fotos com eles.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This'll sure make a
-	great memento.
+	Com certeza dará
+	uma ótima
+	recordação.
 	"""
 	keyWait
 		any = false
@@ -70,93 +70,93 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	msgOpen
 	"""
-	Introducing Django,
-	the Solar Boy⋯
+	Apresentando Django,
+	o Garoto Solar...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"In a CrmScarf,\n wielding the Solar\n Gun,GunDelSol,"
+	"\"Com seu ChclVerm e\nsua arma solar,a\nGunDelSol,em mãos,"
 	keyWait
 		any = false
 	clearMsg
-	" the Solar Boy\n Django battles with\n Vampires."
+	"Django,o Garoto\nSolar,luta contra\nVampiros."
 	keyWait
 		any = false
 	clearMsg
-	" Led by Master\n Otenko,the Sun\n Spirit,"
+	"Guiado pelo Mestre\nOtenko,o Espírito do\nSol,"
 	keyWait
 		any = false
 	clearMsg
-	" he came to an\n eastern town."
+	"ele chega a uma\ncidade ao leste."
 	keyWait
 		any = false
 	clearMsg
-	" This is where\n Django met the\n ultimate Vampire,"
+	"Lá,Django se\ndepara com o\nVampiro supremo,"
 	keyWait
 		any = false
 	clearMsg
-	" Dracky,and engaged\n in mortal combat⋯"
+	"Dracky,e o enfrenta\nem um combate\nmortal..."
 	keyWait
 		any = false
 	clearMsg
-	" They were fighting\n in Dracky's Manor⋯"
+	"Eles lutam na Mansão\ndo Dracky..."
 	keyWait
 		any = false
 	clearMsg
-	" A place of darkness\n where the Sunlight\n did not shine⋯"
+	"Um local sombrio no\nqual a Luz do Sol\nnão brilha..."
 	keyWait
 		any = false
 	clearMsg
-	" Even having been\n injured by Dracky's\n attacks,Django"
+	"Mesmo após ser feri-\ndo pelos ataques do\nDracky,Django"
 	keyWait
 		any = false
 	clearMsg
-	" somehow fought on,\n eating apples to\n keep his strength."
+	"resiste,comendo\nmaçãs para recuperar\nsuas forças."
 	keyWait
 		any = false
 	clearMsg
-	" Dracky's bloody\n fangs were about to\n seal Django's fate!"
+	"As presas mortais do\nDracky estavam para\nacabar com Django!"
 	keyWait
 		any = false
 	clearMsg
-	" But just then,the\n sun shone through a\n skylight on Django!"
+	"Mas aí,o sol entra\npor uma claraboia\nsobre o Django!"
 	keyWait
 		any = false
 	clearMsg
-	" Django cried out!\n \"Taiyohhhhhhh⋯⋯!\""
+	"Django grita!\n \"Taiyohhhhhhh...!\""
 	keyWait
 		any = false
 	clearMsg
-	" The GunDelSol's\n solar battery was\n quickly recharged!"
+	"A bateria solar da\nGunDelSol logo é\nrecarregada!"
 	keyWait
 		any = false
 	clearMsg
-	" Django unleashed\n one mighty attack,"
+	"Django desfere um\npoderoso ataque,"
 	keyWait
 		any = false
 	clearMsg
-	" piercing Dracky's\n heart!"
+	"perfurando o coração\ndo Dracky!"
 	keyWait
 		any = false
 	clearMsg
-	" After a heroic\n battle,Django had\n defeated Dracky."
+	"Após uma batalha\nheróica,Django\nderrota Dracky."
 	keyWait
 		any = false
 	clearMsg
-	" And the women that\n Dracky had captured\n were all saved."
+	"E as mulheres que\nDracky capturara\nsão salvas."
 	keyWait
 		any = false
 	clearMsg
-	" The town was at\n peace⋯"
+	"A paz volta à\ncidade..."
 	keyWait
 		any = false
 	clearMsg
-	" But Django's work\n is never done!"
+	"Mas o trabalho do\nDjango nunca\ntermina!"
 	keyWait
 		any = false
 	clearMsg
-	" As long as Vampires\n still exist in the\n world!\""
+	"Não enquanto ainda\nhouver Vampiros no\nmundo!\""
 	keyWait
 		any = false
 	end
@@ -179,23 +179,25 @@ script 4 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Er⋯2 ice creams,
-	please!
+	Er...
+	Dois sorvetes,
+	por favor!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Maid
-	"Sure,here you are!"
+	"Claro,saindo!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Huh?! You work at
-	Higsby's⋯?
+	Ué?! Você não
+	trabalha na Loja
+	do Higsby...?
 	"""
 	keyWait
 		any = false
@@ -203,45 +205,45 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Maid
 	"""
-	Ah! You're
-	from ACDC town⋯!
+	Ah! Você é lá do
+	Bairro ACDC...!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯Well,I pretended
-	I had tummy ache so
-	I could come here.
+	... Er,eu fingi uma
+	dor de barriga para
+	vir trabalhar aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The pay's better
-	here,you know⋯
+	O salário é melhor,
+	sabe...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's only for today.
-	You mustn't tell
-	Higsby,okay!
+	É só por hoje. Não
+	conta pro Higsby
+	não,tá?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll give you a free
-	ice cream for it!
+	Em troca,eu te dou
+	um sorvete de graça!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Really?! Great!"
+	"Jura?! Já é!"
 	keyWait
 		any = false
 	clearMsg
@@ -267,28 +269,29 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Maid
 	"""
-	You can't say a
-	thing,okay⋯
+	Boquinha fechada,
+	tá...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Don't worry!"
+	"Tá tranquilo!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can trust me!
-	My lips are sealed!
+	Pode confiar em mim!
+	A minha boca é um
+	túmulo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Right then,back to
-	Mayl's!
+	Bom,enfim,de volta à
+	Mayl!
 	"""
 	keyWait
 		any = false
@@ -307,31 +310,31 @@ script 5 mmbn4 {
 		jumpIfBlueMoon = 20
 	msgOpen
 	"""
-	A scene from the
-	popular "Pater Pon".
+	Cena do popular
+	"Pater Pon".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The pirate captain
-	Pook betrays Pater
-	Pon and his friends.
+	O pirata,capitão
+	Mancho,trai Pater
+	Pon e seus amigos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a fantastic
-	live production.
+	É um fantástico
+	show ao vivo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Pirate Tonbi's
-	expression of
-	surprise is superb.
+	A cara de surpresa
+	do Pirata Tonbi é
+	sem igual.
 	"""
 	keyWait
 		any = false
@@ -340,16 +343,16 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	msgOpen
 	"""
-	That sweet smell's
-	coming from the ice
-	cream stand.
+	Esse doce aroma está
+	vindo da barraquinha
+	de sorvete.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can jack in to
-	it⋯
+	É possível se
+	conectar nela...
 	"""
 	keyWait
 		any = false
@@ -358,14 +361,14 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	msgOpen
 	"""
-	It's a cooking
-	machine for making
-	food with
+	É uma máquina de
+	cozinha para
+	preparar comida
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"the help of a Navi."
+	"com a ajuda de um\nNavi."
 	keyWait
 		any = false
 	end
@@ -373,15 +376,15 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	msgOpen
 	"""
-	An enormous,solid
-	boulder⋯
+	Um enorme e sólido
+	pedregulho...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder how it was
-	ever got here⋯?
+	Como será que ele
+	veio parar aí...?
 	"""
 	keyWait
 		any = false
@@ -397,9 +400,9 @@ script 10 mmbn4 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	Look! Something's
-	fallen from the
-	Pater Pon doll!
+	Veja só! Caiu alguma
+	coisa do boneco do
+	Pater Pon!
 	"""
 	keyWait
 		any = false
@@ -427,31 +430,31 @@ script 10 mmbn4 {
 script 11 mmbn4 {
 	msgOpen
 	"""
-	A scene from the
-	popular "Pater Pon".
+	Cena do popular
+	"Pater Pon".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The pirate captain
-	Pook betrays Pater
-	Pon and his friends.
+	O pirata,capitão
+	Mancho,trai Pater
+	Pon e seus amigos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a fantastic
-	live production.
+	É um fantástico
+	show ao vivo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Pirate Tonbi's
-	expression of
-	surprise is superb.
+	A cara de surpresa
+	do Pirata Tonbi é
+	sem igual.
 	"""
 	keyWait
 		any = false
@@ -464,9 +467,9 @@ script 12 mmbn4 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	Something was hurled
-	out when the heavy
-	door opened a bit!
+	Algo é arremessado
+	quando a porta
+	pesada se abre!
 	"""
 	keyWait
 		any = false
@@ -503,8 +506,7 @@ script 13 mmbn4 {
 	clearMsg
 	"""
 	Será que alguém
-	guardou um tigre
-	aqui?
+	guardou um tigre aí?
 	"""
 	keyWait
 		any = false
@@ -513,33 +515,33 @@ script 13 mmbn4 {
 script 20 mmbn4 {
 	msgOpen
 	"""
-	There's a production
-	of the popular
-	"Tydamic Ghost".
+	Uma montagem do
+	popular "Fantasma
+	Tydâmico".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A powerful scene of
-	Baron Sargasso and
-	his ghost pirates,
+	Uma cena poderosa do
+	Barão Sargasso e
+	seus piratas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and Mr.Quesola out
-	to save his
-	kidnapped wife.
+	fantasma e do Sr.
+	Quesola para salvar
+	sua esposa raptada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mr.Quesola's wife,
-	Cornesso,acts her
-	sadness superbly.
+	A Esposa do Sr. Que-
+	sola,Cornesso,capri-
+	cha na atuação.
 	"""
 	keyWait
 		any = false
@@ -552,9 +554,9 @@ script 21 mmbn4 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	Look! Something's
-	fallen from the
-	ghost pirate doll!
+	Veja! Caiu alguma
+	coisa do boneco do
+	pirata fantasma!
 	"""
 	keyWait
 		any = false
@@ -582,33 +584,33 @@ script 21 mmbn4 {
 script 22 mmbn4 {
 	msgOpen
 	"""
-	There's a production
-	of the popular
-	"Tydamic Ghost".
+	Uma montagem do
+	popular "Fantasma
+	Tydâmico".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A powerful scene of
-	Baron Sargasso and
-	his ghost pirates,
+	Uma cena poderosa do
+	Barão Sargasso e
+	seus piratas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and Mr.Quesola out
-	to save his
-	kidnapped wife.
+	fantasma e do Sr.
+	Quesola para salvar
+	sua esposa raptada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mr.Quesola's wife,
-	Cornesso,acts her
-	sadness superbly.
+	A Esposa do Sr. Que-
+	sola,Cornesso,capri-
+	cha na atuação.
 	"""
 	keyWait
 		any = false

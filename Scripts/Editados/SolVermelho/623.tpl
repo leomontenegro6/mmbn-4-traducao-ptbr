@@ -20,9 +20,9 @@ script 0 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Hey you,youngster!
-	Care to take my
-	quiz?
+	Olá,meu jovem!
+	Aceita encarar a
+	minha charada?
 	"""
 	keyWait
 		any = false
@@ -35,16 +35,17 @@ script 1 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Matching wits with
-	such a young Navi
-	makes me feel young!
+	Uma batalha de co-
+	nhecimento com um
+	Navi jovem faz eu me
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hahaha!
-	Let's go!
+	sentir jovem de
+	novo! Eh,he,he!
+	Vamos lá!
 	"""
 	keyWait
 		any = false
@@ -57,15 +58,16 @@ script 2 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	I'm too old to match
-	you physically,
+	Posso ser velho
+	demais para te
+	encarar fisicamente,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but I'm not too old
-	to match wits!
+	mas no conhecimento,
+	a história é outra!
 	"""
 	keyWait
 		any = false
@@ -78,9 +80,9 @@ script 3 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	I've learned a lot
-	of stuff in my long,
-	long life! Ready?!
+	Aprendi muita coisa
+	durante minha longa,
+	longa vida! Pronto?!
 	"""
 	keyWait
 		any = false
@@ -144,21 +146,21 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	msgOpen
-	"Here's the question!"
+	"Aqui vai a charada!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I am only useful
-	when I am full,
+	Só sou útil quando
+	estou cheio,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	yet I am always
-	full of holes.
-	What am I?
+	mas sou cheio de
+	buracos.
+	O que eu sou?
 	"""
 	keyWait
 		any = false
@@ -175,7 +177,7 @@ script 5 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"bucket  "
+	"balde  "
 	option
 		brackets = false
 		left = 0
@@ -184,7 +186,7 @@ script 5 mmbn4 {
 		down = 3
 	space
 		count = 1
-	"cave\n"
+	"caverna\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -195,7 +197,7 @@ script 5 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"sponge  "
+	"esponja  "
 	option
 		brackets = false
 		left = 2
@@ -204,7 +206,7 @@ script 5 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"bag\n"
+	"bolsa\n"
 	select
 		default = 0
 		noDelay = false
@@ -224,22 +226,22 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	msgOpen
-	"Here's the question!"
+	"Aqui vai a charada!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I go around in
-	circles,But always
-	straight ahead.
+	Eu sempre giro em
+	círculos,mas sempre
+	vou pra frente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Never complain
-	no matter where I
-	am led. What am I?
+	Nunca reclamo,não
+	importa aonde me
+	leve. O que eu sou?
 	"""
 	keyWait
 		any = false
@@ -256,7 +258,7 @@ script 6 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"baby  "
+	"bebê  "
 	option
 		brackets = false
 		left = 0
@@ -265,7 +267,7 @@ script 6 mmbn4 {
 		down = 3
 	space
 		count = 1
-	"wheel\n"
+	"pneu\n"
 	positionOptionHorizontal
 		width = 9
 	option
@@ -276,7 +278,7 @@ script 6 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"mule  "
+	"mula  "
 	option
 		brackets = false
 		left = 2
@@ -285,7 +287,7 @@ script 6 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"boat\n"
+	"barco\n"
 	select
 		default = 0
 		noDelay = false
@@ -305,21 +307,21 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	msgOpen
-	"Here's the question!"
+	"Aqui vai a charada!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lighter than what
-	I am made of,
+	Sou mais leve do
+	que o que me compõe,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	more of me is
-	hidden than is seen.
-	What am I?
+	e maior parte de
+	mim fica escondida.
+	O que eu sou?
 	"""
 	keyWait
 		any = false
@@ -345,7 +347,7 @@ script 7 mmbn4 {
 		down = 3
 	space
 		count = 1
-	"star\n"
+	"estrela\n"
 	positionOptionHorizontal
 		width = 9
 	option
@@ -356,7 +358,7 @@ script 7 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"whale    "
+	"baleia    "
 	option
 		brackets = false
 		left = 2
@@ -365,7 +367,7 @@ script 7 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"snail\n"
+	"lesma\n"
 	select
 		default = 0
 		noDelay = false
@@ -385,22 +387,21 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	msgOpen
-	"Here's the question!"
+	"Aqui vai a charada!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lovely and round,
-	I shine with pale
-	light,grown in the
+	Sou lindo e redondo,
+	brilho pouco,cresço
+	na escuridão
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	darkness,
-	a lady's delight.
-	What am I?
+	e as damas me amam.
+	O que eu sou?
 	"""
 	keyWait
 		any = false
@@ -417,7 +418,7 @@ script 8 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"ring  "
+	"anel  "
 	option
 		brackets = false
 		left = 0
@@ -426,7 +427,7 @@ script 8 mmbn4 {
 		down = 3
 	space
 		count = 1
-	"diamond\n"
+	"diamante\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -437,7 +438,7 @@ script 8 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"baby  "
+	"bebê  "
 	option
 		brackets = false
 		left = 2
@@ -446,7 +447,7 @@ script 8 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"pearl\n"
+	"pérola\n"
 	select
 		default = 0
 		noDelay = false
@@ -466,22 +467,22 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	msgOpen
-	"Here's the question!"
+	"Aqui vai a charada!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I build up castles.
-	I tear down moun-
-	tains. I make some
+	Construo castelos,
+	derrubo montanhas.
+	Deixo alguns homens
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	men blind. I help
-	others to see.
-	What am I?
+	cegos. Ajudo outros
+	a verem. O que eu
+	sou?
 	"""
 	keyWait
 		any = false
@@ -498,7 +499,7 @@ script 9 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"sand      "
+	"areia    "
 	option
 		brackets = false
 		left = 0
@@ -507,7 +508,7 @@ script 9 mmbn4 {
 		down = 3
 	space
 		count = 1
-	"steel\n"
+	"aço\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -518,7 +519,7 @@ script 9 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"dynamite  "
+	"dinamite  "
 	option
 		brackets = false
 		left = 2
@@ -527,7 +528,7 @@ script 9 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"glass\n"
+	"vidro\n"
 	select
 		default = 0
 		noDelay = false
@@ -547,21 +548,20 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	msgOpen
-	"Here's the question!"
+	"Aqui vai a charada!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What goes around the
-	house,and in the
-	house,
+	O que cerca a casa
+	e entra na casa,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but never touches
-	the house?
+	mas nunca encosta
+	na casa?
 	"""
 	keyWait
 		any = false
@@ -578,7 +578,7 @@ script 10 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"air      "
+	"ar      "
 	option
 		brackets = false
 		left = 0
@@ -587,7 +587,7 @@ script 10 mmbn4 {
 		down = 3
 	space
 		count = 1
-	"fog\n"
+	"névoa\n"
 	positionOptionHorizontal
 		width = 9
 	option
@@ -598,7 +598,7 @@ script 10 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"the Sun  "
+	"o sol   "
 	option
 		brackets = false
 		left = 2
@@ -607,7 +607,7 @@ script 10 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"rain\n"
+	"chuva\n"
 	select
 		default = 0
 		noDelay = false
@@ -627,19 +627,19 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	msgOpen
-	"Here's the question!"
+	"Aqui vai a charada!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The more you take,
-	the more you leave
-	behind.
+	Quanto mais se
+	pega,mais se deixa
+	pra trás.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What are they?"
+	"O que é?"
 	keyWait
 		any = false
 	clearMsg
@@ -664,7 +664,7 @@ script 11 mmbn4 {
 		down = 3
 	space
 		count = 1
-	"hints\n"
+	"pistas\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -675,7 +675,7 @@ script 11 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"footsteps  "
+	"pegadas  "
 	option
 		brackets = false
 		left = 2
@@ -684,7 +684,7 @@ script 11 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"risks\n"
+	"riscos\n"
 	select
 		default = 0
 		noDelay = false
@@ -704,21 +704,21 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	msgOpen
-	"Here's the question!"
+	"Aqui vai a charada!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Brothers and sisters
-	I have none. But
-	that man's father.
+	Irmãos e irmãs não
+	têm nenhum. Mas o
+	pai daquele homem
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Is my father's son?
-	Who is it?
+	é filho do meu pai?
+	Quem é?
 	"""
 	keyWait
 		any = false
@@ -735,7 +735,7 @@ script 12 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"my son     "
+	"meu filho     "
 	option
 		brackets = false
 		left = 0
@@ -744,7 +744,7 @@ script 12 mmbn4 {
 		down = 3
 	space
 		count = 1
-	"me\n"
+	"eu\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -755,7 +755,7 @@ script 12 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"my father  "
+	"meu pai  "
 	option
 		brackets = false
 		left = 2
@@ -764,7 +764,7 @@ script 12 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"my uncle\n"
+	"meu tio\n"
 	select
 		default = 0
 		noDelay = false
@@ -784,14 +784,14 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	msgOpen
-	"Here's the question!"
+	"Aqui vai a charada!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What is put on a
-	table,cut,and
-	never eaten?
+	O que se coloca na
+	mesa,se corta,mas
+	nunca se come?
 	"""
 	keyWait
 		any = false
@@ -808,7 +808,7 @@ script 13 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"silence  "
+	"silêncio  "
 	option
 		brackets = false
 		left = 0
@@ -817,7 +817,7 @@ script 13 mmbn4 {
 		down = 3
 	space
 		count = 1
-	"air\n"
+	"ar\n"
 	positionOptionHorizontal
 		width = 9
 	option
@@ -828,7 +828,7 @@ script 13 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"water    "
+	"água     "
 	option
 		brackets = false
 		left = 2
@@ -837,7 +837,7 @@ script 13 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"cards\n"
+	"cartas\n"
 	select
 		default = 0
 		noDelay = false
@@ -857,20 +857,20 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	msgOpen
-	"Here's the question!"
+	"Aqui vai a charada!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What goes up the
-	chimney down,
+	O que desce pela
+	chaminé,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but can't go down
-	the chimney up?
+	mas não pode subir
+	pela chaminé?
 	"""
 	keyWait
 		any = false
@@ -887,7 +887,7 @@ script 14 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"cat    "
+	"gato    "
 	option
 		brackets = false
 		left = 0
@@ -896,7 +896,7 @@ script 14 mmbn4 {
 		down = 3
 	space
 		count = 1
-	"umbrella\n"
+	"guarda-chuva\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -907,7 +907,7 @@ script 14 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"smoke  "
+	"fumaça  "
 	option
 		brackets = false
 		left = 2
@@ -916,7 +916,7 @@ script 14 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Santa\n"
+	"Papai Noel\n"
 	select
 		default = 0
 		noDelay = false
@@ -991,13 +991,13 @@ script 17 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Correct!
-	Nice work!
+	Correto!
+	Bom trabalho!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Here's your prize."
+	"Tome o seu prêmio."
 	keyWait
 		any = false
 	clearMsg
@@ -1032,19 +1032,18 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	msgOpen
-	"That's right!"
+	"Exatamente!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I lost!
-	How nice to be
-	young!
+	Perdi! Ah,como é bom
+	ser jovem!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Here,take this!"
+	"Pode levar isto!"
 	keyWait
 		any = false
 	clearMsg
@@ -1079,29 +1078,28 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	msgOpen
-	"Argh! You're right!"
+	"Argh! Acertou!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Darn! You sure know
-	a lot for such
-	a young guy!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I tell yah,kids,
-	they grow up fast
-	these days.
+	Droga! Você é bem
+	sabido,pra alguém
+	tão novo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here,you can have
-	this.
+	Te contar,viu? As
+	crianças de hoje
+	crescem tão rápido.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Tome,pode ficar.
 	"""
 	keyWait
 		any = false
@@ -1138,24 +1136,23 @@ script 20 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Wow! You got it!
-	You beat me!
-	I thought I had
+	Nossa! É isso mesmo!
+	Você venceu! Achei
+	que ia te pegar,mas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you there,but I can
-	tell you're at the
-	top of your game.
+	dá pra ver que você
+	é bem afiado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here,take this.
-	You earned it.
+	OK,tome.
+	Fez por merecer.
 	"""
 	keyWait
 		any = false
@@ -1192,25 +1189,25 @@ script 21 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Nope,that's not it.
-	I may be old,but
-	don't count me out.
+	Não,errou. Eu posso
+	ser velho,mas não
+	sou bobo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Still,wouldn't be
-	right to just send
-	you away like this.
+	Mas não seria certo
+	dispensar você desse
+	jeito.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Get this crick outta
-	my shoulder,and I'll
-	call it a win.
+	Faz uma massagem nos
+	meus ombros e eu te
+	dou a vitória.
 	"""
 	keyWait
 		any = false
@@ -1221,17 +1218,17 @@ script 22 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Hah! Unfortunately,
-	that's incorrect!
-	For your consolation
+	Ha! Infelizmente,
+	errou! Como prêmio
+	de consolação,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	prize,I'll let you
-	Get this crick outta
-	my shoulder!
+	vou deixar que faça
+	uma massagem nos
+	meus ombros!
 	"""
 	keyWait
 		any = false
@@ -1242,17 +1239,16 @@ script 23 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Oops,that's not it!
-	Too bad.
-	Ouch! Dang this
+	Ops,não é isso!
+	Que pena.
+	Ai,meus ombros!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	crick in my
-	shoulder!
-	Pull my arm,there!
+	Dá uma ajuda aqui,
+	por favor?
 	"""
 	keyWait
 		any = false
@@ -1263,24 +1259,25 @@ script 24 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Wrooooong!
-	Try again!
+	Errrooooou!
+	Vai ter que tentar
+	de novo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But since you're
-	here,can I ask you
-	a favor?
+	Mas já que está
+	aqui,pode me fazer
+	um favor?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Can you help me get
-	this dang crick out
-	of my shoulder?
+	Pode só dar uma
+	massagenzinha nos
+	meus ombros?
 	"""
 	keyWait
 		any = false
@@ -1306,17 +1303,17 @@ script 25 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Aha,much better.
-	Now I don't have to
-	go to that dang
+	Ah,coisa boa. Agora
+	não tenho que ir
+	naquele quiroprata!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	chiropractor!
-	Here,take this in
-	appreciation!
+	Pseudomedicina,
+	tchau! Tome,um
+	agradozinho!
 	"""
 	keyWait
 		any = false
@@ -1353,16 +1350,16 @@ script 26 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Oh yeah,my shoulder
-	feels much better
-	now!
+	Que delícia. Meus
+	ombros estão bem
+	melhores!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thanks! Here,take
-	this,please!
+	Obrigado! Aceite
+	isto,por favor!
 	"""
 	keyWait
 		any = false
@@ -1398,28 +1395,27 @@ script 27 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	msgOpen
-	"Oh ho ho!"
+	"Ho ho!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There goes that
-	crick in my
-	shoulder!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Where'd you learn to
-	do that?
+	Meus ombros agora
+	tão moliiinhos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here,take this
-	little present!
+	Onde você aprendeu a
+	massagear,garoto?
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Aqui,leva este
+	presentinho!
 	"""
 	keyWait
 		any = false
@@ -1456,24 +1452,23 @@ script 28 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Aha,what a relief!
-	My shoulder was
-	killing me!
+	Ah,que alívio! Os
+	meus ombros tavam
+	me matando!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I feel 10 years
-	younger.
+	Tô me sentindo 10
+	anos mais novo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here,take this
-	little sign of my
-	appreciation.
+	Tome,pra mostrar
+	minha gratidão.
 	"""
 	keyWait
 		any = false
@@ -1510,63 +1505,64 @@ script 29 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	I think the Chief
-	would meet with you.
+	Acho que o Chefe
+	adoraria te
+	conhecer.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Chief?"
+	"Chefe?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviBrown
 	"""
-	The Chief of the
-	NetBattle Club,
-	of course.
+	O Chefe do Clube de
+	NetLuntas,claro.
+	Ele pode te ensinar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He'll teach you the
-	most important thing
-	about making Navis.
+	o detalhe mais
+	importante na
+	confecção de Navis.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Getting the Chief to
-	promise to help
-	Tensuke⋯
+	Fazer o Chefe
+	prometer ajudar o
+	Tensuke...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yep,that's the final
-	test.
+	É,esse é o seu teste
+	final.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think the Chief's
-	Navi is in ACDC
-	somewhere.
+	Acho que o Navi do
+	Chefe tá ali pela
+	Área ACDC.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This key'll let you
-	get in to see the
-	Navi. Here,take it.
+	Esta chave vai lhe
+	levar até onde o
+	Navi está. Leve.
 	"""
 	keyWait
 		any = false
@@ -1598,40 +1594,40 @@ script 40 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Let's get started
-	immediately!
+	Não vamos perder
+	tempo e começar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Use the L and R
-	Buttons to hit my
-	shoulders in rhythm!
+	Use os Botões L e R
+	para massagear meus
+	ombros ritmicamente!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Left,right,left,
-	right!
+	Esquerda,direita,
+	esquerda,direita!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	controlLock
-	"All right then"
+	"Certo,então"
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
 	"""
-	・
-	Go!
+	.
+	Começar!
 	
 	"""
 	wait
@@ -1642,7 +1638,7 @@ script 41 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	msgOpen
-	"Aha,that's it!"
+	"Ha,assim mesmo!"
 	keyWait
 		any = false
 	end
@@ -1652,30 +1648,30 @@ script 42 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Hey!
-	Wake up!
+	Ei!
+	Foco,rapaz!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Try again!"
+	"Tente de novo!"
 	keyWait
 		any = false
 	clearMsg
 	controlLock
-	"All right then"
+	"Certo,então"
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
-	" Go!"
+	"\nComeçar!"
 	wait
 		frames = 30
 	end
@@ -1685,31 +1681,30 @@ script 43 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Hey! You have to
-	alternate between
-	shoulders!
+	Rapaz! Você tem que
+	alternar os ombros!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Try again!"
+	"Vai de novo!"
 	keyWait
 		any = false
 	clearMsg
 	controlLock
-	"All right then"
+	"Certo,então"
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
-	" Go!"
+	"\nComeçar!"
 	wait
 		frames = 30
 	end
@@ -1719,7 +1714,7 @@ script 44 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	controlLock
-	"Aha,this is great!\n"
+	"Ah,maravilha!\n"
 	wait
 		frames = 30
 	end
@@ -1729,7 +1724,7 @@ script 45 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	controlLock
-	"Perfect!\n"
+	"Perfeito!\n"
 	wait
 		frames = 30
 	end
@@ -1739,7 +1734,7 @@ script 46 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	controlLock
-	"Excellent!\n"
+	"Excelente!\n"
 	wait
 		frames = 30
 	end

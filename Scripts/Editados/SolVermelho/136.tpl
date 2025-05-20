@@ -3,17 +3,17 @@
 script 0 mmbn4 {
 	msgOpen
 	"""
-	This machine's for
-	controlling the big
-	monitor at the back.
+	Esta máquina
+	controla o monitor
+	grande lá atrás.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It lets you switch
-	between the images
-	from each satellite.
+	Ela alterna entre
+	as imagens de cada
+	satélite.
 	"""
 	keyWait
 		any = false
@@ -22,23 +22,24 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	msgOpen
 	"""
-	A photo of the
-	MilkyWay. Oh! No,
-	it's a meteorite⋯
+	Uma foto da Via
+	Láctea. Ah! É
+	um meteorito...!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Only the world's
-	great pride,NAXA,
+	Somente a organi-
+	zação de elite do
+	mundo,a NAXA,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	could achieve such
-	quality.
+	seria capaz de tal
+	qualidade.
 	"""
 	keyWait
 		any = false
@@ -46,37 +47,38 @@ script 1 mmbn4 {
 }
 script 2 mmbn4 {
 	msgOpen
-	"A line graph⋯"
+	"Um gráfico..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Whatever it's about,
-	it shows a recent
-	downwards trend.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	They project success
-	rate on a wall,not
-	on PETs or panels.
+	Seja lá do que for,
+	mostra uma queda
+	recente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's probably to
-	help encourage the
-	workers.
+	A taxa de sucesso é
+	postada aqui,não
+	em PETs ou paineis.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A closer look shows
-	something written⋯
+	Provavelmente para
+	encorajar os
+	funcionários.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Olhando mais de
+	perto,pode-se ver
+	uma coisa escrita...
 	"""
 	keyWait
 		any = false
@@ -93,16 +95,16 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	msgOpen
 	"""
-	The big monitor's
-	showing some of the
-	mysteries of space
+	O monitor grande
+	mostra alguns dos
+	mistérios do espaço
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and the history of
-	NAXA non-stop.
+	e a história da
+	NAXA,sem cessar.
 	"""
 	keyWait
 		any = false
@@ -111,17 +113,17 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	msgOpen
 	"""
-	Data from worldwide
-	space centers comes
-	to this computer.
+	Dados de centros es-
+	paciais mundo afora
+	chegam nesta coisa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A closer look shows
-	other data besides
-	space data⋯
+	Olhando bem,dá para
+	ver mais dados além
+	dos espaciais...
 	"""
 	keyWait
 		any = false
@@ -142,25 +144,25 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	msgOpen
 	"""
-	They're doing a
-	detailed damage
-	assessment
+	Estão fazendo uma
+	avaliação detalhada
+	dos danos causados
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	of asteroids that
-	are presently on a
-	course to hit Earth.
+	pelo asteroide que
+	segue em direção à
+	Terra agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If it goes on like
-	this,the Earth
-	could be⋯
+	Se continuar assim,
+	a Terra pode acabar
+	sendo...
 	"""
 	keyWait
 		any = false
@@ -169,17 +171,17 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	msgOpen
 	"""
-	The orbits and other
-	data about asteroids
-	is being analyzed.
+	Está analisando a
+	órbita e outros de-
+	talhes do asteroide.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But as it stands,an
-	asteroid will make a
-	direct hit on Earth.
+	Do jeito que está,
+	sim,o asteroide cai-
+	rá direto na Terra.
 	"""
 	keyWait
 		any = false
@@ -188,17 +190,17 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	msgOpen
 	"""
-	A satellite is
-	showing an image of
-	Earth as it is now.
+	Um satélite mostra
+	uma imagem da Terra
+	como é agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This beautiful blue
-	planet must not be
-	destroyed!
+	Este lindo planeta
+	azul não pode ser
+	destruído!
 	"""
 	keyWait
 		any = false

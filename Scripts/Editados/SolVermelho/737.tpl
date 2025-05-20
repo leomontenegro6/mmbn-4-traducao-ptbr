@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	KendoMan⋯
-	Is that Navi from
-	Electopia?
+	KendoMan...
+	Esse Navi é de
+	Ni-Hon?
 	"""
 	keyWait
 		any = false
@@ -18,13 +18,13 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"No,Lan,"
+	"Não,Lan,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	he represents
-	NetFrica!
+	ele representa a
+	Affriq!
 	"""
 	keyWait
 		any = false
@@ -36,14 +36,14 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	NetFrica?
-	That country with
-	all the savannahs?
+	Affriq?
+	Aquele país cheio
+	das savanas?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"They do kendo there?"
+	"Eles lutam kendô lá?"
 	keyWait
 		any = false
 	clearMsg
@@ -54,15 +54,14 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I don't know if they
-	do or not.
+	Bom,eu não sei.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder what his
-	operator is like?
+	Mas como será que é
+	o operador dele?
 	"""
 	keyWait
 		any = false
@@ -72,7 +71,7 @@ script 3 mmbn4 {
 }
 script 4 mmbn4 {
 	mugshotHide
-	"Like this!"
+	"Assim!"
 	keyWait
 		any = false
 	soundStopBGM
@@ -83,8 +82,9 @@ script 5 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I thought I just
-	heard somebody⋯
+	É impressão minha
+	ou alguém falou
+	alguma coisa?
 	"""
 	keyWait
 		any = false
@@ -95,7 +95,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Me too!"
+	"Não,eu também ouvi!"
 	keyWait
 		any = false
 	end
@@ -104,7 +104,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
 	msgOpen
-	"Tadaaa!"
+	"Tcharããã!"
 	keyWait
 		any = false
 	end
@@ -114,8 +114,8 @@ script 8 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Wh-who are you?!
-	You surprised us!
+	Q-quem é você?!
+	Que susto!
 	"""
 	keyWait
 		any = false
@@ -127,17 +127,17 @@ script 9 mmbn4 {
 	msgOpen
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・Ah!"
+	". Ah!"
 	keyWait
 		any = false
 	clearMsg
-	"Mr.Famous?!"
+	"Sr. Famoso?!"
 	keyWait
 		any = false
 	clearMsg
@@ -148,9 +148,9 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	Hahaha!!! Surprising
-	the opponent is one
-	of my strategies!
+	Ha ha ha!!! Surpre-
+	ender oponentes: uma
+	estratégia minha!
 	"""
 	keyWait
 		any = false
@@ -164,8 +164,9 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Are you KendoMan's
-	operator?
+	Você que é o
+	operador do
+	KendoMan?
 	"""
 	keyWait
 		any = false
@@ -177,9 +178,9 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	Precisely! I look
-	forward to fighting
-	you guys.
+	Exatamente! Estou
+	ansioso para
+	enfrentar vocês.
 	"""
 	keyWait
 		any = false
@@ -191,9 +192,9 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	But,how'd you end
-	up representing
-	NetFrica?
+	Mas como você foi
+	acabar representando
+	a Affriq?
 	"""
 	keyWait
 		any = false
@@ -205,46 +206,49 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	I've been traveling
-	all over the world,
+	Eu tenho viajado
+	arduosamente por
+	todo o mundo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	training
-	NetBattlers.
+	treinando diversos
+	NetLutadores no
+	caminho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The people of
-	NetFrica really
-	took a liking to me.
+	E o povo da Affriq
+	acabou se afeiçoando
+	bastante a mim.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They wanted to see
-	what I can do,so I
-	entered the tourney
+	Eles queriam ver do
+	que eu era capaz,
+	então eu entrei nas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	prelims. Then I
-	won,and here I am!
+	preliminares.
+	Aí eu passei nelas,
+	e cá estou!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Next thing I knew
-	it,I was NetFrica's
-	representative.
+	Quando me dei conta,
+	já era o represen-
+	tante da Affriq.
 	"""
 	keyWait
 		any = false
@@ -256,9 +260,8 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Wow Mr.Famous,
-	that's quite a
-	story.
+	Caramba,Sr. Famoso.
+	Que história!
 	"""
 	keyWait
 		any = false
@@ -270,16 +273,17 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	It's really not
-	allowed,but they're
+	Não é realmente
+	permitido pelas
+	regras,mas eles
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	counting on me,so
-	I'll be fighting for
-	NetFrica this time.
+	estão contando comi-
+	go. Logo,lutarei pe-
+	la Affriq desta vez.
 	"""
 	keyWait
 		any = false
@@ -294,13 +298,14 @@ script 16 mmbn4 {
 script 17 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"You too!"
+	"Pra você também!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What kind of Navi is
-	KendoMan,anyway?
+	Que tipo de Navi é o
+	KendoMan,afinal de
+	contas?
 	"""
 	keyWait
 		any = false
@@ -312,29 +317,31 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	I have a bunch of
-	different Navis,and
+	Eu tenho um monte de
+	Navis diferentes,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I choose them based
-	on each mission.
+	e escolho qual usar
+	dependendo da missão
+	em questão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I brought a really
-	strict coaching Navi
+	Logo,trouxe um Navi
+	que é um treinador
+	casca-grossa desta
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	this time to teach
-	some young people.
+	vez,para instruir
+	alguns jovens.
 	"""
 	keyWait
 		any = false
@@ -345,7 +352,7 @@ script 18 mmbn4 {
 script 19 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"And that's KendoMan?"
+	"E o KendoMan é\nesse Navi?"
 	keyWait
 		any = false
 	clearMsg
@@ -355,45 +362,46 @@ script 19 mmbn4 {
 script 20 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
-	"Precisely!"
+	"Exatamente!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He must be drilling
-	really hard in
-	NetFrica right now.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	He said he'd be here
-	in time for the
+	Deve estar ensinando
+	com afinco na Affriq
+	agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	match. Hey,if you
-	want to say hi,go
-	to NetFrica!
+	Ele disse que
+	voltaria a tempo
+	para a luta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The people are nice,
-	and the scenery is
-	gorgeous.
+	Ei,se quiser ir dar
+	um oi,é só ir à
+	Affriq!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The leader of the
-	youth organization
-	can find him.
+	As pessoas são muito
+	amáveis e as paisa-
+	gens são incríveis.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Se for lá,fale com o
+	líder da organização
+	dos jovens.
 	"""
 	keyWait
 		any = false
@@ -404,8 +412,7 @@ script 21 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What do you think,
-	MegaMan?
+	O que acha,MegaMan?
 	"""
 	keyWait
 		any = false
@@ -417,16 +424,17 @@ script 22 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Mr.Famous
-	recommends it.
-	Want to go?
+	O Sr. Famoso
+	recomendou.
+	Por que não?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I want to meet this
-	KendoMan,too.
+	Além disso,eu também
+	quero conhecer esse
+	KendoMan.
 	"""
 	keyWait
 		any = false
@@ -438,9 +446,8 @@ script 23 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Yeah,I do,too.
-	Let's go to
-	NetFrica!
+	É,eu também.
+	Vamos pra Affriq!
 	"""
 	keyWait
 		any = false
@@ -451,9 +458,9 @@ script 24 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Mr.Famous,I'm
-	gonna go to NetFrica
-	for a bit!
+	Sr. Famoso,eu vou
+	dar uma passada na
+	Affriq!
 	"""
 	keyWait
 		any = false
@@ -464,14 +471,14 @@ script 24 mmbn4 {
 script 25 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
-	"Have a nice trip!"
+	"Faça uma boa\nviagem!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And don't get Kendo-
-	Man mad! He can be
-	a scary Navi!
+	E não irrite o
+	KendoMan! Ele pode
+	ser assustador!
 	"""
 	keyWait
 		any = false
@@ -483,16 +490,16 @@ script 26 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Is he that scary?
-	Maybe we shouldn't
-	meet him after all.
+	É mesmo? Então a
+	gente devia esquecer
+	de conhecer ele...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just kidding!
-	Let's go!
+	É zoeira!
+	Vamos lá!
 	"""
 	keyWait
 		any = false
@@ -504,9 +511,9 @@ script 27 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	Tell the leader of
-	the youth organi-
-	zation hi for me.
+	Diga ao líder da or-
+	ganização dos jovens
+	que eu mandei um oi.
 	"""
 	keyWait
 		any = false
@@ -520,13 +527,13 @@ script 28 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	So Mr.Famous was in
-	NetFrica.
+	Então,o Sr. Famoso
+	estava na Affriq...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Look now!"
+	"Quem diria!"
 	keyWait
 		any = false
 	end
@@ -536,8 +543,7 @@ script 29 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What is it,
-	Mr.Famous?
+	Que foi,Sr. Famoso?
 	"""
 	keyWait
 		any = false
@@ -552,9 +558,9 @@ script 30 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	I got the feeling
-	somebody was looking
-	at me. Guess not!
+	Achei que tinha al-
+	guém me observando.
+	Acho que me enganei!
 	"""
 	keyWait
 		any = false
@@ -567,8 +573,8 @@ script 31 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Okay,I'll see you
-	later then!
+	Beleza. Bom,até
+	depois!
 	"""
 	keyWait
 		any = false
@@ -579,7 +585,7 @@ script 31 mmbn4 {
 script 32 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
-	"Take care!"
+	"Se cuidem!"
 	keyWait
 		any = false
 	end

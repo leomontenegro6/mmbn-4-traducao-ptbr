@@ -154,9 +154,9 @@ script 9 mmbn4 {
 		buffer = 0
 		item = 2
 	"""
-	" is being
-	sold in this area,
-	right?
+	" tá sendo
+	vendido nesta área,
+	né?
 	"""
 	keyWait
 		any = false
@@ -202,7 +202,7 @@ script 20 mmbn4 {
 	"""
 	MegaMan! Não sai do
 	pé daquele Navi
-	Preto!
+	Roxo!
 	"""
 	keyWait
 		any = false
@@ -232,9 +232,9 @@ script 22 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Jack out,MegaMan!
-	I'll look for a way
-	to stop the noise!
+	Desconecta,MegaMan!
+	Vou achar um jeito
+	de parar o som!
 	"""
 	keyWait
 		any = false
@@ -257,9 +257,9 @@ script 24 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Roll's in trouble!
-	Let's go back to the
-	ElTwrComp!
+	A Roll tá em apuros!
+	Vamos voltar pro
+	CPUEletTorr!
 	"""
 	keyWait
 		any = false
@@ -309,8 +309,8 @@ script 30 mmbn4 {
 	msgOpen
 	"""
 	MegaMan,bora sair da
-	Rede e ir pro
-	EletroVila Plaza!
+	Rede e ir pra Praça
+	da EletroVila!
 	"""
 	keyWait
 		any = false
@@ -335,8 +335,8 @@ script 32 mmbn4 {
 	msgOpen
 	"""
 	Pronto,inscritos.
-	De volta ao
-	EletroVila Plaza!
+	De volta à Praça
+	da EletroVila!
 	"""
 	keyWait
 		any = false
@@ -359,9 +359,9 @@ script 33 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Quando terminarmos
-	os pedidos,bora pro
-	EletroVila Plaza!
+	Já que terminamos
+	as missões,bora pra
+	Praça da EletroVila!
 	"""
 	keyWait
 		any = false
@@ -385,9 +385,9 @@ script 36 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	No one's going to
-	stop us from making
-	it to the finals!
+	Ninguém vai impedir
+	a gente de chegar
+	nas finais!
 	"""
 	keyWait
 		any = false
@@ -412,9 +412,9 @@ script 131 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	The kidnapper's clue
-	should help us find
-	Chisao!
+	A pista do seques-
+	trador pode dizer
+	onde achar o Chisao!
 	"""
 	keyWait
 		any = false
@@ -455,8 +455,8 @@ script 132 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Vamos lá pro
-	EletroVila Plaza!
+	Vamos lá pra
+	Praça da EletroVila!
 	"""
 	keyWait
 		any = false
@@ -664,9 +664,9 @@ script 161 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,let's give
-	the top to that
-	elderly man.
+	MegaMan,vamos dar o
+	pião pra aquele
+	senhorzinho.
 	"""
 	keyWait
 		any = false
@@ -709,8 +709,8 @@ script 164 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,bora pro
-	EletroVila Plaza
+	MegaMan,bora pra
+	Praça da EletroVila
 	também!
 	"""
 	keyWait
@@ -735,9 +735,8 @@ script 166 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	The Chief's Navi
-	should be in this
-	ACDC Area,right?
+	O Navi do Chefe tá
+	nesta área,né?
 	"""
 	keyWait
 		any = false
@@ -783,8 +782,8 @@ script 172 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Whoa! The Net's been
-	flooded! Jack out,
+	Caramba! A Rede
+	inundou! Desconecta,
 	MegaMan!
 	"""
 	keyWait
@@ -834,9 +833,9 @@ script 176 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan! Let's get
-	over to Shuko! We go
-	on the Net later!
+	MegaMan! Vamos até
+	a Shuko! Deixa isso
+	pra depois!
 	"""
 	keyWait
 		any = false
@@ -891,9 +890,9 @@ script 181 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yuko's waiting
-	outside the Dome! We
-	go on the Net later!
+	A Yuko tá esperando
+	perto do Domo! De-
+	pois a gente volta!
 	"""
 	keyWait
 		any = false
@@ -1176,9 +1175,9 @@ script 216 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hurry to the Town
-	Area! We've got to
-	save NumbrMan!
+	Pra Área Vila!
+	Temos que salvar o
+	NumberMan!
 	"""
 	keyWait
 		any = false

@@ -5,21 +5,21 @@ script 0 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME TO THE KING-
-	DOM OF FANTASIES!
+	BEM-VINDO AO REINO
+	DA FANTASIA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THAT'S RIGHT! THIS
-	IS THE CELESTIAL
-	PALACE,CASTILLO!!
+	ISSO MESMO! ESTE
+	É CASTILLO,O
+	PALÁCIO CELESTIAL!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"WOWOWOW!!"
+	"UAAAAAH!!"
 	keyWait
 		any = false
 	end
@@ -34,40 +34,44 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"HI! IN AN EFFORT TO"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	BRING CASTILLO
-	CLOSER TO EVERYONE,
+	OLÁ! COM A MISSÃO
+	DE TRAZER O CASTILLO
+	PARA MAIS PERTINHO
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WE ARE OFFERING THE
-	INSTALLATION OF
+	DE TODO MUNDO,
+	ESTAMOS OFERECENDO
+	A INSTALAÇÃO DE
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SYNTHETIC LINKS!
-	A SYNTHETIC LINK
+	LINKS SINTÉTICOS!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WILL CONNECT YOUR HP
-	DIRECTLY WITH
-	CASTILLO'S! SHALL I
+	LINKS SINTÉTICOS
+	CONECTAM A SUA
+	PÁGINA DIRETAMENTE
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"INSTALL ONE?"
+	"""
+	À PÁGINA DO
+	CASTILLO!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"GOSTARIA QUE EU\nINSTALASSE UM?"
 	keyWait
 		any = false
 	clearMsg
@@ -106,11 +110,11 @@ script 4 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
-	"VERY WELL! PERHAPS"
+	"TUDO BEM,ENTÃO!"
 	keyWait
 		any = false
 	clearMsg
-	"NEXT TIME,THEN!"
+	"TALVEZ NA PRÓXIMA!"
 	keyWait
 		any = false
 	end
@@ -120,8 +124,8 @@ script 5 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WONDERFUL! HERE,THIS
-	IS FOR YOU.
+	MARAVILHA!
+	TOME,PARA VOCÊ.
 	"""
 	keyWait
 		any = false
@@ -149,25 +153,26 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	OK! IT'S SHOWTIME!
-	I SHALL NOW CREATE
+	OK! HORA DO SHOW!
+	DIANTE DOS SEUS
+	OLHOS,CRIAREI O
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE SYNTHETIC LINK!
-	THREE,
+	LINK SINTÉTICO!
+	TRÊS,
 	"""
 	waitSkip
 		frames = 30
-	"TWO,"
+	"DOIS,"
 	waitSkip
 		frames = 30
-	"ONE,"
+	"UM,"
 	waitSkip
 		frames = 30
-	"\nBATA-BOOM! FINIS!"
+	"\nCABUM! FINIS!"
 	keyWait
 		any = false
 	clearMsg
@@ -183,13 +188,12 @@ script 6 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS IS THE CYBER-
-	FANTASY KINGDOM,
+	ESTE É CASTILLO,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"CASTILLO!"
+	"O REINO DA\nCYBER-FANTASIA!"
 	keyWait
 		any = false
 	end
@@ -224,23 +228,24 @@ script 10 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I hear there's going
-	to be a tournament
+	Parece que está
+	havendo um torneio
+	na Ameropa para
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	in Netopia to decide
-	the world's best
-	NetBattler.
+	decidir quem é o
+	melhor NetLutador
+	do mundo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder who'll
-	enter?
+	Quem será que vai
+	competir?
 	"""
 	keyWait
 		any = false
@@ -279,9 +284,9 @@ script 11 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	What happened at the
-	Eagle Tournament
-	awards ceremony?
+	O que foi aquilo na
+	premiação do
+	Torneio Águia?
 	"""
 	keyWait
 		any = false
@@ -317,16 +322,16 @@ script 12 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Hey! It's MegaMan!
-	Electopia's #1 Net
-	Navi! I want to
+	Ah! É o MegaMan!
+	O Navi #1 de Ni-Hon!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	become the best in
-	Electopia too!
+	Eu também pretendo
+	me tornar o melhor
+	de Ni-Hon!
 	"""
 	keyWait
 		any = false
@@ -337,9 +342,9 @@ script 13 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	What happened at the
-	Hawk Tournament
-	awards ceremony?
+	O que foi aquilo na
+	premiação do
+	Torneio Falcão?
 	"""
 	keyWait
 		any = false
@@ -350,16 +355,16 @@ script 15 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I had no idea you
-	were Electopia's #1
+	Eu nem imaginava que
+	você era o NetLuta-
+	dor #1 de Ni-Hon!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NetBattler! I almost
-	blue a circuit when
-	I saw you on TV!
+	Eu quase dei curto
+	quando te vi na TV!
 	"""
 	keyWait
 		any = false
@@ -370,25 +375,25 @@ script 16 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	Two crimes
-	perpetrated at
-	Castillo⋯
+	Dois crimes
+	cometidos no
+	Castillo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Something smells
-	fishier than a
-	can o' tuna,babe!
+	Aí tem coisa...
+	Coisa feia...
+	Coisa horrorosa!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ahahaha! Did you
-	like my detective
-	impersonation?
+	Ha ha! E aí,gostou
+	da minha imitação
+	de detetive?
 	"""
 	keyWait
 		any = false
@@ -399,20 +404,20 @@ script 17 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	A world-class
-	tournament⋯
+	Um torneio
+	mundial...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you win this,
-	you'll be called the
+	Se vencer ele,você
+	será considerado o
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"world champ!"
+	"campeão mundial!"
 	keyWait
 		any = false
 	end
@@ -422,17 +427,17 @@ script 20 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Some kind of
-	incident happened
-	on a foreign
+	Aconteceu alguma
+	coisa em uma Rede
+	estrangeira.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Net. I'd best
-	jack out before any-
-	thing happens here!
+	Melhor eu desconec-
+	tar antes que chegue
+	alguma coisa aqui!
 	"""
 	keyWait
 		any = false
@@ -443,14 +448,14 @@ script 21 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	Wasn't your operator
-	the one abducted in
-	that helicopter?
+	O seu operador não
+	foi levado naquele
+	helicóptero?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Where was he taken"
+	"Aonde será que o\nlevaram...?"
 	keyWait
 		any = false
 	clearMsg
@@ -463,13 +468,13 @@ script 21 mmbn4 {
 	"."
 	waitSkip
 		frames = 30
-	"You can't say?"
+	"\nNão pode falar?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh come on,
-	I won't tell anyone!
+	Ah,vai,eu guardo
+	segredo!
 	"""
 	keyWait
 		any = false
@@ -480,24 +485,25 @@ script 22 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	In the real world,
-	Electopia is
-	separated from other
+	No mundo real,
+	Ni-Hon fica separada
+	dos outros países
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	counrtries by an
-	ocean,but in the
-	cyberworld,
+	por um oceano,
+	mas,no mundo
+	cibernético,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	crimes overseas
-	affect us here too!
+	crimes estrangeiros
+	também nos afetam
+	aqui!
 	"""
 	keyWait
 		any = false
@@ -508,8 +514,8 @@ script 25 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I guess I'll jack
-	out⋯
+	Acho que eu vou
+	desconectar...
 	"""
 	keyWait
 		any = false
@@ -519,13 +525,12 @@ script 26 mmbn4 {
 	mugshotShow
 		mugshot = NaviGirlOrange
 	msgOpen
-	"Oh no! My operator's"
+	"Essa não! O meu\noperador tá\nchamando!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	calling! I have to
-	go!
+	Eu tenho que ir!
 	"""
 	keyWait
 		any = false
@@ -536,9 +541,9 @@ script 27 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	That overseas
-	incident might have
-	an impact on us.
+	O incidente no exte-
+	rior pode surtir um
+	impacto sobre nós.
 	"""
 	keyWait
 		any = false
@@ -553,8 +558,8 @@ script 220 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Welcome to my
-	program shop!
+	Bem-vindo à minha
+	loja de programas!
 	
 	"""
 	positionOptionHorizontal
@@ -567,7 +572,7 @@ script 220 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Look  "
+	"Olhar  "
 	option
 		brackets = false
 		left = 0
@@ -576,7 +581,7 @@ script 220 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Don't look"
+	"Não olhar"
 	select
 		default = 0
 		noDelay = false
@@ -593,7 +598,7 @@ script 220 mmbn4 {
 }
 script 221 mmbn4 {
 	clearMsg
-	"Come again!"
+	"Volte sempre!"
 	keyWait
 		any = false
 	end
@@ -603,8 +608,8 @@ script 222 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Sorry,I'm all out of
-	merchandise⋯
+	Desculpe,acabou a
+	minha mercadoria...
 	"""
 	keyWait
 		any = false

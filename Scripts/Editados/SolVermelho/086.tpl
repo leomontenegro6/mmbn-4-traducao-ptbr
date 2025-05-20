@@ -34,7 +34,7 @@ script 11 mmbn4 {
 	msgOpen
 	"""
 	A gente tem que
-	mudar a órbita do
+	mudar o curso do
 	asteroide,senão...!
 	"""
 	keyWait
@@ -47,8 +47,8 @@ script 12 mmbn4 {
 	msgOpen
 	"""
 	Rápido,altera a
-	órbita do asteroide,
-	MegaMan!
+	trajetória do
+	asteroide,MegaMan!
 	"""
 	keyWait
 		any = false

@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Huh?"
+	"Ué?"
 	keyWait
 		any = false
 	end
@@ -13,7 +13,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What is it,MegaMan?"
+	"Que foi,MegaMan?"
 	keyWait
 		any = false
 	clearMsg
@@ -23,23 +23,23 @@ script 2 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The heat died down
-	all of a sudden⋯
+	O calor todo passou
+	de repente...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It looks like the
-	flames are out.
+	Parece que todas as
+	chamas se apagaram.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder if FireMan
-	and BurnMan left
-	ACDC?
+	Será que FireMan
+	e BurnMan saíram
+	da Área ACDC?
 	"""
 	keyWait
 		any = false
@@ -52,9 +52,9 @@ script 3 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Are they fighting
-	across different
-	areas!
+	Eles tão lutando
+	por várias áreas
+	diferentes!
 	"""
 	keyWait
 		any = false
@@ -67,25 +67,24 @@ script 4 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	No,I think the
-	match is sooner than
-	you thought,
+	Não,eu acho que a
+	luta é mais cedo do
+	que você achava,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so Atsuki probably
-	called off the
-	fight.
+	e o Atsuki parou a
+	briga.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I doubt he'd give up
-	the tourney for a
-	stupid fight.
+	Duvido que ele de-
+	sistiria do torneio
+	por uma briguinha.
 	"""
 	keyWait
 		any = false
@@ -98,15 +97,16 @@ script 5 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah,you're probably
-	right.
+	É,acho que você
+	tá certo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'd better hurry to
-	the castle,too!
+	Melhor a gente ir
+	logo pro castelo,
+	também!
 	"""
 	keyWait
 		any = false
@@ -122,7 +122,7 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Okay!"
+	"Tá!"
 	keyWait
 		any = false
 	end

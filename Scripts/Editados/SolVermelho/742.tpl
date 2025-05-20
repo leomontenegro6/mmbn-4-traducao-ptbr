@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	What is it? There's
-	something weird
-	about those lions⋯
+	Mas o quê...?! Tem
+	alguma coisa estra-
+	nha com os leões!
 	"""
 	keyWait
 		any = false

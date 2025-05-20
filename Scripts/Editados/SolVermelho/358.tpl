@@ -5,22 +5,21 @@ script 10 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I AM EMITTING NEGA-
-	TIVE IONS,TRANSFORM-
-	ING MAYL'S ROOM INTO
+	ESTOU EMITINDO IONS
+	NEGATIVOS,DEIXANDO O
+	QUARTO DA MAYL MAIS
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A MORE RELAXING 
-	ENVIRONMENT.
-	GO,NEGATIVE IONS!
+	RELAXANTE.
+	VÃO,IONS NEGATIVOS!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"WHOOSH! WHOOSH!\n"
+	"VUÓN! VUÓN!\n"
 	keyWait
 		any = false
 	end

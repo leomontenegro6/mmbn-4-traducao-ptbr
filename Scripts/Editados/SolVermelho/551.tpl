@@ -6,7 +6,7 @@ script 0 mmbn4 {
 		height = 1
 	color
 		palette = 1
-	"YumLand"
+	"Saborya..."
 	keyWait
 		any = false
 	end
@@ -15,21 +15,21 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = BlackWoman
 	msgOpen
-	"I can see it!"
+	"Eu estou vendo!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan and Lan's
-	hidden power!!
+	É o poder oculto
+	de MegaMan e Lan!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Everyone,
-	let's yell
-	out to them!!
+	Amigos,vamos todos
+	gritar para que nos
+	ouçam!!
 	"""
 	keyWait
 		any = false
@@ -41,7 +41,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = SciLabMan
 	"""
-	KEEP IT UP,
+	AGUENTA FIRME,
 	ME-GA-MAN!!
 	"""
 	keyWait
@@ -63,7 +63,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = CapBoy
-	"MEGAMAN,GO FOR IT!!"
+	"MEGAMAN,VAI LÁ!!"
 	keyWait
 		any = false
 	clearMsg
@@ -73,7 +73,7 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = OldMan
-	"DON'T GIVE UP!!"
+	"NÃO DESISTA!!"
 	keyWait
 		any = false
 	end

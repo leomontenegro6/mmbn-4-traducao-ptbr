@@ -9,57 +9,58 @@ script 0 mmbn4 {
 		mugshot = Kosuke
 	msgOpen
 	"""
-	Quite an impressive
-	structure,no?
+	Que estrutura
+	impressionante,
+	não concorda?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is called the
-	Colosseum!
+	Este é o chamado
+	Coliseu!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Gladiators
-	used to battle here
-	ages ago,
+	Gladiadores antes
+	batalhavam aqui
+	em eras passadas,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	which is why this
-	place was chosen
+	e foi por isso que
+	esse lugar foi
+	escolhido
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	for the NetBattle
-	Tournament!
+	para o Torneio de
+	NetLuta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	After thousands of
-	years,
+	Após milênios,ele
+	será,mais uma vez,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it once again
-	will be a stage for
-	battle⋯
+	o palco de
+	batalhas...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Now that's epic!"
+	"Que incrível!"
 	keyWait
 		any = false
 	flagSet
@@ -71,17 +72,17 @@ script 1 mmbn4 {
 		mugshot = Kosuke
 	msgOpen
 	"""
-	I want to be a
-	tourist guide when
-	I grow up.
+	Eu quero ser
+	guia turístico
+	quando crescer.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then I can
-	tell the world how
-	great Netopia is!
+	Aí,falarei pra todo
+	o mundo o quanto a
+	Ameropa é incrível!
 	"""
 	keyWait
 		any = false
@@ -95,16 +96,16 @@ script 2 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	I just hope they can
-	find some good Net-
-	Battlers
+	Só espero que
+	encontrem
+	NetLutadores bons
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	for the Red
-	Sun Tournament⋯
+	pro Torneio Sol
+	Vermelho...
 	"""
 	keyWait
 		any = false
@@ -115,16 +116,17 @@ script 3 mmbn4 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	What a brilliant ar-
-	chitectural design!
+	Mas que desenho
+	arquitetônico
+	brilhante!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And to think,it was
-	built thousands of
-	years ago!
+	É até difícil acre-
+	ditar que foi cons-
+	truído há milênios!
 	"""
 	keyWait
 		any = false
@@ -140,17 +142,17 @@ script 4 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	This must be the
-	famed "Unsung Hero"!
-	It's a master-
+	Esse deve ser o
+	famoso "Herói Não
+	Celebrado". Uma
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	piece of ancient
-	history and futur-
-	istic technology!
+	relíquia da história
+	ancestral e da tec-
+	nologia futurista!
 	"""
 	keyWait
 		any = false
@@ -181,14 +183,14 @@ script 5 mmbn4 {
 		mugshot = Yuko
 	msgOpen
 	"""
-	If you throw a coin
-	into this fountain
-	and make a wish,they
+	Se jogar uma moeda
+	nessa fonte e fizer
+	um desejo,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"say it'll come true!"
+	"dizem que ele se\nrealiza!"
 	keyWait
 		any = false
 	end
@@ -198,16 +200,16 @@ script 6 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	I just hope they can
-	find some good Net
+	Só espero que
+	encontrem
+	NetLutadores bons
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Battlers for the
-	Blue Moon
-	Tournament⋯
+	pro Torneio Lua
+	Azul...
 	"""
 	keyWait
 		any = false
@@ -233,17 +235,17 @@ script 10 mmbn4 {
 		mugshot = Kosuke
 	msgOpen
 	"""
-	People are coming
-	from all over the
-	world to see this
+	Tem gente vindo de
+	todo o mundo para
+	ver esse torneio.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	tournament. I hope
-	they can find Net-
-	opia's history too!
+	Espero que aprendam
+	sobre a história da
+	Ameropa,também!
 	"""
 	keyWait
 		any = false
@@ -268,20 +270,20 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = BlackMan
 	msgOpen
-	"Hi Lan! Sorry for"
+	"Oi,Lan! Foi mal por\npegar tão pesado\ncom você ontem!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	being so rough with
-	you yesterday! To
+	Pra compensar,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	make up,I'm going to
-	root for you!
+	pode deixar que eu
+	vou torcer muito por
+	você!
 	"""
 	keyWait
 		any = false
@@ -292,17 +294,17 @@ script 12 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Netopia's sculptures
-	are all so beautiful
-	one can't help but
+	A esculturas da Ame-
+	ropa são todas tão
+	lindas. É impossível
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	admire them⋯Oh,the
-	tournament's start-
-	ing! Back to work!
+	não admirá-las. Ah,
+	vai começar o tor-
+	neio! Ao trabalho!
 	"""
 	keyWait
 		any = false
@@ -313,13 +315,14 @@ script 13 mmbn4 {
 		mugshot = Yuko
 	msgOpen
 	"""
-	Hmmm⋯
-	Decisions⋯decisions⋯
+	Hmmm...
+	É tão difícil me
+	decidir...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What'll I wish for⋯?"
+	"O que eu desejo...?"
 	keyWait
 		any = false
 	end
@@ -344,14 +347,14 @@ script 14 mmbn4 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	This tournament will
-	decide the world's
-	best NetBattler!
+	Esse torneio vai
+	definir o melhor
+	NetLutador do mundo!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I can't wait!!"
+	"Eu mal posso\nesperar!!"
 	keyWait
 		any = false
 	end
@@ -364,24 +367,24 @@ script 15 mmbn4 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	I came today to see
-	the Red Sun Tourna-
+	Eu vim ver o Torneio
+	Sol Vermelho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ment. It's not every
-	day you can see the
-	world's best,battle
+	Não é sempre que dá
+	pra ver os melhores
+	do mundo lutarem!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it out! Can you hear
-	that? It's the sound
-	of my beating heart!
+	Tá ouvindo isso?
+	É o meu coração
+	batendo a mil!
 	"""
 	keyWait
 		any = false
@@ -392,25 +395,24 @@ script 16 mmbn4 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	I came today to see
-	the Blue Moon
-	Tournament.
+	Eu vim ver o Torneio
+	Lua Azul.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's not everyday
-	you can see the
-	world's best,battle
+	Não é sempre que dá
+	pra ver os melhores
+	do mundo lutarem!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it out! Can you hear
-	that? It's the sound
-	of my beating heart!
+	Tá ouvindo isso?
+	É o meu coração
+	batendo a mil!
 	"""
 	keyWait
 		any = false
@@ -421,9 +423,9 @@ script 19 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Just concentrate on
-	passing Round 1.
-	Clear your mind!
+	É só focar em passar
+	pela primeira roda-
+	da. Limpe a mente!
 	"""
 	keyWait
 		any = false
@@ -434,17 +436,17 @@ script 20 mmbn4 {
 		mugshot = Kosuke
 	msgOpen
 	"""
-	Look at the crowd!
-	I wonder how many
-	millennia its been
+	Olha só essa gente!
+	Quantos milênios se
+	passaram desde a
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	since the last time
-	the Colosseum was
-	full?
+	última vez que o
+	Coliseu ficou cheio
+	assim?
 	"""
 	keyWait
 		any = false
@@ -455,13 +457,13 @@ script 21 mmbn4 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Hahahaha!
-	Good luck Lan!
+	Ha ha ha ha!
+	Boa,Lan!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm pulling for you!"
+	"Tô torcendo por\nvocê!"
 	keyWait
 		any = false
 	end
@@ -471,16 +473,15 @@ script 22 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	I'm in charge of
-	making sure
-	the tournament
+	Estou me assegurando
+	que o torneio
+	prossiga sem
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	progresses
-	smoothly!
+	problemas!
 	"""
 	keyWait
 		any = false
@@ -490,15 +491,15 @@ script 23 mmbn4 {
 	mugshotShow
 		mugshot = Yuko
 	msgOpen
-	"Ummm⋯I wanna be a"
+	"Hmm... Eu quero ser\numa princesa!"
 	keyWait
 		any = false
 	clearMsg
-	"princess! ⋯On second"
+	"... Não,espera!"
 	keyWait
 		any = false
 	clearMsg
-	"thought,maybe not⋯"
+	"Mudei de ideia..."
 	keyWait
 		any = false
 	end
@@ -508,13 +509,14 @@ script 24 mmbn4 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	I can't wait to see
-	which country's Net
+	Mal posso esperar
+	pra ver de qual país
+	vai ser o NetLutador
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Battler will win!"
+	"que vai vencer!"
 	keyWait
 		any = false
 	end
@@ -538,8 +540,8 @@ script 25 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	I came to cheer you
-	on. Good luck,Lan!
+	Eu vim torcer por
+	você. Boa sorte,Lan!
 	"""
 	keyWait
 		any = false
@@ -566,9 +568,9 @@ script 26 mmbn4 {
 		mugshot = Dex
 	msgOpen
 	"""
-	We came all the way
-	here to cheer for
-	you! You better win!
+	A gente veio lá de
+	Ni-Hon pra torcer
+	por você! Vence,viu!
 	"""
 	keyWait
 		any = false
@@ -595,17 +597,17 @@ script 27 mmbn4 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Heehee! Surprised,
-	aren't you? With my
-	private jet,coming
+	Hi hi! Surpreso?
+	Com o meu jatinho
+	particular,vir pra
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to Netopia is just
-	like walking around
-	the neighborhood!
+	Ameropa é pratica-
+	mente como dar uma
+	volta na esquina!
 	"""
 	keyWait
 		any = false
@@ -618,13 +620,13 @@ script 28 mmbn4 {
 		mugshot = Dex
 	msgOpen
 	"""
-	If you lose the
-	Round 1,I'm gonna
+	Se você perder na
+	primeira rodada,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"whoop you!"
+	"vai levar um\nsopapo meu!"
 	keyWait
 		any = false
 	end
@@ -634,16 +636,17 @@ script 29 mmbn4 {
 		mugshot = Yai
 	msgOpen
 	"""
-	While I'm here,maybe
-	I'll go check out
-	the sights⋯
+	Já que eu tô aqui,
+	acho que vou dar uma
+	de turista...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Of course I'll cheer
-	for you too,Lan.
+	Ah,mas eu vou torcer
+	por você também,Lan.
+	Claro.
 	"""
 	keyWait
 		any = false
@@ -654,9 +657,9 @@ script 30 mmbn4 {
 		mugshot = Kosuke
 	msgOpen
 	"""
-	You can even hear
-	the cheering outside
-	the Colosseum!
+	Dá pra ouvir a
+	torcida até de
+	fora do Coliseu!
 	"""
 	keyWait
 		any = false
@@ -667,15 +670,17 @@ script 31 mmbn4 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Wo-hoo! You're doin'
-	purdy good,Lanny! 
+	Urrú! Você tá
+	mandando benzaço
+	lá,Lanny! 
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Who knows? You may
-	be the world champ!
+	Olha,acho até que
+	você vai sair
+	campeão mundial!
 	"""
 	keyWait
 		any = false
@@ -686,17 +691,17 @@ script 32 mmbn4 {
 		mugshot = Yuko
 	msgOpen
 	"""
-	I wish to have Net-
-	Frica's Nupopo
-	statue!
+	Eu quero possuir
+	a estátua de
+	Nupopo,da Affriq!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯No,that's not
-	what I want. I don't
-	know what I want!
+	... Não,não é esse o
+	meu desejo. Eu não
+	sei o que eu quero!
 	"""
 	keyWait
 		any = false
@@ -707,9 +712,9 @@ script 33 mmbn4 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	These matches are
-	brutal! I can't wait
-	to see the next one!
+	Essas lutas são
+	brutais! Estou
+	ansioso pra próxima!
 	"""
 	keyWait
 		any = false
@@ -720,21 +725,21 @@ script 34 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Feeling tired from
-	the 1st match?
+	Já tá cansado depois
+	da primeira luta?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just two more,
-	and you're
-	the world champ!
+	Só mais duas e você
+	é coroado o campeão
+	mundial!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"You're amazing,Lan!"
+	"Você é incrível,Lan!"
 	keyWait
 		any = false
 	end
@@ -744,9 +749,9 @@ script 35 mmbn4 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Alright! Keep fight-
-	ing like that and
-	the title's yours!
+	Beleza! Continua
+	lutando assim e o
+	ouro tá garantido!
 	"""
 	keyWait
 		any = false
@@ -757,9 +762,9 @@ script 36 mmbn4 {
 		mugshot = Yai
 	msgOpen
 	"""
-	I guess your victory
-	at the nationals
-	wasn't a fluke⋯
+	Acho que a sua
+	vitória no nacional
+	não foi só sorte...
 	"""
 	keyWait
 		any = false
@@ -770,14 +775,14 @@ script 40 mmbn4 {
 		mugshot = Kosuke
 	msgOpen
 	"""
-	Next are the finals!
-	The world's top 2'll
-	battle at the Colos-
+	A seguir,a final!
+	Os dois melhores do
+	mundo vão lutar no
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"seum! How intense!!"
+	"Coliseu! Que tensão!"
 	keyWait
 		any = false
 	end
@@ -786,26 +791,27 @@ script 41 mmbn4 {
 	mugshotShow
 		mugshot = BlackMan
 	msgOpen
-	"Lan! You're blowing"
+	"Lan! Cê tá me\ndeixando besta!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	me away!! I never
-	thought the guy I
+	Nunca achei que o
+	menino que eu
+	qualifiquei nas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	qualified in the
-	preliminaries would
-	make it to the
+	preliminares
+	chegaria nas
+	finais!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"finals! WOO-HOO!!"
+	"IIIRRRA!!"
 	keyWait
 		any = false
 	end
@@ -815,17 +821,17 @@ script 42 mmbn4 {
 		mugshot = Yuko
 	msgOpen
 	"""
-	There are so many
-	things I want,I
-	don't know which to
+	Tem tantas coisas
+	que eu quero,que
+	eu não sei por qual
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ask for! Alright. I
-	want to marry a rich
-	guy when I grow up!
+	pedir! Tá. Quero me
+	casar com um ricaço
+	quando crescer!
 	"""
 	keyWait
 		any = false
@@ -835,18 +841,17 @@ script 43 mmbn4 {
 	mugshotShow
 		mugshot = BusinessMan
 	msgOpen
-	"Hey Lan!"
+	"Ei,Lan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Good luck!!
-	I'm your biggest
+	Boa sorte!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"fan!!"
+	"Sou o seu fã\nnúmero 1!!"
 	keyWait
 		any = false
 	end
@@ -856,13 +861,13 @@ script 44 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	I'm so excited I
-	could just pass out!
+	Eu tô tão animada
+	que tô pra desmaiar!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Good luck,Lan!!"
+	"Boa sorte,Lan!!"
 	keyWait
 		any = false
 	end
@@ -872,32 +877,33 @@ script 45 mmbn4 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Whoa! You made it to
-	the finals!
+	Caramba! Cê chegou
+	nas finais!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think I'm more
-	nervous than you!!
+	Acho que eu tô ainda
+	mais nervoso que
+	você!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It wasn't just luck
-	or chance that
-	brought you this far
+	Não foi só acaso
+	que te trouxe
+	longe assim,Lan.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Lan. It was your"
+	"Não..."
 	keyWait
 		any = false
 	clearMsg
-	"skills!! "
+	"Foram as suas\nhabilidades!!"
 	keyWait
 		any = false
 	end
@@ -907,9 +913,8 @@ script 46 mmbn4 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Go show the world
-	what Electopian
-	Power's all about!
+	Mostra pro mundo o
+	poder de Ni-Hon!
 	"""
 	keyWait
 		any = false
@@ -924,21 +929,21 @@ script 50 mmbn4 {
 	mugshotShow
 		mugshot = Kosuke
 	msgOpen
-	"The final match was"
+	"A luta final foi\nincrível!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	great! I especially
-	enjoyed the helicop-
-	ter show afterwards!
+	Em particular,eu
+	adorei o show de
+	helicóptero depois!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What?
-	That wasn't a show?!
+	Ué?
+	Não foi um show?!
 	"""
 	keyWait
 		any = false
@@ -953,25 +958,26 @@ script 51 mmbn4 {
 	mugshotShow
 		mugshot = BlackMan
 	msgOpen
-	"Far out!! I never"
+	"Que louco!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	dreamed the boy I
-	was in charge of
-	would win! I'm proud
+	Eu nunca imaginei
+	que o menino de quem
+	eu fiquei encarregado
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"to be a member of"
+	"venceria o torneio!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the NetBattle
-	Association!
+	Fico tão orgulhoso
+	de ser da Associação
+	de NetLuta!
 	"""
 	keyWait
 		any = false
@@ -990,9 +996,9 @@ script 52 mmbn4 {
 		mugshot = Yuko
 	msgOpen
 	"""
-	It's quiet now that
-	the Red Sun
-	Tournament is over.
+	Está tão silencioso
+	agora que o Torneio
+	Sol Vermelho acabou.
 	"""
 	keyWait
 		any = false
@@ -1003,9 +1009,9 @@ script 53 mmbn4 {
 		mugshot = Yuko
 	msgOpen
 	"""
-	It's quiet now that
-	the Blue Moon
-	Tournament is over.
+	Está tão silencioso
+	agora que o Torneio
+	Lua Azul acabou.
 	"""
 	keyWait
 		any = false
@@ -1016,16 +1022,15 @@ script 55 mmbn4 {
 		mugshot = Kosuke
 	msgOpen
 	"""
-	I wonder when the
-	next time will be
-	when a battle is
+	Quando será que
+	mais batalhas vão
+	ser travadas aqui,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	held at the
-	Colosseum⋯
+	no Coliseu...?
 	"""
 	keyWait
 		any = false
@@ -1036,16 +1041,16 @@ script 56 mmbn4 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	I heard from a
-	friend on the
-	surface
+	Um amigo do mundo
+	externo me disse
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that something hap-
-	pened on the Net.
+	que tá rolando
+	alguma coisa na
+	Rede.
 	"""
 	keyWait
 		any = false
@@ -1056,8 +1061,8 @@ script 57 mmbn4 {
 		mugshot = Yuko
 	msgOpen
 	"""
-	I'd better be
-	heading home.
+	É melhor eu voltar
+	pra casa.
 	"""
 	keyWait
 		any = false
@@ -1068,16 +1073,16 @@ script 60 mmbn4 {
 		mugshot = Kosuke
 	msgOpen
 	"""
-	It's scary being
-	ordered indoors with
-	no explanation.
+	Dá medo receber uma
+	ordem de ficar em
+	casa sem explicação.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Which door should
-	I go in?
+	Que porta eu devo
+	usar?
 	"""
 	keyWait
 		any = false
@@ -1093,29 +1098,25 @@ script 61 mmbn4 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	I just got word from
-	HQ to order
+	Acabei de receber
+	ordens do QG pra
+	mandar os civis
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	civilians indoors,
-	but the reason is
+	ficarem em casa,mas
+	o motivo pra isso é
+	confidencial.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	top secret.
-	I don't know what
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	the higher-ups are
-	thinking!
+	Eu não entendo o que
+	os figurões tão
+	pensando!
 	"""
 	keyWait
 		any = false
@@ -1126,13 +1127,17 @@ script 65 mmbn4 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	I'm,like,a civilian.
-	So,um,I gotta like,
+	Eu sou,tipo,um
+	civil.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"run hide somewhere!"
+	"""
+	Então,er... melhor
+	eu arranjar um lugar
+	pra me esconder!
+	"""
 	keyWait
 		any = false
 	end
@@ -1151,9 +1156,9 @@ script 131 mmbn4 {
 		mugshot = Raoul
 	msgOpen
 	"""
-	Hurry.
-	We don't have much
-	time left.
+	Rápido.
+	Não temos muito
+	tempo.
 	"""
 	keyWait
 		any = false
@@ -1164,8 +1169,8 @@ script 200 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The door in the back
-	is locked shut.
+	A porta de entrada
+	está bem trancada.
 	"""
 	keyWait
 		any = false
@@ -1181,7 +1186,7 @@ script 220 mmbn4 {
 	msgOpen
 	"""
 	Posso fornecer um
-	dos meus SubChips...
+	ou dois SubChips...
 	"""
 	keyWait
 		any = false
@@ -1197,7 +1202,7 @@ script 220 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Look  "
+	"Olhar  "
 	option
 		brackets = false
 		left = 0
@@ -1206,7 +1211,7 @@ script 220 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Don't look"
+	"Não olhar"
 	select
 		default = 0
 		noDelay = false

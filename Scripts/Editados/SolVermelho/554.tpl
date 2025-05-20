@@ -4,11 +4,11 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Go,MegaMan!"
+	"Vai,MegaMan!"
 	keyWait
 		any = false
 	clearMsg
-	"We're all behind ya!"
+	"Tá todo mundo\ntorcendo por você!"
 	keyWait
 		any = false
 	clearMsg
@@ -40,8 +40,8 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	What the?!
-	MegaMan,MegaMan!!
+	Mas o que...?!
+	MegaMan! MegaMan!!
 	"""
 	keyWait
 		any = false
@@ -51,13 +51,14 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What's going on?!"
+	"O que tá\nacontecendo?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why've I been cut
-	off from MegaMan?!
+	Por que eu perdi
+	contato com o
+	MegaMan?!
 	"""
 	keyWait
 		any = false
@@ -68,22 +69,23 @@ script 4 mmbn4 {
 		mugshot = Regal
 	msgOpen
 	"""
-	Seems a power cable
-	has snapped.
+	Parece que um cabo
+	de força se partiu.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The high voltage
-	must've did him in.
+	A alta voltagem
+	deve ter lhe cortado
+	do seu Navi.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's no way to
-	operate him now.
+	É impossível
+	operá-lo agora.
 	"""
 	keyWait
 		any = false
@@ -94,7 +96,7 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Nooo!!"
+	"Não!!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -105,9 +107,9 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Regal
 	"""
-	At this point,
-	there's only one
-	way to revive him.
+	A esta altura,só
+	há um jeito de
+	remediar isso.
 	"""
 	keyWait
 		any = false
@@ -118,7 +120,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"There's still hope?!"
+	"Então ainda tem\nesperança?!"
 	keyWait
 		any = false
 	clearMsg
@@ -129,14 +131,14 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Regal
 	"""
-	We must bypass the
-	snapped cable to
-	restore power⋯
+	Devemos conectar os
+	fios no cabo para
+	religar a energia...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯LIKE THIS!!"
+	"... ASSIM!!"
 	keyWait
 		any = false
 	end
@@ -165,13 +167,14 @@ script 10 mmbn4 {
 script 11 mmbn4 {
 	mugshotShow
 		mugshot = Regal
-	"Don't get me wrong."
+	"Não me entenda mal."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I shall create a
-	world of utter evil.
+	Eu ainda hei de
+	criar um mundo de
+	pura maldade.
 	"""
 	keyWait
 		any = false
@@ -195,8 +198,8 @@ script 13 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,MEGAMAN!
-	Hang in there!!
+	MegaMan! MEGAMAN!
+	Responde!!
 	"""
 	keyWait
 		any = false

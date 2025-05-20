@@ -4,21 +4,20 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Maid
 	msgOpen
-	"Nice work!"
+	"Bom trabalho!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here,let me give
-	you something for
-	all your hard work!
+	Aqui,um agrado pelo
+	seu trabalho árduo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's see,you
-	handed out 
+	Vejamos... Você
+	distribuiu 
 	"""
 	printBuffer
 		buffer = 1
@@ -29,7 +28,7 @@ script 0 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"so here you go!"
+	"então,aqui está!"
 	keyWait
 		any = false
 	clearMsg
@@ -69,9 +68,9 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Maid
 	"""
-	I've got more
-	customers now!
-	Business is booming!
+	Surgiram mais clien-
+	tes agora! Os negó-
+	cios tão bombando!
 	"""
 	keyWait
 		any = false
@@ -82,9 +81,9 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotHide
 	"""
-	Hahahahahaha!!!
-	You're just
-	floundering!
+	Ha ha ha ha ha ha!!!
+	Isso aí não vai
+	durar muito.
 	"""
 	keyWait
 		any = false
@@ -95,25 +94,25 @@ script 4 mmbn4 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	It doesn't matter
-	how much money you
-	make,it's too late!
+	Não importa quanta
+	grana vocês façam.
+	É tarde demais!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This place'll be
-	selling scrub
-	brushes tomorrow!
+	Amanhã,esta loja
+	vai estar vendendo
+	altas escovas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Ha!
-	Haha!
-	Hahahahahaha!!!
+	Ha ha!
+	Ha ha ha ha ha ha!!!
 	"""
 	keyWait
 		any = false
@@ -123,13 +122,14 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Maid
 	msgOpen
-	"Bah!!!"
+	"Hummmgh!!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's so frustrating!
-	We can't lose!!!
+	Que frustrante!
+	A gente NÃO PODE
+	perder!!!
 	"""
 	keyWait
 		any = false
@@ -141,8 +141,9 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	What's taking Higsby
-	so long,anyway?
+	Por que o Higsby
+	tá demorando tanto
+	pra voltar,hein?
 	"""
 	keyWait
 		any = false
@@ -154,17 +155,17 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Maid
 	"""
-	Huh?!
-	Yeah,he's taking
-	forever.
+	Hã?!
+	Nossa,verdade,ele
+	saiu faz tempo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Didn't he just head
-	over to the Higsby's
-	warehouse in town?
+	Ele só tinha ido pro
+	armazém do Higsby na
+	Área Vila,não?
 	"""
 	keyWait
 		any = false
@@ -176,8 +177,8 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I'll go see what
-	the hold-up is.
+	Eu vou lá ver o que
+	tá segurando ele.
 	"""
 	keyWait
 		any = false

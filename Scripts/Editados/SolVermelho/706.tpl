@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"This is bad⋯"
+	"O que foi que eu\nfiz...?"
 	keyWait
 		any = false
 	clearMsg
@@ -16,8 +16,9 @@ script 1 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Why did you accept
-	his challenge?!
+	Por que você foi
+	aceitar o desafio
+	dele?!
 	"""
 	keyWait
 		any = false
@@ -28,9 +29,9 @@ script 2 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I just kind of got
-	caught up in the
-	moment!
+	Ah,eu me deixei
+	levar pelo calor
+	do momento!
 	"""
 	keyWait
 		any = false
@@ -43,9 +44,9 @@ script 3 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,you don't know
-	how to make curry,
-	do you?
+	Lan,eu SEI que você
+	não sabe fazer
+	curry.
 	"""
 	keyWait
 		any = false
@@ -57,7 +58,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I could ask Mom⋯"
+	"Eu podia pedir pra\nmamãe me ensinar..."
 	keyWait
 		any = false
 	clearMsg
@@ -69,9 +70,9 @@ script 5 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	But do you know how
-	to use that cooking
-	machine?
+	Mas você sabe usar
+	aquela máquina
+	culinária?
 	"""
 	keyWait
 		any = false
@@ -82,11 +83,11 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Umm⋯Nope."
+	"Humm... Não."
 	keyWait
 		any = false
 	clearMsg
-	"What should we do?!"
+	"O que a gente faz?!"
 	keyWait
 		any = false
 	clearMsg
@@ -99,7 +100,7 @@ script 7 mmbn4 {
 	callPETEffect
 		effect = 2
 	soundDisableTextSFX
-	"*beep beep beep*"
+	"Bip Bip Bip"
 	wait
 		frames = 60
 	callPETEffect
@@ -116,36 +117,37 @@ script 8 mmbn4 {
 	msgOpen
 	soundEnableTextSFX
 	"""
-	Lan,you've got
-	mail. I'll read it.
+	Lan,chegou e-mail
+	para você. Eu vou
+	ler.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"You seem to be in a\n bind⋯If you want,I\n can initiate you in"
+	"\"Você parece estar\nnum aperto... Se\nquiser,posso te"
 	keyWait
 		any = false
 	clearMsg
-	" the secret arts of\n curry."
+	"iniciar nas artes\nsecretas do curry."
 	keyWait
 		any = false
 	clearMsg
-	" I'm waiting for you\n in Park Area2's\n Cooking Dojo!"
+	"Espero por você no\nDojô Culinário na\nÁrea Parque 2!"
 	keyWait
 		any = false
 	clearMsg
-	" -Cooking Master\""
+	"-Mestre-Cuca Mestre\""
 	keyWait
 		any = false
 	clearMsg
-	"That's all of it."
+	"E é isso."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The key to the
-	Cooking Dojo was
-	attached.
+	Veio anexada também
+	a chave pro Dojô
+	Culinário.
 	"""
 	keyWait
 		any = false
@@ -181,15 +183,16 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Who is this Cooking
-	Master,anyway?
+	Quem é esse
+	"Mestre-Cuca
+	Mestre",afinal?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Isn't it a little
-	suspicious?
+	Isso aí tá meio
+	suspeito,né?
 	"""
 	keyWait
 		any = false
@@ -202,9 +205,9 @@ script 11 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yeah⋯But he did
-	say he'd help us
-	out.
+	É... Mas ele disse
+	que ia ajudar a
+	gente.
 	"""
 	keyWait
 		any = false
@@ -217,17 +220,17 @@ script 12 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Well,yeah.
-	It's not like we got
-	a choice.
+	Bom... não é como se
+	a gente tivesse
+	muita escolha.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Okay!
-	Let's go check it
-	out,anyway.
+	Beleza!
+	Não custa nada ir lá
+	conferir.
 	"""
 	keyWait
 		any = false
@@ -239,7 +242,7 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger that!"
+	"De acordo!"
 	keyWait
 		any = false
 	end

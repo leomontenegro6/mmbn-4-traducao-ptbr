@@ -5,22 +5,22 @@ script 0 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Ladies and gentle-
-	men!!
+	Senhoras e senhores!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's have them
-	enter the arena!!
+	Os competidores
+	estão entrando na
+	arena!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Representing Net-
-	Frica,Paulie!!
+	Representando a
+	Affriq: Paulie!!
 	"""
 	keyWait
 		any = false
@@ -31,9 +31,9 @@ script 1 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	And over here,
-	representing
-	Electopia,Lan.
+	E do outro lado,
+	representando
+	Ni-Hon,Lan Hikari!
 	"""
 	keyWait
 		any = false
@@ -44,15 +44,16 @@ script 2 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Paulie,the river's
-	back to normal.
+	Paulie,o rio voltou
+	ao normal!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now you can focus
-	on our battle.
+	Agora você pode se
+	concentrar na nossa
+	luta.
 	"""
 	keyWait
 		any = false
@@ -63,11 +64,11 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = BlackKid
-	"I don't like you⋯"
+	"Eu não gosto de\nvocê..."
 	keyWait
 		any = false
 	clearMsg
-	"This battle's mine!"
+	"Esta luta tá no\npapo!"
 	keyWait
 		any = false
 	clearMsg
@@ -78,8 +79,9 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	What's with you? Was
-	it something I did?
+	O que deu em você?
+	Eu fiz alguma coisa
+	pra você?
 	"""
 	keyWait
 		any = false
@@ -91,15 +93,15 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = BlackKid
 	"""
-	Shut up
-	and fight!
+	Cala a boca e luta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm gonna beat you
-	and become no.1!
+	Eu vou te vencer e
+	me tornar o número
+	1!
 	"""
 	keyWait
 		any = false
@@ -110,7 +112,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Paulie⋯"
+	"Paulie..."
 	keyWait
 		any = false
 	end
@@ -119,12 +121,12 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
 	msgOpen
-	"Let's get it on!"
+	"Vamos começar!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan!
+	Lan Hikari!
 	Vs.
 	Paulie!!
 	"""
@@ -144,7 +146,7 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -155,8 +157,8 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	"""
-	We're the best in
-	our village!
+	Nós é que somos os
+	melhores da vila!
 	"""
 	keyWait
 		any = false

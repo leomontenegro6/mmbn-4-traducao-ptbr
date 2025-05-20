@@ -1,67 +1,67 @@
 @size 48
 
 script 0 mmbn4s {
-	" Jomon    Greeting     "
+	" Jomon    Saudações    "
 	end
 }
 script 1 mmbn4s {
-	" Shinya   New PET!     "
+	" Shinya   Novo PET!    "
 	end
 }
 script 2 mmbn4s {
-	" Mitsu    RE:New PET!  "
+	" Mitsu    RE:Novo PET! "
 	end
 }
 script 3 mmbn4s {
-	" Hide     Jack in!     "
+	" Hide     Conectar!    "
 	end
 }
 script 4 mmbn4s {
-	" Yuki     FW:Jack in!  "
+	" Yuki     FW:Conectar! "
 	end
 }
 script 5 mmbn4s {
-	" Yuji     Town Area    "
+	" Yuji     Área Vila    "
 	end
 }
 script 6 mmbn4s {
-	" Amayan   Old man      "
+	" Amayan   Velho        "
 	end
 }
 script 7 mmbn4s {
-	" Carlton  RE:Old man   "
+	" Carlton  RE:Velho     "
 	end
 }
 script 8 mmbn4s {
-	" Purimiki Oops!        "
+	" Purimiki Opa!         "
 	end
 }
 script 9 mmbn4s {
-	" Nukki    RE:Oops!     "
+	" Nukki    RE:Opa!      "
 	end
 }
 script 10 mmbn4s {
-	" Kurotan  Question     "
+	" Kurotan  Pergunta     "
 	end
 }
 script 11 mmbn4s {
-	" Bozu     RE:Question  "
+	" Bozu     RE:Pergunta  "
 	end
 }
 script 12 mmbn4s {
-	" Bozu     BattleChips  "
+	" Bozu     Chips        "
 	end
 }
 script 13 mmbn4s {
-	" Jomon    RE:BattleCh⋯ "
+	" Jomon    RE:Chips     "
 	end
 }
 script 14 mmbn4s {
-	" Nukki    RE:BattleCh⋯ "
+	" Nukki    RE:Chips     "
 	end
 }
 script 15 mmbn4s {
-	" Bozu     RE:BattleCh⋯ "
+	" Bozu     RE:Chips     "
 	end
 }
 script 16 mmbn4s {

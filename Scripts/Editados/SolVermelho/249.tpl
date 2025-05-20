@@ -609,7 +609,7 @@ script 29 mmbn4 {
 	msgOpen
 	"""
 	Lan! Vamos atrás
-	daquele Navi Preto!
+	daquele Navi !
 	A Roll tá em apuros!
 	"""
 	keyWait
@@ -809,8 +809,8 @@ script 38 mmbn4 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Tá rolando alguma
-	coisa no CPUAltFl,
+	Tem algo rolando no
+	CPU do Alto Falante,
 	"brother"!
 	"""
 	keyWait
@@ -862,8 +862,8 @@ script 42 mmbn4 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Nossa! Então cê
-	passou das
+	Nossa! Então você
+	passou nas
 	preliminares?
 	"""
 	keyWait
@@ -919,8 +919,8 @@ script 47 mmbn4 {
 	msgOpen
 	"""
 	Se vencer de novo,
-	cê vai pro
-	campeaonto.
+	você vai pro
+	campeonato.
 	"""
 	keyWait
 		any = false
@@ -1117,9 +1117,8 @@ script 143 mmbn4 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	I want you
-	to try your
-	best for him!
+	Dê o melhor de si...
+	pelo bem dele!
 	"""
 	keyWait
 		any = false

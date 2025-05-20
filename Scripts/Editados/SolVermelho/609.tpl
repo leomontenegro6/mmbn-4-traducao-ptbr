@@ -5,8 +5,8 @@ script 0 mmbn4 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Your name is Lan,
-	right?
+	O seu nome é Lan,
+	não é?
 	"""
 	keyWait
 		any = false
@@ -18,8 +18,8 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	That's right.
-	Umm⋯
+	É,sim.
+	Er...
 	"""
 	keyWait
 		any = false
@@ -30,7 +30,7 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = BusinessMan
-	"I'm Yuko's father."
+	"Eu sou o pai da\nYuko."
 	keyWait
 		any = false
 	clearMsg
@@ -40,7 +40,7 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Yuko's?!"
+	"O pai da Yuko?!"
 	keyWait
 		any = false
 	clearMsg
@@ -54,7 +54,7 @@ script 4 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"You saw her,right?"
+	"Você a viu,não viu?"
 	keyWait
 		any = false
 	clearMsg
@@ -64,7 +64,7 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Huh?"
+	"Hã?"
 	keyWait
 		any = false
 	clearMsg
@@ -74,20 +74,21 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = BusinessMan
-	"Ah,excuse me⋯"
+	"Ah,desculpe..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,what was Yuko
-	like?
+	Lan,como estava a
+	Yuko?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Was she having fun?
-	Or was she bored?
+	Ela estava se
+	divertindo?
+	Ou estava entediada?
 	"""
 	keyWait
 		any = false
@@ -98,14 +99,13 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"She was having fun."
+	"Tava se divertindo,\npra caramba."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	She was really
-	looking forward to
-	our battle.
+	E tava super ansiosa
+	pra nossa luta.
 	"""
 	keyWait
 		any = false
@@ -117,9 +117,9 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = BusinessMan
 	"""
-	Just as I feared⋯
-	This is bad,very
-	bad indeed.
+	É como eu temia...
+	Isso é muito ruim.
+	É péssimo.
 	"""
 	keyWait
 		any = false
@@ -130,7 +130,7 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"What's wrong?"
+	"O quê?"
 	keyWait
 		any = false
 	end
@@ -140,31 +140,31 @@ script 10 mmbn4 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	It's⋯umm⋯how do
-	I put this⋯
+	É que... Hm...
+	Como eu explico...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yuko has a special
-	power.
+	A Yuko tem um poder
+	especial.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'll see what I
-	mean if you go to
-	the Net.
+	Entenderá o que eu
+	quero dizer se for
+	à Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	She has the ability
-	to summon "Navi
-	ghosts".
+	Ela tem a habilidade
+	de invocar "Navis
+	fantasma".
 	"""
 	keyWait
 		any = false
@@ -175,7 +175,7 @@ script 10 mmbn4 {
 script 11 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Navi ghosts?"
+	"Navis fantasma?"
 	keyWait
 		any = false
 	clearMsg
@@ -186,17 +186,17 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = BusinessMan
 	"""
-	The residual memory
-	of Navis that have
-	been deleted.
+	A memória residual
+	de Navis que foram
+	deletados.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can't see them.
-	Some of them are
-	evil - like ghosts.
+	Não dá para vê-los.
+	E alguns são maus.
+	Espíritos malignos.
 	"""
 	keyWait
 		any = false
@@ -207,7 +207,7 @@ script 12 mmbn4 {
 script 13 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Yuko does that?"
+	"A Yuko faz isso?"
 	keyWait
 		any = false
 	clearMsg
@@ -217,46 +217,46 @@ script 13 mmbn4 {
 script 14 mmbn4 {
 	mugshotShow
 		mugshot = BusinessMan
-	"Wow⋯"
+	"É..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The NetBattle has
-	her thinking about
-	the Net,and this
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	has the strange
-	effect of causing
-	ghosts to appear.
+	A NetLuta a tem
+	feito pensar na
+	Rede,e isso tem o
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Navi ghosts are
-	popping up all over
-	the Net now.
+	estranho efeito de
+	fazer fantasmas
+	aparecerem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Not many people are
-	aware of what's
-	happening yet,but
+	Os Navis fantasma
+	estão brotando pela
+	Rede agora mesmo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	unless something is
-	done,things'll get
-	out of hand fast.
+	Poucas pessoas estão
+	cientes do que está
+	acontecendo agora,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	mas,se nada for
+	feito,as coisas logo
+	vão sair do controle.
 	"""
 	keyWait
 		any = false
@@ -267,8 +267,8 @@ script 15 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I'll do something
-	about it,sir!
+	Eu vou resolver,
+	senhor!
 	"""
 	keyWait
 		any = false
@@ -278,7 +278,7 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = BusinessMan
 	msgOpen
-	"Huh?"
+	"Hã?"
 	keyWait
 		any = false
 	clearMsg
@@ -289,16 +289,16 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I played with Yuko a
-	little bit,
+	Eu brinquei um pouco
+	com a Yuko,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and she seemed
-	almost like a little
-	sister to me.
+	e acabei vendo ela
+	meio que como uma
+	irmãzinha.
 	"""
 	keyWait
 		any = false
@@ -309,7 +309,7 @@ script 17 mmbn4 {
 script 18 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Lan⋯"
+	"Lan..."
 	keyWait
 		any = false
 	clearMsg
@@ -320,48 +320,48 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	My big brother
-	passed away when I
-	was little.
+	O meu irmão mais
+	velho morreu quando
+	eu era bem pequeno.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I bet if I'd had a
-	chance to play with
-	him,
+	Aposto que se eu ti-
+	vesse tido a chance
+	de brincar com ele,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it would have been
-	just like that.
+	teria sido uma
+	experiência assim.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Playing with Yuko
-	made me feel that
-	way.
+	E foi brincar com a
+	Yuko que me fez
+	sentir isso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's why I feel
-	like I've got to do
-	something.
+	Então,eu sinto que
+	tenho que fazer
+	alguma coisa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If something bad's
-	happening because of
-	her,I'll fix it up.
+	Se tiver tendo
+	problema por causa
+	dela,eu resolvo.
 	"""
 	keyWait
 		any = false
@@ -373,24 +373,23 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = BusinessMan
 	"""
-	I'd usually ask the
-	Officials to handle
-	it,but okay!
+	Eu pretendia pedir
+	isso aos Oficiais,
+	mas tudo bem!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'd better be
-	careful - these
-	Navis are invisible.
+	Só tome cuidado:
+	esses Navis são
+	invisíveis.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here,you can have
-	this.
+	Aqui,leve isto.
 	"""
 	keyWait
 		any = false
@@ -413,7 +412,7 @@ script 21 mmbn4 {
 		buffer = 0
 		item = 83
 	"""
-	" and a
+	" e um
 	"
 	"""
 	printItem
@@ -436,65 +435,67 @@ script 22 mmbn4 {
 	mugshotShow
 		mugshot = BusinessMan
 	"""
-	You can use this
-	"
+	Com este "
 	"""
 	printItem
 		buffer = 0
 		item = 83
 	"""
-	" to find
-	invisible Navis.
+	",
+	dá para achar os
+	Navis invisíveis.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If the Navi ghost is
-	far away,it'll be
-	blue.
+	Se o Navi fantasma
+	estiver longe,ele
+	ficará azul.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It'll turn yellow if
-	a ghost is detected,
+	Se ficar amarelo,é
+	porque um fantasma
+	foi detectado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	or red if the ghost
-	is near.
+	E se ficar vermelho,
+	é porque o fantasma
+	está perto.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"If the \""
+	"Se o \""
 	printItem
 		buffer = 0
 		item = 83
 	"""
 	"
-	turns red,check the
-	area carefully,
+	ficar vermelho,veja
+	bem a área,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and you can bet the
-	Navi ghost will make
-	it's presence known.
+	e um fantasma com
+	certeza revelerá
+	sua presença.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then just use the
-	CybSutra and the
-	ghost will move on.
+	Daí,é só usar o
+	CybSutra e fazer o
+	fantasma ascender.
 	"""
 	keyWait
 		any = false
@@ -506,8 +507,9 @@ script 23 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I got it!
-	Sound good,MegaMan?
+	Beleza!
+	Tudo bem pra você,
+	MegaMan?
 	"""
 	keyWait
 		any = false
@@ -518,7 +520,7 @@ script 23 mmbn4 {
 script 24 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Of course!"
+	"Mas é claro!"
 	keyWait
 		any = false
 	clearMsg
@@ -529,56 +531,57 @@ script 25 mmbn4 {
 	mugshotShow
 		mugshot = BusinessMan
 	"""
-	The Navi ghosts are
-	beginning to appear
-	in the Net.
+	Os Navis fantasma
+	estão começando a
+	aparecer na Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Apparently,four of
-	them are evil Navi
-	ghosts.
+	Ao que parece,
+	quatro deles são
+	fantasmas maus.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you can get those
-	four to move on to
-	the next world,the
+	Se conseguir fazer
+	esses quatro ascen-
+	derem deste plano,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	outbreak should
-	settle down. Note
+	o surto deve dar uma
+	acalmada. Mas mante-
+	nha em mente que até
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that even the good
-	ghosts want to go to
-	the next world.
+	os fantasmas bons
+	querem ascender para
+	o além.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They'll appreciate
-	your Navi performing
-	the CybSutra.
+	Ficarão gratos pelo
+	seu Navi recitar o
+	Cyber Sutra.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Anyway,Lan,please
-	try and find those
-	four evil Navis.
+	Enfim,por favor,Lan,
+	espero que encontre
+	esses 4 Navis maus.
 	"""
 	keyWait
 		any = false

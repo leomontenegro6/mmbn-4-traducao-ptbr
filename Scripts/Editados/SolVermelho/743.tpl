@@ -4,13 +4,14 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"Lions,roar!"
+	"Leões,rujam!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What the?!
-	Why don't they roar?
+	Ué...?!
+	Por que não estão
+	rugindo?!
 	"""
 	keyWait
 		any = false

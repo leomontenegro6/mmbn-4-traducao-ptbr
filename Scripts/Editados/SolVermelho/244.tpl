@@ -11,48 +11,48 @@ script 0 mmbn4 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Oh,Lan! What good
-	timing,huh?
+	Ah,Lan! Chegou em
+	boa hora,é.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I was just about to
-	go to your house,
-	huh!
+	Eu já tava saindo
+	pra ir pra sua casa,
+	é!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hear there's
-	smoke coming from
-	your PC,huh!
+	Ouvi que tinha
+	fumaça saindo do seu
+	computador,é!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Why do I know⋯?"
+	"Como ficou sabendo\ndisso?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Higsby
 	"""
-	Because your mother
-	just called me,huh!
+	Porque a sua mãe me
+	ligou,é!
 	
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I was looking for
-	this,huh! Take it,
-	huh?
+	Eu tava tentando
+	achar isto aqui,é!
+	Pode levar!
 	"""
 	keyWait
 		any = false
@@ -79,47 +79,46 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Higsby
 	"""
-	That buster will put
-	out fires,huh!
+	Essa arma apaga
+	fogo,é!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Instead of bullets,
-	it shoots water,
-	huh!
+	Em vez de balas,
+	ela dispara água,é!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Point it at fire,
-	and a gauge shows
-	the water pressure!
+	Aponte ela no fogo e
+	uma barra mostrará
+	a pressão da água!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Try firing it when
-	the pressure is at
-	full power,huh!
+	Tente disparar
+	quando a pressão
+	estiver no máximo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Timing is important,
-	since the gauge sets
-	the blaster power!
+	É importante pegar o
+	tempo certo. A barra
+	define a potência!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Good luck,and be
-	careful,huh!
+	Boa sorte.
+	E tome cuidado,é!
 	"""
 	keyWait
 		any = false
@@ -130,14 +129,14 @@ script 1 mmbn4 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	If the gauge is at
-	full power,it will
-	put out any fire!
+	Se a barra estiver
+	no máximo,ela apaga
+	qualquer incêndio!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It feels great,huh!"
+	"É uma sensação boa\ndemais,é!"
 	keyWait
 		any = false
 	end
@@ -150,7 +149,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Higsby
 	msgOpen
-	"Welcome,huh!"
+	"Bem-vindo,é!"
 	keyWait
 		any = false
 	jump
@@ -167,40 +166,39 @@ script 4 mmbn4 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Welcome,huh! I'm
-	finally working
-	again,huh!
+	Bem-vindo,é!
+	Eu finalmente voltei
+	ao trabalho,é!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯And I've restarted
-	our order system,
-	huh!
+	... E reinstalei o
+	nosso sistema de
+	encomendas,é!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If there's a chip
-	you just have to
-	have⋯
+	Se tiver um chip que
+	você queira muito...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just tell me the
-	name and I'll order
-	it for you,huh!
+	É só me dar o nome
+	que eu encomendo ele
+	pra você,é!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How can I help you
-	today,huh?
+	Então,em que posso
+	ajudar,é?
 	"""
 	keyWait
 		any = false
@@ -215,7 +213,7 @@ script 4 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Buy chips\n"
+	"Comprar chips\n"
 	positionOptionVertical
 		width = 8
 	option
@@ -226,7 +224,7 @@ script 4 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Order chips\n"
+	"Encomendar\n"
 	positionOptionVertical
 		width = 8
 	option
@@ -237,7 +235,7 @@ script 4 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Cancel"
+	"Sair"
 	select
 		default = 0
 		noDelay = false
@@ -256,9 +254,9 @@ script 5 mmbn4 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Welcome,huh!
-	How can I help you
-	today,huh?
+	Bem-vindo,é!
+	Em que posso ajudar
+	hoje,é?
 	"""
 	keyWait
 		any = false
@@ -273,7 +271,7 @@ script 5 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Buy chips\n"
+	"Comprar chips\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -284,7 +282,7 @@ script 5 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Order chips\n"
+	"Encomendar\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -295,7 +293,7 @@ script 5 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Cancel"
+	"Sair"
 	select
 		default = 0
 		noDelay = false
@@ -314,8 +312,8 @@ script 6 mmbn4 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	I'm sorry,huh⋯
-	I'm sold out,huh⋯
+	Desculpe,é...
+	Esgotou tudo,é...
 	"""
 	keyWait
 		any = false
@@ -357,16 +355,16 @@ script 10 mmbn4 {
 		mugshot = Maid
 	msgOpen
 	"""
-	I'm sure glad that
-	Higsby is back!
+	Estou tão feliz que
+	o Higsby voltou!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I just couldn't run
-	the whole store
-	all by myself!
+	Eu não conseguia
+	tocar a loja toda
+	sozinha!
 	"""
 	keyWait
 		any = false
@@ -377,9 +375,9 @@ script 11 mmbn4 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	Hey,Lan! Have you
-	heard of the Free
-	Tournaments?
+	Aí,Lan! Ficou
+	sabendo dos
+	Torneios Livres?
 	"""
 	keyWait
 		any = false
@@ -395,7 +393,7 @@ script 11 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Yep  "
+	"Sim  "
 	option
 		brackets = false
 		left = 0
@@ -404,7 +402,7 @@ script 11 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Nope"
+	"Não"
 	select
 		default = 0
 		noDelay = false
@@ -420,45 +418,44 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = CapBoy
 	"""
-	Then I'll tell you
-	about them!
+	Então conto eu!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can start a
-	tournament by
+	Você pode começar um
+	torneio carregando
+	os dados de Navi de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	loading a friend's
-	Navi data with a
-	communications cable
+	um amigo com um
+	cabo de comunicações
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	into that free BBS
-	over there.
+	naquele fórum livre
+	ali.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you win,you can
-	get stuff from
-	Higsby's shop!
+	Se você vence,ganha
+	coisas da Loja do
+	Higsby!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's fun! You should
-	try it!
+	É legal! Cê devia
+	experimentar!
 	"""
 	keyWait
 		any = false
@@ -468,21 +465,21 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = CapBoy
 	msgOpen
-	"Of course you do!"
+	"Já imaginava!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't be in the
-	tournament⋯
+	Eu não posso entrar
+	no seu torneio...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯But I'm going to
-	try to win in my
-	own tournament!
+	... mas vou tentar
+	vencer o meu próprio
+	torneio!
 	"""
 	keyWait
 		any = false
@@ -492,7 +489,7 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Maid
 	msgOpen
-	"I have to clean up!"
+	"Preciso limpar\ndireitinho!"
 	keyWait
 		any = false
 	end
@@ -502,14 +499,14 @@ script 20 mmbn4 {
 		mugshot = Maid
 	msgOpen
 	"""
-	Oh,no! I forgot
-	that I have my other
-	job today!
+	Essa não! Esqueci
+	que tenho meu
+	outro trabalho hoje!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What should I do⋯?"
+	"O que eu faço...?"
 	keyWait
 		any = false
 	end
@@ -519,40 +516,41 @@ script 21 mmbn4 {
 		mugshot = Girl
 	msgOpen
 	"""
-	See that trader
-	that looks like
+	Tá vendo aquela
+	máquina que parece o
 	NumberMan?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a Number
-	Trader,only found
-	at Higsby's!
+	É um Troca-Números.
+	Só se acha nesta
+	loja aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you enter an 8-
-	digit lotto number⋯
+	Você insere um
+	número de loteria de
+	oito dígitos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯If the number is a
-	"winner,you get a
-	 prize!"
+	... e se o número
+	for sorteado,você
+	ganha um prêmio!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There are lotto
-	numbers hidden all
-	over town!
+	Tem vários números
+	de loteria escondi-
+	dos pela cidade!
 	"""
 	keyWait
 		any = false
@@ -568,9 +566,9 @@ script 25 mmbn4 {
 		mugshot = Maid
 	msgOpen
 	"""
-	Don't tell Higsby
-	that I'm working
-	at Castillo!
+	Não conta pro Higbsy
+	que eu também traba-
+	lho no Castillo!
 	"""
 	keyWait
 		any = false
@@ -584,25 +582,24 @@ script 30 mmbn4 {
 		mugshot = Maid
 	msgOpen
 	"""
-	Something called the
-	Eagle Tournament is
-	going on,right?
+	Tá rolando um tal de
+	Torneio Águia,né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Chip shops make lots
-	of money when a
-	tournament is held!
+	Lojas de chip lucram
+	bastante quando há
+	um torneio!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯Or at least,that's
-	what Higsby always
-	says⋯
+	... Pelo menos,é o
+	que o Higsby sempre
+	diz...
 	"""
 	keyWait
 		any = false
@@ -613,25 +610,24 @@ script 31 mmbn4 {
 		mugshot = Maid
 	msgOpen
 	"""
-	Something called the
-	Hawk Tournament is
-	going on,right?
+	Tá rolando um tal de
+	Torneio Falcão,né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Chip shops make lots
-	of money when a
-	tournament is held!
+	Lojas de chip lucram
+	bastante quando há
+	um torneio!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯Or at least,that's
-	what Higsby always
-	says⋯
+	... Pelo menos,é o
+	que o Higsby sempre
+	diz...
 	"""
 	keyWait
 		any = false
@@ -652,22 +648,23 @@ script 35 mmbn4 {
 		mugshot = Maid
 	msgOpen
 	"""
-	You're in the
-	tournament,right?
+	Você tá no torneio,
+	né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You should buy some
-	chips to get ready!
+	Devia comprar uns
+	chips pra se
+	preparar pra ele!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't always just
-	use the chip trader!
+	Não fique só no
+	Troca-Chips!
 	"""
 	keyWait
 		any = false
@@ -678,14 +675,14 @@ script 40 mmbn4 {
 		mugshot = Maid
 	msgOpen
 	"""
-	So next is the
-	semifinals? Take
-	some Higsby chips!
+	Você vai pras
+	semifinais? Use uns
+	chips do Higsby!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Buy some chips,OK?"
+	"Confira nossa\nseleção!"
 	keyWait
 		any = false
 	end
@@ -695,31 +692,30 @@ script 45 mmbn4 {
 		mugshot = Maid
 	msgOpen
 	"""
-	Recently I learned
-	how fun chip
-	battling is⋯
+	Eu tenho aprendido
+	como é divertido
+	lutar com chips...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's really hard,
-	isn't it?
+	Digo,é bem difícil,
+	né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But you've made it
-	to the top in
-	Electopia!
+	Mas você chegou ao
+	topo de Ni-Hon!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're really
-	amazing!
+	Você é realmente
+	incrível,Lan!
 	"""
 	keyWait
 		any = false

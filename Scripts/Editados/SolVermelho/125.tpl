@@ -8,17 +8,17 @@ script 0 mmbn4 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	There's a Vampire
-	in the coffin with a
-	chilling smile⋯
+	Tem um Vampiro no
+	caixão com um sor-
+	riso horripilante...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Its twinkling eyes
-	looking right this
-	way are terrifying.
+	Seus olhos brilhan-
+	tes olhando para
+	cá são medonhos.
 	"""
 	keyWait
 		any = false
@@ -27,17 +27,17 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	msgOpen
 	"""
-	The Vampire hovers
-	in the night sky
-	against a full moon!
+	O Vampiro flutua
+	no céu noturno em
+	frente à lua cheia!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It looks about to
-	attack⋯You can't
-	help but flinch.
+	Parece pronto para
+	atacar... Você
+	recua um pouco.
 	"""
 	keyWait
 		any = false
@@ -46,25 +46,23 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	msgOpen
 	"""
-	Suddenly,a weird
-	ghoul comes from the
-	depths of its mouth!
+	De repente,um mons-
+	tro estranho sai da
+	boca dele!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The surprise attack
-	throws you off
-	balance.
+	O ataque surpresa
+	faz você cambalear.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There are some
-	letters on the
-	ghoul's forehead⋯
+	Há algo riscado na
+	testa do monstro...
 	"""
 	keyWait
 		any = false
@@ -85,16 +83,16 @@ script 3 mmbn4 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	The fearless
-	Vampire,
+	O implacável
+	Vampiro,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and the opposing
-	figure of Django,
-	the Solar Boy⋯
+	e seu oponente,
+	Django,o Garoto
+	Solar...
 	"""
 	keyWait
 		any = false
@@ -105,8 +103,9 @@ script 3 mmbn4 {
 		jumpIfFalse = continue
 	clearMsg
 	"""
-	Something's flashing
-	at Django's feet⋯
+	Tem alguma coisa
+	brilhando aos pés do
+	Django...
 	"""
 	keyWait
 		any = false
@@ -146,17 +145,17 @@ script 4 mmbn4 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	That person with the
-	light is probably a
-	guide here.
+	Esse homem com a
+	lamparina deve ser
+	o guia daqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Having such a freaky
-	person as a guide
-	makes it more scary!
+	Ter uma pessoa tão
+	macabra como guia
+	só aumenta o medo!
 	"""
 	keyWait
 		any = false
@@ -165,23 +164,24 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	msgOpen
 	"""
-	This mirror should
-	reflect my image,
+	Esse espelho reflete
+	você,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but for some reason
-	there's an image
-	of a Vampire⋯
+	mas,por algum
+	motivo,há a imagem
+	de um Vampiro...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Curious,but scary.
-	Scary,but curious.
+	Curioso,porém sinis-
+	tro. Sinistro,porém
+	curioso.
 	"""
 	keyWait
 		any = false
@@ -195,16 +195,17 @@ script 6 mmbn4 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	It's Django,come to
-	save the Princess
-	kidnapped by Dracky.
+	É o Django,que veio
+	salvar a Princesa
+	raptada pelo Dracky.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just pray for his
-	safe escape.
+	Reze para que ele
+	consiga escapar
+	dessa.
 	"""
 	keyWait
 		any = false
@@ -213,16 +214,17 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	msgOpen
 	"""
-	The Vampire's hiding
-	behind its cloak!
+	O Vampiro se
+	escondia atrás
+	de sua capa!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Seemed something
-	would pop out. Makes
-	you feel faint⋯
+	Pareceu muito que ia
+	atacar. Você se
+	sente tonto...
 	"""
 	keyWait
 		any = false

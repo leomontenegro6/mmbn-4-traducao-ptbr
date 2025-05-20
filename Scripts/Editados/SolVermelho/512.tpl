@@ -5,8 +5,8 @@ script 0 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	You've arrived.
-	Well done!
+	Chegamos.
+	Bom trabalho!
 	"""
 	keyWait
 		any = false
@@ -17,8 +17,8 @@ script 1 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	You made it. Please
-	watch your step!
+	Viagem terminada.
+	Cuidando onde pisa!
 	"""
 	keyWait
 		any = false
@@ -33,9 +33,9 @@ script 2 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	It was tough,but you
-	made it safely.
-	Well done indeed!
+	Foi difícil,mas você
+	concluiu com suces-
+	so. Bom trabalho!
 	"""
 	keyWait
 		any = false
@@ -49,19 +49,19 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Good job⋯"
+	"Bom trabalho..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now,shouldn't you
-	hurry to where the
-	switch is located?
+	Bom,melhor ir logo
+	para o botão,não
+	é mesmo?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Tee hee!"
+	"He he!"
 	keyWait
 		any = false
 	end
@@ -71,8 +71,8 @@ script 4 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Yo!! You made it!!
-	Well done!
+	Opa!! Cê conseguiu!!
+	Bom trabalho!
 	"""
 	keyWait
 		any = false
@@ -83,9 +83,9 @@ script 5 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Very well done. You
-	got here without
-	a scratch!
+	Excelente trabalho.
+	Conseguiu chegar
+	aqui ileso!
 	"""
 	keyWait
 		any = false

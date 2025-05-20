@@ -19,8 +19,8 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Alguns vindos de
-	nações de reputação
+	Alguns vêm de nações
+	de reputação
 	hostil...
 	"""
 	keyWait

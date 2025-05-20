@@ -3,16 +3,16 @@
 script 0 mmbn4 {
 	msgOpen
 	"""
-	Yai's special
-	telephone.
+	O telefone especial
+	da Yai.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The retro design and
-	pretty pink color
-	go well together.
+	O design retrô
+	complementa bem o
+	rosa bonitinho.
 	"""
 	keyWait
 		any = false
@@ -21,32 +21,33 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	msgOpen
 	"""
-	Yai's PC⋯
-	It's compact,but
-	powerful.
+	O computador da
+	Yai... Compacto,
+	porém poderoso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Such a deluxe model
-	is beyond most
-	people's means⋯
+	Um modelo de luxo
+	que não cabe no bol-
+	so de quase ninguém.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Of course,you can
-	jack in to it.
+	Naturalmente,é
+	possível se conectar
+	nele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Probably better go
-	gently when you do
-	though.
+	Mas é bom tomar
+	muuuuito cuidado
+	ao fazer isso.
 	"""
 	keyWait
 		any = false
@@ -60,17 +61,17 @@ script 2 mmbn4 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	It's a giant toy
-	bear. Apparently Yai
-	bought it in
+	É um urso de pelúcia
+	gigante. Parece que
+	a Yai comprou ele na
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ElecTown with Mayl.
-	It's obviously her
-	favorite.
+	EletroVila com a
+	Mayl. Claramente é o
+	favorito dela.
 	"""
 	keyWait
 		any = false
@@ -79,16 +80,16 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	msgOpen
 	"""
-	There are lots of
-	really ancient
-	Western swords.
+	Está cheio de
+	espadas ocidentais
+	bem antigas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This collection is
-	Yai's pride and joy.
+	Esta coleção é o
+	orgulho da Yai.
 	"""
 	keyWait
 		any = false
@@ -105,17 +106,17 @@ script 4 mmbn4 {
 		jumpIfBlueMoon = 20
 	msgOpen
 	"""
-	There's an excellent
-	picture of a raging
-	sea⋯
+	É uma pintura
+	incrível de mares
+	tempestuosos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you stare at it,
-	you feel like you're
-	being sucked in.
+	Ao olhar para ela,
+	você se sente sendo
+	puxado para ele.
 	"""
 	keyWait
 		any = false
@@ -124,16 +125,16 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	msgOpen
 	"""
-	It's a spotlessly
-	clean mirror.
+	É um espelho
+	impecavelmente
+	limpo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess this is
-	where Yai fixes her
-	appearance.
+	Acho que é com ele
+	que a Yai se arruma.
 	"""
 	keyWait
 		any = false
@@ -142,17 +143,17 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	msgOpen
 	"""
-	Just one glance at
-	that soft bed tells
-	you it's expensive.
+	Só de olhar pra essa
+	cama macia,dá pra
+	saber que é cara.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's even got a desk
-	with it for making
-	tea in the morning.
+	Tem até uma mesa
+	acoplada para tomar
+	chá de manhã.
 	"""
 	keyWait
 		any = false
@@ -164,15 +165,16 @@ script 7 mmbn4 {
 		jumpIfBlueMoon = 21
 	msgOpen
 	"""
-	Looks like a world-
-	famous picture⋯
+	Parece ser um
+	quadro mundialmente
+	renomado...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But an amateur can't
-	appreciate it⋯
+	Impossível para um
+	amador apreciá-lo...
 	"""
 	keyWait
 		any = false
@@ -181,22 +183,23 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	msgOpen
 	"""
-	It's a really cute
-	duck doll.
+	É um bonequinho de
+	pato adorável.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But next to that
-	mighty toy bear,
+	Mas como fica bem ao
+	lado desse ultra
+	urso de pelúcia,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it looks a bit
-	small⋯
+	parece tão
+	pequeno...
 	"""
 	keyWait
 		any = false
@@ -204,14 +207,14 @@ script 8 mmbn4 {
 }
 script 9 mmbn4 {
 	msgOpen
-	"This photo⋯"
+	"Essa foto..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's of Yai and her
-	family at a palace.
-	I've seen it on TV.
+	É da Yai e a família
+	em um palácio.
+	Já vi ele na TV.
 	"""
 	keyWait
 		any = false
@@ -234,8 +237,9 @@ script 10 mmbn4 {
 		jumpIfFalse = 11
 	msgOpen
 	"""
-	Something's moving
-	under the toy bear!
+	Tem alguma coisa se
+	mexendo sob o urso
+	de pelúcia!
 	"""
 	keyWait
 		any = false
@@ -243,15 +247,16 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Wouldn't expect to
-	find any here⋯
+	Nunca que eu ia
+	esperar achar ele
+	aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wow! This one's
-	huge!
+	Caramba!
+	E é dos grandes!
 	"""
 	keyWait
 		any = false
@@ -279,17 +284,17 @@ script 10 mmbn4 {
 script 11 mmbn4 {
 	msgOpen
 	"""
-	It's a giant toy
-	bear. Apparently Yai
-	bought it in
+	É um urso de pelúcia
+	gigante. Parece que
+	a Yai comprou ele na
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ElecTown with Mayl.
-	It's obviously her
-	favorite.
+	EletroVila com a
+	Mayl. Claramente é o
+	favorito dela.
 	"""
 	keyWait
 		any = false
@@ -302,9 +307,8 @@ script 15 mmbn4 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	There's something
-	behind the picture
-	frame⋯
+	Tem alguma coisa
+	atrás da moldura...
 	"""
 	keyWait
 		any = false
@@ -335,17 +339,17 @@ script 16 mmbn4 {
 		jumpIfBlueMoon = 20
 	msgOpen
 	"""
-	There's an excellent
-	picture of a raging
-	sea⋯
+	É uma pintura
+	incrível de mares
+	tempestuosos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you stare at it,
-	you feel like you're
-	being sucked in.
+	Ao olhar para ela,
+	você se sente sendo
+	puxado para ele.
 	"""
 	keyWait
 		any = false
@@ -354,23 +358,22 @@ script 16 mmbn4 {
 script 20 mmbn4 {
 	msgOpen
 	"""
-	There's a clear blue
-	sky outside⋯
+	Tem um céu azul e
+	limpo lá fora...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh! It's a picture!
-	It's so good,it's
-	like a real window!
+	Ah! É um quadro!
+	É tão bom que parece
+	uma janela,mesmo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What a great
-	illusion.
+	Que ilusão,amigos.
 	"""
 	keyWait
 		any = false
@@ -378,14 +381,14 @@ script 20 mmbn4 {
 }
 script 21 mmbn4 {
 	msgOpen
-	"A dream picture⋯"
+	"O quadro de um\nsonho..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Without realizing,
-	your mind drifts to
-	a world of fantasy.
+	Sem se dar conta,sua
+	imaginação vai a um
+	mundo fantasioso.
 	"""
 	keyWait
 		any = false

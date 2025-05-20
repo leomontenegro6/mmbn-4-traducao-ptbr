@@ -5,8 +5,8 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Well,here's the
-	front of the Tower.
+	Bom,tamos aqui,na
+	frente da Torre.
 	"""
 	keyWait
 		any = false
@@ -17,8 +17,9 @@ script 1 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We got the data.
-	Now let Chisao go!
+	A gente trouxe os
+	dados. Agora solta o
+	Chisao!
 	"""
 	keyWait
 		any = false
@@ -32,7 +33,7 @@ script 2 mmbn4 {
 		value = 3
 	mugshotHide
 	soundDisableTextSFX
-	"Briiiiing!"
+	"Trrrriiiim!"
 	keyWait
 		any = false
 	waitOWVar
@@ -47,8 +48,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan! It's the
-	phone again!
+	Lan! Outra ligação!
 	"""
 	keyWait
 		any = false
@@ -57,7 +57,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotHide
 	msgOpen
-	"THAT WAS QUICK."
+	"VOCÊ FOI RÁPIDO."
 	keyWait
 		any = false
 	clearMsg
@@ -68,8 +68,9 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	We know you're here
-	somewhere. Come out!
+	A gente sabe que
+	você tá por aqui.
+	Aparece!
 	"""
 	keyWait
 		any = false
@@ -80,17 +81,17 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotHide
 	"""
-	HEH HEH HEH⋯I'LL
-	GIVE YOU CREDIT FOR
-	GETTING THIS FAR.
+	HE HE HE... TIRO MEU
+	CHAPÉU POR VOCÊ
+	CHEGAR LONGE ASSIM.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT YOU MUST FACE
-	ONE MORE CHALLENGE
-	TO FREE CHISAO.
+	MAS AINDA HÁ UM
+	ÚLTIMO DESAFIO PARA
+	LIBERTAR CHISAO.
 	"""
 	keyWait
 		any = false
@@ -101,7 +102,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"One more?!"
+	"Ainda tem mais um?!"
 	keyWait
 		any = false
 	clearMsg
@@ -111,17 +112,17 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotHide
 	"""
-	I'VE RELEASED VIRUS-
-	ES INTO THE TOWER'S
-	CONTROL PANEL.
+	EU SOLTEI VÍRUS NO
+	PAINEL DE CONTROLE
+	DA TORRE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF YOU CAN DEFEAT
-	THEM,I WILL LET
-	CHISAO GO.
+	SE VOCÊ OS DESTRUIR,
+	EU LIBERTAREI
+	CHISAO.
 	"""
 	keyWait
 		any = false
@@ -132,11 +133,11 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"OK,understood!"
+	"Beleza,então!"
 	keyWait
 		any = false
 	clearMsg
-	"Let's do it,MegaMan!"
+	"Vamos lá,MegaMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -146,7 +147,7 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Roger!"
+	"Vamos!"
 	keyWait
 		any = false
 	end
@@ -155,7 +156,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"You will free him?!"
+	"Você vai soltar ele,\nné?!"
 	keyWait
 		any = false
 	clearMsg
@@ -164,7 +165,7 @@ script 11 mmbn4 {
 }
 script 12 mmbn4 {
 	mugshotHide
-	"OF COURSE⋯"
+	"MAS É CLARO..."
 	keyWait
 		any = false
 	clearMsg
@@ -174,7 +175,7 @@ script 12 mmbn4 {
 script 13 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Here we go⋯"
+	"Então,manda ver!"
 	keyWait
 		any = false
 	end

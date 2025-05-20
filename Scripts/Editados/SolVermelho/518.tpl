@@ -5,8 +5,7 @@ script 0 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Want to get off the
-	raft?
+	Sair da jangada?
 	"""
 	keyWait
 		any = false
@@ -22,7 +21,7 @@ script 0 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Yes  "
+	"Sim "
 	option
 		brackets = false
 		left = 0
@@ -31,7 +30,7 @@ script 0 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"No!"
+	"Não!"
 	select
 		default = 0
 		noDelay = false
@@ -57,7 +56,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviPink
 	msgOpen
-	"Get off the raft?"
+	"Sair da jangada?"
 	keyWait
 		any = false
 	clearMsg
@@ -72,7 +71,7 @@ script 3 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Yes  "
+	"Sim "
 	option
 		brackets = false
 		left = 0
@@ -81,7 +80,7 @@ script 3 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"No!"
+	"Não!"
 	select
 		default = 0
 		noDelay = false
@@ -98,7 +97,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = PurpleNavi
 	msgOpen
-	"Wanna get off?"
+	"Desembarcar?"
 	keyWait
 		any = false
 	clearMsg
@@ -113,7 +112,7 @@ script 4 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Yes  "
+	"Sim "
 	option
 		brackets = false
 		left = 0
@@ -122,7 +121,7 @@ script 4 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"No!"
+	"Não!"
 	select
 		default = 0
 		noDelay = false
@@ -140,8 +139,7 @@ script 5 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Wanna get off the
-	raft?
+	Vai sair da jangada?
 	"""
 	keyWait
 		any = false
@@ -157,7 +155,7 @@ script 5 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Yes  "
+	"Sim "
 	option
 		brackets = false
 		left = 0
@@ -166,7 +164,7 @@ script 5 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"No!"
+	"Não!"
 	select
 		default = 0
 		noDelay = false

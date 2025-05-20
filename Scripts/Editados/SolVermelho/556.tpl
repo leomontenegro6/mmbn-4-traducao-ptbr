@@ -7,8 +7,9 @@ script 0 mmbn4 {
 	color
 		palette = 1
 	"""
-	The asteroid was
-	thus averted.
+	E assim,o desastre
+	do asteroide foi
+	evitado.
 	"""
 	keyWait
 		any = false
@@ -18,7 +19,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
 	msgOpen
-	"Lan⋯Lan!!"
+	"Lan... Lan!!"
 	keyWait
 		any = false
 	clearMsg
@@ -28,7 +29,7 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"⋯Hmmm?"
+	"... Hmmm?"
 	keyWait
 		any = false
 	end
@@ -37,7 +38,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"Lan,are you OK?"
+	"Lan,você está bem?"
 	keyWait
 		any = false
 	clearMsg
@@ -47,13 +48,13 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Uhhh⋯"
+	"Ungh..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯Huh?! What about
-	the asteroid?!
+	... Hã?!
+	E o asteroide?!
 	"""
 	keyWait
 		any = false
@@ -65,9 +66,8 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	It's gone,
-	thanks to you
-	and MegaMan.
+	Se foi,graças a
+	você e ao MegaMan.
 	"""
 	keyWait
 		any = false
@@ -78,7 +78,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Oh yeah,MegaMan!"
+	"Ah,é,o MegaMan!"
 	keyWait
 		any = false
 	end
@@ -87,7 +87,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"MegaMan,MEGAMAN!"
+	"MegaMan! MEGAMAN!"
 	keyWait
 		any = false
 	clearMsg
@@ -104,15 +104,17 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	No need to yell. I
-	can hear you,Lan.
+	Não precisa gritar.
+	Eu tô te ouvindo,
+	Lan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The asteroid's gone,
-	but it's not over!
+	O asteroide já era,
+	mas isto aqui ainda
+	não acabou!
 	"""
 	keyWait
 		any = false
@@ -123,7 +125,7 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotShow
 		mugshot = Dad
-	"Wait,Regal!"
+	"Parado aí,Regal!"
 	keyWait
 		any = false
 	end
@@ -132,7 +134,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Dad!!"
+	"Pai!!"
 	keyWait
 		any = false
 	end
@@ -142,13 +144,13 @@ script 11 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Darn,you mean I
-	can't get up there?!
+	Droga... Não dá pra
+	eu subir lá?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"DAD!!"
+	"PAI!!"
 	keyWait
 		any = false
 	end
@@ -161,7 +163,7 @@ script 12 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Grab onto this!"
+	"Segure-se aqui!"
 	keyWait
 		any = false
 	clearMsg
@@ -181,8 +183,8 @@ script 14 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	What're you planning
-	to do,Regal?!
+	O que você planeja
+	fazer,Regal?!
 	"""
 	keyWait
 		any = false
@@ -192,13 +194,14 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Regal
 	msgOpen
-	"I'm gonna vanish."
+	"Eu irei desaparecer."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I won't let the
-	Officials arrest me.
+	Não vou deixar os
+	Oficiais me
+	prenderem.
 	"""
 	keyWait
 		any = false
@@ -209,34 +212,35 @@ script 15 mmbn4 {
 script 16 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Wait!"
+	"Espera!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's not too late
-	to start over.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	You risked your life
-	to save the planet!
+	Não é tarde demais
+	pra recomeçar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Chaud's here. He's
-	an Official,so if ya
+	Você arriscou a vida
+	pra salvar o mundo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	surrender and pay
-	for your crimes⋯
+	O Chaud tá aqui. Ele
+	é um Oficial,então,
+	se você se render e
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	pagar pelos seus
+	crimes...
 	"""
 	keyWait
 		any = false
@@ -260,46 +264,49 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = Regal
 	"""
-	Lan,I don't think
-	you understand.
+	Lan,sinto que
+	você não esteja
+	entendendo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Paying for crimes
-	is the furthest
-	thing from my mind.
+	Pagar por meus cri-
+	mes é a última coisa
+	que tenho em mente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't feel an
-	ounce of guilt.
+	Eu não sinto um
+	pingo sequer de
+	culpa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're the ones who
-	should feel guilty,
+	São vocês quem
+	deveriam sentir
+	culpa,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	thinking you've done
-	good when you've
-	really caused harm.
+	por acharem que fi-
+	zeram o bem quando
+	fizeram o oposto.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Something that you
-	think is right can
-	actually be evil.
+	Algo que você acha
+	ser certo pode muito
+	bem ser mau.
 	"""
 	keyWait
 		any = false
@@ -324,17 +331,17 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = Regal
 	"""
-	Lan,didn't you chase
-	my Syndicate's Navi
-	into Park Area and
+	Lan,você não perse-
+	guiu o Navi do meu
+	Sindicato até a Área
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	then destroy a Navi
-	who had no idea what
-	was going on?
+	Parque e destruiu um
+	Navi que nem sabia
+	o que acontecia?
 	"""
 	keyWait
 		any = false
@@ -345,7 +352,7 @@ script 20 mmbn4 {
 script 21 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"⋯!"
+	"...!"
 	keyWait
 		any = false
 	clearMsg
@@ -356,17 +363,17 @@ script 22 mmbn4 {
 	mugshotShow
 		mugshot = Regal
 	"""
-	Chaud,you must've
-	deleted countless
-	Navis,claiming it
+	Chaud,você deve ter
+	deletado inúmeros
+	Navis,alegando ser
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	was your duty.
-	Some of them were
-	probably innocent.
+	seu dever. Alguns
+	deles,provavelmente,
+	inocentes.
 	"""
 	keyWait
 		any = false
@@ -389,20 +396,22 @@ script 23 mmbn4 {
 script 24 mmbn4 {
 	mugshotShow
 		mugshot = Regal
-	"Dr.Hikari,if you"
+	"Dr.Hikari,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	hadn't pursued your
-	NetNavi project,
+	se você não tivesse
+	insistido no seu
+	projeto NetNavi,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NetCrime wouldn't be
-	as bad as it is now.
+	os NetCrimes não
+	estariam tão ruins
+	quanto estão agora.
 	"""
 	keyWait
 		any = false
@@ -426,38 +435,38 @@ script 26 mmbn4 {
 	mugshotShow
 		mugshot = Regal
 	"""
-	And the scientists
-	who uncovered this
-	thriving Net society
+	E os cientistas que
+	criaram esta grande
+	sociedade de Rede
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	exiled a certain ro-
-	botics scientist and
-	fell into evil ways.
+	exilaram um certo
+	cientista da robóti-
+	ca,tornando-o mau.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I once knew that
-	exiled scientist.
-	He was my father⋯
+	Eu conhecia esse
+	cientista exilado.
+	Era o meu pai...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Dad
-	"That means you're・"
+	"Então,você é o."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
 	keyWait
@@ -466,45 +475,45 @@ script 26 mmbn4 {
 	mugshotShow
 		mugshot = Regal
 	"""
-	Hmph,never mind
-	that.
+	Hmpf.
+	Isso não importa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's stick to
-	the matter at hand.
+	Voltemos ao cerne da
+	questão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Humans commit crimes
-	without even realiz-
-	ing it.
+	Humanos cometem
+	crimes sem sequer
+	perceberem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	In short,you're all
-	criminals⋯
+	Em suma,vocês são
+	todos criminosos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯You,and your
-	entire race.
+	... vocês e toda a
+	sua espécie.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Criminals judging
-	criminals? Don't you
-	find it ridiculous?
+	Criminosos julgando
+	outros? Não acham
+	isso ridículo?
 	"""
 	keyWait
 		any = false
@@ -515,23 +524,23 @@ script 27 mmbn4 {
 		mugshot = Regal
 	msgOpen
 	"""
-	That's why I'm
-	resisting arrest.
+	Por isso,irei
+	resistir à prisão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I won't be judged
-	by anyone.
+	Não vou ser julgado
+	por ninguém.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I intend to stick
-	to my beliefs till
-	the bitter end.
+	Pretendo me ater às
+	minhas crenças até
+	meu último suspiro.
 	"""
 	keyWait
 		any = false
@@ -542,14 +551,14 @@ script 28 mmbn4 {
 		mugshot = Regal
 	msgOpen
 	"""
-	Even when I'm gone,
-	evil will still
-	remain.
+	Mesmo depois que eu
+	morrer... o mal
+	continuará.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Farewell⋯"
+	"Adeus..."
 	keyWait
 		any = false
 	clearMsg
@@ -559,7 +568,7 @@ script 28 mmbn4 {
 script 29 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Wait! Regal!!"
+	"Espera! Regal!!"
 	keyWait
 		any = false
 	end
@@ -569,8 +578,8 @@ script 30 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Evil will still
-	remain⋯
+	"O mal
+	continuará"...
 	"""
 	keyWait
 		any = false

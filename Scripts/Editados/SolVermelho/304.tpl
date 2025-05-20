@@ -9,31 +9,32 @@ script 0 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Welcome to the
-	WzDog Cyberworld!
+	Bem-vindo ao
+	Cyber-Mundo do
+	MagoCão!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WzDog is running
-	wild⋯
+	O MagoCão está fora
+	de controle...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Because he's lost
-	the story that he is
-	the hero of!
+	porque perdeu a
+	história que ele
+	protagoniza!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have no idea what
-	will happen,but are
-	you ready to go?
+	Nem imagino o que
+	acontecerá,mas está
+	pronto para ir?
 	"""
 	keyWait
 		any = false
@@ -77,8 +78,8 @@ script 1 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Ok!
-	Away we go!
+	Certo!
+	Vamos... lá!
 	"""
 	keyWait
 		any = false
@@ -91,8 +92,8 @@ script 2 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Let me know when you
-	are ready to depart!
+	Avise quando estiver
+	pronto para partir!
 	"""
 	keyWait
 		any = false
@@ -106,8 +107,8 @@ script 3 mmbn4 {
 		jumpIfOne = 10
 		jumpIfLess = continue
 	"""
-	You have found
-	story data entitled
+	Você achou dados
+	de narrativa:
 	"
 	"""
 	printStoryData
@@ -117,7 +118,7 @@ script 3 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Take it?\n"
+	"Pegar?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -164,8 +165,8 @@ script 4 mmbn4 {
 		jumpIfOne = 10
 		jumpIfLess = continue
 	"""
-	You have found
-	story data entitled
+	Você achou dados
+	de narrativa:
 	"
 	"""
 	printStoryData
@@ -175,7 +176,7 @@ script 4 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Take it?\n"
+	"Pegar?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -222,8 +223,8 @@ script 5 mmbn4 {
 		jumpIfOne = 10
 		jumpIfLess = continue
 	"""
-	You have found
-	story data entitled
+	Você achou dados
+	de narrativa:
 	"
 	"""
 	printStoryData
@@ -233,7 +234,7 @@ script 5 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Take it?\n"
+	"Pegar?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -280,8 +281,8 @@ script 6 mmbn4 {
 		jumpIfOne = 10
 		jumpIfLess = continue
 	"""
-	You have found
-	story data entitled
+	Você achou dados
+	de narrativa:
 	"
 	"""
 	printStoryData
@@ -291,7 +292,7 @@ script 6 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Take it?\n"
+	"Pegar?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -338,8 +339,8 @@ script 7 mmbn4 {
 		jumpIfOne = 10
 		jumpIfLess = continue
 	"""
-	You have found
-	story data entitled
+	Você achou dados
+	de narrativa:
 	"
 	"""
 	printStoryData
@@ -349,7 +350,7 @@ script 7 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Take it?\n"
+	"Pegar?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -396,8 +397,8 @@ script 8 mmbn4 {
 		jumpIfOne = 10
 		jumpIfLess = continue
 	"""
-	You have found
-	story data entitled
+	Você achou dados
+	de narrativa:
 	"
 	"""
 	printStoryData
@@ -407,7 +408,7 @@ script 8 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Take it?\n"
+	"Pegar?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -454,8 +455,8 @@ script 9 mmbn4 {
 		jumpIfTwo = 10
 		jumpIfLess = continue
 	"""
-	You have found
-	story data entitled
+	Você achou dados
+	de narrativa:
 	"
 	"""
 	printStoryData
@@ -465,7 +466,7 @@ script 9 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Take it?\n"
+	"Pegar?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -509,8 +510,9 @@ script 10 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I can't carry any
-	more story data!
+	Não posso carregar
+	mais dados de
+	narrativa!
 	"""
 	keyWait
 		any = false
@@ -529,14 +531,14 @@ script 11 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Bring the missing
-	story data for this
-	episode!
+	Traga os dados de
+	narrativa que faltam
+	a este episódio!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Be careful!"
+	"Tome cuidado!"
 	keyWait
 		any = false
 	end
@@ -546,9 +548,9 @@ script 12 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	You've brought me
-	story data! Set it
-	into the door!
+	Você trouxe os dados
+	de narrativa!
+	Insira-os na porta!
 	"""
 	keyWait
 		any = false
@@ -570,8 +572,9 @@ script 14 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Bring me story data!
-	Be careful!
+	Traga os dados de
+	narrativa aqui!
+	Mas tome cuidado!
 	"""
 	keyWait
 		any = false
@@ -590,8 +593,9 @@ script 15 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Bring me story data!
-	Be careful!
+	Traga os dados de
+	narrativa aqui!
+	Mas tome cuidado!
 	"""
 	keyWait
 		any = false
@@ -601,7 +605,7 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviPink
 	msgOpen
-	"Do you wish to ride?"
+	"Quer embarcar?"
 	keyWait
 		any = false
 	clearMsg
@@ -647,8 +651,9 @@ script 18 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Thank you for
-	riding!
+	Obrigado por
+	experimentar o
+	passeio!
 	"""
 	keyWait
 		any = false
@@ -662,8 +667,8 @@ script 19 mmbn4 {
 		jumpIfTwo = 10
 		jumpIfLess = continue
 	"""
-	You have found
-	story data entitled
+	Você achou dados
+	de narrativa:
 	"
 	"""
 	printStoryData
@@ -673,7 +678,7 @@ script 19 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Take it?\n"
+	"Pegar?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -720,8 +725,8 @@ script 20 mmbn4 {
 		jumpIfTwo = 10
 		jumpIfLess = continue
 	"""
-	You have found
-	story data entitled
+	Você achou dados
+	de narrativa:
 	"
 	"""
 	printStoryData
@@ -731,7 +736,7 @@ script 20 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Take it?\n"
+	"Pegar?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -778,8 +783,8 @@ script 21 mmbn4 {
 		jumpIfTwo = 10
 		jumpIfLess = continue
 	"""
-	You have found
-	story data entitled
+	Você achou dados
+	de narrativa:
 	"
 	"""
 	printStoryData
@@ -789,7 +794,7 @@ script 21 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Take it?\n"
+	"Pegar?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -833,15 +838,15 @@ script 30 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Welcome to the
-	WzDog Cyberworld!
+	Bem-vindo ao
+	Cyber-Mundo do
+	MagoCão!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Are you ready to
-	depart?
+	Pronto para partir?
 	"""
 	keyWait
 		any = false

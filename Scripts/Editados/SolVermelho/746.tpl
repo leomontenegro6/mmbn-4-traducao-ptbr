@@ -5,8 +5,8 @@ script 0 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Hey,where are the
-	lions going?!
+	Ei,aonde os leões
+	estão indo?!
 	"""
 	keyWait
 		any = false
@@ -18,9 +18,9 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	We broke that device
-	he was using to
-	control them!
+	A gente quebrou
+	o aparelho que
+	controlava eles!
 	"""
 	keyWait
 		any = false
@@ -31,9 +31,9 @@ script 2 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Mr.Famous!
-	The hostages are
-	okay!
+	Sr. Famoso!
+	Os reféns vão ficar
+	bem!
 	"""
 	keyWait
 		any = false
@@ -44,7 +44,7 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
-	"You little⋯"
+	"Você...!"
 	keyWait
 		any = false
 	end
@@ -54,9 +54,9 @@ script 4 mmbn4 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	I'm gonna have to
-	teach you a painful
-	lesson,now.
+	Vou ter que te
+	ensinar uma lição
+	bem dolorosa agora.
 	"""
 	keyWait
 		any = false
@@ -67,8 +67,8 @@ script 5 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Eek!
-	I-I'm sorry!
+	Aaahh!
+	D-desculpa!
 	"""
 	keyWait
 		any = false
@@ -78,7 +78,7 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"Let's just talk!"
+	"V-vamos conversar!"
 	keyWait
 		any = false
 	clearMsg
@@ -88,7 +88,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
-	"No more talking!"
+	"Já passou o tempo\npara conversar!"
 	keyWait
 		any = false
 	soundFadeOut
@@ -110,15 +110,14 @@ script 9 mmbn4 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	Thanks,Lan!
-	You saved us!
+	Obrigado,Lan!
+	Você nos salvou!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But,what about the
-	tournament?
+	Mas e o torneio?
 	"""
 	keyWait
 		any = false
@@ -130,17 +129,17 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Oh yeah!
-	I came to find you,
-	Mr.Famous!
+	Ah,é!
+	Eu vim te buscar,
+	Sr. Famoso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Everybody's waiting
-	for us! Hurry back
-	to the Colosseum!
+	Tá todo mundo espe-
+	rando a gente! Bora
+	logo pro Coliseu!
 	"""
 	keyWait
 		any = false
@@ -152,8 +151,9 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	Is that true?!
-	Then let's run!
+	É mesmo?!
+	Então,pernas pra que
+	te quero!
 	"""
 	keyWait
 		any = false

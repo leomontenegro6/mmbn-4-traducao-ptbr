@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Did it work?!"
+	"Deu certo?!"
 	keyWait
 		any = false
 	wait
@@ -15,7 +15,7 @@ script 0 mmbn4 {
 }
 script 1 mmbn4 {
 	mugshotHide
-	"MT SYSTEM DISABLED."
+	"SISTEMA DESLIGADO."
 	keyWait
 		any = false
 	end
@@ -24,13 +24,13 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"We did it!!"
+	"Conseguimos!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The igniter's
-	disabled!
+	O dispositivo foi
+	desativado!
 	"""
 	keyWait
 		any = false

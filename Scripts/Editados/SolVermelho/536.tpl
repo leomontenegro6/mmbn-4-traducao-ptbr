@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Alright! Sharo and
-	Netopia Area are now
-	connected,Lan!
+	Beleza! Sharo e a
+	Área Ameropa tão
+	ligados,Lan!
 	"""
 	keyWait
 		any = false

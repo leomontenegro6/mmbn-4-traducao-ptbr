@@ -9,39 +9,41 @@ script 0 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Welcome to Hotel
-	Netopia! I am Anna,
+	Bem-vindos ao
+	Hotel Ameropa!
+	Sou Anna,a gerente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the manager. This
-	BBS provides helpful
+	Este Fórum serve
+	para fornecer
+	informações que
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	information so that
-	guests can fight
-	viruses safely in
+	ajudem hóspedes a
+	enfrentar vírus em
+	segurança nesta
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	this unfamiliar
-	area. Messages are
-	welcome from both
+	área desconhecida.
+	Aceitamos postagens
+	de ameropanos e
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Netopians and non-
-	Netopians alike,so
-	please post freely!
+	visitantes,então,
+	fiquem à vontade
+	para postar!
 	"""
 	keyWait
 		any = false
@@ -56,25 +58,25 @@ script 1 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Tee-hee! Tee-hee!
-	Travelin' the world
-	is mah hobby! Ah'll
+	Hi hi! Hi hi! Viajar
+	pelo mundo é o meu
+	hobby! Vou falar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	learn ya all about
-	each country's Net!
-	Ah'll start mah
+	pra vocês das Redes
+	de cada país!
+	O meu Guia das
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Traveller's Guide
-	to the Global Net
-	with mah next post!
+	Redes Globais
+	começa na minha
+	próxima postagem!
 	"""
 	keyWait
 		any = false
@@ -89,47 +91,48 @@ script 2 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Travel in
-	YumLand Area!
+	Viagem pela
+	Área Saborya!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Battles in YumLand
-	Area often take
-	place on fields with
+	As lutas na Área
+	Saborya costumam
+	ocorrer em campos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	weeds and cracks.
-	Look out for Kilby
-	viruses.
+	com grama e fissu-
+	ras. Cuidado com os
+	vírus Kilby.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They warp into yer
-	area and attack with
+	Eles se teletrans-
+	portam para a sua
+	área e atacam com
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	spears. If ya stand
-	in the top row
-	though,they won't
+	lanças. Mas se ficar
+	na linha de cima,
+	eles não vão até
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	teleport to ya.
-	They're Wood-based,
-	so use Fire chips!
+	você. Eles são vírus
+	de Madeira,então,
+	use chips de Fogo!
 	"""
 	keyWait
 		any = false
@@ -144,52 +147,54 @@ script 3 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Travel in
-	Sharo Area!
+	Viagem pela
+	Área Sharo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sharo's a frozen
-	wasteland,with
-	frozen panels on its
+	Sharo é uma terra
+	congelada,com qua-
+	dros de gelo na Rede
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Net too so ya might
-	wanna use a Repair
-	chip as yer
+	também,então tente
+	usar um Repair como
+	Chip Padrão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Regular. Watch out
-	for Wallas! Their
+	Cuidado com os
+	Wallas! Os ataques
+	de presa deles
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	tusk attacks are
-	scary,so stay off
+	são coisa séria,
+	então,não fique na
+	mesma linha que
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the same row as
-	them! It'd be wise
+	eles! Se quer uma
+	recomendação,use
+	chips que atacam
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ta use chips that
-	attack other rows.
+	outras linhas.
 	"""
 	keyWait
 		any = false
@@ -204,45 +209,47 @@ script 4 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Travel in
-	NetFrica Area!
+	Viagem pela
+	Área Affriq!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The vast land of
-	NetFrica contains
+	O vasto território
+	da Affriq contém
+	selvas e desertos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	jungles and deserts!
-	Beware of pitfalls!
+	Cuidado com buracos
+	abertos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ya can always use
-	a Repair chip as
+	Sempre dá pra usar
+	um Repair como Chip
+	Padrão,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	yer Regular,but ya
-	might wanna try ta
-	sucker viruses into
+	mas também dá pra
+	usar os buracos
+	contra os vírus!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the pitfalls! They
-	won't affect viruses
-	that fly though⋯
+	Só não funciona
+	contra vírus
+	voadores...
 	"""
 	keyWait
 		any = false
@@ -257,80 +264,80 @@ script 5 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Lastly⋯
-	Travel in
-	Netopia Area!
+	E,por fim...
+	Viagem pela
+	Área Ameropa!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Netopia Area lies
-	through this hotel's
-	HP. Be on the alert!
+	A Área Ameropa fica
+	além da página deste
+	hotel. Fique alerta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Netopia's Net is
-	well-maintained,
-	making movement easy
+	A Rede da Ameropa é
+	bem cuidada,o que
+	facilita movimento
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	in battles. Ya might
-	encounter Walla
-	from Sharo Area,
+	em batalha. Pode-se
+	achar Wallas da Área
+	Sharo aqui também,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but even more
-	dangerous are
-	the MolokoEX's!
+	mas tem coisa pior,
+	como os MolokoEXs!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Their thick fur just
-	won't come off! Oooh
-	they drive me crazy!
+	A lã espessa deles
+	não sai! Aaah,eles
+	me dão tanta raiva!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ya have ta use a
-	charge attack,
-	followed immediately
+	O jeito é usar um
+	tiro carregado,e
+	depois,um chip de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	by a chip attack!
-	Well,that concludes
+	ataque!
+	Bom,isso conclui a
+	aula.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	mah lessons.
-	Traveling can be
-	real fun,but only
+	Viajar é muito
+	divertido,mas só
+	se você ficar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	if yer prepared!
-	I wish y'all
-	pleasant travels!
+	preparado!
+	Desejo a vocês uma
+	viagem tranquila!
 	"""
 	keyWait
 		any = false
@@ -345,35 +352,39 @@ script 6 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Hey all! I've opened
-	up a chip shop in
-	South Netopia! I'm
+	Oi,gente! Abri uma
+	loja de chips no
+	sul da Ameropa!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	staying here 'cause
-	I'm on a trip to
+	Vou ficar aqui
+	porque estou em uma
+	viagem para achar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	find rare chips! I
-	was just hustled
+	chips raros!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"into buying a chip"
+	"""
+	Fui convencido a
+	comprar um chip
+	chamado "Hole"
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	called "Hole" in the
-	Underground. Is
-	this a DarkChip⋯?
+	no mercado perifé-
+	rico. É um Chip das
+	Trevas...?
 	"""
 	keyWait
 		any = false
@@ -388,40 +399,40 @@ script 7 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Whazzup! Globe-
-	trotter Koetsu in
-	da house! "Hole",
+	Fala! Koetsu,o
+	viajante,na área!
+	"Hole",é?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you say? Actually⋯ 
-	it isn't a Dark-
-	Chip! It creates a
+	Na verdade... não
+	é um Chip das
+	Trevas! Ele só cria
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	hole in a panel.
-	Word has it that
+	um buraco em um
+	quadro. Dizem por aí
+	que certos chips
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	some chips grow
-	stronger the more
-	Holes you have. I
+	ficam mais fortes
+	quanto mais buracos
+	você tem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	don't know which
-	chips those are
-	though⋯
+	Mas não sei QUAIS
+	chips...
 	"""
 	keyWait
 		any = false
@@ -436,29 +447,30 @@ script 8 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Chips that grow in
-	power the more Holes
-	you have are those
+	Chips que ficam mais
+	fortes quanto mais
+	buracos se tem são
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that extract Dark
-	Souls in Navis. They
-	end with the letters
+	os que extraem as
+	Almas Sombrias de
+	Navis. Os nomes
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"DS". Anyhoo,I hear
-	they can only be
+	deles terminam com
+	"DS". Enfim,parece
+	que eles só podem
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"used by evil Navis."
+	"ser usados por Navis\nmalignos."
 	keyWait
 		any = false
 	waitHold
@@ -472,14 +484,18 @@ script 9 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	I'm staying here on
-	my quest for a chip⋯
-	It's called
+	Estou hospedado aqui
+	na minha jornada
+	atrás de um chip...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"BlkBomb\". Anyone \nhave any info?"
+	"""
+	Se chama "BlkBomb".
+	Alguém aí teria
+	alguma informação?
+	"""
 	keyWait
 		any = false
 	waitHold
@@ -493,23 +509,24 @@ script 10 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	This is Anna,the
-	hotel manager.
-	Another guest was
+	Aqui é Anna,a
+	gerente do hotel.
+	Outro hóspede estava
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	looking for the same
-	chip! I saw him
+	atrás desse mesmo
+	chip! Eu o vi
+	acessar a Área
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	accessing the Sharo
-	Area. HTH!
+	Sharo. Fico feliz
+	em poder ajudar!
 	"""
 	keyWait
 		any = false

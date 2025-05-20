@@ -2,7 +2,7 @@
 
 script 0 mmbn4 {
 	msgOpen
-	"The Battle BBS⋯"
+	"O Fórum de Luta..."
 	keyWait
 		any = false
 	startBBS

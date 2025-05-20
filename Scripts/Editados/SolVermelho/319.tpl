@@ -12,38 +12,37 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	AH! MEGAMAN!
-	HELLO,HELLO!
+	OI,OI!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WOULD YOU LIKE TO
-	LINK YOUR HP WITH
-	THIS ONE?
+	GOSTARIA DE LIGAR A
+	SUA PÁGINA A ESTA?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	DOING SO WOULD
-	CREATE A LINK
-	BETWEEN THE SITES!
+	PARA ISSO,CRIARÍAMOS
+	UM LINK LIGANDO
+	ELAS!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THAT WILL ALLOW YOU
-	TO JUMP FROM ONE
-	SITE TO THE OTHER!
+	AÍ,VOCÊ PODERIA IR
+	DE UM SITE PARA O
+	OUTRO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WOULD YOU LIKE TO
-	CREATE A LINK?
+	GOSTARIA DE CRIAR UM
+	LINK?
 	"""
 	keyWait
 		any = false
@@ -83,7 +82,7 @@ script 0 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
-	"I SEE⋯"
+	"ENTENDO..."
 	keyWait
 		any = false
 	end
@@ -93,9 +92,8 @@ script 1 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	HERE! TAKE THE
-	BANNER FOR THIS
-	SITE!
+	AQUI! TOME O BANNER
+	DESTE SITE!
 	"""
 	keyWait
 		any = false
@@ -122,14 +120,13 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	I'LL JUST GO AHEAD
-	AND CREATE THE LINK
-	ON THIS SIDE⋯
+	CERTO,VOU INSTALAR O
+	LINK DESTE LADO...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"OK!"
+	"IÁ!"
 	keyWait
 		any = false
 	soundDisableTextSFX
@@ -144,9 +141,9 @@ script 2 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THERE WE GO! THESE
-	BANNERS ARE SO
-	HANDY!
+	PRONTO! ESSES
+	BANNERS SÃO TÃO
+	PRÁTICOS!
 	"""
 	keyWait
 		any = false
@@ -157,15 +154,17 @@ script 10 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	MAYL WROTE ABOUT
-	LAN IN HER DIARY!
+	A MAYL ESCREVEU
+	SOBRE O LAN NO
+	DIÁRIO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OF COURSE,WHAT SHE
-	WROTE IS TOP SECRET!
+	MAS,CLARO,O QUE
+	ELA ESCREVEU É
+	ULTRASSECRETO!
 	"""
 	keyWait
 		any = false
@@ -180,8 +179,8 @@ script 130 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! The Net fire
-	has cut out the
+	Lan! O incêndio na
+	Rede estragou o
 	link!
 	"""
 	keyWait
@@ -193,17 +192,17 @@ script 131 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The fire is
-	preventing the link
-	from being fixed!
+	O incêndio tá
+	impedindo o link
+	de funcionar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looks like it will
-	take some time until
-	it's fixed again⋯
+	Parece que ainda vai
+	demorar pra ele
+	voltar ao normal...
 	"""
 	keyWait
 		any = false

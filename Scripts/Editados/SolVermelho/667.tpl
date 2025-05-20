@@ -5,21 +5,22 @@ script 0 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	May I have your
-	attention,please!
+	Sua atenção,por
+	favor?!
+	Uma salva de palmas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Welcome this priest-
-	ess NetBattler from
-	Scissor Island,
+	para esta sacerdo-
+	tisa NetLutadora
+	da Ilha Shisa...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Lilly!"
+	"Lilly Igarashi!"
 	keyWait
 		any = false
 	end
@@ -28,11 +29,11 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = LillyDrunk
 	msgOpen
-	"Wee⋯"
+	"Êêê..."
 	keyWait
 		any = false
 	clearMsg
-	"*hic*"
+	"Hic!"
 	keyWait
 		any = false
 	clearMsg
@@ -54,7 +55,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = LillyDrunk
 	msgOpen
-	"Hey!"
+	"Oooiii!"
 	keyWait
 		any = false
 	clearMsg
@@ -69,7 +70,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Umm,yes?"
+	"Er... Sim?"
 	keyWait
 		any = false
 	clearMsg
@@ -81,16 +82,17 @@ script 5 mmbn4 {
 		mugshot = LillyDrunk
 	msgOpen
 	"""
-	How dare you ruin my
-	wonderful plan!
+	Como cê ousa
+	arruinar o meu
+	plano perfeito?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll still tear you
-	apart,though. You'd
-	better be ready!
+	Mas eu ainda vou te
+	dilacerar. Prepara
+	que lá vai!
 	"""
 	keyWait
 		any = false
@@ -103,16 +105,16 @@ script 6 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lilly,are you drunk
-	or something?
+	Lilly,você tá...
+	bêbada,por acaso?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Aha! You mentioned
-	not remembering a
-	thing. Could it be?
+	Ah! Você falou sobre
+	não se lembrar das
+	coisas. Será que...?
 	"""
 	keyWait
 		any = false
@@ -125,9 +127,9 @@ script 7 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I think Lilly might
-	have been drunk like
-	now.
+	Acho que a Lilly
+	estava bêbada,que
+	nem está agora.
 	"""
 	keyWait
 		any = false
@@ -139,14 +141,14 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = WindMan
 	msgOpen
-	"Sorry,MegaMan."
+	"Desculpe,MegaMan."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think Lilly drank
-	rice wine instead of
-	water by mistake.
+	Acho que Lilly bebeu
+	saquê em vez de água
+	por engano.
 	"""
 	keyWait
 		any = false
@@ -158,21 +160,21 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = LillyDrunk
 	msgOpen
-	"Hey!"
+	"Eeeei!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What are you guys
-	jabbering about!
+	Do que é que vocês
+	tão falando aí?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's get this show
-	on the road!
-	*hic*
+	Bora logo começar
+	o ssshhhow!
+	Hic!
 	"""
 	keyWait
 		any = false
@@ -185,14 +187,14 @@ script 10 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	Lilly is all ready
-	to fight,even
-	before the match!
+	A Lilly está pronta
+	pra briga mesmo!
+	Olha que atitude!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's begin!"
+	"Vamos começar!"
 	keyWait
 		any = false
 	end
@@ -202,9 +204,9 @@ script 11 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	Lan
+	Lan Hikari
 	Vs.
-	Lilly
+	Lilly Igarashi!
 	"""
 	keyWait
 		any = false
@@ -235,13 +237,13 @@ script 13 mmbn4 {
 		mugshot = WindMan
 	msgOpen
 	"""
-	In the name of he
-	who rules the winds!
+	Em nome daquele que
+	governa os ventos...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's go,MegaMan!"
+	"lutemos,MegaMan!"
 	keyWait
 		any = false
 	end

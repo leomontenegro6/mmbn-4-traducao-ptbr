@@ -4,21 +4,22 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Flave
 	msgOpen
-	"All right!"
+	"Certo!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Me and my Navi will
-	use this cooking
+	Meu Navi e eu
+	usaremos esta
+	máquina culinária
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	machine to make some
-	ultra-delicious
-	curry!
+	para preparar um
+	curry ultra-
+	delicioso!
 	"""
 	keyWait
 		any = false
@@ -30,7 +31,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Man
 	msgOpen
-	"Cooking machine?"
+	"Máquina culinária?"
 	keyWait
 		any = false
 	clearMsg
@@ -41,14 +42,14 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = BusinessMan
 	msgOpen
-	"I've heard of that."
+	"Já ouvi falar dela."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's so a Navi and
-	an operator can
-	cook together.
+	Ela permite que Navi
+	e operador cozinhem
+	juntos.
 	"""
 	keyWait
 		any = false
@@ -60,26 +61,27 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Flave
 	msgOpen
-	"Exactly!"
+	"Exato!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I use my Navi
-	operating skills
-	and this machine to
+	Eu uso meu Navi so-
+	mado às minhas habi-
+	lidades de operação
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	make the best
-	curry in Electopia!
+	nesta máquina para
+	fazer o melhor curry
+	de Ni-Hon!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hey,you there!"
+	"Ei,você aí!"
 	keyWait
 		any = false
 	end
@@ -88,7 +90,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = OldMan
 	msgOpen
-	"Me?"
+	"Eu?"
 	keyWait
 		any = false
 	clearMsg
@@ -99,11 +101,11 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Flave
 	msgOpen
-	"Yeah,you!"
+	"É,você!"
 	keyWait
 		any = false
 	clearMsg
-	"Try this curry!"
+	"Experimente este\ncurry!"
 	keyWait
 		any = false
 	clearMsg
@@ -115,33 +117,33 @@ script 6 mmbn4 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Hah,you thought I
-	was just some random
-	old man?!
+	Ha,achou que eu era
+	só um velhinho
+	qualquer,é?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm the Master Chef
-	of the 200-years-old
-	Electopian Chef's
+	Sou o Chef Superior
+	da secular Associa-
+	ção Ni-Honense de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Association!
-	I won't call any
-	curry delicious
+	Chefs!
+	Só falo que um curry
+	é delicioso se ele
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	unless it's pretty
-	incredible! Are you
-	sure?!
+	realmente for
+	incrível! Quer mesmo
+	que eu experimente?!
 	"""
 	keyWait
 		any = false
@@ -154,14 +156,14 @@ script 7 mmbn4 {
 		mugshot = Flave
 	msgOpen
 	"""
-	Hehe,then I
-	definitely want you
-	to try it!
+	He he,então aí é que
+	eu quero MESMO que
+	você experimente!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Go ahead!"
+	"Prossiga!"
 	keyWait
 		any = false
 	clearMsg
@@ -173,9 +175,9 @@ script 8 mmbn4 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Well,if it means
-	that much to you,
-	I'll try it.
+	Bem,se está tão
+	seguro assim,eu
+	experimento.
 	"""
 	keyWait
 		any = false
@@ -185,7 +187,7 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = OldMan
 	msgOpen
-	"*chew chew*"
+	"Chomp Chomp"
 	keyWait
 		any = false
 	end
@@ -197,7 +199,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Man
 	msgOpen
-	"How is it,mister?"
+	"E aí,senhor?"
 	keyWait
 		any = false
 	clearMsg
@@ -208,7 +210,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = YoungWoman
 	msgOpen
-	"*thump thump*"
+	"...?"
 	keyWait
 		any = false
 	end
@@ -217,15 +219,15 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = OldMan
 	msgOpen
-	"Mmm⋯"
+	"Mmm..."
 	keyWait
 		any = false
 	clearMsg
-	"Mmm⋯"
+	"Mmm..."
 	keyWait
 		any = false
 	clearMsg
-	"IT'S DELICIOUS!!!"
+	"QUE DELÍÍÍÍCIA!!!"
 	keyWait
 		any = false
 	end
@@ -234,7 +236,7 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = BusinessMan
 	msgOpen
-	"Oh my!"
+	"Nossa!"
 	keyWait
 		any = false
 	clearMsg
@@ -246,9 +248,8 @@ script 14 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Your soul is
-	starting to leak
-	out!
+	A alma dele tá
+	saindo do corpo!
 	"""
 	keyWait
 		any = false
@@ -260,23 +261,24 @@ script 15 mmbn4 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Huh! Oh no,this
-	won't do!
+	Ahhh! Nossa,essa foi
+	quase!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It was so delicious,
-	I started flying up
+	Estava tão bom que
+	eu comecei a ser
+	levado pro Céu,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to heaven,where my
-	wife's been these
-	past 10 years!
+	para o qual a minha
+	esposa foi 10 anos
+	atrás!
 	"""
 	keyWait
 		any = false
@@ -288,7 +290,7 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = Man
 	msgOpen
-	"Is it that good?"
+	"É bom assim?"
 	keyWait
 		any = false
 	clearMsg
@@ -299,7 +301,7 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = YoungWoman
 	msgOpen
-	"Let me try it!"
+	"Eu quero comer!"
 	keyWait
 		any = false
 	end
@@ -309,9 +311,9 @@ script 18 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Me too!
-	I never did like
-	curry,too!
+	Eu também!
+	E olha que nem gosto
+	tanto de curry!
 	"""
 	keyWait
 		any = false
@@ -321,14 +323,14 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = Flave
 	msgOpen
-	"So,impressed?"
+	"E aí,impressionado?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Everyone left with
-	smiles on their
-	faces!
+	Todo mundo que come
+	minha comida sai com
+	um sorriso!
 	"""
 	keyWait
 		any = false
@@ -342,12 +344,11 @@ script 20 mmbn4 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"⋯⋯\n"
+	"......\n"
 	mugshotAnimation
 		animation = 2
 	"""
-	Well yeah,it was
-	good.
+	Bom,é,tava bom.
 	"""
 	keyWait
 		any = false
@@ -359,7 +360,7 @@ script 21 mmbn4 {
 	mugshotShow
 		mugshot = Flave
 	msgOpen
-	"What? Just good?!"
+	"O quê? Só BOM?!"
 	keyWait
 		any = false
 	clearMsg
@@ -370,25 +371,26 @@ script 22 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What's it missing?!"
+	"O que será que tá\nfaltando...?"
 	keyWait
 		any = false
 	clearMsg
-	"The flavor is great,"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	but I think I prefer
-	my Mom's curry.
-	"""
+	"O sabor é bom,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder what it is,
-	that's in my Mom's
-	curry but not yours.
+	mas eu acho que
+	prefiro o curry da
+	minha mãe.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Não sei o que é,mas
+	o dela tem algo que
+	o seu não tem.
 	"""
 	keyWait
 		any = false
@@ -398,28 +400,30 @@ script 23 mmbn4 {
 	mugshotShow
 		mugshot = Flave
 	msgOpen
-	"Why,you⋯"
+	"Ora,seu...!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've heard enough of
-	your nonsense!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	You don't deserve to
-	eat curry! You have
-	no sense of taste!
+	Não vou ficar aqui
+	ouvindo essas
+	baboseiras!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is a delicacy,
-	did you know that?!
+	Você não MERECE
+	comer curry!
+	Não tem paladar!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Este é um prato
+	requintado,não
+	sabia?!
 	"""
 	keyWait
 		any = false
@@ -429,28 +433,29 @@ script 24 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Humph!"
+	"Humpf!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What's the big deal?
-	I just told you how
-	I felt!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Besides,anyone with
-	a Navi and that
+	Qual é a sua,hein?
+	Eu dei a minha
+	opinião sincera!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	machine could make
-	tasty curry,right?
+	Além disso,qualquer
+	um com um Navi e
+	essa máquina
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	consegue fazer curry
+	gostoso,né?
 	"""
 	keyWait
 		any = false
@@ -460,21 +465,22 @@ script 25 mmbn4 {
 	mugshotShow
 		mugshot = Flave
 	msgOpen
-	"What did you say?!"
+	"Como é que é?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you think you can
-	make tasty curry
-	with that machine,
+	Se acha que consegue
+	fazer curry bom com
+	a máquina,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	how about a cook-off
-	between you and me!
+	então que tal uma
+	disputa culinária
+	entre você e eu?!
 	"""
 	keyWait
 		any = false
@@ -486,7 +492,7 @@ script 26 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Huh?"
+	"Hã?"
 	keyWait
 		any = false
 	clearMsg
@@ -498,9 +504,8 @@ script 27 mmbn4 {
 		mugshot = Flave
 	msgOpen
 	"""
-	A CookingBattle
-	before the
-	NetBattle!
+	Uma Luta Culinária
+	antes na NetLuta!
 	"""
 	keyWait
 		any = false
@@ -513,9 +518,9 @@ script 28 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You're kidding! It'd
-	be a breeze for me
-	and MegaMan!
+	Por favor,né? Vai
+	ser moleza pro
+	MegaMan e eu!
 	"""
 	keyWait
 		any = false
@@ -527,14 +532,14 @@ script 29 mmbn4 {
 	mugshotShow
 		mugshot = Flave
 	msgOpen
-	"It's settled then!"
+	"Marcado,então!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Come back here when
-	you're ready!
-	No running away!
+	Volte aqui quando
+	estiver pronto!
+	Não vá fugir,hein?!
 	"""
 	keyWait
 		any = false
@@ -546,7 +551,7 @@ script 30 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Oh yeah!"
+	"Rá!"
 	keyWait
 		any = false
 	end

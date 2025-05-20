@@ -6,7 +6,7 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	Aaah!
-	Not more viruses?!
+	Mais vírus ainda?!
 	"""
 	keyWait
 		any = false
@@ -20,7 +20,7 @@ script 1 mmbn4 {
 	soundDisableTextSFX
 	soundPlay
 		track = 417
-	"Wooooooaaaa⋯"
+	"Uaaaarghh..."
 	keyWait
 		any = false
 	clearMsg
@@ -33,8 +33,8 @@ script 2 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Aah! This is going
-	to be tough!
+	Aah! Esse vai ser
+	dureza!
 	"""
 	keyWait
 		any = false

@@ -3,22 +3,22 @@
 script 0 mmbn4 {
 	msgOpen
 	"""
-	An enormous power
-	generator producing
-	great energy⋯
+	Um enorme gerador
+	elétrico,produzindo
+	muita energia...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Most of NAXA's
-	electrical power
-	comes from here⋯
+	Maior parte da
+	eletricidade da
+	NAXA vem daqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"You can jack in!"
+	"Dá para se conectar\nnele!"
 	keyWait
 		any = false
 	end

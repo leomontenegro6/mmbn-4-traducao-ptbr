@@ -12,37 +12,37 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	I AM THE WATERGOD
-	PROGRAM.
+	EU SOU O PROGRAMA
+	DO DEUS DA ÁGUA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ONCE THERE WERE
-	MANY PROGRAMS USED
-	FOR THE WATERGOD,
+	NO PASSADO,VÁRIOS
+	PROGRAMAS ERAM USA-
+	DOS PARA O DEUS,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT THEIVES HAVE
-	MADE OFF WITH ALL
-	THE OTHERS.
+	MAS LADRÕES ACABARAM
+	POR LEVAR TODOS OS
+	DEMAIS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THIS IS FATEFUL
-	MEETING. I SHALL BE-
-	STOW LUCK UPON YOU!
+	ESTE ENCONTRO É
+	FATÍDICO. CONFERIREI
+	SORTE A VOCÊ!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"WATERS OF HEALING!"
+	"ÁGUAS DA CURA!"
 	keyWait
 		any = false
 	end
@@ -51,7 +51,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGold
 	msgOpen
-	"AND I GIVE YOU THIS."
+	"E LHE DAREI ISTO."
 	keyWait
 		any = false
 	end
@@ -64,7 +64,7 @@ script 2 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGold
-	"MAY WE MEET AGAIN."
+	"QUE NOS ENCONTREMOS\nDE NOVO."
 	keyWait
 		any = false
 	clearMsg

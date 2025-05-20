@@ -10,16 +10,16 @@ script 0 mmbn4 {
 		mugshot = Dex
 	msgOpen
 	"""
-	I always knew the
-	day would come when
-	you'd challenge the
+	Eu sabia que,um dia,
+	cê ia desafiar o
+	mundo,Lan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	world. I envy you,
-	Lan!
+	Ainda assim,que
+	inveja!
 	"""
 	keyWait
 		any = false
@@ -35,8 +35,8 @@ script 1 mmbn4 {
 		mugshot = Chisao
 	msgOpen
 	"""
-	Wow! A world-class
-	tournament!
+	Uau! Um "tôneio"
+	mundial!
 	"""
 	keyWait
 		any = false
@@ -50,21 +50,21 @@ script 5 mmbn4 {
 		mugshot = Dex
 	msgOpen
 	"""
-	The Red Sun
-	Tournament will take
-	place
+	O Torneio Sol
+	Vermelho vai ser lá
+	na Ameropa,né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	in Netopia,right?
-	Uh⋯Just wondering⋯
+	Ah... Só queria
+	saber,mesmo...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Go win that thing!"
+	"Vai lá e vence!"
 	keyWait
 		any = false
 	end
@@ -74,13 +74,13 @@ script 6 mmbn4 {
 		mugshot = Chisao
 	msgOpen
 	"""
-	I've been to the
-	Netopia Colosseum!
+	Eu já fui no
+	"Coiseu" Ameropa!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It's human-gus!"
+	"Ele é gigante-esco!"
 	keyWait
 		any = false
 	end
@@ -90,21 +90,21 @@ script 7 mmbn4 {
 		mugshot = Dex
 	msgOpen
 	"""
-	The Blue Moon
-	Tournament will take
-	place
+	O Torneio Lua Azul
+	vai ser lá na
+	Ameropa,né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	in Netopia,right?
-	Uh⋯Just wondering⋯
+	Ah... Só queria
+	saber,mesmo...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Go win that thing!"
+	"Vai lá e vence!"
 	keyWait
 		any = false
 	end
@@ -129,17 +129,17 @@ script 10 mmbn4 {
 		mugshot = Dex
 	msgOpen
 	"""
-	You're finally the
-	world champ⋯
-	WOO-HOOO!!
+	Cê,finalmente,é
+	o campeão mundial...
+	AÊÊÊÊ!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Man,that helicopter
-	performance was
-	awesome too!
+	Cara,aquilo lá com
+	o helicóptero foi
+	o bicho também!
 	"""
 	keyWait
 		any = false
@@ -150,16 +150,16 @@ script 15 mmbn4 {
 		mugshot = Dex
 	msgOpen
 	"""
-	That "Nebula" group
-	seems to be up to a
-	lot of no good⋯
+	Esse grupo "Nebula"
+	parece que tá apron-
+	tando poucas e boas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Officials all
-	look really wired!
+	Os Oficiais tão tudo
+	pilhado!
 	"""
 	keyWait
 		any = false
@@ -170,22 +170,22 @@ script 20 mmbn4 {
 		mugshot = Dex
 	msgOpen
 	"""
-	I can't believe an
-	asteroid's gonna
-	hit us⋯
+	Não acredito que tem
+	um asteroide vindo
+	pra cá...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but if it is,I know
-	you could do some-
-	thing about it,Lan.
+	Mas,se tá,sei que cê
+	consegue resolver,
+	Lan.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm counting on you!"
+	"Conto com você!"
 	keyWait
 		any = false
 	end
@@ -195,16 +195,12 @@ script 25 mmbn4 {
 		mugshot = Dex
 	msgOpen
 	"""
-	I can't stand not
-	being able to do
+	Eu odeio não poder
+	fazer nada!
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"anything!\n"
 	mugshotAnimation
 		animation = 1
-	"......"
+	"\n......"
 	keyWait
 		any = false
 	clearMsg
@@ -212,7 +208,7 @@ script 25 mmbn4 {
 		animation = 2
 	"""
 	Lan,MegaMan,
-	I'm counting on you!
+	conto com vocês!
 	"""
 	keyWait
 		any = false

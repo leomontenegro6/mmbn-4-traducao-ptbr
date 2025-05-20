@@ -7,8 +7,9 @@ script 0 mmbn4 {
 	color
 		palette = 1
 	"""
-	About that time in
-	the Net's ACDC Area⋯
+	Mais ou menos ao
+	mesmo tempo,na Área
+	ACDC da Rede...
 	"""
 	keyWait
 		any = false
@@ -18,14 +19,14 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Roll
 	msgOpen
-	"⋯Yeah,Mayl."
+	"... Pois é,a Mayl."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	She just scream like
-	a little girl and
-	run away.
+	Ela gritou que nem
+	menininha e saiu
+	correndo.
 	"""
 	keyWait
 		any = false
@@ -38,8 +39,9 @@ script 2 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Roll! You're
-	embarrassing me!
+	Roll! Você tá me
+	fazendo passar
+	vergonha!
 	"""
 	keyWait
 		any = false
@@ -51,8 +53,9 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = GutsMan
 	"""
-	Wait till I tell you
-	about Dex⋯
+	Esperem só até eu
+	falar do Dex,
+	Guts...!
 	"""
 	keyWait
 		any = false
@@ -64,7 +67,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Dex
 	"""
-	What about me,
+	O que tem eu,
 	GutsMan?
 	"""
 	keyWait
@@ -76,9 +79,9 @@ script 5 mmbn4 {
 		mugshot = GutsMan
 	msgOpen
 	"""
-	N-Nothing. I was
-	just thinking out
-	loud⋯
+	N-nada,não. Eu só
+	tava pensando alto,
+	Guts...
 	"""
 	keyWait
 		any = false
@@ -96,7 +99,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotHide
 	msgOpen
-	"Excuse me,MegaMan."
+	"Com licença.\nMegaMan?"
 	keyWait
 		any = false
 	end
@@ -105,7 +108,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"MegaMan,isn't it?"
+	"Você é o MegaMan,\nnão?"
 	keyWait
 		any = false
 	clearMsg
@@ -115,7 +118,7 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Yes,but who are you?"
+	"Sou,mas quem é você?"
 	keyWait
 		any = false
 	clearMsg
@@ -129,25 +132,25 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	I represent the
-	World NetBattle
-	Association.
+	Eu represento a
+	Associação Mundial
+	de NetLuta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We are about to hold
-	the world tournament
-	in Netopia.
+	Em breve,sediaremos
+	o torneio mundial na
+	Ameropa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's called Red Sun
-	and we'd be honored
-	if you'd take part.
+	Se chama "Sol Verme-
+	lho",e ficaríamos
+	honrados de tê-lo.
 	"""
 	keyWait
 		any = false
@@ -162,8 +165,8 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	The Red Sun
-	Tournament?
+	O Torneio Sol
+	Vermelho?
 	"""
 	keyWait
 		any = false
@@ -178,17 +181,17 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	That's right!
-	NetBatters will come
-	from many countries
+	Sim! NetLutadores
+	de diversos países
+	competirão no
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to take part in the
-	ultimate Tournament⋯
-	Red Sun!
+	torneio supremo...
+	o Torneio Sol
+	Vermelho!
 	"""
 	keyWait
 		any = false
@@ -199,8 +202,8 @@ script 13 mmbn4 {
 		mugshot = GutsMan
 	msgOpen
 	"""
-	Wow!
-	Good luck,MegaMan!
+	Nossa,Guts!
+	Boa sorte,MegaMan!
 	"""
 	keyWait
 		any = false
@@ -212,9 +215,9 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = Roll
 	"""
-	So you'll be going
-	to Netopia,right?
-	Lucky thing!
+	Então,você vai pra
+	Ameropa,é?
+	Sortudo!
 	"""
 	keyWait
 		any = false
@@ -226,8 +229,8 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Is that right? Will
-	I go to Netopia?
+	É isso mesmo?
+	Eu vou pra Ameropa?
 	"""
 	keyWait
 		any = false
@@ -239,9 +242,9 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	Yes. One week from
-	now during the
-	school holidays.
+	Aham. Daqui uma
+	semana,durante o
+	feriado escolar.
 	"""
 	keyWait
 		any = false
@@ -253,15 +256,17 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Yes! I'll definitely
-	be able to compete!
+	Legal! Eu vou poder
+	competir sem
+	problemas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And maybe I'll even
-	meet Dad!
+	E talvez até me
+	encontre com o
+	papai lá!
 	"""
 	keyWait
 		any = false
@@ -273,8 +278,9 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Better get Mom's
-	permission first.
+	Melhor pedir a
+	permissão da
+	mamãe primeiro.
 	"""
 	keyWait
 		any = false
@@ -286,13 +292,13 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	Well,I'll leave the
-	details to you.
+	Bom,deixarei os
+	detalhes com você.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Please take this."
+	"Por favor,leve isto."
 	keyWait
 		any = false
 	clearMsg
@@ -327,22 +333,24 @@ script 21 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	When you arrive in
-	Netopia next week,
+	Quando chegar na
+	Ameropa semana que
+	vem,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the staff there will
-	tell you what to do.
+	os funcionários lá
+	lhe dirão o que deve
+	fazer.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll take my leave
-	of you now. Goodbye.
+	Me despeço por aqui,
+	então. Adeus.
 	"""
 	keyWait
 		any = false
@@ -353,8 +361,8 @@ script 22 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan. Let's go
-	talk to Mom!
+	MegaMan,vamos lá
+	falar com a mamãe!
 	"""
 	keyWait
 		any = false
@@ -374,7 +382,7 @@ script 24 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"So,everyone!"
+	"Bem,tchau,gente!"
 	keyWait
 		any = false
 	end
@@ -383,25 +391,25 @@ script 25 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	I represent the
-	World NetBattle
-	Association.
+	Eu represento a
+	Associação Mundial
+	de NetLuta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We are about to hold
-	the world tournament
-	in Netopia.
+	Em breve,sediaremos
+	o torneio mundial na
+	Ameropa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's Blue Moon
-	and we'd be honored
-	if you'd take part.
+	Se chama "Lua Azul",
+	e ficaríamos
+	honrados de tê-lo.
 	"""
 	keyWait
 		any = false
@@ -413,8 +421,7 @@ script 26 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	The Blue Moon
-	Tournament?
+	O Torneio Lua Azul?
 	"""
 	keyWait
 		any = false
@@ -426,17 +433,16 @@ script 27 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	That's right!
-	NetBatters will come
-	from many countries
+	Sim! NetLutadores
+	de diversos países
+	competirão no
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to take part in the
-	ultimate Tournament⋯
-	Blue Moon!
+	torneio supremo...
+	O Torneio Lua Azul!
 	"""
 	keyWait
 		any = false

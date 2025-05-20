@@ -10,24 +10,24 @@ script 0 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I AM THE NEW PROGRAM
-	IN CHARGE OF THIS
-	AREA. THE PREVIOUS
+	SOU O NOVO PROG
+	ENCARREGADO DESTA
+	ÁREA. O ANTERIOR
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PROGRAM WAS
-	DISMISSED FOR NOT
-	WORKING HARD ENOUGH.
+	FOI DISPENSADO POR
+	NÃO TRABALHAR DURO
+	O BASTANTE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I WONDER WHERE HE IS
-	NOW⋯?
+	ONDE SERÁ QUE ELE
+	ESTÁ AGORA...?
 	"""
 	keyWait
 		any = false
@@ -43,23 +43,23 @@ script 1 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I was watching that
-	tournament,
+	Eu estava assistindo
+	ao torneio,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and everyone had
-	some kinda special
-	ability.
+	e todo mundo tinha
+	algum tipo de habi-
+	lidade especial.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe I should come
-	up with one too⋯?
+	Será que eu devia
+	bolar uma também...?
 	"""
 	keyWait
 		any = false
@@ -70,15 +70,15 @@ script 5 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	IN THESE TIMES IT'S
-	EVEN HARD FOR
+	SÃO TEMPOS DIFÍCEIS.
+	ESTÁ DIFÍCIL ATÉ
+	PARA PROGS
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PROGRAMS TO FIND NEW
-	JOBS!
+	ARRANJAREM EMPREGO!
 	"""
 	keyWait
 		any = false
@@ -88,7 +88,7 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Go Spiral Crush!"
+	"Impactoooo Espiral!"
 	keyWait
 		any = false
 	clearMsg
@@ -98,17 +98,17 @@ script 6 mmbn4 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
-	"Hmmm,maybe not⋯"
+	"Hmmm,talvez\nnão..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I was going to start
-	with a trick name,
-	but that's hard too!
+	Eu ia começar
+	bolando um nome,mas
+	também é difícil!
 	"""
 	keyWait
 		any = false
@@ -131,18 +131,19 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"RED SUN TOURNAMENT?"
+	"TORNEIO SOL\nVERMELHO?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SORRY,I'M NOT INTER-
-	ESTED IN THAT.
+	DESCULPE,MAS NÃO
+	TENHO INTERESSE
+	NISSO.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"WORK IS MY LIFE!"
+	"A MINHA VIDA É\nTRABALHAR!"
 	keyWait
 		any = false
 	end
@@ -162,14 +163,14 @@ script 11 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Go Burning Fighting
-	Combat Shooting⋯
-	⋯Punch!!
+	Soco Ardente de
+	Combate Espacial...
+	... Disparar!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"No,that's not it!!"
+	"Não,também não é\nisso!!"
 	keyWait
 		any = false
 	end
@@ -178,18 +179,19 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"BLUEMOON TOURNAMENT?"
+	"TORNEIO LUA AZUL?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SORRY,I'M NOT INTER-
-	ESTED IN THAT.
+	DESCULPE,MAS NÃO
+	TENHO INTERESSE
+	NISSO.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"WORK IS MY LIFE!"
+	"A MINHA VIDA É\nTRABALHAR!"
 	keyWait
 		any = false
 	end
@@ -202,25 +204,24 @@ script 15 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE PREVIOUS PROGRAM
-	WAS FIRED BECAUSE HE
-	IGNORED HIS
+	O PROG ANTERIOR FOI
+	DEMITIDO PORQUE ELE
+	NEGLIGENCIOU SUAS
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	RESPONSIBILITIES AND
-	WATCHED THE EAGLE
-	TOURNAMENT.
+	RESPONSABILIDADES
+	E FOI ASSISTIR AO
+	TORNEIO ÁGUIA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'M NOT GOING
-	TO MAKE THE SAME
-	MISTAKE!
+	EU NÃO VOU COMETER O
+	MESMO ERRO!
 	"""
 	keyWait
 		any = false
@@ -231,15 +232,15 @@ script 16 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Go Fluffy Kick!
-	Sure-Strike Slap!
+	Chute Cuti-Cuti!
+	Tapa Taque!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm not good at com-
-	ing up with names⋯
+	Eu não sou bom em
+	pensar em nomes...
 	"""
 	keyWait
 		any = false
@@ -250,25 +251,24 @@ script 17 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE PREVIOUS PROGRAM
-	WAS FIRED BECAUSE HE
-	IGNORED HIS
+	O PROG ANTERIOR FOI
+	DEMITIDO PORQUE ELE
+	NEGLIGENCIOU SUAS
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	RESPONSIBILITIES AND
-	WATCHED THE HAWK
-	TOURNAMENT.
+	RESPONSABILIDADES
+	E FOI ASSISTIR AO
+	TORNEIO FALCÃO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'M NOT GOING
-	TO MAKE THE SAME
-	MISTAKE!
+	EU NÃO VOU COMETER O
+	MESMO ERRO!
 	"""
 	keyWait
 		any = false
@@ -282,28 +282,29 @@ script 20 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	TO BE HONEST,I REAL-
-	LY DO WANT TO KNOW
-	WHAT'S GOING ON AT
+	PARA SER FRANCO,EU
+	QUERIA MUITO IR
+	CONFERIR O
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE RED SUN
-	TOURNAMENT. WHAT
-	ROUND IS IT?
+	TORNEIO SOL
+	VERMELHO. EM QUE
+	RODADA ESTÁ?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯THE FINALS?!"
+	"... NA FINAL?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I HAVE TO SEE THIS⋯
-	NO! I CAN'T! ARRGH⋯!
+	EU QUERO IR VER...
+	NÃO! NÃO POSSO!
+	AAARGH...!
 	"""
 	keyWait
 		any = false
@@ -314,20 +315,20 @@ script 21 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I'm not cut out for
-	a special attack. I
+	Eu não dou pra
+	ataques especiais.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	can't even think up
-	a name! Maybe I'll
+	Nem consigo pensar
+	num nome pra eles!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"just live in peace⋯"
+	"Acho que vou só\nviver em paz,\nmesmo..."
 	keyWait
 		any = false
 	end
@@ -337,15 +338,17 @@ script 22 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	NO MATTER WHERE I GO
-	I ALWAYS WIND UP
+	NÃO IMPORTA AONDE
+	EU VÁ,SEMPRE ACABO
+	VOLTANDO AQUI.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BACK HERE. I WAS
-	MADE TO WORK HERE⋯
+	EU REALMENTE FUI
+	CRIADO PARA
+	TRABALHAR AQUI...
 	"""
 	keyWait
 		any = false
@@ -356,28 +359,28 @@ script 23 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	TO BE HONEST,I REAL-
-	LY DO WANT TO KNOW
-	WHAT'S GOING ON AT
+	PARA SER FRANCO,EU
+	QUERIA MUITO IR
+	CONFERIR O
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE BLUE MOON
-	TOURNAMENT. WHAT
-	ROUND IS IT?
+	TORNEIO LUA AZUL.
+	EM QUE RODADA ESTÁ?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯THE FINALS?!"
+	"... NA FINAL?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I HAVE TO SEE THIS⋯
-	NO! I CAN'T! ARRGH⋯!
+	EU QUERO IR VER...
+	NÃO! NÃO POSSO!
+	AAARGH...!
 	"""
 	keyWait
 		any = false
@@ -398,9 +401,9 @@ script 30 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE OFFICIALS ARE
-	INVESTIGATING
-	SOMETHING.
+	OS OFICIAIS ESTÃO
+	INVESTIGANDO ALGUMA
+	COISA.
 	"""
 	keyWait
 		any = false
@@ -421,17 +424,17 @@ script 31 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	All the Nets around
-	the world have been
-	cut off from each
+	Todas as Redes ao
+	redor do mundo foram
+	desligadas umas das
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	other! If a major
-	crime were to happen
-	now⋯Yikes!
+	outras! Se ocorresse
+	um crime grave
+	agora... Ai de nós!
 	"""
 	keyWait
 		any = false
@@ -442,15 +445,15 @@ script 35 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	EVERYTHING'S BACK TO
-	NORMAL NOW,BUT IT
+	ESTÁ TUDO DE VOLTA
+	AO NORMAL AGORA,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SEEMS THE NET HAD
-	BEEN DIVIDED UP.
+	MAS A REDE SEGUE
+	ESTRANHA...
 	"""
 	keyWait
 		any = false
@@ -461,15 +464,16 @@ script 36 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I hear the Officials
-	have ascertained the
+	Parece que os
+	Oficiais já
+	determinaram
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	whereabouts of the
-	perpetrator.
+	o paradeiro do
+	culpado.
 	"""
 	keyWait
 		any = false
@@ -480,24 +484,24 @@ script 40 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	IF ALL THE NETS
-	AROUND THE WORLD
-	WERE TARGETED
+	SE TODAS AS REDES
+	DO MUNDO FOSSEM
+	ATACADAS POR AQUELE
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	FOR THAT CRIME,
-	THEN ELECTOPIA MAY
-	NOT BE SAFE EITHER.
+	CRIME,ENTÃO NI-HON
+	TAMBÉM NÃO ESTARIA
+	A SALVO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I MUST BE READY
-	FOR ANYTHING!
+	EU DEVO ESTAR PRONTO
+	PARA TUDO!
 	"""
 	keyWait
 		any = false
@@ -508,16 +512,17 @@ script 41 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I hear that NAXA
-	told the Official
+	Parece que a NAXA
+	ordenou o QG dos
+	Oficiais para que
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HQ to evacuate all
-	the citizens. Sounds
-	rather ominous⋯
+	evacuasse todos os
+	cidadãos. Parece
+	alarmante...
 	"""
 	keyWait
 		any = false
@@ -527,14 +532,13 @@ script 45 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"THE OFFICIALS ARE \nTELLING EVERYONE TO"
+	"OS OFICIAIS ESTÃO\nMANDANDO QUE TODOS\nSE DESCONECTEM."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	JACK OUT. YOU SHOULD
-	PROBABLY JACK OUT
-	TOO.
+	SERIA MELHOR VOCÊ
+	DESCONECTAR,TAMBÉM.
 	"""
 	keyWait
 		any = false
@@ -545,14 +549,14 @@ script 46 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	All civilians must
-	jack out
-	immediately.
+	Todos os civis devem
+	se desconectar
+	imediatamente.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"This is an order!"
+	"É uma ordem!"
 	keyWait
 		any = false
 	end

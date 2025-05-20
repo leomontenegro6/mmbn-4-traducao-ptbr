@@ -3,8 +3,8 @@
 script 0 mmbn4 {
 	msgOpen
 	"""
-	Woof! Woof!
-	(Leavin',woof!)
+	Au! Au!
+	(Partindo,au!)
 	"""
 	keyWait
 		any = false
@@ -23,23 +23,24 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	msgOpen
 	"""
-	Sounds like kids
-	playing⋯
+	Você ouve as vozes
+	de crianças
+	brincando...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"Battle routine,
-	 set!"
-	"Execu-te!"
+	"Rotina de batalha,
+	preparar!"
+	"Executaaar!"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯Looks like a
-	NetBattle.
+	... Parece ser uma
+	NetLuta.
 	"""
 	keyWait
 		any = false
@@ -50,9 +51,9 @@ script 2 mmbn4 {
 		jumpIfOutOfRange = 17
 	clearMsg
 	"""
-	Look closely!
-	Something's written
-	on the door⋯
+	Observando bem,
+	você vê que tem algo
+	escrito na porta...
 	"""
 	keyWait
 		any = false
@@ -67,13 +68,14 @@ script 2 mmbn4 {
 }
 script 3 mmbn4 {
 	msgOpen
-	"A sweet smell⋯"
+	"Um aroma doce..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Must be dinner
-	cooking.
+	Devem estar
+	preparando o
+	jantar.
 	"""
 	keyWait
 		any = false
@@ -82,15 +84,17 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	msgOpen
 	"""
-	Every house has a
-	sloping roof,
+	Todas as casa
+	têm telhados
+	triangulares,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so the snow's weight
-	doesn't crush it.
+	para não serem
+	esmagadas pelo
+	peso da neve.
 	"""
 	keyWait
 		any = false
@@ -98,7 +102,7 @@ script 4 mmbn4 {
 }
 script 5 mmbn4 {
 	msgOpen
-	"Sharo SpaceCtr."
+	"Centro Espacial\nde Sharo."
 	keyWait
 		any = false
 	end
@@ -106,8 +110,8 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	msgOpen
 	"""
-	A parabolic antenna
-	for Northern Sharo.
+	A antena parabólica
+	norte de Sharo.
 	"""
 	keyWait
 		any = false
@@ -116,8 +120,8 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	msgOpen
 	"""
-	A parabolic antenna
-	for Western Sharo.
+	A antena parabólica
+	oeste de Sharo.
 	"""
 	keyWait
 		any = false
@@ -126,8 +130,8 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	msgOpen
 	"""
-	A parabolic antenna
-	for Southern Sharo.
+	A antena parabólica
+	sul de Sharo.
 	"""
 	keyWait
 		any = false
@@ -136,8 +140,8 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	msgOpen
 	"""
-	A parabolic antenna
-	for Eastern Sharo.
+	A antena parabólica
+	leste de Sharo.
 	"""
 	keyWait
 		any = false
@@ -148,14 +152,14 @@ script 10 mmbn4 {
 		jumpIfRedSun = continue
 		jumpIfBlueMoon = 16
 	msgOpen
-	"A snowman⋯"
+	"Um boneco de\nneve..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	In this cold weather
-	there's no fear of
-	it melting.
+	Neste clima frio,
+	não há risco de
+	ele derreter.
 	"""
 	keyWait
 		any = false
@@ -179,23 +183,24 @@ script 12 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	All this snow! It's
-	gotta be cleared,
+	Tanta neve!
+	Ela precisa ser
+	removida,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	or you can't jack
-	in to the antenna⋯
+	ou você não poderá
+	se conectar à
+	antena...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder if someone
-	won't lend me a snow
-	shovel?
+	Alguém aí teria uma
+	pá para emprestar?
 	"""
 	keyWait
 		any = false
@@ -206,16 +211,16 @@ script 12 mmbn4 {
 script 13 mmbn4 {
 	msgOpen
 	"""
-	The snow's blocking
-	the path.
+	A neve está
+	barrando o caminho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nothing for it,but
-	to brave the cold
-	and clear it.
+	Não há escolha senão
+	engolir o frio e
+	retirá-la daí.
 	"""
 	keyWait
 		any = false
@@ -238,16 +243,16 @@ script 14 mmbn4 {
 		jumpIfLess = continue
 	msgOpen
 	"""
-	No point clearing
-	snow today. It'll
-	just build up again.
+	Não adianta tirar a
+	neve hoje. Só vai
+	se acumular de novo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you really wanna
-	try,take this.
+	Mas se quer mesmo
+	tentar,pegue.
 	"""
 	keyWait
 		any = false
@@ -274,23 +279,24 @@ script 14 mmbn4 {
 script 15 mmbn4 {
 	msgOpen
 	"""
-	Every house has got
-	a chimney⋯
+	Toda casa tem uma
+	chaminé...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Actually,so that
-	no one has to feel
-	cold in Sharo,
+	Na verdade,para
+	ninguém passar frio
+	em Sharo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	heating appliances
-	are really cheap.
+	estruturas de
+	aquecimento são bem
+	baratinhas.
 	"""
 	keyWait
 		any = false
@@ -306,9 +312,9 @@ script 16 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Simple,but you get
-	a real feel for its
-	homemade charm⋯
+	Simples,mas o charme
+	artesanal é
+	inegável.
 	"""
 	keyWait
 		any = false

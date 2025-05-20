@@ -6,7 +6,7 @@ script 0 mmbn4 {
 		height = 1
 	color
 		palette = 1
-	"Hi,everyone!"
+	"Oi,gente!"
 	keyWait
 		any = false
 	clearMsg
@@ -14,9 +14,9 @@ script 0 mmbn4 {
 		width = 19
 		height = 3
 	"""
-	After many powerful
-	battles,the Round 1
-	is over!!
+	Depois de várias lu-
+	tas ferozes,a pri-
+	meira rodada acabou!
 	"""
 	keyWait
 		any = false
@@ -25,9 +25,9 @@ script 0 mmbn4 {
 		width = 20
 		height = 3
 	"""
-	We can only wonder
-	what kind of battles
-	are yet to come!
+	Que tipo de batalhas
+	incríveis será que
+	vêm pela frente?!
 	"""
 	keyWait
 		any = false
@@ -38,14 +38,14 @@ script 1 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	I would now like to
-	announce the pairs
-	for the semi-finals!
+	Agora,eu vou anun-
+	ciar as lutas das
+	semifinais!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Here they are!!"
+	"Aqui estão elas!!"
 	keyWait
 		any = false
 	end

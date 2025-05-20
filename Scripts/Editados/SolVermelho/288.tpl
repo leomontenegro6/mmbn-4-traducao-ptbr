@@ -10,8 +10,8 @@ script 0 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I wonder which Net
-	Battler will win?
+	Qual NetLutador será
+	que vai vencer?
 	"""
 	keyWait
 		any = false
@@ -27,17 +27,17 @@ script 1 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	If NAXA's report is
-	correct,something
-	horrible is about to
+	Se o relatório da
+	NAXA estiver certo,
+	um desastre está
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	occur! Oh,uh⋯never
-	mind. It doesn't
-	involve you⋯
+	vindo! Ah,er...
+	esquece. Isso não
+	envolve você...
 	"""
 	keyWait
 		any = false
@@ -53,8 +53,8 @@ script 2 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	The weather satel-
-	lite is all clear.
+	O satélite climático
+	está normal.
 	"""
 	keyWait
 		any = false
@@ -65,13 +65,13 @@ script 10 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	The final match of
-	the tournament is
+	A final do torneio
+	está para começar!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"about to start!"
+	"Vou ver!"
 	keyWait
 		any = false
 	end
@@ -81,8 +81,8 @@ script 11 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	We have to prepare
-	that satellite!
+	Temos que preparar
+	aquele satélite!
 	"""
 	keyWait
 		any = false
@@ -93,9 +93,9 @@ script 12 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	My superiors are in
-	a panic! I wonder
-	what's wrong?
+	Os meus superiores
+	estão em pânico!
+	Por que será?
 	"""
 	keyWait
 		any = false
@@ -120,14 +120,17 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"Oh no! We can't send"
+	"""
+	Essa não! Não
+	conseguimos mandar
+	dados para a NAXA!
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	data to NAXA! 
-	Something must be
-	done!
+	Precisamos fazer
+	alguma coisa!
 	"""
 	keyWait
 		any = false
@@ -156,30 +159,31 @@ script 21 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	The winner of the
-	Blue Moon Tournament
+	O vencedor do
+	Torneio Lua Azul
+	está operando o
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	is operating the
-	Blue Moon satellite
-	in another room to
+	satélite Lua Azul
+	na outra sala para
+	analisar o
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	analyze the aster-
-	oid. We have to send
+	asteroide. Temos de
+	enviar esses dados
+	para a NAXA o mais
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that data to NAXA as
-	soon as possible!
+	rápido que pudermos!
 	"""
 	keyWait
 		any = false
@@ -205,9 +209,9 @@ script 22 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	We're counting on
-	you to fix the Net,
-	Lan! Please hurry!
+	Contamos com você
+	para consertar a
+	Rede,Lan! Por favor!
 	"""
 	keyWait
 		any = false
@@ -218,30 +222,31 @@ script 23 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	The winner of the
-	Red Sun Tournament
+	O vencedor do Tor-
+	neio Sol Vermelho
+	está operando o
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	is operating the
-	Red Sun satellite
-	in another room to
+	satélite Sol Verme-
+	lho na outra sala
+	para analisar o
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	analyze the aster-
-	oid. We have to send
+	asteroide. Temos de
+	enviar esses dados
+	para a NAXA o mais
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that data to NAXA as
-	soon as possible!
+	rápido que pudermos!
 	"""
 	keyWait
 		any = false
@@ -252,16 +257,17 @@ script 25 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Great! Now we can
-	send data to NAXA!
+	Maravilha! Agora,
+	podemos mandar dados
+	para a NAXA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We have to hurry and
-	transmit the data
-	we've compiled!
+	Temos que transmitir
+	logo os dados que
+	compilamos!
 	"""
 	keyWait
 		any = false
@@ -272,16 +278,17 @@ script 26 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Sorry,I don't have
-	time to talk now.
+	Desculpe,mas estou
+	sem tempo para
+	falar agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have to hurry and
-	convert the data to
-	be returned to NAXA!
+	Preciso converter os
+	dados que mandaremos
+	de volta à NAXA!
 	"""
 	keyWait
 		any = false
@@ -292,23 +299,23 @@ script 27 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Apparently the Navi
-	that divided up the
+	Ao que parece,o Navi
+	que dividiu a Rede
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Net fled to Elec-
-	topia's Net!
+	fugiu para a Rede de
+	Ni-Hon!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If we don't detain
-	him soon,who knows
-	what he'll do next?
+	Se não o detivermos
+	logo,vai saber o
+	que ele fará depois!
 	"""
 	keyWait
 		any = false
@@ -319,13 +326,16 @@ script 30 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Lan! Hurry back to
-	NAXA! The plan's
+	Lan! Volte logo
+	para a NAXA!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"already in motion!"
+	"""
+	O plano já está em
+	andamento!
+	"""
 	keyWait
 		any = false
 	end
@@ -335,9 +345,9 @@ script 31 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Why are you here,
-	though the plan's
-	already started?
+	Por que você está
+	aqui? A operação já
+	começou!
 	"""
 	keyWait
 		any = false
@@ -348,7 +358,7 @@ script 32 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Don't let us down,
+	Não nos decepcione,
 	Lan!
 	"""
 	keyWait
@@ -360,8 +370,8 @@ script 35 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I can't believe he's
-	the leader of
+	Eu não acredito que
+	ELE era o líder da
 	Nebula!
 	"""
 	keyWait
@@ -373,23 +383,24 @@ script 36 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	If we don't do some-
-	thing,our planet's
+	Se não fizermos
+	alguma coisa,o nosso
+	planeta já era!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	doomed! We need you,
-	Lan! Put an end to
+	Precisamos de você,
+	Lan! Acabe com as
+	ambições do Regal
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Regal's ambitions
-	and stop that
-	asteroid!
+	e detenha aquele
+	asteroide!
 	"""
 	keyWait
 		any = false
@@ -400,9 +411,9 @@ script 37 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Our lives are in
-	your hands. I have
-	faith in you!
+	As nossas vidas
+	estão nas suas mãos.
+	Eu tenho fé em você!
 	"""
 	keyWait
 		any = false
@@ -421,28 +432,28 @@ script 141 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"Rrrrgh⋯"
+	"Rrrrgh..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think you can get
-	a chip to light the
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	CyberTorches,
-	either on the Net
-	or in a shop⋯
+	Acho que dá para
+	adquirir um dos
+	chips que acende as
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Rrrrgh⋯
-	Gr-gggg⋯
+	CyberTochas na Rede
+	ou em uma loja aí...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Rrrrgh...
+	Gr-gggg...
 	"""
 	keyWait
 		any = false
@@ -453,9 +464,9 @@ script 142 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	The satellite's been
-	activated,the bliz-
-	zard should stop⋯
+	O satélite foi
+	ativado. A nevasca
+	deve parar...
 	"""
 	keyWait
 		any = false
@@ -474,78 +485,17 @@ script 150 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	You came all this
-	way to see Raika?
+	Você veio de tão
+	longe só pra falar
+	com o Raika?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sorry,but he's
-	busy with an
-	important mission.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = Lan
-	"""
-	In that case,let's
-	help with that
-	mission too!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = SciLabMan
-	"Hahaha!"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	The mission he's in
-	charge of isn't as
-	easy as you think!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	It involves taking
-	down Nebula's secret
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	base in Undernet6⋯
-	quite dangerous as
-	you can imagine!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = Lan
-	"We're not afraid!"
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = SciLabMan
-	"""
-	Hmph. All right,I'll
-	test you. If you
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	pass,I'll let you
-	join Raika's
-	mission.
+	Lamento,mas ele está
+	ocupado com uma
+	missão importante.
 	"""
 	keyWait
 		any = false
@@ -553,8 +503,72 @@ script 150 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	All right!
-	We're ready!!
+	Nesse caso,deixa a
+	gente ajudar com a
+	missão também!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = SciLabMan
+	"Ha ha ha!"
+	keyWait
+		any = false
+	clearMsg
+	"""
+	A missão dele não é
+	tão fácil quando
+	você pensa,não!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Ela envolve destruir
+	a base secreta da
+	Nebula na Undernet6.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Pois é,como dá pra
+	imaginar,é perigoso
+	para caramba!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = Lan
+	"A gente não tem\nmedo!"
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = SciLabMan
+	"""
+	Hmpf. Tudo bem,
+	eu vou testar vocês.
+	Se passarem,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	eu lhes deixo
+	participarem da
+	missão do Raika.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = Lan
+	"""
+	Beleza!
+	A gente tá pronto!!
 	"""
 	keyWait
 		any = false
@@ -562,20 +576,20 @@ script 150 mmbn4 {
 	mugshotShow
 		mugshot = SciLabMan
 	"""
-	For your information
-	this isn't a game.
+	Fique ciente de que
+	isso não é um jogo.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"This is a military"
+	"É uma operação\nmilitar."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	operation. The enemy
-	may strike at
-	anytime!
+	O inimigo pode
+	atacar a qualquer
+	momento!
 	"""
 	keyWait
 		any = false
@@ -587,20 +601,21 @@ script 151 mmbn4 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"Your mission is to"
+	"A missão de vocês"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	proceed to Undernet
-	6 and neutralize the
+	é ir rumo à
+	Undernet 6
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	criminal organiza-
-	tion there.
+	e neutralizar a
+	organização
+	criminosa lá.
 	"""
 	keyWait
 		any = false
@@ -615,25 +630,25 @@ script 152 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	I heard you
-	completed your
-	mission.
+	Fui informado de
+	que você completou
+	a missão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SerchMan tells me
-	you've got some
-	skills⋯The question
+	O SearchMan me disse
+	que você mostra
+	potencial...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	is,are you good 
-	enough to beat
-	SerchMan?
+	Mas será que é bom
+	o bastante para
+	vencer ele?
 	"""
 	keyWait
 		any = false

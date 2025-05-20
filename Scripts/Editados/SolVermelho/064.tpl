@@ -2268,7 +2268,7 @@ script 230 mmbn4 {
 	itemGive
 		item = 79
 		amount = 1
-	"Pegou C-Slider!"
+	"Pegou DeslizaC!"
 	keyWait
 		any = false
 	end
@@ -2590,7 +2590,7 @@ script 245 mmbn4 {
 		item = 110
 		amount = 1
 	"""
-	Got the C-Slider
+	Got the DeslizaC
 	parts!
 	"""
 	keyWait

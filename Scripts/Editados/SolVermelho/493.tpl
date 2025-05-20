@@ -15,8 +15,8 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Isso é coisa do Robô
-	de Brinquedo!
+	Isso é coisa do
+	Robô-Brinquedo!
 	"""
 	keyWait
 		any = false

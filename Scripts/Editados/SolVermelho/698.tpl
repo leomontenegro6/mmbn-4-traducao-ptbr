@@ -4,13 +4,13 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"*gulp!*"
+	"Glup!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh no,Lan!
-	We're trapped!
+	Lan...!
+	A gente tá preso!
 	
 	"""
 	keyWait
@@ -21,13 +21,13 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Not just here!"
+	"E não é só aqui!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's fire all
-	over the place!
+	Tem fogo pra todo o
+	lado!
 	"""
 	keyWait
 		any = false
@@ -40,8 +40,9 @@ script 2 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It must be those
-	flame Navis' fault.
+	Deve ser culpa
+	daqueles Navis de
+	fogo.
 	"""
 	keyWait
 		any = false
@@ -53,19 +54,19 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah⋯"
+	"É..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mr.Match's FireMan
-	and Atsuki's BurnMan
-	must be fighting,
+	O FireMan do Sr.
+	Match e o BurnMan do
+	Atsuki devem estar
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"somewhere in ACDC."
+	"brigando em algum\ncanto de ACDC."
 	keyWait
 		any = false
 	clearMsg
@@ -77,25 +78,25 @@ script 4 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What a couple of
-	troublemakers!
-	And I thought a
+	Aqueles dois são
+	impossíveis,viu?!
+	E eu aqui achando
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	fight between Navis
-	wouldn't be a big
-	deal!
+	que uma lutinha
+	entre Navis não
+	seria grande coisa!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	MegaMan!
-	Use that "WaterGun"
-	you got from Mom!
+	Usa a Pistola D'água
+	que a mamãe nos deu!
 	"""
 	keyWait
 		any = false
@@ -107,7 +108,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Okay!"
+	"Tá!"
 	keyWait
 		any = false
 	end
@@ -144,7 +145,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Oh no!"
+	"Ah,não!"
 	keyWait
 		any = false
 	clearMsg
@@ -156,8 +157,8 @@ script 9 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I can't put out the
-	flames!
+	Eu não consigo
+	apagar o fogo!
 	"""
 	keyWait
 		any = false
@@ -167,14 +168,14 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What should we do?!"
+	"O que a gente faz?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ACDC's machines will
-	be spurting flames
-	if this keeps up!
+	Se isso continuar,
+	as máquinas de ACDC
+	vão soltar fogo!
 	"""
 	keyWait
 		any = false
@@ -188,22 +189,22 @@ script 11 mmbn4 {
 	msgOpen
 	"""
 	Lan!
-	Leave this to me!
+	Deixa este lado aqui
+	comigo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll hold the flames
-	down with the
-	"WaterGun".
+	Eu seguro as chamas
+	com a Pistola
+	D'água.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You find someone who
-	can help!
+	Vai procurar ajuda!
 	"""
 	keyWait
 		any = false
@@ -216,9 +217,9 @@ script 12 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Okay! Jack out right
-	away if it gets too
-	dangerous!
+	Tá bom! Mas se ficar
+	perigoso demais,
+	desconecta,viu?!
 	"""
 	keyWait
 		any = false
@@ -230,7 +231,7 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Entendido!"
 	keyWait
 		any = false
 	end
@@ -240,9 +241,9 @@ script 14 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hmm,someone who can
-	help at a time like
-	this⋯
+	Hmm,alguém que
+	possa ajudar nesta
+	situação...!
 	"""
 	keyWait
 		any = false

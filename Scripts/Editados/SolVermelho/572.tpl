@@ -5,17 +5,17 @@ script 0 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Ladies and gentle-
-	men!! Here are
-	today's entrants!
+	Senhoras e senhores!
+	Apresentando os com-
+	petidores de hoje!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Introducing the
-	Fiery NetBattler,
-	Mr.Match!!
+	Primeiro,o NetLuta-
+	dor Flamejante:
+	o Sr. Match!!
 	"""
 	keyWait
 		any = false
@@ -26,15 +26,15 @@ script 1 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Next,I'd like to
-	introduce the grade
+	A seguir,apresento
+	o NetLutador do
+	fundamental:
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	school NetBattler,
-	Lan!!
+	Lan Hikari!!
 	"""
 	keyWait
 		any = false
@@ -46,8 +46,8 @@ script 2 mmbn4 {
 	msgOpen
 	"""
 	Match!
-	Sorry,but I'm gonna
-	win this one!!
+	Desculpa,mas eu
+	vou ganhar esta!
 	"""
 	keyWait
 		any = false
@@ -58,14 +58,14 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
-	"Heh heh heh⋯"
+	"He he he..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You really expected
-	me to fight fair in
-	a tournament?
+	Você achou mesmo que
+	eu ia jogar limpo
+	aqui?
 	"""
 	keyWait
 		any = false
@@ -76,14 +76,14 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"I knew it!!"
+	"Sabia!!"
 	keyWait
 		any = false
 	clearMsg
 	soundFadeOut
 		slot = 31
 		length = 8
-	"What are you up to?!"
+	"O que é que você tá\ntramando?!"
 	keyWait
 		any = false
 	clearMsg
@@ -93,27 +93,28 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
-	"Heh heh heh⋯"
+	"He he he..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	After the WWW
-	(World 3) broke up,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I formed a group
-	from its remnants.
+	Depois que a WWW se
+	desfez,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I thought I'd
-	unveil it today.
+	eu formei um grupo
+	com o que restou
+	dela.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	E pensei em
+	revelá-lo hoje.
 	"""
 	keyWait
 		any = false
@@ -124,7 +125,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"What?!"
+	"O quê?!"
 	keyWait
 		any = false
 	clearMsg
@@ -135,16 +136,16 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	"""
-	One of my people
-	planted powerful ig-
-	niters in the Dome.
+	Um dos meus homens
+	plantou dispositivos
+	de ignição no Domo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If they were all to
-	ignite at once⋯
+	Se todos se ativarem
+	de uma só vez...
 	"""
 	keyWait
 		any = false
@@ -158,13 +159,13 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	A fire in a place
-	like this?! That'd
+	Um incêndio?!
+	AQUI?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"be a disaster!"
+	"Seria um desastre!"
 	keyWait
 		any = false
 	clearMsg
@@ -175,13 +176,14 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	"""
-	Heh heh heh⋯My plan
-	is about to begin.
+	He he he.. O meu
+	plano está prestes
+	a começar.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"My plan⋯"
+	"O meu plano..."
 	keyWait
 		any = false
 	clearMsg
@@ -191,7 +193,7 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Wait!!"
+	"Espera!!"
 	keyWait
 		any = false
 	clearMsg
@@ -202,15 +204,16 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = HotDogLady
 	"""
-	Mr.Match!! I came
-	to root for you!
+	Sr. Match!! Eu vim
+	torcer por você!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I brought my special
-	hotdogs,too!
+	E trouxe os meus
+	cachorros-quentes
+	especiais,também!
 	"""
 	keyWait
 		any = false
@@ -221,27 +224,27 @@ script 12 mmbn4 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	What is she
-	doing here?!
+	O que ela tá fazendo
+	aqui?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know I didn't tell
-	her about this!
+	Eu não falei pra ela
+	nada do torneio!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan must've
-	told her.
+	... Deve ter sido o
+	moleque.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"That meddling fool!"
+	"Esse intrometido\ncretino!"
 	keyWait
 		any = false
 	clearMsg
@@ -253,7 +256,7 @@ script 13 mmbn4 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"Beep beep beep!!"
+	"Bip Bip Bip!!"
 	wait
 		frames = 10
 	keyWait
@@ -267,9 +270,9 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = Riki
 	"""
-	Boss,let's get on
-	with it. I'm ready
-	when you are.
+	Chefe,vamos logo.
+	Tamos só esperando
+	você.
 	"""
 	keyWait
 		any = false
@@ -281,9 +284,9 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	"""
-	No!
-	The plan's off!
-	Pull out,now!
+	Não!
+	Plano abortado!
+	Recuem,agora!
 	"""
 	keyWait
 		any = false
@@ -296,24 +299,23 @@ script 16 mmbn4 {
 		mugshot = Riki
 	"""
 	......
-	Whadaya talking
-	about?
+	Que conversa é essa?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're already
-	past the point of no
-	return!
+	Já passamos do ponto
+	de podermos dar pra
+	trás!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We can't abandon the
-	plan,no matter what
-	the reason.
+	Não podemos aban-
+	donar o plano,não
+	importa o motivo.
 	"""
 	keyWait
 		any = false
@@ -325,8 +327,8 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	"""
-	Shut yer trap! I'm
-	giving you an order!
+	Cala a boca!
+	Eu dei uma ordem!
 	"""
 	keyWait
 		any = false
@@ -338,32 +340,32 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = Riki
 	"""
-	⋯Mr.Match.
-	When'd ya become
-	not strict?
+	... Sr. Match.
+	Quando foi que você
+	virou um covarde?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What a joke. I'm
-	gonna take over from
-	here.
+	Que piada. Eu vou
+	assumir daqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If ya try to inter-
-	fere with the plan,
+	Se você tentar
+	interferir com o
+	plano,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I won't think twice
-	about pushing the
-	detonator switch.
+	não vou hesitar em
+	apertar o botão de
+	detonação.
 	"""
 	keyWait
 		any = false
@@ -376,7 +378,7 @@ script 19 mmbn4 {
 	soundDisableTextSFX
 	soundPlay
 		track = 209
-	"Click!!"
+	"Clic!!"
 	wait
 		frames = 11
 	soundEnableTextSFX
@@ -389,13 +391,14 @@ script 19 mmbn4 {
 script 20 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
-	"Hey! Hey!!"
+	"Ei! Ei!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why that⋯!
-	He cut me off!
+	Verme...!
+	Ele desligou na
+	minha cara!
 	"""
 	keyWait
 		any = false
@@ -405,7 +408,7 @@ script 21 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What's going on?!"
+	"O que tá rolando?!"
 	keyWait
 		any = false
 	clearMsg
@@ -416,16 +419,16 @@ script 22 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	"""
-	This isn't good⋯
-	My people have stab-
-	bed me in the back!
+	Droga... Os meus
+	homens me apunhala-
+	ram pelas costas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's nothing I
-	can do now.
+	Não posso fazer mais
+	nada agora.
 	"""
 	keyWait
 		any = false
@@ -435,7 +438,7 @@ script 23 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"What's the matter?"
+	"... O que está\nhavendo aqui?"
 	keyWait
 		any = false
 	clearMsg
@@ -448,7 +451,7 @@ script 24 mmbn4 {
 	controlLock
 	soundPlay
 		track = 210
-	"*ding dong*"
+	"Tu Ru Ri Ru"
 	wait
 		frames = 16
 	controlUnlock
@@ -462,22 +465,24 @@ script 25 mmbn4 {
 		mugshot = ShadyGuy
 	msgOpen
 	"""
-	We're a new crime
-	syndicate and suc-
+	Somos um novo
+	sindicato criminoso,
+	sucessores da WWW.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	cessor to the WWW.
-	To prove it,we've
+	Para provar a nossa
+	convicção,plantamos
+	dispositivos de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	planted timed ignit-
-	ers in the Dome!
+	ignição com contagem
+	regressiva no Domo!
 	"""
 	keyWait
 		any = false
@@ -489,7 +494,7 @@ script 25 mmbn4 {
 }
 script 26 mmbn4 {
 	mugshotHide
-	"Eeeeee!!"
+	"Aaiiinn!!"
 	keyWait
 		any = false
 	clearMsg
@@ -503,40 +508,42 @@ script 26 mmbn4 {
 script 27 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
-	"Silence!!"
+	"Quietos!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Listen up,all of ya!
-	If anyone tries to
-	flee,yer all toast!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	You only have one
-	chance to live.
+	Escutem aqui! Se
+	alguém tentar fugir,
+	todo mundo queima!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you can locate
-	and disable all
-	the igniters,
+	Vocês só têm uma
+	chance de escapar
+	com vida.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"we'll set you free!"
+	"""
+	Se acharem e
+	desativarem todos
+	os dispositivos,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"estão livres!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you fail,you're
-	all crispy critters!
+	Se falharem,
+	vão todos virar
+	churrasco!
 	"""
 	keyWait
 		any = false
@@ -547,7 +554,7 @@ script 27 mmbn4 {
 script 28 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"He's psycho!"
+	"Que psicopata!"
 	keyWait
 		any = false
 	clearMsg
@@ -557,7 +564,7 @@ script 28 mmbn4 {
 script 29 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
-	"Yikes!!"
+	"Jesus!!"
 	keyWait
 		any = false
 	clearMsg
@@ -568,14 +575,14 @@ script 30 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
 	"""
-	We'll only allow
-	one of ya to search
-	for the igniters.
+	Só permitiremos que
+	UM de vocês procure
+	pelos dispositivos.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Any volunteers?!"
+	"Algum voluntário?!"
 	keyWait
 		any = false
 	end
@@ -585,30 +592,32 @@ script 31 mmbn4 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Lan⋯
-	You do it!!
+	Lan...
+	Vá você!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They'll torch the
-	place if I try
-	anything funny.
+	Eles vão incendiar a
+	arena se eu tentar
+	alguma gracinha.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know I've no right
-	to ask you for help,
+	Sei que não tenho o
+	direito de te pedir
+	ajuda...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but I can't let any-
-	thing happen to her.
+	mas não posso deixar
+	nada acontecer a
+	ela.
 	"""
 	keyWait
 		any = false
@@ -620,13 +629,13 @@ script 32 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I understand
-	how you feel.
+	... Entendo como
+	você se sente.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"OK,I'll do it!!"
+	"Beleza,eu vou!!"
 	keyWait
 		any = false
 	clearMsg
@@ -637,37 +646,39 @@ script 33 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	"""
-	Lan⋯
-	I owe ya big time.
+	Lan...
+	Fico te devendo uma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Listen,there are a
-	total of 5 igniters.
+	OK: são cinco
+	dispositivos de
+	ignição no total.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're hidden
-	throughout the Dome!
+	Eles estão todos
+	escondidos pelo
+	Domo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Viruses have been
-	planted in them.
+	Há vírus que foram
+	plantados neles.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You must delete
-	the viruses to dis-
-	able the igniters!
+	Você tem que deletar
+	os vírus pra
+	desativá-los!
 	"""
 	keyWait
 		any = false
@@ -678,7 +689,7 @@ script 33 mmbn4 {
 script 34 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Gotcha!"
+	"Saquei!"
 	keyWait
 		any = false
 	clearMsg
@@ -689,9 +700,9 @@ script 35 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Hey,you crooks!
-	I'll go look for
-	the igniters!
+	Aí,bandidos!
+	Eu vou procurar
+	pelos dispositivos!
 	"""
 	keyWait
 		any = false
@@ -703,16 +714,16 @@ script 36 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
 	"""
-	Heh heh heh. A kid⋯
-	This'll be
-	interesting.
+	He he he. Um guri...
+	Isso vai ser
+	interessante.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The game's on!!
-	Muwahahaha!!
+	Que comece o jogo!!
+	Aaah ha ha ha ha!!
 	"""
 	keyWait
 		any = false
@@ -723,7 +734,7 @@ script 36 mmbn4 {
 script 37 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
-	"Don't let us down."
+	"Conto com você."
 	keyWait
 		any = false
 	end

@@ -66,8 +66,8 @@ script 6 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,we've got to
-	stop this top!
+	Lan,a gente tem que
+	parar este pião!
 	"""
 	keyWait
 		any = false

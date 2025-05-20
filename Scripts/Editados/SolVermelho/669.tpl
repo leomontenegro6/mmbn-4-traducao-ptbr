@@ -5,8 +5,9 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's see,we're
-	gonna fight⋯who?
+	Deixa eu ver...
+	A gente vai lutar
+	contra... quem?
 	"""
 	keyWait
 		any = false
@@ -17,7 +18,7 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	mugshotHide
 	msgOpen
-	"It's me!"
+	"Eu!"
 	keyWait
 		any = false
 	end
@@ -27,9 +28,9 @@ script 2 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	You'll be going up
-	against Tamako and
-	MetalMan!
+	Você vai enfrentar
+	Tamako Shiraizumi
+	e MetalMan.EXE!
 	"""
 	keyWait
 		any = false
@@ -42,9 +43,9 @@ script 3 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It's MetalMan? We'll
-	have to do our best,
-	then!
+	Ah,o MetalMan! Então
+	a gente vai ter que
+	lutar com tudo!
 	"""
 	keyWait
 		any = false
@@ -56,21 +57,21 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Tamako
 	msgOpen
-	"Nice to meet you!"
+	"É bom te ver de\nnovo!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	By the way,you'll
-	need real fighting
-	spirit to beat us!
+	Pra ter uma chance,
+	vai precisar de mui-
+	to espírito de luta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Make sure you give
-	it your all!
+	Nem pense em se
+	segurar na arena!
 	"""
 	keyWait
 		any = false
@@ -83,8 +84,8 @@ script 5 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We always give it
-	our all!
+	A gente SEMPRE luta
+	com tudo!
 	"""
 	keyWait
 		any = false
@@ -96,18 +97,19 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Tamako
 	msgOpen
-	"Heh,really?"
+	"He,é mesmo?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lemme try you out
-	before the battle!
+	Então,deixa eu te
+	testar antes da
+	luta!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Follow me."
+	"Vem comigo."
 	keyWait
 		any = false
 	clearMsg
@@ -118,7 +120,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Try us out?"
+	"Testar?"
 	keyWait
 		any = false
 	clearMsg
@@ -130,8 +132,9 @@ script 8 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	Yeah,in MelSquar.
-	Anyway,follow me.
+	É,ali na Praça
+	Marchen.
+	Só vem comigo.
 	"""
 	keyWait
 		any = false
@@ -143,7 +146,7 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Uh,okay."
+	"Er,tá bom..."
 	keyWait
 		any = false
 	end

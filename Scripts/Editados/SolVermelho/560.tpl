@@ -5,15 +5,16 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A battle vs. Dex's
-	Navi GutsMan!
+	Uma batalha contra o
+	Navi do Dex,o
+	GutsMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We can't afford to
-	lose,MegaMan!
+	A gente não pode
+	perder essa,MegaMan!
 	"""
 	keyWait
 		any = false
@@ -25,8 +26,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Gotcha.
-	Lan!
+	E não vamos,Lan!
 	"""
 	keyWait
 		any = false
@@ -35,8 +35,9 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	msgOpen
 	"""
-	I'm afraid it's
-	not that easy!
+	Acho que não vai ser
+	fácil assim,não,
+	hein!
 	"""
 	keyWait
 		any = false
@@ -56,16 +57,16 @@ script 4 mmbn4 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Sorry,but I'm
-	gonna beat you
-	this time!
+	Foi mal,mas eu vou
+	acabar contigo dessa
+	vez!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's no way
-	I'll lose!!
+	Não vou perder de
+	jeito nenhum!
 	"""
 	keyWait
 		any = false
@@ -73,7 +74,7 @@ script 4 mmbn4 {
 }
 script 5 mmbn4 {
 	msgOpen
-	"Big brudder!"
+	"Irmãozão!"
 	keyWait
 		any = false
 	end
@@ -96,8 +97,9 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Dex
 	"""
-	Hey,Chisao,it's
-	rude not to say hi.
+	Aí,Chisao!
+	Cumprimenta o Lan,
+	não seja grosso!
 	"""
 	keyWait
 		any = false
@@ -108,20 +110,23 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = Chisao
-	"Why should I say hi?"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	He is a big
-	brudder's enemy!
+	Por que eu devia
+	"cum-pimentá"?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't talk to
-	da enemy!!
+	Ele é seu inimigo,
+	irmãozão!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	A gente não fala com
+	o inimigo!!
 	"""
 	keyWait
 		any = false
@@ -133,9 +138,9 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Just what I'd expect
-	from Dex's little
-	brother! So feisty!
+	Como esperado do
+	irmãozinho do Dex!
+	Puro fogo!
 	"""
 	keyWait
 		any = false
@@ -147,24 +152,25 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Chisao
 	"""
-	Hey,don't get all
-	chummy wif me!
+	Ô,não fica se
+	"fegindo" de amigo,
+	não!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Listen up!
-	Big brudder's gonna
-	beat your pants off!
+	Escuta aqui! O meu
+	irmãozão vai dar uma
+	pisa em vocês!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Big brudder da best
-	NetBattler in ACDC
-	Town and DenCity!
+	Porque ele é o me-
+	lhor NetLutador de
+	ACDC... de DenCity!
 	"""
 	keyWait
 		any = false
@@ -176,9 +182,9 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Dex
 	"""
-	Hey,Chisao,
-	would ya shut up,
-	already?
+	Ô,Chisao,pode ficar
+	quietinho,um
+	pouquinho?
 	"""
 	keyWait
 		any = false
@@ -194,19 +200,19 @@ script 12 mmbn4 {
 		mugshot = Chisao
 	mugshotAnimation
 		animation = 1
-	"⋯⋯\n"
+	"......\n"
 	mugshotAnimation
 		animation = 2
 	"""
-	Big brudder's mad
-	at me.
+	O meu irmãozão tá
+	zangado comigo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sniffle,sniffle⋯
-	Waaaaaah!!
+	Chuif... Chuif...
+	Buááááá!!
 	"""
 	keyWait
 		any = false
@@ -226,23 +232,24 @@ script 14 mmbn4 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Sorry 'bout this
-	before our battle.
+	Desculpa por isso
+	justo antes da nossa
+	luta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But,I'm not gonna
-	lose today.
+	Mas,ó: eu não vou
+	perder,não.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm gonna prove I'm
-	the best in ACDC
-	Town by beating you!
+	Vou provar que eu
+	sou o melhor de
+	ACDC... te vencendo!
 	"""
 	keyWait
 		any = false
@@ -254,15 +261,15 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Well,I'm not gonna
-	hold back.
+	Bom,eu também não
+	vou pegar leve!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It'll be
-	a good battle.
+	Essa luta vai ser
+	demais.
 	"""
 	keyWait
 		any = false
@@ -274,13 +281,13 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = Dex
 	"""
-	Yep. Well,we
-	better get ready.
+	É. Bom,melhor eu ir
+	me preparar,então.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Chisaooo!!"
+	"Chisaaaao!!"
 	keyWait
 		any = false
 	end
@@ -290,15 +297,17 @@ script 17 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So Chisao's the rea-
-	son Dex can't lose.
+	Então,é por causa do
+	Chisao que o Dex
+	não pode perder.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Still,we'll fight
-	with all our might!
+	Mas,mesmo assim,a
+	gente vai lutar com
+	tudo!
 	"""
 	keyWait
 		any = false
@@ -309,7 +318,7 @@ script 17 mmbn4 {
 script 18 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Let's do it!!"
+	"Pode crer!!"
 	keyWait
 		any = false
 	clearMsg
@@ -322,7 +331,7 @@ script 19 mmbn4 {
 		value = 17
 	mugshotShow
 		mugshot = Lan
-	"Yeah!"
+	"É!"
 	keyWait
 		any = false
 	end

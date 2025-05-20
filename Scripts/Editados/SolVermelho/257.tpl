@@ -10,17 +10,16 @@ script 0 mmbn4 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	Hey,it's you! I saw
-	you battling at the
-	tournament!
+	Aí,é você! Eu te vi
+	lutando no torneio!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You were fantastic!
-	One day I wanna be
-	just like you,Lan!
+	Você foi demais!
+	Um dia,eu quero ser
+	como você,Lan!
 	"""
 	keyWait
 		any = false
@@ -39,23 +38,25 @@ script 1 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	There's still
-	rubbish left over
-	from the Den Battle
+	Ainda tem lixo que
+	ficou do Torneio de
+	Batalha Den!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Tournament! Judging
-	by how much there is
+	A julgar pelo tanto
+	de lixo que ficou
+	aqui,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	here,I bet Castillo
-	is a mess too!
+	aposto que o
+	Castillo está uma
+	porqueira,também!
 	"""
 	keyWait
 		any = false
@@ -71,36 +72,38 @@ script 2 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	After vigorous anal-
-	ysis,I have come to
+	Após uma análise
+	meticulosa,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	conclude that the
-	best NetBattlers
+	concluí que os
+	melhores
+	NetLutadores
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	have high syncro
-	rates with their
+	possuem uma taxa
+	alta de sincroniza-
+	ção com seus Navis.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Navis. The question
-	is,can humans ever
+	A questão é:
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	be completely in
-	sync with Navis?
+	humanos podem mesmo
+	ficarem 100% em
+	sincronia com Navis?
 	"""
 	keyWait
 		any = false
@@ -111,23 +114,25 @@ script 3 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	There's still
-	rubbish left over
-	from the City Battle
+	Ainda tem lixo que
+	ficou do Torneio de
+	Batalha da Cidade!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Tournament! Judging
-	by how much there is
+	A julgar pelo tanto
+	de lixo que ficou
+	aqui,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	here,I bet Castillo
-	is a mess too!
+	aposto que o
+	Castillo está uma
+	porqueira,também!
 	"""
 	keyWait
 		any = false
@@ -138,29 +143,30 @@ script 10 mmbn4 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	No matter how hard I
-	try,I can't work as
+	Por mais que eu
+	tente,não consigo
+	cooperar com o meu
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	well together with
-	my Navi as you,Lan!
-	What's your secret?
+	Navi tão bem quanto
+	você com o seu,Lan!
+	Tem algum segredo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯Mm-hmm⋯Try to get
-	along better with my
-	Navi?
+	... Uhum... Tentar
+	ser mais amigo do
+	meu Navi?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"That's it?"
+	"Só isso?"
 	keyWait
 		any = false
 	end
@@ -170,8 +176,7 @@ script 11 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Whew! This about
-	does it⋯
+	Ufa! Terminei...
 	"""
 	keyWait
 		any = false
@@ -182,17 +187,17 @@ script 12 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	The basic question
-	is,how human can
-	Navis become? The
+	A questão básica é:
+	o quão humanos Navis
+	podem ser?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	more human they are,
-	the better opera-
-	tors can perform.
+	Quanto mais humanos
+	são,melhor os opera-
+	dores se saem.
 	"""
 	keyWait
 		any = false
@@ -213,16 +218,16 @@ script 20 mmbn4 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	Ever since befriend-
-	ing my Navi,I've
+	Desde que eu fiquei
+	mais amigo do meu
+	Navi,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	started to
-	understand what he's
-	thinking.
+	comecei a entender
+	o que ele pensa.
 	"""
 	keyWait
 		any = false
@@ -243,16 +248,17 @@ script 21 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	If we hold another
-	tournament here
-	again,we have to
+	Se sediarmos outro
+	torneio aqui algum
+	dia,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	increase the number
-	of garbage cans!
+	temos que aumentar o
+	número de latas de
+	lixo!
 	"""
 	keyWait
 		any = false
@@ -273,9 +279,9 @@ script 22 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	More human-like
-	Navis⋯Someone once
-	said that⋯
+	Navis mais humanos.
+	Já teve alguém que
+	pesquisou isso...
 	"""
 	keyWait
 		any = false
@@ -286,16 +292,17 @@ script 30 mmbn4 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	Ever since I began
-	to understand what
-	my Navi's thinking,
+	Desde que eu comecei
+	a entender como o
+	meu Navi pensa,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	my operation speed
-	has increased!
+	a minha velocidade
+	de operação
+	aumentou!
 	"""
 	keyWait
 		any = false
@@ -306,16 +313,15 @@ script 31 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I can't imagine the
-	amount of trash
-	there must be at
+	Nem dá pra imaginar
+	o tanto de lixo que
+	deve ter no
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that Netopian
-	tournament!
+	Torneio ameropano!
 	"""
 	keyWait
 		any = false
@@ -326,23 +332,24 @@ script 32 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Can simply
-	increasing a Navi's
-	performance
+	Será possível que
+	simplesmente aumen-
+	tar o desempenho do
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	create an emotional
-	bond with it?
+	Navi crie um laço
+	emocional com ele?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hmmm⋯This will take
-	some thought⋯
+	Hmmm... Preciso
+	refletir sobre
+	isso...
 	"""
 	keyWait
 		any = false
@@ -353,16 +360,17 @@ script 40 mmbn4 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	I see now that
-	strength isn't
+	Agora eu entendo
+	que força não é
+	tudo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	everything. It's
-	all about improving
-	your relationship!
+	O segredo é
+	trabalhar no nosso
+	relacionamento!
 	"""
 	keyWait
 		any = false
@@ -376,9 +384,9 @@ script 41 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Now that I'm done
-	cleaning,I'll watch
-	Red Sun on TV!
+	Agora que terminei
+	de limpar,vou ver o
+	Sol Vermelho na TV!
 	"""
 	keyWait
 		any = false
@@ -389,9 +397,9 @@ script 42 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Someday I'm going to
-	raise lots of elite
-	NetBattlers⋯
+	Um dia,eu vou criar
+	vários NetLutadores
+	de elite...
 	"""
 	keyWait
 		any = false
@@ -402,9 +410,9 @@ script 43 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Now that I'm done
-	cleaning,I'll watch
-	Blue Moon on TV!
+	Agora que terminei
+	de limpar,vou ver o
+	Lua Azul na TV!
 	"""
 	keyWait
 		any = false
@@ -420,8 +428,8 @@ script 50 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	The Net⋯?!
-	Are you for real?
+	A Rede...?!
+	É sério?!
 	"""
 	keyWait
 		any = false
@@ -437,17 +445,17 @@ script 51 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	The Net's divided
-	up,destroying com-
-	munication channels!
+	A Rede foi dividida,
+	destruindo canais de
+	comunicação!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Officials are
-	rushing to make
-	repairs⋯
+	Os Oficiais estão
+	correndo para
+	consertar isso...
 	"""
 	keyWait
 		any = false
@@ -458,15 +466,16 @@ script 55 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I hear the Net's
-	back to normal. But
+	Parece que a Rede
+	voltou ao normal.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	who would do such a
-	thing,and why?
+	Mas quem faria uma
+	coisa dessas,e por
+	quê?
 	"""
 	keyWait
 		any = false
@@ -477,17 +486,17 @@ script 56 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	It seems the syndi-
-	cate Nebula was in-
-	volved in that inci-
+	Parece que o Sindi-
+	cato Nebula estava
+	por trás do
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	dent. Where do these
-	criminal organiza-
-	tions come from?
+	incidente. De onde
+	saem essas organi-
+	zações criminosas?
 	"""
 	keyWait
 		any = false
@@ -498,16 +507,17 @@ script 60 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	An order's been is-
-	sued for everyone to
+	Deram uma ordem para
+	todos se esconderem
+	em suas casas,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	hide indoors,but I
-	want to see the
-	truth myself!
+	mas eu quero ver a
+	verdade com meus
+	próprios olhos!
 	"""
 	keyWait
 		any = false
@@ -518,16 +528,17 @@ script 61 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	An evacuation order
-	has been issued from
-	HQ. Proceed to a
+	Uma ordem de
+	evacuação foi
+	emitida pelo QG.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	safe,indoor location
-	immediately!
+	Vá para um local
+	coberto e seguro
+	imediatamente!
 	"""
 	keyWait
 		any = false

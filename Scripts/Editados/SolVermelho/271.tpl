@@ -5,8 +5,8 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,it isn't time
-	for the match,yet!
+	Não,ainda não tá
+	na hora da luta!
 	"""
 	keyWait
 		any = false
@@ -17,8 +17,8 @@ script 1 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,what are you
-	doing back here⋯?
+	Lan,por que você
+	tá voltando...?
 	"""
 	keyWait
 		any = false
@@ -36,31 +36,31 @@ script 130 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Lan,thank you for
-	saving Roll!
+	Lan,obrigada por
+	salvar a Roll!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Roll said that she
-	had to take care of
-	some business⋯
+	Ela disse que tinha
+	que cuidar de uns
+	assuntos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder where she
-	went off to⋯?
+	Pra onde será que
+	ela foi...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's almost time for
-	our match! Where
-	could she be⋯?
+	Já tá quase na hora
+	da nossa luta! Onde
+	será que ela tá...?
 	"""
 	keyWait
 		any = false
@@ -75,40 +75,38 @@ script 131 mmbn4 {
 		mugshot = Yai
 	msgOpen
 	"""
-	I knew I could count
-	on you,Lan!
+	Eu sabia que podia
+	contar com você,Lan!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"B"
+	"CON"
 	waitSkip
 		frames = 30
-	"U"
+	"TU"
 	waitSkip
 		frames = 30
-	"T!"
+	"DO!\n"
 	waitSkip
 		frames = 30
 	"""
-	
-	Don't think I'll go
-	easy on you!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I'll still try my
-	best in our battle!
+	Não pense que vamos
+	pegar leve com você!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I wonder what
-	could have happened
-	to Roll⋯?
+	Vamos lutar com
+	tudo!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Mas onde será que
+	a Roll foi parar...?
 	"""
 	keyWait
 		any = false
@@ -119,22 +117,24 @@ script 132 mmbn4 {
 		mugshot = Yai
 	msgOpen
 	"""
-	You've got to hurry
-	on up there!
+	Você tem que subir
+	logo lá!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mayl is already
-	waiting to go in!
+	A Mayl já tá
+	esperando pra
+	entrar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll be watching
-	you from the stands!
+	Eu vou ficar
+	assistindo das
+	arquibancadas!
 	"""
 	keyWait
 		any = false

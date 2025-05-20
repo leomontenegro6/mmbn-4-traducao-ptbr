@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,
-	all 4 antennas have
-	been fixed now!!
+	Lan,todas as 4
+	antenas foram
+	consertadas!!
 	"""
 	keyWait
 		any = false
@@ -19,8 +19,8 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	The blizzard has
-	subsided,too!!
+	A nevasca parou
+	também!!
 	"""
 	keyWait
 		any = false
@@ -33,7 +33,7 @@ script 2 mmbn4 {
 	soundDisableTextSFX
 	soundPlay
 		track = 156
-	"Briiiiing!"
+	"Trrrriiiimmm!"
 	wait
 		frames = 60
 	soundEnableTextSFX
@@ -47,7 +47,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,phone call!"
+	"Lan,ligação!"
 	keyWait
 		any = false
 	clearMsg
@@ -58,13 +58,13 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	The antennas are
-	working again!
+	As antenas voltaram
+	a funcionar!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Nice work!"
+	"Bom trabalho!"
 	keyWait
 		any = false
 	clearMsg
@@ -75,8 +75,8 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	The researcher!
-	Are you OK now?
+	O pesquisador!
+	Você tá bem agora?
 	"""
 	keyWait
 		any = false
@@ -88,30 +88,31 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	Thanks to you,
-	I'm fine.
+	Graças a você,
+	estou ótimo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You did an amazing
-	job out there.
+	Você fez um
+	excelente trabalho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The blizzard's over
-	here in Sharo,but it
-	may take some time
+	A nevasca aqui,em
+	Sharo,parou,mas
+	pode levar mais um
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	before it subsides
-	in Netopia.
+	tempo até ela se
+	enfraquecer na
+	Ameropa.
 	"""
 	keyWait
 		any = false
@@ -122,7 +123,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Take some time? Why?"
+	"Levar mais tempo?\nPor quê?"
 	keyWait
 		any = false
 	clearMsg
@@ -133,16 +134,17 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	It'll take awhile
-	for the signal to
-	reach Netopia.
+	Vai demorar até o
+	sinal chegar na
+	Ameropa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But at least no more
-	damage will be done.
+	Mas,pelo menos,
+	não haverá mais
+	estragos.
 	"""
 	keyWait
 		any = false
@@ -153,13 +155,14 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"I see⋯"
+	"Entendi..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then the tournament
-	should be OK then.
+	Então,acho que vai
+	dar bom com o
+	torneio.
 	"""
 	keyWait
 		any = false
@@ -171,17 +174,17 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	I'll control the
-	satellite so that
-	the blizzard in
+	Vou operar o
+	satélite para que a
+	nevasca na Ameropa
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Netopia stops as
-	soon as possible.
-	Don't worry.
+	pare o mais rápido
+	possível. Não se
+	preocupe.
 	"""
 	keyWait
 		any = false
@@ -193,8 +196,8 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Roger that! We're
-	counting on you!!
+	Beleza! Contamos com
+	você!!
 	"""
 	keyWait
 		any = false
@@ -207,7 +210,7 @@ script 12 mmbn4 {
 	soundDisableTextSFX
 	soundPlay
 		track = 209
-	"Click."
+	"Clic."
 	wait
 		frames = 11
 	soundEnableTextSFX
@@ -222,9 +225,8 @@ script 13 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,
-	let's get back
-	to Netopia.
+	Lan,vamos voltar
+	pra Ameropa.
 	"""
 	keyWait
 		any = false
@@ -237,7 +239,7 @@ script 14 mmbn4 {
 	soundDisableTextSFX
 	soundPlay
 		track = 156
-	"Briiiiing!"
+	"Trrriiiiimmm!"
 	keyWait
 		any = false
 	clearMsg
@@ -250,8 +252,9 @@ script 15 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Another call? The
-	researcher again?
+	Outra ligação?
+	É o pesquisador
+	de novo?
 	"""
 	keyWait
 		any = false
@@ -263,16 +266,16 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = ColdMan
 	"""
-	Whoosh!!
+	Xuou!!
 	MegaMan!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What's the idea
-	meddling in
-	our business!!
+	Que história é essa
+	de você se meter nos
+	nossos negócios?!
 	"""
 	keyWait
 		any = false
@@ -294,23 +297,24 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = Chillski
 	"""
-	You gonna pay!
-	I just starting
-	to cool off.
+	Você vai pagar por
+	isso! Eu só estava
+	começando a esfriar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Come to Colosseum
-	at once!!
+	Venha para o Coliseu
+	agora mesmo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We will freeze Mega-
-	Man to core!!
+	Vamos transformar o
+	MegaMan em uma bela
+	escultura de gelo!
 	"""
 	keyWait
 		any = false
@@ -323,7 +327,7 @@ script 19 mmbn4 {
 	soundDisableTextSFX
 	soundPlay
 		track = 209
-	"Click!!"
+	"Clic!!"
 	wait
 		frames = 11
 	soundEnableTextSFX
@@ -338,22 +342,23 @@ script 20 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	All he thinks about
-	is himself!
+	Ele só pensa nele
+	mesmo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We can't lose to
-	someone like that!
+	Nunca que a gente
+	vai perder pra um
+	cara assim!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,let's head
-	to the Colosseum!
+	MegaMan,vamos lá
+	pro Coliseu!
 	"""
 	keyWait
 		any = false
@@ -364,7 +369,7 @@ script 20 mmbn4 {
 script 21 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Roger!!"
+	"É!!"
 	keyWait
 		any = false
 	end

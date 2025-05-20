@@ -5,29 +5,30 @@ script 0 mmbn4 {
 		mugshot = Woman
 	msgOpen
 	"""
-	This Dome is used
-	for a lot of events,
+	Este Domo é usado
+	para vários eventos,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so I need to always
-	keep it clean.
+	então eu preciso
+	sempre mantê-lo
+	limpo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Still,it's a little
-	too big for me to
+	Ainda assim,é meio
+	grande demais para
+	eu cuidar de tudo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	handle all by
-	myself!
+	sozinha!
 	"""
 	keyWait
 		any = false
@@ -48,9 +49,9 @@ script 5 mmbn4 {
 		mugshot = Woman
 	msgOpen
 	"""
-	No matter how much I
-	clean,the work never
-	seems to end!
+	Por mais que eu lim-
+	pe,parece que o tra-
+	balho nunca termina!
 	"""
 	keyWait
 		any = false
@@ -61,14 +62,17 @@ script 10 mmbn4 {
 		mugshot = Woman
 	msgOpen
 	"""
-	This place was just
-	too much for me to
-	clean alone,so I
+	Este lugar é grande
+	demais para eu
+	limpar sozinha,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"hired some help."
+	"""
+	então eu contratei
+	um ajudante.
+	"""
 	keyWait
 		any = false
 	end
@@ -82,18 +86,18 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = OldManAlt
 	msgOpen
-	"Howdy there⋯"
+	"Opa,oi,menin'."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm-a workin' mah
-	darndest!
+	Eu tô trabalhano
+	até o osso!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Nyuk! Nyuk! Nyuk!"
+	"Hea hea hea!"
 	keyWait
 		any = false
 	end
@@ -103,15 +107,16 @@ script 15 mmbn4 {
 		mugshot = Woman
 	msgOpen
 	"""
-	That old man's the
-	best cleaner I've
+	Esse vovô é o melhor
+	faxineiro que eu já
+	conheci na vida!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ever met! His form's
-	inspirational!
+	O ritmo firme dele
+	é inspirador!
 	"""
 	keyWait
 		any = false
@@ -122,23 +127,24 @@ script 16 mmbn4 {
 		mugshot = OldManAlt
 	msgOpen
 	"""
-	In the old days the
-	cleaning industry
+	Nos primórdios da
+	indústria da faxina,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	knew me as
-	"Sandstorm" 'cause
+	eu era conhecido
+	como "Tempestade de
+	Areia",por causa da
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	of my sweeping
-	frenzies with a
-	broom!
+	poeira toda que eu
+	levantava com a
+	minha vassoura!
 	"""
 	keyWait
 		any = false
@@ -159,17 +165,17 @@ script 20 mmbn4 {
 		mugshot = Woman
 	msgOpen
 	"""
-	That old man works
-	like a madman. I'd
-	be lost without his
+	O velho trabalha
+	feito louco. Eu es-
+	taria perdida sem a
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	help! You know,he
-	looks really
-	familiar. Hmmm⋯
+	ajuda dele! E,sabe,
+	ele é tão familiar.
+	Hmmm...
 	"""
 	keyWait
 		any = false
@@ -190,16 +196,17 @@ script 21 mmbn4 {
 		mugshot = OldManAlt
 	msgOpen
 	"""
-	Grippin' a broom
-	puts fire back in
+	Pegar na vassoura
+	reanima os meus
+	ossos,menin'!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	mah bones! Reminds
-	me of my youth,it
-	does!
+	Faz lembrar de
+	quando eu era
+	"jóvi"!
 	"""
 	keyWait
 		any = false
@@ -209,29 +216,29 @@ script 25 mmbn4 {
 	mugshotShow
 		mugshot = Woman
 	msgOpen
-	"That's it! That guy"
+	"É claro! Esse homem\nfoi o primeiro\nvencedor do"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	was the first winner
-	of the World Clean-
-	ing Battle Royal!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	He's cleaned build-
-	ings all over the
-	world! I can't
+	Grande Prêmio
+	Mundial da Limpeza!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	believe I hired him
-	part-time!
+	Ele já limpou
+	lugares por todo
+	o mundo!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Não acredito que
+	eu contratei ele
+	meio-período!
 	"""
 	keyWait
 		any = false
@@ -242,9 +249,9 @@ script 26 mmbn4 {
 		mugshot = OldManAlt
 	msgOpen
 	"""
-	Cleaning a place
-	like this brings
-	back memories⋯
+	Limpar um lugar
+	destes traz tanta
+	recordação...
 	"""
 	keyWait
 		any = false
@@ -255,36 +262,36 @@ script 30 mmbn4 {
 		mugshot = Woman
 	msgOpen
 	"""
-	That guy took me in
-	as his apprentice!
+	O velho me aceitou
+	como aprendiz!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's like a legend
-	in the cleaning biz!
+	Ele é como uma lenda
+	no mundo da limpeza!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What's so amazing
-	about him?
+	"O que ele tem de
+	tão incrível assim?"
 	"""
+	waitSkip
+		frames = 30
+	"\n."
 	waitSkip
 		frames = 30
 	"."
 	waitSkip
 		frames = 30
 	"."
-	waitSkip
-		frames = 30
-	"."
 	keyWait
 		any = false
 	clearMsg
-	"He's just amazing!"
+	"Ele é incrível,\nsimples assim!"
 	keyWait
 		any = false
 	end
@@ -294,26 +301,26 @@ script 31 mmbn4 {
 		mugshot = OldManAlt
 	msgOpen
 	"""
-	I won't teach mah
-	apprentice any
-	tricks. Tricks ain't
+	Num vô ensinar pra
+	minha aprendiz
+	nenhum truque,não.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"fer learnin' anyway!"
+	"Truque nem é pra\naprender,mesmo!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You gotta steal 'em!
-	I'm lookin' forward
-	to seeing how many
+	É pra roubar! Tô
+	ansioso pra ver
+	quantos dos meus
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"she can steal!"
+	"ela vai roubar!"
 	keyWait
 		any = false
 	end
@@ -333,50 +340,50 @@ script 40 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"Hey,if it isn't Lan!"
+	"Ora,ora,se não é o\nLan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mr.Famous gave me
-	this folder to pass
-	on to an ace NetBat-
+	O Sr. Famoso me deu
+	esta pasta para dar
+	a um NetLutador
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	tler. He made this
-	"
+	genial. Ele mesmo
+	fez esta "
 	"""
 	printFolderName
 		buffer = 0
 		entry = 5
 	"""
-	" himself!
-	I think he'd approve
+	"!
+	Acho que aprovaria
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	of me handing it to
-	you! It'll replace
+	eu entregar ela pra
+	você! Ela vai
+	substituir a sua
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	your current Spare-
-	Folder,and if that's
-	OK then it's yours.
+	PastaExtra atual.
+	Se você concordar,
+	ela é sua!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What do you say,do
-	you want this
+	E aí,quer esta
 	"
 	"""
 	printFolderName
@@ -397,7 +404,7 @@ script 40 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Tá  "
+	"Quero  "
 	option
 		brackets = false
 		left = 0
@@ -422,15 +429,15 @@ script 40 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	Oh. Well,I won't
-	force it on you.
+	Ah. Bom,não vou te
+	forçar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let me know if you
-	change your mind!
+	Me avise caso mude
+	de ideia!
 	"""
 	keyWait
 		any = false
@@ -441,8 +448,8 @@ script 41 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	OK! I'll send you
-	the folder data!
+	OK! Vou te mandar
+	os dados da pasta!
 	"""
 	keyWait
 		any = false
@@ -457,40 +464,39 @@ script 41 mmbn4 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
 	soundPlay
 		track = 297
-	"Beep!"
+	"Bip!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	Transmission
-	complete!
+	Transmissão
+	concluída!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Now \""
+	"Agora,\""
 	printFolderName
 		buffer = 0
 		entry = 5
 	"""
-	" is
-	set as your Spare-
-	Folder!
+	" é
+	a sua PastaExtra!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It can be a powerful
-	folder if you know
-	how to use it right!
+	Ela pode ser
+	poderosa,se você
+	souber como usá-la!
 	"""
 	keyWait
 		any = false
@@ -500,32 +506,32 @@ script 42 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"Hey,Lan! You here"
+	"Ah,Lan!"
 	keyWait
 		any = false
 	clearMsg
-	"for the \""
+	"Veio aqui pela\n"
 	printFolderName
 		buffer = 0
 		entry = 5
 	"""
-	"?
-	It'll replace your
+	?
+	Ela substituirá
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	current SpareFolder,
-	and if that's OK
-	then it's yours!
+	a sua PastaExtra
+	atual. Se aceitar
+	isso,ela é sua!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What do you say,do
-	you want it?
+	Que tal?
+	Você é a quer?
 	"""
 	keyWait
 		any = false
@@ -541,7 +547,7 @@ script 42 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Tá  "
+	"Quero  "
 	option
 		brackets = false
 		left = 0
@@ -566,15 +572,15 @@ script 42 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	Oh. Well,I won't
-	force it on you.
+	Ah. Bom,não vou te
+	forçar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let me know if you
-	change your mind!
+	Me avise caso mude
+	de ideia!
 	"""
 	keyWait
 		any = false
@@ -585,9 +591,9 @@ script 43 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	⋯Shuffle⋯Shuffle⋯
-	⋯⋯Mr.Famous'⋯
-	⋯folder⋯ 
+	... Hummpf...
+	... Pasta...
+	... Sr. Famoso...
 	"""
 	keyWait
 		any = false

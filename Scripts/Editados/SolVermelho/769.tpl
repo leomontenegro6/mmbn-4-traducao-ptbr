@@ -5,8 +5,9 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,we finally made
-	it to the Undernet.
+	Lan,finalmente
+	chegamos na
+	Undernet.
 	"""
 	keyWait
 		any = false
@@ -18,16 +19,16 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	OK,let's go look
-	for SerchMan.
+	É. Vamos procurar
+	pelo SearchMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's be careful.
-	You never know what
-	might happen here!
+	Mas cuidado. Não dá
+	pra saber o que vai
+	acontecer aqui!
 	"""
 	keyWait
 		any = false
@@ -38,7 +39,7 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Roger⋯"
+	"Certo..."
 	keyWait
 		any = false
 	end
@@ -47,7 +48,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"W-what's that?"
+	"O-o que é isso?"
 	keyWait
 		any = false
 	clearMsg
@@ -57,7 +58,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"MegaMan,look out!"
+	"MegaMan,cuidado!"
 	keyWait
 		any = false
 	end
@@ -76,8 +77,8 @@ script 6 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Someone's got me in
-	their sights!
+	Tem alguém mirando
+	em mim!
 	"""
 	keyWait
 		any = false
@@ -89,15 +90,16 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I don't know who's
-	behind this,but the
+	Eu não sei quem
+	tá por trás disso,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	going won't be easy
-	from hereon.
+	mas não vai ser
+	nada fácil daqui
+	pra frente.
 	"""
 	keyWait
 		any = false
@@ -108,20 +110,21 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"So it would seem⋯"
+	"É o que parece..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Still,the only way's
-	forward.
+	Mas a única escolha
+	que a gente tem é ir
+	em frente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We better
-	stay on our toes.
+	É só bom a gente
+	ficar esperto.
 	"""
 	keyWait
 		any = false
@@ -132,13 +135,14 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"You got that right!"
+	"Pode crer!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's watch every
-	step we make!!
+	Vamos explorar com
+	todo o cuidado do
+	mundo!
 	"""
 	keyWait
 		any = false
@@ -149,7 +153,7 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Roger!"
+	"OK!"
 	keyWait
 		any = false
 	end

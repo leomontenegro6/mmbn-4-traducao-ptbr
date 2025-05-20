@@ -47,16 +47,16 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	msgOpen
 	"""
-	THERE IS A TOLL FOR
-	THE AREA AHEAD⋯
+	HÁ UM PEDÁGIO PARA A
+	ÁREA À FRENTE...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT COSTS 500 ZENNYS
-	TO OPEN THIS DOOR.
-	WILL YOU PROCEED?
+	CUSTA 500 ZENNYS
+	PARA ABRIR A PORTA.
+	PROSSEGUIR?
 	"""
 	keyWait
 		any = false
@@ -93,7 +93,7 @@ script 2 mmbn4 {
 			jump = continue
 		]
 	clearMsg
-	"FAREWELL,THEN."
+	"ADEUS,ENTÃO."
 	keyWait
 		any = false
 	end
@@ -130,9 +130,9 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	msgOpen
 	"""
-	Sharo SpaceCtr
-	control security
-	cube.
+	Cubo de Segurança
+	do Centro Espacial
+	de Sharo.
 	"""
 	keyWait
 		any = false
@@ -152,13 +152,13 @@ script 5 mmbn4 {
 		jumpIfNone = 6
 		jumpIfSome = 6
 	"""
-	MegaMan paid:
+	MegaMan pagou:
 	"500 Zennys"!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"WELCOME⋯"
+	"BEM-VINDO..."
 	keyWait
 		any = false
 	flagSet
@@ -167,7 +167,7 @@ script 5 mmbn4 {
 }
 script 6 mmbn4 {
 	msgOpen
-	"NOT ENOUGH MONEY⋯"
+	"NÃO POSSUI DINHEIRO\nO BASTANTE..."
 	keyWait
 		any = false
 	end

@@ -195,7 +195,7 @@ script 13 mmbn4 {
 		mugshot = SciLabMan
 	"""
 	Um Ponto de Batalha.
-	As preliminares pro
+	As preliminares do
 	Torneio Água
 	"""
 	keyWait
@@ -359,7 +359,7 @@ script 21 mmbn4 {
 		mugshot = SciLabMan
 	"""
 	Um Ponto de Batalha.
-	As preliminares pro
+	As preliminares do
 	Torneio Falcão
 	"""
 	keyWait

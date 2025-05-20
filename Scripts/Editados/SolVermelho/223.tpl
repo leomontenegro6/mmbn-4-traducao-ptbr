@@ -125,14 +125,14 @@ script 1 mmbn4 {
 }
 script 2 mmbn4 {
 	msgOpen
-	"Many,many Navis⋯"
+	"Diversos Navis..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This door opens only
-	to those without "V"
-	who know fragments.
+	A porta só se abre
+	àqueles sem "V" que
+	conhecem fragmentos.
 	"""
 	keyWait
 		any = false
@@ -141,8 +141,8 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	msgOpen
 	"""
-	I feel the power of
-	the many Navis⋯
+	Sinto o poder dos
+	diversos Navis...
 	"""
 	keyWait
 		any = false
@@ -153,10 +153,10 @@ script 3 mmbn4 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
-	"You may pass."
+	"Pode passar."
 	keyWait
 		any = false
 	flagSet

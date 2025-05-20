@@ -5,14 +5,13 @@ script 0 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	What's that?
-	Shooting off
-	all of a sudden⋯
+	Ué? Emperrando
+	assim,do nada...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Stop. Stop please."
+	"Não se mova,senhor,\npor favor."
 	keyWait
 		any = false
 	end
@@ -21,13 +20,13 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Something's strange⋯"
+	"Tem alguma coisa\nestranha aqui..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It feels like we're
-	being watched⋯
+	Parece que estamos
+	sendo observado...
 	"""
 	keyWait
 		any = false

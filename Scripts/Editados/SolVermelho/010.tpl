@@ -38,8 +38,8 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Fone de ouvido
-	capaz de eliminar
+	Fones de ouvido
+	capazes de eliminar
 	ruídos externos.
 	"""
 	waitHold
@@ -60,8 +60,9 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Repair data,used
-	for fixing Mr.Progs.
+	Dados de reparo
+	usados para
+	consertar Progs.
 	"""
 	waitHold
 }
@@ -81,9 +82,9 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	A type of viruses
-	uses sonic waves to
-	mess up computers.
+	Um vírus que usa
+	ondas sônicas para
+	causar panes.
 	"""
 	waitHold
 }
@@ -107,9 +108,9 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	This mystery data
-	has a distinct air
-	of maliciousness⋯
+	Eles dados misterio-
+	sos têm um "quê" de
+	maldade...
 	"""
 	waitHold
 }
@@ -129,9 +130,9 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	This data controls
-	the sonar system in
-	the ElTwrComp!
+	Estes dados contro-
+	lam o sistema sonar
+	no CPUEletTorr!
 	"""
 	waitHold
 }
@@ -151,9 +152,9 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	This data controls
-	the sonar system in
-	the ElTwrComp!
+	Estes dados contro-
+	lam o sistema sonar
+	no CPUEletTorr!
 	"""
 	waitHold
 }
@@ -173,8 +174,9 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's proof of being
-	in all of DenCity!
+	Isto prova que somos
+	os melhores de toda
+	a DenCity!
 	"""
 	waitHold
 }
@@ -194,9 +196,9 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Looks like a key for
-	opening a door on
-	the Net somewhere
+	Parece uma chave
+	para uma porta em
+	algum canto da Rede.
 	"""
 	waitHold
 }
@@ -227,7 +229,7 @@ script 9 mmbn4 {
 		top = 128
 	mugshotShow
 		mugshot = MegaMan
-	"A memo"
+	"Um bilhete."
 	waitHold
 }
 script 10 mmbn4 {
@@ -246,15 +248,15 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	"si ivan neerg eht
-	!eerht aera nwot ni"
+	an átse edrev ivan o
+	!sêrt aliv areá
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder what the
-	heck that means?
+	O que será que isso
+	significa?
 	"""
 	waitHold
 }
@@ -274,20 +276,20 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Might try looking in
-	You             side
-	!flowers of vase the
+	Tente ver dentro de
+	Sabe,          um
+	!flores de montão
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Spiral."
+	"Espiral."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder if there's
-	a hint in here?
+	Será que tem uma
+	pista aqui?
 	"""
 	waitHold
 }
@@ -307,8 +309,9 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Data,labeled "1".
-	Wonder what it does?
+	Dados rotulados com
+	"1". O que será que
+	fazem?
 	"""
 	waitHold
 }
@@ -328,8 +331,9 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Data,labeled "2".
-	Wonder what it does?
+	Dados rotulados com
+	"2". O que será que
+	fazem?
 	"""
 	waitHold
 }
@@ -349,8 +353,9 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Data,labeled "3".
-	Wonder what it does?
+	Dados rotulados com
+	"3". O que será que
+	fazem?
 	"""
 	waitHold
 }
@@ -370,8 +375,9 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Data,labeled "4".
-	Wonder what it does?
+	Dados rotulados com
+	"4". O que será que
+	fazem?
 	"""
 	waitHold
 }
@@ -391,8 +397,9 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Data,labeled "5".
-	Wonder what it does?
+	Dados rotulados com
+	"5". O que será que
+	fazem?
 	"""
 	waitHold
 }
@@ -412,9 +419,9 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's an electric-
-	powered top. Looks
-	like it spins fast!
+	É um pião elétrico.
+	Parece girar super
+	rápido!
 	"""
 	waitHold
 }
@@ -434,9 +441,9 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	NetBattler's Assoc.
-	Secret Technique 1:
-	"Falling on heads!"
+	Técnica Secreta 1
+	da Associação:
+	"Cair na Cabeça!"
 	"""
 	waitHold
 }
@@ -456,9 +463,9 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	NetBattler's Assoc.
-	Secret Technique 2:
-	"Spin 'n Slam!"
+	Técnica Secreta 2
+	da Associação:
+	"Bate-Gira!"
 	"""
 	waitHold
 }
@@ -478,9 +485,9 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	NetBattler's Assoc.
-	Secret Technique 3:
-	"Zigzag Top Attack!"
+	Técnica Secreta 3
+	da Associação:
+	"Pião Zigue-Zague!"
 	"""
 	waitHold
 }
@@ -500,9 +507,9 @@ script 21 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	NetBattler's Assoc.
-	Secret Technique 4:
-	"Spin and Guard!"
+	Técnica Secreta 4
+	da Associação:
+	"Gira e Defende!"
 	"""
 	waitHold
 }
@@ -522,8 +529,9 @@ script 22 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's data concerning
-	Mettaur physiology.
+	São dados acerca da
+	fisiologia dos
+	Mettaurs.
 	"""
 	waitHold
 }
@@ -543,9 +551,9 @@ script 23 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's a rare goldbug!
-	This one's a male!
-	He's very excited
+	É um raro Bes-Ouro!
+	Este é macho! Ele
+	está bem animado.
 	"""
 	waitHold
 }
@@ -565,9 +573,9 @@ script 24 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's a rare goldbug!
-	This one's female!
-	She's totally still
+	É um raro Bes-Ouro!
+	Esta é fêmea!
+	Ela está imóvel.
 	"""
 	waitHold
 }
@@ -587,9 +595,9 @@ script 25 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's a membership
-	for the old folks'
-	NetBattler's Assoc.
+	Cartão de membro pra
+	Associaçao de NetLu-
+	ta dos velhinhos.
 	"""
 	waitHold
 }
@@ -609,9 +617,9 @@ script 26 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It says that it's
-	an admission ticket
-	for Castillo!
+	Está escrito que é
+	um ingresso para o
+	Castillo!
 	"""
 	waitHold
 }
@@ -631,9 +639,9 @@ script 27 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	A scoop of ice cream
-	so big it's over-
-	flowing the cone!
+	Sorvete tão grande
+	que está transbor-
+	dando na castinha!
 	"""
 	waitHold
 }
@@ -653,9 +661,9 @@ script 28 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	This'll let me
-	breathe even 
-	under cyber-water!
+	Com isto,eu poderei
+	respirar até debaixo
+	da cyber-água!
 	"""
 	waitHold
 }
@@ -675,9 +683,9 @@ script 29 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's a key for
-	getting into
-	Shuko's Area!
+	É uma chave para
+	entrar na Área da
+	Shuko!
 	"""
 	waitHold
 }
@@ -697,9 +705,9 @@ script 30 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's a program that
-	converts sunlight
-	into energy!
+	É um programa que
+	converte luz do
+	sol em energia!
 	"""
 	waitHold
 }
@@ -719,8 +727,9 @@ script 31 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's proof of being
-	in Electopia!
+	Isto prova que somos
+	os melhores de
+	Ni-Hon!
 	"""
 	waitHold
 }
@@ -740,8 +749,9 @@ script 32 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's proof of being
-	in the world!
+	Isto prova que somos
+	os melhores do
+	mundo!
 	"""
 	waitHold
 }
@@ -761,9 +771,9 @@ script 33 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	This'll let us go
-	wherever we want
-	on the Net!
+	Isso nos permite ir
+	a qualquer ponto da
+	Rede que quisermos!
 	"""
 	waitHold
 }
@@ -783,9 +793,9 @@ script 34 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's key-shaped data
-	that will activate
-	if we get all four
+	Dados de chave que
+	se ativarão se
+	obtivermos os 4.
 	"""
 	waitHold
 }
@@ -805,9 +815,9 @@ script 35 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's key-shaped data
-	that will activate
-	if we get all four
+	Dados de chave que
+	se ativarão se
+	obtivermos os 4.
 	"""
 	waitHold
 }
@@ -827,9 +837,9 @@ script 36 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's key-shaped data
-	that will activate
-	if we get all four
+	Dados de chave que
+	se ativarão se
+	obtivermos os 4.
 	"""
 	waitHold
 }
@@ -849,9 +859,9 @@ script 37 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's key-shaped data
-	that will activate
-	if we get all four
+	Dados de chave que
+	se ativarão se
+	obtivermos os 4.
 	"""
 	waitHold
 }
@@ -871,9 +881,9 @@ script 38 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's storytelling
-	data. It's labeled
-	"Mirror"
+	São dados de
+	narrativa. No
+	rótulo: "Espelho".
 	"""
 	waitHold
 }
@@ -893,9 +903,9 @@ script 39 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's storytelling
-	data. It's labeled
-	"Comb"
+	São dados de
+	narrativa. No
+	rótulo: "Pente".
 	"""
 	waitHold
 }
@@ -915,9 +925,9 @@ script 40 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's storytelling
-	data. It's labeled
-	"Big Tree"
+	São dados de narra-
+	tiva. No rótulo:
+	"Grande Árvore".
 	"""
 	waitHold
 }
@@ -937,9 +947,9 @@ script 41 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's storytelling
-	data. It's labeled
-	"Statue"
+	São dados de
+	narrativa. No
+	rótulo: "Estátua".
 	"""
 	waitHold
 }
@@ -959,9 +969,9 @@ script 42 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's storytelling
-	data. It's labeled
-	"MightyBl"
+	São dados de
+	narrativa. No
+	rótulo: "Ataque".
 	"""
 	waitHold
 }
@@ -981,9 +991,9 @@ script 43 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's storytelling
-	data. It's labeled
-	"StrmKiss"
+	São dados de
+	narrativa. No
+	rótulo: "Beijo".
 	"""
 	waitHold
 }
@@ -1003,9 +1013,9 @@ script 44 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's storytelling
-	data. It's labeled
-	"Lecture"
+	São dados de
+	narrativa. No
+	rótulo: "Discurso".
 	"""
 	waitHold
 }
@@ -1025,9 +1035,9 @@ script 45 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's storytelling
-	data. It's labeled
-	"WzMonkey"
+	São dados de
+	narrativa. No
+	rótulo: "MgMacaco".
 	"""
 	waitHold
 }
@@ -1047,9 +1057,9 @@ script 46 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's storytelling
-	data. It's labeled
-	"WzCat"
+	São dados de
+	narrativa. No
+	rótulo: "MagoGato".
 	"""
 	waitHold
 }
@@ -1069,9 +1079,9 @@ script 47 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's storytelling
-	data. It's labeled
-	"WzDragon"
+	São dados de
+	narrativa. No
+	rótulo: "MgDragão".
 	"""
 	waitHold
 }
@@ -1091,9 +1101,9 @@ script 48 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's storytelling
-	data. It's labeled
-	"MagicSel"
+	São dados de
+	narrativa. No
+	rótulo: "SeloMági".
 	"""
 	waitHold
 }
@@ -1113,9 +1123,9 @@ script 49 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's storytelling
-	data. It's labeled
-	"VioDance"
+	São dados de
+	narrativa. No
+	rótulo: "Bailar"
 	"""
 	waitHold
 }
@@ -1135,9 +1145,9 @@ script 50 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's storytelling
-	data. It's labeled
-	"BadJoke"
+	São dados de narra-
+	tiva. No rótulo:
+	"LeroLero".
 	"""
 	waitHold
 }
@@ -1157,9 +1167,9 @@ script 51 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's storytelling
-	data. It's labeled
-	"GoodNose"
+	São dados de
+	narrativa. No
+	rótulo: "FaroBom".
 	"""
 	waitHold
 }
@@ -1179,9 +1189,9 @@ script 52 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's storytelling
-	data. It's labeled
-	"Scratch"
+	São dados de
+	narrativa. No
+	rótulo: "Arranhão".
 	"""
 	waitHold
 }
@@ -1201,9 +1211,9 @@ script 53 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's storytelling
-	data. It's labeled
-	"GoodEyes"
+	São dados de
+	narrativa. No
+	rótulo: "Pelo".
 	"""
 	waitHold
 }
@@ -1223,9 +1233,9 @@ script 54 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's storytelling
-	data. It's labeled
-	"Plunge"
+	São dados de
+	narrativa. No
+	rótulo: "Rugido".
 	"""
 	waitHold
 }
@@ -1245,9 +1255,9 @@ script 55 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's storytelling
-	data. It's labeled
-	"War"
+	São dados de
+	narrativa. No
+	rótulo: "Guerra".
 	"""
 	waitHold
 }
@@ -1267,9 +1277,9 @@ script 56 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's storytelling
-	data. It's labeled
-	"Emotion"
+	São dados de
+	narrativa. No
+	rótulo: "Emoção".
 	"""
 	waitHold
 }
@@ -1289,9 +1299,9 @@ script 57 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's storytelling
-	data. It's labeled
-	"Comedy"
+	São dados de
+	narrativa. No
+	rótulo: "Piadas".
 	"""
 	waitHold
 }
@@ -1311,9 +1321,9 @@ script 58 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's storytelling
-	data. It's labeled
-	"Pride"
+	São dados de
+	narrativa. No
+	rótulo: "Soberba".
 	"""
 	waitHold
 }
@@ -1333,9 +1343,9 @@ script 59 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's storytelling
-	data. It's labeled
-	"Bird"
+	São dados de
+	narrativa. No
+	rótulo: "Pássaro".
 	"""
 	waitHold
 }
@@ -1355,9 +1365,9 @@ script 60 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's storytelling
-	data. It's labeled
-	"Dance"
+	São dados de
+	narrativa. No
+	rótulo: "Dança".
 	"""
 	waitHold
 }
@@ -1377,9 +1387,9 @@ script 61 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's storytelling
-	data. It's labeled
-	"Dresser"
+	São dados de
+	narrativa. No
+	rótulo: "Pia".
 	"""
 	waitHold
 }
@@ -1399,9 +1409,9 @@ script 62 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's storytelling
-	data. It's labeled
-	"Zombie"
+	São dados de
+	narrativa. No
+	rótulo: "Paca".
 	"""
 	waitHold
 }
@@ -1421,9 +1431,9 @@ script 63 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's storytelling
-	data. It's labeled
-	"ToyPart"
+	São dados de
+	narrativa. No
+	rótulo: "Brnquedo".
 	"""
 	waitHold
 }
@@ -1443,9 +1453,9 @@ script 64 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's storytelling
-	data. It's labeled
-	"Dancer"
+	São dados de
+	narrativa. No
+	rótulo: "Dnçarino".
 	"""
 	waitHold
 }
@@ -1465,9 +1475,9 @@ script 65 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's storytelling
-	data. It's labeled
-	"Politicn"
+	São dados de
+	narrativa. No
+	rótulo: "Político".
 	"""
 	waitHold
 }
@@ -1487,9 +1497,9 @@ script 66 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's storytelling
-	data. It's labeled
-	"FarmRobo"
+	São dados de
+	narrativa. No
+	rótulo: "Fzndeiro".
 	"""
 	waitHold
 }
@@ -1509,9 +1519,9 @@ script 67 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's storytelling
-	data. It's labeled
-	"GunDelSol"
+	São dados de
+	narrativa. No
+	rótulo: "GunDelSol".
 	"""
 	waitHold
 }
@@ -1531,9 +1541,9 @@ script 68 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's storytelling
-	data. It's labeled
-	"CrmScarf"
+	São dados de
+	narrativa. No
+	rótulo: "ChclVrml".
 	"""
 	waitHold
 }
@@ -1553,9 +1563,9 @@ script 69 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's storytelling
-	data. It's labeled
-	"RedUWear"
+	São dados de
+	narrativa. No
+	rótulo: "AnelMágc".
 	"""
 	waitHold
 }
@@ -1575,9 +1585,9 @@ script 70 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's storytelling
-	data. It's labeled
-	"WalshP37"
+	São dados de
+	narrativa. No
+	rótulo: "Porrete".
 	"""
 	waitHold
 }
@@ -1597,9 +1607,9 @@ script 71 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's storytelling
-	data. It's labeled
-	"Otenko"
+	São dados de
+	narrativa. No
+	rótulo: "Otenko".
 	"""
 	waitHold
 }
@@ -1619,9 +1629,9 @@ script 72 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's storytelling
-	data. It's labeled
-	"Sunlight"
+	São dados de
+	narrativa. No
+	rótulo: "LuzSol".
 	"""
 	waitHold
 }
@@ -1641,9 +1651,9 @@ script 73 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's storytelling
-	data. It's labeled
-	"Moonlght"
+	São dados de
+	narrativa. No
+	rótulo: "LuzLua".
 	"""
 	waitHold
 }
@@ -1663,9 +1673,9 @@ script 74 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's storytelling
-	data. It's labeled
-	"MissSun"
+	São dados de
+	narrativa. No
+	rótulo: "Sr.Sol".
 	"""
 	waitHold
 }
@@ -1685,9 +1695,9 @@ script 75 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's storytelling
-	data. It's labeled
-	"Skylight"
+	São dados de
+	narrativa. No
+	rótulo: "Clraboia".
 	"""
 	waitHold
 }
@@ -1707,9 +1717,9 @@ script 76 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's storytelling
-	data. It's labeled
-	"Taiyohhhhhhh⋯⋯!!"
+	São dados de narra-
+	tiva. No rótulo:
+	"Taiyohhhhhhh...!!"
 	"""
 	waitHold
 }
@@ -1729,9 +1739,9 @@ script 77 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's storytelling
-	data. It's labeled
-	"Mo-o-m!"
+	São dados de
+	narrativa. No
+	rótulo: "Maanhêêê!"
 	"""
 	waitHold
 }
@@ -1751,9 +1761,9 @@ script 78 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's storytelling
-	data. It's labeled
-	"Man Head"
+	São dados de
+	narrativa. No
+	rótulo: "Caixa"
 	"""
 	waitHold
 }
@@ -1773,9 +1783,9 @@ script 79 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Transportation
-	all through the
-	Cyberworld!
+	Transporte por
+	todo o Mundo
+	Cibernético!
 	"""
 	waitHold
 }
@@ -1795,8 +1805,8 @@ script 80 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's a key for the
-	door in Town2
+	Uma chave para a
+	porta em Vila2.
 	"""
 	waitHold
 }
@@ -1816,8 +1826,8 @@ script 81 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's a letter from
-	your father,Lan!
+	É uma carta do seu
+	pai,Lan!
 	"""
 	waitHold
 }
@@ -1837,9 +1847,9 @@ script 82 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	A cyber-sutra scroll
-	for exorcising 
-	ghost Navis!
+	Um cyber-sutra para
+	exorcisar Navis
+	fantasma!
 	"""
 	waitHold
 }
@@ -1859,9 +1869,9 @@ script 83 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	A strange crystal
-	that can detect
-	ghost Navis!
+	Estranho cristal
+	que detecta Navis
+	fantasma!
 	"""
 	waitHold
 }
@@ -1881,8 +1891,8 @@ script 84 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	A plane ticket for
-	traveling abroad!
+	Passagem de avião
+	para o exterior!
 	"""
 	waitHold
 }
@@ -1902,8 +1912,9 @@ script 85 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	A key for opening
-	some door on the Net
+	Chave para abrir
+	alguma porta na
+	Rede.
 	"""
 	waitHold
 }
@@ -1923,9 +1934,9 @@ script 86 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Proof of bravery,
-	bestowed in Netopia
-	since times of old!
+	Prova de bravura,
+	conferida na Ameropa
+	desde eras passadas!
 	"""
 	waitHold
 }
@@ -1945,9 +1956,9 @@ script 87 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Proof of strength,
-	bestowed in Netopia
-	since times of old!
+	Prova de força,
+	conferida na Ameropa
+	desde eras passadas!
 	"""
 	waitHold
 }
@@ -1967,9 +1978,9 @@ script 88 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Proof of wisdom,
-	bestowed in Netopia
-	since times of old!
+	Prova de sabedoria,
+	conferida na Ameropa
+	desde eras passadas!
 	"""
 	waitHold
 }
@@ -1989,9 +2000,9 @@ script 89 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Proof of kindness,
-	bestowed in Netopia
-	since times of old!
+	Prova de ternura,
+	conferida na Ameropa
+	desde eras passadas!
 	"""
 	waitHold
 }
@@ -2011,15 +2022,15 @@ script 90 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Flyers for Higsby's!
-	We've got 
+	Panfletos do Higsby!
+	Ainda temos 
 	"""
 	printBuffer
 		buffer = 1
 		minLength = 2
 		padZeros = false
 		padLeft = true
-	" left!"
+	"!"
 	waitHold
 }
 script 91 mmbn4 {
@@ -2038,8 +2049,8 @@ script 91 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	A key for Higsby's
-	warehouse in town!
+	Chave pro armazém do
+	Higsby na cidade!
 	"""
 	waitHold
 }
@@ -2059,9 +2070,9 @@ script 92 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lilly's flute. It
-	has the power to
-	stop WindMan!
+	Flauta da Lilly. Tem
+	o poder de parar o
+	WindMan!
 	"""
 	waitHold
 }
@@ -2081,9 +2092,9 @@ script 93 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Liquor with the
-	power to drive out
-	the strongest virus!
+	Bebida forte o bas-
+	tante pra expulsar
+	qualquer vírus!
 	"""
 	waitHold
 }
@@ -2103,15 +2114,17 @@ script 94 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Gourmet beef jerky.
-	Delicious and chewy!
+	Carne seca gourmet.
+	Deliciosa e boa de
+	mastigar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's also a perfect
-	bar snack!
+	Talvez acompanha
+	muito bem bebidas
+	alcoólicas!
 	"""
 	waitHold
 }
@@ -2131,9 +2144,9 @@ script 95 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Data from Video-
-	Man that cancels the
-	effect of "rewind"!
+	Dados do VideoMan
+	que cancelam o efei-
+	to de "rebobinar"!
 	"""
 	waitHold
 }
@@ -2153,9 +2166,9 @@ script 96 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Data from Video-
-	Man that cancels the
-	effect of "rewind"!
+	Dados do VideoMan
+	que cancelam o efei-
+	to de "rebobinar"!
 	"""
 	waitHold
 }
@@ -2175,9 +2188,9 @@ script 97 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Data from Video-
-	Man that cancels the
-	effect of "rewind"!
+	Dados do VideoMan
+	que cancelam o efei-
+	to de "rebobinar"!
 	"""
 	waitHold
 }
@@ -2197,8 +2210,9 @@ script 98 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	FootBomb shoes
-	from Netopia
+	Chuteiras de
+	FuteBomba da
+	Ameropa.
 	"""
 	waitHold
 }
@@ -2218,9 +2232,9 @@ script 99 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	A key to the garbage
-	dump in
-	YumLand Area.
+	Chave para o
+	lixão na Área
+	Saborya.
 	"""
 	waitHold
 }
@@ -2240,9 +2254,9 @@ script 100 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	A Transmtr. Lets
-	you track me,even
-	from the real world
+	Tranmissor. Com ele,
+	você me detecta,
+	até no mundo real.
 	"""
 	waitHold
 }
@@ -2262,8 +2276,9 @@ script 101 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Proof of completing
-	KendoMan's training
+	Prova de término do
+	treinamento do
+	KendoMan.
 	"""
 	waitHold
 }
@@ -2283,8 +2298,9 @@ script 102 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Proof of completing
-	KendoMan's training
+	Prova de término do
+	treinamento do
+	KendoMan.
 	"""
 	waitHold
 }
@@ -2304,8 +2320,9 @@ script 103 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Proof of completing
-	KendoMan's training
+	Prova de término do
+	treinamento do
+	KendoMan.
 	"""
 	waitHold
 }
@@ -2325,9 +2342,9 @@ script 104 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	A key to the door
-	that leads to 
-	Tamako's master
+	Chave da porta que
+	leva ao mestre da
+	Tamako.
 	"""
 	waitHold
 }
@@ -2347,9 +2364,9 @@ script 105 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	A watergun for
-	fires on the
-	Cyberworld
+	Extintor de
+	incêndios no
+	mundo cibernético.
 	"""
 	waitHold
 }
@@ -2369,8 +2386,9 @@ script 106 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	A powerful water
-	extinguishing fires
+	Fortíssimo extintor
+	de incêndios no
+	mundo cibernético.
 	"""
 	waitHold
 }
@@ -2390,8 +2408,8 @@ script 107 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	A snowshovel. Made
-	in Sharo,of course!
+	Pá de neve. Feita em
+	Sharo,claro!
 	"""
 	waitHold
 }
@@ -2411,9 +2429,9 @@ script 108 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	A program in the
-	shape of a board.
-	Wonder what it is?
+	Programa com a forma
+	de uma prancha.
+	O que será?
 	"""
 	waitHold
 }
@@ -2433,15 +2451,16 @@ script 109 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	A jet program,for
-	propulsion.
+	Um programa de jato,
+	para propulsão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But it isn't really
-	useful by itself⋯
+	Mas,sozinho,é
+	completamente
+	inútil...
 	"""
 	waitHold
 }
@@ -2461,15 +2480,16 @@ script 110 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	A program in the
-	shape of a Wing.
+	Programa com a forma
+	de uma Asa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But it isn't really
-	useful by itself⋯
+	Mas,sozinho,é
+	completamente
+	inútil...
 	"""
 	waitHold
 }
@@ -2489,9 +2509,9 @@ script 111 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	A key for opening
-	the doors set up
-	by Nebula.
+	Chave para abrir as
+	portas instaladas
+	pela Nebula.
 	"""
 	waitHold
 }
@@ -2511,9 +2531,9 @@ script 112 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	A key for opening
-	the doors set up
-	by Nebula.
+	Chave para abrir as
+	portas instaladas
+	pela Nebula.
 	"""
 	waitHold
 }
@@ -2533,9 +2553,9 @@ script 113 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	A key for opening
-	the doors set up
-	by Nebula.
+	Chave para abrir as
+	portas instaladas
+	pela Nebula.
 	"""
 	waitHold
 }
@@ -2555,9 +2575,9 @@ script 114 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	A key for opening
-	the doors set up
-	by Nebula.
+	Chave para abrir as
+	portas instaladas
+	pela Nebula.
 	"""
 	waitHold
 }
@@ -2577,9 +2597,9 @@ script 115 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	A key for opening
-	the doors set up
-	by Nebula.
+	Chave para abrir as
+	portas instaladas
+	pela Nebula.
 	"""
 	waitHold
 }
@@ -2599,9 +2619,9 @@ script 116 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	A key for opening
-	the doors set up
-	by Nebula.
+	Chave para abrir as
+	portas instaladas
+	pela Nebula.
 	"""
 	waitHold
 }
@@ -2621,8 +2641,8 @@ script 117 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	A key to open up the
-	bad guys' hangout
+	Chave para acessar a
+	base dos bandidos.
 	"""
 	waitHold
 }
@@ -2642,8 +2662,9 @@ script 118 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	A program to restore
-	the WaterGod
+	Programa para
+	restaurar o
+	Deus da Água.
 	"""
 	waitHold
 }
@@ -2663,9 +2684,9 @@ script 119 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	A key for opening
-	the doors set up
-	NetFricaArea.
+	Chave que abre
+	portas instaladas na
+	Área Affriq.
 	"""
 	waitHold
 }
@@ -2685,9 +2706,9 @@ script 120 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	A CursDoll that
-	was made to use on
-	me. It scares me!
+	Boneco Amaldiçoado
+	feito para ser usado
+	em mim. Que medo!
 	"""
 	waitHold
 }
@@ -2707,9 +2728,9 @@ script 121 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	A mysterious key
-	that we got from
-	a Nebula member.
+	Chave misteriosa
+	que pegamos de um
+	membro da Nebula.
 	"""
 	waitHold
 }
@@ -2729,9 +2750,8 @@ script 122 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	A key to a
-	Cooking Dojo on
-	the Net!
+	Chave para um Dojô
+	Culinário na Rede!
 	"""
 	waitHold
 }
@@ -2750,7 +2770,7 @@ script 123 mmbn4 {
 		top = 128
 	mugshotShow
 		mugshot = MegaMan
-	"Ingredient for curry"
+	"Ingrediente de\ncurry."
 	waitHold
 }
 script 124 mmbn4 {
@@ -2769,8 +2789,9 @@ script 124 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	This data shows the
-	meaning of kindness
+	Estes dados mostram
+	o significado da
+	ternura.
 	"""
 	waitHold
 }
@@ -2790,9 +2811,9 @@ script 125 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Text with the code
-	for connecting to
-	Jomon Elec's page
+	Arquivo com o código
+	pra acessar a página
+	da Jomon Elet.
 	"""
 	waitHold
 }
@@ -2812,9 +2833,9 @@ script 126 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	A cyber-sword. It's
-	made for training,
-	so it's heavy
+	Cyber-espada criada
+	para treinamento.
+	É bem pesada.
 	"""
 	waitHold
 }
@@ -2834,9 +2855,9 @@ script 127 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Statue of the Water
-	God. With this,we
-	can become Champion!
+	Estátua do Deus da
+	Água. Com isto,
+	seremos campeões!
 	"""
 	waitHold
 }
@@ -2856,14 +2877,14 @@ script 128 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	In NaviCust you can
-	now use L/R Button
-	to spin white
+	No CustNavi,use "L"
+	e "R" para girar
+	peças brancas de
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"program parts."
+	"programas."
 	waitHold
 }
 script 129 mmbn4 {
@@ -2882,14 +2903,14 @@ script 129 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	In NaviCust you can
-	now use L/R Button
-	to spin pink
+	No CustNavi,use "L"
+	e "R" para girar
+	peças cor-de-rosa
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"program parts."
+	"de programas."
 	waitHold
 }
 script 130 mmbn4 {
@@ -2908,14 +2929,14 @@ script 130 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	In NaviCust you can
-	now use L/R Button
-	to spin yellow
+	No CustNavi,use "L"
+	e "R" para girar
+	peças amarelas
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"program parts"
+	"de programas."
 	waitHold
 }
 script 131 mmbn4 {
@@ -2934,14 +2955,14 @@ script 131 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	In NaviCust you can
-	now use L/R Button
-	to spin red
+	No CustNavi,use "L"
+	e "R" para girar
+	peças vermelhas de
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"program parts."
+	"programas."
 	waitHold
 }
 script 132 mmbn4 {
@@ -2960,14 +2981,14 @@ script 132 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	In NaviCust you can
-	now use L/R Button
-	to spin blue
+	No CustNavi,use "L"
+	e "R" para girar
+	peças azuis de
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"program parts."
+	"programas."
 	waitHold
 }
 script 133 mmbn4 {
@@ -2986,14 +3007,14 @@ script 133 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	In NaviCust you can
-	now use L/R Button
-	to spin green
+	No CustNavi,use "L"
+	e "R" para girar
+	pelas verdes de
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"program parts."
+	"programas."
 	waitHold
 }
 script 144 mmbn4 {
@@ -3012,9 +3033,9 @@ script 144 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Text with the code
-	for connecting to
-	Mayl's HP
+	Arquivo com o código
+	pra acessar a página
+	da Mayl.
 	"""
 	waitHold
 }
@@ -3034,9 +3055,9 @@ script 145 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Text with the code
-	for connecting to
-	Dex's HP
+	Arquivo com o código
+	pra acessar a página
+	do Dex.
 	"""
 	waitHold
 }
@@ -3056,9 +3077,9 @@ script 146 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Text with the code
-	for connecting to
-	Yai's HP
+	Arquivo com o código
+	pra acessar a página
+	da Yai.
 	"""
 	waitHold
 }
@@ -3078,9 +3099,9 @@ script 147 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Text with the code
-	for connecting to
-	Netopia Hotel page
+	Arquivo com o código
+	pra acessar a página
+	do Hotel Ameropa.
 	"""
 	waitHold
 }
@@ -3100,9 +3121,9 @@ script 148 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Text with the code
-	for connecting to
-	YumLand StatueComp
+	Arquivo com o código
+	pra acessar o
+	CPUEstátua Saborya.
 	"""
 	waitHold
 }
@@ -3122,9 +3143,9 @@ script 149 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Text with the code
-	for connecting to
-	NupopoComp
+	Arquivo com o código
+	pra acessar o
+	CPUNupopo.
 	"""
 	waitHold
 }
@@ -3144,9 +3165,9 @@ script 150 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Text with the code
-	for connecting to
-	Sharo computer!
+	Arquivo com o código
+	pra acessar o
+	CPU Sharo!
 	"""
 	waitHold
 }
@@ -3166,9 +3187,9 @@ script 151 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Text with the code
-	for connecting to
-	Castillo's HP!
+	Arquivo com o código
+	pra acessar a página
+	do Castillo!
 	"""
 	waitHold
 }
@@ -3188,9 +3209,9 @@ script 152 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Text with the code
-	to connect to the
-	Sharo SpaceCtr & Net
+	Código para acessar
+	o Ct. Espacial de
+	Sharo e a Rede.
 	"""
 	waitHold
 }
@@ -3210,8 +3231,8 @@ script 153 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	A banner for Mayl's
-	HP!
+	Um banner para a
+	página da Mayl!
 	"""
 	waitHold
 }
@@ -3231,8 +3252,8 @@ script 154 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	A banner for Dex's
-	HP!
+	Um banner para a
+	página da Dex!
 	"""
 	waitHold
 }
@@ -3252,8 +3273,8 @@ script 155 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	A banner for Yai's
-	HP!
+	Um banner para a
+	página da Yai!
 	"""
 	waitHold
 }
@@ -3273,8 +3294,9 @@ script 156 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	A banner for Jomon
-	Elec's HP!
+	Um banner para a
+	página da Jomon
+	Eletrônicos!
 	"""
 	waitHold
 }
@@ -3294,8 +3316,8 @@ script 157 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	A banner for
-	Castillo's HP!
+	Um banner para a
+	página do Castillo!
 	"""
 	waitHold
 }
@@ -3315,8 +3337,9 @@ script 158 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	A banner for the
-	Netopia Hotel page!
+	Um banner para a
+	página do Hotel
+	Ameropa!
 	"""
 	waitHold
 }
@@ -3336,9 +3359,9 @@ script 159 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	A banner for the
-	Sharo SpaceCtr's
-	HP!
+	Um banner para a
+	página do Centro
+	Espacial de Sharo!
 	"""
 	waitHold
 }
@@ -3347,8 +3370,8 @@ script 160 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Enlarges the HP
-	+20
+	Aumenta seu HP
+	máximo em 20.
 	"""
 	waitHold
 }
@@ -3357,9 +3380,9 @@ script 161 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	max HP memory
-	map in the
-	NaviCust
+	PV MÁX: mapa
+	de memória no
+	CustNavi.
 	"""
 	waitHold
 }
@@ -3368,8 +3391,8 @@ script 162 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Regular System
-	memory +1!
+	+1 de Memória
+	Padrão!
 	"""
 	waitHold
 }
@@ -3378,8 +3401,8 @@ script 163 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Regular System
-	memory +2!
+	+2 de Memória
+	Padrão!
 	"""
 	waitHold
 }
@@ -3388,8 +3411,8 @@ script 164 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Regular System
-	memory +3!
+	+3 de Memória
+	Padrão!
 	"""
 	waitHold
 }
@@ -3398,8 +3421,9 @@ script 165 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	SubChip carrying
-	capacity increased!
+	Aumenta número
+	máximo de
+	SubChips!
 	"""
 	waitHold
 }
@@ -3413,14 +3437,14 @@ script 176 mmbn4 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"50 HP recovered!"
+	"Cura 50 PV!"
 	waitHold
 }
 script 177 mmbn4 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"Max HP recovered!"
+	"Cura todos os PV!"
 	waitHold
 }
 script 178 mmbn4 {
@@ -3428,9 +3452,8 @@ script 178 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Now you will not
-	encounter any weak
-	viruses for a while
+	Evita vírus fracos
+	por um tempo.
 	"""
 	waitHold
 }
@@ -3439,8 +3462,9 @@ script 179 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Mystery Data trap
-	deactivated!
+	Desativa armadilhas
+	em dados
+	misteriosos!
 	"""
 	waitHold
 }
@@ -3448,7 +3472,7 @@ script 180 mmbn4 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"Higher chance of \nenemy again"
+	"Maior chance de\nachar o último\ninimigo."
 	waitHold
 }
 script 181 mmbn4 {
@@ -3456,9 +3480,9 @@ script 181 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Analisando Dados
-	Misteriosos
-	criptografados...
+	Analisa dados
+	misteriosos
+	criptografados
 	"""
 	waitHold
 }
@@ -3473,39 +3497,41 @@ script 192 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	1: Number of Net-
-	Dealers in Town Area
+	1: Número de
+	NetVendedores na
+	Área Vila.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"2: Number of Hotdog"
+	"2: Número de\nCachorros-Quentes"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	3: In Town3,
-	Number of triangles
-	pointing up and down
+	3: Em Vila3,número
+	de triângulos indo
+	p/ baixo e p/ cima.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	4: Number of vending
-	machines in ElecTown
+	4: Número de máquina
+	de vendas na
+	EletroVila.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"5: Number of trees \nvisible in ACDC Town"
+	"5: Número de árvores \nvisíveis no Bairro \nACDC."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	6: Number of house
-	markers in ACDC
-	Area.
+	6: Número de marca-
+	dores de casas na
+	Área ACDC.
 	"""
 	keyWait
 		any = false
@@ -3523,55 +3549,59 @@ script 193 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"1: Number of Jomons"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	2: How many streets
-	radiate from the
-	square in ACDC 2?
+	1: Número de
+	"JO-MON"s.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"3: How many \n\""
+	"""
+	2: Quantas ruas
+	partem do centro
+	de ACDC 2?
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"3: Quantos \n\""
 	printItem
 		buffer = 0
 		item = 3
 	"""
-	" are
-	there?
+	"
+	existem?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	4: Number of Navis
-	in ElTwrComp right
-	now
+	4: Número de Navis
+	no CPUEletTorr
+	agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	5: Number of ramps
-	in Town2
+	5: Número de rampas
+	em Vila2.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	6: In Town3,
-	Number of triangles
-	pointing up and down
+	6: Em Vila3,número
+	de triângulos indo
+	p/ baixo e p/ cima.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	7: Number of stuffed
-	bears in ACDC Town
+	7: Número de ursos
+	de pelúcia no
+	Bairro ACDC.
 	"""
 	waitHold
 }
@@ -3586,9 +3616,9 @@ script 194 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	1: Number of
-	Mr.Progs in the LCD
-	Comp
+	1: Número de Progs
+	no CPU do monitor
+	LCD.
 	"""
 	keyWait
 		any = false
@@ -3597,34 +3627,35 @@ script 194 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"3: Number of Hotdog"
+	"3: Número de\nCachorros-Quentes"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	4: Number of Net-
-	Dealers in Town Area
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	5: How many streets
-	radiate from the
-	square in ACDC 2?
+	4: Número de
+	NetVendedores na
+	Área Vila.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	6: Number of Navis
-	in ElTwrComp right
-	now
+	5: Quantas ruas
+	começam do centro
+	de ACDC 2?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"7: Number of trees \nvisible in ACDC Town"
+	"""
+	6: Número de Navis
+	no CPUEletTorr
+	agora.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"7: Número de árvores \nvisíveis no Bairro \nACDC."
 	waitHold
 }
 script 195 mmbn4 {
@@ -3643,9 +3674,9 @@ script 195 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	A DarkChip. Higsby
-	told us not to use
-	it,remember?
+	Um Chip das Trevas.
+	O Higsby nos disse
+	para não usá-lo.
 	"""
 	waitHold
 }
@@ -3665,9 +3696,9 @@ script 196 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's your PET - your
-	PErsonal Terminal.
-	I'm installed here.
+	Seu PET,seu Termi-
+	nal Pessoal. É onde
+	eu estou instalado.
 	"""
 	waitHold
 }

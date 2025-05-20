@@ -5,13 +5,13 @@ script 0 mmbn4 {
 		mugshot = Roll
 	msgOpen
 	"""
-	Hey! What do you
-	think you're doing?!
+	Ei! O que você pensa
+	que tá fazendo?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"This is a crime!"
+	"Isso é crime,sabia?!"
 	keyWait
 		any = false
 	clearMsg
@@ -23,23 +23,23 @@ script 1 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Roll⋯
-	I've always liked
-	you!
+	Roll...
+	Eu sempre fui
+	apaixonado por você!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You c-can't Net-
-	Battle.
+	V-você não pode
+	NetLutar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You m-might get
-	hurt,hehe.
+	Você p-pode acabar
+	ferida,he he.
 	"""
 	keyWait
 		any = false
@@ -50,8 +50,8 @@ script 2 mmbn4 {
 		mugshot = Roll
 	msgOpen
 	"""
-	Stay away from me,
-	you pervert!
+	Fica longe de mim,
+	seu tarado!
 	"""
 	keyWait
 		any = false
@@ -64,17 +64,16 @@ script 3 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Now,that's not a
-	very nice thing to
-	say⋯
+	Ei,é maldade dizer
+	isso...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I-I'm a knight,here
-	to protect you from
-	that MegaMan guy!
+	E-eu sou um cavalei-
+	ro,que vai te prote-
+	ger daquele MegaMan!
 	"""
 	keyWait
 		any = false
@@ -87,8 +86,8 @@ script 4 mmbn4 {
 		mugshot = Roll
 	msgOpen
 	"""
-	I never asked you to
-	protect me!
+	Eu nunca pediria pra
+	você me proteger!
 	"""
 	keyWait
 		any = false
@@ -101,43 +100,42 @@ script 5 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Don't freak out so
-	much.
+	Não precisa ficar
+	tão agitada.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I-I'm gonna go"
+	"E-eu vou sair pra\nfazer compras na\nRede agora,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Net shopping now,
-	but I'll be back
-	soon. Wait here.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Don't even th-think
-	of escaping.
+	mas volto logo.
+	Espere. B-bem. Aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If y-you try it,
-	these viruses will
-	attack.
+	Nem p-pense em
+	fugir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	See you in a little
-	while,my little
-	kitty cat!
+	Se tentar,e-estes
+	vírus vão te
+	atacar.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Te vejo daqui a
+	pouco,minha linda
+	gatinha!
 	"""
 	keyWait
 		any = false

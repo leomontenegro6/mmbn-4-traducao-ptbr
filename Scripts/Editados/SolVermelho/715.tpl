@@ -5,8 +5,8 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,is the
-	FireBstr ready?
+	MegaMan,o ApgaFogo
+	tá pronto?
 	"""
 	keyWait
 		any = false
@@ -17,17 +17,17 @@ script 1 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,use the
-	"FireBstr" to put
-	out the fire!
+	MegaMan,usa o
+	"ApgaFogo" nas
+	chamas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hit the B Button
-	when the water power
-	gauge is full!
+	Aperta "B" quando
+	a barra de potência
+	da água tiver cheia!
 	"""
 	keyWait
 		any = false
@@ -38,8 +38,8 @@ script 2 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	*gulp!*
-	How's that?!
+	Glup!
+	Que tal?!
 	"""
 	keyWait
 		any = false
@@ -50,8 +50,8 @@ script 3 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It's working great!
-	There we go!
+	Tá dando certo!
+	Vamos lá!
 	"""
 	keyWait
 		any = false
@@ -62,8 +62,8 @@ script 4 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Full power!
-	Goooo!!!
+	Força total!
+	Vaaaai!!
 	"""
 	keyWait
 		any = false
@@ -72,8 +72,8 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	msgOpen
 	"""
-	The roaring flames
-	are attacking
+	As chamas ardentes
+	estão atacando o
 	MegaMan!
 	"""
 	keyWait
@@ -86,8 +86,8 @@ script 6 mmbn4 {
 	msgOpen
 	"""
 	MegaMan!
-	Get the "FireBstr"
-	ready!
+	Prepara o
+	"ApgaFogo"!
 	"""
 	keyWait
 		any = false

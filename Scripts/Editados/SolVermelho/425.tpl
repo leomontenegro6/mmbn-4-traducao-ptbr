@@ -5,9 +5,8 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	So you're the one
-	who's destroying
-	the Net!
+	Então é você quem tá
+	destruindo a Rede!
 	"""
 	keyWait
 		any = false
@@ -15,32 +14,32 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	"""
-	You⋯You're MegaMan
-	aren't you?
+	V-você é o MegaMan,
+	não é?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know you⋯You're
-	the one that Laser-
-	Man mentioned⋯
+	Eu te conheço... O
+	LaserMan falou de
+	você...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So you refused
-	LaserMan's
-	invitation⋯
+	Então,você recusou
+	o convite do
+	LaserMan...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and have become a
-	menace to our
-	organization!
+	e se tornou uma
+	ameaça à nossa
+	organização!
 	"""
 	keyWait
 		any = false
@@ -48,8 +47,8 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	⋯La,LaserMan?!
-	You're with Nebula!
+	...L-LaserMan?!
+	Você é da Nebula!
 	"""
 	keyWait
 		any = false
@@ -57,16 +56,16 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	"""
-	You should be more
-	careful who you
-	speak to!
+	Devia tomar mais
+	cuidado com quem
+	você fala!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And now⋯Time to be
-	deleted!
+	E agora... hora de
+	ser deletado!
 	"""
 	keyWait
 		any = false
@@ -93,21 +92,21 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	msgOpen
-	"Listen!"
+	"Escuta!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This Official jerk
-	is calling me a
+	Esse Oficial babaca
+	tá me chamando de
 	stalker!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I would never do
-	anything like that!
+	Eu nunca faria uma
+	coisa dessas!
 	"""
 	keyWait
 		any = false
@@ -133,20 +132,20 @@ script 11 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Regardless,we've
-	receieved a report,
-	so we have to
+	Sei. Mas recebemos
+	uma denúncia,então,
+	temos que
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"follow up on it⋯"
+	"investigá-la..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just doing my job,
-	you know⋯
+	Só estou fazendo
+	o meu dever.
 	"""
 	keyWait
 		any = false
@@ -172,16 +171,16 @@ script 12 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	Some creepy Navi
-	was following me
-	around⋯
+	Tinha um Navi
+	super sinistro
+	me seguindo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So I called the
-	Officials!
+	Então eu chamei os
+	Oficiais!
 	"""
 	keyWait
 		any = false
@@ -192,17 +191,17 @@ script 15 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	All I wanted to do
-	was show her my
-	undying love!
+	Eu só queria mostrar
+	o meu amor eterno
+	por ela!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯I guess the whole
-	thing DOES look a
-	bit suspicious⋯
+	... Mas TALVEZ eu
+	tenha parecido meio
+	suspeito...
 	"""
 	keyWait
 		any = false
@@ -213,14 +212,14 @@ script 16 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	This guy won't
-	answer any of my
-	questions!
+	Esse sujeito não
+	responde às minhas
+	perguntas!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What a mess⋯"
+	"Que confusão..."
 	keyWait
 		any = false
 	end
@@ -230,9 +229,9 @@ script 17 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	He wanted to get
-	me? With a face
-	like that?! Hah!
+	Ele queria me
+	xavecar? Com aquela
+	cara?! Rá!
 	"""
 	keyWait
 		any = false
@@ -243,13 +242,13 @@ script 20 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	You have to know
-	how I feel!
+	Você precisa saber
+	como eu me sinto!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I love yooooou!"
+	"Eu te aaaaamoooo!"
 	keyWait
 		any = false
 	end
@@ -258,14 +257,14 @@ script 21 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Oh⋯Oh my⋯"
+	"N... Nossa..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But⋯I⋯I'm not
-	ready⋯!
-	Oh,dear⋯
+	Mas... E-eu não tô
+	pronto pra...!
+	Ai...!
 	"""
 	keyWait
 		any = false
@@ -273,8 +272,7 @@ script 21 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	"""
-	I wasn't talking to
-	you!
+	Não era com você!
 	"""
 	keyWait
 		any = false
@@ -284,14 +282,14 @@ script 22 mmbn4 {
 	mugshotShow
 		mugshot = NaviGirlOrange
 	msgOpen
-	"Say what⋯?"
+	"Ué...?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I thought I heard
-	a voice screaming
-	at me⋯
+	Eu achei ter ouvido
+	uma voz gritando pra
+	mim...
 	"""
 	keyWait
 		any = false
@@ -302,23 +300,23 @@ script 25 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	What⋯? You⋯
-	You'll go out with
-	me⋯?
+	O quê...? Você...
+	Topa sair comigo...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You heard my shout
-	of love⋯?
+	Você me ouviu
+	declarando o meu
+	amor...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a miracle!
-	Yeeeeaaaaahh!
+	É um milagre!
+	Eeeeebaaaa!
 	"""
 	keyWait
 		any = false
@@ -329,16 +327,16 @@ script 26 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Oh,boy⋯
-	I'm not sure what's
-	going on here⋯
+	Ai,ai... Eu não
+	entendo mesmo o que
+	tá acontecendo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I guess things
-	are settled⋯
+	Mas acho que tá tudo
+	resolvido agora...
 	"""
 	keyWait
 		any = false
@@ -349,22 +347,23 @@ script 27 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	When I heard that
-	masculine shout⋯
+	Quando eu ouvi
+	aquele grito
+	másculo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	something just
-	came over me!
+	eu senti uma coisa
+	me possuir,sabe?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But we're just
-	friends for now!
+	Mas a gente é só
+	amigo por enquanto!
 	"""
 	keyWait
 		any = false
@@ -375,23 +374,22 @@ script 30 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Did you have
-	anything to do with
-	the attack?
+	Você teve alguma
+	coisa a ver com o
+	ataque?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviPurple
-	"Of course not!"
+	"Claro que não!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So you're saying
-	that I look
-	suspicious?!
+	Cê tá dizendo que eu
+	pareço suspeito,é?!
 	"""
 	keyWait
 		any = false
@@ -402,15 +400,15 @@ script 31 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	I may have a rough-
-	looking face⋯
+	Eu posso ser meio
+	mal-encarado...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I've never
-	committed a crime!
+	mas nunca cometi um
+	crime na vida!
 	"""
 	keyWait
 		any = false
@@ -421,9 +419,9 @@ script 32 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	He's a very gentle
-	man! I'm sure he's
-	innocent!
+	Ele é um cara muito
+	gentil! Com certeza
+	é inocente!
 	"""
 	keyWait
 		any = false
@@ -434,16 +432,16 @@ script 35 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	The guy who tried
-	to attack the Net
-	is in this area!
+	O sujeito que tentou
+	atacar a Rede está
+	nesta área!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Where could he have
-	hidden⋯?
+	Onde será que ele se
+	escondeu...?
 	"""
 	keyWait
 		any = false
@@ -454,31 +452,30 @@ script 36 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	I hear that an evil
-	Navi is hiding here
-	somewhere⋯
+	Parece que tem um
+	Navi mau escondido
+	por aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No matter what
-	happens⋯
+	Aconteça o que
+	acontecer...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll be here to
-	protect her!
+	eu vou proteger ela!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯But I don't want
-	to be attacked!
-	Let's jack out!
+	... Mas não quero
+	ser atacado! Bora
+	desconectar!
 	"""
 	keyWait
 		any = false
@@ -489,9 +486,9 @@ script 37 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	A dangerous
-	criminal is about?
-	How scary!
+	Tem um criminoso
+	perigoso à solta?
+	Que medo!
 	"""
 	keyWait
 		any = false
@@ -502,16 +499,16 @@ script 40 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	⋯Huh?
-	Am I alive?
+	... Ué?
+	Eu tô vivo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I remember now⋯I
-	was hit by that
-	explosion⋯
+	Eu lembro que...
+	fui pego naquela
+	explosão...
 	"""
 	keyWait
 		any = false
@@ -522,31 +519,31 @@ script 45 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	It's a miracle that
-	I survived that
-	explosion!
+	É um milagre eu
+	ter sobrevivido
+	àquela explosão!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Good karma or
-	something⋯?
+	Será que foi bom
+	carma ou...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wait,I don't have
-	time to go on about
-	that⋯
+	Espera,eu não tenho
+	tempo pra ficar
+	pensando nisso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have to get back
-	to patrolling!
+	Preciso voltar a
+	patrulhar!
 	"""
 	keyWait
 		any = false

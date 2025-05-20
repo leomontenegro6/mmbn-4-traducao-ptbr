@@ -7,35 +7,34 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"(SIGH)"
+	"AI,AI..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I USED TO WORK IN
-	ACDC AREA1⋯
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	BUT I GOT SO
-	INTERESTED IN THE
-	EAGLE TOURNAMENT⋯
+	EU TRABALHAVA NA
+	ÁREA ACDC 1...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THAT I GOT FIRED
-	FROM MY JOB!
+	MAS FIQUEI TÃO
+	VIDRADO NO TORNEIO
+	ÁGUIA...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SHEESH⋯WHAT SHOULD
-	I DO NOW⋯?
+	QUE FUI DEMITIDO!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	AI... O QUE EU FAÇO
+	AGORA...?
 	"""
 	keyWait
 		any = false
@@ -46,16 +45,15 @@ script 1 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	There's a really
-	depressed Mr.Prog
-	over there⋯
+	Tem um Prog ultra
+	deprimido ali...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder what could
-	have happened?
+	O que será que
+	aconteceu?
 	"""
 	keyWait
 		any = false
@@ -65,35 +63,34 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"(SIGH)"
+	"AI,AI..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I USED TO WORK IN
-	ACDC AREA1⋯
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	BUT I GOT SO
-	INTERESTED IN THE
-	HAWK TOURNAMENT⋯
+	EU TRABALHAVA NA
+	ÁREA ACDC 1...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THAT I GOT FIRED
-	FROM MY JOB!
+	MAS FIQUEI TÃO
+	VIDRADO NO TORNEIO
+	FALCÃO...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SHEESH⋯WHAT SHOULD
-	I DO NOW⋯?
+	QUE FUI DEMITIDO!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	AI... O QUE EU FAÇO
+	AGORA...?
 	"""
 	keyWait
 		any = false
@@ -109,23 +106,24 @@ script 5 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'VE BEEN TRYING TO
-	FIND A NEW JOB,
+	VENHO TENTANDO ACHAR
+	UM NOVO EMPREGO,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT MOST PROGRAMS
-	HAVE MORE FEATURES
-	THAN I DO!
+	MAS A MAIORIA DOS
+	PROGS TÊM MAIS
+	FUNÇÕES QUE EU!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I CAN'T FIND A JOB
-	ANYWHERE!
+	NÃO ENCONTRO
+	TRABALHO EM LUGAR
+	NENHUM!
 	"""
 	keyWait
 		any = false
@@ -146,24 +144,24 @@ script 6 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	That depressed
-	Mr.Prog was fired
-	from his job?
+	Aquele Prog deprimi-
+	do foi demitido de
+	onde trabalhava?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I just got fired
-	from my job
-	yesterday!
+	Eu acabei de ser
+	demitido do meu
+	trabalho ontem!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I understand just
-	how he feels⋯
+	Entendo bem como ele
+	se sente...
 	"""
 	keyWait
 		any = false
@@ -174,9 +172,9 @@ script 10 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I JUST MET A NAVI
-	WHO TOLD ME I
-	SHOULDN'T GIVE UP!
+	CONHECI UM NAVI QUE
+	ME DISSE PARA NÃO
+	DESISTIR!
 	"""
 	keyWait
 		any = false
@@ -187,17 +185,17 @@ script 11 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	That Mr.Prog told
-	me I shouldn't give
-	up!
+	Aquele Prog me disse
+	que eu não devia
+	desistir!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's right! I need
-	to get out there
-	and look for work!
+	Ele tem razão! Eu
+	preciso sair e achar
+	outro trabalho!
 	"""
 	keyWait
 		any = false
@@ -208,17 +206,16 @@ script 15 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I wonder where that
-	Mr.Prog went off
-	to⋯?
+	Pra onde será que
+	aquele Prog foi...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I came to tell him
-	that I've found a
-	new job!
+	Eu vim contar pra
+	ele que arranjei
+	um emprego!
 	"""
 	keyWait
 		any = false
@@ -233,14 +230,14 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"HELLLLLOOOO!"
+	"OOOOOLÁÁÁÁ!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WHY THE LONG FACE?
-	PUT ON A BIG HAPPY
-	SMILE!
+	POR QUE ESSA CARA
+	TRISTONHA? SORRIA!
+	SORRISÃO!
 	"""
 	keyWait
 		any = false
@@ -256,22 +253,22 @@ script 21 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	ME AND MY FRIEND
-	DECIDED THAT WHEN
-	THINGS LOOK BAD⋯
+	MEU AMIGO E EU DECI-
+	DIMOS QUE,QUANDO TÁ
+	TUDO NA PIOR...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯THAT'S WHEN WE
-	MOST NEED TO STAY
-	HAPPY AND UPBEAT!
+	É AÍ QUE PRECISAMOS
+	FICAR FELIZES E
+	ANIMADOS!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"WHEEEEEEEE!"
+	"ÊÊÊÊÊÊ!"
 	keyWait
 		any = false
 	end
@@ -280,25 +277,26 @@ script 25 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"WHEW⋯"
+	"UFA..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A SCARY-LOOKING
-	NAVI
+	UM NAVI SUPER
+	MAL-ENCARADO ACABOU
+	DE PASSAR POR MIM,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	JUST RAN BY ME,
-	HEADING FOR TOWN2!
+	INDO NA DIREÇÃO DA
+	ÁREA VILA 2!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"HE REALLY SCARED ME!"
+	"DEU TANTO MEDO!"
 	keyWait
 		any = false
 	end
@@ -308,14 +306,14 @@ script 26 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I COULD SWEAR THAT
-	I JUST HEARD MY
-	FRIEND SCREAM!
+	EU POSSO JURAR QUE
+	OUVI O MEU AMIGO
+	GRITAR!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I HOPE HE'S OK⋯"
+	"TOMARA QUE ELE\nESTEJA BEM..."
 	keyWait
 		any = false
 	end
@@ -324,14 +322,14 @@ script 30 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"HE IS,ISN'T HE?"
+	"ELE TÁ BEM,NÃO TÁ?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WHAT SHOULD I DO
-	IF THE BAD GUYS
-	SHOW UP HERE⋯?
+	O QUE EU FAÇO SE OS
+	BANDIDOS APARECEREM
+	AQUI...?
 	"""
 	keyWait
 		any = false
@@ -342,24 +340,24 @@ script 31 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	DON'T WORRY ABOUT
-	THINGS LIKE THAT!
+	NÃO ESQUENTA COM
+	ESSAS COISAS!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WE AGREED TO STAY
-	HAPPY AND UPBEAT
-	WHEN THINGS GO BAD!
+	CONCORDAMOS NOS MAN-
+	TER ALEGRES QUANDO
+	AS COISAS VÃO MAL!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'M SCARED,TOO! BUT
-	IF WE STAY TOGETHER
-	WE'LL BE OK!
+	TAMBÉM TENHO MEDO!
+	MAS SE FICARMOS JUN-
+	TOS,VAI DAR BOM!
 	"""
 	keyWait
 		any = false
@@ -374,8 +372,8 @@ script 35 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WE AREN'T SCARED
-	ANY MORE!
+	NÃO ESTAMOS MAIS COM
+	MEDO!
 	"""
 	keyWait
 		any = false
@@ -386,16 +384,17 @@ script 36 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	NO MATTER HOW
-	WORRIED WE BECOME,
+	POR MAIS QUE
+	ESTEJAMOS
+	PREOCUPADOS,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WE'RE GONNA KEEP
-	THIS AREA HAPPY AND
-	CHEERFUL!
+	VAMOS TENTAR MANTER
+	A ÁREA ALEGRE E
+	ANIMADA!
 	"""
 	keyWait
 		any = false

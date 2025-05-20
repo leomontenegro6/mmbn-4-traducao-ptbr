@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE TOWN AREA ENDS
-	HERE. PAST HERE IS
-	UNDER CONSTRUCTION.
+	A ÁREA VILA TERMINA
+	AQUI. TUDO ALÉM DA-
+	QUI,EM CONSTRUÇÃO.
 	"""
 	keyWait
 		any = false
@@ -18,18 +18,18 @@ script 1 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I asked the Net-
-	dealer on that hill
-	to lower his price,
+	Pedi ao NetVendedor
+	naquela subida para
+	baixar os preços,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"and he said no!"
+	"e ele disse não!"
 	keyWait
 		any = false
 	clearMsg
-	"What a tightwad!"
+	"Que sovina!"
 	keyWait
 		any = false
 	end
@@ -43,8 +43,8 @@ script 10 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Are you here to
-	register your name?
+	Está aqui para
+	registrar seu nome?
 	"""
 	keyWait
 		any = false
@@ -84,14 +84,14 @@ script 10 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = OfficialNavi
-	"I see⋯"
+	"Entendo..."
 	keyWait
 		any = false
 	end
 }
 script 11 mmbn4 {
 	msgOpen
-	"Please enter a name.\n"
+	"Insira um nome.\n"
 	option
 		brackets = true
 		left = 3
@@ -148,9 +148,9 @@ script 12 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Once you register,
-	you can't change!
-	Is this name okay?
+	Uma vez registrado,
+	não pode ser muda-
+	do! Confirma nome?
 	"""
 	keyWait
 		any = false
@@ -195,7 +195,7 @@ script 12 mmbn4 {
 	soundPlay
 		track = 116
 	menuRegisterName
-	"Name registered!"
+	"Nome registrado!"
 	keyWait
 		any = false
 	end
@@ -207,8 +207,9 @@ script 13 mmbn4 {
 	soundPlay
 		track = 286
 	"""
-	Code entry error.
-	Please enter again.
+	Erro na inserção do
+	código. Por favor,
+	tente de novo.
 	"""
 	keyWait
 		any = false
@@ -248,7 +249,7 @@ script 13 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = OfficialNavi
-	"I see⋯"
+	"Entendo..."
 	keyWait
 		any = false
 	end
@@ -257,7 +258,7 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Good luck,then!"
+	"Bem,boa sorte!"
 	keyWait
 		any = false
 	end
@@ -266,7 +267,7 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Quit registration?"
+	"Sair do cadastro?"
 	keyWait
 		any = false
 	clearMsg
@@ -305,7 +306,7 @@ script 15 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = OfficialNavi
-	"I see⋯"
+	"Entendo..."
 	keyWait
 		any = false
 	end
@@ -329,8 +330,8 @@ script 16 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	NAME REGISTRATION
-	IS DOWN THIS WAY!
+	REGISTRO DE NOME,
+	NESTA DIREÇÃO!
 	"""
 	keyWait
 		any = false
@@ -351,9 +352,9 @@ script 17 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Is there some kind
-	of festival going
-	on today?
+	Tá rolando algum
+	tipo de festival
+	hoje?
 	"""
 	keyWait
 		any = false
@@ -364,13 +365,12 @@ script 18 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	RAH! RAH! RAH!
-	I'LL CHEER LOUD
+	IÉÉ! IÉÉ! IÉÉ!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"AND PROUD TODAY!"
+	"EU VOU TORCER EM\nALTO E BOM SOM HOJE!"
 	keyWait
 		any = false
 	end
@@ -390,9 +390,9 @@ script 20 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	EVERYONE IN THE
-	TOURNAMENT LOOKS
-	REALLY GOOD⋯!
+	TODOS NO TORNEIO
+	PARECEM BEM
+	FORTES...!
 	"""
 	keyWait
 		any = false
@@ -416,9 +416,9 @@ script 21 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I wanted to be in
-	a Den Battle
-	Tournament!
+	Eu queria participar
+	do Torneio de
+	Batalha Den!
 	"""
 	keyWait
 		any = false
@@ -429,9 +429,9 @@ script 22 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I wanted to be in
-	a City Battle
-	Tournament!
+	Eu queria participar
+	do Torneio de
+	Batalha da Cidade!
 	"""
 	keyWait
 		any = false
@@ -442,9 +442,9 @@ script 25 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	ONCE THE ROUND 1 IS
-	OVER,THINGS GET
-	EXCITING!
+	DEPOIS QUE TERMINA
+	A PRIMEIRA RODADA,
+	A COISA ESQUENTA!
 	"""
 	keyWait
 		any = false
@@ -455,27 +455,29 @@ script 26 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	If I could just
-	enter the tournament
+	Se ao menos eu
+	pudesse entrar no
+	torneio,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd have a shot at
-	fame and glory!
+	teria minha chance
+	de conquistar fama
+	e glória!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I am SO totally
-	disappointed⋯
+	Eu tô TÃO, tão
+	decepcionado...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm DISAPPOINTED!"
+	"DECEPCIONADOOOO!"
 	keyWait
 		any = false
 	end
@@ -485,14 +487,14 @@ script 30 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE NEXT BATTLE
-	DECIDES THE BEST
-	BATTLER IN DENCITY!
+	A PRÓXIMA LUTA
+	DECIDIRÁ O MELHOR
+	LUTADOR DE DENCITY!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"IT'S SO EXCITING!"
+	"É TÃO EMOCIONANTE!"
 	keyWait
 		any = false
 	end
@@ -502,13 +504,13 @@ script 31 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	You're in the
-	finals? Really?
+	Você tá nas finais?
+	Sério mesmo?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm so jealous⋯"
+	"Que inveja..."
 	keyWait
 		any = false
 	end
@@ -518,13 +520,14 @@ script 35 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	ARE YOU FIRED UP FOR
-	THE BIG PRELIMINARY?
+	VOCÊ TÁ ANIMADO PRAS
+	GRANDES
+	PRELIMINARES?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Boa sorte!"
+	"BOA SORTE!"
 	keyWait
 		any = false
 	end
@@ -534,16 +537,15 @@ script 36 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	The atmosphere seems
-	really upbeat today!
+	O clima parece tão
+	animado hoje!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And there's a lot of
-	new Navi faces out
-	there,too!
+	E tem um monte de
+	Navis novos lá!
 	"""
 	keyWait
 		any = false
@@ -557,9 +559,9 @@ script 40 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I CAN'T WAIT TO
-	SEE WHICH NAVI WINS
-	THE TOURNAMENT!
+	MAL POSSO ESPERAR
+	PARA VER QUAL NAVI
+	VENCERÁ O TORNEIO!
 	"""
 	keyWait
 		any = false
@@ -569,26 +571,26 @@ script 41 mmbn4 {
 	mugshotShow
 		mugshot = PurpleNavi
 	msgOpen
-	"WHAT?!"
+	"O QUÊ?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A Net Battle
-	Tournament?
+	Um Torneio de
+	NetLuta?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I didn't know!
-	If I had,I'd have
-	entered!
+	Eu não sabia!
+	Se soubesse,teria me
+	inscrito!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Darn!"
+	"Droga!"
 	keyWait
 		any = false
 	end
@@ -598,9 +600,9 @@ script 42 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I CAN'T WAIT TO
-	SEE WHICH NAVI WINS
-	THE TOURNAMENT!
+	MAL POSSO ESPERAR
+	PARA VER QUAL NAVI
+	VENCERÁ O TORNEIO!
 	"""
 	keyWait
 		any = false
@@ -615,23 +617,25 @@ script 130 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	What? Am I holding
-	anything for you?
+	Quê? Se eu tô com
+	alguma coisa para te
+	dar?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Actually,a strange
-	Navi came and left
-	this here with us.
+	Na verdade,um Navi
+	esquisito deixou is-
+	to aqui comigo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's some odd data
-	that I can't read.
+	São uns dados
+	esquisitos que eu
+	não sei como ler.
 	"""
 	keyWait
 		any = false
@@ -657,11 +661,11 @@ script 130 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviYellow
-	"Is it some new game?"
+	"É algum tipo de jogo\nnovo?"
 	keyWait
 		any = false
 	clearMsg
-	"I don't think so⋯"
+	"Não,não deve ser..."
 	keyWait
 		any = false
 	flagSet
@@ -673,8 +677,8 @@ script 131 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Well,guess I'll
-	head to ACDC now!
+	Bom,acho que eu vou
+	pra ACDC agora!
 	"""
 	keyWait
 		any = false
@@ -690,14 +694,14 @@ script 132 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	msgOpen
-	"You want \""
+	"Cê quer o \""
 	printItem
 		buffer = 0
 		item = 16
 	"""
 	"?
-	Sure thing,pal.
-	Check it out.
+	Claro,cara.
+	Toma aê.
 	"""
 	keyWait
 		any = false
@@ -710,7 +714,7 @@ script 132 mmbn4 {
 		animation = 24
 	"""
 	MegaMan recebeu:
-	"Data5"!
+	"Dado5"!
 	
 	"""
 	playerFinish
@@ -721,9 +725,9 @@ script 132 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	"""
-	Just take it.
-	Use it to
-	stay alive!
+	Pode levar.
+	Usa ele pra se
+	manter vivo aí!
 	"""
 	keyWait
 		any = false
@@ -736,15 +740,15 @@ script 133 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	You've got what
-	it takes,heh heh!
+	Você é forte mesmo,
+	he he!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No violence,now!
-	Heh heh⋯!
+	Ei,sem violência!
+	He he...!
 	"""
 	keyWait
 		any = false
@@ -764,8 +768,9 @@ script 141 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	I guess I should
-	stay in shape too!
+	Acho que preciso me
+	manter afiado,
+	também!
 	"""
 	keyWait
 		any = false
@@ -791,9 +796,9 @@ script 160 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	What've you got?
-	If it's free,
-	I'll take one.
+	Que é? Ah,se o
+	bagulho é grátis,eu
+	levo um.
 	"""
 	keyWait
 		any = false
@@ -816,9 +821,9 @@ script 160 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	"""
-	Ah,a chip shop?
-	I've been looking
-	for some new chips.
+	Uma loja de chips,é?
+	Eu tava mesmo pen-
+	sando em comprar.
 	"""
 	keyWait
 		any = false
@@ -831,8 +836,8 @@ script 161 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Are you fired up
-	for the tournament?
+	Tá animado pro
+	torneio lá?
 	"""
 	keyWait
 		any = false
@@ -843,9 +848,9 @@ script 162 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Looks like a good
-	selection of chips!
-	I'll check it out.
+	Ó,a seleção de chips
+	não é ruim,não! Eu
+	colo lá depois.
 	"""
 	keyWait
 		any = false
@@ -866,9 +871,9 @@ script 163 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	ARE YOU HANDING
-	OUT FLYERS?
-	I'LL TAKE ONE!
+	ESTÁ DISTRIBUINDO
+	PANFLETOS?
+	EU ACEITO UM!
 	"""
 	keyWait
 		any = false
@@ -891,8 +896,9 @@ script 163 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	WOAH! WOW!
-	I GOT A FLYER!
+	NOSSA! UAU!
+	EU GANHEI UM
+	PANFLETO!
 	"""
 	keyWait
 		any = false
@@ -905,9 +911,9 @@ script 164 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'M SO BORED⋯
-	I WISH SOMETHING
-	WOULD HAPPEN⋯
+	QUE TÉDIO...
+	QUERIA QUE ALGUMA
+	COISA ACONTECESSE...
 	"""
 	keyWait
 		any = false
@@ -918,9 +924,9 @@ script 165 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	HIGSBY'S?
-	I'LL TELL ALL
-	OF MY FRIENDS!
+	A LOJA DO HIGSBY?
+	VOU CONTAR A TODOS
+	OS MEUS AMIGOS!
 	"""
 	keyWait
 		any = false
@@ -931,14 +937,14 @@ script 180 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I thought I'd
-	drown in that
-	flood from Town2.
+	Eu pensei que fosse
+	me afogar naquela
+	enchente de Vila 2.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I almost died!"
+	"Quase que eu morro!"
 	keyWait
 		any = false
 	end

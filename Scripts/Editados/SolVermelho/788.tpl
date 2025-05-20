@@ -4,11 +4,11 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"That statue⋯"
+	"Essa estátua..."
 	keyWait
 		any = false
 	clearMsg
-	"⋯Yikes!!"
+	"... Ah!!"
 	keyWait
 		any = false
 	end
@@ -17,7 +17,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What is it?!"
+	"Que foi?!"
 	keyWait
 		any = false
 	clearMsg
@@ -27,20 +27,21 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"I'm not sure!!"
+	"E-eu não sei!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But the moment I
-	stood before the
+	Mas assim que eu
+	fiquei diante da
+	estátua,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	statue,my soul began
-	to quiver.
+	a minha alma começou
+	a vibrar...
 	"""
 	keyWait
 		any = false
@@ -50,7 +51,7 @@ script 2 mmbn4 {
 }
 script 3 mmbn4 {
 	mugshotHide
-	"It's working⋯"
+	"Está funcionando..."
 	keyWait
 		any = false
 	end
@@ -59,7 +60,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What's wrong!"
+	"O que foi?!"
 	keyWait
 		any = false
 	clearMsg
@@ -69,7 +70,7 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"I hear a voice!"
+	"Eu tô ouvindo uma\nvoz!"
 	keyWait
 		any = false
 	clearMsg
@@ -79,7 +80,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"I don't hear it."
+	"Eu não ouvi nada..."
 	keyWait
 		any = false
 	clearMsg
@@ -89,15 +90,17 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotHide
 	"""
-	You feel⋯just as I.
-	Fond of battle⋯
+	Você é... parecido
+	comigo. Tem o gosto
+	pela batalha...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The sinister,blood-
-	stained DarkSoul⋯
+	E uma Alma Sombria
+	sinistra e manchada
+	de sangue...
 	"""
 	keyWait
 		any = false
@@ -108,13 +111,14 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"That voice⋯"
+	"Essa voz..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's speaking di-
-	rectly to my soul!!
+	Tá falando
+	diretamente com a
+	minha alma!!
 	"""
 	keyWait
 		any = false
@@ -124,7 +128,7 @@ script 8 mmbn4 {
 }
 script 9 mmbn4 {
 	mugshotHide
-	"The time has come⋯"
+	"É chegada a hora...\nde acordar..."
 	keyWait
 		any = false
 	end
@@ -133,11 +137,11 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"The time to awake⋯"
+	"Hora de acordar?"
 	keyWait
 		any = false
 	clearMsg
-	"What's happening?!"
+	"O que tá\nacontecendo?!"
 	keyWait
 		any = false
 	end
@@ -146,7 +150,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yikes!!"
+	"Aaahh!!"
 	keyWait
 		any = false
 	end
@@ -155,7 +159,7 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"No way!!"
+	"Não pode ser!!"
 	keyWait
 		any = false
 	end
@@ -165,32 +169,36 @@ script 13 mmbn4 {
 		mugshot = Bass
 	msgOpen
 	"""
-	You're DarkSoul is
-	seeking battle⋯
+	A sua Alma Sombria
+	deseja batalhar...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It calls to me."
-	keyWait
-		any = false
-	clearMsg
-	"I am here to fulfill"
+	"Ela me chama."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	your battle lust.
-	Your hateful soul
-	resonated with mine.
+	E eu estou aqui para
+	saciar a sua sede
+	por luta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The voice of your
-	soul stirred me from
-	long slumber.
+	A sua alma repleta
+	de ódio ressoou com
+	a minha.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	A voz da sua alma me
+	arrancou do meu
+	longo sono.
 	"""
 	keyWait
 		any = false
@@ -202,8 +210,8 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Huh?! I'm not
-	seeking battle!!
+	Quê?! Eu não tô
+	atrás de luta!!
 	"""
 	keyWait
 		any = false
@@ -214,11 +222,11 @@ script 14 mmbn4 {
 script 15 mmbn4 {
 	mugshotShow
 		mugshot = Bass
-	"⋯I shall fight,"
+	"... Eu irei lutar,"
 	keyWait
 		any = false
 	clearMsg
-	"as my soul desires!"
+	"conforme deseja a\nminha alma!"
 	keyWait
 		any = false
 	clearMsg
@@ -229,7 +237,7 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,here he comes!!"
+	"Lan,lá vem ele!!"
 	keyWait
 		any = false
 	clearMsg
@@ -240,15 +248,16 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Gulp! We're trapped!
-	We'll just have to
+	Ugh! A gente tá
+	preso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	fight our way out!
-	Here goes nothing!!
+	... O jeito é lutar
+	mesmo! Agora é tudo
+	ou nada!!
 	"""
 	keyWait
 		any = false
@@ -266,7 +275,7 @@ script 17 mmbn4 {
 script 18 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -277,13 +286,14 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = Bass
 	"""
-	Bearer of the
-	mighty DarkSoul⋯
+	Portador dessa
+	poderosa Alma
+	Sombria...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Fight!!"
+	"... Lute!!"
 	keyWait
 		any = false
 	end

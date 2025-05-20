@@ -5,15 +5,16 @@ script 0 mmbn4 {
 		mugshot = Tetsu
 	msgOpen
 	"""
-	Hey! Lan!
-	Hurry on up!
+	Vamos,Lan!
+	Aperta o passo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Time to see who the
-	real man is!
+	Hora de ver qual de
+	nós é um homem de
+	verdade!
 	"""
 	keyWait
 		any = false
@@ -23,20 +24,20 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"Time to begin!"
+	"Chegou a hora!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Grade school Net-
-	Battler,Lan,
+	Lan Hikari,
+	o NetLutador do
+	fundamental,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	has entered the
-	Dome!!
+	chegou ao Domo!!
 	"""
 	keyWait
 		any = false
@@ -47,13 +48,13 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = Tetsu
-	"Let's decide this!"
+	"Hora da gente ver\nisso!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Who's stronger,you
-	or me!
+	Quem é mais forte:
+	você ou eu?!
 	"""
 	keyWait
 		any = false
@@ -64,7 +65,7 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"You won't beat me!"
+	"Eu não vou perder!"
 	keyWait
 		any = false
 	clearMsg
@@ -74,20 +75,20 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = Tetsu
-	"Bring it on!"
+	"Cai dentro!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Head to head,right
-	here!
+	Mano a mano,
+	aqui e agora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's the battle of
-	the bad boys!!!
+	Hora de uma luta
+	entre homens!!!
 	"""
 	keyWait
 		any = false
@@ -98,20 +99,21 @@ script 5 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	The Dome's heating
-	up!
+	As coisas estão
+	esquentando aqui,
+	no Domo!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's get started!"
+	"Vamos começar!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan
+	Lan Hikari
 	Vs.
-	Tetsu
+	Tetsu!
 	"""
 	keyWait
 		any = false
@@ -139,7 +141,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
-	"Bam!!!"
+	"Iáááár!!!"
 	keyWait
 		any = false
 	end

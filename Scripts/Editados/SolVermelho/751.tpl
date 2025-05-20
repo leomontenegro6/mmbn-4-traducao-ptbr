@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Who's our opponent?"
+	"Quem é o nosso\noponente?"
 	keyWait
 		any = false
 	clearMsg
@@ -15,8 +15,9 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	The Navi represent-
-	ing NetFrica.
+	O Navi
+	representante
+	da Affriq.
 	"""
 	keyWait
 		any = false
@@ -26,7 +27,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = BlackKid
 	msgOpen
-	"Hiya."
+	"Fala!"
 	keyWait
 		any = false
 	end
@@ -35,7 +36,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hmm? Who're you?"
+	"Hmm? Quem é você?"
 	keyWait
 		any = false
 	clearMsg
@@ -45,11 +46,11 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = BlackKid
-	"I'm Paulie."
+	"Eu sou o Paulie."
 	keyWait
 		any = false
 	clearMsg
-	"You Lan?"
+	"Você é o Lan?"
 	keyWait
 		any = false
 	clearMsg
@@ -59,7 +60,7 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Yep,that's me⋯"
+	"É,sou,sim..."
 	keyWait
 		any = false
 	clearMsg
@@ -69,11 +70,11 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = BlackKid
-	"I'm your opponent,"
+	"Eu sou o seu\noponente,"
 	keyWait
 		any = false
 	clearMsg
-	"and you're mine!"
+	"e você é o meu!"
 	keyWait
 		any = false
 	clearMsg
@@ -84,8 +85,9 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	You're NetFrica's-
-	representative?
+	Você é o
+	representante da
+	Affriq?
 	"""
 	keyWait
 		any = false
@@ -97,9 +99,9 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = BlackKid
 	"""
-	Yeah. I'm the best
-	viruses buster in my
-	village.
+	Aham. Sou o melhor
+	caçador de vírus
+	da minha vila.
 	"""
 	keyWait
 		any = false
@@ -111,9 +113,9 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Really? You're kind
-	small to be a repre-
-	sentative. Amazing!
+	É mesmo? Mesmo sendo
+	novinho assim?
+	Que demais!
 	"""
 	keyWait
 		any = false
@@ -124,7 +126,7 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = BlackKid
-	"Am I amazing?"
+	"Eu sou demais?"
 	keyWait
 		any = false
 	clearMsg
@@ -134,7 +136,7 @@ script 10 mmbn4 {
 script 11 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"You sure are!"
+	"Com certeza!"
 	keyWait
 		any = false
 	clearMsg
@@ -145,20 +147,20 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = BlackKid
 	"""
-	Really? Wow⋯
-	I'm amazing⋯
+	É mesmo? Uau...
+	Eu sou demais...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I like you,Lan."
+	"Gostei de você,Lan."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll take you to see
-	my village's Water
-	Festival.
+	Vou te levar para
+	ver o Festival da
+	Água da minha vila.
 	"""
 	keyWait
 		any = false
@@ -169,7 +171,7 @@ script 12 mmbn4 {
 script 13 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Water Festival?"
+	"Festival da Água?"
 	keyWait
 		any = false
 	clearMsg
@@ -180,15 +182,16 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = BlackKid
 	"""
-	The festival for
-	our deity WaterGod
+	É o festival para o
+	nosso Deus da Água.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	is underway now.
-	I'll take you there.
+	Está em andamento
+	agora.
+	Eu te levo lá.
 	"""
 	keyWait
 		any = false
@@ -200,8 +203,9 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	A foreign festival⋯
-	Sounds interesting.
+	Um festival estran-
+	geiro... Parece
+	interessante.
 	"""
 	keyWait
 		any = false
@@ -213,8 +217,8 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Sure does.
-	I wanna go,too!
+	Com certeza.
+	Eu também quero ir!
 	"""
 	keyWait
 		any = false
@@ -225,7 +229,7 @@ script 16 mmbn4 {
 script 17 mmbn4 {
 	mugshotShow
 		mugshot = BlackKid
-	"How about it,Lan?"
+	"O que me diz,Lan?"
 	keyWait
 		any = false
 	clearMsg
@@ -235,7 +239,7 @@ script 17 mmbn4 {
 script 18 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Sure,take us there!"
+	"Claro!\nMostra o caminho!"
 	keyWait
 		any = false
 	clearMsg
@@ -246,13 +250,13 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = BlackKid
 	"""
-	Then it's off to
-	NetFrica! Follow me!
+	Então,vamos lá!
+	Venha comigo!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Next stop,NetFrica!!"
+	"Próxima parada:\nAffriq!!"
 	keyWait
 		any = false
 	end

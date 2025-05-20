@@ -176,7 +176,7 @@ script 6 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	I traded for
+	Troquei por
 	"
 	"""
 	printItem
@@ -194,7 +194,7 @@ script 7 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	I traded for
+	Troquei por
 	"
 	"""
 	printChip
@@ -215,7 +215,7 @@ script 8 mmbn4 {
 		mugshot = MegaMan
 	textSpeed
 		delay = 0
-	"Not enough BugFrags⋯"
+	"Me faltam FragBugs."
 	keyWait
 		any = false
 	waitHold
@@ -227,8 +227,8 @@ script 9 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	I can't carry
-	any more.
+	Não posso carregar
+	mais.
 	"""
 	keyWait
 		any = false
@@ -300,7 +300,7 @@ script 12 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	I traded for
+	Troquei por
 	"
 	"""
 	printNaviCustProgram
@@ -388,7 +388,7 @@ script 19 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	I traded for
+	Troquei por
 	"
 	"""
 	printItem
@@ -404,7 +404,7 @@ script 20 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	I traded for
+	Troquei por
 	"
 	"""
 	printChip
@@ -423,7 +423,7 @@ script 21 mmbn4 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"Not enough BugFrags⋯"
+	"Me faltam FragBugs."
 	keyWait
 		any = false
 	waitHold
@@ -432,7 +432,7 @@ script 22 mmbn4 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"Can't hold any more."
+	"Impossível portar\nmais."
 	keyWait
 		any = false
 	waitHold
@@ -442,7 +442,7 @@ script 23 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	I traded for
+	Troquei por
 	"
 	"""
 	printNaviCustProgram

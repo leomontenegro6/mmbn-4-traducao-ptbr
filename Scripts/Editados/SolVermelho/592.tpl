@@ -5,15 +5,15 @@ script 0 mmbn4 {
 		mugshot = Tensuke
 	msgOpen
 	"""
-	There's no two ways
-	about it.
+	É,não tem jeito
+	mesmo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yeah,that's gonna
-	be tough⋯
+	Isso vai ser bem
+	difícil...
 	"""
 	keyWait
 		any = false
@@ -24,7 +24,7 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Excuse me!"
+	"Com licença!"
 	keyWait
 		any = false
 	end
@@ -34,8 +34,8 @@ script 2 mmbn4 {
 		mugshot = Tensuke
 	msgOpen
 	"""
-	Huh?
-	Who's there?
+	Hã?
+	Quem é você?
 	"""
 	keyWait
 		any = false
@@ -47,8 +47,8 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Didn't I just see
-	you?!
+	A gente se viu ainda
+	agora!
 	"""
 	keyWait
 		any = false
@@ -60,9 +60,9 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Tensuke
 	"""
-	You're the brat who
-	fixed my top without
-	my permission!
+	Ah,é o pivete que
+	consertou o meu pião
+	sem eu pedir!
 	"""
 	keyWait
 		any = false
@@ -74,8 +74,8 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Um,you forgot this
-	top.
+	Er,o senhor esqueceu
+	o pião lá.
 	"""
 	keyWait
 		any = false
@@ -87,16 +87,16 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Tensuke
 	"""
-	I don't need it
-	anymore.
+	Não preciso mais
+	dele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why don't you use it
-	as a decoration for
-	that boring Dome?
+	Usa pra decorar
+	aquele Domo chato
+	ou sei lá.
 	"""
 	keyWait
 		any = false
@@ -116,8 +116,8 @@ script 7 mmbn4 {
 	mugshotAnimation
 		animation = 2
 	"""
-	So,what were you
-	grumbling about?
+	Então,o que o senhor
+	tava murmurando aí?
 	"""
 	keyWait
 		any = false
@@ -129,32 +129,31 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Tensuke
 	"""
-	Humph!
-	About my Navi,of
-	course!
+	Humpf!
+	Sobre o meu Navi,é
+	claro!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have to find some
-	way of converting
-	my easily broken
+	Quero achar um jeito
+	de converter o meu
+	Navi frágil em um
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Navi into a more
-	durable model!
+	modelo mais durável!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Argh! I just don't
-	know enough about
-	Navis to do the job!
+	Argh! Eu não entendo
+	o bastante sobre
+	Navis pra isso!
 	"""
 	keyWait
 		any = false
@@ -165,8 +164,9 @@ script 9 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	That old man sure
-	gets mad a lot.
+	Esse velho fica o
+	tempo todo zangado,
+	né?
 	"""
 	keyWait
 		any = false
@@ -178,23 +178,23 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	He's such a typical
-	craftsman.
+	Ele é um artesão bem
+	típico.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I kinda feel sorry
-	for him.
+	Eu tô com um pouco
+	de pena dele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's working so hard
-	just to get along
-	with his grandson.
+	Ele tá se esforçando
+	tanto,e só pra se
+	dar bem com o neto.
 	"""
 	keyWait
 		any = false
@@ -205,19 +205,19 @@ script 10 mmbn4 {
 script 11 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Yeah⋯"
+	"É..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	As a fellow Net-
-	Battler,I wish I
-	could help him out.
+	Como colega Net-
+	Lutador,quero achar
+	um jeito de ajudar.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What should I do?"
+	"Mas o que eu faço?"
 	keyWait
 		any = false
 	clearMsg
@@ -232,9 +232,9 @@ script 12 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Let's go check out
-	that NetBattle Club
-	he mentioned!
+	Vamos conferir o
+	Clube de NetLutas
+	que ele falou!
 	"""
 	keyWait
 		any = false
@@ -246,16 +246,15 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Oh yeah,that club
-	formed by old
-	NetBattlers.
+	Ah,é,o clube dos
+	vovôs NetLutadores.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's give it a
-	shot!
+	É uma boa.
+	Vamos tentar!
 	"""
 	keyWait
 		any = false
@@ -267,29 +266,29 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Hang on a second.
-	I'll search for
-	some info!
+	Só um minuto.
+	Vou pesquisar
+	informações!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"・"
+	"."
 	waitSkip
 		frames = 20
-	"・"
+	"."
 	waitSkip
 		frames = 20
-	"・"
+	"."
 	waitSkip
 		frames = 20
-	"\nI got it!"
+	"\nAchei!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They get together in
-	ACDC Park!
+	Eles se reúnem no
+	Parque ACDC!
 	"""
 	keyWait
 		any = false
@@ -301,8 +300,8 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	All right!
-	Let's go,MegaMan!
+	Beleza!
+	Vamos lá,MegaMan!
 	"""
 	keyWait
 		any = false
@@ -311,8 +310,8 @@ script 15 mmbn4 {
 script 16 mmbn4 {
 	mugshotHide
 	"""
-	Lan gave the
-	"CyberTop"!!
+	Lan deu o
+	"CybrPião"!!
 	"""
 	keyWait
 		any = false

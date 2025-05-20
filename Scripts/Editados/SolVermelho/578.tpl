@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I disabled 'em all!
-	Now let everyone in
-	the stadium go!
+	Pronto! Agora parem
+	de ameaçar o pessoal
+	do estádio!
 	"""
 	keyWait
 		any = false
@@ -19,16 +19,16 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
 	"""
-	That was quick!
-	I must say I'm
-	quite impressed.
+	Que rápido! Olha,
+	tô impressionado,
+	garoto.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But you shouldn't
-	underestimate us!
+	Mas cê não devia
+	subestimar a gente!
 	"""
 	keyWait
 		any = false
@@ -39,7 +39,7 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"What do you mean?!"
+	"O quê?!"
 	keyWait
 		any = false
 	clearMsg
@@ -49,14 +49,14 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
-	"Heh heh heh⋯"
+	"He he he..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's just say we're
-	saving a big band
-	for the finale!
+	Digamos que guarda-
+	mos os melhores
+	fogos pro final!
 	"""
 	keyWait
 		any = false
@@ -68,9 +68,9 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	You mean there's
-	another igniter
-	hidden around here?!
+	Então tem outro
+	dispositivo de
+	ignição por aqui?!
 	"""
 	keyWait
 		any = false
@@ -81,20 +81,20 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
-	"Bingo! We placed the"
+	"Bingo!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	most impressive and
-	destructive one in
+	Colocamos o maior
+	e mais destrutivo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the most obvious of
-	places!
+	no local mais óbvio
+	que há!
 	"""
 	keyWait
 		any = false
@@ -106,8 +106,8 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	It's the most
-	obvious of places!
+	O local mais
+	óbvio...?!
 	"""
 	keyWait
 		any = false
@@ -117,11 +117,11 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"⋯This?"
+	"... Aqui?"
 	keyWait
 		any = false
 	clearMsg
-	"Oh no!"
+	"Ah,não!"
 	keyWait
 		any = false
 	end
@@ -131,21 +131,24 @@ script 8 mmbn4 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Most destructive?!
-	⋯The MT igniter?!
+	Mais destrutivo...?!
+	... O dispositivo
+	MT?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wait,you guys!
-	It'll blow the place
-	to smithereens if
+	Esperem! Se vocês
+	usarem aquilo aqui,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"you use it here!"
+	"""
+	o lugar inteiro vai
+	ser reduzido a pó!
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -156,8 +159,8 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
 	"""
-	Heh heh heh⋯That's
-	the whole idea⋯
+	He he he...
+	Essa é a ideia...
 	"""
 	keyWait
 		any = false
@@ -169,9 +172,9 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	"""
-	Those scumbags!
-	They meant to turn
-	on me all along!
+	Desgraçados! Eles
+	pretendiam me trair
+	desde o começo!
 	"""
 	keyWait
 		any = false
@@ -182,8 +185,8 @@ script 11 mmbn4 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Lan! It's in the
-	NetBattle Machine.
+	Lan! Ele está na
+	Máquina de NetLuta.
 	"""
 	keyWait
 		any = false
@@ -204,9 +207,9 @@ script 13 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hmmm⋯
-	So the last igniter
-	is in here?
+	Hmmm... Então,o
+	último dispositivo
+	tá aqui?
 	"""
 	keyWait
 		any = false
@@ -218,17 +221,17 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	"""
-	Yeah,but this one's
-	different from the
-	rest.
+	Está. Mas esse é
+	diferente dos
+	outros.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's the most secure
-	of all the igniter
-	I've designed.
+	É o dispositivo de
+	ignição mais seguro
+	que eu criei.
 	"""
 	keyWait
 		any = false
@@ -239,7 +242,7 @@ script 14 mmbn4 {
 script 15 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"You designed it?!"
+	"VOCÊ criou ele?!"
 	keyWait
 		any = false
 	clearMsg
@@ -250,9 +253,9 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	"""
-	Yep. And only I know
-	how to disable it.
-	Do exactly as I say.
+	Aham. E só eu sei
+	como desativá-lo.
+	Faz o que eu mandar.
 	"""
 	keyWait
 		any = false
@@ -264,9 +267,9 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	OK. I'm gonna jack
-	in,so lemme know
-	what I have to do.
+	Tá. Vou me conectar,
+	então,me diz o que
+	eu preciso saber.
 	"""
 	keyWait
 		any = false
@@ -277,7 +280,7 @@ script 17 mmbn4 {
 script 18 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
-	"You got it."
+	"Pode deixar."
 	keyWait
 		any = false
 	clearMsg
@@ -287,7 +290,7 @@ script 18 mmbn4 {
 script 19 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"MegaMan,let's go!"
+	"MegaMan,vamos lá!"
 	keyWait
 		any = false
 	clearMsg
@@ -297,7 +300,7 @@ script 19 mmbn4 {
 script 20 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Roger!"
+	"Certo!"
 	keyWait
 		any = false
 	end

@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	All right,that's
-	all we need to make
-	the curry.
+	Perfeito. Temos tudo
+	de que precisamos
+	para fazer o curry.
 	"""
 	keyWait
 		any = false
@@ -20,16 +20,16 @@ script 1 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	So,can't you tell
-	us?
+	Bom,e você pode nos
+	contar agora?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Who is your
-	operator,this
-	"Cooking Master"?
+	A identidade do seu
+	operador,esse "Mes-
+	tre Cuca-Mestre"?
 	"""
 	keyWait
 		any = false
@@ -42,24 +42,24 @@ script 2 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	He's a wandering
-	chef who searches
-	the globe to perfect
+	É um chef errante
+	que viaja pelo mundo
+	para aperfeiçoar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	his craft. And he
-	really wants to see
-	Flave lose.
+	suas habilidades. E
+	ele quer muito que o
+	Flave perca.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's all you need
-	to know.
+	É só isso que você
+	precisa saber.
 	"""
 	keyWait
 		any = false
@@ -72,13 +72,13 @@ script 3 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	He wants Flave to
-	lose?
+	Ele quer que o Flave
+	perca?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Why?!"
+	"Por quê?!"
 	keyWait
 		any = false
 	clearMsg
@@ -90,24 +90,25 @@ script 4 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Flave is a cooking
-	genius,and not
-	just with curry.
+	Flave é um mestre na
+	culinária,e não só
+	com curry.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Unfortunately,that
-	young man still
+	Mas,infelizmente,
+	aquele jovem ainda
+	não entende
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	doesn't know the
-	most important thing
-	about cooking.
+	a coisa mais
+	importante na
+	culinária.
 	"""
 	keyWait
 		any = false
@@ -120,8 +121,8 @@ script 5 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The most important
-	thing?
+	A coisa mais
+	importante?
 	"""
 	keyWait
 		any = false
@@ -134,40 +135,41 @@ script 6 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	The desire to make
-	people happy with
-	one's dishes.
+	O desejo de deixar
+	as pessoas felizes
+	com os pratos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Flave just wants to
-	show off his cooking
-	skills,that's all.
+	O Flave só quer exi-
+	bir suas habilidades
+	culinárias.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's his only
-	reason for cooking.
+	Alimentar o ego.
+	É a única coisa que
+	leva ele a cozinhar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your operator
-	understood that
-	right away.
+	O seu operador
+	entendeu isso
+	imediatamente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I thought maybe you
-	could teach him this
-	lesson.
+	Pensei que,talvez,
+	vocês pudessem fazê-
+	lo enxergar isso.
 	"""
 	keyWait
 		any = false
@@ -180,9 +182,9 @@ script 7 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The desire to make
-	people happy through
-	cooking⋯
+	O desejo de deixar
+	as pessoas felizes
+	com a culinária...
 	"""
 	keyWait
 		any = false
@@ -194,21 +196,21 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"That's it."
+	"Exatamente."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I want you to teach
-	him that after you
-	beat him.
+	Quero que vocês
+	ensinem isso a ele
+	após vencê-lo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He'll be an even
-	better chef for it.
+	Isso fará dele um
+	chef ainda melhor.
 	"""
 	keyWait
 		any = false
@@ -221,14 +223,14 @@ script 9 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Okay! Thank you for
-	everything,Cooking
-	Master!
+	Certo! Obrigado por
+	tudo,Mestre-Cuca
+	Mestre!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It's time to go."
+	"Hora de eu ir lá."
 	keyWait
 		any = false
 	clearMsg
@@ -240,8 +242,8 @@ script 10 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Good luck with the
-	CookingBattle!
+	Boa sorte na
+	Luta Culinária!
 	"""
 	keyWait
 		any = false

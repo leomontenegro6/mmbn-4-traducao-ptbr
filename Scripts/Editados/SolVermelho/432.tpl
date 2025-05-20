@@ -10,33 +10,33 @@ script 0 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELL HELLO THERE!
-	WELCOME TO NETFRICA,
-	LAND OF NATURE!
+	OPA,OLÁ!
+	BEM-VINDO À AFFRIQ,
+	A TERRA DA NATUREZA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WE HAVE LOTS OF
-	TOURISTS COMING TO
-	OUR COUNTRY,
+	MUITOS TURISTAS
+	VISITAM O NOSSO
+	PAÍS,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT NOT MANY PEOPLE
-	COME TO VISIT OUR
-	NETWORK!
+	MAS É RARO TERMOS
+	VISITANTES NA NOSSA
+	REDE!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WE'RE HOPING THAT
-	THE TOURNAMENT WILL
-	BRING MORE PEOPLE!
+	ESPERAMOS QUE O
+	TORNEIO ATRAIA MAIS
+	GENTE!
 	"""
 	keyWait
 		any = false
@@ -52,17 +52,16 @@ script 1 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'LL BET YOU'VE
-	NEVER SEEN AN AREA
-	THIS BIG!
+	APOSTO QUE VOCÊ
+	NUNCA VIU UMA ÁREA
+	GRANDE ASSIM!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WE'VE GOT THE
-	BIGGEST SQUARE OF
-	ANY NETWORK!
+	TEMOS O MAIOR PLAZA
+	DE TODA A REDE!
 	"""
 	keyWait
 		any = false
@@ -77,18 +76,18 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"GRRRRR⋯ROOOOAR!"
+	"GRRRRR... RRRAAAR!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HOW DO YOU LIKE MY
-	LION IMITATION?
+	GOSTOU DA MINHA
+	IMITAÇÃO DE LEÃO?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"DID I SCARE YOU?"
+	"TE ASSUSTEI?"
 	keyWait
 		any = false
 	end
@@ -98,16 +97,16 @@ script 5 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WE HOPE THAT ALL OF
-	THE TOURNAMENT
-	CONTESTANTS
+	ESPERAMOS QUE TODOS
+	OS COMPETIDORES DO
+	TORNEIO
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ENJOY THEIR STAY
-	IN NETFRICA!
+	APROVEITEM SUA
+	ESTADIA NA AFFRIQ!
 	"""
 	keyWait
 		any = false
@@ -118,13 +117,13 @@ script 6 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	TODAY IS THE DAY
-	OF THE TOURNAMENT!
+	HOJE É O DIA DO
+	TORNEIO!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"LET'S ALL HAVE FUN!"
+	"VAMOS TODOS NOS\nDIVERTIR!"
 	keyWait
 		any = false
 	end
@@ -133,20 +132,20 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"SQUAAAAK!"
+	"CREEAAAC!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HOW DO YOU LIKE MY
-	OSTRICH IMITATION?
+	GOSTOU DA MINHA
+	IMITAÇÃO DE
+	AVESTRUZ?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I SOUND JUST LIKE
-	ONE,DON'T I?
+	FICOU IGUALZINHA,NÉ?
 	"""
 	keyWait
 		any = false
@@ -167,17 +166,17 @@ script 10 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	NAVIS ARE NOW COMING
-	IN FROM ALL PARTS OF
-	THE WORLD!
+	AGORA HÁ NAVIS
+	VINDO DE TODOS OS
+	CANTOS DO MUNDO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OUR JOB IS TO MAKE
-	SURE EVERYONE HAS
-	FUN!
+	O NOSSO TRABALHO
+	É ASSEGURAR QUE
+	TODOS SE DIVIRTAM!
 	"""
 	keyWait
 		any = false
@@ -197,13 +196,14 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"AHEM⋯"
+	"CA-HEM..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THIS IS THE NETFRICA
-	DANCE OF WELCOME!
+	ESTA É A DANÇA
+	AFFRIQANA DE
+	BOAS-VINDAS!
 	"""
 	keyWait
 		any = false
@@ -223,19 +223,19 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"HISSSSSSS!"
+	"HSSSSSSS!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THAT'S THE SOUND OF
-	A NETFRICAN COBRA
-	ABOUT TO STRIKE!
+	ESSE É O SOM DE UMA
+	COBRA AFFRIQANA
+	PRONTA PARA ATACAR!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"HISSSSSSS!"
+	"HSSSSSSS!"
 	keyWait
 		any = false
 	end
@@ -255,13 +255,13 @@ script 13 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	This Mr.Prog is so
-	funny!
+	Esse Prog é tão
+	engraçado!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ahahahaha!"
+	"Ha ha ha ha!"
 	keyWait
 		any = false
 	end
@@ -271,17 +271,17 @@ script 15 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	IT LOOKS LIKE THE
-	TOURNAMENT IS
-	PROCEEDING NICELY⋯
+	PARECE QUE O TORNEIO
+	ESTÁ AVANÇANDO SEM
+	PROBLEMAS...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I HOPE THAT WE GET
-	A CHANCE TO SEE SOME
-	OF IT!
+	ESPERO QUE POSSAMOS
+	ASSISTIR A,PELO
+	MENOS,PARTE DELE!
 	"""
 	keyWait
 		any = false
@@ -292,20 +292,20 @@ script 16 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE ONLY PROBLEM
-	WITH THIS DANCE⋯
+	O ÚNICO PROBLEMA
+	COM ESTA DANÇA...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IS THAT IT MAKES ME
-	REALLY TIRED!
+	É QUE ELA ME DEIXA
+	SUPER CANSADO!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"WHEW⋯"
+	"UFA..."
 	keyWait
 		any = false
 	end
@@ -314,18 +314,18 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"CROOOOAK! CROOOOAK!"
+	"COAXA! COAXA!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THAT'S THE SOUND OF
-	A NETFRICAN TOAD!
+	ESSE É O SOM DE UM
+	SAPO AFFRIQANO!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"OH YEAH!"
+	"AHAM!"
 	keyWait
 		any = false
 	end
@@ -335,17 +335,17 @@ script 18 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Does this guy only
-	do animal calls?
-	It's getting
+	Esse carinha só faz
+	voz de animal? Tá
+	perdendo a graça...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	tiresome⋯
-	Doesn't he know any
-	other jokes?
+	Ele não sabe alguma
+	piada ou coisa
+	assim?
 	"""
 	keyWait
 		any = false
@@ -356,22 +356,22 @@ script 20 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	SO THE TOURNAMENT IS
-	ALMOST TO THE FINAL
-	ROUNDS?
+	ENTÃO,O TORNEIO ESTÁ
+	QUASE CHEGANDO NA
+	FINAL?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I GUESS AFTER THAT,
-	THIS PLACE WILL GO
-	BACK TO HOW IT WAS⋯
+	DEPOIS DISSO,ESTE
+	LUGAR DEVE VOLTAR A
+	SER COMO ERA...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯BORING."
+	"... CHATO."
 	keyWait
 		any = false
 	end
@@ -380,7 +380,7 @@ script 21 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"I CAN'T DO ANY MORE⋯"
+	"NÃO CONHEÇO MAIS\nNENHUMA..."
 	keyWait
 		any = false
 	end
@@ -390,16 +390,17 @@ script 22 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS TOURIST IS
-	REALLY GOOD AT DOING
-	ANIMAL CALLS!
+	ESSE TURISTA É MUITO
+	BOM EM FAZER IMITA-
+	ÇÕES DE ANIMAIS!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HE'S LEARNED ALL THE
-	ONES THAT I KNOW!
+	ELE JÁ APRENDEU
+	TODAS AS QUE EU
+	SABIA!
 	"""
 	keyWait
 		any = false
@@ -409,13 +410,13 @@ script 23 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Waaooooooo!"
+	"Fuéééééunn!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's a NetFrican
-	elephant!
+	Esse foi um elefante
+	affriqano!
 	"""
 	keyWait
 		any = false
@@ -426,10 +427,10 @@ script 23 mmbn4 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
-	"Not bad,huh?"
+	"Nada mal,né?"
 	keyWait
 		any = false
 	end
@@ -458,16 +459,15 @@ script 30 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE ROAD TO NETOPIA
-	AREA HAS BEEN CUT
-	OFF!
+	A ESTRADA PRA ÁREA
+	AMEROPA FOI CORTADA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NOW NOBODY IS COMING
-	TO VISIT!
+	AGORA,NINGUÉM VEM
+	NOS VISITAR!
 	"""
 	keyWait
 		any = false
@@ -478,14 +478,14 @@ script 31 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHAT? YOU REMOVED
-	THE DEVICE THAT WAS
-	BLOCKING THE ROAD?
+	O QUÊ? VOCÊ REMOVEU
+	O DISPOSITIVO QUE
+	BARRAVA A ESTRADA?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"THANK YOU SO MUCH!"
+	"MUITO OBRIGADO!"
 	keyWait
 		any = false
 	end
@@ -495,16 +495,16 @@ script 35 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I GUESS THE NETFRICA
-	AREA JUST ISN'T
-	POPULAR⋯
+	ACHO QUE A ÁREA
+	AFFRIQ SIMPLESMENTE
+	NÃO É POPULAR...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NOBODY IS COMING
-	HERE AT ALL⋯
+	NINGUÉM ESTÁ VINDO
+	PARA CÁ...
 	"""
 	keyWait
 		any = false
@@ -515,15 +515,16 @@ script 40 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHAT'S THAT? ⋯ALL
-	THAT HAPPENED?
+	O QUÊ?
+	... ACONTECEU TUDO
+	ISSO MESMO?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SO THAT'S WHY NOBODY
-	IS COMING HERE!
+	ENTÃO É POR ISSO QUE
+	NINGUÉM VEM AQUI!
 	"""
 	keyWait
 		any = false
@@ -534,16 +535,16 @@ script 45 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE NET IS BACK
-	ONLINE NOW,RIGHT?
+	A REDE JÁ VOLTOU AO
+	NORMAL,NÉ?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SO WHY IS IT THAT
-	STILL NOBODY COMES
-	TO VISIT?
+	ENTÃO POR QUE
+	NINGUÉM ESTÁ
+	VINDO VISITAR?
 	"""
 	keyWait
 		any = false
@@ -554,8 +555,8 @@ script 50 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I suggest you don't
-	go any farther
+	Sugiro que você não
+	vá mais além
 	
 	"""
 	mugshotAnimation
@@ -586,9 +587,9 @@ script 141 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I can't wait to see
-	who will be the
-	Champion this year!
+	Mal posso esperar
+	pra ver quem será
+	o Campeão este ano!
 	"""
 	keyWait
 		any = false
@@ -622,7 +623,7 @@ script 143 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Where's the
+	Cadê o
 	"
 	"""
 	printItem
@@ -638,8 +639,8 @@ script 144 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	I'm the Champion
-	this year!
+	Eu que vou ser a
+	Campeã este ano!
 	"""
 	keyWait
 		any = false
@@ -681,14 +682,14 @@ script 152 mmbn4 {
 	mugshotShow
 		mugshot = KendoMan
 	msgOpen
-	"Hey!"
+	"Ei!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What are you doing?
-	Get back to your
-	practice!
+	O que você tá fazen-
+	do? Volte ao seu
+	treinamento!
 	"""
 	keyWait
 		any = false

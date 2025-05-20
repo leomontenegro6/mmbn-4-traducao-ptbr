@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Regal
 	msgOpen
-	"Aah⋯"
+	"Aah..."
 	keyWait
 		any = false
 	end
@@ -14,8 +14,8 @@ script 1 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Dr.Regal.
-	What's wrong?!
+	Dr. Regal.
+	O que foi?!
 	"""
 	keyWait
 		any = false
@@ -27,15 +27,15 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Regal
 	"""
-	Oh,no⋯
-	The Transmtr I gave
+	Não... O Transmissor
+	que eu dei ao Lan
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to Lan has stopped
-	sending its signal⋯
+	parou de emitir
+	sinal...
 	"""
 	keyWait
 		any = false
@@ -57,9 +57,8 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	But if the Transmtr
-	has stopped
-	transmitting⋯?
+	Mas,se ele parou de
+	transmitir...
 	"""
 	keyWait
 		any = false
@@ -70,21 +69,21 @@ script 5 mmbn4 {
 		mugshot = Regal
 	msgOpen
 	"""
-	It means that Lan's
-	Navi has⋯
+	Significa que o Navi
+	do Lan foi...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	whether due to the
-	Nebula or for some
-	other reason⋯
+	seja devido à Nebula
+	ou algum outro
+	motivo...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"been deleted."
+	"deletado."
 	keyWait
 		any = false
 	soundStopBGM
@@ -94,7 +93,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
-	"It c-can't be⋯"
+	"N-não pode ser..."
 	keyWait
 		any = false
 	clearMsg
@@ -104,14 +103,14 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = SciLabMan
-	"B-But that means⋯"
+	"M-mas isso quer\ndizer..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The plan to send
-	a Navi to the
-	asteroid⋯
+	que o plano pra
+	mandar um Navi ao
+	asteroide...
 	"""
 	keyWait
 		any = false
@@ -123,21 +122,21 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	Can't even be
-	attempted⋯
+	Nem pode ser
+	tentado...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I knew it was too
-	much for a little
-	sixth grader⋯
+	Eu sabia que era
+	demais pra uma
+	criança...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"We're finished⋯"
+	"Estamos mortos..."
 	keyWait
 		any = false
 	clearMsg
@@ -148,8 +147,9 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Regal
 	"""
-	⋯Not so. There is
-	one other option.
+	... Não exatamente.
+	Ainda há outra
+	opção.
 	"""
 	keyWait
 		any = false
@@ -160,7 +160,7 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
-	"What's that⋯?"
+	"Opção...?"
 	keyWait
 		any = false
 	clearMsg
@@ -171,15 +171,15 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Regal
 	"""
-	To send a different
-	Navi instead.
+	Enviar um outro
+	Navi.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's too late to
-	change our plan.
+	É tarde demais para
+	mudarmos de plano.
 	"""
 	keyWait
 		any = false
@@ -191,9 +191,9 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
 	"""
-	But we have no time
-	to search for
-	another NetBattler.
+	Mas não temos tempo
+	para buscar outro
+	NetLutador.
 	"""
 	keyWait
 		any = false
@@ -203,7 +203,7 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = Regal
 	msgOpen
-	"⋯We'll send my Navi."
+	"... Mandaremos o\nmeu Navi."
 	keyWait
 		any = false
 	clearMsg
@@ -224,24 +224,25 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Regal
 	"""
-	I may not be Lan's
-	equal,but I am a
-	NetBattler.
+	Não estou no nível
+	do Lan,mas também
+	sou um NetLutador.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Does anyone object
-	to this approach?
+	Alguém tem alguma
+	coisa contra esta
+	estratégia?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯Well then,let's
-	get started with our
-	preparations.
+	... Pois bem.
+	Iniciemos nossos
+	preparativos.
 	"""
 	keyWait
 		any = false
@@ -253,7 +254,7 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"⋯⋯Lan."
+	"...... Lan."
 	keyWait
 		any = false
 	end

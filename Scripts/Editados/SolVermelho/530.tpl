@@ -6,7 +6,7 @@ script 0 mmbn4 {
 		height = 1
 	color
 		palette = 1
-	"We have a winner!!"
+	"Temos um vencedor!!"
 	keyWait
 		any = false
 	clearMsg
@@ -14,9 +14,9 @@ script 0 mmbn4 {
 		width = 19
 		height = 3
 	"""
-	The battler who
-	tossed taside all
-	others to claim the
+	O lutador que supe-
+	rou todos os outros
+	e conquistou o
 	"""
 	keyWait
 		any = false
@@ -25,8 +25,9 @@ script 0 mmbn4 {
 		width = 20
 		height = 2
 	"""
-	title World Champion
-	is a 6th grader from
+	título de Campeão
+	Mundial! O aluno de
+	Ni-Hon,do sexto ano:
 	"""
 	keyWait
 		any = false
@@ -35,8 +36,8 @@ script 0 mmbn4 {
 		width = 20
 		height = 2
 	"""
-	Electopia,Lan and
-	MegaMan!!
+	Lan Hikari e seu
+	Navi,MegaMan.EXE!!
 	"""
 	keyWait
 		any = false
@@ -48,8 +49,8 @@ script 1 mmbn4 {
 	soundPlay
 		track = 244
 	"""
-	Waaaaooo!
-	Yeeeaaaah!
+	Uuoooooo!
+	Ééééééé!
 	"""
 	wait
 		frames = 133
@@ -63,8 +64,8 @@ script 2 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Boss! The winner has
-	been decided!
+	Chefe! O vencedor
+	foi definido!
 	"""
 	keyWait
 		any = false
@@ -76,8 +77,8 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
 	"""
-	OK,I'll be right
-	there.
+	Certo,irei aí agora
+	mesmo.
 	"""
 	keyWait
 		any = false
@@ -87,11 +88,11 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Who's that lady?"
+	"Quem é essa moça?"
 	keyWait
 		any = false
 	clearMsg
-	"She's the \"boss\"?"
+	"Ela é a \"chefe\"?"
 	keyWait
 		any = false
 	end
@@ -101,15 +102,16 @@ script 5 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Yes,that lady's
-	our boss.
+	Sim,esta mulher é a
+	nossa chefe.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'll be told the
-	details later on.
+	Mais tarde você
+	receberá todos os
+	detalhes.
 	"""
 	keyWait
 		any = false
@@ -120,8 +122,8 @@ script 6 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Ah,boss!
-	We're over here!!
+	Ah,chefe!
+	Estamos aqui!!
 	"""
 	keyWait
 		any = false
@@ -131,7 +133,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯Huh?!"
+	"... Hã?!"
 	keyWait
 		any = false
 	end
@@ -140,7 +142,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"Grab the ladder!"
+	"Suba na escada!"
 	keyWait
 		any = false
 	end
@@ -149,7 +151,7 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"W-What?!"
+	"É-é o quê?!"
 	keyWait
 		any = false
 	clearMsg
@@ -161,24 +163,24 @@ script 10 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	We're from Netopia's
-	outer-space
-	monitoring center!
+	Somos do centro de
+	monitoramento espa-
+	cial da Ameropa!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Our planet is in
-	extreme danger!
+	O nosso planeta
+	corre sério perigo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please grab on!
-	We'll explain
-	everything later!!
+	Por favor,suba!
+	Explicaremos o
+	resto depois!!
 	"""
 	keyWait
 		any = false
@@ -190,13 +192,13 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Outer space?
-	Extreme danger?
+	"Espaço"?
+	"Sério perigo"?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"But why me?"
+	"Mas por que eu?"
 	keyWait
 		any = false
 	clearMsg
@@ -207,8 +209,8 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	Time is against us!
-	Go now,quickly!
+	Não temos tempo!
+	Suba logo,depressa!
 	"""
 	keyWait
 		any = false
@@ -223,9 +225,9 @@ script 13 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	I'm not sure about
-	this⋯I'll need to
-	be told everything!
+	Sei não... Eu preci-
+	so saber o que tá
+	rolando primeiro!
 	"""
 	keyWait
 		any = false
@@ -235,7 +237,7 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"Take it up,boss!"
+	"Pode ir,chefe!"
 	keyWait
 		any = false
 	clearMsg
@@ -245,11 +247,11 @@ script 14 mmbn4 {
 script 15 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
-	"Roger! On my way!"
+	"Entendido! Partindo!"
 	keyWait
 		any = false
 	clearMsg
-	"Next stop - NAXA!"
+	"Próxima parada:\nNAXA!"
 	keyWait
 		any = false
 	clearMsg
@@ -259,7 +261,7 @@ script 15 mmbn4 {
 script 16 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Oh,oh,ooooh⋯"
+	"A-ah,ough,aaaoo..."
 	keyWait
 		any = false
 	end

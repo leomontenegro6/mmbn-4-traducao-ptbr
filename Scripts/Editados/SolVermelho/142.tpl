@@ -9,17 +9,16 @@ script 0 mmbn4 {
 	soundPlay
 		track = 213
 	"""
-	MegaMan
-	pressed the ToyRobo
-	Stop switch!
+	MegaMan apertou o
+	botão de desligar do
+	Robô-Brinquedo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	At the same time as
-	pressing the button,
-	viruses started!
+	Ao apertar o botão,
+	vírus apareceram!
 	"""
 	keyWait
 		any = false
@@ -30,9 +29,9 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	msgOpen
 	"""
-	The Stop switch for
-	ToyRobo⋯No need
-	to press it now.
+	O botão de desligar
+	do Robô... Não pre-
+	cisa apertar agora.
 	"""
 	keyWait
 		any = false
@@ -70,7 +69,7 @@ script 10 mmbn4 {
 }
 script 11 mmbn4 {
 	msgOpen
-	"That's not right."
+	"Errado."
 	keyWait
 		any = false
 	end
@@ -79,40 +78,41 @@ script 12 mmbn4 {
 	mugshotHide
 	msgOpen
 	"""
-	For some reason,
-	Halberd Princess
-	loved a huge axe.
+	Por algum motivo,
+	a Princesa Alabarda
+	amava machadões.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	However,she had been
-	acting very strange.
+	Porém,ela andava
+	agindo muito
+	estranho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Always used for wood
-	cutting before,she
-	now used her axe for
+	Sempre acostumada a
+	cortar lenha,agora
+	só usava seu
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"****",and
-	she also fretted
-	over her appearance⋯
+	"****"	,e ficara
+	cuidadosa com a
+	própria aparência...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	She seemed to be in
-	love with Prince
-	Tomahawk.
+	Ela parecia estar
+	apaixonada pelo
+	Príncipe Tomahawk.
 	"""
 	keyWait
 		any = false
@@ -122,33 +122,33 @@ script 13 mmbn4 {
 	mugshotHide
 	msgOpen
 	"""
-	A witch was jealous
-	of Halberd
-	Princess's beauty
+	A bruxa invejava
+	a beleza e força da
+	Princesa Alabarda.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and strength.
-	She kidnapped her
-	beloved Tomahawk,
+	A bruxa sequestrou
+	o amado Tomahawk
+	da Princesa,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and sealed him in
-	a "****".
-	When she heard,
+	e o prendeu em
+	uma "****".
+	Ao aprender disso,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Halberd Princess
-	departed alone to
-	save her Prince.
+	a Princesa Alabarda
+	saiu sozinha para
+	salvar seu príncipe.
 	"""
 	keyWait
 		any = false
@@ -157,90 +157,89 @@ script 13 mmbn4 {
 script 14 mmbn4 {
 	mugshotHide
 	msgOpen
-	"\"WhuuuuaaaaAAAAGH!!\""
+	"\"RraaaaaAAAAGH!!\""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The witch had used
-	her power to create
-	a dense forest,but
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Halberd Princess
-	used her axe
-	to penetrate deep
+	A bruxa usara seus
+	poderes para criar
+	uma densa floresta,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	through the trees.
-	Eventually,she came
-	to the huge tree
+	mas a Princesa Ala-
+	barda usou seu ma-
+	chado para entrar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that held Tomahawk.
-	Using the very last
-	of her strength,
+	pelas árvores. Ela
+	acabou chegando à
+	grande árvore em que
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	she unleashed her
-	"****" on
-	the huge tree,
+	Tomahawk fora apri-
+	sionado. Com a força
+	que lhe restava,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and before she knew
-	it,the tree had
-	split in two,
+	ela aplicou um
+	"****" na enorme
+	árvore,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and her beloved
-	Tomahawk emerged
-	from within saying,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"\"I have never seen\n such beauty and\n power in a girl.\""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Halberd Princess was
-	taken aback at
-	first,
+	e,antes que se desse
+	conta,a árvore se
+	partiu ao meio,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but the Prince's
-	warm,bright smile
-	put her at ease.
+	e seu amado Tomahawk
+	saiu dela,dizendo:
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"\"Jamais vi tamanha\nbeleza e força em\numa donzela.\""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	A Princesa Alabarda
+	foi surpreendida de
+	início,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The lovers were then
-	married and lived
-	happily ever after.
+	mas o sorriso calo-
+	roso e vibrante do
+	Príncipe a acalmou.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	O casal se casou e
+	viveram felizes para
+	sempre.
 	"""
 	keyWait
 		any = false

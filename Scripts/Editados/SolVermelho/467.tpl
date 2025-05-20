@@ -47,7 +47,7 @@ script 2 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Venham comigo!"
+	"Venha comigo!"
 	keyWait
 		any = false
 	end
@@ -58,7 +58,8 @@ script 3 mmbn4 {
 	msgOpen
 	"""
 	Ca-hem.
-	Estão todos ouvindo?
+	Está prestando
+	atenção?
 	"""
 	keyWait
 		any = false
@@ -69,15 +70,15 @@ script 4 mmbn4 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Vocês receberão uma
-	tarefa de cada um
+	Você receberá uma
+	missão de cada um
 	destes três aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Se conseguirem
+	Se conseguir
 	terminar todas as
 	três missões,
 	"""
@@ -85,14 +86,14 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	passarão nas
+	você passará nas
 	preliminares.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Estes três vão lhes
+	Estes três vão lhe
 	dar mais detalhes
 	sobre as tarefas.
 	"""
@@ -100,7 +101,7 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Vocês só poderão
+	Você só poderá
 	aceitar uma missão
 	de cada vez.
 	"""
@@ -108,9 +109,9 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Falme comigo quando
-	tiverem realizado
-	todas elas.
+	Fale comigo quando
+	tiver concluído
+	todas.
 	"""
 	keyWait
 		any = false

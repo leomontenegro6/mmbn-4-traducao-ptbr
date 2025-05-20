@@ -6,7 +6,7 @@ script 0 mmbn4 {
 		height = 1
 	color
 		palette = 1
-	"NetFrica"
+	"Affriq"
 	keyWait
 		any = false
 	end
@@ -17,8 +17,8 @@ script 1 mmbn4 {
 	msgOpen
 	"""
 	MEGAMAN!
-	PROTECT MOTHER
-	NATURE!
+	PROTEJA A MÃE
+	NATUREZA!
 	"""
 	keyWait
 		any = false
@@ -30,7 +30,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Man
 	msgOpen
-	"DON'T LET US DOWN!!"
+	"NÃO NOS DECEPCIONE!!"
 	keyWait
 		any = false
 	clearMsg
@@ -42,13 +42,13 @@ script 3 mmbn4 {
 		mugshot = Riki
 	msgOpen
 	"""
-	I've seen how strong
-	a Navi MegaMan is.
+	Eu vi o quanto o
+	MegaMan é forte.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"You must believe!"
+	"Vocês têm de\nacreditar!"
 	keyWait
 		any = false
 	clearMsg
@@ -60,13 +60,14 @@ script 4 mmbn4 {
 		mugshot = BlackKid
 	msgOpen
 	"""
-	GO FOR IT,MEGAMAN!
-	I BELIEVE IN YOU!
+	FORÇA,MEGAMAN!
+	EU ACREDITO EM
+	VOCÊ!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"DON'T GIVE UP!!"
+	"NÃO DESISTA!!"
 	keyWait
 		any = false
 	end

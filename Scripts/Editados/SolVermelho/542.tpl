@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"MegaMan,are you OK?"
+	"MegaMan,você tá bem?"
 	keyWait
 		any = false
 	clearMsg
@@ -15,8 +15,8 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Yeah,the jack in
-	was no problem.
+	Tô. Não deu nenhum
+	problema na conexão.
 	"""
 	keyWait
 		any = false
@@ -28,8 +28,9 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Good,now get after
-	Regal's Navi!!
+	Ótimo. Agora,vamos
+	atrás do Navi do
+	Rega!!
 	"""
 	keyWait
 		any = false
@@ -41,8 +42,9 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Roger!
-	Operate me well!
+	Beleza!
+	Conto com você na
+	operação!
 	"""
 	keyWait
 		any = false

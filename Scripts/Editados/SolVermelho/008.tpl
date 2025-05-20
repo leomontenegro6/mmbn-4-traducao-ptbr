@@ -13,44 +13,45 @@ script 0 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	It looks like
-	MegaMan acquired
+	Parece que o Mega-
+	Man adquiriu uma
+	nova habilidade!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	a new ability!
-	MegaMan's soul
-	harmonized with
+	A alma do MegaMan
+	se harmonizou com
+	a de outro Navi,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	another Navi's soul,
-	allowing him to
-	temporarily draw 
+	o que permite a ele
+	pegar emprestado o
+	poder desse Navi
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	upon that Navi's
-	strength. This
-	ability is called
+	temporariamente.
+	Essa habilidade se
+	chama...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"DuplAlma!"
+	"Dupla Alma!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've attached a
-	training program,so
-	give it a try!
+	Mandei em anexo um
+	programa de treina-
+	mento. Experimente!
 	"""
 	keyWait
 		any = false
@@ -73,83 +74,85 @@ script 1 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	I have Chisao. If
-	you want him back,
+	Estou com o Chisao.
+	Se o quiser de
+	volta,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"accept my challenge."
+	"aceite o meu\ndesafio."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've prepared
-	several clues that
-	lead to my location.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Use them to find me.
-	If you fail⋯
+	Preparei várias
+	pistas que apontam
+	minha localização.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Chisao forfeits his
-	life. There is one
-	condition:
+	Use-as para me
+	encontrar.
+	Se falhar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	only Lan can accept
-	this challenge.
-	If anyone else
+	O Chisao perde a
+	vida. Só há uma
+	condição:
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	interferes,the
-	hostage dies. Here
-	is the first clue:
+	somente Lan pode
+	aceitar o desafio.
+	Se mais alguém
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"OM"
+	"""
+	interferir,o refém
+	morre. Eis a
+	primeira pista:
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"VH"
 	spacePx
 		count = 1
-	"I"
+	"Á"
 	spacePx
 		count = 1
 	"""
-	QR
-	LANUE
-	DNSA!
+	PÇ
+	EONRA
+	LLAA!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Top to bottom."
+	"De cima a baixo."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you can figure
-	this out,
+	Se conseguir
+	decifrá-la,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the way will be
-	revealed⋯
+	o caminho será
+	revelado...
 	"""
 	keyWait
 		any = false
@@ -168,8 +171,9 @@ script 2 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	Heeelp! I'm at the
-	park squi⋯
+	Socooorrooo!
+	Eu tô no esquilo do
+	p...
 	"""
 	keyWait
 		any = false
@@ -188,33 +192,33 @@ script 3 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	In appreciation of
-	your continued
-	support,we are
+	Para agradecer por
+	seu apoio regular,
+	estamos oferecendo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	offering free PET
-	maintenance checks
-	to our valued
+	manutenção gratuita
+	de PETs para nossos
+	melhores clientes
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	customers today in
-	front of DenDome.
-	Please give our
+	hoje,em frente ao
+	DenDomo. Por favor,
+	experimentem o nosso
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	service a try if you
-	will be in the
-	tournament.
+	serviço caso sejam
+	participantes do
+	torneio.
 	"""
 	keyWait
 		any = false
@@ -233,17 +237,17 @@ script 4 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	CyberMail Magazine
-	Here's your fortune
-	for today!
+	Revista CyberMail:
+	Aqui vai a sua sorte
+	do dia!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You are likely to
-	drown today!
-	Beware of water!
+	Altas chances de
+	você se afogar hoje!
+	Cuidado com água!
 	"""
 	keyWait
 		any = false
@@ -265,39 +269,40 @@ script 5 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	Hello. This is the 
-	Electopia NetBattle
-	Association. We are
+	Olá. Sou da
+	Associação de
+	NetLuta de Ni-Hon.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	pleased to announce
-	our hosting of the
+	É um prazer anunciar
+	que sediaremos o
+	Torneio Águia,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Eagle Tournament,to
-	determine the
-	strongest NetBattler
+	para determinar o
+	NetLutador mais
+	forte de Ni-Hon!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	in Electopia! We 
-	invite you to enter,
-	Lan. We will contact
+	Convidamos você,Lan
+	Hikari,a participar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you with details at
-	a later date.
+	Entraremos em
+	contato no futuro
+	com mais detalhes.
 	"""
 	keyWait
 		any = false
@@ -316,9 +321,8 @@ script 6 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	Lan,someone's here
-	to see you.
-	Come back home.
+	Lan,você tem visita.
+	Venha para casa.
 	"""
 	keyWait
 		any = false
@@ -337,33 +341,33 @@ script 7 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	Hello. This is the 
-	World NetBattle
-	Association.
+	Olá. Sou da
+	Associação Mundial
+	de NetLuta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Upon your arrival in
-	Netopia,please
-	proceed to the
+	Após chegar na
+	Ameropa,siga rumo
+	à margem do rio,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	riverside where a
-	local representative
-	will meet you.
+	onde um
+	representante local
+	lhe receberá.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He will be able to
-	assist you until the
-	tournament begins.
+	Ele irá lhe ajudar
+	até o torneio
+	começar.
 	"""
 	keyWait
 		any = false
@@ -386,30 +390,31 @@ script 8 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	Thanks for helping
-	me out Lan,but don't
+	Valeu pela ajuda,
+	Lan,mas não vá
+	esperando que eu
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	expect me to
-	forfeit!
-	Jack into the toy
+	desista da luta!
+	Conecte-se no
+	urso de pelúcia
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	in Mayl's room
-	and I'll show you
+	no quarto da Mayl
+	e eu vou te mostrar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	just how well I can
-	fight!
+	como se luta de
+	verdade!
 	"""
 	keyWait
 		any = false
@@ -465,38 +470,37 @@ script 10 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	Long time no see,
+	Há quanto tempo,
 	Lan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looks like
-	we're facing each
-	other next match.
+	Parece que vamos
+	nos enfrentar na
+	próxima luta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	May the best one
-	win!
+	Que vença o melhor!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Say,I'm selling
-	sandwiches at ACDC
-	Park.
+	Ah,e eu estou
+	vendendo sanduíches
+	no Parque ACDC.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why don't you
-	come on by?
+	Por que não passa
+	aqui?
 	"""
 	keyWait
 		any = false
@@ -515,40 +519,40 @@ script 11 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	Lan,how did it go
-	at the stadium? Did
-	you get hurt? I was
+	Lan,como foi lá no
+	estádio? Você se
+	machucou? Eu
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	able to convince
-	everyone over here,
-	but after sending
+	consegui convencer
+	todo mundo aqui,
+	mas depois de mandar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WoodMan to the Park
-	Area,I lost contact
-	with him!
+	o WoodMan pra Área
+	Parque,perdi contato
+	com ele!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh,I don't know
-	what I should
+	Ah,não sei o que
+	fazer...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	do⋯Lan,could you
-	please help?
-	I'm at Castillo now.
+	Lan,pode me ajudar?
+	Estou no Castillo
+	agora.
 	"""
 	keyWait
 		any = false
@@ -567,86 +571,87 @@ script 12 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	I'm counting on you
-	to look after Mom
-	while I'm away.
+	Conto com você pra
+	cuidar da sua mãe
+	até eu voltar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm giving you back
-	the NaviCust Mom
-	took from you so
+	Estou devolvendo o
+	CustNavi que sua
+	mãe tirou de você.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you'd stay out of
-	trouble.
+	Sei que ela só
+	queria te manter
+	longe do perigo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You remember how to
-	use it,right?
+	Você lembra como se
+	usa,né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll explain it
-	again just in case⋯
+	Vou explicar de novo
+	só por precaução...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can add programs
-	to MegaMan by
-	installing and
+	Você pode colocar
+	programas no MegaMan
+	ao instalar e
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	activating this
-	NaviCust in your
-	PET.
+	executar este
+	Customizador de
+	Navi no seu PET.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan will become
-	stronger depending
-	on your programming
+	MegaMan ficará mais
+	forte dependendo das
+	suas habilidades
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	skill! I'm attaching
-	a couple of programs
-	for you to practice
+	de programação! Em
+	anexo tem uns pro-
+	gramas pra você
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	with. Also,you may
-	have to switch
-	folders depending
+	praticar. Ah,e você
+	pode ter que trocar
+	de pasta dependendo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	on your custom
-	settings,so I'll
-	attach this as well.
+	do que instalar,
+	então,vou mandar
+	isto também.
 	"""
 	keyWait
 		any = false
@@ -673,9 +678,9 @@ script 12 mmbn4 {
 		slot = 2
 		folder = 3
 	"""
-	Lan got:
-	NaviCustomizer and
-	NaviCust programs
+	Lan recebeu:
+	Customizador de Navi
+	e os programas
 	"""
 	keyWait
 		any = false
@@ -703,7 +708,7 @@ script 12 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Lan also got:
+	Lan também recebeu:
 	"
 	"""
 	printFolderName
@@ -731,14 +736,14 @@ script 13 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	Lan,there's smoke
-	coming out of your
-	PC!
+	Lan,tem fumaça
+	saindo do seu
+	computador!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What should I do?!"
+	"O que eu faço?!"
 	keyWait
 		any = false
 	end
@@ -756,7 +761,7 @@ script 14 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	Have you put on the
+	Já calçou as
 	"
 	"""
 	printItem
@@ -767,22 +772,22 @@ script 14 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	If you have,then
-	jack into the
+	Então,conecte-se no
+	computador da Deusa
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	GoddessComp by the
-	riverside! I'll show
+	à beira do rio!
+	Vou mostrar pra você
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you just how scary
-	FootBomb can be!
+	o quanto o FuteBomba
+	pode ser assustador!
 	"""
 	keyWait
 		any = false
@@ -801,29 +806,29 @@ script 15 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	You seem to be in a
-	bind⋯If you want,I
-	can initiate you in
+	Você parece estar
+	num aperto... Se
+	quiser,posso te
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the secret arts of
-	curry.
+	iniciar nas artes
+	secretas do curry.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm waiting for you
-	in Park Area2's
-	Cooking Dojo!
+	Espero por você no
+	Dojô Culinário na
+	Área Parque 2!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"-Cooking Master"
+	"Mestre-Cuca Mestre"
 	keyWait
 		any = false
 	end
@@ -841,56 +846,56 @@ script 16 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	Panel destruction
-	chips such as
-	CrakOut serve as
+	Chips de destruição
+	de quadros,como o
+	CrakOut,servem como
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	sacrifices for Guts-
-	Soul. While united
-	with GutsMan,panel
+	sacrifícios para a
+	AlmaGuts. Uma vez
+	unido com GutsMan,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	destruction chips
-	and [bracket1]None[bracket2] element
-	chips deal +30
+	chips como ele e do
+	elemento [bracket1]Nada[bracket2]
+	causam +30 de dano.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	damage. Hold+release
-	the B Button to
-	GutPunch the square
+	Segure e depois
+	solte "B" pra usar
+	GutPunch no quadro
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	in front of you,and
-	repeatedly press it
-	to unleash the GutMG
+	à sua frente,e o
+	aperte repeditamente
+	para disparar a
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	in an invincible
-	state!
+	GutsMetralhadora
+	com invencibilidade!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	GutsSoul has both
-	guts and strategy!
-	Good luck!
+	A AlmaGuts tem força
+	e estratégia juntos!
+	Boa sorte!
 	"""
 	keyWait
 		any = false
@@ -909,61 +914,61 @@ script 17 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	[bracket1]Fire[bracket2] chips serve
-	as sacrifices for
-	FireSoul. While
+	Chips de [bracket1]Fogo[bracket2] ser-
+	vem como sacrifícios
+	para a FireAlma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	united,MegaMan's
-	element changes to
-	[bracket1]Fire[bracket2],
+	Com a união,o ele-
+	mento do MegaMan
+	vira [bracket1]Fogo[bracket2],
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so he takes
-	double damage from
-	[bracket1]Water[bracket2] attacks.
+	então,ele leva dano
+	dobrado de ataques
+	de [bracket1]Água[bracket2].
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Some panels turn to
-	grass,and hold+
-	releasing the A
+	Alguns quadros viram
+	grama,e ao segurar e
+	soltar "A" na hora
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Button using [bracket1]Fire[bracket2]
-	chips launches a
-	FireArm.
+	de usar chips de
+	[bracket1]Fire[bracket2],você lança
+	um FireArm.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hold+ release the B
-	Button to shoot a
-	flamethrower
+	Segure e solte "B"
+	para disparar um
+	lança-chamas
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"extending 3 squares!"
+	"que se estende por\n3 quadros!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	FireSoul is a hot
-	one to handle!
-	Good luck!
+	A FireAlma é brasa,
+	mora!
+	Boa sorte!
 	"""
 	keyWait
 		any = false
@@ -982,55 +987,56 @@ script 18 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	Recovery chips serve
-	as sacrifices for
-	RollSoul. Hold+
+	Chips de cura servem
+	como sacrifício para
+	a RollAlma. Segure e
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	release the B Button
-	to shoot a RollArrow
-	that destroys
+	solte "B" pra atirar
+	uma RollArrow,que
+	destrói chips do
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	opponent chips! Each
-	time you use a chip
-	while united
+	adversário! Sempre
+	que você usa um chip
+	durante a união,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan's HPs will
-	recover 10% of their
-	max value!
+	o MegaMan restaura
+	10% de seus PV
+	máximos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is
-	particularly useful
+	Isso é especialmente
+	útil quando você
+	pode usar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	when you can select
-	a lot of chips.
+	vários chips em
+	conjunto.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Healing and strategy
-	coexist harmoniously
-	in RollSoul.
+	Cura e estratégia
+	coexistem harmonio-
+	samente na RollAlma.
 	"""
 	keyWait
 		any = false
@@ -1053,72 +1059,73 @@ script 19 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	Wind chips such as
-	AirShot serve as
-	sacrifices for Wind-
+	Chips de Vento,como
+	AirShot,servem de
+	sacrifício para a
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Soul. While united
-	a NrthWind blows
-	away an opponents'
+	WindAlma. Na união,
+	um NrthWind desfaz
+	as barreiras e
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	barriers and auras!
-	You can travel over
-	cracked panels and
+	auras dos oponentes!
+	Você também anda so-
+	bre quadros rachados
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	holes,and fan wind
-	into your enemy
-	territory,making
+	e buracos,e assopra
+	vento na área
+	inimiga,facilitando
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	close-range attacks
-	easy to use. Also,
-	all Wind-type chips
+	o uso de ataques a
+	curta distância. E
+	todos os chips de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	cause +10 damage!
-	Press the B Button
-	to blow away enemies
+	Vento causam +10 de
+	dano! Aperte "B"
+	para sobre os alvos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	with an AirShot,and
-	hold+release it to
-	knock enemies to the
+	com um AirShot,e
+	segure e solte "B"
+	pra jogar os alvos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	last row with an
-	WindRack. Control
-	the wind and conquer
+	na última coluna com
+	WindRack. Controle
+	os ventos e domine
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the battle with
-	WindSoul. Good luck!
+	suas batalhas com
+	a WindAlma.
+	Boa sorte!
 	"""
 	keyWait
 		any = false
@@ -1137,56 +1144,56 @@ script 20 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	[bracket1]Elec[bracket2] chips such as
-	Thunder1 serve as 
-	sacrifices
+	Chips [bracket1]Elét[bracket2],como
+	Thunder1,servem como 
+	sacrifícios para a
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	for ThunSoul.
-	While united,
-	MegaMan's changes
+	ThunAlma. Durante a
+	união,o elemento de
+	MegaMan se torna
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to [bracket1]Elec[bracket2],
-	so he takes double
-	damage from [bracket1]Wood[bracket2].
+	[bracket1]Elét[bracket2],então ele
+	leva dano dobrado de
+	golpes de [bracket1]Mdra[bracket2].
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	However,[bracket1]Elec[bracket2] and
-	[bracket1]None[bracket2] chips cause
-	paralysis!
+	Porém,chips [bracket1]Elét[bracket2]
+	e de [bracket1]Nada[bracket2] causam
+	paralisia!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hold+release
-	the B Button
+	Segure e solte o
+	botão "B"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to paralyze
-	opponents with
+	para paralisar seus
+	oponentes com um
 	ZapRing!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Back-to-back attacks
-	are what ThunSoul's
-	all about!
+	Ataques seguidos sem
+	parar são a alma da
+	ThunAlma!
 	"""
 	keyWait
 		any = false
@@ -1209,64 +1216,65 @@ script 21 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	Invisible-type chips
-	such as Invis serve
-	as sacrifices for
+	Chips do tipo invi-
+	síveis,como Invis,
+	são os sacrifícios
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SrchSoul. Using
-	SrchSoul dispels
-	invisible and PopUp
+	para a SrchAlma.
+	Com ela,você cancela
+	estados invisíveis e
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	states of opponents.
-	Hold+release the B
-	Button to fire the
+	de PopUp dos alvos.
+	Segure e solte "B"
+	para disparar a
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ScopeGun,which can
-	shoot from anywhere.
+	ScopeGun,que pode
+	atacar de qualquer
+	lugar do campo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can also
-	shuffle and switch
-	chips to select on
+	Também pode reemba-
+	ralhar e trocar
+	chips selecionados
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the Custom Screen,
-	increasing your
-	chance to use
+	na Tela Custom,
+	aumentando as chan-
+	de usar Programas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Advances! However,
-	you can only shuffle
-	chips up to 3 times
+	Avançados! Mas você
+	só pode embaralhar
+	chips até 3 vezes
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	per selection.
-	Good luck using
-	SrchSoul technique!
+	por seleção. Boa
+	sorte desfrutando da
+	SrchAlma!
 	"""
 	keyWait
 		any = false
@@ -1285,73 +1293,72 @@ script 22 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	[bracket1]Aqua[bracket2] chips such as
-	Bubbler serve as
-	sacrifices for Aqua-
+	Chips de [bracket1]Água[bracket2],como
+	Bubbler,servem como
+	sacrifícios pra
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Soul. While united
-	MegaMan changes to
-	[bracket1]Aqua[bracket2]. He won't
+	AquaAlma. Na união,
+	MegaMan vira um Navi
+	de [bracket1]Água[bracket2]. Não
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	slip on ice,but
-	takes double damage
-	from [bracket1]Elec[bracket2] attacks.
+	escorrega em gelo,
+	mas leva o dobro de
+	dano de [bracket1]Elét[bracket2].
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hold+release the B
-	Button to shoot and
-	create AquaShot that
+	Segure e solte "B"
+	para disparar o
+	AquaShot,que cria
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	creates bubbles on a
-	rear square upon a
-	successful hit.
+	bolhas no quadro
+	traseiro quando
+	atinge.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hold+release the A
-	Button using [bracket1]Aqua[bracket2]
-	chips to do double
+	Segure e solte "A"
+	ao usar um chip de
+	[bracket1]Aqua[bracket2] para dobrar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	damage except for
-	chips that stop
-	time. Be sure to
+	o dano,exceto com
+	chips que "param o
+	tempo". Encha sua
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	stock plenty of
-	[bracket1]Aqua[bracket2] chips in your
-	folder!
+	pasta de chips de
+	[bracket1]Água[bracket2] de antemão!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	AquaSoul is a
-	specialist at
-	water warfare.
+	A AquaAlma é sem
+	igual para batalhas
+	marinhas.
 	"""
 	keyWait
 		any = false
@@ -1374,63 +1381,65 @@ script 23 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	Bonus point chips
-	such as Atk+10 serve
-	as sacrifices for
+	Chips de reforço,
+	como Atk+10,são os
+	sacrifícios para a
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NumSoul. While
-	united,MegaMan's
-	[bracket1]None[bracket2] element chips
+	NumAlma. Na união,
+	seus chips de
+	elemento [bracket1]Nada[bracket2]
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	inflict +10 damage.
-	Chips with multiple
+	causam +10 de dano.
+	Chips de ataques
+	múltiplos são
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	attacks are
-	particularly strong!
-	Hold+release the B
+	especialmente
+	fortalecidos aqui!
+	Segure e solte "B"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Button to throw a
-	DieBomb 3 squares
-	ahead. Its attack
+	para lançar uma
+	DieBomb a 3 quadros
+	de você. O dano
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	depends on the
-	number it lands on!
-	You can also
+	depende do número
+	que sai no dado! E
+	você também pode
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	select 10 chips from
-	the Custom Screen!
+	selecionar de 10
+	chips na Tela de
+	Customização!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Utilize the power of
-	numbers with
-	NumSoul! Good luck!
+	Utilize o poder dos
+	números com a
+	NumAlma! Boa sorte!
 	"""
 	keyWait
 		any = false
@@ -1449,87 +1458,88 @@ script 24 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	[bracket1]Wood[bracket2] chips such as
-	Boomer1 serve as
-	sacrifices for Wood-
+	Chips de [bracket1]Mdra[bracket2],
+	como Boomer1,servem
+	de sacríficio para a
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Soul. While united
-	MegaMan becomes
-	[bracket1]Wood[bracket2].
+	WoodAlma. Na união,
+	MegaMan se torna um
+	Navi de [bracket1]Mdra[bracket2].
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Grass heals his HP,
-	but [bracket1]Fire[bracket2] attacks
-	cause double damage.
+	A grama cura PV,
+	mas golpes de [bracket1]Fire[bracket2]
+	causam dano dobrado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hold+release
-	the B Button to fire
+	Segure e solte
+	o botão "B" para
+	lançar um Twister
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	a Twister 2 squares
-	ahead. Also,[bracket1]Wood[bracket2]
-	chips assume the
+	dois quadros à
+	frente. Chips de
+	[bracket1]Mdra[bracket2] também
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	attack strength of
-	[bracket1]None[bracket2] chips
-	selected immediately
+	adquirem a força de
+	ataque dos chips
+	[bracket1]Nada[bracket2] que são
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	afterwards.
-	Choose this along
-	with [bracket1]None[bracket2] chips
+	selecionados em
+	seguida. Combine is-
+	so com chips [bracket1]None[bracket2]
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to mount a powerful
-	offensive.
+	para montar uma
+	ofensiva potente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Moreover you gain
-	immunity to
-	paralysis,confusion
+	Você também fica
+	imune a paralisia,
+	confusão e demais
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and similar effects.
-	Good luck harnessing
-	nature's kindness
+	efeitos similares.
+	Boa sorte encarnando
+	a ternura da
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and channeling her
-	ferocity with
-	WoodSoul!
+	natureza e canali-
+	zando a ferocidade
+	dela com a WoodAlma!
 	"""
 	keyWait
 		any = false
@@ -1552,57 +1562,57 @@ script 25 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	Break-type chips
-	such as AirHoc1
-	serve as sacrifices
+	Chips de quebra
+	como AirHoc1 servem
+	de sacríficio para a
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	for MetlSoul. While
-	united,MegaMan's
-	Buster acts as a
+	MetlAlma. Na união,
+	o atirador do Mega-
+	Man age como um
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BrakBust,breaking
-	through guards. Hold
-	+release the B 
+	BrakBust,perfurando
+	defesas. Segure e
+	solte "B" para 
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Button to pound the
-	square in front of
-	you with a MetlFist!
+	esmagar o quadro à
+	sua frente com um
+	MetlFist!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Break and [bracket1]None[bracket2]chip
-	deal double damage
-	when you hold+
+	Chips de Quebra e de
+	[bracket1]Nada[bracket2] causam
+	dano dobrado quando
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	release the A Button
-	except for chips
-	that stop time.
+	você segura e solta
+	"A",menos os chips
+	que "param o tempo".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MetlSoul is a
-	epitomy of male
-	might Good luck!
+	A MetlAlma é o ápice
+	da força masculina!
+	Boa sorte!
 	"""
 	keyWait
 		any = false
@@ -1621,48 +1631,49 @@ script 26 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	Ornamental chips
-	such as RockCube
-	serve as sacrifices
+	Chips ornamentais,
+	como,RockCube,servem
+	como sacrifícios
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	for JunkSoul. When
-	united,MegaMan
-	causes enemies to
+	para a JunkAlma. Na
+	união,MegaMan deixa
+	seus inimigos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	be confused! Hold+
-	release the B Button
-	to launch a
+	confusos! Segure e
+	solte "B" para
+	lançar um Poltrgst!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Poltrgst! Also,you
-	can select a "Junk-
-	Chip" that's already
+	E você pode seleci-
+	onar um "JunkChip"
+	que já tenha sido
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	been used during the
-	battle in the Custom
+	usado durante a luta
+	na Tela de
+	Customização!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Screen! JunkSoul
-	both destroys and
-	recycles! Good luck!
+	A JunkAlma destrói
+	e recicla!
+	Boa sorte!
 	"""
 	keyWait
 		any = false
@@ -1681,56 +1692,57 @@ script 27 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	Sword chips such as
-	WideSwrd serve as
-	sacrifices for
+	Chips de espada,
+	como WideSwrd,são
+	os sacríficios pra
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ProtSoul. While
-	united,you can
-	reflect back attacks
+	ProtAlma. Na união,
+	você pode refletir
+	ataques apertando
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	with B+Left! Hold+
-	release the B Button
-	to use a WideSwrd!
+	B+Esquerda! Segure e
+	solte "B" para usar
+	uma WideSwrd!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hold+release the A
-	Button using Sword
-	chips to charge 2
+	Segure e solte "A"
+	ao usar chips de
+	Espada para avançar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	squares ahead and
-	cut for double
-	damage,
+	dois quadros e
+	cortar com dano
+	dobrado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	except for chips
-	that stop time.
+	Aviso: isso não
+	funciona com chips
+	que "param o tempo".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ProtSoul offers
-	superior offense and
-	defense! Good luck!
+	A ProtAlma fornece
+	ataque e defesa su-
+	periores! Boa sorte!
 	"""
 	keyWait
 		any = false
@@ -1749,38 +1761,40 @@ script 28 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	I have some news⋯
-	ProtoMan went into
+	Tenho notícias...
+	O ProtoMan entrou na
+	Undernet.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the Undernet. As
-	you probably know,
-	the entrance to the
+	Como já deve saber,
+	a entrada para a
+	Undernet fica nos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Undernet is in the
-	back of Sharo Area.
-	If a DarkChip is
+	fundos da Área
+	Sharo. Se um Chip
+	das Trevas está
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	involved,then Nebula
-	most likely has a
+	envolvido,então é
+	provável que haja
+	dedo da Nebula
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	hand in this.
-	Be on guard!
+	nisso.
+	Não baixe a guarda!
 	"""
 	keyWait
 		any = false
@@ -1799,47 +1813,49 @@ script 29 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	The sudden blizzard
-	menacing Netopia
+	Acredita-se que a
+	nevasca repentina
+	que ameaça a Ameropa
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	is thought to have
-	been caused by a
-	cold air mass from
+	tenha sido causada
+	por uma massa de ar
+	frio advinda de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sharo. What caused
-	the air mass to come
-	to Netopia is as yet
+	Sharo. Ainda não se
+	sabe o que levou a
+	massa para a
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	unknown. The Sharo
-	Space Center weather
-	satellite
+	Ameropa. O satélite
+	do Centro Espacial
+	de Sharo deveria
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	purportedly manages
-	the region's weather
+	administrar o clima
+	da região,mas
+	autoridades
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but officials
-	believe it may be
-	malfunctioning.
+	acreditam que ele
+	está com mau
+	funcionamento.
 	"""
 	keyWait
 		any = false
@@ -1858,9 +1874,9 @@ script 30 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	Go find Roll!
-	Here,this may come
-	in handy!
+	Encontra a Roll!
+	Toma,isto aqui pode
+	ajudar!
 	"""
 	keyWait
 		any = false
@@ -1901,23 +1917,24 @@ script 31 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	I heard Roll made
-	it back all right.
+	Fiquei sabendo que a
+	Roll voltou sã e
+	salva.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I knew you could do
-	it,Lan!
+	Sabia que cê era
+	capaz,Lan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here's a little
-	somethin' to show
-	my respect!
+	Toma aqui uma
+	amostra da minha
+	admiração!
 	"""
 	keyWait
 		any = false
@@ -1958,45 +1975,46 @@ script 32 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	To our esteemed
-	customers:
+	Prezados clientes:
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thank you for your
-	continued support.
+	muito obrigado por
+	seu contínuo apoio.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	On behalf of
-	everyone at Jomon
-	Elec,we are sending
+	Em nome de todos na
+	Jomon Eletrônicos,
+	estamos mandando
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you our HP Banner as
-	a token of our
-	appreciation.
+	o Banner da nossa
+	página como símbolo
+	da nossa gratidão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We will continue to
-	strive to be closer
+	Continuaremos a nos
+	empenhar para nos
+	mantermos próximos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to everyone and to
-	meet your needs.
+	a todos vocês e
+	satisfazer suas
+	necessidades.
 	"""
 	keyWait
 		any = false
@@ -2042,32 +2060,33 @@ script 33 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	Thank you for
-	staying at our hotel
-	the other day.
+	Obrigado por sua
+	estadia em nosso
+	hotel.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We would like to
-	present participants
-	in the Red Sun
+	Gostaríamos de pre-
+	sentear os partici-
+	pantes do Torneio
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Tournament with our
-	hotel HP Banner.
-	Please visit us
+	Sol Vermelho com o
+	Banner da página do
+	nosso Hotel.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	again on your next
-	trip to Netopia!
+	Esperamos vê-lo de
+	novo em sua próxima
+	visita à Ameropa!
 	"""
 	keyWait
 		any = false
@@ -2110,39 +2129,41 @@ script 50 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	Hello. This is the
-	Electopia NetBattle
-	Association. We are
+	Olá. Sou da Associ-
+	ação de NetLuta de
+	Ni-Hon.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	pleased to announce
-	our hosting of the
+	É com imenso prazer
+	que anunciamos que
+	sediaremos o Torneio
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hawk Tournament,to
-	determine the
-	strongest NetBattler
+	Águia,para determi-
+	nar quem é o NetLu-
+	tador mais forte de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	in Electopia! We 
-	invite you to enter,
-	Lan. We will contact
+	Ni-Hon! Convidamos
+	você a participar,
+	Lan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you with details at
-	a later date.
+	Entraremos em
+	contato futuramente
+	com mais detalhes.
 	"""
 	keyWait
 		any = false
@@ -2161,32 +2182,33 @@ script 51 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	Thank you for
-	staying at our hotel
-	the other day.
+	Obrigado por sua
+	estadia em nosso
+	hotel.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We would like to
-	present participants
-	in the Blue Moon
+	Gostaríamos de pre-
+	sentear os partici-
+	pantes do Torneio
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Tournament with our
-	hotel HP Banner.
-	Please visit us
+	Lua Azul com o
+	Banner da página do
+	nosso Hotel.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	again on your next
-	trip to Netopia!
+	Esperamos vê-lo de
+	novo em sua próxima
+	visita à Ameropa!
 	"""
 	keyWait
 		any = false

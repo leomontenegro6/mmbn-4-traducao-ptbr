@@ -18,16 +18,16 @@ script 0 mmbn4 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Congratulations on
-	winning the Den
-	Battle Tournament!
+	Parabéns por vencer
+	o Torneio de Batalha
+	Den!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's good to have
-	such a strong rival!
+	É bom ter um rival
+	forte assim!
 	"""
 	keyWait
 		any = false
@@ -48,15 +48,15 @@ script 1 mmbn4 {
 		mugshot = Chisao
 	msgOpen
 	"""
-	Big bwuvver is
-	play with me!
+	O meu irmãozão tá
+	brincando comigo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Not gonna play
-	with you!
+	Ele não vai brincar
+	com você!
 	"""
 	keyWait
 		any = false
@@ -67,17 +67,16 @@ script 2 mmbn4 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Congratulations on
-	winning the City
-	Battle Tournament!
+	Parabéns por vencer
+	o Torneio de Batalha
+	da Cidade!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have to have a
-	strong rival if I'm
-	gonna have fun!!
+	É bom ter um rival
+	forte assim!
 	"""
 	keyWait
 		any = false
@@ -88,16 +87,17 @@ script 5 mmbn4 {
 		mugshot = Dex
 	msgOpen
 	"""
-	I think that I
-	heard a dog barking
-	somewhere⋯
+	Eu acho que ouvi um
+	cachorro latindo
+	agora...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Does someone around
-	here have a dog?
+	A gente tem algum
+	vizinho com
+	cachorro?
 	"""
 	keyWait
 		any = false
@@ -108,13 +108,13 @@ script 6 mmbn4 {
 		mugshot = Chisao
 	msgOpen
 	"""
-	Big bwuvver is
-	talking to ME!
+	O meu irmãozão tá
+	falando COMIGO!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Go 'way!"
+	"Vai embora!"
 	keyWait
 		any = false
 	end
@@ -123,22 +123,21 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Sorry,Lan⋯"
+	"Foi mal,Lan..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm taking Chisao
-	to a lunch buffet
-	today.
+	Eu vou levar o
+	Chisao pra almoçar
+	fora hoje.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Huh? You didn't come
-	to ask me out to
-	play?
+	Hã? Cê não veio me
+	chamar pra brincar?
 	"""
 	keyWait
 		any = false
@@ -149,13 +148,13 @@ script 11 mmbn4 {
 		mugshot = Chisao
 	msgOpen
 	"""
-	Today I'm going out
-	with big bwuvver!
+	Hoje eu vou sair com
+	meu irmãozão!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm happy!"
+	"Tô super feliz!"
 	keyWait
 		any = false
 	end
@@ -188,28 +187,27 @@ script 15 mmbn4 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Hey,Lan! So you'll
-	be in the Eagle
-	Tournament prelim?
+	Aí,Lan! Vai encarar
+	as preliminares do
+	Torneio Águia?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Huh? Me?"
+	"Hã? Eu?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nah,I'll pass
-	this time⋯
+	Não,eu vou ficar
+	fora dessa...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I need to spend
-	some time with
-	Chisao!
+	Preciso passar um
+	tempo com o Chisao!
 	"""
 	keyWait
 		any = false
@@ -243,9 +241,9 @@ script 16 mmbn4 {
 		mugshot = Chisao
 	msgOpen
 	"""
-	Big bwuvver would
-	win tournament!
-	⋯If he in it⋯
+	O meu irmãozão ia
+	vencer o "tôneio"...
+	... Se entrasse...
 	"""
 	keyWait
 		any = false
@@ -256,28 +254,27 @@ script 17 mmbn4 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Hey,Lan! So you'll
-	be in the Hawk
-	Tournament prelim?
+	Aí,Lan! Vai encarar
+	as preliminares do
+	Torneio Falcão?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Huh? Me?"
+	"Hã? Eu?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nah,I'll pass
-	this time⋯
+	Não,eu vou ficar
+	fora dessa...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I need to spend
-	some time with
-	Chisao!
+	Preciso passar um
+	tempo com o Chisao!
 	"""
 	keyWait
 		any = false
@@ -288,9 +285,9 @@ script 18 mmbn4 {
 		mugshot = Chisao
 	msgOpen
 	"""
-	Big bwuvver would
-	win tournament!
-	⋯If he in it⋯
+	O meu irmãozão ia
+	vencer o "tôneio"...
+	... Se entrasse...
 	"""
 	keyWait
 		any = false
@@ -301,16 +298,17 @@ script 20 mmbn4 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Hey! You made it
-	past the prelims!
-	Good for you,rival!
+	Aê! Cê passou nas
+	preliminares!
+	Boa,rival!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Good luck,Lan! I'm
-	rooting for you!
+	Boa sorte,Lan!
+	Tô torcendo por
+	você!
 	"""
 	keyWait
 		any = false
@@ -321,16 +319,17 @@ script 21 mmbn4 {
 		mugshot = Chisao
 	msgOpen
 	"""
-	Good luck!
-	Go for bwoke!
+	Boa "sote"!
+	Vai lá e pega o
+	ouro!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you not good,you
-	can't be big
-	bwuvver's wival!
+	Tem que ser forte
+	pra ser o rival
+	do meu irmãozão!
 	"""
 	keyWait
 		any = false
@@ -341,20 +340,19 @@ script 25 mmbn4 {
 		mugshot = Dex
 	msgOpen
 	"""
-	I'm starting to
-	teach Chisao about
-	NetBattle!
+	Eu tô começando a
+	ensinar o Chisao
+	sobre NetLutas!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"First! Never loose\n hope!\""
+	"\"Primeira lição:\n nunca perder a\n esperança!\""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯or something
-	like that⋯
+	... ou sei lá...
 	"""
 	keyWait
 		any = false
@@ -365,8 +363,9 @@ script 26 mmbn4 {
 		mugshot = Chisao
 	msgOpen
 	"""
-	"Never woose hope!"
-	Woger!
+	"Nunca perder a
+	'ispeança"!'"
+	Tá!
 	"""
 	keyWait
 		any = false
@@ -377,9 +376,9 @@ script 30 mmbn4 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Looks like you're
-	still in the
-	running,huh,Lan?
+	Parece que cê ainda
+	tá no páreo,hein,
+	Lan?
 	"""
 	keyWait
 		any = false
@@ -389,21 +388,21 @@ script 31 mmbn4 {
 	mugshotShow
 		mugshot = Chisao
 	msgOpen
-	"\"Know that you're\n the best!\""
+	"\"Saber que você é\n o melhor!\""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Dat's what big
-	bwuvver taught me!
+	Foi isso que o meu
+	irmãozão me ensinou!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Big bwuvver is da
-	best Battler in the
-	whoooole world!
+	Ele é o melhor
+	NetLutador do
+	muuuuundo todo!
 	"""
 	keyWait
 		any = false
@@ -414,15 +413,15 @@ script 35 mmbn4 {
 		mugshot = Dex
 	msgOpen
 	"""
-	The match is almost
-	here,Lan!
+	A luta tá chegando,
+	Lan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just do your best⋯
-	⋯and win!!
+	Luta com tudo...
+	e vence!!
 	"""
 	keyWait
 		any = false
@@ -432,18 +431,19 @@ script 36 mmbn4 {
 	mugshotShow
 		mugshot = Chisao
 	msgOpen
-	"\"Bwute force,not\n twicks,WINS!\""
+	"\"O que vence é\n força bruta,\n não truques!\""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's big bwuvver's
-	battle seekwet!
+	Esse é o "seguedo"
+	de luta do meu
+	irmãozão!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"He's sooo cool!"
+	"Ele é suuuper legal!"
 	keyWait
 		any = false
 	end

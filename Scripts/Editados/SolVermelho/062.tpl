@@ -43,7 +43,7 @@ script 2 mmbn4 {
 		arrowDistance = 3
 	textSpeed
 		delay = 0
-	"Going back!"
+	"Voltando!"
 	wait
 		frames = 60
 	end
@@ -60,9 +60,9 @@ script 3 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Our home,ACDC Town.
-	You shouldn't need
-	a description!
+	Nosso lar,o Bairro
+	ACDC. Preciso mesmo
+	descrever ele?
 	"""
 	waitHold
 }
@@ -78,9 +78,9 @@ script 4 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	ElecTown.
-	This area is full of
-	electrical stores.
+	EletroVila.
+	Área cheia de lojas
+	de eletrônicos.
 	"""
 	waitHold
 }
@@ -96,9 +96,9 @@ script 5 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	DenDome.
-	40000 people can
-	fit inside!
+	DenDomo.
+	Tem capacidade
+	pra 40000 pessoas!
 	"""
 	waitHold
 }
@@ -114,9 +114,9 @@ script 6 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Castillo. They say
-	the Palace was built
-	for a reason⋯
+	O Castillo. Dizem
+	que o Palácio tem um
+	propósito especial.
 	"""
 	waitHold
 }
@@ -132,9 +132,9 @@ script 7 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Den Airport.
-	The world's just
-	a flight away!
+	O Aeroporto Den.
+	O mundo,a só um
+	voo de distância!
 	"""
 	waitHold
 }
@@ -146,8 +146,8 @@ script 8 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	C'mon,that's our
-	country--Electopia!
+	Ah,vai! Esse é o
+	nosso país,Ni-Hon!
 	"""
 	waitHold
 }
@@ -159,9 +159,9 @@ script 9 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Netopia! It's
-	historic towns are
-	spectacular!
+	Ameropa! Suas
+	cidades históricas
+	são espetaculares!
 	"""
 	waitHold
 }
@@ -173,9 +173,9 @@ script 10 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	YumLand! Its ancient
-	ruins are preserved
-	even today!
+	Saborya! Suas ruínas
+	ancestrais seguem
+	preservadas!
 	"""
 	waitHold
 }
@@ -187,9 +187,9 @@ script 11 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	NetFrica! Famous for
-	its abundant natural
-	beauty!
+	Affriq! Famosa por
+	sua abundante beleza
+	natural!
 	"""
 	waitHold
 }
@@ -201,9 +201,9 @@ script 12 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Sharo! A frigid land
-	where snow falls all
-	year round!
+	Sharo! Uma terra
+	gelada na qual a
+	neve cai o ano todo!
 	"""
 	waitHold
 }
@@ -215,9 +215,9 @@ script 13 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	NAXA! The world's
-	foremost space
-	research center!
+	NAXA! O principal
+	centro de pesquisa
+	espacial do mundo!
 	"""
 	waitHold
 }
@@ -322,7 +322,7 @@ script 21 mmbn4 {
 		delay = 0
 	"""
 	Aeroporto Den. 
-	A passagem área de
+	A passagem aérea de
 	Ni-Hon para os céus.
 	"""
 	waitHold

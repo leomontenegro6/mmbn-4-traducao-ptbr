@@ -5,8 +5,7 @@ script 0 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	You guys won this
-	match!
+	Vocês venceram essa!
 	"""
 	keyWait
 		any = false
@@ -17,8 +16,7 @@ script 1 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	You guys won this
-	match.
+	Vocês venceram essa.
 	"""
 	keyWait
 		any = false
@@ -28,7 +26,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Tamako
 	msgOpen
-	"This match is a tie."
+	"Empatou."
 	keyWait
 		any = false
 	end
@@ -38,16 +36,16 @@ script 3 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	How pitiful. Did you
-	really expect to win
-	with that spirit?
+	Que triste. Espera
+	mesmo vencer com
+	esse espírito?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's go one more
-	round! Ready?!
+	Vamos mais uma!
+	Pronto?!
 	"""
 	keyWait
 		any = false
@@ -63,7 +61,7 @@ script 3 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Not yet!  "
+	"Não!  "
 	option
 		brackets = false
 		left = 0
@@ -72,7 +70,7 @@ script 3 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Ready!"
+	"Pronto!"
 	select
 		default = 1
 		noDelay = false
@@ -91,15 +89,16 @@ script 4 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	Oh well,I'll wait
-	just a little bit.
+	Ai,tudo bem.
+	Eu espero um
+	pouquinho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just don't try to
-	run away.
+	Só não vá tentar
+	fugir.
 	"""
 	keyWait
 		any = false
@@ -113,8 +112,8 @@ script 6 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	All right,one more
-	round! Ready?!
+	Certo,mais uma
+	rodada! Pronto?!
 	"""
 	keyWait
 		any = false
@@ -130,7 +129,7 @@ script 6 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Not yet!  "
+	"Não!  "
 	option
 		brackets = false
 		left = 0
@@ -139,7 +138,7 @@ script 6 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Ready!"
+	"Pronto!"
 	select
 		default = 1
 		noDelay = false
@@ -158,24 +157,24 @@ script 7 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	Well,I've seen what
-	you guys can do,
-	but that rock you
+	Bom,eu vi do que
+	vocês são capazes.
+	Mas essa pedra que
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	just broke would be
-	like cotton candy to
-	MetalMan.
+	você quebrou é
+	praticamente papel
+	pro MetalMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're just getting
-	started!
+	A gente só tá
+	começando!
 	"""
 	keyWait
 		any = false
@@ -183,15 +182,15 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	That's just what I'm
-	looking for!
+	É isso mesmo que eu
+	queria!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Tamako
-	"Are you ready then?"
+	"Pronto,então?"
 	keyWait
 		any = false
 	clearMsg
@@ -206,7 +205,7 @@ script 7 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Not yet  "
+	"Não  "
 	option
 		brackets = false
 		left = 0
@@ -215,7 +214,7 @@ script 7 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Bring it!"
+	"Manda!"
 	select
 		default = 1
 		noDelay = false
@@ -233,7 +232,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Tamako
 	msgOpen
-	"Bah,hurry up then!"
+	"Ah,não enrole\ndemais!"
 	keyWait
 		any = false
 	end
@@ -245,26 +244,27 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Tamako
 	msgOpen
-	"Hoho,great!"
+	"Ho ho,maravilha!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now this is worth
-	putting up an effort
-	for!
+	Agora,sim,vale a
+	pena dar tudo de
+	mim!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll show you what
-	MetalMan can do!
+	Vou te mostrar do
+	que o MetalMan é
+	capaz!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Are you ready?!"
+	"Pronto?!"
 	keyWait
 		any = false
 	clearMsg
@@ -279,7 +279,7 @@ script 10 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Nope!  "
+	"Não!  "
 	option
 		brackets = false
 		left = 0
@@ -288,7 +288,7 @@ script 10 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Yep!"
+	"Sim!"
 	select
 		default = 1
 		noDelay = false
@@ -307,9 +307,9 @@ script 11 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	There's not much
-	time before the
-	match! Hurry up!
+	Falta pouco pra
+	nossa luta!
+	Acelera aí!
 	"""
 	keyWait
 		any = false
@@ -327,8 +327,8 @@ script 13 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Round 1!
-	Ready⋯Go!
+	Primeira rodada!
+	Preparar... Vai!
 	"""
 	keyWait
 		any = false
@@ -339,16 +339,16 @@ script 14 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	Come on MetalMan,
-	you can do better
-	than that!
+	Vamos,MetalMan,
+	você faz melhor
+	que isso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Round 2!
-	Ready⋯Go!
+	Segunda rodada!
+	Preparar... Vai!
 	"""
 	keyWait
 		any = false
@@ -359,16 +359,16 @@ script 15 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	Almost time to
-	kick it into your
-	top gear,MetalMan!
+	Já tá na hora de
+	você ir com potência
+	total,MetalMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Round 3!
-	Ready⋯Go!
+	Terceira rodada!
+	Preparar... Vai!
 	"""
 	keyWait
 		any = false

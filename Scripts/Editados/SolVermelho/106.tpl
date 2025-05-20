@@ -67,7 +67,7 @@ script 3 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"\"E-TwrCo--2\n M--Pr-g\n 3-d ---- right\""
+	"\"C-U--tTor-2\nPr-g terc--ra\n ---- direita\""
 	keyWait
 		any = false
 	flagSet
@@ -204,7 +204,7 @@ script 15 mmbn4 {
 	msgOpen
 	"""
 	Tem alguma coisa
-	acima da árvore com
+	sobre a árvore com
 	formato de animal.
 	"""
 	keyWait

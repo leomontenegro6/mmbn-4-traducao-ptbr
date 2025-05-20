@@ -5,16 +5,16 @@ script 0 mmbn4 {
 		mugshot = Riki
 	msgOpen
 	"""
-	Hey,Lan! I can't
-	believe you saved
+	Oi,Lan! Não acredito
+	que você salvou o
 	Crusher!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't know how to
-	thank you!
+	Eu nem sei como te
+	agradecer!
 	"""
 	keyWait
 		any = false
@@ -27,9 +27,8 @@ script 1 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Heh,you're
-	completely back to
-	normal.
+	He,tô vendo que você
+	voltou ao normal.
 	"""
 	keyWait
 		any = false
@@ -41,22 +40,22 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Riki
 	msgOpen
-	"Muwahaha!!!"
+	"Ah ha ha ha!!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nothing scares me
-	when I got Crusher
-	here?!
+	Nada me assusta
+	quando eu tô com o
+	Crusher aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's go to the
-	castle and get this
-	match started!
+	Vamos logo pro
+	castelo pra nossa
+	luta!
 	"""
 	keyWait
 		any = false
@@ -67,7 +66,7 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotHide
 	msgOpen
-	"Wait,you!"
+	"Devagar aí!"
 	keyWait
 		any = false
 	end
@@ -77,9 +76,9 @@ script 4 mmbn4 {
 		mugshot = ShadyGuy
 	msgOpen
 	"""
-	Sorry boys,we're
-	gonna have to rub
-	you out here!
+	Foi mal,mas vamos
+	ter que passar o
+	cerol em vocês!
 	"""
 	keyWait
 		any = false
@@ -91,7 +90,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"No!"
+	"Ah!"
 	keyWait
 		any = false
 	clearMsg
@@ -103,16 +102,16 @@ script 6 mmbn4 {
 		mugshot = Riki
 	msgOpen
 	"""
-	Crusher told me all
-	about your plan to
-	get rid of the boss,
+	O Crusher me contou
+	o plano de vocês de
+	apagarem a chefe
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and take over the
-	organization!
+	e tomarem a
+	organização!
 	"""
 	keyWait
 		any = false
@@ -124,13 +123,14 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
 	msgOpen
-	"So you do know."
+	"Então,cê já tá\nsabendo..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now there's no way
-	we can let you live!
+	Agora que a gente
+	não pode te deixar
+	viver MESMO!
 	"""
 	keyWait
 		any = false
@@ -139,7 +139,7 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotHide
 	msgOpen
-	"Stop!"
+	"Parem!"
 	keyWait
 		any = false
 	end
@@ -148,7 +148,7 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
 	msgOpen
-	"B-Boss?"
+	"C-chefe?"
 	keyWait
 		any = false
 	clearMsg
@@ -160,17 +160,17 @@ script 10 mmbn4 {
 		mugshot = OldWomanAlt
 	msgOpen
 	"""
-	I never dreamed you
-	guys would hatch
-	such an outrageous
+	Nunca achei que vo-
+	cês bolariam um pla-
+	no absurdo desses.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	plan. You punks're
-	crazy if you think
-	you can take me out!
+	Estão loucos se
+	pensam que conseguem
+	me matar!
 	"""
 	keyWait
 		any = false
@@ -183,22 +183,22 @@ script 11 mmbn4 {
 		mugshot = ShadyGuy
 	msgOpen
 	"""
-	No! We'll have to
-	get rid of them all
-	now! Get 'em!!!
+	Tch! Vamos ter que
+	"se" livrar de todos
+	de uma vez! Vão!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Riki
-	"Boss!!!"
+	"Chefe!!!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Old Lady!"
+	"Senhora!"
 	keyWait
 		any = false
 	clearMsg
@@ -209,7 +209,7 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = OldWomanAlt
 	msgOpen
-	"Heh."
+	"He."
 	keyWait
 		any = false
 	end
@@ -219,9 +219,9 @@ script 13 mmbn4 {
 		mugshot = OldWomanAlt
 	msgOpen
 	"""
-	Don't think you can
-	get rid of me so
-	easily,punks.
+	Acharam mesmo que
+	podiam se livrar
+	de mim tão fácil?
 	"""
 	keyWait
 		any = false
@@ -233,7 +233,7 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wow!"
+	"Uau!"
 	keyWait
 		any = false
 	end
@@ -242,7 +242,7 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Riki
 	msgOpen
-	"B-Boss!!!"
+	"C-chefe!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -259,24 +259,24 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Riki
 	"""
-	Let me fight in the
-	tournament!
+	Me deixa lutar no
+	torneio!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't give up my
-	dream of having my
-	own bakery!
+	Não posso abrir mão
+	do meu sonho de
+	abrir minha padaria!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll pay you back
-	for taking care of
-	me,I promise!
+	Eu juro que pago a
+	senhora por cuidar
+	de mim!
 	"""
 	keyWait
 		any = false
@@ -296,7 +296,7 @@ script 16 mmbn4 {
 	msgOpen
 	"""
 	?!
-	Yes?!
+	Sim?!
 	"""
 	keyWait
 		any = false
@@ -309,15 +309,15 @@ script 17 mmbn4 {
 		mugshot = OldWomanAlt
 	msgOpen
 	"""
-	Hurry up,you'll
-	miss the match.
+	Vá logo. Ou vai
+	perder a sua luta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's about to start,
-	ain't it?
+	Ela já está pra
+	começar,não?
 	"""
 	keyWait
 		any = false
@@ -330,8 +330,8 @@ script 18 mmbn4 {
 		mugshot = Riki
 	msgOpen
 	"""
-	Really?!
-	Boss⋯
+	É mesmo?!
+	Chefe...
 	"""
 	keyWait
 		any = false
@@ -344,9 +344,9 @@ script 19 mmbn4 {
 		mugshot = OldWomanAlt
 	msgOpen
 	"""
-	Don't make me repeat
-	myself! Get outta
-	here!
+	Eu não vou falar de
+	novo! Some logo
+	daqui!
 	"""
 	keyWait
 		any = false
@@ -358,7 +358,7 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = Riki
 	msgOpen
-	"Yes ma' am!"
+	"Sim,senhora!"
 	keyWait
 		any = false
 	end
@@ -368,9 +368,8 @@ script 21 mmbn4 {
 	mugshotShow
 		mugshot = OldWomanAlt
 	"""
-	Oh my,I'm not as
-	young as I used to
-	be.
+	Ah,realmente...
+	A velhice chegou.
 	"""
 	keyWait
 		any = false

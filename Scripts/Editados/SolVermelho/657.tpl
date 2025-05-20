@@ -4,11 +4,11 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Mami
 	msgOpen
-	"Roll,deleted!!!"
+	"Roll foi\nderrotada!!!"
 	keyWait
 		any = false
 	clearMsg
-	"Lan is the winner!"
+	"Lan Hikari é o\nvencedor!"
 	keyWait
 		any = false
 	end
@@ -17,7 +17,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"*pant* "
+	"Arf"
 	waitSkip
 		frames = 30
 	"."
@@ -29,7 +29,7 @@ script 1 mmbn4 {
 	"."
 	waitSkip
 		frames = 30
-	"I lost!"
+	"\nEu perdi!"
 	keyWait
 		any = false
 	clearMsg
@@ -40,36 +40,37 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wow,Mayl!"
+	"Caramba,Mayl!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't believe Roll
-	shot viruses out at
-	me!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	And she moved so
-	fast!
+	Eu não acredito que
+	a Roll jogou vírus
+	em mim!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Not many NetBattlers
-	could beat you!
+	E ela se moveu tão
+	rápido!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Still,why did you
-	decide to compete so
-	suddenly?
+	Não tem muito Net-
+	Lutador que seria
+	páreo pra vocês!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Mas,ainda assim,por
+	que cê decidiu com-
+	petir assim,do nada?
 	"""
 	keyWait
 		any = false
@@ -81,10 +82,10 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"It's a se-"
+	"Se-gre-"
 	waitSkip
 		frames = 30
-	"cret!"
+	"do!"
 	keyWait
 		any = false
 	clearMsg
@@ -96,8 +97,8 @@ script 4 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Heh!
-	You can tell me!
+	Ah!
+	Pode contar pra mim!
 	"""
 	keyWait
 		any = false
@@ -111,7 +112,7 @@ script 5 mmbn4 {
 	msgOpen
 	"""
 	Roll!
-	Are you okay?
+	Tudo bem com você?
 	"""
 	keyWait
 		any = false
@@ -123,19 +124,18 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Roll
 	msgOpen
-	"Yeah,I'm fine."
+	"É,eu tô bem."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wow,Mega!
-	You beat me all
-	the way!
+	Nossa,Mega!
+	Você acabou comigo!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Such power!"
+	"É tão forte!"
 	keyWait
 		any = false
 	clearMsg
@@ -154,16 +154,16 @@ script 7 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	And I could feel
-	your warm power,
-	Roll.
+	E eu senti a sua
+	força calorosa,Roll.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I communed with your
-	heartwarming soul!
+	E me liguei forte
+	à sua alma
+	enternecedora!
 	"""
 	keyWait
 		any = false
@@ -180,9 +180,8 @@ script 8 mmbn4 {
 		timer = 0
 		value = 254
 	"""
-	MegaMan's soul has
-	communed with
-	Roll's!
+	A Alma do MegaMan
+	se ligou à da Roll!
 	"""
 	keyWait
 		any = false
@@ -198,8 +197,8 @@ script 9 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You were really
-	strong,Roll!
+	Você foi fortona,
+	Roll!
 	"""
 	keyWait
 		any = false
@@ -212,9 +211,9 @@ script 10 mmbn4 {
 		mugshot = Roll
 	msgOpen
 	"""
-	What,you're calling
-	a girl "strong"? Is
-	that a compliment?
+	Chamando uma garota
+	de "fortona"? Era
+	pra ser um elogio?
 	"""
 	keyWait
 		any = false
@@ -222,25 +221,25 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Umm,hehe,no,well,
-	that's not what I
-	meant,hehe.
+	E-er,he he,não!
+	Digo,não foi o que
+	eu quis dizer,he he.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"That's a go"
+	"Essa é uma "
 	waitSkip
 		frames = 30
-	"o"
+	"co"
 	waitSkip
 		frames = 30
-	"o"
+	"is"
 	waitSkip
 		frames = 30
 	"""
-	d
-	thing.
+	a
+	boa.
 	"""
 	keyWait
 		any = false
@@ -248,29 +247,30 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Roll
 	"""
-	Erp!
-	It's a joke,I swear!
+	He!
+	Era brincadeira,
+	eu juro!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't care,I'm
-	just happy you
-	called Roll strong!
+	Eu não me importo.
+	Tô feliz que você
+	me acha forte!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Huh?"
+	"Hã?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Roll
-	"Tehe,never mind!"
+	"Hi hi,não esquenta!"
 	keyWait
 		any = false
 	clearMsg
@@ -282,21 +282,22 @@ script 11 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	And Lan is the
-	victor in the battle
-	of the students!
+	E Lan Hikari é o
+	vencedor dentre os
+	dois alunos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wanted the girl to
-	win,myself.
+	Pessoalmente,eu
+	queria que a
+	menina vencesse.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Too bad,Mayl!"
+	"Que pena,Mayl!"
 	keyWait
 		any = false
 	clearMsg
@@ -315,20 +316,20 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"What a fight!"
+	"Que luta!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You did great
-	against Lan!
+	Você enfrentou bem o
+	Lan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's go on some
-	rides!
+	Agora vamos conferir
+	umas atrações!
 	"""
 	keyWait
 		any = false
@@ -340,7 +341,7 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Sounds great!"
+	"Adorei a ideia!"
 	keyWait
 		any = false
 	end
@@ -350,9 +351,9 @@ script 15 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Lan,we're gonna
-	practice some more
-	and get better.
+	Lan,a gente ainda
+	vai treinar mais e
+	ficar mais fortes.
 	"""
 	keyWait
 		any = false
@@ -364,7 +365,7 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Oh,you want revenge?"
+	"Ah,cê quer revanche?"
 	keyWait
 		any = false
 	clearMsg
@@ -376,9 +377,8 @@ script 17 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Tee-hee! It's a
-	secret!
-	See yah later!
+	Hi hi! Talvez...
+	Até mais!
 	"""
 	keyWait
 		any = false
@@ -388,7 +388,7 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Let's go,Yai!"
+	"Vamos,Yai!"
 	keyWait
 		any = false
 	end
@@ -398,9 +398,9 @@ script 19 mmbn4 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Do you know why Mayl
-	participated in this
-	tournament?
+	Você sabe por que a
+	Mayl entrou neste
+	torneio?
 	"""
 	keyWait
 		any = false
@@ -413,8 +413,8 @@ script 20 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	No,she won't tell
-	me.
+	Não,ela não me
+	conta.
 	"""
 	keyWait
 		any = false
@@ -427,43 +427,45 @@ script 21 mmbn4 {
 		mugshot = Yai
 	msgOpen
 	"""
-	She said "somebody"
-	always protects her,
+	Ela disse que
+	"alguém" sempre
+	protege ela,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so she wants to be
-	able to protect that
-	"somebody" someday.
+	e que ela queria
+	poder proteger esse
+	"alguém" um dia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	She's been training
-	a whole lot to get
-	ready.
+	Ela treinou pra
+	caramba pra se
+	preparar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And she was all
-	excited about
-	showing that person.
+	E tava super animada
+	pra se provar pra
+	essa pessoa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Isn't that touching,
-	some-
+	Não acha isso
+	comovente,
+	al-
 	"""
 	waitSkip
 		frames = 30
-	"one?"
+	"guém?"
 	keyWait
 		any = false
 	clearMsg
@@ -476,7 +478,7 @@ script 22 mmbn4 {
 	msgOpen
 	"""
 	Yai!
-	What are you doing?!
+	Vem logo?!
 	"""
 	keyWait
 		any = false
@@ -487,8 +489,8 @@ script 23 mmbn4 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Sorry!
-	I'll be right there!
+	Desculpa!
+	Já vou!
 	"""
 	keyWait
 		any = false
@@ -499,8 +501,8 @@ script 24 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I see⋯
-	Now I get it.
+	Hm...
+	Entendi,agora.
 	"""
 	keyWait
 		any = false
@@ -513,8 +515,9 @@ script 25 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Still,Roll sure was
-	strong!
+	Bom,de qualquer
+	jeito,a Roll tava
+	forte mesmo!
 	"""
 	keyWait
 		any = false
@@ -526,7 +529,7 @@ script 26 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah!"
+	"É!"
 	keyWait
 		any = false
 	clearMsg
@@ -537,7 +540,7 @@ script 27 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"By the way⋯"
+	"Aliás..."
 	keyWait
 		any = false
 	clearMsg
@@ -548,7 +551,7 @@ script 28 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"What is it?"
+	"Que foi?"
 	keyWait
 		any = false
 	clearMsg
@@ -560,9 +563,9 @@ script 29 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Who is that "some-
-	body" Yai was
-	talking about?
+	Quem era esse
+	"alguém" de quem a
+	Yai tava falando?
 	"""
 	keyWait
 		any = false
@@ -574,7 +577,7 @@ script 30 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,you dunce!"
+	"Lan!\nVocê é MUITO tapado!"
 	keyWait
 		any = false
 	end

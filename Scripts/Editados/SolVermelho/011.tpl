@@ -11,9 +11,9 @@ script 0 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	A PERSONAL TERMINAL.
-	MEGAMAN IS INSTALLED
-	ON THIS PET
+	UM TERMINAL PESSOAL.
+	MEGAMAN ESTÁ
+	INSTALADO AQUI.
 	"""
 	waitHold
 }
@@ -28,9 +28,9 @@ script 1 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	HIGH-TECH EARPHONE
-	THAT CAN BLOCK OUT
-	OUTSIDE SOUNDS
+	FONES AVANÇADOS
+	QUE BLOQUEIAM
+	SONS EXTERNOS.
 	"""
 	waitHold
 }
@@ -45,8 +45,9 @@ script 2 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	REPAIR DATA,USED
-	FOR FIXING MR.PROGS
+	DADOS DE REPARO
+	USADOS PARA
+	CONSERTAR PROGS.
 	"""
 	waitHold
 }
@@ -61,9 +62,9 @@ script 3 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	A TYPE OF VIRUS THAT
-	USES SONIC WAVES TO
-	SCRAMBLE COMPUTERS
+	VÍRUS QUE USA ONDAS
+	SÔNICAS PARA DANIFI-
+	CAR MÁQUINAS.
 	"""
 	waitHold
 }
@@ -82,8 +83,8 @@ script 4 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	THIS CHIP HAS AN
-	AIR OF MALICIOUSNESS
+	ESTE CHIP TEM UMA
+	AURA DE MALDADE.
 	"""
 	waitHold
 }
@@ -98,9 +99,9 @@ script 5 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	THIS DATA CONTROLS
-	THE SONAR SYSTEM IN
-	THE ELTWRCOMP!
+	ESTES DADOS CONTRO-
+	LAM O SISTEMA SONAR
+	NO CPUELETTORR!
 	"""
 	waitHold
 }
@@ -115,9 +116,9 @@ script 6 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	THIS DATA CONTROLS
-	THE SONAR SYSTEM IN
-	THE ELTWRCOMP!
+	ESTES DADOS CONTRO-
+	LAM O SISTEMA SONAR
+	NO CPUELETTORR!
 	"""
 	waitHold
 }
@@ -132,9 +133,9 @@ script 7 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	A TROPHY FOR BEING
-	THE STRONGEST NET
-	BATTLER IN DENCITY
+	TROFÉU POR SER
+	O NETLUTADOR MAIS
+	FORTE DE DENCITY.
 	"""
 	waitHold
 }
@@ -149,9 +150,9 @@ script 8 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	LOOKS LIKE A KEY FOR
-	OPENING A DOOR ON
-	THE NET SOMEWHERE
+	PARECE SER UMA
+	CHAVE PARA ABRIR
+	UMA PORTA NA REDE.
 	"""
 	waitHold
 }
@@ -177,7 +178,7 @@ script 9 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"A memo"
+	"Um bilhete."
 	waitHold
 }
 script 10 mmbn4 {
@@ -191,13 +192,13 @@ script 10 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	"si ivan neerg eht
-	!eerht aera nwot ni"
+	an átse edrev ivan o
+	!sêrt aliv areá
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"THAT'S WHAT IT SAYS"
+	"É O QUE TEM ESCRITO!"
 	waitHold
 }
 script 11 mmbn4 {
@@ -211,18 +212,18 @@ script 11 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	Might try looking in
-	You             side
-	!flowers of vase the
+	Tente ver dentro de
+	Sabe,          um
+	!flores de montão
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Spiral."
+	"Espiral."
 	keyWait
 		any = false
 	clearMsg
-	"THAT'S WHAT IT SAYS"
+	"É O QUE TEM ESCRITO."
 	waitHold
 }
 script 12 mmbn4 {
@@ -235,7 +236,7 @@ script 12 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"DATA,LABELED \"1\""
+	"DADOS ROTULADOS \"1\"."
 	waitHold
 }
 script 13 mmbn4 {
@@ -248,7 +249,7 @@ script 13 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"DATA,LABELED \"2\""
+	"DADOS ROTULADOS \"2\"."
 	waitHold
 }
 script 14 mmbn4 {
@@ -261,7 +262,7 @@ script 14 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"DATA,LABELED \"3\""
+	"DADOS ROTULADOS \"3\"."
 	waitHold
 }
 script 15 mmbn4 {
@@ -274,7 +275,7 @@ script 15 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"DATA,LABELED \"4\""
+	"DADOS ROTULADOS \"4\"."
 	waitHold
 }
 script 16 mmbn4 {
@@ -287,7 +288,7 @@ script 16 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"DATA,LABELED \"5\""
+	"DADOS ROTULADOS \"5\"."
 	waitHold
 }
 script 17 mmbn4 {
@@ -301,8 +302,8 @@ script 17 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	AN ELECTRIC-POWERED
-	TOP.
+	PIÃO MOVIDO POR
+	ELETRICIDADE.
 	"""
 	waitHold
 }
@@ -317,8 +318,9 @@ script 18 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	NETBATTLER'S ASSOC.
-	SECRET TECHNIQUE 1
+	TÉCNICA SECRETA DA
+	ASSOCIAÇÃO DE
+	NETLUTA (1)
 	"""
 	waitHold
 }
@@ -333,8 +335,9 @@ script 19 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	NETBATTLER'S ASSOC.
-	SECRET TECHNIQUE 2
+	TÉCNICA SECRETA DA
+	ASSOCIAÇÃO DE
+	NETLUTA (2)
 	"""
 	waitHold
 }
@@ -349,8 +352,9 @@ script 20 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	NETBATTLER'S ASSOC.
-	SECRET TECHNIQUE 3
+	TÉCNICA SECRETA DA
+	ASSOCIAÇÃO DE
+	NETLUTA (3)
 	"""
 	waitHold
 }
@@ -365,8 +369,9 @@ script 21 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	NETBATTLER'S ASSOC.
-	SECRET TECHNIQUE 4
+	TÉCNICA SECRETA DA
+	ASSOCIAÇÃO DE
+	NETLUTA (4)
 	"""
 	waitHold
 }
@@ -381,8 +386,9 @@ script 22 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	IT'S DATA CONCERNING
-	METTAUR PHYSIOLOGY
+	DADOS ACERCA DA
+	FISIOLOGIA DOS
+	METTAURS.
 	"""
 	waitHold
 }
@@ -397,8 +403,8 @@ script 23 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	A RARE GOLDBUG
-	MALE
+	UM RARO BES-OURO
+	MACHO.
 	"""
 	waitHold
 }
@@ -413,8 +419,8 @@ script 24 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	A RARE GOLDBUG
-	FEMALE
+	UM RARO BES-OURO
+	FÊMEA.
 	"""
 	waitHold
 }
@@ -429,8 +435,9 @@ script 25 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	NETBATTLER'S ASSOC.
-	MEMBERSHIP
+	CARTÃO DE MEMBRO
+	DA ASSOCIAÇÃO DE
+	NETLUTA.
 	"""
 	waitHold
 }
@@ -445,9 +452,8 @@ script 26 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	AN ADMISSION
-	TICKET FOR 
-	CASTILLO
+	INGRESSO PARA O
+	CASTILLO.
 	"""
 	waitHold
 }
@@ -461,7 +467,7 @@ script 27 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"ICE CREAM. YUM!"
+	"SORVETE. UHMMM!"
 	waitHold
 }
 script 28 mmbn4 {
@@ -475,9 +481,9 @@ script 28 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	A TANK FOR BREATHING
-	EVEN WHEN UNDERNEATH
-	CYBER-WATER
+	TANQUE PARA RESPIRAR
+	DEBAIXO DE
+	CYBER-ÁGUA.
 	"""
 	waitHold
 }
@@ -492,9 +498,8 @@ script 29 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	IT'S A KEY FOR
-	GETTING INTO
-	SHUKO'S AREA!
+	CHAVE PARA ENTRAR NA
+	ÁREA DA SHUKO!
 	"""
 	waitHold
 }
@@ -509,8 +514,9 @@ script 30 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	THIS PROGRAM CHANGES
-	SUNLIGHT INTO ENERGY
+	ESTE PROGRAMA
+	CONVERTE LUZ SOLAR
+	EM ENERGIA.
 	"""
 	waitHold
 }
@@ -524,7 +530,7 @@ script 31 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"Trophy 2"
+	"Troféu 2"
 	waitHold
 }
 script 32 mmbn4 {
@@ -537,7 +543,7 @@ script 32 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"Trophy 3"
+	"Troféu 3"
 	waitHold
 }
 script 33 mmbn4 {
@@ -563,7 +569,7 @@ script 34 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"KeyDataA"
+	"DadoChvA"
 	waitHold
 }
 script 35 mmbn4 {
@@ -576,7 +582,7 @@ script 35 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"KeyDataB"
+	"DadoChvB"
 	waitHold
 }
 script 36 mmbn4 {
@@ -589,7 +595,7 @@ script 36 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"KeyDataC"
+	"DadoChvC"
 	waitHold
 }
 script 37 mmbn4 {
@@ -602,7 +608,7 @@ script 37 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"KeyDataD"
+	"DadoChvD"
 	waitHold
 }
 script 38 mmbn4 {
@@ -615,7 +621,7 @@ script 38 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"StorDat1"
+	"DadArmz1"
 	waitHold
 }
 script 39 mmbn4 {
@@ -628,7 +634,7 @@ script 39 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"StorDat2"
+	"DadArmz2"
 	waitHold
 }
 script 40 mmbn4 {
@@ -641,7 +647,7 @@ script 40 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"StorDat3"
+	"DadArmz3"
 	waitHold
 }
 script 41 mmbn4 {
@@ -654,7 +660,7 @@ script 41 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"StorDat4"
+	"DadArmz4"
 	waitHold
 }
 script 42 mmbn4 {
@@ -667,7 +673,7 @@ script 42 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"StorDat5"
+	"DadArmz5"
 	waitHold
 }
 script 43 mmbn4 {
@@ -680,7 +686,7 @@ script 43 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"StorDat6"
+	"DadArmz6"
 	waitHold
 }
 script 44 mmbn4 {
@@ -693,7 +699,7 @@ script 44 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"StorDat7"
+	"DadArmz7"
 	waitHold
 }
 script 45 mmbn4 {
@@ -706,7 +712,7 @@ script 45 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"StorDat8"
+	"DadArmz8"
 	waitHold
 }
 script 46 mmbn4 {
@@ -719,7 +725,7 @@ script 46 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"StorDat9"
+	"DadArmz9"
 	waitHold
 }
 script 47 mmbn4 {
@@ -732,7 +738,7 @@ script 47 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"StoDat10"
+	"DadAmz10"
 	waitHold
 }
 script 48 mmbn4 {
@@ -745,7 +751,7 @@ script 48 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"StoDat11"
+	"DadAmz11"
 	waitHold
 }
 script 49 mmbn4 {
@@ -758,7 +764,7 @@ script 49 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"StoDat12"
+	"DadAmz12"
 	waitHold
 }
 script 50 mmbn4 {
@@ -771,7 +777,7 @@ script 50 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"StoDat13"
+	"DadAmz13"
 	waitHold
 }
 script 51 mmbn4 {
@@ -784,7 +790,7 @@ script 51 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"StoDat14"
+	"DadAmz14"
 	waitHold
 }
 script 52 mmbn4 {
@@ -797,7 +803,7 @@ script 52 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"StoDat15"
+	"DadAmz15"
 	waitHold
 }
 script 53 mmbn4 {
@@ -810,7 +816,7 @@ script 53 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"StoDat16"
+	"DadAmz16"
 	waitHold
 }
 script 54 mmbn4 {
@@ -823,7 +829,7 @@ script 54 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"StoDat17"
+	"DadAmz17"
 	waitHold
 }
 script 55 mmbn4 {
@@ -836,7 +842,7 @@ script 55 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"StoDat18"
+	"DadAmz18"
 	waitHold
 }
 script 56 mmbn4 {
@@ -849,7 +855,7 @@ script 56 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"StoDat19"
+	"DadAmz19"
 	waitHold
 }
 script 57 mmbn4 {
@@ -862,7 +868,7 @@ script 57 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"StoDat20"
+	"DadAmz20"
 	waitHold
 }
 script 58 mmbn4 {
@@ -875,7 +881,7 @@ script 58 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"StoDat21"
+	"DadAmz21"
 	waitHold
 }
 script 59 mmbn4 {
@@ -888,7 +894,7 @@ script 59 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"StoDat22"
+	"DadAmz22"
 	waitHold
 }
 script 60 mmbn4 {
@@ -901,7 +907,7 @@ script 60 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"StoDat23"
+	"DadAmz23"
 	waitHold
 }
 script 61 mmbn4 {
@@ -914,7 +920,7 @@ script 61 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"StoDat24"
+	"DadAmz24"
 	waitHold
 }
 script 62 mmbn4 {
@@ -927,7 +933,7 @@ script 62 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"StoDat25"
+	"DadAmz25"
 	waitHold
 }
 script 63 mmbn4 {
@@ -940,7 +946,7 @@ script 63 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"StoDat26"
+	"DadAmz26"
 	waitHold
 }
 script 64 mmbn4 {
@@ -953,7 +959,7 @@ script 64 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"StoDat27"
+	"DadAmz27"
 	waitHold
 }
 script 65 mmbn4 {
@@ -966,7 +972,7 @@ script 65 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"StoDat28"
+	"DadAmz28"
 	waitHold
 }
 script 66 mmbn4 {
@@ -979,7 +985,7 @@ script 66 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"StoDat29"
+	"DadAmz29"
 	waitHold
 }
 script 67 mmbn4 {
@@ -992,7 +998,7 @@ script 67 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"StoDat30"
+	"DadAmz30"
 	waitHold
 }
 script 68 mmbn4 {
@@ -1005,7 +1011,7 @@ script 68 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"StoDat31"
+	"DadAmz31"
 	waitHold
 }
 script 69 mmbn4 {
@@ -1018,7 +1024,7 @@ script 69 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"StoDat32"
+	"DadAmz32"
 	waitHold
 }
 script 70 mmbn4 {
@@ -1031,7 +1037,7 @@ script 70 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"StoDat33"
+	"DadAmz33"
 	waitHold
 }
 script 71 mmbn4 {
@@ -1044,7 +1050,7 @@ script 71 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"StoDat34"
+	"DadAmz34"
 	waitHold
 }
 script 72 mmbn4 {
@@ -1057,7 +1063,7 @@ script 72 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"StoDat35"
+	"DadAmz35"
 	waitHold
 }
 script 73 mmbn4 {
@@ -1070,7 +1076,7 @@ script 73 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"StoDat36"
+	"DadAmz36"
 	waitHold
 }
 script 74 mmbn4 {
@@ -1083,7 +1089,7 @@ script 74 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"StoDat37"
+	"DadAmz37"
 	waitHold
 }
 script 75 mmbn4 {
@@ -1096,7 +1102,7 @@ script 75 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"StoDat38"
+	"DadAmz38"
 	waitHold
 }
 script 76 mmbn4 {
@@ -1109,7 +1115,7 @@ script 76 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"StoDat39"
+	"DadAmz39"
 	waitHold
 }
 script 77 mmbn4 {
@@ -1122,7 +1128,7 @@ script 77 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"StoDat40"
+	"DadAmz40"
 	waitHold
 }
 script 78 mmbn4 {
@@ -1135,7 +1141,7 @@ script 78 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"StoDat41"
+	"DadAmz41"
 	waitHold
 }
 script 79 mmbn4 {
@@ -1148,7 +1154,7 @@ script 79 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"C-Slider"
+	"DeslizaC"
 	waitHold
 }
 script 80 mmbn4 {
@@ -1162,9 +1168,9 @@ script 80 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	A KEY FOR OPENING
-	THE CYBER DOOR IN
-	TOWN2
+	CHAVE PARA ABRIR
+	A CYBER PORTA NA
+	ÁREA VILA 2.
 	"""
 	waitHold
 }
@@ -1178,7 +1184,7 @@ script 81 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"DadsNote"
+	"BilhtPai"
 	waitHold
 }
 script 82 mmbn4 {
@@ -1192,9 +1198,9 @@ script 82 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	A CODE FOR DELETING
-	THE RESIDUAL MEMORY
-	OF A NAVI
+	CÓDIGO PARA DELETAR
+	A MEMÓRIA RESIDUAL
+	DE UM NAVI.
 	"""
 	waitHold
 }
@@ -1209,9 +1215,9 @@ script 83 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	A CRYSTAL TO READ
-	THE RESIDUAL MEMORY
-	OF A NAVI
+	CRISTAL PARA LER A
+	MEMÓRIA RESIDUAL DE
+	UM NAVI.
 	"""
 	waitHold
 }
@@ -1225,7 +1231,7 @@ script 84 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"Airline Ticket"
+	"Passagem Aérea"
 	waitHold
 }
 script 85 mmbn4 {
@@ -1239,9 +1245,8 @@ script 85 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	A KEY FOR OPENING
-	A DOOR ON THE NET
-	SOMEWHERE
+	CHAVE PARA ABRIR UMA
+	PORTA NA REDE.
 	"""
 	waitHold
 }
@@ -1255,7 +1260,7 @@ script 86 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"BraveryM"
+	"PBravura"
 	waitHold
 }
 script 87 mmbn4 {
@@ -1268,7 +1273,7 @@ script 87 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"StrngthM"
+	"PForça"
 	waitHold
 }
 script 88 mmbn4 {
@@ -1281,7 +1286,7 @@ script 88 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"WisdomM"
+	"PSbdoria"
 	waitHold
 }
 script 89 mmbn4 {
@@ -1294,7 +1299,7 @@ script 89 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"KindnesM"
+	"PTernura"
 	waitHold
 }
 script 90 mmbn4 {
@@ -1308,15 +1313,15 @@ script 90 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	FLYERS FOR HIGSBY'S
-	WE'VE GOT 
+	PANFLETOS PARA A LOJA
+	DO HIGSBY. RESTAM 
 	"""
 	printBuffer
 		buffer = 1
 		minLength = 2
 		padZeros = false
 		padLeft = true
-	" LEFT."
+	"."
 	waitHold
 }
 script 91 mmbn4 {
@@ -1330,9 +1335,9 @@ script 91 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	A CYBER-KEY FOR 
-	HIGSBY'S WAREHOUSE
-	IN THE TOWN AREA.
+	CYBER-CHAVE PARA O
+	DEPÓSITO DO HIGSBY
+	NA ÁREA VILA.
 	"""
 	waitHold
 }
@@ -1347,9 +1352,9 @@ script 92 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	LILLY'S FLUTE. IT
-	HAS THE POWER TO
-	STOP WINDMAN
+	FLAUTA DA LILLY.
+	TEM O PODER DE
+	PARAR O WINDMAN.
 	"""
 	waitHold
 }
@@ -1364,9 +1369,9 @@ script 93 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	LIQUOR WITH THE
-	POWER TO DRIVE OUT
-	THE STRONGEST VIRUS
+	LICOR COM O PODER
+	DE ESPANTAR VÍRUS
+	FORTES.
 	"""
 	waitHold
 }
@@ -1381,9 +1386,9 @@ script 94 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	GOURMET BEEF JERKY.
-	TASTES BETTER THE
-	MORE YOU CHEW IT!
+	CARNE SECA GOURMET.
+	FICA MELHOR QUANTO
+	MAIS VOCÊ MORDE!
 	"""
 	waitHold
 }
@@ -1398,9 +1403,9 @@ script 95 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	DATA FROM VIDEOMAN.
-	IT CANCELS THE 
-	EFFECT OF "REWIND"
+	DADOS DO VIDEOMAN.
+	CANCELA O EFEITO
+	DE "REBOBINAR".
 	"""
 	waitHold
 }
@@ -1415,9 +1420,9 @@ script 96 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	DATA FROM VIDEOMAN.
-	IT CANCELS THE 
-	EFFECT OF "REWIND"
+	DADOS DO VIDEOMAN.
+	CANCELA O EFEITO
+	DE "REBOBINAR".
 	"""
 	waitHold
 }
@@ -1432,9 +1437,9 @@ script 97 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	DATA FROM VIDEOMAN.
-	IT CANCELS THE 
-	EFFECT OF "REWIND"
+	DADOS DO VIDEOMAN.
+	CANCELA O EFEITO
+	DE "REBOBINAR".
 	"""
 	waitHold
 }
@@ -1448,7 +1453,7 @@ script 98 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"BombShoes"
+	"ChtrBomb"
 	waitHold
 }
 script 99 mmbn4 {
@@ -1461,7 +1466,7 @@ script 99 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"Key to garbage area"
+	"Chave para área de\nlixo."
 	waitHold
 }
 script 100 mmbn4 {
@@ -1474,7 +1479,7 @@ script 100 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"Transmtr"
+	"Transmsr"
 	waitHold
 }
 script 101 mmbn4 {
@@ -1487,7 +1492,7 @@ script 101 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"License1"
+	"Licença1"
 	waitHold
 }
 script 102 mmbn4 {
@@ -1500,7 +1505,7 @@ script 102 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"License2"
+	"Licença2"
 	waitHold
 }
 script 103 mmbn4 {
@@ -1513,7 +1518,7 @@ script 103 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"License3"
+	"Licença3"
 	waitHold
 }
 script 104 mmbn4 {
@@ -1527,9 +1532,9 @@ script 104 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	A KEY TO THE DOOR
-	THAT LEADS TO
-	TAMAKO'S MASTER
+	CHAVE PARA PORTA
+	QUE LEVA AO MESTRE
+	DA TAMAKO
 	"""
 	waitHold
 }
@@ -1544,8 +1549,9 @@ script 105 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	A WATERGUN FOR
-	FIRES ON THE NET
+	PISTOLA D'ÁGUA
+	PARA APAGAR
+	CYBER-CHAMAS.
 	"""
 	waitHold
 }
@@ -1560,9 +1566,8 @@ script 106 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	A POWERFUL FIRE
-	BUSTER CANNON FOR
-	EXTINGUISHING FIRES
+	FORTE CANHÃO QUE
+	APAGA CYBER-CHAMAS.
 	"""
 	waitHold
 }
@@ -1576,7 +1581,7 @@ script 107 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"SHOVEL"
+	"PÁ."
 	waitHold
 }
 script 108 mmbn4 {
@@ -1590,9 +1595,9 @@ script 108 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	A PROGRAM IN THE
-	SHAPE OF A BOARD.
-	WHAT IS IT⋯?
+	PROGRAMA COM O FOR-
+	MATO DE UMA PRANCHA.
+	O QUE SERÁ...?
 	"""
 	waitHold
 }
@@ -1607,15 +1612,14 @@ script 109 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	A JET PROGRAM,
-	FOR PROPULSION
+	PROGRAMA DE JATO,
+	PARA PROPULSÃO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT ISN'T USEFUL
-	BY ITSELF
+	É INÚTIL SOZINHO.
 	"""
 	waitHold
 }
@@ -1630,15 +1634,14 @@ script 110 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	IT'S A PROGRAM
-	SHAPED LIKE WINGS
+	PROGRAMA COM O
+	FORMATO DE ASAS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT ISN'T USEFUL
-	BY ITSELF
+	É INÚTIL SOZINHO.
 	"""
 	waitHold
 }
@@ -1652,7 +1655,7 @@ script 111 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"KEY A"
+	"CHAVE A"
 	waitHold
 }
 script 112 mmbn4 {
@@ -1665,7 +1668,7 @@ script 112 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"KEY B"
+	"CHAVE B"
 	waitHold
 }
 script 113 mmbn4 {
@@ -1678,7 +1681,7 @@ script 113 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"KEY C"
+	"CHAVE C"
 	waitHold
 }
 script 114 mmbn4 {
@@ -1691,7 +1694,7 @@ script 114 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"KEY D"
+	"CHAVE D"
 	waitHold
 }
 script 115 mmbn4 {
@@ -1704,7 +1707,7 @@ script 115 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"KEY E"
+	"CHAVE E"
 	waitHold
 }
 script 116 mmbn4 {
@@ -1717,7 +1720,7 @@ script 116 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"KEY F"
+	"CHAVE F"
 	waitHold
 }
 script 117 mmbn4 {
@@ -1730,7 +1733,7 @@ script 117 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"CopyKey"
+	"ChvCópia"
 	waitHold
 }
 script 118 mmbn4 {
@@ -1743,7 +1746,7 @@ script 118 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"RecvrDrp"
+	"GotaCura"
 	waitHold
 }
 script 119 mmbn4 {
@@ -1756,7 +1759,7 @@ script 119 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"LionKey"
+	"ChavLeão"
 	waitHold
 }
 script 120 mmbn4 {
@@ -1769,7 +1772,7 @@ script 120 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"CursDoll"
+	"BnecAmal"
 	waitHold
 }
 script 121 mmbn4 {
@@ -1782,7 +1785,7 @@ script 121 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"Nebula Code"
+	"Código Nebula"
 	waitHold
 }
 script 122 mmbn4 {
@@ -1796,9 +1799,9 @@ script 122 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	A KEY TO A
-	COOKING DOJO ON
-	THE NET
+	CHAVE PARA UM
+	DOJÔ CULINÁRIO
+	NA REDE.
 	"""
 	waitHold
 }
@@ -1813,8 +1816,8 @@ script 123 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	AN INGREDIENT
-	FOR MAKING CURRY
+	UM INGREDIENTE
+	PARA FAZER CURRY.
 	"""
 	waitHold
 }
@@ -1828,7 +1831,7 @@ script 124 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"KindData"
+	"DadoGntl"
 	waitHold
 }
 script 125 mmbn4 {
@@ -1842,9 +1845,9 @@ script 125 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	TEXT WITH THE CODE
-	FOR CONNECTING TO
-	JOMON ELEC'S PAGE
+	CÓDIGO PARA ACESSAR
+	A PÁGINA DA JOMON
+	ELETRÔNICOS.
 	"""
 	waitHold
 }
@@ -1859,16 +1862,16 @@ script 128 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	YOU CAN NOW
-	USE L/R BUTTON TO
-	ROTATE WHITE 
+	AGORA PODE USAR
+	"L""/"R" PARA
+	ROTACIONAR PEÇAS
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PARTS IN THE
-	NAVICUS SCREEN!
+	BRANCAS NA TELA
+	DO CUSTOMIZADOR!
 	"""
 	waitHold
 }
@@ -1883,16 +1886,16 @@ script 129 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	YOU CAN USE
-	L/R BUTTON TO
-	ROTATE PINK
+	PODE USAR "L"/"R"Y
+	PARA ROTACIONAR
+	PEÇAS
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PARTS IN THE
-	NAVICUS SCREEN!
+	COR-DE-ROSA NA TELA
+	DE CUSTOMIZAÇÃO!
 	"""
 	waitHold
 }
@@ -1907,16 +1910,16 @@ script 130 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	YOU CAN USE
-	L/R BUTTON TO
-	ROTATE YELLOW 
+	PODE USAR "L"/"R"Y
+	PARA ROTACIONAR
+	PEÇAS
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PARTS IN THE
-	NAVICUS SCREEN!
+	AMARELAS NA TELA
+	DE CUSTOMIZAÇÃO!
 	"""
 	waitHold
 }
@@ -1931,16 +1934,16 @@ script 131 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	YOU CAN USE
-	L/R BUTTON TO
-	ROTATE RED 
+	PODE USAR "L"/"R"Y
+	PARA ROTACIONAR
+	PEÇAS
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PARTS IN THE
-	NAVICUS SCREEN!
+	VERMELHAS NA TELA
+	DE CUSTOMIZAÇÃO!
 	"""
 	waitHold
 }
@@ -1955,16 +1958,16 @@ script 132 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	YOU CAN USE
-	L/R BUTTON TO
-	ROTATE BLUE 
+	PODE USAR "L"/"R"Y
+	PARA ROTACIONAR
+	PEÇAS
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PARTS IN THE
-	NAVICUS SCREEN!
+	AZUIS NA TELA
+	DE CUSTOMIZAÇÃO!
 	"""
 	waitHold
 }
@@ -1979,16 +1982,16 @@ script 133 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	YOU CAN USE
-	L/R BUTTON TO
-	ROTATE GREEN 
+	PODE USAR "L"/"R"Y
+	PARA ROTACIONAR
+	PEÇAS VERDES
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PARTS IN THE
-	NAVICUS SCREEN!
+	NA TELA DE
+	CUSTOMIZAÇÃO!
 	"""
 	waitHold
 }
@@ -2003,9 +2006,9 @@ script 144 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	TEXT WITH THE CODE
-	FOR CONNECTING TO
-	MAYL'S HP
+	CÓDIGO PARA SE
+	CONECTAR À PÁGINA
+	DA MAYL.
 	"""
 	waitHold
 }
@@ -2020,9 +2023,9 @@ script 145 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	TEXT WITH THE CODE
-	FOR CONNECTING TO
-	DEX'S HP
+	CÓDIGO PARA SE
+	CONECTAR À PÁGINA
+	DO DEX.
 	"""
 	waitHold
 }
@@ -2037,9 +2040,9 @@ script 146 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	TEXT WITH THE CODE
-	FOR CONNECTING TO
-	YAI'S HP
+	CÓDIGO PARA SE
+	CONECTAR À PÁGINA
+	DA YAI.
 	"""
 	waitHold
 }
@@ -2053,7 +2056,7 @@ script 147 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"Hotel P-Code"
+	"Código-P do Hotel"
 	waitHold
 }
 script 148 mmbn4 {
@@ -2066,7 +2069,7 @@ script 148 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"YumLand Code"
+	"Código Saborya"
 	waitHold
 }
 script 149 mmbn4 {
@@ -2079,7 +2082,7 @@ script 149 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"NetFrica Code"
+	"Código Affriq"
 	waitHold
 }
 script 150 mmbn4 {
@@ -2092,7 +2095,7 @@ script 150 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"Sharo Code"
+	"Código Sharo"
 	waitHold
 }
 script 151 mmbn4 {
@@ -2106,9 +2109,9 @@ script 151 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	TEXT WITH THE CODE
-	FOR CONNECTING TO
-	THE CASTILLO'S HP
+	CÓDIGO PARA SE
+	CONECTAR À PÁGINA
+	DO CASTILLO.
 	"""
 	waitHold
 }
@@ -2122,7 +2125,7 @@ script 152 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"SpacePCd"
+	"CdPCtEspaço"
 	waitHold
 }
 script 153 mmbn4 {
@@ -2135,7 +2138,7 @@ script 153 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"MAYL'S BANNER"
+	"BANNER DA MAYL."
 	waitHold
 }
 script 154 mmbn4 {
@@ -2148,7 +2151,7 @@ script 154 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"DEX'S BANNER"
+	"BANNER DO DEX."
 	waitHold
 }
 script 155 mmbn4 {
@@ -2161,7 +2164,7 @@ script 155 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"YAI'S BANNER"
+	"BANNER DA YAI."
 	waitHold
 }
 script 156 mmbn4 {
@@ -2175,8 +2178,8 @@ script 156 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	BANNER FOR JOMON'S
-	HP
+	BANNER DA PÁGINA
+	DA JOMON.
 	"""
 	waitHold
 }
@@ -2191,8 +2194,8 @@ script 157 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	BANNER FOR THE
-	CASTILLO HP
+	BANNER DA PÁGINA
+	DO CASTILLO.
 	"""
 	waitHold
 }
@@ -2207,8 +2210,8 @@ script 158 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	BANNER FOR NETOPIA
-	HOTEL HP
+	BANNER DA PÁGINA DO
+	HOTEL AMEROPA.
 	"""
 	waitHold
 }
@@ -2223,8 +2226,9 @@ script 159 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	BANNER FOR SHARO
-	SPACECENTER HP
+	BANNER PARA A
+	PÁGINA DO CENTRO
+	ESPECIAL SHARO.
 	"""
 	waitHold
 }
@@ -2233,8 +2237,9 @@ script 160 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	HP MAX INCREASED
-	+20
+	PV MÁXIMOS
+	AUMENTADOS
+	EM 20.
 	"""
 	waitHold
 }
@@ -2243,9 +2248,9 @@ script 161 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	NAVICUST
-	MEMORY MAP
-	INCREASED
+	AUMENTOU MAPA
+	DE MEMÓRIA DO
+	CUSTNAVI.
 	"""
 	waitHold
 }
@@ -2254,8 +2259,8 @@ script 162 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	REGULAR SYSTEM
-	MEMORY +1
+	MEMÓRIA PADRÃO
+	DE SISTEMA +1.
 	"""
 	waitHold
 }
@@ -2264,8 +2269,8 @@ script 163 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	REGULAR SYSTEM
-	MEMORY +2
+	MEMÓRIA PADRÃO
+	DE SISTEMA +2.
 	"""
 	waitHold
 }
@@ -2274,8 +2279,8 @@ script 164 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	REGULAR SYSTEM
-	MEMORY +3
+	MEMÓRIA PADRÃO
+	DE SISTEMA +3.
 	"""
 	waitHold
 }
@@ -2284,8 +2289,9 @@ script 165 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	SUBCHIP CARRYING
-	CAPACITY INCREASED
+	AUMENTOU CAPACIDADE
+	DE CARREGAR
+	SUBCHIPS.
 	"""
 	waitHold
 }
@@ -2299,14 +2305,14 @@ script 176 mmbn4 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"50 HP RECOVERED"
+	"RECUPEROU 50 PV."
 	waitHold
 }
 script 177 mmbn4 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"MAX HP RECOVERED"
+	"PV MÁXIMOS\nRESTAURADOS."
 	waitHold
 }
 script 178 mmbn4 {
@@ -2314,9 +2320,9 @@ script 178 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	NOW YOU WILL NOT
-	ENCOUNTER ANY WEAK
-	VIRUSES FOR A WHILE
+	FICA SEM ENCONTRAR
+	VÍRUS FRACOS
+	TEMPORARIAMENTE.
 	"""
 	waitHold
 }
@@ -2325,8 +2331,9 @@ script 179 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	MYSTERY DATA TRAP
-	DEACTIVATED
+	DESATIVA ARMADILHA
+	EM DADOS
+	MISTERIOSOS.
 	"""
 	waitHold
 }
@@ -2335,8 +2342,9 @@ script 180 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	HIGHER CHANCE OF
-	ENEMY AGAIN
+	MAIORES CHANCES DE
+	REPETIR ÚLTIMO
+	INIMIGO.
 	"""
 	waitHold
 }
@@ -2345,9 +2353,9 @@ script 181 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Analisando dados
-	misteriosos
-	criptografados...
+	ANALISANDO DADOS
+	MISTERIOSOS
+	CRIPTOGRAFADOS...
 	"""
 	waitHold
 }
@@ -2362,38 +2370,41 @@ script 192 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	1: Number of Net-
-	Dealers in Town Area
+	1: Número de
+	NetVendedores
+	na Área Vila.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"2: Number of Hotdog"
+	"2: Número de\ncachorros-quentes."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	3: In Town3,
-	Number of triangles
-	pointing up and down
+	3: Em Vila3,número
+	de triângulos pra
+	cima e pra baixo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	4: Number of vending
-	machines in ElecTown
+	4: Número de
+	máquinas de venda
+	na EletroVila.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"5: Number of trees \nvisible in ACDC Town"
+	"5: Número de árvores\nvisíveis no\nBairro ACDC."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	6: Number of house
-	markers in ACDC Town
+	6: Número de
+	marcadores de casas
+	no Bairro ACDC.
 	"""
 	keyWait
 		any = false
@@ -2411,55 +2422,55 @@ script 193 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"1: Number of Jomons"
+	"1: Número de\nJO-MONs."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	2: How many streets
-	radiate from the
-	square in ACDC 2?
+	2: Quantas ruas
+	partem do meio
+	de ACDC 2?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"3: How many \n\""
+	"3: Quantos \n\""
 	printItem
 		buffer = 0
 		item = 3
 	"""
-	" are
-	there?
+	" existem?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	4: Number of Navis
-	in ElTwrComp right
-	now
+	4: Número de Navis
+	no CPUEletTorr
+	agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	5: Number of ramps
-	in Town2
+	5: Número de rampas
+	em Vila2.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	6: In Town3,
-	Number of triangles
-	pointing up and down
+	6: Em Vila3,número
+	de triângulos pra
+	cima e pra baixo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	7: Number of stuffed
-	bears in ACDC Town
+	7: Número de ursos
+	de pelúcia no Bairro
+	ACDC.
 	"""
 	waitHold
 }
@@ -2474,9 +2485,9 @@ script 194 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	1: Number of
-	Mr.Progs in the LCD
-	Comp
+	1: Número de
+	Progs no computador
+	do telão LCD.
 	"""
 	keyWait
 		any = false
@@ -2485,34 +2496,35 @@ script 194 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"3: Number of Hotdog"
+	"3: Número de\ncachorros-quentes."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	4: Number of Net-
-	Dealers in Town Area
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	5: How many streets
-	radiate from the
-	square in ACDC 2?
+	4: Número de
+	NetVendedores
+	na Área Vila.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	6: Number of Navis
-	in ElTwrComp right
-	now
+	5: Quantas ruas
+	partem do meio
+	de ACDC 2?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"7: Number of trees \nvisible in ACDC Town"
+	"""
+	6: Número de Navis
+	no CPUEletTorr
+	agora.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"7: Número de árvores\nvisíveis no\nBairro ACDC."
 	waitHold
 }
 script 195 mmbn4 {
@@ -2526,8 +2538,8 @@ script 195 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	A DARKCHIP⋯
-	WE CAN'T USE IT.
+	UM CHIP DAS TREVAS.
+	NÃO DEVE SER USADO.
 	"""
 	waitHold
 }
@@ -2542,9 +2554,9 @@ script 196 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	A PERSONAL TERMINAL.
-	MEGAMAN IS INSTALLED
-	ON THIS PET
+	UM TERMINAL PESSOAL.
+	MEGAMAN ESTÁ
+	INSTALADO AQUI.
 	"""
 	waitHold
 }

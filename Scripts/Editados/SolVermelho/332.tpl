@@ -35,9 +35,9 @@ script 0 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	You'll deduct 10000
-	Zennys from that
-	washer,right?
+	Você vai estornar
+	10000 Zennys da
+	máquina de lavar,né?
 	"""
 	keyWait
 		any = false
@@ -78,8 +78,7 @@ script 1 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	A-A man's word is
-	his bond!
+	P-promessa é dívida!
 	"""
 	keyWait
 		any = false
@@ -115,13 +114,14 @@ script 2 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Chip order service⋯
-	ACDC Town⋯Higsby's⋯
+	Serviço de encomenda
+	de chips... ACDC...
+	Higsby...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"OK,I wrote it down!"
+	"Pronto,anotado!"
 	keyWait
 		any = false
 	end
@@ -131,9 +131,9 @@ script 5 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Say,you can't drop
-	the price on a
-	microwave,can you?
+	Poxa,não pode fazer
+	esse microondas por
+	um preço menor?
 	"""
 	keyWait
 		any = false
@@ -144,8 +144,8 @@ script 6 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Y-you want another
-	discount?!
+	V-você quer OUTRO
+	desconto?!
 	"""
 	keyWait
 		any = false
@@ -156,15 +156,17 @@ script 7 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I ordered a sweet
-	chip at Higsby's!
+	Eu encomendei um
+	chip irado na
+	Loja do Higsby!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That BBS info really
-	paid off!
+	As informações do
+	Fórum vingaram
+	mesmo!
 	"""
 	keyWait
 		any = false
@@ -175,13 +177,14 @@ script 10 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Come on,discount
-	that microwave!
+	Vai,dá um
+	descontinho no
+	micro-ondas!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"BE A MAN!!"
+	"SEJA HOMEM!!"
 	keyWait
 		any = false
 	end
@@ -190,28 +193,28 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Y-yessir!"
+	"S-sim,senhor!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll do it!
-	I'll discount it!
+	Eu dou!
+	Eu dou o desconto!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But you'll have to
-	buy a dishwasher
-	with it!
+	Mas você vai ter
+	que comprar uma
+	lava-louças também!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviBrown
-	"Why you little⋯!!"
+	"Ah,danado...!!"
 	keyWait
 		any = false
 	end
@@ -221,8 +224,8 @@ script 12 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Which chip should I
-	order next?
+	Que chip eu
+	encomendo agora?
 	"""
 	keyWait
 		any = false
@@ -233,15 +236,16 @@ script 15 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	I have to buy a
-	dishwasher in order
+	Eu preciso comprar
+	ua lava-louças pra
+	poder ter um
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to get a discount on
-	that microwave?!
+	desconto no
+	micro-ondas?!
 	"""
 	keyWait
 		any = false
@@ -252,20 +256,21 @@ script 16 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Exactly! I'll gladly
-	lower the micro-
+	Aham! Eu diminuo o
+	preço do micro-
+	ondas com prazer
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	wave's price if you
-	buy a dishwasher!
+	se você comprar uma
+	lava-louças!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What will it be?"
+	"O que me diz?"
 	keyWait
 		any = false
 	end
@@ -275,13 +280,13 @@ script 17 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	The Officials look
-	all up in a huff⋯
+	Os Oficiais parecem
+	tão alvoroçados...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"O que tá\nacontecendo?"
+	"O que será que está\nacontecendo?"
 	keyWait
 		any = false
 	end
@@ -291,9 +296,9 @@ script 20 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	I won't leave until
-	you discount the mi-
-	crowave by itself!!
+	Não saio daqui até
+	você descontar só o
+	micro-ondas!
 	"""
 	keyWait
 		any = false
@@ -304,36 +309,36 @@ script 21 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Attention customers!
-	The Officials have
+	Atenção,clientes!
+	Os Oficiais ordena-
+	ram uma evacuação!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ordered everyone to
-	evacuate! Jack out!
+	Desconectem-se
+	todos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviBrown
-	"And lose my haggle"
+	"E perder a minha\npechincha com você?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	with you? No way!
-	I'm not going
-	anywhere!
+	Mas nem pensar!
+	Daqui eu não saio!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviYellow
-	"P-Please⋯"
+	"P-por favor..."
 	keyWait
 		any = false
 	end

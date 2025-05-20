@@ -5,8 +5,8 @@ script 0 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	NOTHING TO REPORT
-	AROUND HERE⋯
+	NADA A RELATAR
+	POR AQUI...
 	"""
 	keyWait
 		any = false

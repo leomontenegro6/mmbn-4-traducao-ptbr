@@ -85,7 +85,7 @@ script 6 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Receio que é,sim!"
+	"Receio que seja,sim!"
 	keyWait
 		any = false
 	clearMsg
@@ -112,7 +112,7 @@ script 7 mmbn4 {
 	"""
 	Há quanto tempo!
 	Desde que vocês ven-
-	ceram meus servos...
+	ceram meus servos.
 	"""
 	keyWait
 		any = false
@@ -146,7 +146,7 @@ script 9 mmbn4 {
 	clearMsg
 	"""
 	Eu queria muito
-	possuí-lo,
+	possuí-lo para mim,
 	"""
 	keyWait
 		any = false
@@ -160,9 +160,9 @@ script 9 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Meu líder jamais me
-	perdoaria se o
-	tirassem de nós...
+	E meu líder jamais
+	me perdoaria se o
+	tirasse dele...
 	"""
 	keyWait
 		any = false
@@ -184,9 +184,9 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E vocês me prenderam
-	no computador do
-	Robô...
+	E somando a isso a
+	sua intromissão nos
+	Robôs-Brinquedo...
 	"""
 	keyWait
 		any = false
@@ -199,7 +199,7 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Se me der o Chip
+	Mas,se me der o Chip
 	das Trevas,eu
 	poupo a sua vida.
 	"""
@@ -215,8 +215,8 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Talvez possamos usar
-	você como membro da
+	Talvez possamos lhe
+	usar como membro da
 	Nebula.
 	"""
 	keyWait
@@ -243,9 +243,9 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Agora vamos,
-	entreguem logo o
-	chip...
+	Agora vamos,entre-
+	gue-no de uma vez
+	ou junte-se a nós!
 	"""
 	keyWait
 		any = false
@@ -271,9 +271,8 @@ script 11 mmbn4 {
 	waitSkip
 		frames = 30
 	"""
-	
-	Tempo... Me dá só um
-	tempo...
+	 Tempo... Me
+	dá só um tempo...
 	"""
 	keyWait
 		any = false
@@ -365,7 +364,7 @@ script 18 mmbn4 {
 script 19 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Conseguimos!!"
+	"Isso!!"
 	keyWait
 		any = false
 	clearMsg
@@ -394,8 +393,8 @@ script 20 mmbn4 {
 		mugshot = ShadeMan
 	"""
 	Hye-heee...
-	Ah,eu ainda te pego
-	por isso!!
+	Ah,mas você irá
+	pagar por isso!!
 	"""
 	keyWait
 		any = false

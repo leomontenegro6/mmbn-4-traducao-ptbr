@@ -8,14 +8,14 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,it's the big
-	day! The Red Sun
-	Tournament!
+	Lan,hoje é o grande
+	dia! O Torneio Sol
+	Vermelho!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"How do you feel?"
+	"Como tá se sentindo?"
 	keyWait
 		any = false
 	clearMsg
@@ -26,15 +26,17 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Perfect,I'm in
-	top condition!
+	Perfeito! Tô
+	na minha melhor
+	condição!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I feel like I can
-	beat anyone.
+	Sentindo que consigo
+	derrubar qualquer
+	um!
 	"""
 	keyWait
 		any = false
@@ -46,8 +48,8 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	OK,Lan. Let's go to
-	the Colosseum!
+	Beleza,Lan.
+	Vamos pro Coliseum!
 	"""
 	keyWait
 		any = false
@@ -58,14 +60,14 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Yup!"
+	"É!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll make the whole
-	world know the name
-	of Lan!
+	Vamos fazer o mundo
+	inteiro aprender o
+	nome Lan Hikari!
 	"""
 	keyWait
 		any = false
@@ -76,14 +78,14 @@ script 4 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,it's the big
-	day! The Blue Moon
-	Tournament!
+	Lan,hoje é o grande
+	dia! O Torneio Lua
+	Azul!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"How do you feel?"
+	"Como tá se sentindo?"
 	keyWait
 		any = false
 	clearMsg

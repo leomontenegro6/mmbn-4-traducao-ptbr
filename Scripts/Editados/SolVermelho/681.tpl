@@ -5,8 +5,8 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You're VideoMan,
-	aren't you?
+	Você que é o
+	VideoMan,né?
 	"""
 	keyWait
 		any = false
@@ -17,7 +17,7 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	mugshotShow
 		mugshot = VideoMan
-	"That's right."
+	"Isso."
 	keyWait
 		any = false
 	clearMsg
@@ -28,8 +28,8 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Great,we're not too
-	late!
+	Ufa,não chegamos
+	tarde demais!
 	"""
 	keyWait
 		any = false
@@ -41,15 +41,16 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = ViddyNarcy
 	"""
-	I knew you'd come,
-	MegaMan!
+	Sabia que você
+	viria,MegaMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're a much nicer
-	kid than I've heard!
+	Você é um menino
+	muito mais bonzinho
+	do que diziam!
 	"""
 	keyWait
 		any = false
@@ -61,24 +62,25 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	The way you put
-	that⋯Are you
-	planning something?!
+	Espera,então...
+	Cê tá tramando
+	alguma coisa?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And I came all this
-	way,too!
+	Poxa,e eu me dei ao
+	trabalho de vir
+	longe assim!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Be careful,MegaMan!
-	A guy like that
-	might try anything!
+	Cuidado,MegaMan!
+	Um cara desses é
+	capaz de tudo!
 	"""
 	keyWait
 		any = false
@@ -88,7 +90,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"I will!"
+	"Pode deixar!"
 	keyWait
 		any = false
 	clearMsg
@@ -99,8 +101,8 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = ViddyNarcy
 	"""
-	Why do you suspect
-	me like that!
+	Por que suspeita de
+	mim desse jeito?!
 	"""
 	keyWait
 		any = false
@@ -112,16 +114,16 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Anybody would be
-	suspicious of such a
-	ridiculous act!
+	Qualquer um ia ficar
+	desconfiado depois
+	daquele teatrinho!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I only came just in
-	case it was real!
+	Eu só vim aqui pro
+	caso de ser real!
 	"""
 	keyWait
 		any = false
@@ -133,40 +135,40 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = ViddyNarcy
 	"""
-	Ridiculous?
-	You called my act
-	ridiculous⋯
+	Teatrinho? Como ousa
+	menosprezar minha
+	apresentação...!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you'd been just a
-	little nicer,I'd
-	have just put you to
+	Se você tivesse sido
+	menos levado,eu só
+	colocaria você pra
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	sleep for a bit,but
-	you mocked my work!
-	I wrote,acted in,
+	dormir um pouquinho,
+	mas você zombou do
+	meu trabalho!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	produced,and
-	directed it,and you
-	made fun of it all!
+	Eu o roteirizei,pro-
+	duzi e dirigi,e você
+	o ridicularizou!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	VideoMan! Knock him
-	out!
+	VideoMan!
+	Acabe com ele!
 	"""
 	keyWait
 		any = false
@@ -177,7 +179,7 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotShow
 		mugshot = VideoMan
-	"Roger."
+	"Entendido."
 	keyWait
 		any = false
 	clearMsg
@@ -188,8 +190,8 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	What's he trying to
-	do?
+	O que é que ele tá
+	tentando fazer?
 	"""
 	keyWait
 		any = false
@@ -201,9 +203,9 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	MegaMan,you don't
-	have to stick around
-	for this,jack out!
+	MegaMan,não precisa
+	ficar aí vendo!
+	Desconecta!
 	"""
 	keyWait
 		any = false
@@ -214,7 +216,7 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Okay!"
+	"Tá!"
 	keyWait
 		any = false
 	clearMsg
@@ -225,8 +227,9 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = VideoMan
 	"""
-	Not so fast,I won't
-	let you go!
+	Não tão rápido!
+	Não vou deixar você
+	ir assim!
 	"""
 	keyWait
 		any = false
@@ -236,7 +239,7 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = VideoMan
 	msgOpen
-	"Pause him!"
+	"Pausar!"
 	keyWait
 		any = false
 	end
@@ -256,8 +259,7 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	What's wrong,
-	MegaMan?!
+	O que foi,MegaMan?!
 	"""
 	keyWait
 		any = false
@@ -268,7 +270,7 @@ script 16 mmbn4 {
 script 17 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"I c-can't move!"
+	"E-eu não consigo me\nmexer!"
 	keyWait
 		any = false
 	clearMsg
@@ -279,17 +281,16 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = VideoMan
 	"""
-	You gotta act it out
-	just like I wrote
-	the scene!
+	Você tem que seguir
+	o meu roteiro à
+	risca!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The script doesn't
-	call for you to
-	jack out.
+	E ele não diz que
+	você se desconecta.
 	"""
 	keyWait
 		any = false
@@ -301,8 +302,8 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = ViddyNarcy
 	"""
-	All right VideoMan,
-	finish him!
+	Certo,VideoMan,
+	acabe com ele!
 	"""
 	keyWait
 		any = false
@@ -312,11 +313,11 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = VideoMan
 	msgOpen
-	"*blooooop!*"
+	"Tchreeeeen!"
 	keyWait
 		any = false
 	clearMsg
-	"Rewind it!"
+	"Rebobinar!"
 	keyWait
 		any = false
 	end
@@ -336,8 +337,8 @@ script 22 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Are you okay,
-	MegaMan?
+	Você tá legal,
+	MegaMan?!
 	"""
 	keyWait
 		any = false
@@ -349,8 +350,9 @@ script 23 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I'm not damaged,but
-	I feel really weird.
+	Eu não sofri nenhum
+	dano,mas tô me sen-
+	tindo tão estranho.
 	"""
 	keyWait
 		any = false
@@ -362,22 +364,22 @@ script 24 mmbn4 {
 	mugshotShow
 		mugshot = VideoMan
 	"""
-	I have you set to
-	"rewind" now. When I
-	hit the "pause"
+	Eu coloquei você
+	pra "rebobinar".
+	Quando eu apertar o
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	button,all your
-	motions will be
-	backwards.
+	"reproduzir",as suas
+	ações ficarão
+	invertidas.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Wanna try it?"
+	"Quer experimentar?"
 	keyWait
 		any = false
 	end
@@ -386,11 +388,11 @@ script 25 mmbn4 {
 	mugshotShow
 		mugshot = VideoMan
 	msgOpen
-	"*blooooop!*"
+	"Ctchoeeen!"
 	keyWait
 		any = false
 	clearMsg
-	"Play it!"
+	"Reproduzir!"
 	keyWait
 		any = false
 	end
@@ -399,7 +401,7 @@ script 26 mmbn4 {
 	mugshotShow
 		mugshot = VideoMan
 	msgOpen
-	"Come over here!"
+	"Venha aqui!"
 	keyWait
 		any = false
 	clearMsg
@@ -410,9 +412,9 @@ script 27 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	What's this "rewind"
-	business?!
-	Get him,MegaMan!
+	Que papo é esse de
+	"rebobinar"?! Pega
+	ele,MegaMan!
 	"""
 	keyWait
 		any = false
@@ -423,7 +425,7 @@ script 27 mmbn4 {
 script 28 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Okay!"
+	"Tá!"
 	keyWait
 		any = false
 	end
@@ -432,7 +434,7 @@ script 29 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Hey!"
+	"Ué...?!"
 	keyWait
 		any = false
 	clearMsg
@@ -443,16 +445,16 @@ script 30 mmbn4 {
 	mugshotShow
 		mugshot = VideoMan
 	"""
-	Didn't I tell you!
-	All your motions
-	are backwards now.
+	Eu avisei! Todas as
+	suas ações estão
+	invertidas agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There are 3 videos
-	here.
+	Há três vídeos
+	aqui.
 	"""
 	keyWait
 		any = false
@@ -463,30 +465,30 @@ script 31 mmbn4 {
 		mugshot = VideoMan
 	msgOpen
 	"""
-	Get all 3
-	volumes of the
+	Reúna todos os 3
+	volumes do "vídeo
+	final",
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"release video",and
-	your "rewind" mode
-	will be released.
+	e será libertado do
+	modo "rebobinar".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Start with the
-	volume 1.
+	Comece pelo
+	Volume 1.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That'd be
-	Park Area3!
+	Ele estará na
+	Área Parque 3!
 	"""
 	keyWait
 		any = false
@@ -497,8 +499,8 @@ script 32 mmbn4 {
 		mugshot = VideoMan
 	msgOpen
 	"""
-	Volume 2 is in
-	Town Area2!
+	O Volume 2 estará
+	na Área Vila 2!
 	"""
 	keyWait
 		any = false
@@ -509,8 +511,8 @@ script 33 mmbn4 {
 		mugshot = VideoMan
 	msgOpen
 	"""
-	And Volume 3 is in
-	ACDC Area2!
+	E o Volume 3 estará
+	na Área ACDC 2!
 	"""
 	keyWait
 		any = false
@@ -521,18 +523,18 @@ script 34 mmbn4 {
 		mugshot = ViddyNarcy
 	msgOpen
 	"""
-	Hurry up and find
-	the videos,or you'll
-	miss the fight!
+	É bom achar logo os
+	vídeos,ou vai perder
+	a luta!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hohohohoho!!!"
+	"Oooh ho ho ho ho!!!"
 	keyWait
 		any = false
 	clearMsg
-	"Let's go,VideoMan!"
+	"Vamos,VideoMan!"
 	keyWait
 		any = false
 	end
@@ -541,7 +543,7 @@ script 35 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Wait!!!"
+	"Espera!!!"
 	keyWait
 		any = false
 	end
@@ -551,8 +553,8 @@ script 36 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Ah!
-	I'm going backwards!
+	Argh!
+	Eu tô andando de ré!
 	"""
 	keyWait
 		any = false
@@ -564,9 +566,9 @@ script 37 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	What a hassle.
-	Go find the three
-	videos,MegaMan!
+	Que complicação.
+	Encontra lá os três
+	vídeos,MegaMan!
 	"""
 	keyWait
 		any = false
@@ -577,7 +579,7 @@ script 37 mmbn4 {
 script 38 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"I guess I have to!"
+	"Acho que eu não\ntenho escolha!"
 	keyWait
 		any = false
 	end

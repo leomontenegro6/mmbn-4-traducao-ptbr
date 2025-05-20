@@ -3,16 +3,16 @@
 script 0 mmbn4 {
 	msgOpen
 	"""
-	A gigantic
-	speaker⋯
+	Um alto-falante
+	gigante...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The sound from this
-	thing leaves nothing
-	to want for.
+	O som que ele produz
+	é de estourar os
+	tímpanos.
 	"""
 	keyWait
 		any = false
@@ -41,8 +41,8 @@ script 1 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,start up the
-	sonar system.
+	Lan,vamos ligar o
+	sistema sonar.
 	"""
 	keyWait
 		any = false
@@ -84,9 +84,9 @@ script 1 mmbn4 {
 script 6 mmbn4 {
 	msgOpen
 	"""
-	There's a security
-	system. It's locked
-	right now.
+	É um sistema de
+	segurança. Está
+	trancado agora.
 	"""
 	keyWait
 		any = false
@@ -97,9 +97,9 @@ script 7 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Ah,the sonar
-	system⋯It won't
-	work like this.
+	Ah,o sistema
+	sonar... Ele não
+	vai funcionar assim.
 	"""
 	keyWait
 		any = false
@@ -110,8 +110,8 @@ script 8 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,the sonar's
-	still working!
+	Lan,o sonar ainda tá
+	ativado!
 	"""
 	keyWait
 		any = false
@@ -122,8 +122,8 @@ script 9 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,you've already
-	got every
+	Lan,você já pegou
+	todos os
 	"
 	"""
 	printItem
@@ -137,9 +137,8 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotHide
 	"""
-	MegaMan
-	started up the
-	sonar system!
+	MegaMan ligou o
+	sistema sonar!
 	"""
 	keyWait
 		any = false
@@ -153,9 +152,9 @@ script 11 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You don't need to
-	start up the sonar
-	right now,do you?
+	Não precisamos ligar
+	o sistema sonar
+	agora,precisamos?
 	"""
 	keyWait
 		any = false

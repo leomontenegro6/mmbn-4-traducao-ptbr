@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Higsby
 	msgOpen
-	"Oh,Lan,huh!"
+	"Ah,Lan! É."
 	keyWait
 		any = false
 	clearMsg
@@ -16,8 +16,8 @@ script 1 mmbn4 {
 		mugshot = Lan
 	"""
 	Higsby!
-	Why did you withdraw
-	from the tourney?
+	Por que cê desistiu
+	do torneio?
 	"""
 	keyWait
 		any = false
@@ -28,14 +28,14 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = Higsby
-	"Ah,huh,yeah,that."
+	"Ah,é. É,aquilo."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's the worst prob-
-	lem my shop Higsby's
-	has ever had,huh.
+	A minha loja tá
+	encarando a maior
+	crise de todas,é.
 	"""
 	keyWait
 		any = false
@@ -47,8 +47,8 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Maid
 	"""
-	I might lose my
-	shop!
+	A gente pode acabar
+	perdendo ela!
 	"""
 	keyWait
 		any = false
@@ -59,14 +59,14 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"What?!"
+	"O quê?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Higsby's is gonna go
-	outta business?!
-	Why?!
+	A Loja do Higsby
+	vai fechar?!
+	Por quê?!
 	"""
 	keyWait
 		any = false
@@ -76,7 +76,7 @@ script 4 mmbn4 {
 }
 script 5 mmbn4 {
 	mugshotHide
-	"I'll explain that!"
+	"Eu explico!"
 	keyWait
 		any = false
 	end
@@ -85,7 +85,7 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Who're you?"
+	"Quem é você?"
 	keyWait
 		any = false
 	clearMsg
@@ -98,9 +98,9 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = BlackMan
 	"""
-	I'm Cone,NAM's
-	special advisor.
-	Nice to meet yah!
+	Eu sou Cone,assessor
+	especial da NAM.
+	Prazer!
 	"""
 	keyWait
 		any = false
@@ -122,17 +122,17 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Higsby
 	"""
-	One of the top five
-	companies in Electo⋯
-	no,in the world
+	Uma das cinco
+	maiores empresas de
+	Ni... Não,do mundo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They gave me lots of
-	financing to open
-	Higsby's,huh.
+	Me deram muito
+	financiamento pra
+	abrir a loja,é.
 	"""
 	keyWait
 		any = false
@@ -143,22 +143,22 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = BlackMan
-	"That's right!"
+	"Exatamente!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Unfortunately,
-	Higsby's hasn't been
-	selling much lately.
+	Mas,infelizmente,a
+	Loja não tem tido
+	muito lucro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NAM lent Higsby a
-	pile of cash,but
-	there's no return!
+	A NAM emprestou mui-
+	ta grana pro Higsby.
+	E o retorno? Zero!
 	"""
 	keyWait
 		any = false
@@ -170,8 +170,8 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Higsby
 	"""
-	I can't deny it,
-	huh.
+	Não posso negar
+	isso,é...
 	"""
 	keyWait
 		any = false
@@ -183,32 +183,33 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = BlackMan
 	"""
-	This location is
-	great,a residential
-	area by a park!
+	A localização é óti-
+	ma,em uma área resi-
+	dencial com parque!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Such a shame to
-	waste it on a worn-
-	out old chip shop!
+	É triste desperdiçar
+	ela com uma loja
+	mofada de chips!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So it's time to shut
-	Higsby's down!
+	Então,já passou da
+	hora de fechar a
+	Loja do Higsby!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're gonna put in a
-	more profitable
-	shop!
+	Vamos trocar por um
+	negócio mais
+	rentável!
 	"""
 	keyWait
 		any = false
@@ -219,7 +220,7 @@ script 12 mmbn4 {
 script 13 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"A different shop?"
+	"Vai trocar de loja?\nPra qual?"
 	keyWait
 		any = false
 	end
@@ -228,7 +229,7 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = BlackMan
 	msgOpen
-	"The Scrub Brush!"
+	"A Escovinha do Rei!"
 	keyWait
 		any = false
 	end
@@ -237,7 +238,7 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"The"
+	"Escovinha"
 	keyWait
 		any = false
 	clearMsg
@@ -247,7 +248,7 @@ script 15 mmbn4 {
 script 16 mmbn4 {
 	mugshotShow
 		mugshot = Higsby
-	"Scrub"
+	"Do"
 	keyWait
 		any = false
 	clearMsg
@@ -257,7 +258,7 @@ script 16 mmbn4 {
 script 17 mmbn4 {
 	mugshotShow
 		mugshot = Maid
-	"Brush?"
+	"Rei?"
 	keyWait
 		any = false
 	clearMsg
@@ -269,30 +270,30 @@ script 17 mmbn4 {
 script 18 mmbn4 {
 	mugshotShow
 		mugshot = BlackMan
-	"That's right!"
+	"Aham!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	First Scrub Brush
-	in the world! House-
-	wives will rejoice!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	It'll be a scrub
-	brush specialty
-	shop!
+	A primeira do mundo!
+	As donas de casa vão
+	pirar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh yes! I'm over-
-	joyed to be a part
-	of this project!
+	Vai ser uma loja
+	especializada em
+	escovas de limpeza!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Ah,cara! Estou tão
+	animado por ser par-
+	te desse projeto!
 	"""
 	keyWait
 		any = false
@@ -303,7 +304,7 @@ script 18 mmbn4 {
 script 19 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Really?"
+	"... Sério?"
 	keyWait
 		any = false
 	clearMsg
@@ -314,21 +315,21 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = BlackMan
 	"""
-	Well,anyway this
-	unprofitable shop
-	has got to go.
+	De todo modo,é,esta
+	loja não rentável
+	tem que sumir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So hurry up and pack
-	your bags!
+	Então arruma logo as
+	malas aí,amigo!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hahahahahaha!!!"
+	"Ha ha ha ha ha ha!!!"
 	keyWait
 		any = false
 	end
@@ -337,13 +338,14 @@ script 21 mmbn4 {
 	mugshotShow
 		mugshot = Higsby
 	msgOpen
-	"Humph!"
+	"Humpf!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is frustrating,
-	huh! Argh!
+	Ah,mas que
+	frustrante! É!
+	Argh!
 	"""
 	keyWait
 		any = false
@@ -353,7 +355,7 @@ script 22 mmbn4 {
 	mugshotShow
 		mugshot = Maid
 	msgOpen
-	"I'm frustrated too!"
+	"Eu também tô\nfrustrada!"
 	keyWait
 		any = false
 	clearMsg
@@ -364,17 +366,16 @@ script 23 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	We can't let them
-	turn this into a
-	scrub brush shop!
+	Não podem trans-
+	formar a loja numa
+	loja de escovas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Higsby,isn't there
-	some way out of this
-	mess?
+	Higsby,não tem como
+	sair dessa roubada?
 	"""
 	keyWait
 		any = false
@@ -386,25 +387,25 @@ script 24 mmbn4 {
 	mugshotShow
 		mugshot = Higsby
 	"""
-	I'd have to impress
-	that NAM guy with a
-	ton of profits,huh.
+	Só impressionando o
+	cara da NAM com
+	altos lucros,é.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I won't let my shop
-	go out of business!
-	Huh!
+	Eu não vou deixar
+	fecharem a minha
+	loja! É!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's time for a huge
-	Higsby's chip sales
-	drive,huh!
+	Hora de uma super
+	campanha publicitá-
+	ria do Higsby!
 	"""
 	keyWait
 		any = false
@@ -426,15 +427,15 @@ script 26 mmbn4 {
 	mugshotShow
 		mugshot = Higsby
 	"""
-	I'll go get the
+	Eu vou arrumar os
 	chips!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nanako,you watch
-	the shop,huh!
+	Nanako,cuida da
+	loja,é!
 	"""
 	keyWait
 		any = false
@@ -445,7 +446,7 @@ script 26 mmbn4 {
 script 27 mmbn4 {
 	mugshotShow
 		mugshot = Maid
-	"Okay!"
+	"Tá bom!"
 	keyWait
 		any = false
 	clearMsg
@@ -456,8 +457,8 @@ script 28 mmbn4 {
 	mugshotShow
 		mugshot = Higsby
 	"""
-	Lan,help me out
-	with the flyers!
+	Lan,me ajude com os
+	panfletos!
 	"""
 	keyWait
 		any = false
@@ -468,11 +469,11 @@ script 28 mmbn4 {
 script 29 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Gotcha!"
+	"Beleza!"
 	keyWait
 		any = false
 	clearMsg
-	"Wait,me too?"
+	"... Pera,eu também?"
 	keyWait
 		any = false
 	clearMsg
@@ -483,8 +484,9 @@ script 30 mmbn4 {
 	mugshotShow
 		mugshot = Higsby
 	"""
-	This is great! Let's
-	do it,huh!
+	Perfeito!
+	Vamos nessa,equipe!
+	É!
 	"""
 	keyWait
 		any = false
@@ -495,8 +497,9 @@ script 31 mmbn4 {
 		mugshot = Maid
 	msgOpen
 	"""
-	Hand out these
-	flyers,please!
+	Distribua estes
+	panfletos,por
+	favor!
 	"""
 	keyWait
 		any = false
@@ -512,7 +515,7 @@ script 32 mmbn4 {
 		timer = 0
 		value = 16
 	"""
-	Lan got:
+	Lan recebeu:
 	20 "
 	"""
 	printItem
@@ -532,24 +535,24 @@ script 33 mmbn4 {
 	mugshotShow
 		mugshot = Maid
 	"""
-	Go to the Net and
-	hand those out to
-	Navis and Mr.Prog!
+	Vá à Rede e entregue
+	eles pra Navis e
+	Progs por aí!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hand out at least
-	ten!
+	Distribua,no mínimo,
+	10!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you come back
-	without handing out
-	ten,I'll punch yah!
+	Se voltar sem
+	entregar eles,
+	leva tapinha meu!
 	"""
 	keyWait
 		any = false
@@ -561,15 +564,15 @@ script 34 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Pass these out in
-	the Net?
+	Distribuir os
+	panfletos na Rede?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So I guess that's my
-	job?!
+	Esse é o meu
+	trabalho?!
 	"""
 	keyWait
 		any = false

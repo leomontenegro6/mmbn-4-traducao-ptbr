@@ -82,9 +82,9 @@ script 11 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	What are you doing?!
-	We have to get back
-	to Netopia!
+	O que você tá
+	fazendo?! Temos que
+	voltar pra Ameropa!
 	"""
 	keyWait
 		any = false
@@ -123,7 +123,7 @@ script 26 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Se conecta direta-
+	Conecte-se direta-
 	mente às Redes do
 	mundo e conserte-as!
 	"""
@@ -221,8 +221,8 @@ script 34 mmbn4 {
 	msgOpen
 	"""
 	Bora voltar pra NAXA
-	e mudar a órbita do
-	asteroide!
+	e mudar a trajetória
+	do asteroide!
 	"""
 	keyWait
 		any = false
@@ -252,7 +252,7 @@ script 100 mmbn4 {
 	msgOpen
 	"""
 	Estranho... Vamos,
-	temos que desafiar
+	temos que disputar
 	um pão ameropano!
 	"""
 	keyWait
@@ -264,9 +264,9 @@ script 101 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I-isn't there a-
-	anyone we c⋯can
-	count on⋯uh⋯uhh⋯
+	N-não tem... ninguém
+	p-pra... ajudar a...
+	gente...? Urhhh...
 	"""
 	keyWait
 		any = false
@@ -301,14 +301,14 @@ script 102 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We have the
-	4 medals⋯Let's find
-	the "
+	Pronto,4 provas.
+	Agora vamos achar
+	o "
 	"""
 	printItem
 		buffer = 0
 		item = 120
-	"\"⋯"
+	"\"..."
 	keyWait
 		any = false
 	end
@@ -318,9 +318,9 @@ script 103 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan⋯Let's find the 4
-	medals⋯and stop that
-	CursDoll⋯
+	Lan... Acha as 4 
+	provas... pra parar
+	o BnecAmal...
 	"""
 	keyWait
 		any = false
@@ -331,14 +331,14 @@ script 104 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's take the
+	Vamos levar o
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 120
 	"""
-	" to
+	" pro
 	ThunderMan!
 	"""
 	keyWait
@@ -350,8 +350,8 @@ script 105 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I'm as good as new!
-	Vamos pro Coliseu!
+	Eu tô novinho em
+	folha! Pro Coliseu!
 	"""
 	keyWait
 		any = false
@@ -378,15 +378,15 @@ script 110 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go get the
+	Vamos comprar as
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 98
 	"""
-	"! They're
-	in the Netopia Area!
+	"! Estão
+	na Área Ameropa!
 	"""
 	keyWait
 		any = false
@@ -401,8 +401,8 @@ script 111 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's read that
-	mail!
+	Lan,vamos ler o
+	e-mail!
 	"""
 	keyWait
 		any = false
@@ -417,8 +417,7 @@ script 112 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go to the
-	GoddessComp!
+	Vamos pro CPU Deusa!
 	"""
 	keyWait
 		any = false
@@ -429,9 +428,9 @@ script 113 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Where is there a
-	spacious area? Have
-	any ideas?
+	Onde é que tem uma
+	área espaçosa?
+	Algum palpite?
 	"""
 	keyWait
 		any = false
@@ -446,8 +445,8 @@ script 114 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Inside a hero⋯
-	Where could that be?
+	Dentro de um herói?
+	Onde será isso?
 	"""
 	keyWait
 		any = false
@@ -463,8 +462,7 @@ script 115 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go to the
-	Colosseum,Lan!
+	Pro Coliseu,Lan!
 	"""
 	keyWait
 		any = false
@@ -475,9 +473,9 @@ script 116 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's head back to
-	the GoddessComp! We
-	defeat FootBomb!
+	De volta ao CPU
+	Deusa! Temos que
+	vencer no FuteBomba!
 	"""
 	keyWait
 		any = false
@@ -488,9 +486,9 @@ script 117 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's head back to
-	HeroComp! We have to
-	defeat FootBomb!
+	De volta ao CPU
+	Herói! Temos que
+	vencer no FuteBomba!
 	"""
 	keyWait
 		any = false
@@ -539,14 +537,10 @@ script 125 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go to
-	YumLand Area!
-	Who knows? Maybe we
+	Bora pra Área Sabo-
+	rya! Talvez a gente
+	possa ajudar!
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"can help somehow?"
 	keyWait
 		any = false
 	end
@@ -556,9 +550,9 @@ script 126 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yo Lan! Who cares
-	about tournaments?
-	Let's just forfeit!
+	Fala,Lan! Esquece
+	esse torneio aí!
+	Se rende logo,ô!
 	"""
 	keyWait
 		any = false
@@ -566,8 +560,8 @@ script 126 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	⋯Are you sure you're
-	really MegaMan⋯?
+	... Você é mesmo o
+	MegaMan...?
 	"""
 	keyWait
 		any = false
@@ -575,15 +569,16 @@ script 126 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	You talkin' to me,
-	kid? I is MegaMan!
+	Tá falando com eu,
+	moleque? É,eu sô
+	o MegaMan sim!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"O-okay⋯"
+	"T-tá bom..."
 	keyWait
 		any = false
 	flagSet
@@ -594,16 +589,16 @@ script 127 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Now whaddaya want?"
+	"Que que tu quer\nagora?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	I'll ask you one
-	more time. Are you
-	really MegaMan?
+	Eu vou perguntar de
+	novo: você é MESMO
+	o MegaMan?
 	"""
 	keyWait
 		any = false
@@ -611,8 +606,8 @@ script 127 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Are you trippin'
-	kid? Of course I is!
+	Tu tá virado,guri?
+	Claro que sô!
 	"""
 	keyWait
 		any = false
@@ -620,8 +615,8 @@ script 127 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Something's not
-	right⋯
+	Tem alguma coisa
+	errada aqui...
 	"""
 	keyWait
 		any = false
@@ -634,9 +629,9 @@ script 128 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Stop sweatin' me!
-	You are not doubtin'
-	my identity,are you?
+	Para com isso,ô!
+	Tá duvidando da min'
+	identidade,é?
 	"""
 	keyWait
 		any = false
@@ -644,20 +639,20 @@ script 128 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	That's it! MegaMan,
-	do you remember that
-	last math test?
+	Já sei! MegaMan,
+	lembra da última
+	prova de matemática?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What was my grade?"
+	"Quanto eu tirei\nnela?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Wha-?!"
+	"É o qu-?!"
 	keyWait
 		any = false
 	clearMsg
@@ -672,7 +667,7 @@ script 128 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"0 pts\n"
+	"0\n"
 	positionOptionVertical
 		width = 4
 	option
@@ -683,7 +678,7 @@ script 128 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"35 pts\n"
+	"3,5\n"
 	positionOptionVertical
 		width = 4
 	option
@@ -694,7 +689,7 @@ script 128 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"75 pts"
+	"7,5"
 	select
 		default = 0
 		noDelay = false
@@ -711,15 +706,17 @@ script 128 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Oh⋯That's right.
-	Don't tell Mom!
+	Ah... Verdade.
+	Não conta pra mamãe,
+	hein!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	All right,what's
-	my favorite food?
+	Beleza,e qual é
+	a minha comida
+	favorita?
 	"""
 	keyWait
 		any = false
@@ -735,7 +732,7 @@ script 128 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Steak\n"
+	"Bisteca\n"
 	positionOptionVertical
 		width = 5
 	option
@@ -746,7 +743,7 @@ script 128 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Hotdogs\n"
+	"Cachorro-quente\n"
 	positionOptionVertical
 		width = 5
 	option
@@ -757,7 +754,7 @@ script 128 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Hamburgers"
+	"Hambúrguer"
 	select
 		default = 0
 		noDelay = false
@@ -774,22 +771,22 @@ script 128 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Yeah,with extra
-	mayo and ketchup!
-	Now I'm hungry!
+	É,com muita maionese
+	e ketchup! Ah,bateu
+	uma fome...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯I got it! You've
-	battled a lot of
-	Navis. Which one was
+	... Ah! Você lutou
+	contra muitos Navis.
+	Qual deles foi o
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"the strongest?"
+	"mais forte?"
 	keyWait
 		any = false
 	clearMsg
@@ -843,96 +840,56 @@ script 128 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	That'd have to be⋯
-	Uh⋯That guy. Yeah!
+	Ah,claro que foi...
+	Er... este sujeito
+	aqui. É!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Ha! Gotcha!"
+	"Rá! Te peguei!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan's never
-	battled any of those
-	Navis!
+	O MegaMan nunca
+	lutou contra nenhum
+	desses Navis!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Who are you?!"
+	"Quem é você?!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Argh! Pretty clever⋯"
+	"Argh! Espertinho,\nvocê..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = JunkMan
 	"""
-	The name's JunkMan!
-	I'm the new owner of
-	MegaMan's body⋯
+	Meu nome é JunkMan!
+	O novo dono do corpo
+	do MegaMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"What?!"
+	"É o quê?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So where's the real
-	MegaMan?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = JunkMan
-	"""
-	By now his ID chip's
-	under a pile of
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	trash in
-	YumLand Area.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = Lan
-	"""
-	Go get me that chip
-	right this instant!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = JunkMan
-	"Who,me?"
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = Lan
-	"""
-	Who else?! If you
-	don't like it,I'll
-	operate you myself!
+	E cadê o MegaMan de
+	verdade?
 	"""
 	keyWait
 		any = false
@@ -940,9 +897,16 @@ script 128 mmbn4 {
 	mugshotShow
 		mugshot = JunkMan
 	"""
-	Go ahead and try!
-	Don't expect me to
-	cooperate,though!
+	A esta altura,o chip
+	de identificação
+	dele já virou uma
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	pilha de lixo na
+	Área Saborya.
 	"""
 	keyWait
 		any = false
@@ -950,31 +914,65 @@ script 128 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	If that's how you
-	want it,fine!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Go to YumLand Area
-	now!
+	Vai buscar esse chip
+	agora mesmo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = JunkMan
-	"Make me!"
+	"Quem,eu?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Why you little⋯
-	When I say go,
-	I mean it!
+	Claro! E se não
+	gostar,eu mesmo te
+	opero pra pegar!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = JunkMan
+	"""
+	Quero ver cê tentar!
+	Mas eu não tô a fim
+	de cooperar,não!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = Lan
+	"""
+	Tá bom,então!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Pra área Saborya,
+	agora!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = JunkMan
+	"Me obrigue!"
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = Lan
+	"""
+	Ora,seu... Quando
+	eu mando você ir,
+	é pra ir,caramba!
 	"""
 	keyWait
 		any = false
@@ -986,88 +984,47 @@ script 129 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Sorry! Wrong answer!"
+	"Opa! Resposta\nerrada!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan would have
-	no problem answering
-	that!
+	O MegaMan teria
+	respondido isso
+	molezinha!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Who are you?!"
+	"Quem é você?!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Argh! Pretty clever⋯"
+	"Argh! Espertinho,\nvocê..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = JunkMan
 	"""
-	The name's JunkMan!
-	I'm the new owner of
-	MegaMan's body⋯
+	Meu nome é JunkMan!
+	O novo dono do corpo
+	do MegaMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"What?!"
+	"É o quê?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So where's the real
-	MegaMan?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = JunkMan
-	"""
-	By now his ID chip's
-	under a pile of
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	trash in
-	YumLand Area.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = Lan
-	"""
-	Go get me that chip
-	right this instant!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = JunkMan
-	"Who,me?"
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = Lan
-	"""
-	Who else?! If you
-	don't like it,I'll
-	operate you myself!
+	E cadê o MegaMan de
+	verdade?
 	"""
 	keyWait
 		any = false
@@ -1075,9 +1032,16 @@ script 129 mmbn4 {
 	mugshotShow
 		mugshot = JunkMan
 	"""
-	Go ahead and try!
-	Don't expect me to
-	cooperate,though!
+	A esta altura,o chip
+	de identificação
+	dele já virou uma
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	pilha de lixo na
+	Área Saborya.
 	"""
 	keyWait
 		any = false
@@ -1085,31 +1049,65 @@ script 129 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	If that's how you
-	want it,fine!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Go to YumLand Area
-	now!
+	Vai buscar esse chip
+	agora mesmo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = JunkMan
-	"Make me!"
+	"Quem,eu?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Why you little⋯
-	When I say go,
-	I mean it!
+	Claro! E se não
+	gostar,eu mesmo te
+	opero pra pegar!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = JunkMan
+	"""
+	Quero ver cê tentar!
+	Mas eu não tô a fim
+	de cooperar,não!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = Lan
+	"""
+	Tá bom,então!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Pra área Saborya,
+	agora!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = JunkMan
+	"Me obrigue!"
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = Lan
+	"""
+	Ora,seu... Quando
+	eu mando você ir,
+	é pra ir,caramba!
 	"""
 	keyWait
 		any = false
@@ -1138,9 +1136,9 @@ script 131 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The image of a big
-	person⋯Hmm. Let's
-	look around!
+	A visão de um cara
+	grandão... Hm.
+	Vamos procurar!
 	"""
 	keyWait
 		any = false
@@ -1293,7 +1291,7 @@ script 151 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Canseira,isso aqui!"
+	"Canseira,isto aqui!"
 	keyWait
 		any = false
 	end
@@ -1356,7 +1354,7 @@ script 158 mmbn4 {
 	msgOpen
 	"""
 	Vamos voltar pra
-	Affriq e consertar a
+	Affriq e modificar a
 	estátua de leão!
 	"""
 	keyWait
@@ -1540,8 +1538,8 @@ script 176 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Something natural?
-	Hmm⋯
+	Frio natural?
+	Hmm...
 	"""
 	keyWait
 		any = false

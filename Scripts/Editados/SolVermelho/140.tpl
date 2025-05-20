@@ -3,9 +3,9 @@
 script 0 mmbn4 {
 	msgOpen
 	"""
-	This stone monument
-	was put up when the
-	Tower was completed.
+	Este monumento foi
+	colocado aqui quando
+	terminaram a Torre.
 	"""
 	keyWait
 		any = false
@@ -34,8 +34,8 @@ script 1 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,start up the
-	sonar system.
+	Lan,vamos ligar o
+	sistema sonar.
 	"""
 	keyWait
 		any = false
@@ -51,7 +51,7 @@ script 1 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Right!  "
+	"Tá!  "
 	option
 		brackets = false
 		left = 0
@@ -60,7 +60,7 @@ script 1 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Not yet"
+	"Depois"
 	select
 		default = 0
 		noDelay = false
@@ -77,9 +77,9 @@ script 1 mmbn4 {
 script 5 mmbn4 {
 	msgOpen
 	"""
-	There's a security
-	system. It's locked
-	right now.
+	É um sistema de
+	segurança. Está
+	trancado agora.
 	"""
 	keyWait
 		any = false
@@ -88,8 +88,8 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	msgOpen
 	"""
-	It says,
-	"Sonar System"⋯
+	Está escrito:
+	"Sistema Sonar"...
 	"""
 	keyWait
 		any = false
@@ -100,8 +100,8 @@ script 7 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,the sonar's
-	still working!
+	Lan,o sonar ainda tá
+	ativado!
 	"""
 	keyWait
 		any = false
@@ -112,8 +112,8 @@ script 8 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,you've already
-	got every
+	Lan,você já pegou
+	todos os
 	"
 	"""
 	printItem
@@ -127,9 +127,8 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotHide
 	"""
-	MegaMan
-	started up the
-	sonar system!
+	MegaMan ligou o
+	sistema sonar!
 	"""
 	keyWait
 		any = false
@@ -143,9 +142,9 @@ script 10 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You don't need to
-	start up the sonar
-	right now,do you?
+	Não precisamos ligar
+	o sistema sonar
+	agora,precisamos?
 	"""
 	keyWait
 		any = false

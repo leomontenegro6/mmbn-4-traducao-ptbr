@@ -376,7 +376,7 @@ script 17 mmbn4 {
 	msgOpen
 	"""
 	TEM UM NAVI SINISTRO
-	LOGO À FRENTE!
+	MAIS ADIANTE!
 	FOGE,MENINO!
 	"""
 	keyWait
@@ -483,8 +483,8 @@ script 21 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Então usaram a
-	Torre como base?
+	E ele usou a Torre
+	como base?
 	Inacreditável!
 	"""
 	keyWait
@@ -497,7 +497,7 @@ script 22 mmbn4 {
 	msgOpen
 	"""
 	O-O QUE ERA AQUELE
-	NAVI PRETO LÁ?
+	NAVI ROXO LÁ?
 	"""
 	keyWait
 		any = false
@@ -596,7 +596,7 @@ script 26 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,francemente,
+	Mas,francamente,
 	eu não acho que
 	vá vencer...!
 	"""
@@ -617,7 +617,7 @@ script 27 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,francemente,
+	Mas,francamente,
 	eu não acho que
 	vá vencer...!
 	"""

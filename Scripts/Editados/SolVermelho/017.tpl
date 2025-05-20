@@ -1,135 +1,135 @@
 @size 41
 
 script 0 mmbn4s {
-	"Mirror"
+	"Espelho"
 	end
 }
 script 1 mmbn4s {
-	"Comb"
+	"Pente"
 	end
 }
 script 2 mmbn4s {
-	"Big Tree"
+	"GrndÁrvr"
 	end
 }
 script 3 mmbn4s {
-	"Statue"
+	"Estátua"
 	end
 }
 script 4 mmbn4s {
-	"MightyBl"
+	"Ataque"
 	end
 }
 script 5 mmbn4s {
-	"StrmKiss"
+	"Beijo"
 	end
 }
 script 6 mmbn4s {
-	"Lecture"
+	"Discurso"
 	end
 }
 script 7 mmbn4s {
-	"WzMonkey"
+	"MgMacaco"
 	end
 }
 script 8 mmbn4s {
-	"WzCat"
+	"MagoGato"
 	end
 }
 script 9 mmbn4s {
-	"WzDragon"
+	"MgDragão"
 	end
 }
 script 10 mmbn4s {
-	"MagicSel"
+	"SeloMági"
 	end
 }
 script 11 mmbn4s {
-	"VioDance"
+	"Bailar"
 	end
 }
 script 12 mmbn4s {
-	"BadJoke"
+	"LeroLero"
 	end
 }
 script 13 mmbn4s {
-	"GoodNose"
+	"FaroBom"
 	end
 }
 script 14 mmbn4s {
-	"Scratch"
+	"Arranhão"
 	end
 }
 script 15 mmbn4s {
-	"GoodEyes"
+	"Pelo"
 	end
 }
 script 16 mmbn4s {
-	"Plunge"
+	"Rugido"
 	end
 }
 script 17 mmbn4s {
-	"War"
+	"Guerra"
 	end
 }
 script 18 mmbn4s {
-	"Emotion"
+	"Emoção"
 	end
 }
 script 19 mmbn4s {
-	"Comedy"
+	"Comédia"
 	end
 }
 script 20 mmbn4s {
-	"Pride"
+	"Soberba"
 	end
 }
 script 21 mmbn4s {
-	"Bird"
+	"Ave"
 	end
 }
 script 22 mmbn4s {
-	"Dance"
+	"Dança"
 	end
 }
 script 23 mmbn4s {
-	"Dresser"
+	"Pia"
 	end
 }
 script 24 mmbn4s {
-	"Zombie"
+	"Paca"
 	end
 }
 script 25 mmbn4s {
-	"ToyPart"
+	"Brnquedo"
 	end
 }
 script 26 mmbn4s {
-	"Dancer"
+	"Dnçarino"
 	end
 }
 script 27 mmbn4s {
-	"Politicn"
+	"Político"
 	end
 }
 script 28 mmbn4s {
-	"FarmRobo"
+	"Fzndeiro"
 	end
 }
 script 29 mmbn4s {
-	"GunSol"
+	"GunDelSl"
 	end
 }
 script 30 mmbn4s {
-	"CrmScarf"
+	"ChclVrml"
 	end
 }
 script 31 mmbn4s {
-	"RedUWear"
+	"AnelMágc"
 	end
 }
 script 32 mmbn4s {
-	"WalshP37"
+	"Porrete"
 	end
 }
 script 33 mmbn4s {
@@ -137,19 +137,19 @@ script 33 mmbn4s {
 	end
 }
 script 34 mmbn4s {
-	"Sunlight"
+	"LuzDoSol"
 	end
 }
 script 35 mmbn4s {
-	"Moonlght"
+	"LuzDaLua"
 	end
 }
 script 36 mmbn4s {
-	"MissSun"
+	"Sr.Sol"
 	end
 }
 script 37 mmbn4s {
-	"Skylight"
+	"Clraboia"
 	end
 }
 script 38 mmbn4s {
@@ -157,10 +157,10 @@ script 38 mmbn4s {
 	end
 }
 script 39 mmbn4s {
-	"Mo-o-m!"
+	"Maanhêêê!"
 	end
 }
 script 40 mmbn4s {
-	"Man Head"
+	"Caixa"
 	end
 }

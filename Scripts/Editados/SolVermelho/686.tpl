@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	WoodMan⋯
-	We go up against
-	Sal's Navi next.
+	WoodMan...
+	Então,nosso oponente
+	é o Navi da Sal.
 	"""
 	keyWait
 		any = false
@@ -19,15 +19,16 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's been a long
-	time.
+	Faz tempo que a
+	gente não fala com
+	ela,né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder what Sal's
-	been up to?
+	O que a Sal anda
+	fazendo?
 	"""
 	keyWait
 		any = false
@@ -39,9 +40,9 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Some kind of
-	natural conservation
-	activities,I guess?
+	Coisas... de
+	preservação da
+	natureza,talvez?
 	"""
 	keyWait
 		any = false
@@ -52,9 +53,9 @@ script 3 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	She must be nearby,
-	let's go look for
-	her!
+	Ela deve tá por
+	perto. Vamos ver se
+	a gente acha ela!
 	"""
 	keyWait
 		any = false
@@ -65,7 +66,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Okay!"
+	"É!"
 	keyWait
 		any = false
 	end

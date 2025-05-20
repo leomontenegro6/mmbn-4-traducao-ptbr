@@ -5,8 +5,9 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hi! 1 hotdog
-	please!
+	Oi!
+	Um cachorro-quente,
+	por favor!
 	"""
 	keyWait
 		any = false
@@ -18,8 +19,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = HotDogLady
 	"""
-	1 hotdog
-	coming right up.
+	Um dog,saindo!
 	"""
 	keyWait
 		any = false
@@ -30,7 +30,7 @@ script 2 mmbn4 {
 	soundDisableTextSFX
 	soundPlay
 		track = 207
-	"Pop pop sizzle⋯"
+	"Plosh Tssss..."
 	wait
 		frames = 120
 	soundEnableTextSFX
@@ -44,16 +44,16 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Wow,that sure
-	smells good!
+	Hummm,que cheiro
+	maravilhoso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can hardly wait.
-	I didn't know anyone
-	made such big ones!
+	Mal aguento esperar.
+	Nem sabia que faziam
+	grandes assim!
 	"""
 	keyWait
 		any = false
@@ -64,8 +64,9 @@ script 4 mmbn4 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Smells good. Maybe
-	I'll try one too.
+	Olha,tá cheirando.
+	Acho que vou comer
+	um também.
 	"""
 	keyWait
 		any = false
@@ -78,8 +79,8 @@ script 5 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Match! What're
-	you doing here?
+	Match! Tá fazendo o
+	que aqui?!
 	"""
 	keyWait
 		any = false
@@ -90,7 +91,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = HotDogLady
-	"Mr.Match?!"
+	"Sr. Match?!"
 	keyWait
 		any = false
 	end
@@ -100,15 +101,16 @@ script 7 mmbn4 {
 		mugshot = HotDogLady
 	msgOpen
 	"""
-	How nice to
-	see you again!
+	Como é bom te ver de
+	novo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thank you for what
-	you did last time.
+	Obrigada pelo que
+	você fez da última
+	vez.
 	"""
 	keyWait
 		any = false
@@ -119,13 +121,12 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Huh?!"
+	"Hã?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You know
-	him?
+	Conhece ele?
 	"""
 	keyWait
 		any = false
@@ -138,40 +139,41 @@ script 9 mmbn4 {
 		mugshot = HotDogLady
 	msgOpen
 	"""
-	Some time ago,my
-	hotdog fryer broke
-	down.
+	Um tempo atrás,a
+	minha fritadeira
+	quebrou.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just when I thought
-	I'd have to close
+	E justo quando eu
+	achei que teria que
+	fechar a barraca,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	down,Mr.Match
-	happened by and
-	fixed it for me.
+	o Sr. Match passou
+	aqui e consertou ela
+	pra mim. Ele até
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He also boosted its
-	power for an even
-	more yummy hotdog.
+	aumentou a potência
+	dela pra fazer comi-
+	da ainda melhor.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mr.Match is the
-	reason I'm still in
-	business today.
+	É só graças ao Sr.
+	Match que eu ainda
+	tenho um trabalho.
 	"""
 	keyWait
 		any = false
@@ -183,8 +185,8 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	No way! Match did
-	something nice?
+	Mentira! O MATCH
+	fez uma boa ação?
 	"""
 	keyWait
 		any = false
@@ -195,15 +197,16 @@ script 11 mmbn4 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Well,think better
-	of me now?
+	E aí,melhorou a sua
+	opinião de mim?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Even I can be nice
-	once in awhile.
+	Até eu consigo ser
+	um cara bacana,de
+	vez em quando.
 	"""
 	keyWait
 		any = false
@@ -214,7 +217,7 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Hmph⋯"
+	"Hmpf..."
 	keyWait
 		any = false
 	clearMsg
@@ -225,8 +228,9 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = HotDogLady
 	"""
-	You guys friends?
-	You must be close.
+	Vocês são amigos?
+	Parecem tão
+	próximos.
 	"""
 	keyWait
 		any = false
@@ -237,7 +241,7 @@ script 13 mmbn4 {
 script 14 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Not even!"
+	"De jeito nenhum!"
 	keyWait
 		any = false
 	clearMsg
@@ -247,7 +251,7 @@ script 14 mmbn4 {
 script 15 mmbn4 {
 	mugshotShow
 		mugshot = HotDogLady
-	"Te-hee hee⋯"
+	"Hi hi hi..."
 	keyWait
 		any = false
 	end
@@ -260,9 +264,9 @@ script 16 mmbn4 {
 		mugshot = Riki
 	msgOpen
 	"""
-	Hey! When ya gonna
-	pay up? You know,the
-	protection money!
+	Aí! Quando é que cê
+	vai pagar? Sabe,a
+	grana de proteção?!
 	"""
 	keyWait
 		any = false
@@ -274,8 +278,9 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = HotDogLady
 	"""
-	I already told you.
-	Business is bad!
+	Eu já falei.
+	Os negócios não tão
+	bons agora!
 	"""
 	keyWait
 		any = false
@@ -287,13 +292,13 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
 	"""
-	You best not get on
-	our bad side.
+	É bom cê não irritar
+	a gente,mocinha.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"After all,we're⋯Hm?"
+	"Afinal de contas,nós\nsomos... Hm?"
 	keyWait
 		any = false
 	end
@@ -304,7 +309,7 @@ script 19 mmbn4 {
 	msgOpen
 	mugshotAnimation
 		animation = 2
-	"Beat it!"
+	"Sumam daqui!"
 	keyWait
 		any = false
 	clearMsg
@@ -317,8 +322,8 @@ script 20 mmbn4 {
 	mugshotAnimation
 		animation = 2
 	"""
-	(What's the boss
-	doing here?)
+	(O que é que o chefe
+	tá fazendo aqui?)
 	"""
 	keyWait
 		any = false
@@ -331,7 +336,7 @@ script 21 mmbn4 {
 		mugshot = MrMatch
 	mugshotAnimation
 		animation = 2
-	"I said beat it!"
+	"Eu mandei vocês\nsumirem!"
 	keyWait
 		any = false
 	clearMsg
@@ -343,11 +348,11 @@ script 22 mmbn4 {
 		mugshot = Riki
 	mugshotAnimation
 		animation = 2
-	"Oh yeah⋯gotcha."
+	"Ah,sim... Tá bom."
 	keyWait
 		any = false
 	clearMsg
-	"Let's scram!"
+	"Bora vazar!"
 	keyWait
 		any = false
 	end
@@ -357,22 +362,22 @@ script 23 mmbn4 {
 		mugshot = HotDogLady
 	msgOpen
 	"""
-	Thanks,Mr.Match.
-	They've been coming
+	Obrigada,Sr. Match.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	around lately say-
-	ing I had to pay up
+	Eles têm aparecido
+	direto aqui,dizendo
+	que eu preciso pagar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	if I wanted to do
-	business here.
+	se quiser continuar
+	com o meu negócio.
 	"""
 	keyWait
 		any = false
@@ -383,17 +388,17 @@ script 24 mmbn4 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Oh,I just remembered
-	there's something I
-	gotta do. Later.
+	Ah,acabei de lembrar
+	de um compromisso.
+	Até outra hora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh,Lan,you eat that
-	hotdog I ordered.
-	It's on me.
+	E,Lan,pode comer o
+	cachorro-quente que
+	eu pedi.
 	"""
 	keyWait
 		any = false
@@ -417,7 +422,7 @@ script 26 mmbn4 {
 	soundDisableTextSFX
 	soundPlay
 		track = 208
-	"SIZZLE! SMOKE!"
+	"TSSSSS! FPUOH!"
 	wait
 		frames = 80
 	soundEnableTextSFX
@@ -430,7 +435,7 @@ script 26 mmbn4 {
 script 27 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"What's that smell⋯"
+	"Que cheiro é\nesse...?"
 	keyWait
 		any = false
 	end
@@ -440,8 +445,8 @@ script 28 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hey lady!
-	It's burning!!
+	Aí,moça!
+	Tá queimando!!
 	"""
 	keyWait
 		any = false
@@ -453,8 +458,9 @@ script 29 mmbn4 {
 	mugshotShow
 		mugshot = HotDogLady
 	"""
-	Oh no! I left it in
-	too long!
+	Ai,não! Deixei
+	tempo demais na
+	fritadeira!
 	"""
 	keyWait
 		any = false
@@ -465,29 +471,30 @@ script 30 mmbn4 {
 		mugshot = HotDogLady
 	msgOpen
 	"""
-	I'm sorry. I'll make
-	another in a jiffy.
+	Desculpa. Eu faço
+	outro rapidinho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Huh? Huhhh?
-	That's strange⋯
+	Hm? Uéé...?
+	Que estranho...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It won't turn on. It
-	must've broke again.
+	Não quer ligar. Acho
+	que quebrou de novo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And Mr.Match was so
-	nice to fix it⋯
+	O Sr. Match se deu
+	ao trabalho de con-
+	sertar ela,e...
 	"""
 	keyWait
 		any = false
@@ -499,13 +506,14 @@ script 31 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	We'll take a look at
-	it for you.
+	A gente dá uma
+	conferida nela pra
+	você.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's jack in!"
+	"Bora conectar!"
 	keyWait
 		any = false
 	clearMsg
@@ -515,7 +523,7 @@ script 31 mmbn4 {
 script 32 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Roger!"
+	"Certo!"
 	keyWait
 		any = false
 	end

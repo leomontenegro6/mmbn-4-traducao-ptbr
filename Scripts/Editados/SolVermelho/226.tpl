@@ -19,9 +19,8 @@ script 0 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Lan,you were
-	amazing at that
-	tournament!
+	Lan,cê foi incrível
+	lá no torneio!
 	"""
 	keyWait
 		any = false
@@ -42,8 +41,8 @@ script 1 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	I wish I could get
-	some new chips⋯
+	Queria poder comprar
+	chips novos...
 	"""
 	keyWait
 		any = false
@@ -64,9 +63,9 @@ script 2 mmbn4 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	I heard a rumor that
-	a fun new place is
-	coming to DenCity!
+	Ouvi um boato de que
+	tem um lugar legal
+	vindo pra DenCity!
 	"""
 	keyWait
 		any = false
@@ -87,9 +86,9 @@ script 3 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	What beautiful
-	weather! I think
-	I'll go somewhere⋯
+	Que tempo bom!
+	Acho que vou dar uma
+	volta...
 	"""
 	keyWait
 		any = false
@@ -100,15 +99,16 @@ script 4 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Lan! Your DogHouse
-	alarm is howling!
+	Lan! O alarme da sua
+	Casinha de Cachorro
+	tá uivando!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe you should
-	check it out?
+	Não seria bom você
+	conferir ele?
 	"""
 	keyWait
 		any = false
@@ -119,9 +119,8 @@ script 10 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Did the problem
-	with your alarm get
-	worked out?
+	Resolveu o problema
+	do seu alarme?
 	"""
 	keyWait
 		any = false
@@ -131,14 +130,14 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = OrangeShirtBoy
 	msgOpen
-	"Hmmmm⋯"
+	"Hmmmm..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looks like I don't
-	have enough money to
-	buy any more chips!
+	Parece que não tenho
+	dinheiro pra comprar
+	mais chips!
 	"""
 	keyWait
 		any = false
@@ -149,25 +148,25 @@ script 12 mmbn4 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	I heard that a theme
-	park will be made
-	in DenCity!
+	Parece que vão fazer
+	um parque temático
+	aqui,em DenCity!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think that the
-	name of it was
-	"Castillo"⋯?
+	Parece que o nome
+	dele é
+	"Castillo"...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I heard that the
-	name means "Castle"!
-	How thrilling!
+	Parece que significa
+	"Castelo"!
+	Que emocionante!
 	"""
 	keyWait
 		any = false
@@ -178,8 +177,9 @@ script 13 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	What's wrong? Did
-	something happen?
+	Que foi?
+	Aconteceu alguma
+	coisa?
 	"""
 	keyWait
 		any = false
@@ -190,9 +190,9 @@ script 20 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	You sure look happy!
-	Did something good
-	happen?
+	Cê parece mó feliz!
+	Aconteceu alguma
+	coisa boa?
 	"""
 	keyWait
 		any = false
@@ -203,9 +203,9 @@ script 21 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	I should go out
-	and bust some
-	viruses for cash⋯
+	Eu queria sair
+	deletando vírus pra
+	fazer dinheiro...
 	"""
 	keyWait
 		any = false
@@ -216,15 +216,16 @@ script 22 mmbn4 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	You're going to
-	Castillo now?
+	Você vai pro
+	Castillo agora?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How nice! I wish
-	I could go,too!
+	Que legal!
+	Bem que eu queria
+	ir,também!
 	"""
 	keyWait
 		any = false
@@ -235,8 +236,8 @@ script 23 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	Maybe I'll head
-	down to ElecTown⋯
+	Acho que eu vou lá
+	pra EletroVila...
 	"""
 	keyWait
 		any = false
@@ -267,13 +268,14 @@ script 30 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	You had a DATE with
-	MAYL! I saw you!
+	Você teve um
+	ENCONTRO com a MAYL!
+	Eu vi vocês!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Way to go,dude!"
+	"Garanhão!"
 	keyWait
 		any = false
 	end
@@ -306,24 +308,25 @@ script 31 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Lan! You're going
-	to try out for the
-	Eagle Tournament?!
+	Lan! Você vai tentar
+	entrar pro Torneio
+	Águia?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's going to be
-	some of the best
-	NetBattlers there⋯
+	Alguns dos melhores
+	NetLutadores do
+	país vão tá lá...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think it may be
-	tough,even for you!
+	Acho que pode ser
+	acirrado,viu?
+	Até pra você!
 	"""
 	keyWait
 		any = false
@@ -354,24 +357,24 @@ script 32 mmbn4 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	There was a bunch of
-	weird guys all over
-	town last night⋯
+	Tinha um monte de
+	gente estranha na
+	cidade à noite...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They kept saying
-	something about
-	getting points⋯
+	Ficavam falando
+	sobre reunir
+	pontos ou sei lá...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder what all
-	that was about?
+	O que será que foi
+	aquilo?
 	"""
 	keyWait
 		any = false
@@ -402,16 +405,16 @@ script 33 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	I heard that some-
-	thing bad happened
-	at Castillo⋯
+	Parece que teve
+	alguma treta no
+	Castillo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What a dangerous
-	world we live in⋯
+	Que mundo perigoso,
+	este nosso...
 	"""
 	keyWait
 		any = false
@@ -422,24 +425,25 @@ script 34 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Lan! You're going
-	to be in the Hawk
-	Tournament?!
+	Lan! Você vai tentar
+	entrar pro Torneio
+	Falcão?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's going to be
-	some of the best
-	NetBattlers there⋯
+	Alguns dos melhores
+	NetLutadores do
+	país vão tá lá...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think it may be
-	tough,even for you!
+	Acho que pode ser
+	acirrado,viu?
+	Até pra você!
 	"""
 	keyWait
 		any = false
@@ -450,21 +454,21 @@ script 40 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Dex will be soooo
-	jealous when he
-	finds out⋯
+	O Dex vai MORRER de
+	ciúmes quando
+	descobrir...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯That YOU had a
-	DATE with HER!
+	... que VOCÊ e ELA
+	tiveram um ENCONTRO!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hee hee hee!"
+	"Hi hi hi!"
 	keyWait
 		any = false
 	end
@@ -477,25 +481,24 @@ script 41 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Huh? You passed
-	the Eagle Tournament
-	prelims?
+	Hã? Você passou nas
+	preliminares do
+	Torneio Águia?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's amazing! I
-	always knew you
-	could do it.
+	Que demais!
+	Sabia que você
+	conseguiria.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So you're planning
-	on winning the
-	tournament,right?
+	E você pretende
+	ganhar o torneio,né?
 	"""
 	keyWait
 		any = false
@@ -506,15 +509,15 @@ script 42 mmbn4 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	So those strange
-	guys were from⋯
+	Então,o pessoal
+	esquisitd era da...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯the NetBattle
-	Association⋯?
+	... Associação de
+	NetLuta...?
 	"""
 	keyWait
 		any = false
@@ -528,25 +531,24 @@ script 43 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	Whaa? Eagle
-	Tournament?!
+	Quêêê?
+	Torneio Águia?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"When?!"
+	"Quando?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯The preliminaries
-	have already
-	finished?
+	... As preliminares
+	já acabaram?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Dang⋯"
+	"... Droga..."
 	keyWait
 		any = false
 	end
@@ -556,25 +558,24 @@ script 44 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	Whaa? Hawk
-	Tournament?!
+	Quêêê?
+	Torneio Falcão?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"When?!"
+	"Quando?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯The preliminaries
-	have already
-	finished?
+	... As preliminares
+	já acabaram?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Dang⋯"
+	"... Droga..."
 	keyWait
 		any = false
 	end
@@ -584,25 +585,24 @@ script 45 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Huh? You passed
-	the Hawk Tournament
-	prelims?
+	Hã? Você passou nas
+	preliminares do
+	Torneio Falcão?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's amazing! I
-	always knew you
-	could do it.
+	Que demais!
+	Sabia que você
+	conseguiria.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So you're planning
-	on winning the
-	tournament,right?
+	E você pretende
+	ganhar o torneio,né?
 	"""
 	keyWait
 		any = false
@@ -616,17 +616,17 @@ script 50 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Lan! I heard that
-	you're in the Eagle
-	Tournament!
+	Lan! Cê tá
+	competindo no
+	Torneio Águia,né?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I won't be able to
-	go,but I'll be
-	rooting for you!
+	Eu não vou poder
+	competir,mas tô
+	torcendo por você!
 	"""
 	keyWait
 		any = false
@@ -637,9 +637,9 @@ script 51 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	The first match is
-	soon! Aren't you
-	nervous?
+	A primeira luta tá
+	chegando!
+	Tá nervoso?
 	"""
 	keyWait
 		any = false
@@ -653,9 +653,9 @@ script 52 mmbn4 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	First the Den Battle
-	Tournament,and now
-	the Eagle?
+	Primeiro,o Torneio
+	de Batalha Den,e
+	agora,o Águia?
 	"""
 	keyWait
 		any = false
@@ -666,16 +666,16 @@ script 53 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	Why are there never
-	any tournaments
-	around here?
+	Por que é que nunca
+	tem torneios aqui no
+	bairro?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wish I could be
-	in it,too⋯
+	Queria poder
+	competir,também...
 	"""
 	keyWait
 		any = false
@@ -686,17 +686,17 @@ script 54 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Lan! I heard that
-	you're in the
-	tournament!
+	Lan! Cê tá
+	competindo no
+	torneio,né?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I won't be able to
-	go,but I'll be
-	rooting for you!
+	Eu não vou poder
+	competir,mas tô
+	torcendo por você!
 	"""
 	keyWait
 		any = false
@@ -707,9 +707,9 @@ script 55 mmbn4 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	First the CityBattle
-	Tournament,and now
-	the Hawk?
+	Primeiro,a Batalha
+	da Cidade,e agora,
+	o Falcão?
 	"""
 	keyWait
 		any = false
@@ -720,22 +720,21 @@ script 60 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	I'll send some
-	positive mental
-	vibes for you!
+	Vou mandar energias
+	positivas pra você!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 1
-	">Go,Lan,Go!<"
+	">For-ça,-Lan!<"
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 2
-	"Are they helping?"
+	"Tá ajudando?"
 	keyWait
 		any = false
 	end
@@ -745,16 +744,16 @@ script 61 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	You made it through
-	the Round 1?
+	Você passou na
+	primeira rodada?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You just may become
-	the top battler
-	in Electopia!
+	Acho que cê é o
+	melhor NetLutador de
+	Ni-Hon!
 	"""
 	keyWait
 		any = false
@@ -765,17 +764,17 @@ script 62 mmbn4 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	All of these Net
-	Battle fans are
-	all excited⋯
+	Os fãs de NetLuta
+	estão tão
+	animados...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯But I'm not really
-	into the whole
-	NetBattle thing⋯
+	... mas eu não sou
+	muito fã dessa coisa
+	de lutas,não...
 	"""
 	keyWait
 		any = false
@@ -786,30 +785,30 @@ script 63 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	⋯Hey,wait! If there
-	won't be a big
-	tournament soon⋯
+	... Espera! Se não
+	terá nenhum grande
+	torneio por ora...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯Then I'll have time
-	to practice for when
-	one DOES come!
+	... eu posso treinar
+	pra quando um
+	APARECER!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll start practice
-	today for the next
-	tournament
+	É isso: hoje,eu
+	começo a treinar pro
+	próximo torneio de
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"in DenCity!"
+	"DenCity!"
 	keyWait
 		any = false
 	end
@@ -819,17 +818,17 @@ script 70 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	You did pretty good,
-	winning that
-	tournament⋯
+	Você foi bem lá,
+	vencendo o
+	torneio...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯But don't forget
-	those vibes I sent
-	to help you!
+	... Mas não vai es-
+	quecer das energias
+	que eu mandei!
 	"""
 	keyWait
 		any = false
@@ -840,14 +839,14 @@ script 71 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	One more win,and
-	you're #1 in
-	Electopia?
+	Mais uma vitóra e
+	você é declarado
+	o #1 de Ni-Hon?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"That's amazing!"
+	"Que demais!"
 	keyWait
 		any = false
 	end
@@ -857,17 +856,17 @@ script 72 mmbn4 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	It's so lonely,not
-	being able to join
-	in all the fun⋯
+	É tão triste,não
+	poder fazer parte da
+	curtição...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe I should stop
-	viruses busting,and
-	start NetBattle?
+	Será que eu devia
+	começar a experimen-
+	tar NetLuta?
 	"""
 	keyWait
 		any = false
@@ -878,24 +877,24 @@ script 73 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	I WAS going to start
-	practicing⋯
+	Eu IA começar a
+	treinar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯But it's so hard to
-	get motivated about
-	something⋯
+	... mas é tão
+	difícil achar moti-
+	vação pras coisas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯if you don't even
-	know when it will
-	occur! Hrmph!
+	... quando eu nem
+	sei quando elas vão
+	acontecer! Hmpf!
 	"""
 	keyWait
 		any = false
@@ -912,8 +911,8 @@ script 100 mmbn4 {
 		mugshot = OldWomanAlt
 	msgOpen
 	"""
-	Hey,kid⋯You want
-	a "
+	Ei,garoto... Quer
+	uma "
 	"""
 	printFolderName
 		buffer = 0
@@ -923,31 +922,32 @@ script 100 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	It's not much of a
-	folder,but⋯
+	Não é uma pasta
+	incrível nem nada
+	assim...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯sometimes using a
-	weak folder is a
-	good way to train!
+	mas,às vezes,usar
+	pastas fracas é
+	bom para treinar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can have this
-	one⋯
+	Se quiser,esta aqui
+	é sua...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯if you don't mind
-	losing your current
-	one! Whaddaya say?
+	... se não se impor-
+	tar de perder a sua
+	atual! Que tal?
 	"""
 	keyWait
 		any = false
@@ -988,8 +988,8 @@ script 100 mmbn4 {
 	mugshotShow
 		mugshot = OldWomanAlt
 	"""
-	Let me know if you
-	change your mind!
+	Me avise se mudar de
+	ideia!
 	"""
 	keyWait
 		any = false
@@ -1004,20 +1004,20 @@ script 101 mmbn4 {
 	mugshotShow
 		mugshot = OldWomanAlt
 	msgOpen
-	"I see,I see⋯"
+	"Certo,então..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK,I'll transfer
-	this "
+	Vou transferir esta
+	"
 	"""
 	printFolderName
 		buffer = 0
 		entry = 2
 	"""
-	"
-	to you⋯
+	" para
+	você...
 	"""
 	keyWait
 		any = false
@@ -1032,24 +1032,24 @@ script 101 mmbn4 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
 	soundPlay
 		track = 297
-	"Beep!"
+	"Bip!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = OldWomanAlt
-	"Transfer complete!"
+	"Transferência\nconcluída!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now your Spare-
-	Folder is "
+	Agora,sua PastaExtra
+	é a "
 	"""
 	printFolderName
 		buffer = 0
@@ -1058,7 +1058,7 @@ script 101 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Practice hard!"
+	"Bom treino!"
 	keyWait
 		any = false
 	end
@@ -1072,20 +1072,20 @@ script 102 mmbn4 {
 	mugshotShow
 		mugshot = OldWomanAlt
 	msgOpen
-	"I see,I see⋯"
+	"Certo,então..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK,I'll transfer
-	this "
+	Vou transferir esta
+	"
 	"""
 	printFolderName
 		buffer = 0
 		entry = 6
 	"""
-	"
-	to you⋯
+	" para
+	você...
 	"""
 	keyWait
 		any = false
@@ -1105,19 +1105,19 @@ script 102 mmbn4 {
 		frames = 30
 	soundPlay
 		track = 297
-	"Beep!"
+	"Bip!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = OldWomanAlt
-	"Transfer complete!"
+	"Transferência\nconcluída!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now your Spare-
-	Folder is "
+	Agora,sua PastaExtra
+	é a "
 	"""
 	printFolderName
 		buffer = 0
@@ -1126,7 +1126,7 @@ script 102 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Practice hard!"
+	"Bom treino!"
 	keyWait
 		any = false
 	end
@@ -1135,20 +1135,20 @@ script 103 mmbn4 {
 	mugshotShow
 		mugshot = OldWomanAlt
 	msgOpen
-	"I see,I see⋯"
+	"Certo,então..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK,I'll transfer
-	this "
+	Vou transferir esta
+	"
 	"""
 	printFolderName
 		buffer = 0
 		entry = 7
 	"""
-	"
-	to you⋯
+	" para
+	você...
 	"""
 	keyWait
 		any = false
@@ -1168,19 +1168,19 @@ script 103 mmbn4 {
 		frames = 30
 	soundPlay
 		track = 297
-	"Beep!"
+	"Bip!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = OldWomanAlt
-	"Transfer complete!"
+	"Transferência\nconcluída!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now your Spare-
-	Folder is "
+	Agora,sua PastaExtra
+	é a "
 	"""
 	printFolderName
 		buffer = 0
@@ -1189,7 +1189,7 @@ script 103 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Practice hard!"
+	"Bom treino!"
 	keyWait
 		any = false
 	end
@@ -1199,8 +1199,8 @@ script 104 mmbn4 {
 		mugshot = OldWomanAlt
 	msgOpen
 	"""
-	Whassat? You want
-	the "
+	O quê? Você quer a
+	"
 	"""
 	printFolderName
 		buffer = 0
@@ -1210,14 +1210,13 @@ script 104 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	You can have it,if
-	you don't mind
-	erasing the old one⋯
+	Claro,mas vai apagar
+	a sua pasta atual...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Whatcha wanna do?"
+	"Tudo bem?"
 	keyWait
 		any = false
 	clearMsg
@@ -1257,8 +1256,8 @@ script 104 mmbn4 {
 	mugshotShow
 		mugshot = OldWomanAlt
 	"""
-	Come back if you
-	change your mind⋯
+	Se mudar de ideia,é
+	só falar comigo...
 	"""
 	keyWait
 		any = false
@@ -1274,8 +1273,8 @@ script 140 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hey! This isn't the
-	time to leave ACDC!
+	Ei! Isso lá é hora
+	de sair de ACDC?!
 	"""
 	keyWait
 		any = false
@@ -1291,7 +1290,7 @@ script 220 mmbn4 {
 	msgOpen
 	"""
 	Posso fornecer um
-	dos meus SubChips...
+	ou dois SubChips...
 	"""
 	keyWait
 		any = false

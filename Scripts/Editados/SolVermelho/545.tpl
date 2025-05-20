@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Regal
 	msgOpen
-	"Heh heh heh⋯"
+	"He he he..."
 	keyWait
 		any = false
 	clearMsg
@@ -13,9 +13,9 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	This'll blow our
-	last chance to avoid
-	the asteroid.
+	Você jogou fora sua
+	última chance de
+	evitar o asteroide.
 	"""
 	keyWait
 		any = false
@@ -25,7 +25,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Whadaya mean?!"
+	"Que papo é esse?!"
 	keyWait
 		any = false
 	end
@@ -35,33 +35,32 @@ script 2 mmbn4 {
 		mugshot = Regal
 	msgOpen
 	"""
-	The plan originally
-	called for sending
-	my Navi.
+	O plano originalmen-
+	te envolvia enviar
+	o meu Navi.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My Navi would
-	succeeded for
-	sure.
+	Ele,com certeza,
+	obteria sucesso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A Navi like yours
-	couldn't possibly
-	control an asteroid.
+	É impossível para um
+	Navi como o seu con-
+	trolar um asteroide.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The planet's doomed
-	thanks to your
-	stupid reasoning.
+	O planeta está con-
+	denado graças à sua
+	emotividade tola.
 	"""
 	keyWait
 		any = false
@@ -76,15 +75,15 @@ script 3 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We won't know until
-	we try!
+	A gente só vai saber
+	depois que tentar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We won't ever give
-	up!
+	Nós dois NUNCA vamos
+	desistir!
 	"""
 	keyWait
 		any = false
@@ -95,15 +94,16 @@ script 4 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,make for
-	the control room!
+	MegaMan,vai pra sala
+	de controle!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We must change the
-	asteroid's course!
+	A gente tem que
+	mudar o curso do
+	asteroide!
 	"""
 	keyWait
 		any = false
@@ -115,7 +115,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"OK,Lan,I'm going!"
+	"Beleza,Lan,eu vou\nlá!"
 	keyWait
 		any = false
 	end

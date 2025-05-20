@@ -10,28 +10,28 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"YO! WELCOME TO DEX'S"
+	"OLÁ! BEM-VINDO À\nPÁGINA DO DEX!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HP! THE OTHER DAY
-	DEX ORDERED ME TO
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	BUILD A SYNTHETIC
-	LINK BETWEEN YOUR HP
+	UM DIA DESSES,O DEX
+	ME MANDOU CRIAR UM
+	LINK SINTÉTICO
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	AND THIS ONE. DO YOU
-	MIND IF I CREATE A
-	LINK?
+	ENTRE A SUA PÁGINA
+	E ESTA PÁGINA.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	TUDO BEM EU CRIAR
+	UM LINK?
 	"""
 	keyWait
 		any = false
@@ -72,8 +72,8 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	CAN YOU PLEASE
-	RECONSIDER?
+	PODERIA,POR FAVOR,
+	RECONSIDERAR?
 	"""
 	keyWait
 		any = false
@@ -83,14 +83,14 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"REALLY? THANK YOU!"
+	"É MESMO? OBRIGADO!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NOW DEX WON'T GET
-	MAD AT ME!! HERE IS
-	THIS HP'S BANNER!
+	AGORA,O DEX NÃO VAI
+	SE ZANGAR COMIGO!
+	TOME,O BANNER!
 	"""
 	keyWait
 		any = false
@@ -117,8 +117,8 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	NOW I SHALL INSTALL
-	THE LINK⋯
+	AGORA,INSTALAREI
+	O LINK...
 	"""
 	keyWait
 		any = false
@@ -132,7 +132,7 @@ script 1 mmbn4 {
 	"."
 	waitSkip
 		frames = 30
-	"KYAH!"
+	" IÁ!"
 	keyWait
 		any = false
 	soundDisableTextSFX
@@ -147,9 +147,9 @@ script 2 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I SHALL KEEP
-	STRIVING TO IMPROVE
-	THIS HP!
+	CONTINUAREI ME
+	EMPENHANDO PARA
+	MELHORAR A PÁGINA!
 	"""
 	keyWait
 		any = false
@@ -180,9 +180,9 @@ script 10 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	He's about to reveal
-	the secret to
-	winning NetBattles!
+	Ele está prestes a
+	revelar o segredo
+	pra vencer NetLutas!
 	"""
 	keyWait
 		any = false
@@ -213,21 +213,14 @@ script 11 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	The secret is,you
-	need to equip a
-	strong
+	O segredo é equipar
+	um Navi forte
+	com chips fortes,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"""
-	Navi with strong
-	chips,and operate
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"him well!"
+	"e operá-lo bem!"
 	keyWait
 		any = false
 	end
@@ -256,7 +249,7 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviPink
 	msgOpen
-	"Ah,I see!"
+	"Ah,entendo!"
 	keyWait
 		any = false
 	end
@@ -266,16 +259,16 @@ script 15 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	How many Navis do
-	you know who are 
-	powerful AND have
+	Quantos Navis você
+	conhece que são
+	fortes E possuem
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	lots of powerful
-	chips?!
+	um monte de chips
+	poderosos?!
 	"""
 	keyWait
 		any = false
@@ -286,9 +279,9 @@ script 16 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	How about this HP's
-	administrator,Guts-
-	Man? He's strong.
+	O administrador des-
+	ta página,o GutsMan,
+	talvez? Ele é forte.
 	"""
 	keyWait
 		any = false
@@ -299,17 +292,17 @@ script 17 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	What are you talking
-	about?! Electopia's
-	very own champion,
+	Que papo é esse?!
+	O campeão de Ni-Hon,
+	o MegaMan,mora aqui,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,lives in
-	this town! I've nev-
-	er met him,though⋯
+	neste bairro!
+	Não que eu já tenha
+	falado com ele...
 	"""
 	keyWait
 		any = false
@@ -320,8 +313,8 @@ script 20 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	All right,that's
-	enough discussion.
+	Tá bom,chega dessa
+	discussão.
 	"""
 	keyWait
 		any = false
@@ -331,13 +324,12 @@ script 21 mmbn4 {
 	mugshotShow
 		mugshot = PurpleNavi
 	msgOpen
-	"Whew! That was one"
+	"Ufa! Que debate\nemocionado!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	heated debate!
-	I'm beat!
+	Eu tô acabado!
 	"""
 	keyWait
 		any = false
@@ -348,8 +340,9 @@ script 22 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	My back hurts from
-	standing so long!
+	A minha coluna dói
+	de ficar tanto tempo
+	em pé!
 	"""
 	keyWait
 		any = false

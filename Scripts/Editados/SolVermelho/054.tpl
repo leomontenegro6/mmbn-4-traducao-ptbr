@@ -104,9 +104,9 @@ script 6 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Não,escolha o
-	"CrakOut". Cancele
-	e tente de novo.
+	Não,selecione o
+	"CrakOut".
+	Tente de novo.
 	"""
 	keyWait
 		any = false
@@ -171,14 +171,14 @@ script 10 mmbn4 {
 	clearMsg
 	"""
 	dá +30 de ataque a
-	chips [bracket1]None[bracket2] e
+	chips [bracket1]Nada[bracket2] e
 	que quebram quadros.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Daí,ataques
+	E também,ataques
 	carregados com "B"
 	virarão GutPunch,
 	"""
@@ -187,8 +187,7 @@ script 10 mmbn4 {
 	clearMsg
 	"""
 	e se você apertar
-	"B" rapidamente
-	depois,
+	"B" rapidamente,
 	"""
 	keyWait
 		any = false
@@ -225,7 +224,7 @@ script 11 mmbn4 {
 	"""
 	Em primeiro lugar,
 	não se pode sacrifi-
-	car chips normais.
+	car certos chips.
 	"""
 	keyWait
 		any = false

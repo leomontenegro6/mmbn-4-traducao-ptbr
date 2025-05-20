@@ -38,7 +38,7 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"É, vamos!"
+	"É,vamos!"
 	keyWait
 		any = false
 	end

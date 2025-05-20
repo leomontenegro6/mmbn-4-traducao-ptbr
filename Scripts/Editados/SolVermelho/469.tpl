@@ -57,13 +57,13 @@ script 2 mmbn4 {
 	clearMsg
 	"""
 	anunciarei agora as
-	duplas das finais do
+	duplas das lutas do
 	torneio.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Olhem para cá,\npor favor."
+	"Olhe para cá,\npor favor."
 	keyWait
 		any = false
 	end
@@ -102,9 +102,9 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	Olhem com atenção e
-	lembrem-se de quem
-	enfrentarão.
+	Olhe com atenção e
+	lembre-se de quem
+	vai enfrentar.
 	"""
 	keyWait
 		any = false

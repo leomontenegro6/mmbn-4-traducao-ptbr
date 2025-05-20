@@ -5,7 +5,8 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Our next opponent is
+	O nosso próximo
+	oponente é o
 	WindMan.
 	"""
 	keyWait
@@ -19,8 +20,8 @@ script 1 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	So I guess he'll use
-	wind against us.
+	Acho que ele usa
+	vento na luta,né?
 	"""
 	keyWait
 		any = false
@@ -33,24 +34,24 @@ script 2 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I can't wait to see
-	what his attack is
-	like!
+	Mal posso esperar
+	pra ver como são os
+	ataques dele!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	MegaMan!
-	We'd better psyche
-	ourselves up for it!
+	É bom a gente lutar
+	com tudo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"You got it!"
+	"Falou e disse!"
 	keyWait
 		any = false
 	end
@@ -59,7 +60,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lilly
 	msgOpen
-	"Excuse me?"
+	"Com licença?"
 	keyWait
 		any = false
 	end
@@ -68,7 +69,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Huh?"
+	"Hã?"
 	keyWait
 		any = false
 	clearMsg
@@ -80,27 +81,29 @@ script 5 mmbn4 {
 		mugshot = Lilly
 	msgOpen
 	"""
-	I couldn't help but
-	overhear you.
+	Desculpe,mas acabei
+	ouvindo o que você
+	estava falando.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You said "MegaMan",
-	right?
+	Você disse
+	"MegaMan",
+	não foi?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm WindMan's
-	operator.
+	Eu sou a operadora
+	do WindMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"My name's Lilly."
+	"O meu nome é\nLilly Igarashi."
 	keyWait
 		any = false
 	clearMsg
@@ -111,13 +114,14 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Oh,nice to meet you."
+	"Ah,prazer."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm Lan,MegaMan's
-	operator.
+	Eu sou Lan Hikari,
+	o operador do
+	MegaMan.
 	"""
 	keyWait
 		any = false
@@ -130,8 +134,8 @@ script 7 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,your face is
-	red.
+	Lan,a sua cara tá
+	vermelhinha.
 	"""
 	keyWait
 		any = false
@@ -143,7 +147,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Shaddup!"
+	"Cala a boca!"
 	keyWait
 		any = false
 	clearMsg
@@ -154,7 +158,7 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Lilly
 	msgOpen
-	"You say hi too,"
+	"Cumprimente-os\ntambém..."
 	keyWait
 		any = false
 	clearMsg
@@ -169,26 +173,26 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = WindMan
 	msgOpen
-	"MegaMan,right?"
+	"MegaMan,não?"
 	keyWait
 		any = false
 	clearMsg
-	"I'm WindMan."
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I was born in a
-	land far,far from
-	Electopia,
-	"""
+	"Eu sou WindMan."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and now I am honored
-	as a God of the Wind
-	on Scissor Island.
+	Nasci em uma terra
+	muito,muito distante
+	de Ni-Hon,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	e,agora,sou venerado
+	como Deus dos Ventos
+	na Ilha Shisa.
 	"""
 	keyWait
 		any = false
@@ -200,14 +204,13 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Scissor Island?"
+	"Ilha Shisa?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yeah,it's an island
-	way to the south
-	of Electopia.
+	Ah,é,aquela ilha lá
+	pro sul de Ni-Hon.
 	"""
 	keyWait
 		any = false
@@ -219,29 +222,29 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = Lilly
 	msgOpen
-	"That's right."
+	"Exatamente."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WindMan is known as
-	a God of the Wind on
-	Scissor Island,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	which is where I was
-	born.
+	O WindMan é visto
+	como um Deus dos
+	Ventos lá,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And I am a priestess
-	of WindMan in his
-	temple.
+	na Ilha Shisa,
+	lugar em que nasci.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	E eu sirvo como sa-
+	cerdotisa do WindMan
+	no tempo dele.
 	"""
 	keyWait
 		any = false
@@ -253,13 +256,13 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Wow!"
+	"Caramba!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So we go up against
-	a God next!
+	Então a gente vai
+	enfrentar um deus!
 	"""
 	keyWait
 		any = false
@@ -272,20 +275,20 @@ script 14 mmbn4 {
 		mugshot = WindMan
 	msgOpen
 	"""
-	Don't worry,
+	Não se preocupe,
 	MegaMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Lilly's \""
+	"A \""
 	printItem
 		buffer = 0
 		item = 92
 	"""
-	"
-	holds my powers
-	in check.
+	" da
+	Lilly controla os
+	meus poderes.
 	"""
 	keyWait
 		any = false
@@ -298,29 +301,31 @@ script 15 mmbn4 {
 		mugshot = Lilly
 	msgOpen
 	"""
-	He's really too
-	powerful for anyone
-	to control.
+	WindMan é poderoso
+	demais para ser
+	controlado.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"This \""
+	"""
+	É só graças a esta
+	"
+	"""
 	printItem
 		buffer = 0
 		item = 92
 	"""
-	"
-	is the only reason
-	I can handle him.
+	" que eu
+	posso manuseá-lo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't be so tense.
-	This'll be a great
-	match,MegaMan.
+	Não fique nervoso.
+	Será uma ótima
+	luta,MegaMan.
 	"""
 	keyWait
 		any = false
@@ -332,7 +337,7 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Really?"
+	"É mesmo?"
 	keyWait
 		any = false
 	clearMsg
@@ -343,13 +348,14 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Definitely!"
+	"Com certeza!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't be so scared!
-	It's not like you!
+	Não fica com medo!
+	Você não é assim,
+	MegaMan!
 	"""
 	keyWait
 		any = false
@@ -362,8 +368,8 @@ script 18 mmbn4 {
 		mugshot = Lilly
 	msgOpen
 	"""
-	Tehe,you sure are
-	good buddies.
+	He. Vocês são bons
+	amigos,não é mesmo?
 	"""
 	keyWait
 		any = false
@@ -375,14 +381,13 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hehe,yeah!"
+	"He he,pois é!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	All right,Lilly,I'll
-	see you at the
-	battle!
+	Beleza,Lilly,a gente
+	se vê na luta!
 	"""
 	keyWait
 		any = false
@@ -393,27 +398,27 @@ script 20 mmbn4 {
 		mugshot = Lilly
 	msgOpen
 	"""
-	Wow,he sure is
-	relaxed for someone
-	just before a fight.
+	Ele é tão tranquilo
+	para alguém prestes
+	a lutar.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"My heart's pounding."
+	"O meu coração está\nacelerado."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm so nervous,it
-	makes me thirsty.
+	Estou tão nervosa...
+	e isso me dá sede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Water⋯Get me some
-	water!
+	Água...
+	Eu preciso de água!
 	"""
 	keyWait
 		any = false
@@ -443,7 +448,7 @@ script 22 mmbn4 {
 	clearMsg
 	mugshotAnimation
 		animation = 2
-	"*hic*"
+	"Hic"
 	keyWait
 		any = false
 	clearMsg
@@ -457,7 +462,7 @@ script 22 mmbn4 {
 		animation = 2
 	mugshotShow
 		mugshot = LillyDrunk
-	"Heh⋯"
+	"He he..."
 	keyWait
 		any = false
 	clearMsg
@@ -470,7 +475,7 @@ script 23 mmbn4 {
 	msgOpen
 	"""
 	Lilly!
-	What is it?
+	O que foi?
 	"""
 	keyWait
 		any = false
@@ -483,19 +488,20 @@ script 24 mmbn4 {
 		mugshot = LillyDrunk
 	msgOpen
 	"""
-	Hehe⋯
-	Hehehehehe⋯
+	He he...
+	He he he he he...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Destroy Lan."
+	"Destrói o Lan."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No matter what you
-	have to do.
+	Faz o que tiver que
+	fazer pra destruir
+	ele.
 	"""
 	keyWait
 		any = false
@@ -512,9 +518,9 @@ script 25 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	What?!
-	What's wrong with
-	you!
+	O que houve?!
+	O que há de errado
+	com você?!
 	"""
 	keyWait
 		any = false

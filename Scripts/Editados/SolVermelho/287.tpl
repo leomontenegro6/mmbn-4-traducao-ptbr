@@ -10,16 +10,16 @@ script 0 mmbn4 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	What?
-	Snow's piled
-	up again?!
+	O quê?
+	A neve se acumulou
+	de novo?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What's the use of
-	even shoveling?
+	De que adianta tirar
+	ela?
 	"""
 	keyWait
 		any = false
@@ -35,20 +35,21 @@ script 1 mmbn4 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Will this snow never
-	end?
+	Essa neve não vai
+	parar nunca?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's see,it's -20
-	degrees now⋯Hmm
+	Vejamos... Agora,
+	está fazendo
+	-20 graus... Hm.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Kind of warm today⋯"
+	"Até que tá quentinho\nhoje."
 	keyWait
 		any = false
 	end
@@ -63,20 +64,20 @@ script 2 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	This is the Sharo
-	SpaceCtr.
+	Este é o Centro
+	Espacial de Sharo.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Along with NAXA,"
+	"Juntamente à NAXA,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it's one of the
-	world's top space
-	laboratories.
+	é um dos maiores
+	laboratórios
+	espaciais do mundo.
 	"""
 	keyWait
 		any = false
@@ -87,16 +88,17 @@ script 10 mmbn4 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	Even if I shovel,30
-	minutes later the
-	snow's piled up
+	Mesmo se eu cavar,
+	meia hora depois,a
+	neve se acumula de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	again! I'M SICK OF
-	SHOVELING!
+	novo!
+	EU NÃO AGUENTO MAIS
+	CAVAR!
 	"""
 	keyWait
 		any = false
@@ -107,13 +109,13 @@ script 11 mmbn4 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	The temperature's
-	dropped to -30⋯
+	A temperatura caiu
+	pra -30 graus...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Getting pretty cold⋯"
+	"Tá começando a\nesfriar..."
 	keyWait
 		any = false
 	end
@@ -123,21 +125,21 @@ script 12 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Sharo SpaceCtr's
-	satellites feature
-	the world's best
+	Os satélites do
+	Centro Espacial
+	apresentam os
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	performance records
-	in the world--Even
+	melhores registros
+	do mundo,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"better than NAXA's!"
+	"melhores até que os\nda NAXA!"
 	keyWait
 		any = false
 	end
@@ -160,22 +162,26 @@ script 15 mmbn4 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	The Red Sun
-	Tournament was
-	awesome!
+	O Torneio Sol
+	Vermelho foi
+	incrível!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The kid that won
-	looked like you.
-	He wore a
+	O campeão foi um
+	menino igualzinho
+	a você.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"bandana,had a pack⋯"
+	"""
+	Ele tinha uma
+	bandana e uma
+	mochila e...
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -185,10 +191,10 @@ script 15 mmbn4 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
-	"Hey!!"
+	"Pera!!"
 	keyWait
 		any = false
 	end
@@ -208,9 +214,9 @@ script 16 mmbn4 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	The SpaceCtr's
-	been busy lately.
-	Is something wrong?
+	O Centro Espacial
+	anda tão ocupado.
+	Por que será?
 	"""
 	keyWait
 		any = false
@@ -231,16 +237,16 @@ script 17 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	You're Lan,right? I
-	heard about you from
-	NAXA! You've got to
+	Você é o Lan,né?
+	A NAXA me falou de
+	você!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	hurry and fix the
-	Net!
+	Por favor,conserte
+	logo a Rede!
 	"""
 	keyWait
 		any = false
@@ -251,22 +257,25 @@ script 18 mmbn4 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	The Blue Moon
-	Tournament was
-	awesome!
+	O Torneio Lua Azul
+	foi incrível!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The kid that won
-	looked like you.
-	He wore a bandana,
+	O campeão foi um
+	menino igualzinho
+	a você.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"had a pack⋯"
+	"""
+	Ele tinha uma
+	bandana e uma
+	mochila e...
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -276,10 +285,10 @@ script 18 mmbn4 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
-	"Hey!!"
+	"Pera!!"
 	keyWait
 		any = false
 	end
@@ -292,9 +301,9 @@ script 20 mmbn4 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	I just saw the
-	winner of the Blue
-	Moon Tournament!
+	Eu acabei de ver o
+	vencedor do Torneio
+	Lua Azul!
 	"""
 	keyWait
 		any = false
@@ -305,14 +314,14 @@ script 21 mmbn4 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	I heard people at 
-	the SpaceCtr
-	worrying about the
+	Eu ouvi o pessoal do
+	Centro Espacial se
+	preocupando com a
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Net. What's wrong?"
+	"Rede. Por que será?"
 	keyWait
 		any = false
 	end
@@ -322,8 +331,8 @@ script 22 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Lan,did you catch
-	the culprit's Navi?
+	Lan,você pegou o
+	Navi do culpado?
 	"""
 	keyWait
 		any = false
@@ -334,9 +343,9 @@ script 23 mmbn4 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	I just saw the
-	winner of the Red
-	Sun Tournament!
+	Eu acabei de ver o
+	vencedor do Torneio
+	Sol Vermelho!
 	"""
 	keyWait
 		any = false
@@ -347,15 +356,15 @@ script 25 mmbn4 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	Brrrr⋯
-	It's freezing!
+	Brrrr...
+	Tá congelando!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's it! I'm going
-	home!
+	Já chega!
+	Eu vou pra casa!
 	"""
 	keyWait
 		any = false
@@ -366,17 +375,17 @@ script 26 mmbn4 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	What's going on?
-	Why'd it suddenly
-	get so much colder?
+	O que houve?
+	Por que esfriou
+	tanto de repente?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can handle cold,
-	but this is
-	ridiculous!
+	Eu me dou bem com o
+	frio,mas isto é
+	ridículo!
 	"""
 	keyWait
 		any = false
@@ -387,20 +396,17 @@ script 27 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	I just heard from
-	NAXA that they're
+	A NAXA nos informou
+	que estão planejando
+	enviar um Navi...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	planning to send a
-	Navi. Say,what are
+	Espera! O que você
+	está fazendo aqui?!
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"you doing here?"
 	keyWait
 		any = false
 	end
@@ -410,25 +416,25 @@ script 30 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	We used the weather
-	satellite to tempo-
-	rarily lower the
+	Usamos o satélite
+	climático para bai-
+	xar temporariamente
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	temperature. I hope
-	the civilians don't
-	hear about this!
+	a temperatura.
+	Espero que os civis
+	não descubram!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,our planet's
-	future is resting
-	on you.
+	Lan,o futuro do
+	nosso planeta
+	depende de você.
 	"""
 	keyWait
 		any = false

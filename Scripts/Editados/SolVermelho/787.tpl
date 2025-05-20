@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It's so c-cold⋯
-	My body temp.
-	is dropping.
+	Tá tão f-frio...
+	A temperatura do meu
+	corpo tá caindo.
 	"""
 	keyWait
 		any = false
@@ -18,15 +18,17 @@ script 1 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It's so cold,
-	I can't move.
+	Tá tão frio que eu
+	não consigo me
+	mexer.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I c-can't operate
-	MegaMan like this⋯
+	N-não posso operar o
+	MegaMan deste
+	jeito...
 	"""
 	keyWait
 		any = false
@@ -39,8 +41,8 @@ script 2 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Everything's g-going
-	black⋯
+	Tá t-tudo ficando
+	escuro...
 	"""
 	keyWait
 		any = false
@@ -51,8 +53,8 @@ script 3 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	This is⋯
-	the end⋯
+	É o...
+	meu fim...
 	"""
 	keyWait
 		any = false
@@ -63,9 +65,9 @@ script 4 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I thought I was a
-	goner,but I pulled
-	through somehow.
+	Eu pensei que fosse
+	morrer,mas,milagro-
+	samente,sobrevivi.
 	"""
 	keyWait
 		any = false
@@ -78,8 +80,8 @@ script 5 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,you should be
-	more careful!
+	Lan,toma mais
+	cuidado!
 	"""
 	keyWait
 		any = false
@@ -91,11 +93,11 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I know!"
+	"Eu sei!"
 	keyWait
 		any = false
 	clearMsg
-	"Let's try again!"
+	"Vamos tentar de\nnovo!"
 	keyWait
 		any = false
 	end
@@ -104,13 +106,13 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Let's do it!!"
+	"Vamos lá!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Pressing the B But-
-	ton melts the snow!
+	Apertar o Botão B
+	remove a neve!
 	"""
 	keyWait
 		any = false
@@ -122,8 +124,8 @@ script 11 mmbn4 {
 	msgOpen
 	controlLock
 	"""
-	Good job! The snow
-	has melted away!
+	Boa!
+	A neve tá saindo!
 	"""
 	wait
 		frames = 90
@@ -134,8 +136,8 @@ script 12 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Huff puff⋯
-	That was sure hard!
+	Uff... Aff...
+	Que difícil!
 	"""
 	wait
 		frames = 90
@@ -146,8 +148,8 @@ script 13 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Huff puff⋯
-	⋯Almost done!!
+	Uff... Aff...
+	... Tá quase!!
 	"""
 	wait
 		frames = 90
@@ -158,9 +160,9 @@ script 14 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Huff puff⋯
-	Now we can jack into
-	the antenna.
+	Uff... Aff...
+	Agora,a gente se
+	conecta à antena.
 	"""
 	keyWait
 		any = false
@@ -168,22 +170,26 @@ script 14 mmbn4 {
 }
 script 20 mmbn4 {
 	msgOpen
-	"\"Offer the one that\n explodes just\n behind and has a C.\""
+	"""
+	"Ofereça aquele que
+	explode logo atrás
+	e que tem um C."
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I wonder if that
-	means this chip?
+	Será que isso tá
+	falando do chip?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	MegaMan installed:
+	MegaMan instalou:
 	"
 	"""
 	printChip
@@ -197,7 +203,7 @@ script 20 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"The CyberTorch lit!"
+	"A CyberTocha se\nacendeu!"
 	keyWait
 		any = false
 	end
@@ -205,13 +211,14 @@ script 20 mmbn4 {
 script 21 mmbn4 {
 	msgOpen
 	"""
-	Heating program
-	rebooting⋯
+	REINICIANDO
+	PROGRAMA DE
+	AQUECIMENTO...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"System recovered."
+	"SISTEMA RESTAURADO."
 	keyWait
 		any = false
 	clearMsg
@@ -223,9 +230,9 @@ script 22 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We did it!!
-	We fixed this
-	antenna system!
+	Boa! A gente
+	consertou o sistema
+	desta antena!
 	"""
 	keyWait
 		any = false
@@ -233,22 +240,25 @@ script 22 mmbn4 {
 }
 script 23 mmbn4 {
 	msgOpen
-	"\"Offer the wall of\n flame with an F.\""
+	"""
+	"Ofereça a parede de
+	fogo com um F."
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Oh,I wonder if that
-	means this chip?
+	Será que isso tá
+	falando do chip?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	MegaMan installed:
+	MegaMan instalou:
 	"
 	"""
 	printChip
@@ -262,7 +272,7 @@ script 23 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"The CyberTorch lit!"
+	"A CyberTocha se\nacendeu!"
 	keyWait
 		any = false
 	end
@@ -270,13 +280,14 @@ script 23 mmbn4 {
 script 24 mmbn4 {
 	msgOpen
 	"""
-	HEATING PROGRAM
-	REBOOTING⋯
+	REINICIANDO
+	PROGRAMA DE
+	AQUECIMENTO...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"SYSTEM RECOVERED."
+	"SISTEMA\nRESTAURADO."
 	keyWait
 		any = false
 	clearMsg
@@ -288,9 +299,9 @@ script 25 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We did it!!
-	We fixed this
-	antenna system!
+	Boa! A gente
+	consertou o sistema
+	desta antena!
 	"""
 	keyWait
 		any = false
@@ -298,26 +309,31 @@ script 25 mmbn4 {
 }
 script 26 mmbn4 {
 	msgOpen
-	"\"Offer the one that\n bears lava\n spreading back"
+	"""
+	"Ofereça aquele que
+	possui lava se
+	estendendo para trás
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" and has a K.\""
+	"e que tem um K.\""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Spreads⋯back⋯
-	Oh,this?
+	Estendendo pra
+	trás...
+	Ah,este?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	MegaMan installed:
+	MegaMan instalou:
 	"
 	"""
 	printChip
@@ -331,7 +347,7 @@ script 26 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"The CyberTorch lit!"
+	"A CyberTocha se\nacendeu!"
 	keyWait
 		any = false
 	end
@@ -339,13 +355,14 @@ script 26 mmbn4 {
 script 27 mmbn4 {
 	msgOpen
 	"""
-	HEATING PROGRAM
-	REBOOTING⋯
+	REINICIANDO
+	PROGRAMA DE
+	AQUECIMENTO...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"SYSTEM RECOVERED."
+	"SISTEMA\nRESTAURADO."
 	keyWait
 		any = false
 	clearMsg
@@ -357,9 +374,9 @@ script 28 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We did it!!
-	We fixed this
-	antenna system!
+	Boa! A gente
+	consertou o sistema
+	desta antena!
 	"""
 	keyWait
 		any = false
@@ -367,23 +384,23 @@ script 28 mmbn4 {
 }
 script 29 mmbn4 {
 	msgOpen
-	"\"Offer the black\n flames of destruc-\n tion that"
-	keyWait
-		any = false
-	clearMsg
-	" have a Z.\""
+	"""
+	"Ofereça as chamas
+	negras da destruição
+	que contêm um Z."
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Must be this chip!"
+	"Deve ser este chip\naqui!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	MegaMan installed:
+	MegaMan instalou:
 	"
 	"""
 	printChip
@@ -397,7 +414,7 @@ script 29 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"The CyberTorch lit!"
+	"A CyberTocha se\nacendeu!"
 	keyWait
 		any = false
 	end
@@ -405,13 +422,14 @@ script 29 mmbn4 {
 script 30 mmbn4 {
 	msgOpen
 	"""
-	HEATING PROGRAM
-	REBOOTING⋯
+	REINICIANDO
+	PROGRAMA DE
+	AQUECIMENTO...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"SYSTEM RECOVERED."
+	"SISTEMA\nRESTAURADO."
 	keyWait
 		any = false
 	clearMsg
@@ -423,9 +441,9 @@ script 31 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We did it!!
-	We fixed this
-	antenna system!
+	Boa! A gente
+	consertou o sistema
+	desta antena!
 	"""
 	keyWait
 		any = false

@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The junkyard's up
-	ahead,Lan. Start
-	operating me!
+	O ferro-velho fica
+	logo à frente,Lan.
+	Me opera!
 	"""
 	keyWait
 		any = false
@@ -19,8 +19,8 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Okay,let's go check
-	it out.
+	Beleza.
+	Bora dar uma olhada.
 	"""
 	keyWait
 		any = false
@@ -30,11 +30,11 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wha'?!"
+	"Hã?!"
 	keyWait
 		any = false
 	clearMsg
-	"Look out,MegaMan!"
+	"Cuidado,MegaMan!"
 	keyWait
 		any = false
 	end
@@ -44,13 +44,14 @@ script 3 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	That was close.
-	If that hit⋯
+	Essa foi por pouco.
+	Se tivesse
+	acertado...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Thank you,Lan."
+	"Valeu,Lan."
 	keyWait
 		any = false
 	clearMsg
@@ -61,9 +62,9 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Let's hurry on
-	ahead. There's
-	something wrong!
+	Anda rápido.
+	Tem alguma coisa
+	errada aqui!
 	"""
 	keyWait
 		any = false
@@ -74,7 +75,7 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Okay!"
+	"Tá bom!"
 	keyWait
 		any = false
 	end
@@ -83,7 +84,7 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"It stopped falling."
+	"Pararam de cair."
 	keyWait
 		any = false
 	clearMsg
@@ -94,8 +95,8 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Great,let's check
-	out the area,
+	Beleza. Bora dar uma
+	checada na área,
 	MegaMan.
 	"""
 	keyWait
@@ -107,7 +108,7 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Okay."
+	"Certo."
 	keyWait
 		any = false
 	end
@@ -117,8 +118,8 @@ script 9 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I don't see anything
-	but trash data,Lan.
+	Só tô vendo
+	dados-lixo,Lan.
 	"""
 	keyWait
 		any = false
@@ -130,16 +131,16 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	But where did it all
-	come from?
+	Mas de onde isso
+	tudo veio?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,we took a look
-	already,so let's
-	jack out for now.
+	Bom,a gente já deu
+	uma olhada,então,
+	desconecta.
 	"""
 	keyWait
 		any = false
@@ -150,7 +151,7 @@ script 10 mmbn4 {
 script 11 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Okay,I'll jack⋯"
+	"Tá,eu vou des..."
 	keyWait
 		any = false
 	soundStopBGM
@@ -162,7 +163,7 @@ script 12 mmbn4 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"⋯⋯\n"
+	"......\n"
 	mugshotAnimation
 		animation = 2
 	"MegaMan?!"

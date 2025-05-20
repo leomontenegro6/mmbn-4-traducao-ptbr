@@ -6,7 +6,7 @@ script 0 mmbn4 {
 		height = 1
 	color
 		palette = 1
-	"Hi,everyone!"
+	"Oi,gente!"
 	keyWait
 		any = false
 	clearMsg
@@ -14,8 +14,8 @@ script 0 mmbn4 {
 		width = 20
 		height = 2
 	"""
-	The semi-finals have
-	come to an end!
+	As semifinais
+	chegaram ao seu fim!
 	"""
 	keyWait
 		any = false
@@ -24,8 +24,9 @@ script 0 mmbn4 {
 		width = 20
 		height = 2
 	"""
-	Even more thrilling
-	than the Round 1
+	Foi ainda mais
+	emocionante que a
+	primeira rodada,
 	"""
 	keyWait
 		any = false
@@ -34,9 +35,9 @@ script 0 mmbn4 {
 		width = 19
 		height = 3
 	"""
-	the battles charged
-	this whole arena
-	with excitement!!
+	com lutas que
+	fizeram a arena
+	inteira vibrar!!
 	"""
 	keyWait
 		any = false
@@ -47,47 +48,47 @@ script 1 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	As the battle to
-	be Electopia's champ
-	is about to begin,
+	E agora,eu vou
+	anunciar para vocês
+	a luta final,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can now announce
-	the final pairing!
+	que vai definir o
+	melhor NetLutador
+	de Ni-Hon!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sure everyone
-	is breathless with
-	anticipation!
+	Sei que estão todos
+	super ansiosos pra
+	saber!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My own heart is 
-	nearly jumping out
-	of my chest!
+	Até o meu coração tá
+	a mil!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Who will fight for
-	the title of No.1
-	Electopia Battler?!
+	Quem irá lutar pelo
+	título de Número 1
+	de Ni-Hon?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I give you⋯the
-	tournament board!!
+	Bom,hora de ver...
+	o quadro do torneio!
 	"""
 	keyWait
 		any = false

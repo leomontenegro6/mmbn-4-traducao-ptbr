@@ -5,8 +5,8 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan? Are you
-	there? Answer me!
+	MegaMan? Você tá aí?
+	Responde!
 	"""
 	keyWait
 		any = false
@@ -24,7 +24,7 @@ script 0 mmbn4 {
 }
 script 1 mmbn4 {
 	mugshotHide
-	"L⋯n⋯"
+	"L...n..."
 	keyWait
 		any = false
 	clearMsg
@@ -36,8 +36,7 @@ script 2 mmbn4 {
 		mugshot = Lan
 	"""
 	MegaMan?!
-	Is that you,
-	MegaMan?
+	É você,MegaMan?
 	"""
 	keyWait
 		any = false
@@ -48,7 +47,7 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Yeah!"
+	"Aham!"
 	keyWait
 		any = false
 	clearMsg
@@ -59,21 +58,21 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I barely jacked out
-	in time!
+	Ufa,eu desconectei
+	bem em cima da hora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What a relief! I
-	don't know what I'd
-	do without you!
+	Que alívio! Eu não
+	sei o que eu faria
+	se te perdesse!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Are you hurt?!"
+	"Cê se machucou?!"
 	keyWait
 		any = false
 	clearMsg
@@ -83,7 +82,7 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Uh⋯no,I'm fine."
+	"Hã... Não,tô de boa."
 	keyWait
 		any = false
 	clearMsg
@@ -93,13 +92,14 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Ah,whew!"
+	"Ah,ainda bem!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But isn't there
-	something different?
+	... Mas tem alguma
+	coisa diferente
+	aqui...
 	"""
 	keyWait
 		any = false
@@ -111,8 +111,8 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	No,not a thing!
-	Nothing.
+	Diferente? Não!
+	Nada. Tem nada,não.
 	"""
 	keyWait
 		any = false
@@ -124,8 +124,8 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Are you sure you're
-	MegaMan?!
+	Certeza que você é
+	mesmo o MegaMan?!
 	"""
 	keyWait
 		any = false
@@ -136,22 +136,22 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Um,of course!"
+	"Er,c-claro,né?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh,by the way,why
-	don't we withdraw
-	from the tourney?
+	Ah,aliás,por que
+	a gente não desiste
+	do torneio?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My head feels all
-	groggy⋯I don't
-	think I could fight.
+	Minha cabeça tá toda
+	tonta... Acho que eu
+	não consigo lutar.
 	"""
 	keyWait
 		any = false
@@ -163,17 +163,17 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	You're kidding⋯
-	I don't want to push
-	you too hard.
+	Sério...? Bom,eu
+	não quero arriscar
+	essas coisas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh well,I guess we
-	have to withdraw
-	from this tourney.
+	É,acho que a gente
+	vai ter que jogar a
+	toalha,mesmo.
 	"""
 	keyWait
 		any = false
@@ -186,7 +186,7 @@ script 11 mmbn4 {
 		mugshot = MegaMan
 	mugshotAnimation
 		animation = 1
-	"(Hehehe!)"
+	"(He he he!)"
 	keyWait
 		any = false
 	clearMsg
@@ -199,9 +199,9 @@ script 12 mmbn4 {
 	mugshotAnimation
 		animation = 2
 	"""
-	Um,are you really
-	really really sure
-	you're MegaMan?
+	... Tem CERTEZA
+	MESMO que você é
+	o MegaMan?
 	"""
 	keyWait
 		any = false
@@ -212,18 +212,19 @@ script 12 mmbn4 {
 script 13 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Of course I am!"
+	"Claro que eu\ntenho,ô!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's hurry up and
-	withdraw from the
+	Bora logo sair do
+	torneio de uma vez
+	e só ficar de boa,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"tourney and relax!"
+	"relaxando!"
 	keyWait
 		any = false
 	clearMsg
@@ -235,15 +236,15 @@ script 14 mmbn4 {
 		mugshot = Lan
 	mugshotAnimation
 		animation = 1
-	"(Maybe his perso-\n nality was changed\n by the shock of the"
+	"(Será que a persona-\nlidade dele mudou\ncom o choque do"
 	keyWait
 		any = false
 	clearMsg
-	" accident,but\n there's something\n strange about him."
+	"acidente? Mas ele tá\nmuito estranho\nsim..."
 	keyWait
 		any = false
 	clearMsg
-	" I'd better keep\n talking and see how\n he is.)"
+	"Melhor eu continuar\nconversando pra ver\nqual é a parada.)"
 	keyWait
 		any = false
 	end

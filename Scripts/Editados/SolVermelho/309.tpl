@@ -5,30 +5,29 @@ script 0 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Velcome to ze
-	"Dracky" comp!
-	From vhat I hear,
+	Bem-vindo à rede do
+	"Dracky"! Parece que
+	havia um vilão
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	a villain was impos-
-	tering me. I am fri-
-	ghtfully sorry for
+	fingindo ser eu.
+	Sinto muitíssimo
+	pela dor de cabeça!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ze trouble! But! 
-	I am all fine now,so
-	Shall we depart? Let
+	Mas estou bem agora.
+	Pronto para partir?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"us depart at once!"
+	"Vamos logo!"
 	keyWait
 		any = false
 	clearMsg
@@ -71,16 +70,16 @@ script 1 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Yes! Ve shall leave
-	zis dreary platform
-	and sail on ze river
+	Isso! Deixaremos
+	esta plataforma e
+	viajaremos pelo rio
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	of fake blood!!
-	Here goes!!
+	de sangue... falso!!
+	Vamos lá!!
 	"""
 	keyWait
 		any = false
@@ -93,15 +92,16 @@ script 2 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Vhat? You vant to
-	stay?!
+	O quê?
+	Você quer ficar?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Vell zen⋯Let me know
-	vhen you are ready!
+	Bom... Avise-me
+	quando estiver
+	pronto!!
 	"""
 	keyWait
 		any = false
@@ -111,7 +111,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Shall we depart?"
+	"Partir?"
 	keyWait
 		any = false
 	clearMsg
@@ -126,7 +126,7 @@ script 11 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Yes  "
+	"Sim "
 	option
 		brackets = false
 		left = 0
@@ -135,7 +135,7 @@ script 11 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"No!"
+	"Não!"
 	select
 		default = 0
 		noDelay = false
@@ -155,7 +155,7 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Shall we depart?"
+	"Partir?"
 	keyWait
 		any = false
 	clearMsg
@@ -170,7 +170,7 @@ script 14 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Yes  "
+	"Sim "
 	option
 		brackets = false
 		left = 0
@@ -179,7 +179,7 @@ script 14 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"No!"
+	"Não!"
 	select
 		default = 0
 		noDelay = false
@@ -196,7 +196,7 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Shall we depart?"
+	"Partir?"
 	keyWait
 		any = false
 	clearMsg
@@ -211,7 +211,7 @@ script 15 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Yes  "
+	"Sim "
 	option
 		brackets = false
 		left = 0
@@ -220,7 +220,7 @@ script 15 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"No!"
+	"Não!"
 	select
 		default = 0
 		noDelay = false
@@ -241,7 +241,7 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Ze final stop!"
+	"Parada final!"
 	keyWait
 		any = false
 	end
@@ -250,7 +250,7 @@ script 24 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Shall we depart?"
+	"Partir?"
 	keyWait
 		any = false
 	clearMsg
@@ -265,7 +265,7 @@ script 24 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Yes  "
+	"Sim "
 	option
 		brackets = false
 		left = 0
@@ -274,7 +274,7 @@ script 24 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"No!"
+	"Não!"
 	select
 		default = 0
 		noDelay = false
@@ -291,7 +291,7 @@ script 100 mmbn4 {
 	mugshotShow
 		mugshot = Django
 	msgOpen
-	"Hi MegaMan! Is that"
+	"Oi,MegaMan! Aquele"
 	keyWait
 		any = false
 	clearMsg
@@ -300,31 +300,31 @@ script 100 mmbn4 {
 		buffer = 0
 		chip = 34
 	"""
-	" coming in
-	handy? You know,
+	" está sen-
+	do útil? Sabe,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	when I was chasing
-	after ShadeMan in
-	the Undernet,I felt
+	enquanto eu caçava o
+	ShadeMan na Under-
+	net,senti uma força
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	a tremendous force
-	of evil emanating
-	from Undernet3.
+	maligna tremenda
+	emanando da
+	Undernet 3.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder what that
-	was?
+	O que será que era
+	aquilo?
 	"""
 	keyWait
 		any = false
@@ -335,16 +335,16 @@ script 101 mmbn4 {
 		mugshot = Otenko
 	msgOpen
 	"""
-	I shall teach you
-	a good luck charm to
+	Vou te ensinar uma
+	magia de boa sorte
+	pra te animar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	lift your spirits.
-	Follow my lead and
-	shout:
+	É simples: grite
+	junto comigo...
 	"""
 	keyWait
 		any = false
@@ -353,7 +353,7 @@ script 101 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Well? Feel better?"
+	"E aí? Tá se sentindo\nmelhor?"
 	keyWait
 		any = false
 	end

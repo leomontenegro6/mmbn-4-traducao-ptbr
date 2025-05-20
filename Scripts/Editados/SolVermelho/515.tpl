@@ -5,8 +5,9 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	⋯Huh?
-	There's no response.
+	... Ué?
+	Não aconteceu
+	nada.
 	"""
 	keyWait
 		any = false
@@ -19,15 +20,17 @@ script 1 mmbn4 {
 	mugshotHide
 	msgOpen
 	"""
-	It looks like the
-	story data is wrong.
+	Parece que eram os
+	dados de narrativa
+	errados.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	All of your data
-	has been deleted!
+	Os dados que você
+	inseriu foram
+	deletados!
 	"""
 	keyWait
 		any = false

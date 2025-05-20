@@ -4,13 +4,13 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yow!"
+	"Credo!"
 	wait
 		frames = 70
 	clearMsg
 	"""
-	Lan,the wind's
-	incredible!
+	Lan,o vento tá um
+	absurdo!
 	"""
 	wait
 		frames = 70
@@ -22,9 +22,9 @@ script 1 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	GET OUT OF HERE
-	IMMEDIATELY! THIS
-	PLACE IS DANGEROUS!
+	DEIXEM A ÁREA
+	IMEDIATAMENTE!
+	É PERIGOSO AQUI!
 	"""
 	end
 }
@@ -32,7 +32,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"YARRGGGHHH!!!"
+	"AAAAAAAAHHH!!!"
 	keyWait
 		any = false
 	end
@@ -41,13 +41,13 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"We'd better hurry."
+	"É melhor a gente\ncorrer."
 	keyWait
 		any = false
 	clearMsg
 	"""
 	MegaMan!
-	Look for WindMan!
+	Encontra o WindMan!
 	"""
 	keyWait
 		any = false
@@ -59,7 +59,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Gotcha!"
+	"Tá!"
 	keyWait
 		any = false
 	end

@@ -11,42 +11,43 @@ script 0 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME TO YAI'S
-	HP!!
+	BEM-VINDO À PÁGINA
+	DA YAI!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THIS PAGE HAS NO
-	LINKS,CURRENTLY.
+	ESTA PÁGINA NÃO TEM
+	LINKS, NO MOMENTO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WOULD YOU LIKE TO
-	EXCHANGE LINKS?
+	GOSTARIA DE TROCAR
+	LINKS?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF WE DO,IT WILL
-	DIRECTLY CONNECT
-	THIS PAGE TO YOURS,
+	UM LINK CONECTARIA
+	ESTA PÁGINA
+	DIRETAMENTE À SUA,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SO YOU CAN JUMP TO
-	HERE FROM YOUR PAGE!
+	DAÍ VOCÊ PODERIA VIR
+	PARA CÁ DIRETAMENTE
+	DA SUA PÁGINA!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"HOW ABOUT IT?"
+	"QUE TAL?"
 	keyWait
 		any = false
 	clearMsg
@@ -86,8 +87,8 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	IF YOU CHANGE YOUR
-	MIND,LET ME KNOW!
+	SE MUDAR DE IDEIA,
+	É SÓ AVISAR!
 	"""
 	keyWait
 		any = false
@@ -98,16 +99,17 @@ script 1 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	REALLY? YOU WANT TO
-	EXCHANGE LINKS?
+	É MESMO? VOCÊ QUER
+	TROCAR LINKS?
+	QUE ÓTIMO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	GREAT! TAKE THIS.
-	USE THIS BANNER TO
-	ACCESS THIS PAGE!
+	AQUI! USE ESTE
+	BANNER PARA ACESSAR
+	ESTA PÁGINA!
 	"""
 	keyWait
 		any = false
@@ -135,9 +137,9 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	OKAY! I'M GOING
-	TO BUILD THE LINK
-	RIGHT NOW⋯
+	CERTO! VOU CONSTRUIR
+	O LINK AGORA
+	MESMO...
 	"""
 	keyWait
 		any = false
@@ -165,16 +167,16 @@ script 2 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	ALL'S QUIET ON
-	THIS HOMEPAGE TODAY!
+	ESTÁ TUDO EM PAZ
+	AQUI NA PÁGINA HOJE!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	AND Y'KNOW WHY?
-	BECAUSE I'M HERE,
-	THAT'S WHY!
+	E SABE POR QUÊ?
+	PORQUE EU ESTOU
+	AQUI,ORAS!
 	"""
 	keyWait
 		any = false
@@ -210,15 +212,15 @@ script 10 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	I just love this
-	homepage.
+	Eu simplesmente
+	adoro esta página.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's soooo cute!
-	I can't get enough!
+	É tããããão lindinha!
+	Não canso dela!
 	"""
 	keyWait
 		any = false
@@ -254,8 +256,8 @@ script 11 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	No good posts
-	today,I guess⋯
+	É,nenhuma postagem
+	interessante hoje...
 	"""
 	keyWait
 		any = false
@@ -291,14 +293,18 @@ script 12 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I always read,but
-	never post!
-	They call people
+	Eu sempre leio,mas
+	nunca posto!
+	
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"like me a \"ROM\". \n\"Read-Only Member.\""
+	"""
+	Pessoas como eu são
+	conhecidas como
+	"lurkers".
+	"""
 	keyWait
 		any = false
 	end
@@ -308,14 +314,14 @@ script 15 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	I hear the girl
-	who runs this page,
-	Yai,is really rich!
+	Ouvi falar que a
+	administradora da
+	página,Yai,é ricaça!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm jealous⋯!"
+	"Que inveja...!"
 	keyWait
 		any = false
 	end
@@ -325,8 +331,9 @@ script 16 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I always linger when
-	I come to this page.
+	Sempre acabo ficando
+	bastante tempo
+	quando venho aqui.
 	"""
 	keyWait
 		any = false
@@ -336,20 +343,20 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = PurpleNavi
 	msgOpen
-	"A Net-attack?"
+	"Um Net-ataque?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't worry,nothing
-	like that will ever
+	Ah,uma coisa dessas
+	nunca aconteceria
+	nesta página!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	happen here!
-	Don't sweat it!
+	Não esquenta!
 	"""
 	keyWait
 		any = false
@@ -360,16 +367,17 @@ script 20 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	I hear some Navis
-	were attacked on
-	the Net. These days
+	Ouvi falar que uns
+	Navis foram atacados
+	na Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm always looking
-	over my shoulder⋯
+	Agora eu ando pra
+	todo lado com
+	medo...
 	"""
 	keyWait
 		any = false
@@ -383,16 +391,15 @@ script 21 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	The Den Battle
-	Tournament
-	has just begun!!
+	O Torneio de Batalha
+	Den começou!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't wait to
-	see the battles!
+	Mal posso esperar
+	pra ver as lutas!
 	"""
 	keyWait
 		any = false
@@ -403,16 +410,17 @@ script 22 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I hear that Glyde,
-	didn't enter the
-	tournament.
+	Ouvi falar que o
+	Glide não entrou no
+	torneio.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I really wanted to
-	see her battle,too!
+	Poxa,e eu queria
+	tanto ver a Yai
+	lutando!
 	"""
 	keyWait
 		any = false
@@ -423,16 +431,15 @@ script 23 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	The City Battle
-	Tournament
-	has just begun!!
+	O Torneio de Batalha
+	da Cidade começou!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't wait to
-	see the battles!
+	Mal posso esperar
+	pra ver as lutas!
 	"""
 	keyWait
 		any = false
@@ -443,15 +450,16 @@ script 25 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	Tournament? Don't
-	ask me,I'm not 
+	Torneio? Eu sou a
+	pessoa errada pra
+	perguntar,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	into Net Battling.
-	It's so barbaric.
+	não curto NetLuta.
+	É pura barbárie.
 	"""
 	keyWait
 		any = false
@@ -462,9 +470,9 @@ script 26 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	When I get a little
-	bit stronger,I'll
-	try a tournament.
+	Quando eu ficar mais
+	forte,eu tento
+	entrar em torneio.
 	"""
 	keyWait
 		any = false
@@ -475,9 +483,9 @@ script 27 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	The tournament's
-	great! It's too
-	cool for words!
+	O torneio é demais!
+	É incrível! É dez!
+	É legal demais!
 	"""
 	keyWait
 		any = false

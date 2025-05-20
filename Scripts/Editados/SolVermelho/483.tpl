@@ -350,8 +350,8 @@ script 21 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Se algum outro ban-
-	dido aqui,bato nele
+	Se outro bandido en-
+	trar aqui,bato nele
 	com a frigideira!
 	"""
 	keyWait

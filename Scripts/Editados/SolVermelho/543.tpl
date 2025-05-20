@@ -5,15 +5,16 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,it's a
-	warp hole.
+	Lan,é um
+	túnel-portal.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Regal's Navi must
-	be inside⋯
+	O Navi do Regal
+	deve estar lá
+	dentro...
 	"""
 	keyWait
 		any = false
@@ -24,7 +25,7 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	mugshotShow
 		mugshot = LaserMan
-	"So you've come⋯"
+	"Então,você veio..."
 	keyWait
 		any = false
 	clearMsg
@@ -36,8 +37,7 @@ script 2 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Show yourself,
-	LaserMan!
+	LaserMan?!
 	"""
 	keyWait
 		any = false
@@ -48,54 +48,54 @@ script 3 mmbn4 {
 		mugshot = LaserMan
 	msgOpen
 	"""
-	We meet again,
-	MegaMan.
+	Nos encontramos de
+	novo,MegaMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The asteroid control
-	room is inside that
-	warp hole.
+	A sala de controle
+	do asteroide fica
+	além deste portal.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'll ask you again."
+	"Vou convidar mais\numa vez."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Will you wield your
-	power with us in
-	the Syndicate?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	You have but two
-	choices.
+	Não quer comparti-
+	lhar de seu poder
+	com a Nebula?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Come with me into
-	the warp hole and
-	rule the world,
+	Você tem apenas duas
+	opções.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"or⋯"
+	"""
+	Vir comigo pelo
+	portal e governar
+	o mundo...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"ou..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Be torn limb from
-	limb!!
+	ser completamente
+	dilacerado!!
 	"""
 	keyWait
 		any = false
@@ -107,15 +107,16 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I've already
-	answered you!
+	Eu já te dei a minha
+	resposta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I will not be a part
-	of your evil!
+	Eu não vou fazer
+	parte do seu grupo
+	maligno!
 	"""
 	keyWait
 		any = false
@@ -126,14 +127,14 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = LaserMan
-	"As I suspected⋯"
+	"Como eu\nsuspeitava..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Stupid Navi! Your
-	side is doomed to
-	failure.
+	Navi estúpido! O seu
+	lado está fadado ao
+	fracasso.
 	"""
 	keyWait
 		any = false
@@ -145,23 +146,24 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I'm not like I was
-	before!
+	Eu não sou mais
+	quem eu era antes!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My friends have
-	shown me true love!
+	Os meus amigos me
+	mostraram amor de
+	verdade!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My body is full of
-	the warmth of their
-	souls!!
+	O meu corpo está
+	cheio do calor das
+	almas deles!
 	"""
 	keyWait
 		any = false
@@ -173,25 +175,25 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = LaserMan
 	"""
-	Ha! The warmth of
-	souls indeed⋯
+	Ha! O calor das
+	almas...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Listen to me."
+	"... Escute."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That feeble power is
-	no match for the
-	power of evil⋯
+	Esse poder patético
+	nem se compara ao
+	poder do mal...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'll teach you!!"
+	"como irei lhe\nmostrar agora!!"
 	keyWait
 		any = false
 	clearMsg
@@ -201,7 +203,7 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Lan,he's coming!!"
+	"Lan,lá vem ele!!"
 	keyWait
 		any = false
 	clearMsg
@@ -212,8 +214,8 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Show him the power
-	of good!!
+	Mostra pra ele o
+	poder do bem!!
 	"""
 	keyWait
 		any = false
@@ -231,7 +233,7 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -242,8 +244,9 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = LaserMan
 	"""
-	Prepare to become
-	space dust!
+	Prepare-se para se
+	tornar poeira
+	espacial!
 	"""
 	keyWait
 		any = false

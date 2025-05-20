@@ -5,14 +5,14 @@ script 0 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	If you concentrate,
-	you can knock 'em
-	out with one blow!
+	Se focar,consegue
+	derrubar elas com
+	um golpe só!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"One more time!"
+	"De novo!"
 	keyWait
 		any = false
 	clearMsg
@@ -27,7 +27,7 @@ script 0 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"All right!  "
+	"Tá!  "
 	option
 		brackets = false
 		left = 0
@@ -36,7 +36,7 @@ script 0 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Not yet"
+	"Espera"
 	select
 		default = 0
 		noDelay = false
@@ -54,7 +54,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	msgOpen
-	"Begin!"
+	"Começar!"
 	keyWait
 		any = false
 	end
@@ -68,8 +68,8 @@ script 2 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Come back when
-	you're ready!
+	Volte quando
+	estiver pronto!
 	"""
 	keyWait
 		any = false
@@ -82,9 +82,8 @@ script 3 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Novice!
-	Start again from
-	the beginning!
+	Amador!
+	Vai de novo,do zero!
 	"""
 	keyWait
 		any = false
@@ -95,8 +94,8 @@ script 4 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Come back when
-	you're ready!
+	Volte quando
+	estiver pronto!
 	"""
 	keyWait
 		any = false

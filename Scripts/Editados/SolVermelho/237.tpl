@@ -24,17 +24,17 @@ script 0 mmbn4 {
 		mugshot = Dex
 	msgOpen
 	"""
-	I can't believe
-	GutsMan and I 
-	couldn't help!
+	Eu não acredito que
+	eu e o GutsMan fomos
+	inúteis!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Lan!
-	You're Roll's 
-	only hope,Lan!
+	Cê é a única
+	esperança da Roll!
 	"""
 	keyWait
 		any = false
@@ -45,16 +45,16 @@ script 1 mmbn4 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Roll's in the
-	ElTwrComp?!
+	A Roll tá na rede
+	da EletroTorre?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If GutsMan were
-	ready,we could
-	shoot over,but⋯
+	Se o GutsMan tivesse
+	pronto,a gente ia
+	disparado pra lá...
 	"""
 	keyWait
 		any = false
@@ -65,8 +65,9 @@ script 2 mmbn4 {
 		mugshot = Dex
 	msgOpen
 	"""
-	I'm sorry,Lan!
-	Save Roll for me!
+	Desculpa,Lan!
+	Salva a Roll por
+	mim!
 	"""
 	keyWait
 		any = false
@@ -77,8 +78,8 @@ script 3 mmbn4 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Lan! Get your butt
-	on the Net,dude!
+	Lan! Vai logo pra
+	Rede,cara!
 	"""
 	keyWait
 		any = false
@@ -88,28 +89,29 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Hey,Lan!"
+	"Aí,Lan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I knew you could
-	save Roll,dude!
-	Good work!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	But that Black
-	Navi got away⋯
+	Eu sabia que cê ia
+	salvar a Roll!
+	Mandou bem!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll pulverize
-	him if I see him!
+	Mas aquele Navi
+	Roxo acabou
+	fugindo...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Se eu esbarrar com
+	ele,ele já era,viu?!
 	"""
 	keyWait
 		any = false
@@ -130,15 +132,15 @@ script 10 mmbn4 {
 		mugshot = Chisao
 	msgOpen
 	"""
-	My brudder is
-	busy right now!
+	O meu irmãozão tá
+	ocupado agora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He don't have time
-	to sit and chat!
+	Ele "num" tem tempo
+	pra ficar de papo!
 	"""
 	keyWait
 		any = false
@@ -149,8 +151,8 @@ script 15 mmbn4 {
 		mugshot = Chisao
 	msgOpen
 	"""
-	My brudder will
-	be back soon!
+	O meu irmãozão volta
+	logo!
 	"""
 	keyWait
 		any = false
@@ -161,8 +163,9 @@ script 20 mmbn4 {
 		mugshot = Chisao
 	msgOpen
 	"""
-	I told you! My
-	brudder not HERE!
+	Eu já falei! O meu
+	irmãozão "num" tá
+	aqui!!
 	"""
 	keyWait
 		any = false

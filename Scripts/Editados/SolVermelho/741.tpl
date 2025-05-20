@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We came all this way
-	to NetFrica,but
-	there's nobody here!
+	A gente veio longe
+	assim pra Affriq,
+	mas não tem ninguém!
 	"""
 	keyWait
 		any = false
@@ -20,7 +20,7 @@ script 1 mmbn4 {
 	soundDisableTextSFX
 	soundPlay
 		track = 410
-	"Grrraarrwwlllll!!!"
+	"Rrraaaaarrr!!!"
 	wait
 		frames = 32
 	soundEnableTextSFX
@@ -33,7 +33,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What was that?!"
+	"O que foi isso?!"
 	keyWait
 		any = false
 	end
@@ -42,7 +42,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Mr.Famous!"
+	"Sr. Famoso!"
 	keyWait
 		any = false
 	end
@@ -54,16 +54,16 @@ script 4 mmbn4 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	Taking hostages,
-	pah! Despicable!
+	Fazer reféns...
+	Bá! Detestável!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You haven't gotten
-	any better since
-	those days!
+	Você não melhorou
+	nada desde os velhos
+	tempos!
 	"""
 	keyWait
 		any = false
@@ -74,36 +74,37 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
-	"Bah!"
+	"Rá!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do you know how much
-	I've suffered in the
-	5 years since you
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	kicked me out?!
-	Everyone heard about
-	it,and I've been
+	Tem noção do quanto
+	eu sofri nos 5 anos
+	desde que você me
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the laughingstock
-	of the whole Net!
+	expulsou?! Todo
+	mundo ficou sabendo,
+	e eu virei motivo de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Can you understand
-	my humiliation?!
+	chacota para toda a
+	Rede!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Você sequer é capaz
+	de entender a minha
+	humilhação?!
 	"""
 	keyWait
 		any = false
@@ -115,47 +116,47 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	You were a great
-	NetBattler,
+	Você era um ótimo
+	NetLutador,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but you grew proud
-	and forgot all about
-	human kindness.
+	mas ficou orgulhoso
+	demais e abnegou a
+	ternura humana.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Strength without
-	kindness is nothing
-	but a mere weapon.
+	Força sem ternura
+	não passa de uma
+	arma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's why I sealed
-	off your NetBattle
-	moves and kicked you
+	Por isso eu bloqueei
+	as suas técnicas de
+	NetLuta e te
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	out,before it was
-	too late.
+	expulsei,antes que
+	fosse tarde demais.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The problem is
-	within you. Haven't
-	you realized that?
+	O problema está
+	dentro de você.
+	Não percebe isso?
 	"""
 	keyWait
 		any = false
@@ -165,29 +166,30 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"Shut up!"
+	"Cale a boca!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ever since
-	you sealed off my
-	moves,I haven't
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	been able to beat
-	a single Mettaur!
+	Desde que você
+	bloqueou as minhas
+	técnicas,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So today,I will
-	take my revenge at
-	long last!
+	eu não consegui
+	vencer um Mettaur
+	que fosse!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Então,hoje,eu
+	finalmente terei
+	a minha vingança!
 	"""
 	keyWait
 		any = false
@@ -198,7 +200,7 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
-	"What?!"
+	"O quê?!"
 	keyWait
 		any = false
 	clearMsg
@@ -208,13 +210,13 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
-	"Don't you move!"
+	"Não se mexa!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The lions will feed
-	on the hostages!
+	Ou os leões vão
+	comer os reféns!
 	"""
 	keyWait
 		any = false
@@ -225,7 +227,7 @@ script 10 mmbn4 {
 	soundDisableTextSFX
 	soundPlay
 		track = 410
-	"Growwwrrlll!"
+	"Rrraaarrr!"
 	wait
 		frames = 32
 	keyWait
@@ -248,7 +250,7 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	mugshotShow
 		mugshot = BlackMan
-	"Help us!!!"
+	"Socorro!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -258,7 +260,7 @@ script 12 mmbn4 {
 script 13 mmbn4 {
 	mugshotShow
 		mugshot = BlackWoman
-	"*rattle rattle*"
+	"Brr..."
 	keyWait
 		any = false
 	clearMsg
@@ -268,7 +270,7 @@ script 13 mmbn4 {
 script 14 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
-	"Yaaooow!"
+	"Aaaaahhh!"
 	keyWait
 		any = false
 	clearMsg
@@ -279,22 +281,23 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	Hehehe,are you
-	scared?
+	He he he!
+	Estão com medo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I control those
-	lions with the radio
+	Eu controlo esses
+	leões com ondas de
+	rádio emitidas por
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	waves coming out of
-	that lion statue.
+	essa estátua de
+	leão.
 	"""
 	keyWait
 		any = false
@@ -305,9 +308,9 @@ script 16 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	So I decide whether
-	those hostages live
-	or die!
+	Então,eu decido se
+	os reféns vivem ou
+	morrem!
 	"""
 	keyWait
 		any = false
@@ -318,7 +321,7 @@ script 16 mmbn4 {
 script 17 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
-	"No!!!"
+	"Não!!!"
 	keyWait
 		any = false
 	end
@@ -327,14 +330,14 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"Hey,hostages!"
+	"Ei,reféns!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Watch as I take away
-	Mr.Famous's ability
-	to fight!
+	Assistam aí enquanto
+	eu tiro a capacidade
+	do Famoso de lutar!
 	"""
 	keyWait
 		any = false
@@ -344,7 +347,7 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"There!"
+	"Vejam!"
 	keyWait
 		any = false
 	clearMsg
@@ -354,7 +357,7 @@ script 19 mmbn4 {
 script 20 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
-	"*gulp*"
+	"Urgh...!"
 	keyWait
 		any = false
 	end
@@ -364,13 +367,14 @@ script 21 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	See! Mr.Famous is
-	kneeling before me!
+	Viram?! O Sr. Famoso
+	está se ajoelhando
+	a mim!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Bwahahahaha!!!"
+	"Ua ha ha ha ha!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -381,8 +385,9 @@ script 22 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	If only he didn't
-	have those hostages!
+	Se ao menos ele
+	não tivesse os
+	reféns...!
 	"""
 	keyWait
 		any = false
@@ -393,9 +398,9 @@ script 23 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Mr.Famous is in big
-	trouble! We gotta
-	rescue him!
+	O Sr. Famoso tá
+	enrascado! A gente
+	tem que salvar ele!
 	"""
 	keyWait
 		any = false
@@ -407,16 +412,16 @@ script 24 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	We can't make any
-	false moves with
-	those hostages!
+	Não podemos cometer
+	nenhum deslize com
+	os reféns...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We have to save them
-	first!
+	Temos que salvá-los
+	primeiro!
 	"""
 	keyWait
 		any = false
@@ -428,9 +433,9 @@ script 25 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Yeah,he's control-
-	ling them from that
-	lion statue.
+	É. Ele tá contro-
+	lando os leões da
+	estátua de leão,né?
 	"""
 	keyWait
 		any = false
@@ -441,22 +446,22 @@ script 25 mmbn4 {
 script 26 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Wait!"
+	"Espera!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's jack into that
-	statue without him
-	seeing us!
+	Vamos nos conectar
+	na estátua sem ele
+	perceber!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We might find a way
-	to rescue those
-	hostages!
+	Talvez a gente ache
+	um jeito de salvar
+	os reféns!
 	"""
 	keyWait
 		any = false
@@ -467,14 +472,14 @@ script 27 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's do it while
-	he's still talking
-	to them!
+	Vamos lá,enquanto
+	ele ainda tá falando
+	com eles!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Time to go,MegaMan!"
+	"Bora,MegaMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -484,7 +489,7 @@ script 27 mmbn4 {
 script 28 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Roger!"
+	"É!"
 	keyWait
 		any = false
 	end

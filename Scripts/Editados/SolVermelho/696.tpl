@@ -4,13 +4,13 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Mami
 	msgOpen
-	"WoodMan,deleted!"
+	"WoodMan foi\nderrotado!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And Lan is the
-	winner!
+	Lan Hikari é o
+	vencedor!
 	"""
 	keyWait
 		any = false
@@ -21,9 +21,9 @@ script 1 mmbn4 {
 		mugshot = Sal
 	msgOpen
 	"""
-	I lost⋯
-	You're a great
-	NetBattler,Lan.
+	Perdi... Você é
+	um NetLutador de
+	primeira,Lan.
 	"""
 	keyWait
 		any = false
@@ -35,15 +35,16 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	You were strong too,
-	Sal!
+	Você também é
+	super forte,Sal!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WoodMan has taught
-	me to love nature!
+	O WoodMan realmente
+	me ensinou a amar a
+	natureza!
 	"""
 	keyWait
 		any = false
@@ -61,14 +62,14 @@ script 3 mmbn4 {
 		jumpIfBlueMoon = continue
 	mugshotShow
 		mugshot = MegaMan
-	"Yeah!"
+	"É!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I really felt Sal
-	and WoodMan's love
-	of nature,too!
+	Eu também senti for-
+	te o amor da Sal e
+	do WoodMan por ela!
 	"""
 	keyWait
 		any = false
@@ -84,9 +85,9 @@ script 4 mmbn4 {
 	soundPlay
 		track = 220
 	"""
-	MegaMan's soul has
-	communed with
-	WoodMan's!!
+	A Alma do MegaMan
+	se ligou à do
+	WoodMan!!
 	"""
 	keyWait
 		any = false
@@ -102,32 +103,32 @@ script 5 mmbn4 {
 		mugshot = Sal
 	msgOpen
 	"""
-	If that's what you
-	got from the fight,
-	I have no regrets.
+	Se foi isso que ti-
+	raram da luta,estou
+	muito satisfeita.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Spreading natural
-	conservation is my
-	goal,after all.
+	Promover a conserva-
+	ção do meio ambiente
+	É o meu objetivo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll get back to
-	spreading the love
-	of nature with Wood-
+	E eu vou voltar a
+	espalhar o amor
+	pela natureza com o
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Man and everyone
-	tomorrow!
+	WoodMan e todos os
+	meus amigos amanhã!
 	"""
 	keyWait
 		any = false
@@ -138,14 +139,14 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"You have my support!"
+	"Cê tem o meu apoio!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And I want to eat
-	another one of your
-	lunches!
+	E eu quero muito
+	comer outra marmita
+	sua!
 	"""
 	keyWait
 		any = false
@@ -156,11 +157,11 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = Sal
-	"You got it!"
+	"Hi hi! Com certeza!"
 	keyWait
 		any = false
 	clearMsg
-	"Let's go,WoodMan!"
+	"Vamos,WoodMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -170,7 +171,7 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = WoodMan
-	"Roger!"
+	"Certo!"
 	keyWait
 		any = false
 	end
@@ -179,20 +180,21 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"All for nature⋯"
+	"Tudo pela\nnatureza..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's so cool,to put
-	everything on the
+	É tão legal isso de
+	arriscar tudo por
+	uma coisa epecífica
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	line for one thing
-	you want to protect.
+	que você quer muito
+	proteger.
 	"""
 	keyWait
 		any = false
@@ -204,9 +206,9 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Yeah⋯
-	We should learn from
-	Sal,too!
+	É... A gente tem
+	muito o que aprender
+	com a Sal!
 	"""
 	keyWait
 		any = false
@@ -215,14 +217,14 @@ script 10 mmbn4 {
 script 11 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"I think so,too!"
+	"Concordo!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	From their strong
-	desire to protect
-	nature!
+	Tudo pelo forte
+	desejo deles de
+	proteger a natureza!
 	"""
 	keyWait
 		any = false

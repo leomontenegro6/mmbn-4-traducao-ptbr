@@ -5,16 +5,17 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So we're gonna fight
-	a normal Navi?
+	Então,a gente vai
+	lutar contra um
+	Navi normal?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Doesn't look like
-	there's anything
-	special about him.
+	Não parece que ele
+	tem alguma coisa de
+	especial...
 	"""
 	keyWait
 		any = false
@@ -25,9 +26,9 @@ script 1 mmbn4 {
 		mugshot = ShadyGuy
 	msgOpen
 	"""
-	Excuse me mister,I
-	can't see the
-	tourney information.
+	Com licença,rapaz.
+	Não dá para ver as
+	chaves do torneio.
 	"""
 	keyWait
 		any = false
@@ -37,7 +38,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Oops,sorry."
+	"Opa,foi mal."
 	keyWait
 		any = false
 	end
@@ -47,13 +48,14 @@ script 3 mmbn4 {
 		mugshot = ShadyGuy
 	msgOpen
 	"""
-	Hmm,looks like my
-	opponent is MegaMan?
+	Hmm,parece que o
+	meu oponente é...
+	"MegaMan"?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Never heard of him."
+	"Nunca ouvi falar."
 	keyWait
 		any = false
 	end
@@ -63,31 +65,31 @@ script 4 mmbn4 {
 		mugshot = ShadyGuy
 	msgOpen
 	"""
-	mister,do you know
-	who this MegaMan
-	Navi is?
+	Ei,rapaz,sabe quem
+	é esse Navi,
+	o MegaMan?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's our opponent,
-	but he looks weak.
+	Ele é o nosso
+	oponente,mas
+	parece tão fraco.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess the next
-	battle will be an
-	easy one.
+	Acho que essa
+	próxima luta vai
+	ser moleza.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't you think so,
-	mister?
+	Não acha,rapaz?
 	"""
 	keyWait
 		any = false
@@ -100,7 +102,7 @@ script 5 mmbn4 {
 		mugshot = Lan
 	mugshotAnimation
 		animation = 2
-	"Wha'?!"
+	"É o quê?!"
 	keyWait
 		any = false
 	clearMsg
@@ -113,17 +115,17 @@ script 6 mmbn4 {
 	mugshotAnimation
 		animation = 2
 	"""
-	Hey,why are you
-	looking at me like
-	that?!
+	Ei,por que tá
+	olhando pra mim
+	desse jeito?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wait - are you my
-	next opponent?
-	
+	Espera... VOCÊ
+	é o meu próximo
+	oponente?
 	"""
 	keyWait
 		any = false
@@ -135,9 +137,9 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Yeah,I'm weak-
-	looking MegaMan's
-	operator!
+	É,eu sou o operador
+	do supostamente
+	fraco MegaMan!
 	"""
 	keyWait
 		any = false
@@ -149,23 +151,22 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
 	"""
-	Oh you are! Sorry
-	about that!
+	Ah,é? He,foi mal!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I just say what
-	we're thinking
-	sometimes.
+	Eu sou daqueles que
+	acaba falando antes
+	de pensar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's try to get
-	along,okay?
+	Vamos ficar de boa,
+	tá bom?
 	"""
 	keyWait
 		any = false
@@ -177,8 +178,9 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I don't want really
-	want to get along.
+	Eu realmente não
+	quero ficar de boa
+	com você...
 	"""
 	keyWait
 		any = false
@@ -189,30 +191,30 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
-	"Don't say that."
+	"Ah,vai,não diga\nisso."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is the only
-	time we'll be in the
-	tournament.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	After we win,we
-	won't do any more
-	NetBattles. Hey,you
+	Esta vai ser a nossa
+	única vez em um
+	torneio.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	can brag to your
-	friends that you got
-	along with me after!
+	Depois que vencer-
+	mos,vamos nos apo-
+	sentar da NetLuta.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Então,vai poder se
+	gabar pros amigos
+	que foi legal hoje!
 	"""
 	keyWait
 		any = false
@@ -224,16 +226,17 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	You've been shooting
-	your mouth off the
-	past 5 minutes!
+	Você já tá há cinco
+	minutos só falando
+	besteira!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And by the way-
-	we're gonna win!
+	E,por sinal?
+	A GENTE vai é que
+	vai vencer!
 	"""
 	keyWait
 		any = false
@@ -245,23 +248,24 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
 	"""
-	I don't know what
-	NetBattlers are
+	Eu não sei como
+	vocês,NetLutadores,
+	são,na real,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	really like,but you
-	all seem like wimps
-	to us FootBombers.
+	mas,pra FuteBombis-
+	tas como eu,parecem
+	todos uns moloides.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You even sit like
-	wimps.
+	Até se sentam como
+	moloides.
 	"""
 	keyWait
 		any = false
@@ -273,8 +277,8 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	FootBomb?
-	What's that?
+	FuteBombista?
+	Que que é isso?
 	"""
 	keyWait
 		any = false
@@ -286,16 +290,16 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
 	"""
-	What? You don't know
-	about FootBomb?
+	O quê? Você não
+	conhece o FuteBomba?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You sure don't know
-	much for a guy
-	visiting Netopia!
+	Até um turista na
+	Ameropa devia saber
+	disso!
 	"""
 	keyWait
 		any = false
@@ -306,7 +310,7 @@ script 14 mmbn4 {
 script 15 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Humph!"
+	"Humpf!"
 	keyWait
 		any = false
 	clearMsg
@@ -317,64 +321,63 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
 	"""
-	I'll tell you about
-	it,since you don't
-	know.
+	Eu te explico.
+	É bom educar as
+	massas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	FootBomb is a fight
-	between two guys,
-	to the death.
+	O FuteBomba é uma
+	disputa entre dois
+	homens até a morte.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	People used to do
-	it,but it's too
-	dangerous,so now
+	Rolava em todo canto
+	antigamente,mas por
+	ser perigoso demais,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it's a Cybersport.
-	The rules are
-	simple. Two guys
+	virou CyberEsporte.
+	As regras são
+	simples. Dois homens
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	alternate between
-	offense and defense.
-	The guy on defense
+	se alternam entre
+	ataque e defesa.
+	O da defesa fica
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	stands in front of
-	the wall,and the guy
-	on offense kicks
+	na frente de uma
+	parede,e o do
+	ataque chuta uma
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the ball into the
-	wall. The defense
+	bola na parede.
+	O cara da defesa
+	tenta impedir a bola
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	guy tries to stop
-	the ball from
-	hitting the wall.
+	de atingir a parede.
 	"""
 	keyWait
 		any = false
@@ -386,9 +389,9 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	That sounds like
-	Cybersoccer! How is
-	that life or death?
+	Parece só Cyber-
+	Futebol! Onde que tá
+	o "até a morte"?
 	"""
 	keyWait
 		any = false
@@ -400,17 +403,17 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
 	"""
-	What are you saying!
-	Don't lump this in
-	with soccer!
+	Como é que é?! Não
+	confunda isso com
+	futebol!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You insult a sport
-	that goes back
-	2000 years!
+	Isso é um insulto
+	a esse esporte de
+	2000 anos!
 	"""
 	keyWait
 		any = false
@@ -422,9 +425,8 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Sorry,but it sounds
-	just like soccer to
-	me.
+	Foi mal,mas,pra mim,
+	isso aí é futebol.
 	"""
 	keyWait
 		any = false
@@ -435,21 +437,22 @@ script 19 mmbn4 {
 script 20 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
-	"There you go again!"
+	"Olha a boca!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Okay,I'll show you
-	how FootBomb is
-	different.
+	Tá bom,eu te mostro
+	como o FuteBomba é
+	diferente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's have a
-	FootBomb contest!
+	Vamos fazer uma
+	disputa de
+	FuteBomba!
 	"""
 	keyWait
 		any = false
@@ -460,13 +463,13 @@ script 20 mmbn4 {
 script 21 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Let's do it!"
+	"Já é!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	First,some warming
-	up.
+	É só falar onde e
+	quando.
 	"""
 	keyWait
 		any = false
@@ -477,12 +480,12 @@ script 21 mmbn4 {
 script 22 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
-	"Of course⋯"
+	"He he..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	First,go get your
+	Primeiro,arranje
 	"
 	"""
 	printItem
@@ -490,27 +493,27 @@ script 22 mmbn4 {
 		item = 98
 	"""
 	".
-	Get back in touch
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	with me after you
-	get them.
+	Depois que as
+	adquirir,venha
+	falar comigo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And old man Navi in
-	Netopia Area sells
-	them.
+	O velho Navi na
+	Área Ameropa tem
+	elas pra vender.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Go to his shop."
+	"É só ir lá na\nloja dele."
 	keyWait
 		any = false
 	clearMsg
@@ -525,9 +528,9 @@ script 23 mmbn4 {
 		buffer = 0
 		item = 98
 	"""
-	",hmm⋯
-	Sounds like soccer
-	shoes to me.
+	",é...?
+	É,definitivamente
+	parece futebol.
 	"""
 	keyWait
 		any = false
@@ -539,23 +542,22 @@ script 24 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
 	"""
-	Stop saying "soccer"
-	all the time!
+	Para de falar isso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ah never mind. I'm
-	so excited to play
-	FootBomb again!
+	Ah,esquece. Só tô
+	animado pra jogar
+	FuteBomba de novo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm gonna go
-	ballistic!
+	Eu vou detonar
+	geral!
 	"""
 	keyWait
 		any = false
@@ -566,9 +568,9 @@ script 25 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Are you sure it's
-	okay,to accept such
-	a weird challenge?
+	Certeza que foi uma
+	boa aceitar esse
+	desafio esquisito?
 	"""
 	keyWait
 		any = false
@@ -579,15 +581,16 @@ script 26 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I can't let this
-	rudeness slide.
+	Eu não ia levar esse
+	desaforo pra casa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan want to go
-	get the "
+	Bora,MegaMan.
+	Vamos lá arranjar as
+	"
 	"""
 	printItem
 		buffer = 0

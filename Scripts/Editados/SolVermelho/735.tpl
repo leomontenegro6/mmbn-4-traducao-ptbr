@@ -5,17 +5,17 @@ script 0 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Please forgive the
-	long delay,
-	everyone.
+	Pedimos desculpas
+	pelo longo atraso,
+	meus amigos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	First,it's Lan,
-	the Electopia
-	representative!
+	Primeiro,represen-
+	tando Ni-Hon:
+	Lan Hikari!
 	"""
 	keyWait
 		any = false
@@ -26,9 +26,9 @@ script 1 mmbn4 {
 		mugshot = JunkMan
 	msgOpen
 	"""
-	So you showed up,
-	MegaMan! Let's get
-	started right away!
+	Então,você apareceu,
+	MegaMan! Vamos
+	começar a luta já!
 	"""
 	keyWait
 		any = false
@@ -43,8 +43,8 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	But,where's your
-	operator?
+	Pera,cadê o seu
+	operador?
 	"""
 	keyWait
 		any = false
@@ -56,30 +56,30 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = JunkMan
 	"""
-	I told you,I was
-	born in the junkyard
-	and nobody knew
+	Eu já disse: nasci
+	no ferro-velho,e
+	ninguém sabia sobre
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	about me. I need no
-	operator!
+	mim. Eu não preciso
+	de operador!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I will change all
-	Navis spoiled by
-	operators to junk!
+	Farei todos os Navis
+	mimados por operado-
+	res virarem lixo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So come out,now!
+	Então apareça!
 	MegaMan!
 	"""
 	keyWait
@@ -91,31 +91,32 @@ script 4 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	JunkMan,I want to
-	tell you something
-	before we fight.
+	JunkMan,eu quero te
+	falar uma coisa an-
+	tes da gente lutar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I saw remnants of
-	your memories in the
-	junk data.
+	Eu vi resquícios das
+	suas memórias nos
+	dados-lixo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You aren't the real
-	you,now!
+	O Navi que você é
+	agora não é o
+	verdadeiro "você"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I brought this for
-	you.
+	Eu trouxe isto aqui
+	pra você.
 	"""
 	keyWait
 		any = false
@@ -126,7 +127,7 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotHide
 	"""
-	MegaMan handed over
+	MegaMan entregou
 	"
 	"""
 	printItem
@@ -143,23 +144,24 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	You're looking for
-	kindness,but to
+	Você está atrás
+	de ternura. Mas,
+	pra adquirir isso,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	get it,you need to
-	be kind yourself,
-	first.
+	primeiro,você tem
+	que ser gentil
+	consigo mesmo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You just don't know
-	how.
+	Você só não sabe
+	como.
 	"""
 	keyWait
 		any = false
@@ -171,22 +173,22 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = JunkMan
 	"""
-	Navis like you
-	really are spoiled
-	to the core!
+	... Navis como você
+	são mesmo mimados
+	até o osso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do you really think
-	I'm looking for
-	kindness?!
+	Acha mesmo que
+	eu tô atrás de
+	gentileza?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"You hypocrite!"
+	"Hipócrita!"
 	keyWait
 		any = false
 	clearMsg
@@ -196,8 +198,8 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotHide
 	"""
-	JunkMan crushed
-	the "
+	JunkMan esmagou
+	o "
 	"""
 	printItem
 		buffer = 0
@@ -214,7 +216,7 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Argh!"
+	"Ah!"
 	keyWait
 		any = false
 	clearMsg
@@ -225,30 +227,32 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = JunkMan
 	"""
-	I don't need any
-	kindness!
+	Eu não preciso de
+	ternura coisa
+	nenhuma!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've never felt
-	kindness,since the
-	day I was born!
+	Eu nunca a senti,
+	desde o dia em
+	que nasci!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's start the
-	battle,now!
+	Vamos logo começar a
+	luta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I must turn you into
-	junk!
+	Eu preciso te
+	transformar em
+	ferro-velho!
 	"""
 	keyWait
 		any = false
@@ -259,16 +263,16 @@ script 11 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Let's begin!
-	Lan⋯no.
+	Vamos começar!
+	Lan Hi... Não.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan
+	MegaMan.EXE
 	Vs.
-	JunkMan
+	JunkMan.EXE!
 	"""
 	keyWait
 		any = false
@@ -296,7 +300,7 @@ script 12 mmbn4 {
 script 13 mmbn4 {
 	mugshotShow
 		mugshot = JunkMan
-	"I'll pulverize you!"
+	"Eu vou te\npulverizar!"
 	keyWait
 		any = false
 	end

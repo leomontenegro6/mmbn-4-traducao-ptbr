@@ -11,35 +11,37 @@ script 0 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME TO YAI'S HP!
-	THIS HP IS CURRENTLY
+	BEM-VINDO À PAGINA
+	DA YAI! NO MOMENTO,
+	A PÁGINA NÃO TEM
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	LINK-FREE. WOULD YOU
-	LIKE ME TO CREATE A
+	LINKS. GOSTARIA QUE
+	EU CRIASSE UM LINK
+	SINTÉTICO?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SYNTHETIC LINK? A
-	SYNTHETIC LINK WOULD
+	UM LINK SINTÉTICO
+	LHE PERMITIRIA
+	TRANSITAR ENTRE
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ALLOW YOU TO TRAVEL
-	DIRECTLY BETWEEN
-	YOUR HP AND YAI'S.
+	A SUA PÁGINA E A
+	PÁGINA DA YAI.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"SHALL I INSTALL ONE?"
+	"DEVO INSTALAR UM?"
 	keyWait
 		any = false
 	clearMsg
@@ -79,9 +81,8 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	OH,LET ME KNOW IF
-	YOU CHANGE YOUR
-	MIND.
+	OH. AVISE-ME CASO
+	MUDE DE IDEIA.
 	"""
 	keyWait
 		any = false
@@ -92,16 +93,17 @@ script 1 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	OH,I CAN CREATE THE
-	LINK? HERE,THIS
+	AH,EU POSSO CRIAR
+	O LINK? CERTO.
+	TOME,PEGUE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IS FOR YOU. PLEASE
-	USE THIS BANNER TO
-	VISIT THIS HP.
+	POR FAVOR,USE ESSE
+	BANNER PARA VISITAR
+	ESTA PÁGINA.
 	"""
 	keyWait
 		any = false
@@ -129,16 +131,16 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	I SHALL NOW CREATE
-	THE LINK⋯
+	AGORA,IREI CRIAR
+	OLINK...
 	HA!
 	"""
 	waitSkip
 		frames = 30
-	" HUH!"
+	" HU!"
 	waitSkip
 		frames = 30
-	" HWAWW!"
+	" HIÁ!"
 	waitSkip
 		frames = 30
 	keyWait
@@ -156,16 +158,16 @@ script 2 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	AS ALWAYS,THIS HP IS
-	FUNCTIONING PERFECT-
+	COMO SEMPRE,ESTA
+	PÁGINA ESTÁ OPERANDO
+	COM PERFEIÇÃO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	LY. AFTER ALL,I AM
-	THE ONE IN CHARGE OF
-	IT!
+	CLARO. AFINAL,EU SOU
+	O ENCARREGADO DELA!
 	"""
 	keyWait
 		any = false
@@ -201,24 +203,24 @@ script 10 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	I hear there's a
-	NetBattle world
+	Parece que tá rolan-
+	do um campeonato
+	mundial de NetLuta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	championship taking
-	place. I just start-
-	ed learning how to
+	Eu comecei a
+	aprender a NetLutar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NetBattle myself.
-	Celebrities have to
-	keep abreast!
+	Celebridades
+	precisam saber de
+	tudo um pouco!
 	"""
 	keyWait
 		any = false
@@ -252,9 +254,9 @@ script 11 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	You're entering the
-	Red Sun Tournament,
-	MegaMan?! Good luck!
+	Você vai estar no
+	Torneio Sol Verme-
+	lho?! Boa sorte!
 	"""
 	keyWait
 		any = false
@@ -285,8 +287,8 @@ script 12 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Netopia? I'd like to
-	go there too⋯
+	Ameropa? Eu queria
+	ir lá,também...
 	"""
 	keyWait
 		any = false
@@ -297,14 +299,10 @@ script 13 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	You're entering the
-	Blue Moon
-	Tournament,
+	Você vai estar no
+	Torneio Lua Azul,
+	MegaMan?! Boa sorte!
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"MegaMan?! Good luck!"
 	keyWait
 		any = false
 	end
@@ -314,14 +312,14 @@ script 15 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	You're Electopia's
-	#1 NetBattler,
+	Você é o NetLutador
+	número 1 de Ni-Hon,
 	MegaMan?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Wowee!!"
+	"Carambolas!!"
 	keyWait
 		any = false
 	end
@@ -330,7 +328,7 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Good luck,MegaMan!"
+	"Boa sorte,MegaMan!"
 	keyWait
 		any = false
 	end
@@ -339,13 +337,13 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = PurpleNavi
 	msgOpen
-	"Is the Colosseum"
+	"O Coliseu é grande\nassim...?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	big? ⋯I want to see
-	it too!!
+	Eu queria ver,
+	também!
 	"""
 	keyWait
 		any = false
@@ -356,16 +354,17 @@ script 20 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	I hear something
-	happened on the Net.
+	Parece que aconteceu
+	alguma coisa na
+	Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Celebrities have to
-	always be up-to-date
-	with gossip.
+	Celebridades
+	precisam estar por
+	dentro das fofocas.
 	"""
 	keyWait
 		any = false
@@ -376,16 +375,17 @@ script 21 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I hear the criminal
-	group Nebula is up
-	to no good. It's
+	Parece que a Nebula,
+	o grupo criminoso,
+	tá aprontando.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	best for us to stay
-	home in our PETs.
+	É melhor a gente
+	ficar em casa,nos
+	nossos PETs.
 	"""
 	keyWait
 		any = false
@@ -396,8 +396,9 @@ script 22 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I think I'll be
-	jacking out too⋯
+	Acho que eu vou
+	desconectar,
+	também...
 	"""
 	keyWait
 		any = false
@@ -408,15 +409,16 @@ script 25 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	Huh? All the other
-	Navis are gone!
+	Ué? Todos os outros
+	Navis foram embora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe I should jack
-	out too⋯
+	Talvez eu deva me
+	desconectar
+	também...
 	"""
 	keyWait
 		any = false

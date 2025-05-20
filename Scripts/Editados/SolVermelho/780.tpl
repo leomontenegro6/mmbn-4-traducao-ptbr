@@ -5,8 +5,9 @@ script 0 mmbn4 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Meddling fool. You
-	leave me no choice⋯
+	Tolo intrometido.
+	Você não me deixa
+	escolha...
 	"""
 	keyWait
 		any = false
@@ -21,9 +22,9 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	You're free now!!
-	It's time to fully
-	unleash your power!
+	Está livre agora!
+	Hora de liberar
+	todo o seu poder!
 	"""
 	keyWait
 		any = false
@@ -34,8 +35,8 @@ script 2 mmbn4 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Terminate that Navi
-	behind me!!
+	Elimine o Navi atrás
+	de mim!!
 	"""
 	keyWait
 		any = false
@@ -46,7 +47,7 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = ProtoMan
-	"⋯⋯Raaahhh!"
+	"...... Raaaarr!"
 	keyWait
 		any = false
 	end
@@ -55,7 +56,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Yah!!"
+	"Iá!!"
 	keyWait
 		any = false
 	end
@@ -65,8 +66,9 @@ script 5 mmbn4 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	What speed! My eyes
-	can't even keep up.
+	Q-que velocidade!
+	Meus olhos nem con-
+	seguiram acompanhar!
 	"""
 	keyWait
 		any = false
@@ -81,22 +83,23 @@ script 6 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I didn't even see
-	him! What amazing
+	Nem deu pra eu ver
+	ele! Tanta força e
+	velocidade...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	power and speed.
-	Must be the DarkSoul
+	Deve ser o poder da
+	Alma Sombria...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	power⋯I'm no match
-	for that.
+	Eu não sou páreo pra
+	isso.
 	"""
 	keyWait
 		any = false
@@ -107,7 +110,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = ProtoMan
-	"Gaaahhh⋯"
+	"Graaahhh..."
 	keyWait
 		any = false
 	clearMsg
@@ -117,14 +120,14 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
-	"You gotta focus!!"
+	"Foco!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Listen to me.
-	You must follow my
-	instructions!
+	Escute bem. É só
+	seguir às minhas
+	instruções!
 	"""
 	keyWait
 		any = false
@@ -135,7 +138,7 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"OK⋯"
+	"OK..."
 	keyWait
 		any = false
 	end
@@ -145,8 +148,8 @@ script 10 mmbn4 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	⋯De⋯lete⋯
-	Delete!!
+	... De... letar...
+	Deletar!!
 	"""
 	keyWait
 		any = false
@@ -158,9 +161,9 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	Don't look at Proto-
-	Man. Just focus on
-	my instructions.
+	Não olhe pro Proto-
+	Man. Apenas ouça as
+	minhas direções.
 	"""
 	keyWait
 		any = false
@@ -183,7 +186,7 @@ script 12 mmbn4 {
 script 13 mmbn4 {
 	mugshotShow
 		mugshot = ProtoMan
-	"Uh-ooohhh!!"
+	"Urh-guuooohhh!!"
 	keyWait
 		any = false
 	end
@@ -192,7 +195,7 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Rawrrr!!"
+	"Aaruugh!!"
 	keyWait
 		any = false
 	clearMsg
@@ -203,25 +206,25 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	We worked together
-	on his sword skills
-	for quite some time.
+	Eu e ele treinamos
+	muito as habilidades
+	de espada dele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's so good that
-	he can even fight
-	with his eye closed.
+	Ele é tão bom que
+	pode lutar de olhos
+	fechados.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ProtoMan! You can't
-	cut me with such
-	a clouded soul!!
+	ProtoMan! Você nunca
+	vai me cortar com
+	essa alma fosca!
 	"""
 	keyWait
 		any = false
@@ -243,8 +246,8 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	ProtoMan,wake up!!
-	Can you hear me?!
+	ProtoMan,acorde!!
+	Está me ouvindo?!
 	"""
 	keyWait
 		any = false
@@ -255,7 +258,7 @@ script 17 mmbn4 {
 script 18 mmbn4 {
 	mugshotShow
 		mugshot = ProtoMan
-	"Grrr⋯"
+	"Grrr..."
 	keyWait
 		any = false
 	clearMsg
@@ -265,7 +268,7 @@ script 18 mmbn4 {
 script 19 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Yikes!!"
+	"Aah!!"
 	keyWait
 		any = false
 	clearMsg
@@ -276,16 +279,17 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	MegaMan will be his-
-	tory at this rate.
+	Nesse ritmo,o
+	MegaMan será
+	eliminado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,destroy ProtoMan
-	if something should
-	happen to me.
+	Lan. Se acontecer
+	alguma coisa comigo,
+	destrua o ProtoMan.
 	"""
 	keyWait
 		any = false
@@ -296,7 +300,7 @@ script 20 mmbn4 {
 script 21 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Whatdaya doing?!"
+	"O que que cê vai\nfazer?!"
 	keyWait
 		any = false
 	clearMsg
@@ -307,22 +311,24 @@ script 22 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	I wanna sync with
-	him via MegaMan.
+	Quero me sincronizar
+	com ele através do
+	MegaMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It won't be like
-	your Full Synchro,
+	Não vai ser como a
+	Sincronia Total de
+	vocês,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but I'll be able to
-	sense his suffering.
+	mas vou poder sentir
+	o sofrimento dele.
 	"""
 	keyWait
 		any = false
@@ -334,16 +340,16 @@ script 23 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	You might be able to
-	touch his soul by
-	syncing with him⋯
+	Com a sincronia,cê
+	pode se ligar à
+	alma dele,sim...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But you'll greatly
-	endanger yourself.
+	mas vai correr um
+	perigo gigantesco!
 	"""
 	keyWait
 		any = false
@@ -355,18 +361,18 @@ script 24 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	I wouldn't be an ace
-	NetBattler without
-	taking such risks!
+	Eu não seria um Net-
+	Lutador prodígio se
+	não tomasse riscos!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Lan,do as I asked⋯"
+	"Lan,faça o que eu\npedi..."
 	keyWait
 		any = false
 	clearMsg
-	"Coming ProtoMan!"
+	"Aqui vou eu,\nProtoMan!"
 	keyWait
 		any = false
 	soundPlayBGM
@@ -387,13 +393,13 @@ script 26 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Whoa!"
+	"Aah!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Chaud's Emotion is
-	flowing into me!!
+	As Emoções do Chaud
+	tão fluindo em mim!!
 	"""
 	keyWait
 		any = false
@@ -404,7 +410,7 @@ script 26 mmbn4 {
 script 27 mmbn4 {
 	mugshotShow
 		mugshot = ProtoMan
-	"Uh-gaaahhh!!"
+	"Urh-grraaahhh!!"
 	keyWait
 		any = false
 	clearMsg
@@ -419,13 +425,14 @@ script 28 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Convey Chaud's feel-
-	ings to ProtoMan!!
+	Que os sentimentos
+	do Chaud cheguem no
+	ProtoMan!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Yaaahhhh!!"
+	"Aaaaahhhh!!"
 	keyWait
 		any = false
 	clearMsg
@@ -435,7 +442,7 @@ script 28 mmbn4 {
 script 29 mmbn4 {
 	mugshotShow
 		mugshot = ProtoMan
-	"Gwahhhhhh!!"
+	"Gruahhhhhh!!"
 	keyWait
 		any = false
 	end
@@ -463,11 +470,11 @@ script 31 mmbn4 {
 script 32 mmbn4 {
 	mugshotShow
 		mugshot = ProtoMan
-	"Ugh⋯"
+	"Ugh..."
 	keyWait
 		any = false
 	clearMsg
-	"W-what am I⋯"
+	"O-o que eu estou..."
 	keyWait
 		any = false
 	clearMsg
@@ -477,7 +484,7 @@ script 32 mmbn4 {
 script 33 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Can't you remember?"
+	"Você não se lembra?"
 	keyWait
 		any = false
 	clearMsg
@@ -487,21 +494,22 @@ script 33 mmbn4 {
 script 34 mmbn4 {
 	mugshotShow
 		mugshot = ProtoMan
-	"Nope⋯"
+	"Não..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	All I remember is
-	hatred,malice,and
-	darkness,followed by
+	Só o que me lembro é
+	de ódio,malícia e
+	escuridão,seguidos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	a soft light from⋯
-	⋯Chaud!
+	por uma luz suave
+	do...
+	... Mestre Chaud!
 	"""
 	keyWait
 		any = false

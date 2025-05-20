@@ -180,7 +180,7 @@ script 8 mmbn4 {
 	"""
 	Deletar o ShadeMan
 	deve ter parado o
-	Robô de Brinquedo.
+	Robô-Brinquedo.
 	"""
 	keyWait
 		any = false

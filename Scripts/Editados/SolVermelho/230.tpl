@@ -5,9 +5,8 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's say good
-	morning to Mom
-	and go!
+	Dá bom dia pra mamãe
+	antes de sair!
 	"""
 	keyWait
 		any = false
@@ -22,16 +21,15 @@ script 1 mmbn4 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Today's your big
-	day!
+	Hoje é o seu grande
+	dia!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't worry
-	about me. Go have
-	fun!
+	Não se preocupe
+	comigo. Divirta-se!
 	"""
 	keyWait
 		any = false
@@ -44,8 +42,8 @@ script 2 mmbn4 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Have fun,and stay
-	out of traffic!
+	Divirta-se,e cuidado
+	com o trânsito!
 	"""
 	keyWait
 		any = false
@@ -71,15 +69,16 @@ script 5 mmbn4 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Aren't you supposed
-	to be in Netopia?
+	Não era para você
+	estar na Ameropa?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Are you homesick?
-	Tee hee hee!
+	Já está com saudades
+	de casa?
+	Hi hi!
 	"""
 	keyWait
 		any = false
@@ -90,9 +89,9 @@ script 10 mmbn4 {
 		mugshot = Mom
 	msgOpen
 	"""
-	The tournament's
-	begun? Don't get
-	into any trouble,ok?
+	O torneio começou?
+	Cuidado pra não se
+	meter em confusão!
 	"""
 	keyWait
 		any = false
@@ -103,24 +102,24 @@ script 15 mmbn4 {
 		mugshot = Mom
 	msgOpen
 	"""
-	You won the first
-	match? That's
-	wonderful!
+	Você venceu a
+	primeira luta?
+	Que maravilha!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't push
-	yourself too hard
+	Mas não se force
+	demais.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	though. Your health
-	is more important
-	than any tournament!
+	A sua saúde é mais
+	importante que
+	qualquer torneio!
 	"""
 	keyWait
 		any = false
@@ -131,9 +130,9 @@ script 20 mmbn4 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Next are the finals,
-	right? I saw you on
-	TV! I surprised!
+	Agora são as finais,
+	né? Eu te vi na TV!
+	Fiquei chocada!
 	"""
 	keyWait
 		any = false
@@ -153,28 +152,28 @@ script 25 mmbn4 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"I heard from Dad. If"
+	"O seu pai me ligou."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you're going to
-	fight to save our
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	planet,then I'm
-	going to watch over
-	our home until you
+	Se você vai lutar
+	pra salvar o nosso
+	mundo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	get back,Lan. I
-	won't run away!
+	então eu vou cuidar
+	da nossa casa até
+	você voltar,filho.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Eu não vou fugir!
 	"""
 	keyWait
 		any = false
@@ -185,21 +184,21 @@ script 30 mmbn4 {
 		mugshot = Mom
 	msgOpen
 	"""
-	There are only two
-	things I can do:
+	Só há duas coisas
+	que eu posso fazer:
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Watch over this home
-	and cheer you up as
-	you head out. Now
+	cuidar da casa e
+	torcer por você ao
+	sair de casa.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"go make me proud!"
+	"Vá lá,Lan.\nMe encha de orgulho!"
 	keyWait
 		any = false
 	end
@@ -208,11 +207,10 @@ script 35 mmbn4 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"I'll be here until"
-	keyWait
-		any = false
-	clearMsg
-	"you come back Lan."
+	"""
+	Vou ficar aqui até
+	você voltar,filho.
+	"""
 	keyWait
 		any = false
 	end

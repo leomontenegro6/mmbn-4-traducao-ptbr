@@ -86,7 +86,7 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	UM NAVI PRETO...!
+	UM NAVI ROXO...!
 	UM NAVI...
 	"""
 	keyWait
@@ -373,7 +373,7 @@ script 31 mmbn4 {
 	clearMsg
 	"""
 	Hmm? Onde dá para
-	achar Ourosouros?
+	achar Bes-Ouros?
 	"""
 	keyWait
 		any = false
@@ -435,13 +435,13 @@ script 40 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"COMO VOCÊ VAI?"
+	"COMO VOCÊ ESTÁ?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	AINDA NA LUTA DA
-	VIDA? UAU!
+	AINDA DANDO DURO NO
+	TORNEIO? UAU!
 	QUE DEMAIS!
 	"""
 	keyWait
@@ -526,7 +526,7 @@ script 130 mmbn4 {
 	clearMsg
 	"""
 	Belê. Eu dou... por
-	um precinho básico:
+	um precinho legal:
 	1 milhão de Zennys!
 	"""
 	keyWait
@@ -604,15 +604,16 @@ script 140 mmbn4 {
 	msgOpen
 	"""
 	Ah,é você...
-	Tem tempo?
+	Pode só ouvir um
+	pouquinho?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Ouvi dizer que você
-	tá trabalhando
-	pro Tensuke.
+	tá trabalhando pro
+	Tensuke.
 	"""
 	keyWait
 		any = false
@@ -645,9 +646,9 @@ script 141 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Tensuke and Chief
-	should be in
-	ElecTown Square.
+	Tensuke e o Chefe
+	devem estar na
+	Praça da EletroVila.
 	"""
 	keyWait
 		any = false
@@ -658,17 +659,17 @@ script 142 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	If Tensuke and Chief
-	run into each other
-	it'll be a big fight
+	Se Tensuke e o Chefe
+	se encontrarem,have-
+	rá uma briga feia!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But that's just how
-	they are.
-	So don't worry.
+	Mas eles são assim
+	mesmo. Então,nem
+	esquenta com isso.
 	"""
 	keyWait
 		any = false
@@ -684,20 +685,19 @@ script 151 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I THOUGHT SOMEONE
-	WAS TRYING TO TALK
-	TO ME JUST NOW. BUT
+	PENSEI QUE HAVIA
+	ALGUÉM TENTANDO
+	FALAR COMIGO AINDA
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"NOBODY WAS THERE!"
+	"AGORA,MAS NÃO VI\nNINGUÉM!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I REALLY WONDER
-	WHO IT WAS!
+	QUEM SERÁ QUE ERA?
 	"""
 	keyWait
 		any = false
@@ -708,14 +708,14 @@ script 152 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I feel like I'm
-	being watched,but
-	there's nobody here!
+	Sinto como se esti-
+	vesse sendo vigiado,
+	mas não tem ninguém!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It must be nerves."
+	"Acho que só estou\nmeio inquieto."
 	keyWait
 		any = false
 	end
@@ -735,8 +735,9 @@ script 160 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Handing out flyers?
-	I'll take one.
+	Distribuindo
+	panfletos?
+	Eu pego um.
 	"""
 	keyWait
 		any = false
@@ -759,9 +760,9 @@ script 160 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	Oh,it's Higsby's!
-	I haven't been
-	there in a while.
+	Ah,é da Loja do
+	Higsby! Faz tempo
+	que eu não vou lá.
 	"""
 	keyWait
 		any = false
@@ -774,14 +775,14 @@ script 161 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I've been focused on
-	keeping track of
-	the tournament!
+	Eu estive focado em
+	acompanhar o
+	torneio!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hmmm⋯"
+	"Hmmm..."
 	keyWait
 		any = false
 	end
@@ -791,9 +792,9 @@ script 162 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	It's been a while,
-	but I'll go and
-	check it out!
+	Já faz tempo.
+	Eu vou lá ver como
+	eles tão agora!
 	"""
 	keyWait
 		any = false
@@ -814,9 +815,9 @@ script 163 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	IS THAT A FLYER?
-	GOOD WORK,KID!
-	I'LL TAKE ONE.
+	É UM PANFLETO?
+	BOM TRABALHO,JOVEM.
+	EU FICO COM UM.
 	"""
 	keyWait
 		any = false
@@ -839,9 +840,9 @@ script 163 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	WAIT⋯AREN'T YOU
-	IN THE TOURNAMENT?
-	YOU ARE,AREN'T YOU?
+	EI... VOCÊ NÃO ESTÁ
+	NO TORNEIO?
+	ESTÁ,NÃO ESTÁ?
 	"""
 	keyWait
 		any = false
@@ -854,8 +855,8 @@ script 164 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I KNEW IT!
-	HOW'S IT GOING?
+	SABIA!
+	COMO ESTÁ SE SAINDO?
 	"""
 	keyWait
 		any = false
@@ -866,9 +867,9 @@ script 165 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	"HIGSBY'S",HUH?
-	I'LL TELL EVERYONE
-	HERE ABOUT IT!
+	"LOJA DO HIGSBY"...
+	VOU FALAR DELA PARA
+	TODOS AQUI!
 	"""
 	keyWait
 		any = false
@@ -879,15 +880,15 @@ script 180 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	What was that
-	big flood about?
+	Que enchente toda
+	foi aquela?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I thought I was
-	going to drown!
+	Eu achei que fosse
+	me afogar!
 	"""
 	keyWait
 		any = false

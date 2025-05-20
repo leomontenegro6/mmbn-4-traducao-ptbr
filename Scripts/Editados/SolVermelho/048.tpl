@@ -1,11 +1,11 @@
 @size 17
 
 script 0 mmbn4s {
-	"DOUBLE DELETE!"
+	"DELEÇÃO DUPLA!"
 	end
 }
 script 1 mmbn4s {
-	"TRIPLE DELETE!"
+	"DELEÇÃO TRIPLA!"
 	end
 }
 script 2 mmbn4s {

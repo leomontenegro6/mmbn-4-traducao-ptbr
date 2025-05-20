@@ -5,8 +5,9 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What's wrong?! Has
-	something happened?
+	O que foi?!
+	Aconteceu alguma
+	coisa?
 	"""
 	keyWait
 		any = false
@@ -18,42 +19,43 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	Chillski's caused
-	this abnormal weath-
-	er by sending an
+	O Chillski causou
+	este clima anormal
+	ao enviar um sinal
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	unauthorized signal
-	to the satellite.
+	não-autorizado ao
+	satélite.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That Chillski used
-	sleeping gas so we
-	wouldn't interfere!
+	E ele também usou
+	gás de sono para
+	não inteferirmos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And he struck while
-	I was all alone⋯
+	Ele atacou justo
+	quando eu estava
+	sozinho aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"How humiliating⋯"
+	"Que humilhante..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 2
-	"I feel so sleepy⋯"
+	"Estou com tanto\nsono..."
 	keyWait
 		any = false
 	clearMsg
@@ -64,8 +66,8 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Mister!
-	Don't fall asleep!
+	Moço!
+	Não dorme!
 	"""
 	keyWait
 		any = false
@@ -76,14 +78,14 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
-	"⋯Huh?!"
+	"... Hã?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is bad⋯
-	I must fix the
-	antennas.
+	Droga... Preciso
+	consertar as
+	antenas!
 	"""
 	keyWait
 		any = false
@@ -94,18 +96,18 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Antennas? What do"
+	"Antenas?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	they have to do with
-	the blizzard?
+	O que elas têm a ver
+	com a nevasca?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Hey,wake up!!"
+	"... Ei,acorda!!"
 	keyWait
 		any = false
 	clearMsg
@@ -115,41 +117,41 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
-	"⋯Huh?!"
+	"... Hã?!"
 	keyWait
 		any = false
 	clearMsg
-	"Oh,sorry."
-	keyWait
-		any = false
-	clearMsg
-	"""
-	There are 4 parabol-
-	ic antennas in the
-	city of Sharo.
-	"""
+	"Ah,desculpa."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're used to
-	control the weather
-	satellite.
+	Há 4 antenas
+	parabólicas na
+	cidade de Sharo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	However,ColdMan is
-	interfering with
-	them somehow.
+	Elas são usadas para
+	controlar o satélite
+	climático.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe it's the
-	CyberSnowmen.
+	Contudo,o ColdMan
+	está interferindo
+	com elas.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Talvez sejam os
+	CyberBonecosDeNeve.
 	"""
 	keyWait
 		any = false
@@ -166,23 +168,23 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"CyberSnowmen?"
+	"CyberBonecosDeNeve?"
 	keyWait
 		any = false
 	clearMsg
-	"Oh yeah,those guys."
+	"Ah,é,aqueles lá."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So if we take care
-	of them,will that
-	fix the antennas?
+	Se a gente acabar
+	com eles,consertamos
+	as antenas,é isso?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Wake up!!"
+	"... Acorda!!"
 	keyWait
 		any = false
 	clearMsg
@@ -192,23 +194,23 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
-	"⋯Huh?!"
+	"... Hã?!"
 	keyWait
 		any = false
 	clearMsg
-	"Oh,sorry!"
+	"Ah,desculpa!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To defeat the Cyber-
-	Snowmen,you must get
-	rid of the viruses
+	Pra vencer os Cyber-
+	BonecosDeNeve,você
+	precisa se livrar
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"that animate them."
+	"dos vírus que fazem\ncom que se movam."
 	keyWait
 		any = false
 	clearMsg
@@ -218,13 +220,13 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Viruses?"
+	"Vírus?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're animated by
-	viruses?
+	São vírus que fazem
+	eles se mexerem?
 	"""
 	keyWait
 		any = false
@@ -242,23 +244,24 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	I'm awake! I didn't
-	doze off that time!
+	Tô acordado! Eu não
+	cochilei desta vez!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yes,viruses.
-	If you delete the
-	viruses within them,
+	Isso,vírus. Se você
+	deletar os vírus
+	dentro deles,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the CyberSnowmen
-	will crumble.
+	os CyberBonecos-
+	DeNeve vão se
+	desfazer.
 	"""
 	keyWait
 		any = false
@@ -270,9 +273,9 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	OK,we'll go
-	destroy those
-	CyberSnowmen.
+	Certo,vamos lá
+	destruir os
+	CyberBonecosDeNeve.
 	"""
 	keyWait
 		any = false
@@ -284,23 +287,22 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	But destroying
-	them alone
+	Mas só destrui-los
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	won't fix the-
-	antennas.
+	não vai consertar as
+	antenas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The computers of all
-	4 antennas contain
-	a heating system.
+	Os computadores
+	delas contêm um sis-
+	tema de aquecimento.
 	"""
 	keyWait
 		any = false
@@ -311,7 +313,7 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"A heating system?"
+	"Sistema de\naquecimento?"
 	keyWait
 		any = false
 	clearMsg
@@ -321,45 +323,45 @@ script 12 mmbn4 {
 script 13 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
-	"That's right."
+	"Isso mesmo."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To function pro-
-	perly in Sharo's
-	cold climate,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	each antenna has a
-	system for warming
+	Para operarem
+	devidamente no clima
+	frio de Sharo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it's computer.
-	The CyberSnowmen
-	disabled them.
+	cada antena tem um
+	sistema para aquecer
+	seus computadores.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	After destroying the
-	CyberSnowmen,you
-	must light each of
+	Os CyberBonecos-
+	DeNeve os desativou.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the heating systems
-	that keep the anten-
-	na's computers warm.
+	Depois de destruir
+	o Boneco,você deverá
+	acender cada sistema
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	de aquecimento que
+	mantêm a temperatura
+	dos computadores.
 	"""
 	keyWait
 		any = false
@@ -370,7 +372,7 @@ script 13 mmbn4 {
 script 14 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Light⋯the systems?"
+	"Acender...\nos sistemas?"
 	keyWait
 		any = false
 	clearMsg
@@ -381,25 +383,25 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	Right. The heating
-	systems are essen-
-	tially CyberTorches.
+	Isso. Os sistemas de
+	aquecimento são como
+	CyberTochas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Installing a [bracket1]Fire[bracket2]
-	chip in a Cyber-
-	Torch will light it.
+	Instale um chip de
+	[bracket1]Fogo[bracket2] na CyberTocha
+	para acendê-la.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Which chip you need
-	is written on the
-	CyberTorch.
+	O chip necessário é
+	especificado por
+	cada uma delas.
 	"""
 	keyWait
 		any = false
@@ -411,8 +413,8 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Got it. Thanks!
-	You can count on me!
+	Beleza. Obrigado!
+	Pode contar comigo!
 	"""
 	keyWait
 		any = false
@@ -424,15 +426,16 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	Beware of⋯
-	⋯the cold.
+	Cuidado com...
+	... o frio.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Before you know it,
-	the cold climate⋯
+	Antes que se dê
+	conta,o clima
+	frio...
 	"""
 	keyWait
 		any = false
@@ -440,13 +443,14 @@ script 17 mmbn4 {
 	mugshotAnimation
 		animation = 2
 	"""
-	⋯Oh,I can't⋯keep⋯
-	⋯my eyes⋯open⋯
+	... Ah,não consigo
+	manter... meus
+	olhos... abertos...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Zzzzzz⋯"
+	"Zzzzzz..."
 	keyWait
 		any = false
 	clearMsg
@@ -457,34 +461,36 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	OK,first we have to
-	jack into the anten-
+	Tá,primeiro,temos
+	que nos conectar
+	às antenas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	nas and destroy the
-	CyberSnowmen.
+	e destruir os
+	CyberBonecosDeNeve.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Once we destroy them
-	all,we'll light the
-	CyberTorches!
+	Depois disso,a gente
+	acende as
+	CyberTochas!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"OK,all ready!"
+	"Tá,tô pronto!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looks cold outside,
-	but,we gotta go!!
+	Parece frio pra
+	caramba lá fora,mas
+	a gente tem que ir!
 	"""
 	keyWait
 		any = false
@@ -494,35 +500,37 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"Oh,I almost forgot⋯"
+	"Ah,quase esqueci..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Once you destroy all
-	the CyberSnowmen,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	light the Cyber-
-	Torches ASAP.
+	Depois de
+	destruir todos os
+	CyberBonecosDeNeve,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you take too
-	long,the CyberSnow-
-	men will regenerate.
+	acenda as
+	CyberTochas
+	sem demora.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Se demorar demais,os
+	CyberBonecosDeNeve
+	se regeneram.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 1
-	"Zzzzzz⋯"
+	"Zzzzzz..."
 	keyWait
 		any = false
 	end
@@ -532,8 +540,8 @@ script 20 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Why didn't he tell
-	me that sooner?!
+	Por que ele não
+	falou isso antes?!
 	"""
 	keyWait
 		any = false

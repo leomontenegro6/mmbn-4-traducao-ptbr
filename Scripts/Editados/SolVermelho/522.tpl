@@ -5,32 +5,31 @@ script 0 mmbn4 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Hi,Lan! Did you
-	enjoy your
-	sightseeing trip?!
+	Oi,Lan! Gostou do
+	tour pessoal?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I bet it was cool?!"
+	"Legal,né?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll show you to
-	your hotel now.
+	Agora,vou lhe levar
+	ao seu hotel.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Follow me."
+	"Siga-me."
 	keyWait
 		any = false
 	end
 }
 script 1 mmbn4 {
 	msgOpen
-	"Vrrrooooom!!"
+	"Vrrruuum!!"
 	keyWait
 		any = false
 	end
@@ -40,8 +39,8 @@ script 2 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	That car's going way
-	to fast.
+	Aquele carro tava
+	indo tão rápido...
 	"""
 	keyWait
 		any = false
@@ -53,15 +52,16 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Quick,Lan. We should
-	follow Mr.Bonds.
+	Depressa,Lan.
+	Melhor a gente ir
+	com o Sr. Bonds.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We don't want to get
-	lost.
+	Você não quer se
+	perder,né?
 	"""
 	keyWait
 		any = false
@@ -71,7 +71,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"OK,I know."
+	"É,eu sei."
 	keyWait
 		any = false
 	clearMsg
@@ -80,7 +80,7 @@ script 4 mmbn4 {
 }
 script 5 mmbn4 {
 	mugshotHide
-	"Vrooommmm!"
+	"Vruuummmm!"
 	keyWait
 		any = false
 	end
@@ -89,7 +89,7 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Huh?!"
+	"Ué?!"
 	keyWait
 		any = false
 	end
@@ -99,9 +99,9 @@ script 7 mmbn4 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	Hey kid!
-	Time for you to
-	take a nap!
+	Aí,moleque!
+	Hora de cê tirar
+	uma sonequinha!
 	"""
 	keyWait
 		any = false
@@ -112,7 +112,7 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Huh,w-what?!"
+	"Ah,o-o quê?!"
 	keyWait
 		any = false
 	end
@@ -123,7 +123,7 @@ script 9 mmbn4 {
 	soundPlay
 		track = 385
 	soundDisableTextSFX
-	"Wham!"
+	"Tchonc!"
 	wait
 		frames = 22
 	keyWait
@@ -158,12 +158,12 @@ script 12 mmbn4 {
 	soundPlay
 		track = 383
 	soundDisableTextSFX
-	"Click,"
+	"Clicc,"
 	wait
 		frames = 14
 	soundPlay
 		track = 384
-	"Bang!"
+	"Blam!"
 	wait
 		frames = 17
 	keyWait
@@ -171,7 +171,7 @@ script 12 mmbn4 {
 	clearMsg
 	soundPlay
 		track = 386
-	"Vroooooooom⋯"
+	"Vruuuuuum...."
 	wait
 		frames = 66
 	keyWait
@@ -194,14 +194,13 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = BlackMan
 	msgOpen
-	"Hmmm⋯"
+	"Hmmm..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder where Lan
-	has gotten to.
-	......
+	Aonde será que o
+	Lan foi...?
 	"""
 	keyWait
 		any = false

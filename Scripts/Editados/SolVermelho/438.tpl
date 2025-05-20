@@ -9,14 +9,14 @@ script 0 mmbn4 {
 		jumpIfTrue = 2
 		jumpIfFalse = continue
 	"""
-	⋯I am the bearer of
-	of one of the 5
-	EvilChips⋯
+	... Eu sou o porta-
+	dor de um dos 5
+	Chips do Mal...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"The \""
+	"O \""
 	printChip
 		buffer = 0
 		chip = 202
@@ -25,30 +25,30 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	You have released me
-	from Bass's spell⋯
+	Você me libertou de
+	feitiço de Bass...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You have earned the
-	chance to take the
-	trial of "Muramasa"⋯
+	Conquistou a chance
+	de encarar a prova-
+	ção da Muramasa...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you are able to
-	pass the trial⋯
+	Se conseguir passar
+	pela provação...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I shall bestow upon
-	you the "
+	Conferirei a você o
+	"
 	"""
 	printChip
 		buffer = 0
@@ -57,13 +57,13 @@ script 0 mmbn4 {
 	printCode
 		buffer = 0
 		code = M
-	"\"⋯"
+	"\"..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do you wish to
-	suffer the trial of
+	Gostaria de passar
+	pela provação da
 	"Muramasa"?
 	"""
 	keyWait
@@ -105,9 +105,9 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	"""
-	If you require more
-	power,you will need
-	the EvilChips⋯
+	Se deseja mais
+	força,precisará dos
+	Chips do Mal...
 	"""
 	keyWait
 		any = false
@@ -118,8 +118,8 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	"""
-	Make ready for your
-	trial!
+	Prepare-se para a
+	sua provação!
 	"""
 	keyWait
 		any = false
@@ -129,15 +129,16 @@ script 1 mmbn4 {
 }
 script 2 mmbn4 {
 	"""
-	If you seek true
-	power⋯
+	Se busca poder
+	verdadeiro...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your heart must melt
-	into the darkness!
+	Seu coração precisa
+	se dissolver na
+	escuridão!
 	"""
 	keyWait
 		any = false
@@ -147,20 +148,21 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"Well fought!"
+	"Lutou bem!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You did well to
-	survive my trial!
+	Bom trabalho
+	sobrevivendo à
+	minha provação.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I bestow this upon
-	you⋯
+	Confiro isto a
+	você...
 	"""
 	keyWait
 		any = false
@@ -194,8 +196,9 @@ script 3 mmbn4 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	How you use that
-	chip is up to you⋯
+	Como você usa esse
+	chip só cabe a
+	você...
 	"""
 	keyWait
 		any = false
@@ -209,19 +212,19 @@ script 5 mmbn4 {
 		flag = 3127
 		jumpIfTrue = 7
 		jumpIfFalse = continue
-	"Eheheheh⋯"
+	"He he he..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm the guardian of
-	one of the 5
-	EvilChips⋯
+	Sou o guardião de
+	um dos 5 Chips do
+	Mal...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"The \""
+	"O \""
 	printChip
 		buffer = 0
 		chip = 214
@@ -230,31 +233,31 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	When Bass came to
-	this area⋯
+	Quando o Bass veio a
+	esta área...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	His power imprisoned
-	me here!
+	o poder dele me
+	aprisionou aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But thanks to you,
-	Bass was defeated
-	and I was freed!
+	Mas graças a você,
+	o Bass foi vencido
+	e eu fui libertado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	As thanks,I'll offer
-	to you the trial
-	for "
+	Para agradecer,ofe-
+	reço a você a prova-
+	ção do "
 	"""
 	printChip
 		buffer = 0
@@ -264,14 +267,14 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	If you manage to
-	pass the trial⋯
+	Se passar na
+	provação...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll give you the
+	Darei a você o
 	"
 	"""
 	printChip
@@ -286,8 +289,7 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	What is your
-	decision?
+	Dê-me sua decisão.
 	"""
 	keyWait
 		any = false
@@ -303,7 +305,7 @@ script 5 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Accept  "
+	"Aceitar  "
 	option
 		brackets = false
 		left = 0
@@ -312,7 +314,7 @@ script 5 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Pass"
+	"Não"
 	select
 		default = 0
 		noDelay = false
@@ -328,9 +330,9 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	"""
-	Yes,retreating is
-	often the wisest
-	decision⋯
+	Muitas vezes,fugir
+	é,de fato,a decisão
+	mais sábia...
 	"""
 	keyWait
 		any = false
@@ -340,7 +342,7 @@ script 6 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviBlack
-	"Then here we go⋯"
+	"Então,vamos lá..."
 	keyWait
 		any = false
 	flagSet
@@ -349,9 +351,9 @@ script 6 mmbn4 {
 }
 script 7 mmbn4 {
 	"""
-	Ehehehe⋯Now I see
-	why you were able
-	to defeat Bass!
+	He he... Agora
+	entendo como você
+	venceu o Bass!
 	"""
 	keyWait
 		any = false
@@ -362,17 +364,16 @@ script 8 mmbn4 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Only chosen denizens
-	of the dark are
-	allowed the trial⋯
+	Somente habitantes
+	escolhidos podem
+	ser testados...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I'll make an
-	exception in your
-	case⋯
+	Mas abrirei uma
+	exceção para você...
 	"""
 	keyWait
 		any = false
@@ -406,9 +407,9 @@ script 8 mmbn4 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	I'm surprised that
-	one not of the dark
-	can fight so well⋯
+	Me surpreende alguém
+	de fora da escuridão
+	lutar tão bem...
 	"""
 	keyWait
 		any = false
@@ -423,14 +424,14 @@ script 10 mmbn4 {
 		jumpIfTrue = 12
 		jumpIfFalse = continue
 	"""
-	⋯⋯⋯I am the guardian
-	of one of the 5
-	EvilChips⋯
+	... Sou o guardião
+	de um dos 5 Chips do
+	Mal...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"The \""
+	"O \""
 	printChip
 		buffer = 0
 		chip = 204
@@ -439,17 +440,16 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	I would like to see
-	for myself the power
-	that defeated Bass⋯
+	Quero ver a força
+	que derrotou o
+	Bass...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Will you accept the
-	trial of the
-	"
+	Aceita a provação
+	do "
 	"""
 	printChip
 		buffer = 0
@@ -459,16 +459,16 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	If your power is
-	true⋯
+	Se a sua força for
+	verdadeira...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then I will bestow
-	upon you the power
-	of the "
+	conferirei a você
+	o poder do
+	"
 	"""
 	printChip
 		buffer = 0
@@ -477,13 +477,13 @@ script 10 mmbn4 {
 	printCode
 		buffer = 0
 		code = A
-	"\"⋯"
+	"\"..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Will you show me
-	your power⋯?
+	Irá me mostrar a
+	sua força...?
 	"""
 	keyWait
 		any = false
@@ -524,8 +524,8 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	"""
-	So it is a lie that
-	you defeated Bass?!
+	Então,é mentira que
+	você venceu o Bass?!
 	"""
 	keyWait
 		any = false
@@ -535,7 +535,7 @@ script 11 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviBlack
-	"Then show me⋯!"
+	"Então,mostre-me...!"
 	keyWait
 		any = false
 	flagSet
@@ -544,16 +544,16 @@ script 11 mmbn4 {
 }
 script 12 mmbn4 {
 	"""
-	After obtaining
-	great power,to use
-	it well requires
+	Após obter grande
+	força,é necessário
+	um coração ainda
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	an even greater
-	heart!
+	mais forte para
+	manuseá-la!
 	"""
 	keyWait
 		any = false
@@ -564,35 +564,36 @@ script 13 mmbn4 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	So it's true that
-	you defeated Bass⋯
+	Então,é verdade que
+	você derrotou
+	Bass...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But beware the
-	greatness of the
-	DarkSoul in you⋯
+	Mas cuidado com a
+	potência da Alma-
+	Somb em você...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Great power can at
-	times erode the self
-	that contains it⋯
+	Grandes poderes po-
+	dem desgastar aquele
+	que os possui...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"This was Bass' fate⋯"
+	"Esse foi o destino\ndo Bass..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And now to my
-	promise⋯
+	Agora,como
+	prometido...
 	"""
 	keyWait
 		any = false
@@ -626,16 +627,16 @@ script 13 mmbn4 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	And now your power
-	grows greater⋯
+	E agora,a sua força
+	fica ainda maior...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I look forward to
-	seeing how you use
-	it⋯
+	Estou ansioso para
+	ver como você a
+	usará...
 	"""
 	keyWait
 		any = false
@@ -650,31 +651,32 @@ script 20 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Three of the
-	guardians of the 5
-	EvilChips
+	Três dos guardiões
+	dos 5 Chips do Mal
+	podiam ser
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	once were found in
-	this area.
+	encontrados nesta
+	área.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But one day a statue
-	appeared and
-	imprisoned them all!
+	Mas,um dia,uma
+	estátua apareceu e
+	aprisionou eles!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What could be behind
-	that statue⋯?
+	O que será que está
+	por trás daquela
+	estátua...?
 	"""
 	keyWait
 		any = false
@@ -685,23 +687,24 @@ script 21 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	It looks like the
-	statue disappeared⋯
+	Parece que a estátua
+	desapareceu...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It vanished as
-	mysteriously as it
-	appeared⋯
+	Sumiu tão misterio-
+	samente quanto
+	quando apareceu...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What a strange thing
-	for a statue to do⋯
+	Que coisa estranha
+	para uma estátua
+	fazer...
 	"""
 	keyWait
 		any = false
@@ -716,8 +719,8 @@ script 220 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	I've got some great
-	goods⋯Wanna see?
+	Tenho bons produtos
+	aqui... Quer ver?
 	
 	"""
 	positionOptionHorizontal
@@ -730,7 +733,7 @@ script 220 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Yes "
+	"Sim "
 	option
 		brackets = false
 		left = 0
@@ -739,7 +742,7 @@ script 220 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"No"
+	"Não"
 	select
 		default = 0
 		noDelay = false
@@ -757,8 +760,8 @@ script 220 mmbn4 {
 script 221 mmbn4 {
 	clearMsg
 	"""
-	Then stop wasting my
-	time⋯
+	Então não me faça
+	perder tempo...
 	"""
 	keyWait
 		any = false
@@ -769,8 +772,8 @@ script 222 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Sorry,I'm out of
-	stock⋯
+	Lamento,mas estou
+	esgotado...
 	"""
 	keyWait
 		any = false

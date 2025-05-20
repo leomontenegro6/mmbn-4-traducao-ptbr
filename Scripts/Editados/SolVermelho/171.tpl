@@ -5,16 +5,16 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Totally destroy this
-	device and the lion
-	should calm down!
+	Se destruirmos este
+	aparelho,os leões
+	devem se acalmar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,a virus just
-	broke out!
+	Ah! Lan,acabou de
+	sair um vírus!
 	"""
 	keyWait
 		any = false
@@ -27,22 +27,22 @@ script 1 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Destroy the device,
-	Lan!
+	Vamos destruir o
+	dispositivo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Seems there's a
-	viruses in there!
+	Ah,parece que ainda
+	tem vírus aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You handle the
-	operation!
+	Manda ver na
+	operação,Lan!
 	"""
 	keyWait
 		any = false
@@ -55,23 +55,24 @@ script 2 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,you gotta
-	destroy the device!
+	Lan,a gente tem
+	que destruir o
+	dispositivo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looks like a virus
-	is controlling this
-	device!
+	Parece que tem um
+	vírus controlando
+	o dispositivo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You handle the
-	operation!
+	Manda ver na
+	operação,Lan!
 	"""
 	keyWait
 		any = false
@@ -84,9 +85,9 @@ script 3 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Delete the viruses
-	in this device and
-	then destroy it!
+	Vamos deletar os
+	vírus neste aparelho
+	e destruí-lo!
 	"""
 	keyWait
 		any = false

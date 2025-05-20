@@ -4,37 +4,36 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	msgOpen
-	"Huh? I came for"
+	"Hã? Eu vim atrás do\ntesouro da Vila\nMettaur,mas..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mettaur Village's
-	treasure,but⋯
-	This is it?!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I take it you're
-	looking for the
-	treasure,too?
+	É só isto?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What a letdown!
-	All I found is
-	this piece of data.
+	Imagino que cê
+	também teja atrás
+	do tesouro,né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm so annoyed!
-	So just take it.
+	Que decepção!
+	Só achei estes
+	dados inúteis aqui.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Que raiva!
+	Olha,leva! Não quero
+	nem olhar pra eles!
 	"""
 	keyWait
 		any = false
@@ -61,9 +60,9 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	"""
-	Hey! Wanna delete
-	some Mettaurs to
-	let off some steam?
+	Aí! Quer deletar uns
+	Mettaurs,só pra
+	estravazar?
 	"""
 	keyWait
 		any = false
@@ -71,39 +70,38 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	......
-	Just look around.
-	They're so scared!
+	...... Olhe só
+	para eles. Estão
+	morrendo de medo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know they're
-	viruses,but they're
-	not hurting anyone.
+	Sei que são vírus,
+	mas não tão
+	machucando ninguém.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviPurple
-	"Huh?!"
+	"Oi?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're a Navi and
-	you're protecting
-	viruses? What the?
+	Tu é um Navi... e
+	tá protegendo vírus?
+	É isso mesmo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's our JOB to
-	delete viruses,
-	pal.
+	Deletar vírus é o
+	nosso TRABALHO,mano.
 	"""
 	keyWait
 		any = false
@@ -111,34 +109,35 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	They may be viruses,
-	but what you're 
+	Sim,eles podem ser
+	vírus, 
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	talking about is
-	plain bullying!
+	mas o que você tá
+	falando é pura
+	crueldade!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviPurple
-	"You disgust me!"
+	"Cê me dá NOJO,cara!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Either you're with
-	me,or I delete
-	you along with them!
+	Ou tu tá comigo,
+	ou eu te deleto
+	junto deles!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Yaaaaaaah!"
+	"Iááááá!"
 	keyWait
 		any = false
 	flagSet
@@ -154,9 +153,9 @@ script 1 mmbn4 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	It watches the
-	nasty Navi with
-	fear in its eyes.
+	Ele fita o Navi
+	malvado com medo no
+	olhar.
 	"""
 	keyWait
 		any = false
@@ -165,9 +164,9 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	msgOpen
 	"""
-	It looks at you
-	with an expression
-	of gratitude.
+	Ele olha para você
+	com uma expressão
+	grata.
 	"""
 	keyWait
 		any = false
@@ -176,8 +175,9 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	msgOpen
 	"""
-	They swing their
-	pickaxes in joy.
+	Ele balança suas
+	picareta
+	alegremente.
 	"""
 	keyWait
 		any = false
@@ -186,17 +186,17 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	msgOpen
 	"""
-	Perhaps because it's
-	happy,its helmet is
-	askew.
+	Talvez por estar
+	feliz,seu capacete
+	está desalinhado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It seems Mettaurs
-	remove their helmets
-	if they're relaxed.
+	Parece que Mettaurs
+	tiram os capacetes
+	quando relaxados.
 	"""
 	keyWait
 		any = false
@@ -209,9 +209,9 @@ script 6 mmbn4 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	It watches the
-	nasty Navi with
-	fear in its eyes.
+	Ele fita o Navi
+	malvado com medo no
+	olhar.
 	"""
 	keyWait
 		any = false
@@ -224,9 +224,9 @@ script 7 mmbn4 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	It watches the
-	nasty Navi with
-	fear in its eyes.
+	Ele fita o Navi
+	malvado com medo no
+	olhar.
 	"""
 	keyWait
 		any = false
@@ -239,9 +239,9 @@ script 8 mmbn4 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	It watches the
-	nasty Navi with
-	fear in its eyes.
+	Ele fita o Navi
+	malvado com medo no
+	olhar.
 	"""
 	keyWait
 		any = false
@@ -254,9 +254,9 @@ script 9 mmbn4 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	It watches the
-	nasty Navi with
-	fear in its eyes.
+	Ele fita o Navi
+	malvado com medo no
+	olhar.
 	"""
 	keyWait
 		any = false
@@ -269,9 +269,9 @@ script 10 mmbn4 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	It watches the
-	nasty Navi with
-	fear in its eyes.
+	Ele fita o Navi
+	malvado com medo no
+	olhar.
 	"""
 	keyWait
 		any = false
@@ -299,31 +299,31 @@ script 22 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"COME ON IN!"
+	"VENHAM TODOS!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	JOMON ELECTRIC'S
-	GOT THE BEST
-	PRICES IN TOWN! 
+	A JOMON ELETRÔNICOS
+	TEM OS MELHORES
+	PREÇOS DA CIDADE! 
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"・"
+	"."
 	waitSkip
 		frames = 20
-	"・"
+	"."
 	waitSkip
 		frames = 20
-	"・"
+	"."
 	waitSkip
 		frames = 20
 	"""
-	WHEW.
-	THIS IS ALL I DO.
-	THE NEW GUY IS HARD!
+	 UFA. É SÓ ISSO
+	QUE EU FAÇO.
+	SER NOVATO CANSA!
 	"""
 	keyWait
 		any = false
@@ -334,8 +334,9 @@ script 23 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	YOUR VOICE IS TINY!
-	GOT TO TRY HARDER!
+	ESSA VOZ TÁ BAIXINHA
+	DEMAIS! BOTA FORÇA
+	NISSO!
 	"""
 	keyWait
 		any = false
@@ -354,17 +355,17 @@ script 24 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THERE ARE METTAURS
-	OVER THERE BUT THEY
-	AREN'T DANGEROUS.
+	HÁ METTAURS ALI,
+	MAS ELES NÃO SÃO
+	PERIGOSOS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THEY'RE QUIET AND
-	SHY,SO TRY NOT
-	TO DISTURB THEM!
+	SÃO TRANQUILOS E
+	TÍMIDOS.
+	NÃO OS PERTURBE!
 	"""
 	keyWait
 		any = false
@@ -383,9 +384,9 @@ script 25 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	ENOUGH ABOUT THE
-	METTAURS! I'VE GOT
-	TO GET TO WORK!
+	CHEGA DE FALAR DE
+	METTAUR! DE VOLTA
+	AO TRABAAAALHO!
 	"""
 	keyWait
 		any = false
@@ -396,9 +397,9 @@ script 130 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	IT'S BREAK TIME.
-	I'M TAKING A REST
-	WITH EVERYONE ELSE.
+	HORA DA MINHA PAUSA.
+	VOU DESCANSAR COM OS
+	OUTROS.
 	"""
 	keyWait
 		any = false
@@ -408,7 +409,7 @@ script 131 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"ZZZZZ⋯"
+	"ZZZZZ..."
 	keyWait
 		any = false
 	end
@@ -417,7 +418,7 @@ script 132 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"YEAH! AND I SAID⋯"
+	"É! AÍ EU FALEI,\nTIPO..."
 	keyWait
 		any = false
 	end
@@ -426,7 +427,7 @@ script 133 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"NO WAY! REALLY?"
+	"NÃO BRINCA! JURA?"
 	keyWait
 		any = false
 	end
@@ -436,8 +437,9 @@ script 134 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	SO THIS YEAR'S
-	AC SALES ARE⋯
+	ENTÃO,AS VENDAS DE
+	AR CONDICIONADO
+	DESTE ANO ESTÃO...
 	"""
 	keyWait
 		any = false
@@ -448,9 +450,9 @@ script 135 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	OOPS! BETTER GET
-	BACK TO WORK,OR 
-	I'LL GET IN TROUBLE!
+	OPS! MELHOR VOLTAR
+	AO TRABALHO,OU VOU
+	OUVIR POUCAS E BOAS!
 	"""
 	keyWait
 		any = false
@@ -461,16 +463,16 @@ script 136 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WE WANT TO WATCH
-	TV ON OUR BREAK BUT
+	QUEREMOS ASSISTIR
+	TV NA NOSSA FOLGA,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WE'RE NOT THE ONES
-	WHO CONTROL THE DANG
-	THING! AH,WELL.
+	MAS NÃO SOMOS NÓS
+	QUEM CONTROLAMOS
+	A COISA! AI,VIDA.
 	"""
 	keyWait
 		any = false
@@ -480,7 +482,7 @@ script 137 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"BACK TO WORK! "
+	"DE VOLTA AO\nTRABALHO!"
 	keyWait
 		any = false
 	end
@@ -490,9 +492,9 @@ script 138 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'M THINKING TO
-	QUIT⋯
-	WHAT SHOULD I DO?
+	TÔ PENSANDO EM
+	PEDIR DEMISSÃO...
+	O QUE EU FAÇO?
 	"""
 	keyWait
 		any = false
@@ -513,17 +515,17 @@ script 160 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	I can't argue with
-	the selection,but
-	the prices are nuts!
+	Não dá pra negar a
+	variedade,mas os
+	preços são um crime!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey. You know of
-	any cheaper places
-	to find chips?
+	Ei. Conhece algum
+	lugar mais barato
+	pra comprar chips?
 	"""
 	keyWait
 		any = false
@@ -546,8 +548,8 @@ script 160 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviPink
 	"""
-	"Higsby's",huh?
-	Great timing!
+	"Loja do Higsby",é?
+	Veio em boa hora!
 	"""
 	keyWait
 		any = false
@@ -560,9 +562,9 @@ script 161 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	I knew a big store
-	like this would have
-	a great selection!
+	Eu sabia que uma lo-
+	ja grande assim te-
+	ria ótima variedade!
 	"""
 	keyWait
 		any = false
@@ -573,8 +575,8 @@ script 162 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Does Higsby's have
-	door prizes?
+	A Loja do Higsby dá
+	brindes?
 	"""
 	keyWait
 		any = false

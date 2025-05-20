@@ -5,8 +5,8 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I wonder where
-	AquaMan went?
+	Aonde será que o
+	AquaMan foi?
 	"""
 	keyWait
 		any = false
@@ -18,8 +18,9 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I thought he swam
-	off this way⋯
+	Eu podia jurar que
+	ele veio nadando
+	nesta direção...
 	"""
 	keyWait
 		any = false
@@ -30,7 +31,7 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Yeah⋯"
+	"É..."
 	keyWait
 		any = false
 	end
@@ -39,7 +40,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Ah,there's someone!"
+	"Ah,tem alguém ali!"
 	keyWait
 		any = false
 	end
@@ -48,7 +49,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Did you see AquaMan?"
+	"Achou o AquaMan?"
 	keyWait
 		any = false
 	end
@@ -58,16 +59,16 @@ script 5 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I think he went into
-	that warp point.
+	Acho que ele entrou
+	naquele portal ali.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If only that door
-	wasn't there,we
-	could follow him.
+	Se não tivesse esta
+	porta aqui,daria pra
+	ir atrás dele.
 	"""
 	keyWait
 		any = false
@@ -79,8 +80,8 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	How can we open this
-	door?
+	Como a gente faz pra
+	abrir a porta?
 	"""
 	keyWait
 		any = false
@@ -91,7 +92,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Hang on a sec.\n"
+	"Espera aí.\n"
 	mugshotAnimation
 		animation = 1
 	"......"
@@ -101,16 +102,16 @@ script 7 mmbn4 {
 	mugshotAnimation
 		animation = 2
 	"""
-	It says,
-	"Shuko's Area. Ask
-	 before entering."
+	Tá escrito: "Área da
+	Shuko. Peça permis-
+	são para entrar."
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey,Shuko's the name
-	of that girl!
+	Ei,Shuko é o nome
+	daquela garota,né?
 	"""
 	keyWait
 		any = false
@@ -121,13 +122,13 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Yeah!"
+	"É,sim!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So let's go find
-	her!
+	Vamos lá falar com
+	ela!
 	"""
 	keyWait
 		any = false
@@ -138,7 +139,7 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Okay!"
+	"OK!"
 	keyWait
 		any = false
 	end

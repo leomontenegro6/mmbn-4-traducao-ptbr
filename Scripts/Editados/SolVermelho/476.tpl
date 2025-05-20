@@ -29,9 +29,9 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	O primeiro parte te-
-	mático de DenCity tá
-	pertinho de abrir!
+	O primeiro parque
+	temático de DenCity
+	tá chegando!
 	"""
 	keyWait
 		any = false
@@ -55,8 +55,8 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Roll
 	"""
-	Estão promovando
-	esse parque aqui.
+	Estão promovendo ele
+	bem aqui.
 	"""
 	keyWait
 		any = false
@@ -153,8 +153,8 @@ script 9 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E então,quem está
-	pronto para o meu
+	E então,alguém topa
+	encarar o meu
 	desafio?!
 	"""
 	keyWait
@@ -168,7 +168,7 @@ script 10 mmbn4 {
 		mugshot = Roll
 	mugshotAnimation
 		animation = 1
-	"(Brilha,brilha)"
+	"(Olhar pidão)"
 	keyWait
 		any = false
 	end
@@ -254,8 +254,8 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	Estamos prontos para
-	lutar. É só chegar!
+	Tudo pronto para a
+	luta. É só chegar!
 	"""
 	keyWait
 		any = false

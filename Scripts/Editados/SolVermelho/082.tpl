@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Parece que a questão
-	do ShadeMan deu uma
-	acalmada...
+	Tudo parece bem
+	aqui,mesmo depois
+	do ShadeMan...
 	"""
 	keyWait
 		any = false

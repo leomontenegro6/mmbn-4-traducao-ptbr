@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Our next opponent⋯"
+	"O nosso próximo\noponente é..."
 	keyWait
 		any = false
 	clearMsg
@@ -20,9 +20,9 @@ script 1 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Crusher,eh. He's a
-	normal Navi,but his
-	name sounds tough.
+	Crusher... Parece um
+	Navi normal,mas tem
+	nome de durão.
 	"""
 	keyWait
 		any = false
@@ -35,17 +35,17 @@ script 2 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Don't worry!
-	We didn't have any
-	problems this far!
+	Relaxa! A gente
+	venceu tudo
+	tranquilo até agora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You and I can beat
-	any opponent. It'll
-	be a snap!
+	Você e eu encaramos
+	qualquer um. Vai ser
+	mel na chupeta!
 	"""
 	keyWait
 		any = false
@@ -57,9 +57,8 @@ script 3 mmbn4 {
 	mugshotHide
 	msgOpen
 	"""
-	Hah! You're pretty
-	sure of yourself,
-	ain't yah!
+	He!
+	Haja confiança,hein?
 	"""
 	keyWait
 		any = false
@@ -70,8 +69,8 @@ script 4 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yow!
-	What a scary face!
+	Eita!
+	Que rosto medonho!
 	"""
 	keyWait
 		any = false
@@ -85,8 +84,8 @@ script 5 mmbn4 {
 	msgOpen
 	"""
 	Shh!
-	You're talking too
-	loud,Lan!
+	Você falou muito
+	alto,Lan!
 	"""
 	keyWait
 		any = false
@@ -97,9 +96,9 @@ script 6 mmbn4 {
 		mugshot = Riki
 	msgOpen
 	"""
-	I'm Crusher's
-	operator,Riki.
-	Your next opponent.
+	Sou Riki,o operador
+	do Crusher. Seu
+	próximo oponente.
 	"""
 	keyWait
 		any = false
@@ -112,8 +111,9 @@ script 7 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I-I'm MegaMan's
-	operator,Lan!
+	E-eu sou Lan
+	Hikari,o operador
+	do MegaMan.
 	"""
 	keyWait
 		any = false
@@ -126,30 +126,30 @@ script 8 mmbn4 {
 		mugshot = Riki
 	msgOpen
 	"""
-	Heh!
-	Well at least you're
-	an optimist.
+	He!
+	Pelo menos,você é
+	otimista.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Try coolin' yer
-	heals and wait for
-	the match,anyway.
+	Enfim,é melhor
+	você baixar a bola
+	e esperar a luta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't think I'll go
-	easy on you 'cuz yer
-	a kid,okay!
+	Não pense que eu vou
+	pegar leve só porque
+	você é moleque!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Right,Crusher!"
+	"Né,Crusher?!"
 	keyWait
 		any = false
 	clearMsg
@@ -161,17 +161,17 @@ script 9 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	You got it,boss!
-	You said your name's
-	MegaMan?!
+	Pode crer,chefe!
+	O seu nome é
+	MegaMan,né?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't lose too
-	quickly,man. That'd
-	be a let-down.
+	Não vá perder
+	rápido,hein? Seria
+	uma decepção.
 	"""
 	keyWait
 		any = false
@@ -183,7 +183,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Of course not!"
+	"Até parece!"
 	keyWait
 		any = false
 	clearMsg
@@ -195,9 +195,9 @@ script 11 mmbn4 {
 		mugshot = Riki
 	msgOpen
 	"""
-	Bwahahahahaa!
-	All right then! I
-	look forward to it!
+	Ga ha ha ha ha!
+	Certo,então! Tô
+	ansioso pela luta!
 	"""
 	keyWait
 		any = false
@@ -208,9 +208,9 @@ script 12 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ah,that guy looks
-	tough,but he's all
-	bluff! Right?
+	Ah,ele parece durão,
+	mas é só pose!
+	Né não?
 	"""
 	keyWait
 		any = false
@@ -222,7 +222,7 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah,no kidding!"
+	"Com certeza!"
 	keyWait
 		any = false
 	end

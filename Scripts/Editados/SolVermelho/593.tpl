@@ -4,14 +4,13 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Excuse me⋯"
+	"Com licença..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Is this the meeting
-	of the NetBattle
-	Club?
+	Essa é a reunião do
+	Clube de NetLutas?
 	"""
 	keyWait
 		any = false
@@ -21,13 +20,13 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = OldWoman
 	msgOpen
-	"Yes it is,sonny."
+	"É sim,meu filho."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh my,you sure are
-	a young one.
+	Eita,você é novinho,
+	hein?
 	"""
 	keyWait
 		any = false
@@ -39,8 +38,9 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Um,I wanted to ask
-	you about Tensuke⋯
+	Er,eu queria
+	perguntar pra vocês
+	sobre o Tensuke...
 	"""
 	keyWait
 		any = false
@@ -51,31 +51,30 @@ script 3 mmbn4 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Oh,that stubborn
-	old man?
+	Aquele velho
+	teimoso...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,I can under-
-	stand wanting to get
-	along better with
+	Olha,eu entendo
+	querer interagir
+	mais com o neto,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	one's grandson,but
-	Tensuke's always
-	made fun of us.
+	mas o Tensuke sempre
+	zombou de nós.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now he wants our
-	help?!
+	E agora ele quer a
+	nossa ajuda?!
 	"""
 	keyWait
 		any = false
@@ -87,8 +86,8 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	He needs your help!
-	He's serious!
+	Mas ele precisa
+	muito! É sério!
 	"""
 	keyWait
 		any = false
@@ -98,7 +97,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = OldMan
 	msgOpen
-	"What should we do?"
+	"O que a gente faz?"
 	keyWait
 		any = false
 	clearMsg
@@ -110,9 +109,9 @@ script 6 mmbn4 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	I can't turn down
-	an earnest young boy
-	like this one⋯
+	Não consigo recusar
+	o pedido de um meni-
+	no tão bonzinho...
 	"""
 	keyWait
 		any = false
@@ -124,26 +123,27 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = OldMan
 	"""
-	We're getting soft
-	in our old age⋯
+	Ah,a velhice tá
+	deixando a gente
+	mole...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
-	"*whisper whisper*"
+	"Blá Blá Blá..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = OldWomanAlt
-	"(⋯Hmm,what do you\n think of that?)"
+	"(... Hmmm,o que\n acham disto?)"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = OldManAlt
-	"(Oh my,yes. That\n sounds like fun!)"
+	"(Puxa,sim. Parece\n tão divertido!)"
 	keyWait
 		any = false
 	end
@@ -153,8 +153,8 @@ script 8 mmbn4 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	All right!
-	We'll help out!
+	Tudo bem!
+	Vamos ajudar!
 	"""
 	keyWait
 		any = false
@@ -165,7 +165,7 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Really?"
+	"É mesmo?"
 	keyWait
 		any = false
 	clearMsg
@@ -175,85 +175,84 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = OldMan
-	"But there's a catch!"
+	"Mas tem uma\ncondição!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's NetBattle Club
-	Rule #7!
+	É a Regra #7 do
+	Clube de NetLutas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = OldWoman
-	"\"Never assist those\n without\n enthusiasm!\""
+	"\"Jamais ajudar\n quem não tem\n entusiasmo!\""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = OldMan
-	"That's the rule."
+	"É uma lei aqui."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you want the
-	assistance of the
-	NetBattle Club,
+	Se quiser a ajuda do
+	Clube de NetLutas,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	first you'll have to
-	pass our test and
-	prove you're worthy.
+	tem que passar no
+	nosso teste e provar
+	que é digno.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"How about it?"
+	"Que tal?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Sounds like you just
-	made that up,but
-	we're enthusiastic!
+	Eu acho que cês tão
+	inventando isso,mas
+	entusiasmo,aqui tem!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = OldMan
-	"Very well."
+	"Certo,então."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	All of our Navis
-	will hide around the
-	Town Area.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	You'll have to find
-	them all and answer
-	their questions.
+	Os nossos Navis vão
+	se esconder pela
+	Área Vila.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you succeed,I'll
-	give Tensuke my
-	Navi-building info.
+	Você terá que achá-
+	los e responder às
+	perguntas deles.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Consiga,e darei ao
+	Tensuke meus macetes
+	de mexer em Navis.
 	"""
 	keyWait
 		any = false
@@ -265,8 +264,8 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Okay!
-	Let's go,MegaMan!
+	Beleza!
+	Vamos lá,MegaMan!
 	"""
 	keyWait
 		any = false
@@ -277,19 +276,19 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Leave it to me!"
+	"Deixa comigo!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = OldManAlt
-	"(Heheh,this'll be a\n fun way to kill\n some time!)"
+	"(He he,finalmente,um\n jeito divertido de\n passar o tempo!)"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = OldWomanAlt
-	"(Hey,you're talking\n kind of loud. Heh!)"
+	"(Shh! Você tá\n pensando alto.\n He,he!)"
 	keyWait
 		any = false
 	end

@@ -97,19 +97,19 @@ script 7 mmbn4 {
 	soundDisableTextSFX
 	soundPlay
 		track = 233
-	"UÉÉÉÉÉÉÉÉÉUN!"
+	"AAAUUUUUUUUU!"
 	wait
 		frames = 64
 	"\n"
 	soundPlay
 		track = 233
-	"UÉÉÉÉÉÉÉÉÉUN!"
+	"AAAUUUUUUUUU!"
 	wait
 		frames = 64
 	"\n"
 	soundPlay
 		track = 233
-	"UÉÉÉÉÉÉÉÉÉUN!"
+	"AAAUUUUUUUUU!"
 	wait
 		frames = 64
 	soundEnableTextSFX

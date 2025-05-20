@@ -19,13 +19,13 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"Welcome back,Lan!"
+	"Bem-vindo,Lan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh,where are you
-	going?
+	Ah,você está de
+	saída? Para onde?
 	"""
 	keyWait
 		any = false
@@ -35,13 +35,14 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"I'll be OK!"
+	"Vai ficar tudo bem!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looks like Mayl
-	had fun!
+	Aposto que a Mayl
+	vai se divertir à
+	beça!
 	"""
 	keyWait
 		any = false
@@ -52,17 +53,17 @@ script 10 mmbn4 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Now you're in a
-	country-wide
-	tournament?
+	Agora você vai lutar
+	em um torneio
+	nacional?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I didn't know that
-	kids your age could
-	compete!
+	Eu não sabia que
+	crianças da sua ida-
+	de podiam competir!
 	"""
 	keyWait
 		any = false
@@ -73,16 +74,16 @@ script 15 mmbn4 {
 		mugshot = Mom
 	msgOpen
 	"""
-	You made it past
-	the prelims?
-	Congratulations!
+	Você passou nas
+	preliminares?
+	Parabéns!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll be watching
-	you on TV!
+	Estarei torcendo por
+	você na TV!
 	"""
 	keyWait
 		any = false
@@ -103,8 +104,8 @@ script 20 mmbn4 {
 		mugshot = Mom
 	msgOpen
 	"""
-	The match hasn't
-	started yet?
+	A luta ainda não
+	começou?
 	"""
 	keyWait
 		any = false
@@ -115,9 +116,8 @@ script 25 mmbn4 {
 		mugshot = Mom
 	msgOpen
 	"""
-	That was an amazing
-	match!
-	Is MegaMan OK?
+	Que luta incrível!
+	O MegaMan tá bem?
 	"""
 	keyWait
 		any = false
@@ -128,8 +128,9 @@ script 30 mmbn4 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Lan,do well! I'll
-	be rooting for you!
+	Lan,arrase lá!
+	Estarei torcendo por
+	você!
 	"""
 	keyWait
 		any = false
@@ -139,15 +140,15 @@ script 40 mmbn4 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"Welcome home!"
+	"Bem-vindo de volta!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Hey,Mom! Is
-	lunch ready?
+	Mamãe! O almoço já
+	tá pronto?
 	"""
 	keyWait
 		any = false
@@ -155,8 +156,8 @@ script 40 mmbn4 {
 	mugshotShow
 		mugshot = Mom
 	"""
-	Lunch?
-	What do you mean?
+	Almoço?
+	Como assim?
 	"""
 	keyWait
 		any = false
@@ -164,22 +165,22 @@ script 40 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	⋯Oh,I forgot to
-	mail you!
+	... Ah,esqueci de te
+	mandar o e-mail!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Mom
-	"Oh,well⋯"
+	"Bem,de um jeito ou\nde outro..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll just whip
-	something up,if
-	that's OK.
+	Eu posso preparar
+	uma coisinha pra
+	você,rapidinho.
 	"""
 	keyWait
 		any = false
@@ -202,32 +203,33 @@ script 41 mmbn4 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Oh,Lan. There's
-	smoke coming out of
-	your PC!
+	Ah,Lan. Tem fumaça
+	saindo do seu
+	computador!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I didn't want to
-	mess around with it⋯
+	Eu não queria mexer
+	nele,para não
+	estragar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wasn't sure what 
-	to do,so I mailed
-	you⋯
+	Como não sabia o que
+	fazer,mandei aquele
+	e-mail pra você...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Can you use this to
-	extinguish fires on
-	the Cyberworld?
+	Pode usar isto aqui
+	para apagar os in-
+	cêndios na Rede?
 	"""
 	keyWait
 		any = false
@@ -253,13 +255,13 @@ script 41 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Thanks,Mom!"
+	"Valeu,mãe!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,let's get
-	to my room!
+	MegaMan,vamos lá pro
+	meu quarto!
 	"""
 	keyWait
 		any = false
@@ -276,8 +278,9 @@ script 42 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We have to set
-	Mom at ease!
+	A gente tem que
+	tranquilizar a
+	mamãe!
 	"""
 	keyWait
 		any = false
@@ -293,8 +296,8 @@ script 43 mmbn4 {
 		mugshot = Mom
 	msgOpen
 	"""
-	I'm sorry I couldn't
-	do anything,Lan⋯
+	Desculpa. Não pude
+	fazer nada,Lan...
 	"""
 	keyWait
 		any = false
@@ -305,8 +308,9 @@ script 44 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's hurry and
-	check out your PC!
+	Lan,vamos logo
+	conferir o seu
+	computador!
 	"""
 	keyWait
 		any = false
@@ -317,9 +321,9 @@ script 45 mmbn4 {
 		mugshot = Mom
 	msgOpen
 	"""
-	So the smoke is
-	gone? Well thank
-	heavens⋯
+	Então,não tá mais
+	soltando fumaça?
+	Graças a Deus...
 	"""
 	keyWait
 		any = false
@@ -330,16 +334,16 @@ script 47 mmbn4 {
 		mugshot = Mom
 	msgOpen
 	"""
-	That was your next
-	opponent in the
-	tournament?
+	Aquela era a sua
+	próxima adversária
+	no torneio?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What a polite young
-	man she was!
+	Mas que mocinha
+	educada,ela!
 	"""
 	keyWait
 		any = false

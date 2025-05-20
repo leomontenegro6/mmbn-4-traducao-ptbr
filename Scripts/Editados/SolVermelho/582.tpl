@@ -4,13 +4,13 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"FireMan was deleted!"
+	"FireMan foi\nderrotado!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And the winner is⋯
-	Lan!!
+	E o vencedor é...
+	Lan Hikari!!
 	"""
 	keyWait
 		any = false
@@ -27,11 +27,11 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	msgOpen
-	"Heh,I lost⋯But what"
+	"He,eu perdi..."
 	keyWait
 		any = false
 	clearMsg
-	"a good battle."
+	"Mas foi uma ótima\nluta."
 	keyWait
 		any = false
 	clearMsg
@@ -41,7 +41,7 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Yep,it sure was!"
+	"Aham! Foi mesmo!"
 	keyWait
 		any = false
 	clearMsg
@@ -52,9 +52,9 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	My soul synced with
-	FireMan's burning
-	heart!!
+	Minha alma se harmo-
+	nizou com o coração
+	ardente do FireMan!
 	"""
 	keyWait
 		any = false
@@ -70,9 +70,8 @@ script 4 mmbn4 {
 	soundPlay
 		track = 220
 	"""
-	MegaMan's soul has
-	communed with
-	FireMan's!!
+	A Alma do MegaMan se
+	ligou à do FireMan!!
 	"""
 	keyWait
 		any = false
@@ -88,9 +87,9 @@ script 5 mmbn4 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Well,see ya. There's
-	one more thing I
-	gotta do.
+	Bem,até mais. Ainda
+	tem uma coisa que
+	eu preciso fazer.
 	"""
 	keyWait
 		any = false
@@ -111,7 +110,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = HotDogLady
-	"Where're you going?!"
+	"Aonde você vai?!"
 	keyWait
 		any = false
 	clearMsg
@@ -122,8 +121,8 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	"""
-	There's a matter I
-	have to finish off.
+	Eu tenho um certo
+	negócio a terminar.
 	"""
 	keyWait
 		any = false
@@ -135,8 +134,8 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = HotDogLady
 	"""
-	You're gonna deal
-	with them now?
+	Você vai lidar com
+	eles agora?
 	"""
 	keyWait
 		any = false
@@ -158,7 +157,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = HotDogLady
 	msgOpen
-	"Wait!"
+	"Espera!"
 	keyWait
 		any = false
 	end
@@ -168,14 +167,14 @@ script 12 mmbn4 {
 		mugshot = HotDogLady
 	msgOpen
 	"""
-	Ummm⋯How about
-	running the hot-
-	dog stand with me?
+	Hm... Que tal
+	trabalhar na
+	barraquinha comigo?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Mr.Match,I⋯"
+	"Sr. Match,eu..."
 	keyWait
 		any = false
 	clearMsg
@@ -186,21 +185,21 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	"""
-	My only passion
-	lies in the heat
+	A minha única paixão
+	é o calor do
+	combate.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	of battle.
-	We come from two
-	different worlds.
+	Você e eu somos de
+	mundos diferentes.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It wouldn't work."
+	"Nunca daria certo."
 	keyWait
 		any = false
 	end
@@ -209,7 +208,7 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = HotDogLady
 	msgOpen
-	"Mr.Match⋯"
+	"Sr. Match..."
 	keyWait
 		any = false
 	clearMsg
@@ -221,10 +220,10 @@ script 15 mmbn4 {
 		mugshot = Lan
 	mugshotAnimation
 		animation = 1
-	"⋯⋯\n"
+	"......\n"
 	mugshotAnimation
 		animation = 2
-	"Miss,I⋯"
+	"Moça,eu..."
 	keyWait
 		any = false
 	clearMsg
@@ -234,27 +233,27 @@ script 15 mmbn4 {
 script 16 mmbn4 {
 	mugshotShow
 		mugshot = HotDogLady
-	"Heh heh,rejected⋯"
+	"He he.\nLevei um fora..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh well.
-	I understand how
-	he feels.
+	Bom,é a vida.
+	E eu entendo como
+	ele se sente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Anyway,I'm always
-	quick to get back
-	on my feet again.
+	Enfim,eu nunca
+	desanimo por muito
+	tempo.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Still,this time⋯"
+	"Mas,desta vez..."
 	keyWait
 		any = false
 	end
@@ -263,7 +262,7 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You'll get over it!"
+	"Ela vai superar\nisso!"
 	keyWait
 		any = false
 	clearMsg
@@ -274,7 +273,7 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah,in no time!"
+	"É,rapidinho!"
 	keyWait
 		any = false
 	end
@@ -284,24 +283,24 @@ script 19 mmbn4 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Dang it!
-	I lost!
+	Droga!
+	Perdi!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But remember this!
-	It doesn't mean
-	you beat me!!
+	Mas ouça bem: isso
+	não quer dizer que
+	você me venceu!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	While the fire still
-	rages within me,I'll
-	never let up on you!
+	Enquanto o fogo
+	arder em mim,nunca
+	te deixarei em paz!
 	"""
 	keyWait
 		any = false
@@ -312,13 +311,14 @@ script 19 mmbn4 {
 script 20 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"I'm ready anytime!"
+	"Eu tô pronto\nquando quiser!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I won't let you
-	make any trouble!
+	Só não vou deixar
+	você aprontar mais
+	nada!
 	"""
 	keyWait
 		any = false

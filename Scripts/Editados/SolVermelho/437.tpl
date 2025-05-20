@@ -4,28 +4,28 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	msgOpen
-	"Heh heh heh!"
+	"He he he!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So you've managed to
-	find old Hiding Joe?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	You're pretty good,
-	huh?
+	Então,você achou
+	o velho João
+	Esconde,aqui?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	As a reward,I'll
-	give you some good
-	information⋯
+	Você é bom,garoto.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Como recompensa,
+	vou te dar uma
+	informação legal...
 	"""
 	keyWait
 		any = false
@@ -37,7 +37,7 @@ script 0 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Heh heh heh!"
+	"He he he!"
 	keyWait
 		any = false
 	end
@@ -59,74 +59,75 @@ script 130 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Are you⋯
-	Solar Boy?
+	Você...
+	é o Garoto Solar?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Django
-	"⋯Who are you?"
+	"... Quem é você?"
 	keyWait
 		any = false
 	clearMsg
-	"You know of me?"
+	"Você me conhece?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"I'm MegaMan!"
+	"Eu sou o MegaMan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I didn't think that
-	you really exist!
+	E não achava que
+	você existia de
+	verdade!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But⋯you're not a
-	program,are you?
+	Mas... você não é um
+	programa,é?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Django
-	"No,I'm not."
+	"Não,não sou."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm on a journey
-	beyond time and
-	space,
+	Estou em uma jornada
+	através do tempo e
+	do espaço,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	hunting Vampires
-	wherever they may
-	be!
+	caçando Vampiros,
+	onde quer que
+	estejam!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Hunting Vampires⋯?"
+	"Caçando\nVampiros...?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do you mean that
-	inside that
-	・
+	Mas,então,dentro
+	desse
+	.
 	"""
 	waitSkip
 		frames = 30
@@ -139,10 +140,10 @@ script 130 mmbn4 {
 	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
 	keyWait
@@ -151,116 +152,38 @@ script 130 mmbn4 {
 	mugshotShow
 		mugshot = Django
 	"""
-	I think his name
-	was ShadeMan?
+	Creio que o nome
+	dele era ShadeMan...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I managed to force
-	him into his coffin
+	Eu consegui forçá-lo
+	para dentro do
+	caixão dele
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	once with my solar
-	gun,GunDelSol⋯
-	"""
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = MegaMan
-	"ShadeMan⋯?!"
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = Django
-	"""
-	Have you fought him
-	before?
+	com a minha arma
+	solar,a GunDelSol...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"""
-	Yeah,I have⋯
-	But when I fought
-	him,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I used the power of
-	a DarkChip to
-	delete ShadeMan!
-	"""
+	"ShadeMan...?!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Django
 	"""
-	Denizens of the dark
-	may return any
-	number of times⋯
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	To destroy them
-	completely⋯
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	They must be
-	purified with this
-	PileDriver!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"But⋯"
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = MegaMan
-	"What's wrong?"
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = Django
-	"""
-	That PileDriver
-	won't work without
-	the Sunlight!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Light from the Sun
-	can't make it this
-	deep in the Net!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	If we don't hurry,
-	ShadeMan will awake
-	from his slumber⋯
+	Você já o enfrentou
+	antes?
 	"""
 	keyWait
 		any = false
@@ -268,23 +191,102 @@ script 130 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I know! I wonder if
-	we can't somehow⋯
+	Já,sim...
+	Mas,quando lutei
+	contra ele,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	transfer Sunlight
-	from my operator
-	Lan's PET?!
+	eu usei o poder de
+	um Chip das Trevas
+	para deletá-lo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Django
-	"An excellent idea!"
+	"""
+	Habitantes da escu-
+	ridão conseguem vol-
+	tar inúmeras vezes.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Para destrui-los
+	por completo...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	eles precisam ser
+	purificados por este
+	Bate-Estacas!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Porém..."
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = MegaMan
+	"Que foi?"
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = Django
+	"""
+	O Bate-Estacas não
+	funciona sem Luz
+	Solar!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	E a luz do Sol não
+	chega tão fundo
+	assim na Rede.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Se não corrermos,
+	o ShadeMan desperta-
+	rá de seu sono...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = MegaMan
+	"""
+	Droga! Não existe
+	um jeito da gente
+	transferir Luz Solar
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	do PET do meu
+	operador,o Lan?!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = Django
+	"Excelente ideia!"
 	keyWait
 		any = false
 	clearMsg
@@ -297,19 +299,20 @@ script 130 mmbn4 {
 	"."
 	waitSkip
 		frames = 30
-	"No,it won't work⋯"
+	" Não,\nnão daria certo..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sunlight can be
-	collected from the
+	A Luz Solar só pode
+	ser coletada no mundo
+	real...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	real world⋯,if I had
+	Ah,se eu tivesse o
 	"
 	"""
 	printItem
@@ -320,9 +323,9 @@ script 130 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	But I dropped it
-	when fighting with
-	ShadeMan⋯
+	Mas deixei cair
+	enquanto lutava
+	com o ShadeMan...
 	"""
 	keyWait
 		any = false
@@ -330,9 +333,8 @@ script 130 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Do you remember
-	where you dropped
-	it?
+	Você lembra onde
+	deixou cair?
 	"""
 	keyWait
 		any = false
@@ -340,9 +342,9 @@ script 130 mmbn4 {
 	mugshotShow
 		mugshot = Django
 	"""
-	I think it was
-	somewhere near the
-	Undernet2 entrance⋯
+	Acho que foi ali
+	pela entrada da
+	Undernet 2...
 	"""
 	keyWait
 		any = false
@@ -350,8 +352,8 @@ script 130 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Then I'll go and
-	look for it!
+	Então,eu vou lá
+	procurar!
 	"""
 	keyWait
 		any = false
@@ -364,24 +366,24 @@ script 130 mmbn4 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It isn't proper for
-	me to ask that of
-	one I've just met⋯
+	Não é certo pedir
+	isso de alguém que
+	recém conheci...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I suppose that
-	given the
-	circumstances⋯
+	Mas acho que,
+	dadas as
+	circunstâncias...
 	"""
 	keyWait
 		any = false
@@ -389,15 +391,15 @@ script 130 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	No problem!
-	Leave the "
+	De boa!
+	Deixa o "
 	"""
 	printItem
 		buffer = 0
 		item = 30
 	"""
 	"
-	up to me!
+	comigo!
 	"""
 	keyWait
 		any = false
@@ -405,8 +407,8 @@ script 130 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan,let's hurry to
-	Undernet2!
+	Lan,vamos rápido lá
+	pra Undernet 2!
 	"""
 	keyWait
 		any = false
@@ -435,17 +437,16 @@ script 132 mmbn4 {
 		mugshot = Otenko
 	msgOpen
 	"""
-	This is a sorry
-	state⋯To follow the
-	Vampire all this way
+	Que situação lamen-
+	tável... Seguir o
+	Vampiro até aqui só
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	only to not be able
-	to use the
-	PileDriver!
+	pra não conseguir
+	usar o Bate-Estacas!
 	"""
 	keyWait
 		any = false
@@ -455,7 +456,7 @@ script 133 mmbn4 {
 	mugshotShow
 		mugshot = Django
 	msgOpen
-	"The \""
+	"O \""
 	printItem
 		buffer = 0
 		item = 30
@@ -464,14 +465,14 @@ script 133 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	should be somewhere
-	near the entrance
-	to Undernet2⋯
+	deve estar nas pro-
+	ximidades da entrada
+	da Undernet 2...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"MegaMan,good luck!"
+	"MegaMan,boa sorte!"
 	keyWait
 		any = false
 	end
@@ -480,7 +481,7 @@ script 134 mmbn4 {
 	mugshotShow
 		mugshot = Otenko
 	msgOpen
-	"And to you!"
+	"Boa sorte!"
 	keyWait
 		any = false
 	end
@@ -490,17 +491,17 @@ script 135 mmbn4 {
 		mugshot = Django
 	msgOpen
 	"""
-	I⋯
-	I don't feel the
-	Sunlight⋯
+	Eu...
+	Eu não sinto a
+	Luz Solar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The PET must have
-	Sunlight to drive
-	the PileDriver!
+	O PET precisa dela
+	para ativar o
+	Bate-Estacas!
 	"""
 	keyWait
 		any = false
@@ -511,8 +512,8 @@ script 136 mmbn4 {
 		mugshot = Otenko
 	msgOpen
 	"""
-	So you've found it!
-	The "
+	Ah,você achou ele!
+	O "
 	"""
 	printItem
 		buffer = 0
@@ -522,8 +523,8 @@ script 136 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Quick,take it to
-	Django!
+	Rápido,entregue-o
+	ao Django!
 	"""
 	keyWait
 		any = false
@@ -538,13 +539,13 @@ script 220 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	I'm a BugFrag
-	trader⋯
+	Sou um mercador de
+	FragBugs...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Wanna trade?\n"
+	"Quer trocar?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -581,7 +582,7 @@ script 220 mmbn4 {
 }
 script 221 mmbn4 {
 	clearMsg
-	"Come again⋯"
+	"Volte sempre..."
 	keyWait
 		any = false
 	end
@@ -590,7 +591,7 @@ script 222 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	msgOpen
-	"Sorry,outta stock⋯"
+	"Acabou tudo..."
 	keyWait
 		any = false
 	end

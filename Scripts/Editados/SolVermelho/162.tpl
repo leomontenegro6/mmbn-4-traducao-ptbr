@@ -19,84 +19,85 @@ script 0 mmbn4 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	The MT ignition
-	device is protected
-	by double security.
+	O dispositivo MT tem
+	uma camada dupla de
+	segurança.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	First,a small-scale
-	bombing machine.
+	Primeiro,uma
+	pequena máquina de
+	bombas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It'll keep pumping
-	out both big and
-	small bombs.
+	Ela vai ficar
+	lançando bombas
+	grandes e pequenas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's the big bombs
-	that are the key.
+	A chave são as
+	bombas grandes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Disposing of 20 big
-	bombs will eliminate
-	security system 1.
+	Destrua 20 delas pra
+	eliminar o primeiro
+	nível de segurança.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Press the A Button
-	in front of a bomb
-	to dispose of it.
+	Aperte A na frente
+	da bomba para se
+	livrar dela.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'll take damage
-	if a bomb explodes,
-	so take care,huh.
+	Se a bomba explodir,
+	você leva dano,
+	então,cuidado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	After shutting down
-	security 1,look for
-	the ignition device.
+	Após desativar o 1o.
+	nível,procure pelo
+	dispositivo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That'll set off the
-	second security
-	viruses.
+	Isso vai ativar os
+	vírus do segundo
+	nível de segurança.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Eliminate that,and
-	you can stop the MT
-	ignition device.
+	Elimine eles e você
+	vai poder parar o
+	dispositivo MT.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ready?"
+	"Pronto?"
 	keyWait
 		any = false
 	clearMsg
@@ -111,7 +112,7 @@ script 0 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"I'm on it!  "
+	"Pronto!  "
 	option
 		brackets = false
 		left = 0
@@ -120,7 +121,7 @@ script 0 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Not yet!"
+	"Ainda não!"
 	select
 		default = 0
 		noDelay = false
@@ -136,8 +137,9 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	"""
-	They're serious! You
-	gotta be quick!
+	Eles não estão
+	brincando!
+	Não perca tempo!
 	"""
 	keyWait
 		any = false
@@ -146,8 +148,8 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	msgOpen
 	"""
-	INITIATING PRIMARY
-	SECURITY.
+	INICIANDO SEGURANÇA
+	PRIMÁRIA.
 	"""
 	keyWait
 		any = false
@@ -160,9 +162,9 @@ script 2 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Stay alert,MegaMan!
-	The ignition device
-	is on now!
+	Fica esperto,Mega-
+	Man! O dispositivo
+	tá ligado agora!
 	"""
 	keyWait
 		any = false
@@ -171,15 +173,17 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	msgOpen
 	"""
-	PRIMARY SECURITY
-	SHUT DOWN.
+	DESLIGANDO
+	SEGURANÇA
+	PRIMÁRIA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	INITIATING SECONDARY
-	SECURITY.
+	INICIANDO
+	SEGURANÇA
+	SECUNDÁRIA.
 	"""
 	keyWait
 		any = false
@@ -191,7 +195,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	msgOpen
-	"You ready?!"
+	"Pronto?!"
 	keyWait
 		any = false
 	clearMsg
@@ -206,7 +210,7 @@ script 4 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"I'm on it!\n"
+	"Pronto!\n"
 	positionOptionVertical
 		width = 8
 	option
@@ -217,7 +221,7 @@ script 4 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Wait a sec!\n"
+	"Espera!\n"
 	positionOptionVertical
 		width = 8
 	option
@@ -228,7 +232,7 @@ script 4 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Get instructions"
+	"Instruções"
 	select
 		default = 0
 		noDelay = false
@@ -245,8 +249,9 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	"""
-	They're serious! You
-	gotta be quick!
+	Eles não estão
+	brincando!
+	Não perca tempo!
 	"""
 	keyWait
 		any = false
@@ -257,86 +262,87 @@ script 5 mmbn4 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Okay,I'll go over
-	it again.
+	Tudo bem,eu explico
+	de novo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The MT ignition
-	device is protected
-	by double security.
+	O dispositivo MT é
+	protegido por dois
+	níveis de segurança.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	First,a small-scale
-	bombing machine.
+	Primeiro,uma
+	pequena máquina
+	de bombas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It'll keep pumping
-	out both big and
-	small bombs.
+	Ela vai ficar
+	lançando bombas
+	grandes e pequenas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's the big bombs
-	that are the key.
+	A chave são as
+	bombas grandes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Disposing of 20 big
-	bombs will eliminate
-	security system 1.
+	Destrua 20 delas pra
+	eliminar o primeiro
+	nível de segurança.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Press the A Button
-	in front of a bomb
-	to dispose of it.
+	Aperte A na frente
+	da bomba para se
+	livrar dela.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'll take damage
-	if a bomb explodes,
-	so take care,huh.
+	Se a bomba explodir,
+	você leva dano,
+	então,cuidado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	After shutting down
-	security 1,look for
-	the ignition device.
+	Após desativar o 1o.
+	nível,procure pelo
+	dispositivo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That'll set off the
-	second security
-	viruses.
+	Isso vai ativar os
+	vírus do segundo
+	nível de segurança.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Eliminate that,and
-	you can stop the MT
-	ignition device.
+	Elimine eles e você
+	vai poder parar o
+	dispositivo MT.
 	"""
 	keyWait
 		any = false

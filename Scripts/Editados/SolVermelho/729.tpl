@@ -5,17 +5,17 @@ script 0 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Please forgive the
-	long delay,
-	everyone.
+	Pedimos desculpas
+	pelo longo atraso,
+	meus amigos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	First,it's Jack
-	Bomber,the Netopian
-	representative!
+	Apresentamos Jack
+	Bomber,representante
+	da Ameropa!
 	"""
 	keyWait
 		any = false
@@ -26,8 +26,8 @@ script 1 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	And from Electopia,
-	Lan!
+	E de Ni-Hon...
+	Lan Hikari!
 	"""
 	keyWait
 		any = false
@@ -38,32 +38,33 @@ script 2 mmbn4 {
 		mugshot = ShadyGuy
 	msgOpen
 	"""
-	I joined this tour-
-	ney so that FootBomb
-	would take Net-
+	Eu entrei neste
+	torneio pra fazer o
+	FuteBomba substituir
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Battling's place as
-	a major sport!!!
+	NetLutas como
+	esporte mais
+	popular!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm gonna beat you
-	to teach the whole
-	world about it!
+	Eu vou acabar com
+	você e ensinar isso
+	pro mundo todo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Everyone will be
-	shocked to see more
-	intense action!
+	Vai todo mundo ficar
+	besta com a ação
+	intensidade dele!
 	"""
 	keyWait
 		any = false
@@ -75,17 +76,17 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Sorry,but we don't
-	plan on losing
-	today.
+	Desculpa,mas a gente
+	não pretende perder
+	hoje.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yeah,take your
-	FootBomb advertising
-	somewhere else!
+	Leva essa sua campa-
+	nha do FuteBomba pra
+	outro lugar!
 	"""
 	keyWait
 		any = false
@@ -96,28 +97,28 @@ script 4 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	These guys know each
-	other already!
+	Ah,parece que os
+	lutadores já se
+	conhecem!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have a feeling
-	this'll be a fierce
-	battle!
+	Sinto que esta será
+	uma batalha feroz!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"So let's begin!"
+	"Bom,vamos começar!"
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Jack Bomber
 	Vs.
-	Lan
+	Lan Hikari!
 	"""
 	keyWait
 		any = false
@@ -145,7 +146,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
-	"I'll blow you away!"
+	"Vai ser um estouro!"
 	keyWait
 		any = false
 	end

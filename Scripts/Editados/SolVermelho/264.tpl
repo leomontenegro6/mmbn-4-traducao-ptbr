@@ -9,9 +9,9 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The MT igniter's in
-	the NetBattle
-	Machine!
+	O dispositivo de
+	ignição está na
+	Máquina de NetLuta!
 	"""
 	keyWait
 		any = false
@@ -22,9 +22,9 @@ script 1 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! We've got to
-	disable the MT
-	igniter!
+	Lan! A gente tem que
+	desativar o disposi-
+	tivo de ignição!
 	"""
 	keyWait
 		any = false
@@ -35,8 +35,9 @@ script 10 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! You got mail
-	from your dad!
+	Lan! Você tem que
+	ler o e-mail do
+	papai!
 	"""
 	keyWait
 		any = false
@@ -52,15 +53,16 @@ script 20 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Congratulations on
-	winning the Round 1!
+	Meus parabéns por
+	sua vitória na
+	primeira rodada!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Good luck in
-	the next battle!
+	Boa sorte na próxima
+	luta!
 	"""
 	keyWait
 		any = false
@@ -71,8 +73,8 @@ script 25 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Good luck in winning
-	the championship!
+	Boa sorte para
+	vencer o campeonato!
 	"""
 	keyWait
 		any = false
@@ -87,13 +89,14 @@ script 130 mmbn4 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Lan! There are 5
-	igniters altogether!
+	Lan! São 5
+	dispositivos de
+	ignição!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Thanks for helping!"
+	"Obrigado pela força!"
 	keyWait
 		any = false
 	end
@@ -103,8 +106,9 @@ script 131 mmbn4 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Please disable the
-	MT igniters,Lan!
+	Por favor,desligue
+	os dispositivos de
+	ignição,Lan!
 	"""
 	keyWait
 		any = false
@@ -114,7 +118,7 @@ script 132 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"Aiiieeee!"
+	"Aaaaahhh!"
 	keyWait
 		any = false
 	end
@@ -124,8 +128,9 @@ script 133 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	What a battle!
-	Good job!
+	Mas que luta
+	incrível!
+	Mandou muito bem!
 	"""
 	keyWait
 		any = false
@@ -140,8 +145,8 @@ script 250 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	OK,Lan,let's
-	start your training!
+	OK,Lan,vamos começar
+	o seu treinamento!
 	"""
 	keyWait
 		any = false
@@ -151,7 +156,7 @@ script 251 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Once more,MegaMan!"
+	"De novo,MegaMan!"
 	keyWait
 		any = false
 	end

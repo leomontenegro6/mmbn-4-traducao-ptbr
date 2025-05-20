@@ -202,7 +202,7 @@ script 20 mmbn4 {
 	"""
 	MegaMan! Não sai do
 	pé daquele Navi
-	Preto!
+	Roxo!
 	"""
 	keyWait
 		any = false
@@ -258,8 +258,8 @@ script 24 mmbn4 {
 	msgOpen
 	"""
 	A Roll tá em apuros!
-	Bora voltar pro
-	PCElTorr!
+	Bora voltar pro CPU
+	EletroTorre!
 	"""
 	keyWait
 		any = false
@@ -270,7 +270,7 @@ script 25 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	O que será que é o
+	O que será aquele
 	chip do ShadeMan?
 	Talvez Higsby saiba.
 	"""
@@ -309,8 +309,8 @@ script 30 mmbn4 {
 	msgOpen
 	"""
 	MegaMan,bora sair da
-	Rede e ir pro
-	EletroVila Plaza!
+	Rede e ir pra Praça
+	da EletroVila!
 	"""
 	keyWait
 		any = false
@@ -335,8 +335,8 @@ script 32 mmbn4 {
 	msgOpen
 	"""
 	Pronto,inscritos.
-	De volta ao
-	EletroVila Plaza!
+	De volta à Praça
+	da EletroVila!
 	"""
 	keyWait
 		any = false
@@ -359,9 +359,9 @@ script 33 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Quando terminarmos
-	os pedidos,bora pro
-	EletroVila Plaza!
+	Já que terminamos
+	as missões,bora pra
+	Praça da EletroVila!
 	"""
 	keyWait
 		any = false
@@ -455,8 +455,8 @@ script 132 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Vamos lá pro
-	EletroVila Plaza!
+	Vamos lá pra
+	Praça da EletroVila!
 	"""
 	keyWait
 		any = false
@@ -664,9 +664,9 @@ script 161 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,let's give
-	the top to that
-	elderly man.
+	MegaMan,vamos dar o
+	pião pra aquele
+	senhorzinho.
 	"""
 	keyWait
 		any = false
@@ -709,8 +709,8 @@ script 164 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,bora pro
-	EletroVila Plaza
+	MegaMan,bora pra
+	Praça da EletroVila
 	também!
 	"""
 	keyWait
@@ -737,7 +737,7 @@ script 166 mmbn4 {
 	"""
 	O Navi do Chefe
 	tá na Área ACDC!
-	Bra pra lá!
+	Bora pra lá!
 	"""
 	keyWait
 		any = false
@@ -834,9 +834,9 @@ script 176 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan! Let's get
-	to Shuko! We can
-	go on the Net later!
+	MegaMan! Vamos lá
+	pra Shuko! Depois a
+	gente entra na Rede!
 	"""
 	keyWait
 		any = false

@@ -4,11 +4,11 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"Ponta,deleted!"
+	"Ponta foi derrotado!"
 	keyWait
 		any = false
 	clearMsg
-	"Lan is the winner!"
+	"Lan Hikari é o\nvencedor!"
 	keyWait
 		any = false
 	end
@@ -18,7 +18,7 @@ script 1 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You were amazing,
+	Você foi demais,
 	Yuko!
 	"""
 	keyWait
@@ -31,16 +31,17 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Yuko
 	"""
-	Teehee,I lost!
-	But that was fun!
+	Hi hi,perdi!
+	Mas foi tão
+	divertido!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thank you,Lan.
-	Thank you for not
-	going easy on me.
+	Obrigada,Lan.
+	Obrigada por não
+	pegar leve comigo.
 	"""
 	keyWait
 		any = false
@@ -60,7 +61,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = Yuko
-	"I⋯I have to go."
+	"Eu...\nEu tenho que ir."
 	keyWait
 		any = false
 	clearMsg
@@ -72,8 +73,9 @@ script 5 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Go? Where?
-	What's wrong,Yuko?
+	Ir? Pra onde?
+	O que tá
+	acontecendo,Yuko?
 	"""
 	keyWait
 		any = false
@@ -85,24 +87,24 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Yuko
 	"""
-	I'm sorry,Lan.
-	I'm sorry for not
-	telling you earlier.
+	Desculpa,Lan.
+	Desculpa por não te
+	contar antes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It happened a long,
-	long time before you
-	were born.
+	Aconteceu muito,
+	muito tempo antes de
+	você nascer.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I⋯
-	I died.
+	Eu...
+	Eu morri.
 	"""
 	keyWait
 		any = false
@@ -115,7 +117,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"No!!!"
+	"Não!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -125,49 +127,48 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = Yuko
-	"It's true."
+	"É a verdade."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's why all the
-	Navi ghosts appeared
-	in the Net.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	It's because I came
-	back to this world.
+	Por isso que todos
+	os Navis fantasma
+	apareceram na Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You sent all those
-	Navis on to the next
-	world,didn't you?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"Thank you,Lan."
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Now I've finally
-	had my chance,to
-	go up against nice,
+	Foi porque eu voltei
+	pra este mundo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	strong,and hand-
-	some opponents like
-	you and MegaMan.
+	Foi você que fez
+	todos aqueles Navis
+	ascenderem,não foi?
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Obrigada,Lan."
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Agora que eu tive a
+	chance de lutar
+	contra oponentes
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	fortes e legais como
+	você e o MegaMan...
 	"""
 	keyWait
 		any = false
@@ -179,8 +180,8 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Wait! No,don't go
-	Yuko!
+	Espera!
+	Yuko,não vai!
 	"""
 	keyWait
 		any = false
@@ -190,7 +191,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"W-wha'?!"
+	"O-o quê?!"
 	keyWait
 		any = false
 	end
@@ -199,7 +200,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = BusinessMan
 	msgOpen
-	"Yuko⋯"
+	"Yuko..."
 	keyWait
 		any = false
 	end
@@ -209,8 +210,9 @@ script 12 mmbn4 {
 		mugshot = Yuko
 	msgOpen
 	"""
-	Thank you,Lan.
-	Farewell.
+	Obrigada,Lan.
+	Obrigada,MegaMan.
+	Adeus...
 	"""
 	keyWait
 		any = false
@@ -225,13 +227,14 @@ script 13 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Watch me Yuko! I'll
-	win this tournament!
+	... Fica olhando,
+	Yuko! A gente vai
+	vencer o torneio!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I promise!"
+	"Eu te prometo!"
 	keyWait
 		any = false
 	clearMsg
@@ -241,13 +244,13 @@ script 13 mmbn4 {
 script 14 mmbn4 {
 	mugshotShow
 		mugshot = Yuko
-	"I'll be watching!"
+	"Vou ficar vendo!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll always root for
-	you,Lan!
+	Eu sempre vou torcer
+	por vocês,Lan!
 	"""
 	keyWait
 		any = false
@@ -266,7 +269,7 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"She's gone⋯"
+	"Ela se foi..."
 	keyWait
 		any = false
 	clearMsg
@@ -276,7 +279,7 @@ script 16 mmbn4 {
 script 17 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Lan⋯"
+	"Lan..."
 	keyWait
 		any = false
 	clearMsg
@@ -285,14 +288,14 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Heheh,I promised!"
+	"He he...\nEu fiz uma promessa!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,we've just
-	got to win this
-	tournament!
+	MegaMan,a gente TEM
+	que vencer este
+	torneio!
 	"""
 	keyWait
 		any = false
@@ -304,8 +307,8 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	You know it!
-	No problem!
+	Pode crer!
+	Nós vamos!
 	"""
 	keyWait
 		any = false
@@ -318,8 +321,9 @@ script 20 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	W-w-what's going on?
-	I'm so confused!
+	O-o-o que é que está
+	acontecendo?!
+	Eu tô tão confuso!
 	"""
 	keyWait
 		any = false

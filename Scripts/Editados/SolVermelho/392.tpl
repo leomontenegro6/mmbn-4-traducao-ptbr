@@ -5,7 +5,7 @@ script 130 mmbn4 {
 	"""
 	Vários meses se
 	passaram desde que
-	esse Navi morreu.
+	esses Navi morreram.
 	"""
 	keyWait
 		any = false

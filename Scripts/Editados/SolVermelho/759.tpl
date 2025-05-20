@@ -5,8 +5,9 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Sharo's representa-
-	tive is ColdMan⋯
+	ColdMan,o
+	representante de
+	Sharo...
 	"""
 	keyWait
 		any = false
@@ -17,13 +18,13 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"From Sharo,huh⋯"
+	"Sharo,é...?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The frigid country
-	in the north,right?
+	É aquele país gelado
+	ao norte,né?
 	"""
 	keyWait
 		any = false
@@ -34,8 +35,9 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotHide
 	"""
-	Is hot!
-	Netopia too hot!
+	Que calor!
+	A Ameropa é quente
+	demais!
 	"""
 	keyWait
 		any = false
@@ -46,23 +48,23 @@ script 3 mmbn4 {
 		mugshot = Chillski
 	msgOpen
 	"""
-	I think this place
-	at least be air-
-	conditioned,but no!!
+	Achei que teriam
+	pelo menos ar condi-
+	cionado,mas não!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Such place should
-	be!
+	Insuportável,
+	este lugar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If they not turn on,
-	I do myself!
+	Se eles não vão
+	ligar,então ligo eu!
 	"""
 	keyWait
 		any = false
@@ -73,15 +75,13 @@ script 4 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What's up
-	with him?
+	Qual é a dele?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's not hot in
-	here at all.
+	Nem tá quente aqui.
 	"""
 	keyWait
 		any = false
@@ -93,8 +93,8 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Just over-sensitive
-	to heat I guess⋯
+	É só um sujeito
+	calorento,eu acho...
 	"""
 	keyWait
 		any = false
@@ -104,7 +104,7 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hahaha⋯Guess so!"
+	"Ha ha ha... Pois é!"
 	keyWait
 		any = false
 	clearMsg
@@ -116,7 +116,7 @@ script 6 mmbn4 {
 	clearMsg
 	mugshotAnimation
 		animation = 2
-	"Is it getting cold?"
+	"Sou só eu,ou deu uma\nesfriada?"
 	keyWait
 		any = false
 	clearMsg
@@ -127,15 +127,16 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lemme check my
-	temp. sensor.
+	Eu vou conferir o
+	meu termômetro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,the room temp.
-	is falling rapidly!
+	! Lan,a temperatura
+	da sala tá caindo
+	rápido!
 	"""
 	keyWait
 		any = false
@@ -146,8 +147,8 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotHide
 	"""
-	We need an entrant's
-	help,please.
+	Precisamos da ajuda
+	de um competidor.
 	"""
 	keyWait
 		any = false
@@ -157,7 +158,7 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What is it,mister?"
+	"Que foi,moço?"
 	keyWait
 		any = false
 	clearMsg
@@ -168,8 +169,9 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	Ah,Lan! Am I glad
-	to see you!!
+	Ah,Lan Hikari! Como
+	estou feliz em ver
+	você!!
 	"""
 	keyWait
 		any = false
@@ -180,7 +182,7 @@ script 10 mmbn4 {
 script 11 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Huh? Me?"
+	"Hã?"
 	keyWait
 		any = false
 	clearMsg
@@ -191,24 +193,25 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	Your opponent,Cold-
-	Man,is generating
+	O seu oponente,
+	ColdMan,está gerando
+	inúmeros bonecos de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	huge numbers of
-	snowmen on the Neto-
-	pia Area of the Net,
+	neve na Área Ameropa
+	da Rede,e isso está
+	causando uma forte
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and it's wreaking
-	havoc on the temp.
-	control system here!
+	pane no sistema
+	de controle de
+	temperatura daqui!
 	"""
 	keyWait
 		any = false
@@ -220,16 +223,17 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	So that's why it got
-	cold so suddenly.
+	Então foi por isso
+	que ficou frio
+	assim,de repente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And that man must've
-	been ColdMan's
-	operator.
+	E acho que aquele
+	homem era o operador
+	do ColdMan.
 	"""
 	keyWait
 		any = false
@@ -241,23 +245,25 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	We'd like to try
-	reasoning with them,
-	but we're all pretty
+	Queríamos tentar
+	dialogar com ele,mas
+	estamos todos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	intimidated by that
-	powerful looking
+	intimidados pelo
+	Navi dele,o ColdMan.
+	Parece tão forte.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Navi ColdMan. No one
-	is willing to go.
+	Ninguém está
+	disposto a ir até
+	ele.
 	"""
 	keyWait
 		any = false
@@ -269,9 +275,9 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	So you want us to go
-	stop them from cool-
-	ing down the Net⋯
+	Então,quer que nós
+	impeçamos ele de
+	congelar a Rede...
 	"""
 	keyWait
 		any = false
@@ -282,19 +288,19 @@ script 15 mmbn4 {
 script 16 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
-	"That's right."
+	"Isso mesmo."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We really should
-	do it ourselves,
-	but you know⋯
+	Devíamos era fazer
+	isso nós mesmos,
+	claro,mas...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"How about it?"
+	"Enfim,o que me diz?"
 	keyWait
 		any = false
 	end
@@ -303,7 +309,7 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Well,MegaMan?"
+	"E aí,MegaMan?"
 	keyWait
 		any = false
 	clearMsg
@@ -313,21 +319,21 @@ script 17 mmbn4 {
 script 18 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Why not?"
+	"Por que não?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll all freeze at
-	this rate.
+	Nesse ritmo,vamos
+	todos virar picolé.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And it wouldn't hurt
-	to see what kinda
-	Navi ColdMan is.
+	E não seria má ideia
+	conferir que tipo de
+	Navi o ColdMan é.
 	"""
 	keyWait
 		any = false
@@ -339,9 +345,9 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Good point. Seeing
-	them in action would
-	be an added bonus.
+	Bem lembrado. Ver
+	eles em ação pode
+	ajudar muito.
 	"""
 	keyWait
 		any = false
@@ -352,7 +358,7 @@ script 19 mmbn4 {
 script 20 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
-	"Then you'll do it?"
+	"Então,você aceita?"
 	keyWait
 		any = false
 	end
@@ -361,14 +367,14 @@ script 21 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Sure. We've got time"
+	"Claro. Ainda tem\ntempo até a luta,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	before the match and
-	I doubt ColdMan will
-	do anything drastic.
+	e duvido que o Cold-
+	Man vá fazer alguma
+	coisa drástica.
 	"""
 	keyWait
 		any = false
@@ -379,20 +385,20 @@ script 21 mmbn4 {
 script 22 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
-	"Thank you!"
+	"Obrigado!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're counting on
-	you. Please hurry!
+	Contamos com vocês.
+	Por favor,vão logo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll go report this
-	to tournament HQ.
+	Irei relatar isso à
+	central do torneio.
 	"""
 	keyWait
 		any = false
@@ -403,8 +409,9 @@ script 23 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Well,let's go have
-	a word with ColdMan!
+	Bom,bora lá dar uma
+	palavrinha com o
+	ColdMan!
 	"""
 	keyWait
 		any = false

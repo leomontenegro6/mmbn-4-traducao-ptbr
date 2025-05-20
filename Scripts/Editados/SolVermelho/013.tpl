@@ -8,9 +8,9 @@ script 1 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	You won't
-	get push-
-	ed back!
+	Você não
+	é empur-
+	rado!
 	"""
 	waitHold
 	end
@@ -20,9 +20,8 @@ script 2 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Can pick
-	1 more
-	chip!
+	Pode ter
+	+1 chip!
 	"""
 	waitHold
 	end
@@ -32,8 +31,8 @@ script 3 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Can pick
-	2 more
+	Pode ter
+	+2
 	chips!
 	"""
 	waitHold
@@ -44,9 +43,9 @@ script 4 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	1 more
-	MegaChip
-	in folder
+	+1 Mega-
+	Chip na
+	pasta.
 	"""
 	waitHold
 	end
@@ -56,9 +55,9 @@ script 5 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	2 more
-	MegaChips
-	in folder
+	+2 Mega-
+	Chips na
+	pasta.
 	"""
 	waitHold
 	end
@@ -68,9 +67,9 @@ script 6 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	1 more
-	GigaChip
-	in folder
+	+1 Giga-
+	Chip na
+	pasta.
 	"""
 	waitHold
 	end
@@ -80,9 +79,9 @@ script 7 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Barrier
-	activated
-	frm start
+	Barreira
+	ligada no
+	começo.
 	"""
 	waitHold
 	end
@@ -92,9 +91,9 @@ script 8 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Zero dmg
-	with
-	B + Left!
+	B + Esq=
+	Zero
+	dano!
 	"""
 	waitHold
 	end
@@ -104,9 +103,9 @@ script 9 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Return
-	dmg with
-	B + Left!
+	B + Esq=
+	Reflete
+	golpe!
 	"""
 	waitHold
 	end
@@ -116,9 +115,9 @@ script 10 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	When hit,
-	B + Left
-	hurl star
+	B+Esq=
+	Contra-
+	ataque.
 	"""
 	waitHold
 	end
@@ -128,9 +127,9 @@ script 11 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	No effect
-	frm panel
-	type!
+	Imune a
+	efeitos
+	de qdros.
 	"""
 	waitHold
 	end
@@ -140,9 +139,9 @@ script 12 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Walk even
-	if no
-	panels!
+	Ande em
+	quadros
+	vazios!
 	"""
 	waitHold
 	end
@@ -152,9 +151,9 @@ script 13 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Keep 1HP
-	even on
-	fatal hit
+	Sobreviva
+	a golpe
+	com 1PV.
 	"""
 	waitHold
 	end
@@ -164,9 +163,9 @@ script 14 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Weak enmy
-	stop
-	appearing
+	Espanta
+	vírus
+	fracos.
 	"""
 	waitHold
 	end
@@ -176,9 +175,9 @@ script 15 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Attracts
-	Fire
-	viruses!
+	Atrai
+	vírus de
+	Fogo!
 	"""
 	waitHold
 	end
@@ -188,9 +187,9 @@ script 16 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Attracts
-	Aqua
-	viruses!
+	Atrai
+	vírus de
+	Água!
 	"""
 	waitHold
 	end
@@ -200,9 +199,9 @@ script 17 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Attracts
-	Elec
-	viruses!
+	Atrai
+	vírus
+	Elét.!
 	"""
 	waitHold
 	end
@@ -212,9 +211,9 @@ script 18 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Attracts
-	Wood
-	viruses!
+	Atrai
+	vírus de
+	Mdra!
 	"""
 	waitHold
 	end
@@ -224,9 +223,9 @@ script 19 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Find more
-	chip data
-	on enemy
+	Mais
+	chips de
+	alvos.
 	"""
 	waitHold
 	end
@@ -236,9 +235,9 @@ script 20 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Install
-	and try
-	L Button!
+	Instale
+	e aperte
+	L!
 	"""
 	waitHold
 	end
@@ -248,9 +247,9 @@ script 21 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Atk/speed
-	/charge
-	+3 each!
+	+3 pra
+	Atq/Rpdz/
+	Carga!
 	"""
 	waitHold
 	end
@@ -260,9 +259,9 @@ script 22 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	4 items
-	to
-	protect!
+	4 itens
+	para se
+	proteger!
 	"""
 	waitHold
 	end
@@ -272,9 +271,9 @@ script 23 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Maximizes
-	your
-	potential
+	Maximiza
+	seu po-
+	tencial.
 	"""
 	waitHold
 	end
@@ -284,9 +283,8 @@ script 24 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Stops
-	occurance
-	of bugs
+	Impede
+	bugs.
 	"""
 	waitHold
 	end
@@ -296,9 +294,9 @@ script 25 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Cleanses
-	evil
-	thoughts
+	Sem pen-
+	samentos
+	malignos.
 	"""
 	waitHold
 	end
@@ -308,9 +306,9 @@ script 26 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	VS only!
-	Find an
-	opponent
+	Só VS!
+	Ache o
+	oponente.
 	"""
 	waitHold
 	end
@@ -320,9 +318,9 @@ script 27 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	VS only!
-	Take high
-	lvl chips
+	Só VS!
+	Leve chps
+	fortes.
 	"""
 	waitHold
 	end
@@ -332,9 +330,9 @@ script 28 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	VS only!
-	Heals in
-	a pinch
+	Só VS!
+	Cura em
+	apuros.
 	"""
 	waitHold
 	end
@@ -343,7 +341,7 @@ script 29 mmbn4 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"HeatWepn"
+	"ArmaFogo"
 	waitHold
 	end
 }
@@ -351,7 +349,7 @@ script 30 mmbn4 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"AquaWepn"
+	"ArmaÁgua"
 	waitHold
 	end
 }
@@ -359,7 +357,7 @@ script 31 mmbn4 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"ElecWepn"
+	"ArmaElét"
 	waitHold
 	end
 }
@@ -367,7 +365,7 @@ script 32 mmbn4 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"WoodWepn"
+	"ArmaMdra"
 	waitHold
 	end
 }
@@ -375,7 +373,7 @@ script 33 mmbn4 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"Invisibl"
+	"Invisívl"
 	waitHold
 	end
 }
@@ -384,8 +382,9 @@ script 34 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	MegBuster
-	Attack+1!
+	Ataque do
+	MegaTiro
+	+1!
 	"""
 	waitHold
 	end
@@ -395,8 +394,9 @@ script 35 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	MegBuster
-	Speed+1!
+	Veloc. do
+	MegaTiro
+	+1!
 	"""
 	waitHold
 	end
@@ -406,9 +406,9 @@ script 36 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	MegBuster
-	Charge
-	up+1!
+	Carga do
+	MegaTiro
+	+1!
 	"""
 	waitHold
 	end
@@ -418,8 +418,9 @@ script 37 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	MegBuster
-	AttckMAX!
+	Ataque do
+	MegaTiro
+	MÁXIMO!
 	"""
 	waitHold
 	end
@@ -429,8 +430,9 @@ script 38 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	MegBuster
-	SpeedMAX!
+	Veloc. do
+	MegaTiro
+	MÁXIMA!
 	"""
 	waitHold
 	end
@@ -440,9 +442,9 @@ script 39 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	MegBuster
-	Charge
-	MAX!
+	Carga do
+	MegaTiro
+	MÁXIMA!
 	"""
 	waitHold
 	end
@@ -451,7 +453,7 @@ script 40 mmbn4 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"WeapLV+1!"
+	"NNArma+1!"
 	waitHold
 	end
 }
@@ -460,7 +462,7 @@ script 41 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	MAX HP
+	PV MÁX
 	+50!
 	"""
 	waitHold
@@ -471,7 +473,7 @@ script 42 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	MAX HP
+	PV MÁX
 	+100!
 	"""
 	waitHold
@@ -482,7 +484,7 @@ script 43 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	MAX HP
+	PV MÁX
 	+200!
 	"""
 	waitHold
@@ -493,7 +495,7 @@ script 44 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	MAX HP
+	PV MÁX
 	+300!
 	"""
 	waitHold
@@ -504,7 +506,7 @@ script 45 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	MAX HP
+	PV MÁX
 	+400!
 	"""
 	waitHold
@@ -515,13 +517,13 @@ script 46 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	MAX HP
+	PV MÁX
 	+500!
 	"""
 	waitHold
 	end
 }
 script 47 mmbn4s {
-	"Run?"
+	"Executar?"
 	end
 }

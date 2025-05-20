@@ -72,7 +72,7 @@ script 3 mmbn4 {
 	"""
 	Bom trabalho. O
 	parque abrirá daqui
-	três diaa!
+	três dias!
 	"""
 	keyWait
 		any = false
@@ -142,7 +142,7 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = Roll
-	"Tá."
+	"Aham."
 	keyWait
 		any = false
 	end
@@ -166,7 +166,7 @@ script 9 mmbn4 {
 		frames = 30
 	"""
 	nossa,as
-	abilidades dele dão
+	habilidades dele dão
 	até medo...
 	"""
 	keyWait

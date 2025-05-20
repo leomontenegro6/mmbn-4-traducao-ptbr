@@ -9,21 +9,21 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Be careful,Lan!"
+	"Cuidado lá,Lan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If I could I'd go to
-	Netopia to cheer you
-	on⋯⋯⋯⋯
+	Eu queria poder ir
+	pra Ameropa torcer
+	por você......
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm cheering for you
-	with all my heart!
+	Vou torcer por você
+	daqui com tudo!
 	"""
 	keyWait
 		any = false
@@ -34,20 +34,21 @@ script 5 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Congrats on clearing
-	the prelims! I saw
+	Parabéns por passar
+	nas preliminares! Eu
+	vi tudinho na TV!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it all on TV! The
-	tournament's about
+	O torneio tá pra
+	começar.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"to start. Good luck!"
+	"Boa sorte!"
 	keyWait
 		any = false
 	end
@@ -74,22 +75,22 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"I'm glad you're all"
+	"Que bom que você tá\nbem,Lan."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	right,Lan. I was so
-	worried when you
-	were taken away by
+	Fiquei tão preocupa-
+	da quando aquele he-
+	licóptero te levou!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that helicopter! Oh,
-	and congratulations
-	on winning Red Sun!
+	Ah,e parabéns por
+	vencer o Sol
+	Vermelho!
 	"""
 	keyWait
 		any = false
@@ -99,22 +100,21 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"I'm glad you're all"
+	"Que bom que você tá\nbem,Lan."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	right,Lan. I was so
-	worried when you
-	were taken away by
+	Fiquei tão preocupa-
+	da quando aquele he-
+	licóptero te levou!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that helicopter! Oh,
-	and congratulations
-	on winning BlueMoon!
+	Ah,e parabéns por
+	vencer o Lua Azul!
 	"""
 	keyWait
 		any = false
@@ -125,17 +125,17 @@ script 15 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	When you were taken
-	away in the helicop-
-	ter,I had a feeling
+	Quando você foi
+	levado por aquele
+	helicóptero,eu senti
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	something bad was
-	going to happen.
-	I'm worried,Lan⋯
+	que alguma coisa
+	ruim ia acontecer.
+	Tô preocupada,Lan!
 	"""
 	keyWait
 		any = false
@@ -146,25 +146,25 @@ script 20 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	You're going off
-	someplace dangerous
-	again,aren't you⋯
+	Você vai pra um
+	lugar perigoso de
+	novo,naõ vai...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 1
-	"⋯⋯\n"
+	"......\n"
 	mugshotAnimation
 		animation = 2
-	"I guess there's no"
+	"Acho que não dá\npra te impedir."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	stopping you. Please
-	come back soon!
+	Por favor,volta
+	logo!
 	"""
 	keyWait
 		any = false
@@ -175,15 +175,16 @@ script 25 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	I have faith in you,
-	Lan⋯No matter what
+	Eu tenho fé em você,
+	Lan...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	happens,I'll never
-	lose faith in you!
+	E haja o que houver,
+	eu nunca vou perder
+	essa fé!
 	"""
 	keyWait
 		any = false

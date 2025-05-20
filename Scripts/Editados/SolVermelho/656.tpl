@@ -5,21 +5,21 @@ script 0 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	And the competitors
-	are here!
+	E aqui estão os
+	competidores!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This match is
-	between two grade
-	school students!
+	Esta será uma dispu-
+	ta entre dois alunos
+	do fundamental!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"First,it's Lan!"
+	"Primeiro,Lan Hikari!"
 	keyWait
 		any = false
 	end
@@ -28,7 +28,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Mami
 	msgOpen
-	"Followed by Mayl!!"
+	"Seguido por\nMayl Sakurai!!"
 	keyWait
 		any = false
 	end
@@ -38,9 +38,9 @@ script 2 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Don't think we'll be
-	easy to beat just
-	cuz we're girls!
+	Não ache que vamos
+	cair fácil só porque
+	somos garotas!
 	"""
 	keyWait
 		any = false
@@ -53,9 +53,9 @@ script 3 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Mayl⋯Are you
-	really and truly
-	serious?
+	Mayl... Você tá
+	mesmo séria?
+	Seriamente séria?
 	"""
 	keyWait
 		any = false
@@ -67,14 +67,14 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"There you go again!"
+	"Ai,começou!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll show you what
-	happens when a girl
-	gets serious!
+	Vou te mostrar o
+	que rola quando uma
+	garota fica séria!
 	"""
 	keyWait
 		any = false
@@ -87,22 +87,23 @@ script 5 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	The match is
-	starting already!
+	Ah,a luta já
+	começou!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Good luck Mayl and
-	Roll!
+	Boa sorte,
+	Mayl e Roll!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go show them
-	what a girl can do!
+	Mostrem pra ele do
+	que as mulheres são
+	capazes!
 	"""
 	keyWait
 		any = false
@@ -113,18 +114,18 @@ script 5 mmbn4 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
 	"""
-	*cough*
-	I was just talking
-	to myself!
+	Cof.
+	Eu só tava
+	pensando alto!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's begin!"
+	"Vamos começar!"
 	keyWait
 		any = false
 	end
@@ -133,36 +134,36 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roll⋯"
+	"Roll..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Roll
 	"""
-	I'll never forgive
-	you if you go easy
-	on me,Mega!
+	Se você pegar leve
+	comigo,eu não vou te
+	perdoar,Mega!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Fight me
-	f-
+	Luta comigo com
+	força t-
 	"""
 	waitSkip
 		frames = 30
-	"u-"
+	"o-"
 	waitSkip
 		frames = 30
-	"l-"
+	"t-"
 	waitSkip
 		frames = 30
-	"l"
+	"a"
 	waitSkip
 		frames = 30
-	" power!"
+	"l!"
 	waitSkip
 		frames = 30
 	keyWait
@@ -170,7 +171,7 @@ script 6 mmbn4 {
 	clearMsg
 	mugshotAnimation
 		animation = 1
-	"*smile*"
+	"He."
 	keyWait
 		any = false
 	clearMsg
@@ -179,8 +180,9 @@ script 6 mmbn4 {
 	mugshotAnimation
 		animation = 2
 	"""
-	Her eyes aren't
-	smiling at all⋯
+	Não tem nenhum
+	sorriso nos olhos
+	dela...
 	"""
 	keyWait
 		any = false
@@ -188,15 +190,15 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Mami
 	"""
-	The battle hasn't
-	begun yet,and Mega-
-	Man's in trouble!
+	A luta nem começou
+	e MegaMan já está
+	acoado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's begin!
+	Vamos começar!
 	Rotina de batalha,
 	"""
 	waitSkip
@@ -212,7 +214,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!!!"
+	"Executar!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -223,7 +225,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Roll
 	msgOpen
-	"Here I come,Mega!"
+	"Lá vou eu,Mega!"
 	keyWait
 		any = false
 	end

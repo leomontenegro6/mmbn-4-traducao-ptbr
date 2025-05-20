@@ -5,8 +5,8 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,this is the
-	entrance!
+	Lan,essa aí é a
+	entrada!
 	"""
 	keyWait
 		any = false
@@ -42,30 +42,29 @@ script 1 mmbn4 {
 		mugshot = DirectorOzuma
 	msgOpen
 	"""
-	I'm Ozma,the
-	director of
+	Sou Ozma,diretor do
+	tema desta atração,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	this attraction's
-	theme,"Django,the
-	Solar Boy".
+	"Django,o Garoto
+	Solar".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How do you
-	like this Vampire
+	Gostou desta Mansão
+	do Vampiro?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hous? Impressive,
-	wouldn't you say?
+	Impressionante,
+	não acha?
 	"""
 	keyWait
 		any = false
@@ -76,24 +75,23 @@ script 5 mmbn4 {
 		mugshot = DirectorOzuma
 	msgOpen
 	"""
-	No one's going to
-	believe me,but
-	Django,the Solar Boy
+	Sei que ninguém iria
+	acreditar,mas Djan-
+	go,o Garoto Solar,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and Master Otenko
-	really exist!
-	I saw them
+	e o Mestre Otenko
+	existem de verdade!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	with my own two
-	eyes!!
+	Eu os vi com os meus
+	próprios olhos!!
 	"""
 	keyWait
 		any = false
@@ -104,31 +102,33 @@ script 10 mmbn4 {
 		mugshot = DirectorOzuma
 	msgOpen
 	"""
-	One day while I was
-	on the Net,a Vampire
+	Um dia,enquanto eu
+	estava na Rede,um
+	Navi vampiro
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Navi appeared in
-	front of my Navi. It
-	was terrifyingly
+	apareceu diante do
+	meu Navi. Ele era
+	assustadoramente
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	powerful,but just
-	when I thought I'd
-	be deleted Django
+	forte,mas,bem quando
+	achei que seria
+	deletado,o Django
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	came to my rescue!
-	I'm not kidding!!
+	veio me salvar!
+	Eu juro que não
+	estou brincando!!
 	"""
 	keyWait
 		any = false
@@ -141,12 +141,12 @@ script 15 mmbn4 {
 	"""
 	Sinto que o Django
 	está lutando contra
-	Vampiros
+	Vampiros mesmo
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"write⋯"
+	"agora..."
 	keyWait
 		any = false
 	end
@@ -156,29 +156,30 @@ script 20 mmbn4 {
 		mugshot = DirectorOzuma
 	msgOpen
 	"""
-	Django and Master
-	Otenko are probably
-	on the Net right now
+	Django e o Mestre
+	Otenko devem estar
+	na Rede agora mesmo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	battling evil,and
-	I'm going to join
-	the fight as well!
+	lutando contra o
+	mal,e eu vou me jun-
+	tar à luta também!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's it! I'm going
-	to write a sequel to
+	É isso! Eu vou
+	escrever uma
+	continuação de
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Django,the Solar\n Boy\"!"
+	"\"Django,o Garoto\nSolar\"!"
 	keyWait
 		any = false
 	end
@@ -188,79 +189,81 @@ script 25 mmbn4 {
 		mugshot = DirectorOzuma
 	msgOpen
 	"""
-	Psst! Want to see
-	something nice?
+	Psst! Quer ver uma
+	coisa legal?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is a lotto
-	number hint!
+	Esta é uma pista de
+	número de loteria!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"1⋯"
+	"1..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How many petals does
-	Master Otenko have?
+	Quantas pétalas o
+	Mestre Otenko tem?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"2⋯ "
+	"2... "
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How many snakes are
-	on Carmilla's head?
+	Quantas serpentes há
+	na cabeça da
+	Carmilla?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"3,4⋯"
+	"3,4..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How many dungeons
-	are in Istorakan?
+	Quantas dungeons
+	tem em Istorakan?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"5,6⋯"
+	"5,6..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How many silver
-	coins are there in
+	Quantas moedas de
+	prata existem no
 	total?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"7,8⋯"
+	"7,8..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How many floors in
-	the Azure Sky Tower?
+	Quantos andares tem
+	a Torre do Céu
+	Azul-Celestre?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's it! Now the
-	question is,can you
-	find the answers?
+	E é isso! A questão
+	é: você consegue
+	achar as respostas?
 	"""
 	keyWait
 		any = false

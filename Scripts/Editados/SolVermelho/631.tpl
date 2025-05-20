@@ -4,13 +4,13 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"Deleted!"
+	"Derrotado!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The winner!
-	Lan!
+	O vencedor...
+	Lan Hikari!
 	"""
 	keyWait
 		any = false
@@ -23,7 +23,7 @@ script 1 mmbn4 {
 	storeTimer
 		timer = 1
 		value = 1
-	"All right!!!"
+	"Beleza!!!"
 	keyWait
 		any = false
 	waitOWVar
@@ -40,7 +40,7 @@ script 2 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"I lost⋯"
+	"Perdi..."
 	keyWait
 		any = false
 	clearMsg
@@ -51,9 +51,9 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Tetsu⋯
-	That was a great
-	fight!
+	Tetsu...
+	Foi uma luta
+	incrível!
 	"""
 	keyWait
 		any = false
@@ -87,21 +87,21 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Tetsu
 	"""
-	You're too strong.
-	You blew me away.
+	Você é forte demais.
+	Acabou comigo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a big world.
-	I'm like a big fish
-	in a little pond.
+	O mundo é grande,né?
+	Sempre tem alguém
+	mais forte.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"You're a real man."
+	"Lan,você é um homem\nde verdade."
 	keyWait
 		any = false
 	clearMsg
@@ -111,7 +111,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"So are you,Tetsu!"
+	"Você também,Tetsu!"
 	keyWait
 		any = false
 	clearMsg
@@ -121,24 +121,26 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = Tetsu
-	"Heh! Thanks!"
+	"He! Valeu!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looks like I need to
-	train some more.
+	Parece que eu
+	preciso treinar
+	mais.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Redo my training⋯"
+	"Recomeçar do zero..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Next time I'll beat
-	you for sure!
+	Da próxima vez,
+	pode apostar que
+	eu que vou vencer!
 	"""
 	keyWait
 		any = false
@@ -150,8 +152,8 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Let's fight again
-	some time!
+	Vou ficar ansioso
+	por essa revanche!
 	"""
 	keyWait
 		any = false
@@ -163,7 +165,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Tetsu
 	msgOpen
-	"Heh!"
+	"He!"
 	keyWait
 		any = false
 	end
@@ -176,7 +178,7 @@ script 11 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Goodbye!"
+	"Adeus!"
 	keyWait
 		any = false
 	end
@@ -185,7 +187,7 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"He's gone⋯"
+	"E lá foi ele..."
 	keyWait
 		any = false
 	clearMsg
@@ -195,7 +197,7 @@ script 12 mmbn4 {
 script 13 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"What a macho guy."
+	"Tão másculo."
 	keyWait
 		any = false
 	clearMsg
@@ -206,8 +208,8 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	A tough guy,and a
-	tough battle!
+	Uma dura batalha
+	com um cara durão!
 	"""
 	keyWait
 		any = false

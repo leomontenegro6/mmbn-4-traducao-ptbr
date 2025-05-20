@@ -5,13 +5,14 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	SerchMan⋯Sharo's
-	representative⋯
+	SearchMan...
+	O representante de
+	Sharo...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What's he like?"
+	"Como será que ele é?"
 	keyWait
 		any = false
 	clearMsg
@@ -22,13 +23,16 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I was wondering
-	too,so I did some
+	Eu também fiquei
+	curioso,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"homework and⋯"
+	"""
+	então fiz uma
+	pesquisa e...
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -38,7 +42,7 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"⋯And?"
+	"E...?"
 	keyWait
 		any = false
 	clearMsg
@@ -49,16 +53,16 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	All the Navis
-	I talked to had
-	this to say:
+	Todos os Navis com
+	quem eu falei
+	disseram isso:
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Withdraw if you
-	value your life.
+	"Recue,se dá valor
+	à sua vida".
 	"""
 	keyWait
 		any = false
@@ -70,29 +74,31 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Well,that's not
-	very reassuring.
+	Bom,isso não me
+	ajuda a dormir
+	melhor.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Still,it can't be as
-	bad as they say.
+	Mas não pode ser
+	tão ruim assim.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No matter how vi-
-	cious SerchMan is,
+	Por mais brutal que
+	esse SearchMan possa
+	ser,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I doubt he'll do
-	anything crazy.
+	duvido que vá fazer
+	alguma loucura.
 	"""
 	keyWait
 		any = false
@@ -103,7 +109,7 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"⋯Sure hope not."
+	"... Assim espero."
 	keyWait
 		any = false
 	clearMsg
@@ -114,15 +120,17 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	No use worrying
-	about it now!
+	Não adianta ficar
+	estressando com
+	isso agora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's go out. I need
-	a change of pace.
+	Vamos dar uma
+	volta. Pra esfriar
+	a cuca.
 	"""
 	keyWait
 		any = false
@@ -133,7 +141,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Sound's good."
+	"Boa ideia."
 	keyWait
 		any = false
 	end

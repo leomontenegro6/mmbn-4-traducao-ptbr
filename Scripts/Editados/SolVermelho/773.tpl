@@ -5,8 +5,9 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hmm,ProtoMan⋯Is
-	that THE ProtoMan?!
+	Hmm,ProtoMan...
+	Peraí: AQUELE
+	ProtoMan?!
 	"""
 	keyWait
 		any = false
@@ -18,8 +19,8 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	That's right. We're
-	up against Chaud!
+	Aham. Vamos lutar
+	contra o Chaud!
 	"""
 	keyWait
 		any = false
@@ -31,16 +32,16 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Never thought we'd
-	battle Chaud in the
-	world championship!
+	Nunca achei que
+	enfrentaríamos ele
+	no mundial!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We can't afford to
-	lose this one!!
+	A gente NÃO PODE
+	perder esta luta!
 	"""
 	keyWait
 		any = false
@@ -52,9 +53,9 @@ script 3 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Electopia's ace
-	NetBattler⋯
-	⋯I can't believe it.
+	O NetLutador prodí-
+	gio de Ni-hon...
+	Inacreditável.
 	"""
 	wait
 		frames = 80
@@ -66,15 +67,17 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = SciLabMan
 	"""
-	Still,the Electopian
-	Officials contacted
+	Mas os Oficiais
+	ni-honenses nos
+	contataram.
 	"""
 	wait
 		frames = 80
 	clearMsg
 	"""
-	us. They said risk
-	is unavoidable.
+	Disseram que o
+	risco era
+	inevitável.
 	"""
 	wait
 		frames = 80
@@ -86,9 +89,9 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	It can't be helped.
-	His Navis possessed
-	by a DarkSoul.
+	Fazer o quê? O Navi
+	dele foi possuído
+	por uma AlmaSomb.
 	"""
 	wait
 		frames = 80
@@ -98,22 +101,26 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Electopia's ace?"
+	"O prodígio de\nNi-Hon?"
 	keyWait
 		any = false
 	clearMsg
-	"Risk is unavoidable?"
+	"O risco é\ninevitável?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	His Navis possessed
-	by a DarkSoul?
+	O Navi dele foi
+	possuído por uma
+	Alma Sombria?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"That couldn't be⋯?!"
+	"""
+	Eles não podem tá
+	falando do...?!
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -124,8 +131,9 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I hate to believe
-	it,but I think⋯
+	Odeio acreditar
+	nisso,mas eu acho
+	que...
 	"""
 	keyWait
 		any = false
@@ -136,14 +144,14 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"No way!"
+	"Nem vem!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I won't believe it
-	till I see it with
-	my own eyes!
+	Eu só acredito se
+	vir com os meus
+	próprios olhos!
 	"""
 	keyWait
 		any = false
@@ -157,7 +165,7 @@ script 9 mmbn4 {
 		value = 5
 	mugshotHide
 	soundDisableTextSFX
-	"Briiiiing!"
+	"Trrriiiim!"
 	keyWait
 		any = false
 	waitOWVar
@@ -172,7 +180,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,phone call!"
+	"Lan,ligação!"
 	keyWait
 		any = false
 	end
@@ -181,7 +189,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hello?!"
+	"Alô?!"
 	keyWait
 		any = false
 	clearMsg
@@ -202,7 +210,7 @@ script 12 mmbn4 {
 script 13 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
-	"⋯It's me."
+	"... Sou eu."
 	keyWait
 		any = false
 	clearMsg
@@ -213,8 +221,8 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Hm? Chaud?! Where
-	the heck ARE you!
+	Hm? Chaud?!
+	Cara,CADÊ você?!
 	"""
 	keyWait
 		any = false
@@ -226,8 +234,9 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	We need to talk.
-	Come to the hotel.
+	Precisamos
+	conversar.
+	Venha ao hotel.
 	"""
 	keyWait
 		any = false
@@ -238,23 +247,26 @@ script 15 mmbn4 {
 script 16 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Whadaya mean,talk?!"
-	keyWait
-		any = false
-	clearMsg
-	"⋯He hung up."
-	keyWait
-		any = false
-	clearMsg
 	"""
-	Well,let's go ask
-	him if what we just
-	heard is true.
+	Como assim,
+	"conversar"?!"
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's go,MegaMan!"
+	"... Ele desligou."
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Bom,vamos perguntar
+	pra ele se aquilo
+	lá era verdade.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Simbora,MegaMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -264,7 +276,7 @@ script 16 mmbn4 {
 script 17 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Roger!"
+	"Tá!"
 	keyWait
 		any = false
 	end

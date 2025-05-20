@@ -5,8 +5,8 @@ script 0 mmbn4 {
 		mugshot = Regal
 	msgOpen
 	"""
-	Adjustments have
-	been completed.
+	Os ajustes foram
+	concluídos.
 	"""
 	keyWait
 		any = false
@@ -17,22 +17,24 @@ script 1 mmbn4 {
 		mugshot = Regal
 	msgOpen
 	"""
-	We will now prepare
-	to send the Navi.
+	Agora,nos
+	prepararemos para
+	enviar o Navi.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Large voltages will
-	be generated,
+	Isso irá gerar
+	altas voltagens,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so please move down
-	from the platform.
+	então,por favor,
+	mantenham distância
+	da plataforma.
 	"""
 	keyWait
 		any = false
@@ -45,8 +47,8 @@ script 2 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Yes,you're right.
-	Good luck.
+	Entendo.
+	Boa sorte.
 	"""
 	keyWait
 		any = false
@@ -57,9 +59,9 @@ script 3 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	OK,everyone. Let's
-	go down and leave
-	Dr.Regal to work.
+	Amigos,vamos descer
+	e deixar o trabalho
+	com o Dr. Regal.
 	"""
 	keyWait
 		any = false
@@ -69,7 +71,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Regal
 	msgOpen
-	"⋯⋯heh."
+	"...... He."
 	keyWait
 		any = false
 	clearMsg
@@ -90,13 +92,13 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Regal
 	"""
-	Mr.Hikari,is
-	something wrong?
+	Algum problema,
+	Dr. Hikari?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Please go down."
+	"Por favor,desça."
 	keyWait
 		any = false
 	clearMsg
@@ -107,16 +109,16 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Dad
 	"""
-	I just wanted to
-	see your expression
-	to make sure⋯
+	Eu só queria ver a
+	sua expressão para
+	me certificar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This plan is
-	terminated!
+	Este plano está
+	abortado!
 	"""
 	keyWait
 		any = false
@@ -128,7 +130,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Regal
 	msgOpen
-	"⋯What do you mean?"
+	"... Do que está\nfalando?"
 	keyWait
 		any = false
 	end
@@ -138,35 +140,36 @@ script 9 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Failure of the first
-	laser plan⋯
+	O fracasso do
+	primeiro plano do
+	laser...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Proposal of the
-	Navi plan⋯
+	A sugestão do plano
+	do Navi...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"MegaMan's deletion⋯"
+	"A deleção do\nMegaMan..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and now,transmission
-	of your Navi to the
-	asteroid.
+	E,agora,a transmis-
+	são do SEU Navi
+	para o asteroide.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Everything has
-	worked out perfectly
-	for your scheming.
+	Tudo se desenrolou
+	de acordo com o seu
+	planejamento.
 	"""
 	keyWait
 		any = false
@@ -177,7 +180,7 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = Regal
-	"What are you saying?"
+	"O que está\ninsinuando?"
 	keyWait
 		any = false
 	clearMsg
@@ -188,21 +191,22 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Dad
 	"""
-	What do you need the
-	asteroid for?
+	Para que você
+	precisa do
+	asteroide...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Leader of the
-	DarkChip Syndicate
-	Nebula,
+	Dr. Regal,líder do
+	Sindicato do Chip
+	das Trevas,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Dr.Regal!!"
+	"a Nebula!!"
 	keyWait
 		any = false
 	clearMsg
@@ -213,15 +217,15 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = Regal
 	"""
-	⋯⋯Heh heh heh,
-	Wa-ha-ha-ha-haaa!
+	... He he he...
+	Haaa ha ha ha ha!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well spotted,
-	Mr.Hikari.
+	Excelente dedução,
+	Dr. Hikari.
 	"""
 	keyWait
 		any = false
@@ -232,24 +236,24 @@ script 13 mmbn4 {
 		mugshot = Regal
 	msgOpen
 	"""
-	But how will knowing
-	my motive help you?
-	Will you stop me?
+	Mas por que quer
+	saber minhas razões?
+	Pretende me parar?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Stopping me won't
-	prevent the approach
-	of the asteroid.
+	Isso não preveniria
+	o avanço do
+	asteroide.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You don't have a
-	shred of hope.
+	Não lhe resta nenhum
+	fio de esperança.
 	"""
 	keyWait
 		any = false
@@ -261,9 +265,9 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = Dad
 	"""
-	You're wrong!
-	Our hope has not
-	been deleted!!
+	Está errado! A nossa
+	esperança ainda não
+	foi deletada!
 	"""
 	keyWait
 		any = false
@@ -273,7 +277,7 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
 	msgOpen
-	"Huh⋯Lan⋯"
+	"Hã...? Lan...?"
 	keyWait
 		any = false
 	clearMsg
@@ -283,7 +287,7 @@ script 15 mmbn4 {
 script 16 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Dad!!"
+	"Pai!!"
 	keyWait
 		any = false
 	end
@@ -303,13 +307,13 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = Dad
 	"""
-	I didn't count on
-	him being here!
+	Não achei que ele
+	viria aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"MegaMan is alive!"
+	"Então,o MegaMan\nestá vivo!"
 	keyWait
 		any = false
 	clearMsg
@@ -320,15 +324,15 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = Regal
 	"""
-	But you're too late
-	already.
+	Mas já é tarde
+	demais.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 1
-	"Grin!!"
+	"He!!"
 	keyWait
 		any = false
 	clearMsg
@@ -339,7 +343,7 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wait there for me!"
+	"Espera só!"
 	keyWait
 		any = false
 	end
@@ -349,8 +353,8 @@ script 21 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Lan! No,don't!!
-	Go back!!
+	Lan! Não faz isso!!
+	Volta!!
 	"""
 	keyWait
 		any = false
@@ -361,8 +365,8 @@ script 22 mmbn4 {
 		mugshot = Regal
 	msgOpen
 	"""
-	⋯Plummet to your
-	doom!
+	... Tenha uma boa
+	viagem até o chão!
 	"""
 	keyWait
 		any = false
@@ -374,7 +378,7 @@ script 23 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Huh?!"
+	"Hã?!"
 	keyWait
 		any = false
 	end
@@ -394,7 +398,7 @@ script 25 mmbn4 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"Run!!"
+	"Corre!!"
 	keyWait
 		any = false
 	clearMsg
@@ -405,7 +409,7 @@ script 26 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Uwaaaah!!"
+	"Uaaaaah!!"
 	keyWait
 		any = false
 	end
@@ -414,7 +418,7 @@ script 27 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
 	msgOpen
-	"What's happening!"
+	"O que está\nacontecendo?!"
 	keyWait
 		any = false
 	clearMsg
@@ -425,8 +429,8 @@ script 28 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	N-N-Not Nebula
-	again!!
+	A-a Nebula de novo,
+	não!
 	"""
 	keyWait
 		any = false
@@ -439,7 +443,7 @@ script 29 mmbn4 {
 		mugshot = Dad
 	"""
 	Lan!!
-	Are you OK!!
+	Você está bem?!
 	"""
 	keyWait
 		any = false
@@ -450,13 +454,13 @@ script 29 mmbn4 {
 script 30 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"I'm OK!!"
+	"Tô,sim!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Ah!!
-	Dad,behind you!!
+	Pai,atrás de você!!
 	"""
 	keyWait
 		any = false
@@ -469,7 +473,7 @@ script 31 mmbn4 {
 	soundDisableTextSFX
 	soundPlay
 		track = 385
-	"Slam!!"
+	"Panc!!"
 	wait
 		frames = 22
 	keyWait
@@ -482,7 +486,7 @@ script 31 mmbn4 {
 script 32 mmbn4 {
 	mugshotShow
 		mugshot = Dad
-	"Uuuuh!!"
+	"Uuugh!!"
 	keyWait
 		any = false
 	clearMsg
@@ -492,7 +496,7 @@ script 32 mmbn4 {
 script 33 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Dad!!"
+	"Pai!!"
 	keyWait
 		any = false
 	end
@@ -502,22 +506,23 @@ script 34 mmbn4 {
 		mugshot = Regal
 	msgOpen
 	"""
-	My dear friends,
-	it is I,Regal,
+	Meus caros amigos,
+	serei eu,Regal,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Leader of DarkChip
-	Syndicate Nebula,
+	líder do Sindicato
+	do Chip das Trevas,
+	Nebula,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	who shall own the
-	asteroid!!
+	quem possuirá o
+	asteroide!!
 	"""
 	keyWait
 		any = false
@@ -528,12 +533,12 @@ script 34 mmbn4 {
 script 35 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"W-What did you say!"
+	"C-como é que é?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're the leader of
+	Você é o líder da
 	Nebula?!
 	"""
 	keyWait
@@ -546,49 +551,52 @@ script 36 mmbn4 {
 	mugshotShow
 		mugshot = Regal
 	"""
-	That title now
-	sounds so dated.
+	Esse título já me
+	parece tão ultrapas-
+	sado a esta altura.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Today,as I wield the
-	asteroids' power,
+	A partir de hoje,
+	eu detenho o poder
+	do asteroide...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I shall be known as
-	Master of the World!
+	então,serei
+	conhecido como
+	Mestre do Mundo!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"A pure evil world!"
+	"Um mundo de pura\nmaldade!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A world with no law,
-	no borders,and no
-	right or wrong.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	No-one can stop
-	me now!
+	Um mundo sem leis ou
+	fronteiras. Sem
+	certo ou errado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I will now execute
-	our true desire,The
-	Plan of Darkness!!
+	Ninguém pode me
+	impedir agora!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Agora,realizarei a
+	nossa real ambição,o
+	Plano da Escuridão!
 	"""
 	keyWait
 		any = false
@@ -599,8 +607,9 @@ script 37 mmbn4 {
 		mugshot = Regal
 	msgOpen
 	"""
-	Go,LaserMan! Take
-	the asteroid.
+	Vá,LaserMan!
+	Tome controle do
+	asteroide.
 	"""
 	keyWait
 		any = false
@@ -617,7 +626,7 @@ script 38 mmbn4 {
 	mugshotShow
 		mugshot = LaserMan
 	msgOpen
-	"Wooooooah!"
+	"Uooooahhhh!"
 	keyWait
 		any = false
 	end
@@ -627,15 +636,16 @@ script 39 mmbn4 {
 		mugshot = Regal
 	msgOpen
 	"""
-	I can almost smell
-	the earth's demise!
+	Já até sinto o chei-
+	da erradicação da
+	Terra!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hah hah hah⋯
-	Wa-ha-ha-ha-haa!!
+	Ha ha ha...
+	Aaah ha ha haa!!
 	"""
 	keyWait
 		any = false
@@ -646,8 +656,9 @@ script 40 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	I-I don't believe
-	it⋯Dr.Regal⋯
+	N-não acredito
+	nisso...
+	O Dr. Regal...
 	"""
 	keyWait
 		any = false
@@ -659,8 +670,8 @@ script 41 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Is there nothing we
-	can do?!
+	Não tem nada que a
+	gente possa fazer?!
 	"""
 	keyWait
 		any = false
@@ -672,15 +683,15 @@ script 42 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Remember,Lan! Dad's
-	letter!
+	Lan,a carta!
+	A carta do papai!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It should contain
-	a hint!
+	Talvez ela tenha uma
+	pista!
 	"""
 	keyWait
 		any = false
@@ -691,7 +702,7 @@ script 42 mmbn4 {
 script 43 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Yes,you're right!"
+	"Ah,verdade!"
 	keyWait
 		any = false
 	end
@@ -700,15 +711,15 @@ script 44 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Eh⋯"
+	"Er..."
 	keyWait
 		any = false
 	clearMsg
-	"\"Jack into the\n generator.\""
+	"\"Conecte-se no\ngerador.\""
 	keyWait
 		any = false
 	clearMsg
-	"The generator⋯?"
+	"O gerador...?"
 	keyWait
 		any = false
 	end
@@ -717,7 +728,7 @@ script 45 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"There!! That's it!"
+	"Ali! É aquele!!"
 	keyWait
 		any = false
 	clearMsg
@@ -728,17 +739,17 @@ script 46 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	Don't be stupid!
-	It's too dangerous
-	to jack into that!
+	Não seja idiota!
+	É perigoso demais se
+	conectar aí!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It has already been
-	charged to tens of
-	thousands of volts!
+	Está carregado com
+	dezenas de milhares
+	de volts!
 	"""
 	keyWait
 		any = false
@@ -749,20 +760,20 @@ script 46 mmbn4 {
 script 47 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Don't worry!"
+	"Tá tudo bem!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Somebody has to
-	do something.
+	Alguém tem que fazer
+	alguma coisa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're going to save
-	this planet!
+	A gente VAI salvar
+	este planeta!
 	"""
 	keyWait
 		any = false
@@ -773,7 +784,7 @@ script 47 mmbn4 {
 script 48 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
-	"Yes,Lan!"
+	"Lan...!"
 	keyWait
 		any = false
 	end
@@ -783,8 +794,8 @@ script 49 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go,MegaMan!
-	Are you ready!
+	Vamos lá,MegaMan!
+	Tá pronto?!
 	"""
 	keyWait
 		any = false
@@ -795,11 +806,11 @@ script 49 mmbn4 {
 script 50 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Sure am!"
+	"Sempre!"
 	keyWait
 		any = false
 	clearMsg
-	"Let's do it,Lan!"
+	"Vamos nessa,Lan!"
 	keyWait
 		any = false
 	clearMsg

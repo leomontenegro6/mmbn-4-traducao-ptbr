@@ -5,61 +5,62 @@ script 0 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	G-g-greetings TV
-	viewers. S-sorry for
-	th-th-the delay.
+	S-saudações,teles-
+	pectadores. P-perdão
+	p-p-p-pelo atraso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's so cold that an
-	evacuation advisory
-	has been issued⋯
+	Está tão frio que
+	emitiram uma ordem
+	de evacuação...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But the show must go
-	on according to the
-	broadcast schedule.
+	Mas,de acordo com as
+	emissoras,o show tem
+	que continuar.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Brrr⋯It's cold!!"
+	"Brrr... Que frio!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But we must perse-
-	vere! A-a-a-choo!
+	Mas devemos
+	perserverar!
+	A-a-a-atchim!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Start Music!!"
+	"Ligar música!!"
 	soundPlayBGM
 		track = 9
 	keyWait
 		any = false
 	clearMsg
-	"And now⋯"
+	"E agora..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	R-r-representing
-	E-l-l-lectopia,
-	Lan!!
+	R-representando
+	N-N-Ni-Hon:
+	Lan Hika-kari!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 1
-	"⋯Clatter clatter."
+	"Trc Trc..."
 	keyWait
 		any = false
 	end
@@ -69,27 +70,28 @@ script 1 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	And now entering
-	the arena⋯
-	Representing Sharo⋯
+	E entrando na arena,
+	representando
+	Sha... Ah...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯A-a-a-choo!!"
+	"... A-a-atchim!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Excuse me⋯
-	Chillski!
+	Desculpem...
+	Representando Sharo:
+	Ivan Chillski!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 1
-	"⋯Clatter clatter."
+	"... Trc Trc."
 	keyWait
 		any = false
 	end
@@ -99,15 +101,16 @@ script 2 mmbn4 {
 		mugshot = Chillski
 	msgOpen
 	"""
-	What is it?! Why
-	everyone shivering?
+	Mas que é isso? Por
+	que tá todo mundo
+	tremendo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Am I really so
-	very scary!
+	Eu meto tanto medo
+	assim?
 	"""
 	keyWait
 		any = false
@@ -121,13 +124,13 @@ script 3 mmbn4 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"⋯Clatter clatter."
+	"... Trc Trc..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 2
-	"We're just cold!!"
+	"A gente só tá com\nfrio,cara!!"
 	keyWait
 		any = false
 	clearMsg
@@ -138,8 +141,9 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Chillski
 	"""
-	Perfect temperature
-	for me!!
+	Pra mim,a
+	temperatura está
+	perfeita!!
 	"""
 	keyWait
 		any = false
@@ -151,8 +155,9 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Only because you're
-	such a fat head!
+	Isso é só porque
+	você é um grandalhão
+	idiota!
 	"""
 	keyWait
 		any = false
@@ -164,20 +169,21 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Chillski
 	"""
-	Little brat! You no
-	talk to me like dat!
+	Pirralho saliente!
+	Como ousa falar
+	comigo assim?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Now you pay!"
+	"Agora que você vai\npagar MESMO!"
 	keyWait
 		any = false
 	clearMsg
 	"""
 	ColdMan,
-	Freeze MegaMan
-	to core!!
+	Congele o MegaMan
+	dos pés à cabeça!!
 	"""
 	keyWait
 		any = false
@@ -188,8 +194,9 @@ script 7 mmbn4 {
 		mugshot = ColdMan
 	msgOpen
 	"""
-	That's just what I
-	had in mind! Whoosh!
+	Justamente o que eu
+	tinha em mente!
+	Xuou!
 	"""
 	keyWait
 		any = false
@@ -202,7 +209,7 @@ script 8 mmbn4 {
 		mugshot = Lan
 	"""
 	M-MegaMan!
-	Go get him.
+	Acaba com ele!
 	"""
 	keyWait
 		any = false
@@ -213,7 +220,7 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"He's history!"
+	"Ele já era!"
 	keyWait
 		any = false
 	clearMsg
@@ -224,16 +231,15 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
 	"""
-	T-t-time
-	to battle!
+	H-h-hora da luta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	L-Lan!!
+	L-Lan Hikari!!
 	Vs.
-	Chillski!!
+	Ivan Chillski!!
 	"""
 	keyWait
 		any = false
@@ -262,13 +268,14 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = ColdMan
 	"""
-	I'm gonna freeze
-	you to the bone!!
+	Eu vou te
+	transformar em
+	raspadinha!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Whoooooosh!!"
+	"Xuuoooooou!!"
 	keyWait
 		any = false
 	end

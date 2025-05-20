@@ -5,8 +5,8 @@ script 0 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Dang!
-	No way!!!
+	Droga!
+	Nãããão!!!
 	"""
 	keyWait
 		any = false
@@ -18,9 +18,9 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Here's your chance,
-	MegaMan! Do the
-	CybSutra!
+	Essa é a sua chance,
+	MegaMan! Lê o Cyber
+	Sutra!
 	"""
 	keyWait
 		any = false
@@ -31,7 +31,7 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Leave it to me!"
+	"Pode deixar!"
 	keyWait
 		any = false
 	clearMsg
@@ -39,9 +39,9 @@ script 2 mmbn4 {
 		timer = 1
 		value = 1
 	"""
-	Input output
-	install uninstall.
-	Is that it?!
+	Inserir,remover,
+	instalar,desinsta-
+	lar. É isso mesmo?!
 	"""
 	keyWait
 		any = false
@@ -52,8 +52,8 @@ script 3 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	I'll get you for
-	this!
+	Eu ainda te pego por
+	issoooo!
 	"""
 	keyWait
 		any = false
@@ -69,23 +69,24 @@ script 4 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Who the heck're you!
-	How can you see me?!
+	Ô,quem que é tu?!
+	Como tu consegue me
+	ver?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Is that the
-	CybSutra?!
+	Isso aí é um Cyber
+	Sutra?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're kidding me.
-	You're the one who's
-	gonna get deleted!
+	Esquece. Quem vai
+	ser deletado aqui é
+	tu!
 	"""
 	keyWait
 		any = false
@@ -96,17 +97,16 @@ script 5 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	All right!
-	That's the last of
-	the evil Navis!
+	Beleza! Esse foi o
+	último espirito
+	maligno!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,you can
-	jack out any time
-	now.
+	Já pode desconectar
+	agora,MegaMan.
 	"""
 	keyWait
 		any = false

@@ -5,16 +5,17 @@ script 0 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Ladies and gentle-
-	men!! Here are
-	today's entrants!
+	Senhoras e senhores!
+	Apresentando os com-
+	petidores de hoje!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	First,it's the poor
-	NetBattler,Shuko!
+	Para começar,a Net-
+	Lutadora pobretona:
+	Shuko Kido!
 	"""
 	keyWait
 		any = false
@@ -24,7 +25,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Shuko
 	msgOpen
-	"I'll do my best!"
+	"Vou dar tudo de mim!"
 	keyWait
 		any = false
 	clearMsg
@@ -35,15 +36,15 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	Next,I'd like to
-	introduce the grade
+	A seguir,apresento
+	o NetLutador do
+	fundamental:
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	school NetBattler,
-	Lan!!
+	Lan Hikari!!
 	"""
 	keyWait
 		any = false
@@ -54,9 +55,9 @@ script 3 mmbn4 {
 		mugshot = Shuko
 	msgOpen
 	"""
-	Umm⋯
-	Thanks for helping
-	me out,there.
+	Er...
+	Obrigada por me
+	ajudar com aquilo.
 	"""
 	keyWait
 		any = false
@@ -68,16 +69,15 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Ah,heheh,don't worry
-	about it!
+	Ah! He he,não
+	esquenta com isso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't pull any
-	punches in the
-	battle!
+	Nem pense em pegar
+	leve na luta,viu?!
 	"""
 	keyWait
 		any = false
@@ -89,16 +89,16 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Shuko
 	"""
-	Don't worry,I'll
-	give it my all.
+	Não se preocupe:
+	vou dar o melhor
+	de mim.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This tourney will be
-	my life's turning
-	point!
+	Neste torneio,eu
+	vou mudar de vida!
 	"""
 	keyWait
 		any = false
@@ -110,9 +110,9 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I'm glad to hear it!
-	Then we'll give it
-	our all,too!
+	Fico feliz de ouvir
+	isso! A gente também
+	vai com tudo!
 	"""
 	keyWait
 		any = false
@@ -123,7 +123,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Good luck,AquaMan!"
+	"Boa sorte,AquaMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -133,7 +133,7 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = AquaMan
-	"You too! *woosh*"
+	"Pra você também!\nXuá!"
 	keyWait
 		any = false
 	end
@@ -143,21 +143,21 @@ script 9 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	The competitors have
-	wished each other
-	luck! How noble!
+	Um desejo mútuo de
+	boa sorte! Mas que
+	espírito esportivo!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's begin!"
+	"Vamos começar!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Shuko
+	Shuko Kido
 	Vs.
-	Lan
+	Lan Hikari!
 	"""
 	keyWait
 		any = false
@@ -186,8 +186,8 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = AquaMan
 	"""
-	I'm gonna win!
-	*woosh*
+	Eu vou vencer!
+	Xuuááááá!
 	"""
 	keyWait
 		any = false

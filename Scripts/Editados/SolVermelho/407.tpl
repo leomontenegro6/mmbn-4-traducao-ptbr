@@ -191,7 +191,7 @@ script 10 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	UM N-NAVI P-PRETO
+	UM N-NAVI R-ROXO
 	VEIO CORRENDO DE
 	ACDC 3 PRA CÁ...!
 	"""
@@ -240,7 +240,7 @@ script 15 mmbn4 {
 	msgOpen
 	"""
 	EU VI O NAVI
-	PRETO CORRENDO
+	ROXO CORRENDO
 	NAQUELA DIREÇÃO...
 	"""
 	keyWait
@@ -261,7 +261,7 @@ script 16 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
-	"ELE ERA... GRAFITE?"
+	"ELE ERA... PÚRPURA?"
 	keyWait
 		any = false
 	end
@@ -464,7 +464,7 @@ script 26 mmbn4 {
 	msgOpen
 	"""
 	O Navi que viu a
-	Vila Mettair está
+	Vila Mettaur está
 	na Área Vila.
 	"""
 	keyWait
@@ -540,7 +540,7 @@ script 30 mmbn4 {
 	"""
 	AI,AI...
 	TALVEZ EU PRECISE
-	TIRAR FÉRIAS.
+	DE UMAS FÉRIAS.
 	"""
 	keyWait
 		any = false

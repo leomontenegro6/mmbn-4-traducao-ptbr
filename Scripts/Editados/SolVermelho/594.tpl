@@ -5,16 +5,16 @@ script 0 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Isn't this going a
-	little far?
+	Você não está indo
+	meio longe demais?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Chief did say we
-	couldn't give him
-	any advice.
+	O Chefe disse que
+	não podemos dar
+	conselhos pra ele.
 	"""
 	keyWait
 		any = false
@@ -26,8 +26,8 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Why can't he just
-	accept Tensuke?
+	Por que ele não quer
+	ajudar o Tensuke?
 	"""
 	keyWait
 		any = false
@@ -39,16 +39,15 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	"""
-	The Chief and
-	Tensuke have always
-	been at odds.
+	O Chefe e o Tensuke
+	nunca se entenderam.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They'd always fight
-	about work.
+	Sempre brigavam em
+	cima de trabalho.
 	"""
 	keyWait
 		any = false
@@ -59,7 +58,7 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Yeah,but still⋯"
+	"Tá,mas,ainda\nassim..."
 	keyWait
 		any = false
 	clearMsg
@@ -70,47 +69,47 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	"""
-	I can tell by your
-	expression that Ten-
-	suke means business.
+	Dá pra ver pelo seu
+	olhar que o Tensuke
+	está falando sério.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hang on one moment.
-	*beep beep beep*
+	Só um instante.
+	*bip bip bip*
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hello? It's me!
-	Who else do you
-	think would call?!
+	Alô? Sou eu,ô!
+	Quem mais você acha
+	que ligaria?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I want to talk to
-	your operator!
+	Quero falar com o
+	seu operador!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Tell him to come to
-	ElecTown Square,
-	right now!
+	Diz pra ele ir pra
+	Praça da EletroVila,
+	agora mesmo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Tell him to stop
-	whining and come
-	down,immediately!
+	Manda ele parar de
+	frescura e ir logo
+	pra lá! Agora!
 	"""
 	keyWait
 		any = false
@@ -119,7 +118,7 @@ script 4 mmbn4 {
 	soundDisableTextSFX
 	soundPlay
 		track = 218
-	"*click!*"
+	"*clic!*"
 	wait
 		frames = 12
 	soundEnableTextSFX
@@ -129,33 +128,33 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	"""
-	Operators and
-	Navis,both the
-	same⋯
+	Operador e Navi,
+	farinha do mesmo
+	saco...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Anyway,the Chief
-	has agreed to meet
-	Tensuke.
+	Enfim,o Chefe
+	concordou em falar
+	com o Tensuke.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's all I can do.
-	It's up to the two
-	of them,now.
+	Isso é tudo que eu
+	posso fazer. O
+	resto é com os dois.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's enough,don't
-	you think?
-	Nice work.
+	O que já tá bom,né?
+	Você conseguiu,bom
+	trabalho.
 	"""
 	keyWait
 		any = false

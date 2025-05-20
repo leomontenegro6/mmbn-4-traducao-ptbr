@@ -5,24 +5,24 @@ script 0 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	And the competitors
-	are here!
+	E aqui estão os
+	competidores!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A student!
-	Vs.
-	A gift store clerk!
+	Um estudante vs.
+	a dona de uma
+	loja de presentes!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	First,the grade
-	school student
-	NetBattler Lan.
+	Para começar,Lan
+	Hikari,o NetLutador
+	do fundamental!
 	"""
 	keyWait
 		any = false
@@ -32,14 +32,14 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Mami
 	msgOpen
-	"And now the lady"
+	"E sua oponente,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NetBattler Tamako
-	has entered the
-	arena!!!
+	a NetLutadora Tamako
+	Shiraizumi,também
+	entrou na arena!!
 	"""
 	keyWait
 		any = false
@@ -50,9 +50,9 @@ script 2 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	I can't tell who has
-	the stronger
-	fighting spirit!
+	Vamos ver qual de
+	nós tem o espírito
+	de luta mais forte!
 	"""
 	keyWait
 		any = false
@@ -65,9 +65,9 @@ script 3 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I hope you don't
-	regret giving us
-	the advice,Tamako!
+	Espero que não se
+	arrependa de nos
+	ter feito treinar!
 	"""
 	keyWait
 		any = false
@@ -80,16 +80,16 @@ script 4 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	Battles are funner
-	when both sides are
-	about as strong!
+	Lutas só têm graça
+	quando os dois lados
+	são iguais em força!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It'll be a good
-	fight!
+	E esta luta vai ser
+	ótima!
 	"""
 	keyWait
 		any = false
@@ -99,14 +99,14 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Mami
 	msgOpen
-	"Let's begin!"
+	"Vamos começar!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan
+	Lan Hikari
 	Vs.
-	Tamako
+	Tamako Shiraizumi!
 	"""
 	keyWait
 		any = false
@@ -136,7 +136,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = MetalMan
 	msgOpen
-	"Go,howling fists!"
+	"Rujam,meus punhos!"
 	keyWait
 		any = false
 	end

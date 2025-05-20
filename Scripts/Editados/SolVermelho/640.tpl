@@ -4,11 +4,11 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"NumbrMan,deleted!"
+	"NumberMan foi\nderrotado!"
 	keyWait
 		any = false
 	clearMsg
-	"Lan wins!"
+	"Lan Hikari é o\nvencedor!"
 	keyWait
 		any = false
 	end
@@ -17,7 +17,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"All right!"
+	"Beleza!"
 	keyWait
 		any = false
 	clearMsg
@@ -31,15 +31,15 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Higsby
 	"""
-	Ouch!
-	I lost,huh!
+	Ai!
+	Eu perdi,é!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're quite a
-	fight,Lan!
+	Você luta bem
+	demais,Lan!
 	"""
 	keyWait
 		any = false
@@ -50,7 +50,7 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"You too,Higsby!"
+	"Você também,Higsby!"
 	keyWait
 		any = false
 	clearMsg
@@ -67,14 +67,14 @@ script 4 mmbn4 {
 		jumpIfBlueMoon = continue
 	mugshotShow
 		mugshot = MegaMan
-	"Yeah!"
+	"É!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I was really impres-
-	sed with NumbrMan's
-	calculating style!
+	Fiquei impressionado
+	com o estilo calcu-
+	lista do NumberMan!
 	"""
 	keyWait
 		any = false
@@ -90,9 +90,9 @@ script 5 mmbn4 {
 	soundPlay
 		track = 220
 	"""
-	MegaMan's soul has
-	communed with
-	NumbrMan's!!
+	A Alma do MegaMan
+	se ligou à do
+	NumberMan!!
 	"""
 	keyWait
 		any = false
@@ -107,16 +107,17 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Higsby
 	"""
-	I'll bring some
-	better chips to the
-	next battle,huh!
+	Da próxima vez,
+	vou trazer chips
+	melhores pra luta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I do own a chip
-	shop,after all!
+	Afinal de contas,
+	eu tenho uma loja
+	de chips,né? É!
 	"""
 	keyWait
 		any = false
@@ -128,9 +129,9 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Yeah!
-	I look forward
-	to it!
+	Legal!
+	Mal posso esperar
+	por isso!
 	"""
 	keyWait
 		any = false
@@ -142,14 +143,14 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Higsby
 	"""
-	All right,my
-	customers are
-	waiting for me,huh!
+	Enfim,os meus
+	clientes estão
+	me esperando,é!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'll see yah!"
+	"Até mais! É!"
 	keyWait
 		any = false
 	end
@@ -159,9 +160,9 @@ script 9 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I'm really glad he
-	doesn't have to lose
-	his shop.
+	Fico muito feliz que
+	ele não vai perder a
+	loja.
 	"""
 	keyWait
 		any = false
@@ -173,9 +174,9 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	No kidding!
-	What'd we do without
-	Higsby's?!
+	Total! O que seria
+	da gente sem a Loja
+	do Higsby?!
 	"""
 	keyWait
 		any = false
@@ -186,14 +187,14 @@ script 10 mmbn4 {
 script 11 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Hey,Lan⋯"
+	"Ei,Lan..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's buy some stuff
-	at Higsby's every
-	once in a while.
+	Vamos comprar alguma
+	coisa na loja dele,
+	de vez em quando.
 	"""
 	keyWait
 		any = false
@@ -204,7 +205,7 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"I agree."
+	"De acordo."
 	keyWait
 		any = false
 	end

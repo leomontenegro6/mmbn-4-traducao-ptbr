@@ -134,7 +134,7 @@ script 7 mmbn4 {
 	"""
 	Mas que parte do
 	Cyber-mundo será
-	essa?
+	esta?
 	"""
 	keyWait
 		any = false
@@ -169,13 +169,13 @@ script 9 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Tem alguma coisa
+	Tem uma coisa
 	escrita aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Memorial da Torre\""
+	"\"Memorial da Torre\"."
 	keyWait
 		any = false
 	clearMsg

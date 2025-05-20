@@ -3,8 +3,9 @@
 script 0 mmbn4 {
 	msgOpen
 	"""
-	FIRST SECURITY
-	MEASURE DEACTIVATED.
+	PRIMEIRA MEDIDA
+	DE SEGURANÇA
+	DESATIVADA.
 	"""
 	keyWait
 		any = false
@@ -12,7 +13,7 @@ script 0 mmbn4 {
 	soundDisableTextSFX
 	soundPlay
 		track = 387
-	"BEEP!"
+	"BIP!"
 	wait
 		frames = 30
 	keyWait
@@ -24,23 +25,24 @@ script 1 mmbn4 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Good. Now check the
-	MT igniter again.
+	Ótimo. Agora,confira
+	o dispositivo MT de
+	novo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	One more security
-	measure to go before
-	you can disable it.
+	Só mais um nível de
+	segurança pra você
+	poder desativá-lo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You gotta be really
-	careful this time.
+	Tome muito cuidado
+	agora.
 	"""
 	keyWait
 		any = false
@@ -51,7 +53,7 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Roger that!"
+	"Entendido!"
 	keyWait
 		any = false
 	end

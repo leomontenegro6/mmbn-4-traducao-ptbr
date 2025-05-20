@@ -13,8 +13,9 @@ script 1 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,destroy the
-	CyberSnowman first!
+	MegaMan,destrói os
+	CyberBonecosDeNeve
+	primeiro!
 	"""
 	keyWait
 		any = false
@@ -36,8 +37,9 @@ script 3 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,destroy the
-	CyberSnowman first!
+	MegaMan,destrói os
+	CyberBonecosDeNeve
+	primeiro!
 	"""
 	keyWait
 		any = false
@@ -56,8 +58,9 @@ script 4 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,destroy the
-	CyberSnowman first!
+	MegaMan,destrói os
+	CyberBonecosDeNeve
+	primeiro!
 	"""
 	keyWait
 		any = false
@@ -76,8 +79,9 @@ script 7 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,destroy the
-	CyberSnowman first!
+	MegaMan,destrói os
+	CyberBonecosDeNeve
+	primeiro!
 	"""
 	keyWait
 		any = false
@@ -88,8 +92,8 @@ script 9 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,light the
-	CyberTorch!
+	MegaMan,acende a
+	CyberTocha!
 	"""
 	keyWait
 		any = false
@@ -105,33 +109,34 @@ script 10 mmbn4 {
 		jumpIfLess = continue
 	msgOpen
 	"""
-	Something's written
-	on the panel⋯
+	Tem alguma coisa
+	escrita aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"K - Raise flames\n fanning out behind\n in a sea of lava.\""
+	"\"K - Ergue chamas\nassoprando atrás,\num mar de lava.\""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	This could mean⋯
-	Maybe flame chips
-	fan out behind,
+	Talvez... Um chip de
+	fogo que assopra
+	a parte de trás
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"and set off Lava⋯?"
+	"e cria lava...?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	By Lava,I guess it
-	means a LavaPanel?
+	Lava,no caso,
+	sendo quadros de
+	lava?
 	"""
 	keyWait
 		any = false
@@ -145,8 +150,7 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	msgOpen
 	"""
-	The flames are
-	raging⋯
+	O fogo arde forte...
 	"""
 	keyWait
 		any = false

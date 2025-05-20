@@ -15,33 +15,33 @@ script 0 mmbn4 {
 		mugshot = Yai
 	msgOpen
 	"""
-	I'm sorry,I can't
-	be wasting time
-	with you⋯
+	Desculpa,não posso
+	perder tempo com
+	você...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"Traditional Arts
-	of the World" is
-	about to start!
+	"Artes Tradicionais
+	do Mundo" está pra
+	começar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This week,they're
-	showing a special
-	on Kabuki!
+	O desta semana é
+	um especial sobre
+	kabuki!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,I guess you
-	wouldn't know
-	anything about it⋯
+	Bem,mas acho que
+	isso não significa
+	nada pra você...
 	"""
 	keyWait
 		any = false
@@ -52,15 +52,16 @@ script 5 mmbn4 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Kabuki is soooo
-	cooool⋯
+	Kabuki é tããão
+	leegaaaal...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wh⋯what?
-	Why that face⋯?
+	Q... Que é?
+	Por que tá me
+	olhando assim?
 	"""
 	keyWait
 		any = false
@@ -71,16 +72,17 @@ script 10 mmbn4 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Out of my way! I'm
-	going to see Kabuki!
+	Não atrapalha!
+	Eu tô indo ver uma
+	peça kabuki!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I want to experience
-	Electopia's
-	traditional theater!
+	Quero prestigiar o
+	teatro tradicional
+	de Ni-Hon!
 	"""
 	keyWait
 		any = false
@@ -100,23 +102,23 @@ script 15 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Oh,I went there
-	before it opened⋯
+	Ah,eu fui lá na
+	pré-abertura...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I was invited by a
-	friend of Daddy's.
+	Fui convidada por um
+	amigo do papai.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,I guess I
-	shouldn't brag⋯It's
-	not demure⋯
+	Bem,acho que eu não
+	devia me gabar...
+	É deselegante...
 	"""
 	keyWait
 		any = false
@@ -130,23 +132,23 @@ script 18 mmbn4 {
 		mugshot = Yai
 	msgOpen
 	"""
-	You're in the Eagle
-	Tournament?
+	Você tá no Torneio
+	Águia?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The best battlers
-	in Electopia will
-	be there,you know?
+	Os melhores lutado-
+	res de Ni-Hon vão
+	estar lá,né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's no way
-	YOU could win⋯
+	Impossível VOCÊ
+	vencer...
 	"""
 	keyWait
 		any = false
@@ -157,23 +159,23 @@ script 19 mmbn4 {
 		mugshot = Yai
 	msgOpen
 	"""
-	You're in the Hawk
-	Tournament?
+	Você tá no Torneio
+	Falcão?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The best battlers
-	in Electopia will
-	be there,you know?
+	Os melhores lutado-
+	res de Ni-Hon vão
+	estar lá,né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's no way
-	YOU could win⋯
+	Impossível VOCÊ
+	vencer...
 	"""
 	keyWait
 		any = false
@@ -194,15 +196,16 @@ script 20 mmbn4 {
 		mugshot = Yai
 	msgOpen
 	"""
-	So the Round 1 is
-	close? It'll be fun
-	to see how you do⋯
+	A primeira rodada...
+	Quero ver até onde
+	você vai...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Or how badly you do⋯
+	ou a altura da sua
+	queda...
 	Ahahaha!
 	"""
 	keyWait
@@ -214,15 +217,16 @@ script 25 mmbn4 {
 		mugshot = Yai
 	msgOpen
 	"""
-	So you won the
-	Round 1?
+	Então,você venceu a
+	primeira rodada?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe you're not so
-	bad,after all!
+	Talvez você não seja
+	tão ruim assim,
+	afinal!
 	"""
 	keyWait
 		any = false
@@ -233,17 +237,17 @@ script 30 mmbn4 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Just one more round
-	until you win the
-	tournament?
+	Só mais uma rodada
+	e você vence o
+	torneio?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That'll make you top
-	in the country!
-	Good luck!
+	Aí você seria o
+	melhor do país!
+	Boa sorte!
 	"""
 	keyWait
 		any = false

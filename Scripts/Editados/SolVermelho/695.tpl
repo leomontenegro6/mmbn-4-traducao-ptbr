@@ -5,23 +5,25 @@ script 0 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	And here they are!
-	Our NetBattlers!
+	E aqui estão eles!
+	Os nossos
+	NetLutadores!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	First,a grade
-	school NetBattler
-	who was born to live
+	Primeiro,o NetLuta-
+	dor do fundamental
+	que praticamente
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	with his Navi,
-	Lan!
+	nasceu pra crescer
+	com o seu Navi...
+	Lan Hikari!
 	"""
 	keyWait
 		any = false
@@ -32,16 +34,17 @@ script 1 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	Followed by the
-	young leader of an
-	environmental group,
+	Seguido pela jovem
+	líder de um grupo
+	ambiental
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	who protects nature
-	with her Navi,
+	que protege a
+	natureza ao lado
+	do Navi dela:
 	"""
 	keyWait
 		any = false
@@ -55,7 +58,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Sal
 	msgOpen
-	"It's time,Lan."
+	"Chegou a hora,Lan."
 	keyWait
 		any = false
 	clearMsg
@@ -66,16 +69,16 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	No holding back,
+	Não vá pegar leve,
 	Sal!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wait until you see
-	MegaMan and me in
-	action together!
+	Espera só até ver
+	o MegaMan e eu em
+	ação!
 	"""
 	keyWait
 		any = false
@@ -87,9 +90,9 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Sal
 	"""
-	WoodMan and I are a
-	great team too,
-	right WoodMan!
+	O WoodMan e eu tam-
+	bém somos uma dupla
+	incrível. Né?
 	"""
 	keyWait
 		any = false
@@ -100,7 +103,7 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = WoodMan
-	"Totally!"
+	"Com certeza!"
 	keyWait
 		any = false
 	end
@@ -110,16 +113,16 @@ script 6 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	All right then,
-	let's start this!
+	Certo,então,
+	vamos começar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan
+	Lan Hikari
 	Vs.
-	Sal
+	Sal!
 	"""
 	keyWait
 		any = false
@@ -149,8 +152,8 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = WoodMan
 	"""
-	Experience the power
-	of nature!
+	Sinta o poder da
+	natureza!
 	"""
 	keyWait
 		any = false

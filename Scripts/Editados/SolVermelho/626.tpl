@@ -5,17 +5,17 @@ script 0 mmbn4 {
 		mugshot = ShadyGuy
 	msgOpen
 	"""
-	I didn't think I'd
-	run into you again
-	so soon.
+	Eu não achei que
+	íamos te encontrar
+	de novo tão cedo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's no one
-	around to see me get
-	my revenge on you!
+	Aqui não tem ninguém
+	pra ver a gente se
+	vingar de você!
 	"""
 	keyWait
 		any = false
@@ -27,8 +27,9 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Riki
 	"""
-	Get ready for some
-	broken bones!
+	Prepara pra
+	quebrar esses
+	ossinhos!
 	"""
 	keyWait
 		any = false
@@ -40,9 +41,9 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Tetsu
 	"""
-	How many times do I
-	have to teach you
-	this lesson?!
+	Quantas vezes eu vou
+	ter que ensinar esta
+	lição pra vocês?!
 	"""
 	keyWait
 		any = false
@@ -53,16 +54,16 @@ script 3 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Arrrrgh! Wait a sec!
-	No violence!
+	Aaaaah! Espera!
+	Violência,não!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If the Officials see
-	you,Tetsu,you'll
-	be disqualified!
+	Tetsu,se os Oficiais
+	te virem,cê vai ser
+	desqualificado!
 	"""
 	keyWait
 		any = false
@@ -73,9 +74,9 @@ script 4 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	And do you guys
-	really think you
-	can beat Tetsu?
+	E vocês dois acham
+	mesmo que podem
+	vencer o Tetsu?
 	"""
 	keyWait
 		any = false
@@ -86,14 +87,17 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = Tetsu
-	"Yeah,you're right."
+	"""
+	É,cê te razão...
+	Mas depois que um
+	homem cerra os
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But,once a man clen-
-	ches his fist,it's
-	hard to back down.
+	punhos,é difícil
+	recuar.
 	"""
 	keyWait
 		any = false
@@ -104,9 +108,9 @@ script 6 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	But it's no good
-	using violence all
-	the time,either!
+	Mas usar violência o
+	tempo todo também
+	não é legal!
 	"""
 	keyWait
 		any = false
@@ -118,14 +122,14 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
 	"""
-	That's right! People
-	will look down on
-	the family business!
+	É! Não vamos deixar
+	cê manchar o nome do
+	nosso negócio aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Back off!"
+	"Se manda!"
 	keyWait
 		any = false
 	end
@@ -134,14 +138,14 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Grr⋯"
+	"Grr..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Y-yeah!
-	Save it for the
-	NetBattle!
+	A-ah,é!
+	Guarda isso pra
+	NetLuta!
 	"""
 	keyWait
 		any = false
@@ -152,7 +156,7 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotShow
 		mugshot = Riki
-	"NetBattle?"
+	"NetLuta?"
 	keyWait
 		any = false
 	clearMsg
@@ -162,7 +166,7 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
-	"Huh?"
+	"Hã?"
 	keyWait
 		any = false
 	clearMsg
@@ -173,8 +177,8 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Tetsu
 	"""
-	The NetBattle,you
-	say?
+	"Pra NetLuta",
+	você disse?
 	"""
 	keyWait
 		any = false
@@ -185,7 +189,7 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"I⋯goofed?"
+	"Eu... falei\nbesteira?"
 	keyWait
 		any = false
 	clearMsg
@@ -196,8 +200,8 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = Riki
 	"""
-	The NetBattle⋯
-	Sounds just grand.
+	NetLuta...
+	Gostei da ideia.
 	"""
 	keyWait
 		any = false
@@ -209,9 +213,9 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = Tetsu
 	"""
-	Yeah,that's
-	I'm a master Net-
-	Battler,too!
+	É. Eu sou um
+	NetLutador de
+	primeira,também!
 	"""
 	keyWait
 		any = false
@@ -222,7 +226,7 @@ script 14 mmbn4 {
 script 15 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Whew⋯"
+	"Ufa..."
 	keyWait
 		any = false
 	clearMsg
@@ -233,8 +237,9 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = Riki
 	"""
-	Okay,in that case,
-	come to Town3,now!
+	Bom,nesse caso,vai
+	pra Área Vila 3.
+	Agora!
 	"""
 	keyWait
 		any = false
@@ -246,8 +251,9 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
 	"""
-	I'll knock your
-	block off!
+	A gente vai dar
+	uma surra segura
+	em você!
 	"""
 	keyWait
 		any = false
@@ -258,15 +264,17 @@ script 18 mmbn4 {
 		mugshot = Tetsu
 	msgOpen
 	"""
-	Arrrgh!
-	Lookit all that!
+	Aaaahh!
+	O meu sangue tá
+	fervendo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Blood everywhere!
-	Waaaait!
+	Eu vou fazer chover
+	sangue na rede!
+	Lá vaaaaai!
 	"""
 	keyWait
 		any = false

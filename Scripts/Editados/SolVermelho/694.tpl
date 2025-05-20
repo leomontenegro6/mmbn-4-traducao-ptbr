@@ -4,21 +4,22 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"Sal,I'm so sorry."
+	"Sal,eu sinto muito."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Even to protect
-	nature,I'm ashamed
+	Mesmo se fosse pra
+	proteger a natureza,
+	me dá vergonha ter
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to have been a pawn
-	for that horrible
-	Navi.
+	sido um peão pra
+	aquele Navi
+	horroroso.
 	"""
 	keyWait
 		any = false
@@ -29,7 +30,7 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	mugshotShow
 		mugshot = Sal
-	"Don't be ashamed."
+	"Não fique assim."
 	keyWait
 		any = false
 	clearMsg
@@ -40,9 +41,9 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = YoungWoman
 	"""
-	Please say you'll
-	still be our
-	leader.
+	Por favor,diz que
+	vai continuar sendo
+	a nossa líder.
 	"""
 	keyWait
 		any = false
@@ -53,13 +54,13 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Huh?!"
+	"Hã?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're their
-	leader?!
+	Você é a líder
+	deles?!
 	"""
 	keyWait
 		any = false
@@ -70,7 +71,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = Sal
-	"Er,yes."
+	"Er,sou."
 	keyWait
 		any = false
 	clearMsg
@@ -81,23 +82,24 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = YoungWoman
 	"""
-	This whole incident
-	shows us how pure
+	Esse incidente todo
+	só nos mostrou o
+	quanto o seu amor
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	your love for
-	nature is.
+	pela natureza é
+	puro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sal,you're the best
-	leader we could
-	possibly have.
+	Sal,você é a melhor
+	líder que um grupo
+	poderia querer.
 	"""
 	keyWait
 		any = false
@@ -109,24 +111,24 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = SciLabMan
 	"""
-	The match will begin
-	soon,Sal.
+	A luta está pra
+	começar,Sal.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	All 1500 of us in
-	the environmental
-	protection organi-
+	Todos nós,os 1500
+	membros da organi-
+	zação de proteção
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	zation want to
-	see you put up a
-	wonderful fight!
+	ambiental,queremos
+	ver você fazer
+	bonito lá na arena!
 	"""
 	keyWait
 		any = false
@@ -146,7 +148,7 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Wow,Sal!"
+	"Caramba,Sal!"
 	keyWait
 		any = false
 	clearMsg
@@ -157,8 +159,8 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = YoungWoman
 	"""
-	We'll be rooting for
-	you! Good luck!
+	Vamos torcer por
+	você! Boa sorte!
 	"""
 	keyWait
 		any = false
@@ -169,11 +171,11 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = Sal
-	"Thanks!"
+	"Obrigada!"
 	keyWait
 		any = false
 	clearMsg
-	"Let's go,Lan!"
+	"Vamos,Lan!"
 	keyWait
 		any = false
 	clearMsg
@@ -183,7 +185,7 @@ script 10 mmbn4 {
 script 11 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Okay!"
+	"É!"
 	keyWait
 		any = false
 	end

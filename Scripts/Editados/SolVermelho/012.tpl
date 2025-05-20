@@ -1,11 +1,11 @@
 @size 48
 
 script 0 mmbn4s {
-	"NONE"
+	"NADA"
 	end
 }
 script 1 mmbn4s {
-	"SprArmr"
+	"SupArmd"
 	end
 }
 script 2 mmbn4s {
@@ -17,91 +17,91 @@ script 3 mmbn4s {
 	end
 }
 script 4 mmbn4s {
-	"MegFldr1"
+	"MegPast1"
 	end
 }
 script 5 mmbn4s {
-	"MegFldr2"
+	"MegPast2"
 	end
 }
 script 6 mmbn4s {
-	"GigFldr1"
+	"GigPast1"
 	end
 }
 script 7 mmbn4s {
-	"FstBarr"
+	"BarrVloz"
 	end
 }
 script 8 mmbn4s {
-	"Shield"
+	"Escudo"
 	end
 }
 script 9 mmbn4s {
-	"Reflect"
+	"Refletir"
 	end
 }
 script 10 mmbn4s {
-	"AntiMagc"
+	"AntiMágc"
 	end
 }
 script 11 mmbn4s {
-	"FlotShoe"
+	"SptFltua"
 	end
 }
 script 12 mmbn4s {
-	"AirShoes"
+	"BotasAr"
 	end
 }
 script 13 mmbn4s {
-	"UnderSht"
+	"PorUm"
 	end
 }
 script 14 mmbn4s {
-	"SneakRun"
+	"DeFinin"
 	end
 }
 script 15 mmbn4s {
-	"OilBody"
+	"Óleo"
 	end
 }
 script 16 mmbn4s {
-	"Fish"
+	"Peixe"
 	end
 }
 script 17 mmbn4s {
-	"Battery"
+	"Bateria"
 	end
 }
 script 18 mmbn4s {
-	"Jungle"
+	"Selva"
 	end
 }
 script 19 mmbn4s {
-	"Collect"
+	"Coleta"
 	end
 }
 script 20 mmbn4s {
-	"Humor"
+	"Piadas"
 	end
 }
 script 21 mmbn4s {
-	"BustPack"
+	"KitTiro"
 	end
 }
 script 22 mmbn4s {
-	"BodyPack"
+	"KitCorpo"
 	end
 }
 script 23 mmbn4s {
-	"HubBatc"
+	"HubBat"
 	end
 }
 script 24 mmbn4s {
-	"BugStop"
+	"ParaBug"
 	end
 }
 script 25 mmbn4s {
-	"SoulClen"
+	"AlmaLimp"
 	end
 }
 script 26 mmbn4s {
@@ -117,78 +117,78 @@ script 28 mmbn4s {
 	end
 }
 script 29 mmbn4s {
-	"HeatWepn"
+	"ArmaFogo"
 	end
 }
 script 30 mmbn4s {
-	"AquaWepn"
+	"ArmaÁgua"
 	end
 }
 script 31 mmbn4s {
-	"ElecWepn"
+	"ArmaElét"
 	end
 }
 script 32 mmbn4s {
-	"WoodWepn"
+	"ArmaMdra"
 	end
 }
 script 33 mmbn4s {
-	"Invisibl"
+	"Invisívl"
 	end
 }
 script 34 mmbn4s {
-	"Attack+1"
+	"Ataque+1"
 	end
 }
 script 35 mmbn4s {
-	"Speed+1"
+	"Rapidz+1"
 	end
 }
 script 36 mmbn4s {
-	"Charge+1"
+	"Carga+1"
 	end
 }
 script 37 mmbn4s {
-	"AttckMAX"
+	"AtaqMÁX"
 	end
 }
 script 38 mmbn4s {
-	"SpeedMAX"
+	"RapdzMÁX"
 	end
 }
 script 39 mmbn4s {
-	"ChargMAX"
+	"CargaMÁX"
 	end
 }
 script 40 mmbn4s {
-	"WeapLV+1"
+	"NVArma+1"
 	end
 }
 script 41 mmbn4s {
-	"HP+50"
+	"PV+50"
 	end
 }
 script 42 mmbn4s {
-	"HP+100"
+	"PV+100"
 	end
 }
 script 43 mmbn4s {
-	"HP+200"
+	"PV+200"
 	end
 }
 script 44 mmbn4s {
-	"HP+300"
+	"PV+300"
 	end
 }
 script 45 mmbn4s {
-	"HP+400"
+	"PV+400"
 	end
 }
 script 46 mmbn4s {
-	"HP+500"
+	"PV+500"
 	end
 }
 script 47 mmbn4s {
-	"  RUN!"
+	"EXECUTAR"
 	end
 }

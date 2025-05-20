@@ -5,16 +5,16 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Maybe the castle is
-	the setting for the
-	tournament⋯
+	Talvez o torneio vá
+	acontecer no
+	castelo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wow! Talk about
-	luxurious.
+	Caramba! Olha só que
+	luxo!
 	"""
 	keyWait
 		any = false
@@ -24,7 +24,7 @@ script 0 mmbn4 {
 }
 script 1 mmbn4 {
 	mugshotHide
-	"Are you Lan?"
+	"Você é Lan Hikari?"
 	keyWait
 		any = false
 	end
@@ -42,7 +42,7 @@ script 2 mmbn4 {
 }
 script 3 mmbn4 {
 	mugshotHide
-	"Are you Lan?"
+	"Você é Lan Hikari?"
 	keyWait
 		any = false
 	clearMsg
@@ -52,7 +52,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Y-Yes."
+	"S-sou."
 	keyWait
 		any = false
 	clearMsg
@@ -62,16 +62,16 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotHide
 	"""
-	I am about to
-	announce the
-	tournament pairings.
+	Irei agora anunciar
+	as lutas do torneio.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please go to the
-	tournament board.
+	Por favor,observe
+	o quadro do
+	torneio.
 	"""
 	keyWait
 		any = false
@@ -82,7 +82,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Eh⋯the board⋯"
+	"Hã... O quadro..."
 	keyWait
 		any = false
 	end
@@ -93,8 +93,8 @@ script 7 mmbn4 {
 		jumpIfBlueMoon = 8
 	msgOpen
 	"""
-	And now,the Eagle
-	Tournament pairings!
+	E agora,as duplas
+	do Torneio Águia!
 	"""
 	keyWait
 		any = false
@@ -103,8 +103,8 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	msgOpen
 	"""
-	And now,the Hawk
-	Tournament pairings!
+	E agora,as duplas
+	do Torneio Falcão!
 	"""
 	keyWait
 		any = false

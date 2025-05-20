@@ -5,16 +5,15 @@ script 0 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	ProtoMan's been
-	deleted!!
+	ProtoMan foi
+	derrotado!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan's the winner of
-	the Electopian
-	showdown!!
+	Lan Hikari vence o
+	duelo ni-honense!!
 	"""
 	keyWait
 		any = false
@@ -24,13 +23,14 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"We won!!"
+	"Vencemos!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯Awesome!!
-	We really did it!!
+	... Que demais!!
+	A gente venceu
+	mesmo!!
 	"""
 	keyWait
 		any = false
@@ -40,11 +40,11 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Good battle,Chaud."
+	"Boa luta,Chaud."
 	keyWait
 		any = false
 	clearMsg
-	"Let's do this again!"
+	"A gente tem que ir\nde novo depois!"
 	keyWait
 		any = false
 	clearMsg
@@ -54,21 +54,24 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
-	"Hmph,good battle?"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	You may have won
-	today's match,
+	Hmpf.
+	"Boa luta"?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but we won't be the
-	same when you face
-	us next time.
+	Você pode ter
+	vencido hoje,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	mas as coisas vão
+	ser diferentes no
+	próximo embate.
 	"""
 	keyWait
 		any = false
@@ -79,13 +82,14 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"I know."
+	"Eu sei."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But we'll be strong-
-	er,too,next time.
+	Mas a gente também
+	vai estar mais forte
+	na próxima!
 	"""
 	keyWait
 		any = false
@@ -97,8 +101,8 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	Hmph⋯
-	You better be⋯
+	Hmpf...
+	Assim espero...
 	"""
 	keyWait
 		any = false
@@ -110,8 +114,9 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	ProtoMan! Let's do
-	this again sometime!
+	ProtoMan! Vamos
+	lutar de novo
+	qualquer dia!
 	"""
 	keyWait
 		any = false
@@ -122,7 +127,11 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = ProtoMan
-	"If Chaud so wishes⋯"
+	"""
+	Se for o que o
+	Mestre Chaud
+	desejar...
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -132,7 +141,7 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Hey,Lan."
+	"Aí,Lan."
 	keyWait
 		any = false
 	end
@@ -141,7 +150,7 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What?"
+	"Que foi?"
 	keyWait
 		any = false
 	clearMsg
@@ -152,9 +161,9 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Did your friendship
-	with Chaud deepen
-	after all of this?
+	A sua amizade com o
+	Chaud se fortaleceu
+	depois disso tudo?
 	"""
 	keyWait
 		any = false
@@ -165,7 +174,7 @@ script 10 mmbn4 {
 script 11 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Nem são!"
+	"Até parece!"
 	keyWait
 		any = false
 	clearMsg
@@ -176,23 +185,23 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I wonder?
-	You operated me so
-	well together.
+	Será mesmo?
+	Vocês me operaram
+	bem juntos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I thought maybe you
-	two became better
+	Achei que tinham
+	ficado mais amigos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	friends.
-	Wouldn't it be nice?
+	Seria legal isso,
+	não?
 	"""
 	keyWait
 		any = false
@@ -204,8 +213,8 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	What,with that
-	jerk?!
+	Eu? Com aquele
+	babaca?!
 	"""
 	keyWait
 		any = false
@@ -225,36 +234,37 @@ script 14 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I've come to under-
-	stand those two.
+	Eu comecei a enten-
+	der aqueles dois. Eu
+	senti os verdadeiros
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I felt Chaud's true
-	feelings when we
-	helped ProtoMan.
+	sentimentos do Chaud
+	quando salvamos o
+	ProtoMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now I know how im-
-	portant ProtoMan is
-	to him.
+	Agora eu sei o
+	quanto o ProtoMan é
+	importante pra ele.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"During the battle,"
+	"E,durante a luta,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I felt ProtoMan's
-	cool and poignant
-	soul.
+	eu senti a alma
+	intensa e descolada
+	do ProtoMan também.
 	"""
 	keyWait
 		any = false
@@ -270,9 +280,9 @@ script 15 mmbn4 {
 	soundPlay
 		track = 220
 	"""
-	MegaMan's soul has
-	communed with
-	ProtoMan's!!
+	A Alma do MegaMan
+	se ligou à do
+	ProtoMan!!
 	"""
 	keyWait
 		any = false
@@ -287,9 +297,9 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Heh heh heh!
-	Let's just keep it
-	at that!
+	He he he!
+	Vamos continuar
+	assim!
 	"""
 	keyWait
 		any = false
@@ -300,7 +310,7 @@ script 16 mmbn4 {
 script 17 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Hey,no fair!"
+	"Aí,não é justo!"
 	keyWait
 		any = false
 	clearMsg
@@ -314,13 +324,13 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	Lan,I gotta get
-	going. Another
+	Lan,preciso ir
+	andando.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"mission awaits."
+	"Outra missão nos\naguarda."
 	keyWait
 		any = false
 	clearMsg
@@ -330,7 +340,7 @@ script 18 mmbn4 {
 script 19 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"OK,see ya⋯"
+	"Beleza. Até a\npróxima..."
 	keyWait
 		any = false
 	clearMsg
@@ -352,8 +362,9 @@ script 21 mmbn4 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Let's go,ProtoMan!
-	To our next mission!
+	Vamos,ProtoMan!
+	Para a nossa próxima
+	missão!
 	"""
 	keyWait
 		any = false
@@ -364,7 +375,7 @@ script 21 mmbn4 {
 script 22 mmbn4 {
 	mugshotShow
 		mugshot = ProtoMan
-	"Yes,sir!"
+	"Sim,senhor!"
 	keyWait
 		any = false
 	end
@@ -374,24 +385,24 @@ script 23 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	He's really some-
-	thing. I'm surprised
-	we actually won.
+	Ele é incrível. Na
+	real,fico surpreso
+	de termos vencido.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When I saw him
-	operating you,
+	Quando eu vi ele
+	te operando,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I realized how
-	dependant I still
-	am on you.
+	percebi o quanto eu
+	ainda dependo de
+	você.
 	"""
 	keyWait
 		any = false
@@ -402,7 +413,7 @@ script 23 mmbn4 {
 script 24 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Lan⋯"
+	"Lan..."
 	keyWait
 		any = false
 	clearMsg
@@ -413,15 +424,16 @@ script 25 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	But I'll do my best
-	to outdo him.
+	Mas eu vou me
+	esforçar ao máximo
+	pra superar ele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I just can't stand
-	losing to him.
+	Não aceito perder
+	pra ele!
 	"""
 	keyWait
 		any = false
@@ -433,8 +445,9 @@ script 26 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	And I don't want to
-	lose to ProtoMan!
+	E eu também não
+	quero perder pro
+	ProtoMan!
 	"""
 	keyWait
 		any = false
@@ -445,7 +458,7 @@ script 26 mmbn4 {
 script 27 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Let's try our best!"
+	"Vamos dar tudo da\ngente!"
 	keyWait
 		any = false
 	clearMsg
@@ -455,7 +468,7 @@ script 27 mmbn4 {
 script 28 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"OK!"
+	"É!"
 	keyWait
 		any = false
 	end

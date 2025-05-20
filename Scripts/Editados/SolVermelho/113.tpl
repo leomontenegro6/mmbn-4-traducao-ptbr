@@ -242,8 +242,8 @@ script 11 mmbn4 {
 	msgOpen
 	"""
 	A caixa está cheia
-	de areia e embalada
-	em plástico.
+	de areia embalada em
+	plástico.
 	"""
 	keyWait
 		any = false
@@ -274,8 +274,8 @@ script 15 mmbn4 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	Tem alguma coisa no
-	verso da embalagem.
+	Tem alguma coisa
+	grudada aqui.
 	"""
 	keyWait
 		any = false
@@ -357,8 +357,8 @@ script 18 mmbn4 {
 	msgOpen
 	"""
 	A caixa está cheia
-	de areia e embalada
-	em plástico.
+	de areia embalada em
+	plástico.
 	"""
 	keyWait
 		any = false

@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"The Undernet⋯"
+	"A Undernet..."
 	keyWait
 		any = false
 	end
@@ -13,7 +13,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Careful,MegaMan!"
+	"Toma cuidado,\nMegaMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -23,13 +23,13 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Roger!"
+	"OK!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder where I
-	should go from here?
+	... Mas pra onde eu
+	vou daqui?
 	"""
 	keyWait
 		any = false
@@ -43,7 +43,7 @@ script 3 mmbn4 {
 		value = 1
 	mugshotHide
 	soundDisableTextSFX
-	"Beep beep beep!!"
+	"Bip Bip Bip!!"
 	keyWait
 		any = false
 	waitOWVar
@@ -56,7 +56,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Lan,do you read me?"
+	"Lan,tá na escuta?"
 	keyWait
 		any = false
 	clearMsg
@@ -66,7 +66,7 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Yeah,loud and clear."
+	"Aham,tô te ouvindo\ndireitinho."
 	keyWait
 		any = false
 	clearMsg
@@ -77,24 +77,24 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	I discovered Nebula
-	is involved in this
-	latest incident.
+	Descobri que a Nebu-
+	la estava envolvida
+	naquele incidente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They'll be prepared
-	for MegaMan.
+	Eles vão estar
+	prontos pro MegaMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You guys won't make
-	it alone from this
-	point!
+	Se vocês forem
+	sozinhos,não terão
+	chance!
 	"""
 	keyWait
 		any = false
@@ -105,7 +105,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"So whada we do now?"
+	"Tá,e o que a gente\nfaz,então?"
 	keyWait
 		any = false
 	clearMsg
@@ -116,8 +116,9 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	Connect this line
-	directly to MegaMan.
+	Conecte esta linha
+	diretamente ao
+	MegaMan.
 	"""
 	keyWait
 		any = false
@@ -129,8 +130,9 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Directly to MegaMan?
-	Whaddya mean?
+	Diretamente ao
+	MegaMan?
+	Que papo é esse?
 	"""
 	keyWait
 		any = false
@@ -142,23 +144,24 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	I'll command MegaMan
-	directly from here.
+	Vou comandar ele
+	diretamente daqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know the Undernet
-	and Nebula's tricks
-	inside out.
+	Eu conheço muito
+	bem a Undernet e os
+	truques da Nebula.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You concentrate on
-	operating MegaMan!
+	Você só precisa
+	focar em operar
+	o MegaMan!
 	"""
 	keyWait
 		any = false
@@ -169,7 +172,7 @@ script 10 mmbn4 {
 script 11 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Gotcha!"
+	"Beleza!"
 	keyWait
 		any = false
 	clearMsg
@@ -180,16 +183,16 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	Listen up,MegaMan.
-	There's bound to be
-	a trap ahead.
+	Escute,MegaMan.
+	Com certeza há uma
+	armadilha adiante.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Tell me as soon as
-	you find anything.
+	Me avise assim que
+	vir alguma coisa.
 	"""
 	keyWait
 		any = false
@@ -200,7 +203,7 @@ script 12 mmbn4 {
 script 13 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Roger!!"
+	"Entendido!!"
 	keyWait
 		any = false
 	clearMsg
@@ -211,17 +214,17 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	This is gonna be a
-	tough mission,but
-	do the best you can.
+	Vai ser uma missão
+	difícil,mas dê o seu
+	melhor.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Whenever you need
-	some info,press the
-	L Button to call me.
+	Quando precisar de
+	informações,use "L"
+	para falar comigo.
 	"""
 	keyWait
 		any = false
@@ -232,18 +235,19 @@ script 14 mmbn4 {
 script 15 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Thanks! Let's do it!"
+	"Valeu! Vamos lá!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Having you along
-	doubles our chances!
+	Com você com a
+	gente,as nossas
+	chances dobram!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hang on,ProtoMan!"
+	"Aguenta aí,ProtoMan!"
 	keyWait
 		any = false
 	end

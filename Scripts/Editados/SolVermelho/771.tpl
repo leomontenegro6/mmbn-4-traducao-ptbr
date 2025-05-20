@@ -5,16 +5,16 @@ script 0 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Ladies and
-	gentlemen⋯
+	Senhoras e
+	senhores...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	First,it's Lan,
-	the Electopia
-	representative!
+	Primeiro,represen-
+	tando Ni-Hon:
+	Lan Hikari!
 	"""
 	keyWait
 		any = false
@@ -25,8 +25,9 @@ script 1 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	And over here,
-	representing Sharo⋯
+	E seu desafiador,
+	representando
+	Sharo...
 	"""
 	keyWait
 		any = false
@@ -41,17 +42,17 @@ script 2 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Raika! We're gonna
-	smack that smug look
-	off your face!
+	Raika! A gente vai
+	apagar esse seu
+	sorriso convencido!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then you're gonna
-	apologize for
-	dissing us!
+	Aí você vai pedir
+	desculpas por
+	menosprezar a gente!
 	"""
 	keyWait
 		any = false
@@ -63,9 +64,9 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Raika
 	"""
-	Not a chance. You'll
-	be groveling at my
-	feet soon enough.
+	Nunca. Logo você
+	estará curvado
+	diante de meus pés.
 	"""
 	keyWait
 		any = false
@@ -77,15 +78,14 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Right back
-	at you!
+	Essa fala é minha!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This time it's yer
-	turn to grovel!
+	Desta vez,é você
+	que vai pro chão!
 	"""
 	keyWait
 		any = false
@@ -96,27 +96,27 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = Raika
-	"Hmph⋯"
+	"Hmph..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So I'll take it that
-	yer ready.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	SerchMan,neutralize
-	MegaMan⋯
+	Suponho,então,
+	que esteja pronto.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯So he can never
-	defy us again!
+	SearchMan,neutralize
+	o MegaMan...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	para que ele jamais
+	nos desafie de novo!
 	"""
 	keyWait
 		any = false
@@ -127,7 +127,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = SearchMan
-	"⋯Got it."
+	"Entendido.."
 	keyWait
 		any = false
 	end
@@ -137,25 +137,25 @@ script 7 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Listen to their
-	trash talk!
+	Vejam só essas
+	faíscas,amigos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is going to be
-	a fierce battle!
+	Essa vai ser uma
+	batalha muito feroz!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Time to battle!"
+	"Hora da luta!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan!
+	Lan Hikari!
 	Vs.
 	Raika!!
 	"""
@@ -186,13 +186,13 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = SearchMan
 	"""
-	Target⋯
-	MegaMan.
+	Alvo...
+	MegaMan.EXE.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Locked in!!"
+	"Na mira!!"
 	keyWait
 		any = false
 	end

@@ -32,8 +32,8 @@ script 1 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Where did that Black
-	Navi go?!
+	Pra onde foi aquele
+	Navi Roxo?!
 	"""
 	keyWait
 		any = false
@@ -44,9 +44,9 @@ script 2 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Jack out,MegaMan!
-	We'll go directly to
-	the Tower!
+	Desconecta,MegaMan!
+	Temos que ir pra
+	Torre no offline!
 	"""
 	keyWait
 		any = false
@@ -77,9 +77,9 @@ script 5 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,let's find
-	Roll! We've got to
-	hurry!
+	MegaMan,vamos achar
+	a Roll! A gente tem
+	que correr!
 	"""
 	keyWait
 		any = false
@@ -89,13 +89,13 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Let's catch those\n"
+	"Bora pegar aqueles\n"
 	printItem
 		buffer = 0
 		item = 3
 	"""
-	s and take
-	them to Mr.Prog!
+	s e levar
+	pro Prog!
 	"""
 	keyWait
 		any = false
@@ -110,13 +110,13 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Are there "
+	"Tem "
 	printItem
 		buffer = 0
 		item = 3
 	"""
 	s
-	here too?
+	aqui também?
 	"""
 	keyWait
 		any = false
@@ -127,9 +127,9 @@ script 8 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Roll's in trouble
-	if we don't hurry!
-	C'mon,let's go!
+	Se a gente não cor-
+	rer,a Roll vai...!
+	Vamos logo!
 	"""
 	keyWait
 		any = false
@@ -139,13 +139,13 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Let's catch those\n"
+	"Bora pegar aqueles\n"
 	printItem
 		buffer = 0
 		item = 3
 	"""
-	s and take
-	them to Mr.Prog!
+	s e
+	levar pro Prog!
 	"""
 	keyWait
 		any = false
@@ -155,7 +155,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hang in there,Roll!"
+	"Aguenta aí,Roll!"
 	keyWait
 		any = false
 	end
@@ -170,9 +170,9 @@ script 15 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Parece que a questão
-	do ShadeMan deu uma
-	acalmada...
+	Tudo parece bem
+	aqui,mesmo depois
+	do ShadeMan...
 	"""
 	keyWait
 		any = false
@@ -199,9 +199,9 @@ script 21 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Is this what that
-	clue on the squirrel
-	was writing about?
+	A pista do esquilo
+	se referia a este
+	lugar?
 	"""
 	keyWait
 		any = false
@@ -242,9 +242,9 @@ script 22 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan! Let's jack
-	out and go to
-	the Square!
+	MegaMan! Vamos
+	desconectar e ir
+	pra Praça!
 	"""
 	keyWait
 		any = false
@@ -255,8 +255,9 @@ script 23 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go find that
-	number data,MegaMan!
+	Bora achar aqueles
+	dados de números,
+	MegaMan!
 	"""
 	keyWait
 		any = false
@@ -271,9 +272,9 @@ script 30 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Everything's back to
-	normal now that
-	ShadeMan's gone.
+	Tá tudo de volta ao
+	normal agora que o
+	ShadeMan se foi.
 	"""
 	keyWait
 		any = false

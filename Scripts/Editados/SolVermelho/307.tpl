@@ -5,16 +5,16 @@ script 0 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Hey,I was wondering
-	when you'd get here!
-	This is the "TinMan"
+	Opa,tava pensando em
+	quando você viria!
+	Este é o computador
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Comp!
-	Shall we depart?
+	do "Flandrô"!
+	Vamos partir?
 	"""
 	keyWait
 		any = false
@@ -59,7 +59,7 @@ script 1 mmbn4 {
 	msgOpen
 	"""
 	OK!
-	OK! All aboard!
+	OK! Todos a bordo!
 	"""
 	keyWait
 		any = false
@@ -72,8 +72,8 @@ script 2 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Let me know when
-	you're ready!
+	Avise-me quando
+	estiver pronto!
 	"""
 	keyWait
 		any = false
@@ -83,7 +83,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = PurpleNavi
 	msgOpen
-	"Shall we depart?"
+	"Partir?"
 	keyWait
 		any = false
 	clearMsg
@@ -98,7 +98,7 @@ script 11 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Yes  "
+	"Sim "
 	option
 		brackets = false
 		left = 0
@@ -107,7 +107,7 @@ script 11 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"No!"
+	"Não!"
 	select
 		default = 0
 		noDelay = false
@@ -127,7 +127,7 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = PurpleNavi
 	msgOpen
-	"Shall we depart?"
+	"Partir?"
 	keyWait
 		any = false
 	clearMsg
@@ -142,7 +142,7 @@ script 14 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Yes  "
+	"Sim "
 	option
 		brackets = false
 		left = 0
@@ -151,7 +151,7 @@ script 14 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"No!"
+	"Não!"
 	select
 		default = 0
 		noDelay = false
@@ -168,7 +168,7 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = PurpleNavi
 	msgOpen
-	"Shall we depart?"
+	"Partir?"
 	keyWait
 		any = false
 	clearMsg
@@ -183,7 +183,7 @@ script 15 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Yes  "
+	"Sim "
 	option
 		brackets = false
 		left = 0
@@ -192,7 +192,7 @@ script 15 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"No!"
+	"Não!"
 	select
 		default = 0
 		noDelay = false
@@ -213,7 +213,7 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = PurpleNavi
 	msgOpen
-	"Final stop!"
+	"Última parada!"
 	keyWait
 		any = false
 	end

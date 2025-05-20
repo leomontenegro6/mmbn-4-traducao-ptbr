@@ -14,14 +14,13 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"*pant pant*"
+	"Arf... Arf..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So you guys are the
-	last ones still
-	standing!
+	Então,vocês foram os
+	únicos que sobraram!
 	"""
 	keyWait
 		any = false
@@ -31,7 +30,7 @@ script 1 mmbn4 {
 }
 script 2 mmbn4 {
 	mugshotHide
-	"Wait a second!"
+	"Espera!"
 	keyWait
 		any = false
 	end
@@ -41,8 +40,8 @@ script 3 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	They're⋯
-	I'll get 'em!!!
+	Eu...
+	Eu cuido deles!!!
 	"""
 	keyWait
 		any = false
@@ -53,7 +52,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"But⋯"
+	"Mas..."
 	keyWait
 		any = false
 	clearMsg
@@ -64,8 +63,8 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	"""
-	I gotta finish 'em
-	by myself!!!
+	Eu mesmo vou acabar
+	com eles!!!
 	"""
 	keyWait
 		any = false
@@ -87,14 +86,14 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"*oof!*"
+	"... H-he!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can't expect to
-	fight us all
-	battered up.
+	Até parece que cê
+	pode com a gente
+	nesse estado aí!
 	"""
 	keyWait
 		any = false
@@ -106,16 +105,16 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	"""
-	Battered up or not,
-	I'm gonna pulverize
-	you!
+	Seja o meu estado
+	qual for,eu vou
+	pulverizar vocês!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yaaaah!
-	Come and get it!
+	Aaaargh!
+	Podem vir!
 	"""
 	keyWait
 		any = false
@@ -128,13 +127,13 @@ script 9 mmbn4 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	The two of us'll
-	take you on!!!
+	Nós dois vamos dar
+	uma lição em você!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Delete 'em!"
+	"Deleta!"
 	keyWait
 		any = false
 	end
@@ -143,7 +142,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"Yaarrr!!!"
+	"Aaargh!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -154,8 +153,8 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	"""
-	Eeeyah!!!
-	Gutsy Punch!!!
+	Iiiiá!!!
+	Soco Audaz!!!
 	"""
 	keyWait
 		any = false
@@ -170,7 +169,7 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviBlack
-	"Brutal Kick!!!"
+	"Chute Brutal!!!"
 	keyWait
 		any = false
 	soundPlay
@@ -185,8 +184,8 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	"""
-	Heeyaah!
-	Macho Head-Butt!!!
+	Iiiiáár!
+	Cabeçada Máscula!!!
 	"""
 	keyWait
 		any = false
@@ -201,13 +200,14 @@ script 14 mmbn4 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	You're too wounded
-	to take us on!
+	Mesmo todo ferrado,
+	cê acabou com a
+	gente...!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"You're a maaan!!!"
+	"É um homem de\nverdaaadeeeee!!!"
 	keyWait
 		any = false
 	end
@@ -216,14 +216,14 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	msgOpen
-	"Let's go to DenDome."
+	"Vamos pro DenDomo."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We can see who's
-	stronger there,
-	you or me!
+	Hora de ver quem é
+	mais forte,você ou
+	eu!
 	"""
 	keyWait
 		any = false
@@ -234,7 +234,7 @@ script 15 mmbn4 {
 script 16 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"But in your state⋯"
+	"Mas,no estado em que\nvocê tá..."
 	keyWait
 		any = false
 	clearMsg
@@ -245,25 +245,24 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	"""
-	Bah,nothing a band-
-	aid or two won't
-	cure!
+	Tsé! É só botar um
+	curativo que passa!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Who cares about
-	that,I just wanna
-	fight a strong Navi!
+	E eu não quero sa-
+	ber. Só quero lutar
+	com um Navi forte!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll go on ahead!
-	It's a fight! Who's
-	the real man?!
+	Eu vou na frente!
+	É uma briga entre
+	homens,viu?!
 	"""
 	keyWait
 		any = false
@@ -274,8 +273,8 @@ script 18 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,we'd better go
-	too!
+	Lan,melhor a gente
+	ir também!
 	"""
 	keyWait
 		any = false

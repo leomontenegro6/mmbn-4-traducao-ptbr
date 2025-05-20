@@ -4,39 +4,40 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
 	msgOpen
-	"ColdMan was deleted!"
+	"ColdMan foi\nderrotado!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan has clinched
-	the match amid the
+	Lan Hikari dominou a
+	luta e abriu o
+	tempo,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"fierce blizzard!!"
+	"metaforicamente e\nliteralmente!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The storm's subsided
-	and warm Sunlight
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	is shining down upon
-	the victor!
+	A tempestade passou
+	e a calorosa luz do
+	sol brilha sobre o
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And look!
-	The crowd
-	is returning!!
+	nosso vencedor!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	E vejam só!
+	A multidão voltou
+	aos poucos!!
 	"""
 	keyWait
 		any = false
@@ -46,7 +47,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"We did it!"
+	"Conseguimos!"
 	keyWait
 		any = false
 	end
@@ -56,17 +57,17 @@ script 2 mmbn4 {
 		mugshot = Chillski
 	msgOpen
 	"""
-	It hot! Too hot!!
-	No way I can battle
-	in such heat!
+	Que calor! CREDO!
+	Impossível eu lutar
+	nesse calor todo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Dat was unfair,
-	stupid battle.
-	I go back to Sharo!!
+	Esta luta foi injus-
+	ta e idiota. Eu vou
+	voltar para Sharo!
 	"""
 	keyWait
 		any = false
@@ -77,19 +78,19 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Huh?!"
+	"Hã?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Whadaya mean,unfair!
-	The blizzard was no
-	picnic for us!
+	"Injusta"?! A
+	nevasca também
+	atrapalhou a gente!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"That's just⋯"
+	"Mas como você é..."
 	keyWait
 		any = false
 	clearMsg
@@ -104,15 +105,16 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	I hate how you kids
-	lose temper so fast!
+	Odeio como crianci-
+	nhas como você per-
+	dem a cabeça rápido!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NetBattle is just
-	game,you know!
+	NetLuta é só um
+	jogo,não sabia?
 	"""
 	keyWait
 		any = false
@@ -122,32 +124,35 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What did you say?!"
+	"O que foi que você\ndisse?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NetBattles are not
-	just a game!!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Navis risk their
-	lives!
+	NetLuta NÃO É só um
+	jogo!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You just say what
-	ever suits yourself.
+	Os Navis arriscam
+	as vidas nelas!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I oughta slug you!!"
+	"""
+	Você fala qualquer
+	coisa,desde que te
+	beneficie!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Ô,vontade de te dar\num chute!!
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -157,7 +162,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = Chillski
-	"Yikes!!"
+	"Eurgh!!"
 	keyWait
 		any = false
 	clearMsg
@@ -167,7 +172,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = SciLabMan
-	"That's enough,Lan."
+	"Já chega,Lan."
 	keyWait
 		any = false
 	end
@@ -177,17 +182,16 @@ script 8 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Don't waste your
-	strength on the
-	likes of him.
+	Não gaste saliva com
+	gente da laia dele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We Officials will
-	take care of judging
-	him for his crimes.
+	Nós,Oficiais,faremos
+	ele ser julgado por
+	seus crimes.
 	"""
 	keyWait
 		any = false
@@ -198,7 +202,7 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotShow
 		mugshot = Chillski
-	"Officials?!"
+	"Oficiais?!"
 	keyWait
 		any = false
 	end
@@ -212,9 +216,9 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	You're under arrest
-	for hijacking the
-	weather satellite!!
+	Você está preso por
+	invadir o satélite
+	climático!!
 	"""
 	keyWait
 		any = false
@@ -225,7 +229,7 @@ script 10 mmbn4 {
 script 11 mmbn4 {
 	mugshotShow
 		mugshot = Chillski
-	"No⋯No⋯!"
+	"Não... Não!"
 	keyWait
 		any = false
 	clearMsg
@@ -235,13 +239,13 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	mugshotShow
 		mugshot = SciLabMan
-	"Let's go!!"
+	"Vamos!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You have a lot of
-	explaining to do!
+	Você tem MUITAS
+	explicações a dar!
 	"""
 	keyWait
 		any = false
@@ -253,8 +257,9 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = Chillski
 	"""
-	At least let me do
-	it in cold place!
+	Pelo menos me
+	permitam explicar
+	em um lugar frio!
 	"""
 	keyWait
 		any = false
@@ -266,14 +271,14 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = SciLabMan
 	"""
-	We have a special
-	interrogation room
-	ready for you⋯
+	Ah,temos uma sala de
+	interrogatório pre-
+	parada para você...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯In NetFrica!"
+	"... na Affriq!"
 	keyWait
 		any = false
 	clearMsg
@@ -283,13 +288,13 @@ script 14 mmbn4 {
 script 15 mmbn4 {
 	mugshotShow
 		mugshot = Chillski
-	"NetFrica?!"
+	"Affriq?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I cannot stand
-	hot place!!
+	Eu não suporto
+	lugares quentes!
 	"""
 	keyWait
 		any = false
@@ -301,8 +306,8 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = SciLabMan
 	"""
-	Stop yer whining!
-	Let's go!!
+	Para de reclamar!
+	Vamos!!
 	"""
 	keyWait
 		any = false
@@ -313,7 +318,7 @@ script 16 mmbn4 {
 script 17 mmbn4 {
 	mugshotShow
 		mugshot = Chillski
-	"Noooooo!!"
+	"Nãããããooo!!"
 	keyWait
 		any = false
 	end
@@ -321,8 +326,9 @@ script 17 mmbn4 {
 script 18 mmbn4 {
 	msgOpen
 	"""
-	I sorry!! Don't take
-	me to hot place!!
+	Eu sinto muito!
+	Eu imploro! Não me
+	levem pro calor!
 	"""
 	keyWait
 		any = false
@@ -331,7 +337,7 @@ script 18 mmbn4 {
 		target = 19
 }
 script 19 mmbn4 {
-	"Shut up and move!"
+	"Cala a boca e anda!"
 	keyWait
 		any = false
 	clearMsg
@@ -341,7 +347,7 @@ script 19 mmbn4 {
 script 20 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Serves him right⋯"
+	"Bem feito..."
 	keyWait
 		any = false
 	clearMsg
@@ -351,14 +357,14 @@ script 20 mmbn4 {
 script 21 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Yeah⋯"
+	"É..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Say,Lan,you OK? You
-	were in the blizzard
-	during the battle⋯
+	Lan,você tá bem? Cê
+	ficou na nevasca
+	durante toda a luta.
 	"""
 	keyWait
 		any = false
@@ -369,13 +375,13 @@ script 21 mmbn4 {
 script 22 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"I managed,somehow."
+	"Eu consegui\nsuportar."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I've had enough
-	of this cold!
+	Mas tô por aqui com
+	esse frio,viu?!
 	"""
 	keyWait
 		any = false
@@ -383,7 +389,7 @@ script 22 mmbn4 {
 	storeTimer
 		timer = 0
 		value = 11
-	"A-a-a-choo!!"
+	"A-a-a-tchim!!"
 	keyWait
 		any = false
 	end

@@ -11,8 +11,8 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan,Mayl is
-	waiting!
+	Lan,a Mayl tá
+	esperando!
 	"""
 	keyWait
 		any = false
@@ -43,19 +43,19 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Hello!"
+	"Oi!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Roll is in Town-
-	Area3 on the Net!
-	You go too,MegaMan!
+	A Roll tá na Área
+	Vila 3,na Rede! Vai
+	lá também,MegaMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Here,use this!"
+	"Toma,usa isto!"
 	keyWait
 		any = false
 	clearMsg
@@ -90,8 +90,8 @@ script 2 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Hurry up to
-	Town Area3!
+	Depressa,vai logo
+	pra Área Vila 3!
 	"""
 	keyWait
 		any = false
@@ -101,7 +101,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Good luck,Lan!"
+	"Boa sorte,Lan!"
 	keyWait
 		any = false
 	end
@@ -111,9 +111,9 @@ script 4 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	What's going on?
-	Looks like we need
-	to hurry back!
+	O que aconteceu?
+	Acho melhor você
+	ir pra casa!
 	"""
 	keyWait
 		any = false
@@ -124,9 +124,9 @@ script 5 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's get on
-	the Net! We can't
-	keep Roll waiting!
+	Lan,entra na Rede!
+	Não podemos deixar
+	a Roll esperando!
 	"""
 	keyWait
 		any = false
@@ -143,8 +143,7 @@ script 10 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	So how did things
-	go,Lan?
+	E aí,como foi,Lan?
 	"""
 	keyWait
 		any = false
@@ -153,7 +152,7 @@ script 10 mmbn4 {
 		mugshot = Lan
 	mugshotAnimation
 		animation = 1
-	"(I don't want them\n to worry⋯)"
+	"(Eu não quero\n preocupar ela...)"
 	keyWait
 		any = false
 	clearMsg
@@ -161,13 +160,13 @@ script 10 mmbn4 {
 		animation = 2
 	mugshotShow
 		mugshot = Mayl
-	"What?"
+	"E aí?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Well,you see"
+	"Bem,er"
 	waitSkip
 		frames = 30
 	"."
@@ -183,15 +182,16 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	"""
-	The alarm
-	malfunctioned⋯?
+	O alarme deu
+	defeito...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯Well,that's good,
-	I guess⋯
+	... Bom,que bom que
+	foi só isso,eu
+	acho...
 	"""
 	keyWait
 		any = false
@@ -201,13 +201,14 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Lan! You look pale!"
+	"Lan! Você tá tão\npálido!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll bet something
-	happened after all⋯
+	Aposto que
+	aconteceu,sim,
+	alguma coisa...
 	"""
 	keyWait
 		any = false
@@ -222,16 +223,16 @@ script 130 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	I wonder where Roll
-	was taken⋯?
+	Pra onde será que a
+	Roll foi levada...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	She didn't come back
-	to the HP⋯I was so
-	worried⋯
+	Ela não voltou pra
+	página... Eu tô tão
+	preocupada...
 	"""
 	keyWait
 		any = false
@@ -242,15 +243,16 @@ script 131 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	What?! You found out
-	where Roll is⋯?!
+	O quê?! Você
+	descobriu onde a
+	Roll tá...?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯Lan,please help
-	Roll!
+	... Lan,por favor,
+	ajuda a Roll!
 	"""
 	keyWait
 		any = false

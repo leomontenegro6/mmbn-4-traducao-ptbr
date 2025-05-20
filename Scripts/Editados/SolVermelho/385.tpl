@@ -173,7 +173,7 @@ script 132 mmbn4 {
 	clearMsg
 	"""
 	e impede as BomBolas
-	de entrar nele,
+	de entrarem nele,
 	"""
 	keyWait
 		any = false
@@ -211,7 +211,7 @@ script 132 mmbn4 {
 	clearMsg
 	"""
 	Como goleiro,
-	se os direcionais
+	use os direcionais
 	"""
 	keyWait
 		any = false

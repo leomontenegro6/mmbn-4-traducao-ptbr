@@ -12,9 +12,9 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Stubborn old man!
-	Stop stalling and
-	gimme the advice!
+	Seu velho teimoso!
+	Para de enrolar e
+	me dá a informação!
 	"""
 	keyWait
 		any = false
@@ -29,30 +29,30 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = TensukesBrother
 	"""
-	What're you blab-
-	bering about,you
-	stubborn old man!
+	Do que você está
+	falando? Você que
+	é o velho teimoso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You want some advice
-	so you can get along
-	with your grandson?!
+	Quer essas dicas pra
+	conquistar o seu
+	neto,é?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	After making fun of
-	NetBattles all that
-	time?!
+	Depois de ficar
+	zombando das
+	NetLutas até agora?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"You ask too much!"
+	"Tá pedindo demais!"
 	keyWait
 		any = false
 	end
@@ -62,9 +62,8 @@ script 2 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What the?!
-	There are two
-	Tensukes!!!
+	Quê?!
+	Tem dois Tensukes!!!
 	"""
 	keyWait
 		any = false
@@ -75,7 +74,7 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Are they twins?!"
+	"São gêmeos?!"
 	keyWait
 		any = false
 	clearMsg
@@ -86,8 +85,8 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Anyway,we gotta
-	stop 'em!
+	Enfim,a gente tem
+	que parar eles!
 	"""
 	keyWait
 		any = false
@@ -101,17 +100,17 @@ script 5 mmbn4 {
 		mugshot = Tensuke
 	msgOpen
 	"""
-	This is why old mans
-	who can only make
-	kites are trouble!
+	É por isso que
+	velhos artesãos de
+	pipas não prestam!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go fly away
-	somewhere with your
-	kite!
+	Se gruda na sua pipa
+	e se empina pra
+	outro lugar,vai!
 	"""
 	keyWait
 		any = false
@@ -125,22 +124,22 @@ script 6 mmbn4 {
 		value = 7
 	mugshotShow
 		mugshot = TensukesBrother
-	"Humph!"
+	"Humpf!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Who're you to talk!
-	All you can do is
-	make tops!
+	Muita atitude pra um
+	que só sabe fazer
+	piões!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why don't you go
-	spin off somewhere
-	with your tops!
+	Se gosta tanto de
+	girar,gira pra
+	longe daqui!
 	"""
 	keyWait
 		any = false
@@ -152,30 +151,29 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Hey! Calm down,you
-	two!
+	Ei! Calma,gente!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh yeah! Hey,
+	Ah,é mesmo!
 	Tensuke!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I got the data from
-	the NetBattle Club!
+	Eu reuni os dados do
+	Clube de NetLuta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The data you need
-	for making Navis!
-	Look!
+	Os dados de que você
+	precisa pra fazer
+	Navis! Olha!
 	"""
 	keyWait
 		any = false
@@ -187,7 +185,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Tensuke
 	msgOpen
-	"And another thing!"
+	"E tem mais!"
 	keyWait
 		any = false
 	end
@@ -196,7 +194,7 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = TensukesBrother
 	msgOpen
-	"And another thing!"
+	"E tem mais!"
 	keyWait
 		any = false
 	end
@@ -205,7 +203,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Tensuke
 	msgOpen
-	"Yeah?! Yeah?!"
+	"Ah,é?! É?!"
 	keyWait
 		any = false
 	end
@@ -214,7 +212,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = TensukesBrother
 	msgOpen
-	"Yeah?! Yeah?!"
+	"É?! Ah,é?!"
 	keyWait
 		any = false
 	end
@@ -223,20 +221,20 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Oh noooo!!!"
+	"Ah,nãããão!!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't tell which
-	is which!
+	Eu não sei dizer
+	quem é quem!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey,you guys!
-	Calm down already!
+	Gente,calma!
+	Relaxa aí!
 	"""
 	keyWait
 		any = false
@@ -247,7 +245,7 @@ script 12 mmbn4 {
 script 13 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Lan,hang in there!"
+	"Lan,você consegue!"
 	keyWait
 		any = false
 	clearMsg
@@ -258,9 +256,9 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = TensukesBrother
 	"""
-	Yow! Well,if you're
-	gonna go that far,
-	here,take it!
+	Ai! Ah,se vai apelar
+	pra isso,então leva
+	logo!
 	"""
 	keyWait
 		any = false
@@ -270,9 +268,9 @@ script 15 mmbn4 {
 	mugshotHide
 	msgOpen
 	"""
-	The Chief gave
-	Tensuke "How to
-	Make Navis"!!
+	O Chefe deu ao
+	Tensuke:
+	"Como Criar Navis"!!
 	"""
 	keyWait
 		any = false
@@ -285,9 +283,9 @@ script 16 mmbn4 {
 		mugshot = TensukesBrother
 	msgOpen
 	"""
-	If you lose with
-	this,I'll make fun
-	of you forever!
+	Se perder mesmo com
+	isso aí,eu vou te
+	zombar pra sempre!
 	"""
 	keyWait
 		any = false
@@ -298,14 +296,14 @@ script 16 mmbn4 {
 script 17 mmbn4 {
 	mugshotShow
 		mugshot = Tensuke
-	"Heh,bring it on!"
+	"He,até parece!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't let my
-	overwhelming victory
-	blow you away!
+	Vê se não infarta
+	depois de ver minha
+	vitória incrível!
 	"""
 	keyWait
 		any = false
@@ -316,8 +314,9 @@ script 18 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Victory? Lose?
-	What's this about?
+	Vitória? Perder?
+	Pera,o que tá
+	acontecendo aqui?
 	"""
 	keyWait
 		any = false
@@ -330,13 +329,13 @@ script 19 mmbn4 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"*beep beep beep*"
+	"*bip bip bip*"
 	wait
 		frames = 64
 	"\n"
 	soundPlay
 		track = 219
-	"*beep beep beep*"
+	"*bip bip bip*"
 	wait
 		frames = 64
 	soundEnableTextSFX
@@ -349,13 +348,13 @@ script 19 mmbn4 {
 script 20 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Oh no!"
+	"Essa não!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,the match is
-	about to start!
+	Lan,a luta tá pra
+	começar!
 	"""
 	keyWait
 		any = false
@@ -368,7 +367,7 @@ script 21 mmbn4 {
 		mugshot = Lan
 	"""
 	Argh!
-	We're in trouble!
+	Eita,nós!
 	"""
 	keyWait
 		any = false
@@ -377,8 +376,9 @@ script 21 mmbn4 {
 script 22 mmbn4 {
 	mugshotHide
 	"""
-	Lan gave "Secret1"
-	through "Secret4"!!
+	Lan deu do
+	"Segredo1" ao
+	"Segredo4"!!
 	"""
 	keyWait
 		any = false
@@ -386,16 +386,16 @@ script 22 mmbn4 {
 	mugshotShow
 		mugshot = Tensuke
 	"""
-	Yow! No time for
-	this now!
+	Argh! Não tenho
+	tempo pra isto
+	agora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Today's the day to
-	make him mend his
-	ways!
+	É hoje que eu dou
+	uma lição nele!
 	"""
 	keyWait
 		any = false

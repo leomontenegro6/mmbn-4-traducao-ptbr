@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yes!"
+	"Isso!"
 	keyWait
 		any = false
 	jump
@@ -15,8 +15,9 @@ script 1 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	We can now go on!
-	Off again!
+	Agora,podemos
+	seguir!
+	Zarpando!
 	"""
 	keyWait
 		any = false
@@ -28,9 +29,9 @@ script 2 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yeah!
-	Let's keep this
-	up!
+	Boa!
+	Bora continuar
+	assim!
 	"""
 	keyWait
 		any = false
@@ -42,9 +43,9 @@ script 3 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Ah I see⋯
-	This completes a
-	full story.
+	Ah,entendi...
+	Isso completa a
+	história.
 	"""
 	keyWait
 		any = false

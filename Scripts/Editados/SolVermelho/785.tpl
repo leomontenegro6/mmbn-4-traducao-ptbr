@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	A Navi's remains⋯
-	Must've gotten lost
-	and died here⋯
+	Restos de um Navi...
+	Deve ter se perdido
+	e morrido aqui...
 	"""
 	keyWait
 		any = false
@@ -19,7 +19,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Lonely,so lonely⋯"
+	"Tanta solidão..."
 	keyWait
 		any = false
 	end
@@ -28,7 +28,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"W-who's there?!"
+	"Q-quem tá aí?!"
 	keyWait
 		any = false
 	end
@@ -38,14 +38,14 @@ script 3 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I'm so lonely⋯
-	You must join me on
-	the other side⋯
+	Tanta solidão...
+	Venha brincar comigo
+	do outro lado...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ohhhhhhhhh!!"
+	"Uuuuuhhh!!"
 	keyWait
 		any = false
 	end
@@ -55,14 +55,18 @@ script 5 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The residual memory
-	left here turned
-	into a virus.
+	A memória residual
+	deixada aqui virou
+	um vírus.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I might,too,if⋯"
+	"""
+	Eu posso acabar
+	assim também,se
+	eu...
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -73,15 +77,15 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Don't be crazy.
-	I'm here with you!
+	Não fala besteira.
+	Eu tô aqui com você!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't worry. Let's
-	keep going!
+	Relaxa. Vamos
+	seguir em frente!
 	"""
 	keyWait
 		any = false
@@ -92,7 +96,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"⋯Roger!!"
+	"... Certo!!"
 	keyWait
 		any = false
 	end
@@ -102,14 +106,14 @@ script 10 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	A Navi's remains⋯
-	Must've gotten lost
-	and died here⋯
+	Restos de Navis...
+	Devem ter se perdido
+	e morrido aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What happened here?"
+	"O que aconteceu?"
 	keyWait
 		any = false
 	clearMsg
@@ -119,7 +123,7 @@ script 10 mmbn4 {
 script 11 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
-	"Oh the pain⋯"
+	"Ah,tanta dor..."
 	keyWait
 		any = false
 	end
@@ -128,7 +132,7 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"W-who's there?!"
+	"Q-quem tá aí?!"
 	keyWait
 		any = false
 	end
@@ -137,13 +141,14 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = PurpleNavi
 	msgOpen
-	"It hurts so⋯"
+	"Tanta dor..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why do you yet live?
-	You must suffer,too!
+	Por que você segue
+	vivo? Precisa
+	sofrer também!
 	"""
 	keyWait
 		any = false
@@ -158,15 +163,17 @@ script 18 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	He must've really
-	been suffering.
+	Imagino que eles
+	tavam sofrendo
+	muito.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I bet there're more
-	vengeful spirits.
+	Aposto que tem
+	ainda mais espíritos
+	vingativos aqui.
 	"""
 	keyWait
 		any = false
@@ -177,15 +184,15 @@ script 20 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	So many Navi
-	remains⋯
+	Tantos restos de
+	Navis...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I sense tremendous
-	malice⋯
+	Eu sinto uma malícia
+	tremenda...
 	"""
 	keyWait
 		any = false
@@ -196,7 +203,7 @@ script 20 mmbn4 {
 script 21 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviPink
-	"It's so cold⋯"
+	"Que frio..."
 	keyWait
 		any = false
 	clearMsg
@@ -206,7 +213,7 @@ script 21 mmbn4 {
 script 22 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"⋯!!"
+	"...!!"
 	keyWait
 		any = false
 	end
@@ -215,7 +222,7 @@ script 23 mmbn4 {
 	mugshotShow
 		mugshot = PurpleNavi
 	msgOpen
-	"It hurts so⋯"
+	"Dói tanto..."
 	keyWait
 		any = false
 	clearMsg
@@ -225,7 +232,7 @@ script 23 mmbn4 {
 script 24 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
-	"I want to go home⋯"
+	"Eu quero ir pra\ncasa..."
 	keyWait
 		any = false
 	clearMsg
@@ -236,8 +243,9 @@ script 25 mmbn4 {
 	mugshotShow
 		mugshot = PurpleNavi
 	"""
-	Why did you abandon
-	me?! How cruel!
+	Por que você me
+	abandonou?!
+	Desalmado!
 	"""
 	keyWait
 		any = false
@@ -250,8 +258,9 @@ script 26 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	A happy-looking
-	Navi⋯How loathsome!
+	Um Navi que parece
+	feliz... Isso me
+	enche de ódio!
 	"""
 	keyWait
 		any = false
@@ -265,20 +274,22 @@ script 28 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Such malice⋯"
+	"Tamanha malícia..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Some say ghosts
-	gather near water.
+	Há lendas que dizem
+	que fantasmas se re-
+	únem perto da água.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The River Management
-	System may be near.
+	O Sistema de Geren-
+	ciamento do Rio deve
+	estar próximo.
 	"""
 	keyWait
 		any = false
@@ -289,15 +300,15 @@ script 30 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	So many Navi
-	remains⋯
+	Tantos restos de
+	Navis...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I sense tremendous
-	malice⋯
+	Eu sinto uma malícia
+	tremenda...
 	"""
 	keyWait
 		any = false
@@ -308,7 +319,7 @@ script 30 mmbn4 {
 script 31 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviPink
-	"Uhhhhhh⋯"
+	"Ããhhhhhh..."
 	keyWait
 		any = false
 	clearMsg
@@ -318,7 +329,7 @@ script 31 mmbn4 {
 script 32 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"⋯Yikes!!"
+	"... Eita!!"
 	keyWait
 		any = false
 	end
@@ -327,7 +338,7 @@ script 33 mmbn4 {
 	mugshotShow
 		mugshot = PurpleNavi
 	msgOpen
-	"I smell it⋯"
+	"Sinto o cheiro..."
 	keyWait
 		any = false
 	clearMsg
@@ -338,8 +349,8 @@ script 34 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	The smell of a
-	healthy,living Navi⋯
+	O cheiro de um Navi
+	vivo e saudável...
 	"""
 	keyWait
 		any = false
@@ -350,11 +361,11 @@ script 34 mmbn4 {
 script 35 mmbn4 {
 	mugshotShow
 		mugshot = PurpleNavi
-	"A delectable scent!"
+	"Um aroma apetitoso!"
 	keyWait
 		any = false
 	clearMsg
-	"Rawrrr!!"
+	"Iááárrr!!"
 	keyWait
 		any = false
 	end
@@ -364,20 +375,21 @@ script 38 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	When malice changes
-	into such viruses,
+	Quando a malícia
+	toma essa forma de
+	vírus,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	they no longer seem
-	like Navis.
+	os Navis param de
+	parecerem Navis.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"How frightening⋯"
+	"Assustador..."
 	keyWait
 		any = false
 	end
@@ -387,13 +399,10 @@ script 40 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I feel sorry for
-	the Navis that
+	Eu sinto pena
+	pelos Navis que
+	morreram aqui.
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"died here."
 	keyWait
 		any = false
 	clearMsg
@@ -403,7 +412,7 @@ script 40 mmbn4 {
 script 41 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
-	"Feel sorry for?"
+	"Sente pena?"
 	keyWait
 		any = false
 	clearMsg
@@ -413,7 +422,7 @@ script 41 mmbn4 {
 script 42 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"⋯Whoa!!"
+	"... Ahh!!"
 	keyWait
 		any = false
 	end
@@ -422,7 +431,7 @@ script 43 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviPink
 	msgOpen
-	"If you pity us⋯"
+	"Se tem tanta pena..."
 	keyWait
 		any = false
 	clearMsg
@@ -432,11 +441,11 @@ script 43 mmbn4 {
 script 44 mmbn4 {
 	mugshotShow
 		mugshot = PurpleNavi
-	"Take us with you!"
+	"Então nos leve com\nvocê!"
 	keyWait
 		any = false
 	clearMsg
-	"Gwarrrrrr!!"
+	"Gaaarrrrrr!!"
 	keyWait
 		any = false
 	end
@@ -446,15 +455,16 @@ script 48 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	They were abandoned
-	by their operators.
+	Eles foram
+	abandonados por
+	seus operadores.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	As a Navi,I really
-	feel for them.
+	Como Navi,eu sinto
+	muito por eles.
 	"""
 	keyWait
 		any = false

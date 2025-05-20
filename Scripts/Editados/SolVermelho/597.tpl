@@ -4,11 +4,11 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"TopMan,deleted!!!"
+	"TopMan foi\nderrotado!!!"
 	keyWait
 		any = false
 	clearMsg
-	"Lan is the winner!"
+	"Lan Hikari é o\nvencedor!"
 	keyWait
 		any = false
 	end
@@ -17,7 +17,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"We did it!"
+	"Conseguimos!"
 	keyWait
 		any = false
 	end
@@ -26,11 +26,11 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Tensuke
 	msgOpen
-	"Dang!"
+	"Droga!"
 	keyWait
 		any = false
 	clearMsg
-	"That was close!"
+	"Foi por tão pouco!"
 	keyWait
 		any = false
 	clearMsg
@@ -41,8 +41,8 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	You put up a good
-	fight,Tensuke!
+	O senhor lutou bem,
+	Tensuke!
 	"""
 	keyWait
 		any = false
@@ -54,28 +54,29 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Tensuke
 	"""
-	Too bad I didn't win
-	in front of my bro-
-	ther and grandson.
+	Pena que eu não ven-
+	ci na frente do meu
+	irmão e do meu neto.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I have no
-	regrets!
+	Mas não tenho
+	arrepentimentos,
+	não!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hey,boy!"
+	"Garoto!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Next time we fight,
-	I'm gonna pulverize
-	you!
+	Da próxima vez que
+	a gente lutar,eu
+	acabo com você!
 	"""
 	keyWait
 		any = false
@@ -87,8 +88,8 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Heehee,I look
-	forward to it!
+	He he,mal posso
+	esperar!
 	"""
 	keyWait
 		any = false
@@ -102,7 +103,7 @@ script 7 mmbn4 {
 	storeTimer
 		timer = 1
 		value = 1
-	"*clap clap clap*"
+	"Clap Clap Clap"
 	wait
 		frames = 120
 	end
@@ -111,7 +112,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = OldMan
 	msgOpen
-	"Great job,Tensuke!"
+	"Bom trabalho,\nTensuke!"
 	keyWait
 		any = false
 	clearMsg
@@ -122,9 +123,9 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = OldWoman
 	"""
-	You're a hero to all
-	of us elderly
-	NetBattlers!
+	Você é um herói para
+	todos os NetLutado-
+	res idosos!
 	"""
 	keyWait
 		any = false
@@ -136,7 +137,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Tensuke
 	msgOpen
-	"You guys⋯"
+	"Pessoal..."
 	keyWait
 		any = false
 	clearMsg
@@ -145,7 +146,7 @@ script 10 mmbn4 {
 }
 script 11 mmbn4 {
 	mugshotHide
-	"Grandpa!"
+	"Vovô!"
 	keyWait
 		any = false
 	end
@@ -155,9 +156,9 @@ script 12 mmbn4 {
 		mugshot = Kosuke
 	msgOpen
 	"""
-	You were amazing!
-	Show me your Net-
-	Battle techniques!
+	Você foi demais! Me
+	mostra as suas téc-
+	nicas de NetLuta!
 	"""
 	keyWait
 		any = false
@@ -168,7 +169,7 @@ script 12 mmbn4 {
 script 13 mmbn4 {
 	mugshotShow
 		mugshot = Tensuke
-	"Hello,Kosuke⋯"
+	"Kosuke..."
 	keyWait
 		any = false
 	clearMsg
@@ -180,9 +181,9 @@ script 14 mmbn4 {
 		mugshot = Kosuke
 	msgOpen
 	"""
-	TopMan was great,
-	too! Tops really
-	are amazing!
+	O TopMan foi demais,
+	também! Piões são
+	incríveis mesmo!
 	"""
 	keyWait
 		any = false
@@ -194,9 +195,9 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = TopMan
 	"""
-	Ah,teeheehee!
-	Stop it,you're
-	embarrassing me!
+	Ah,he he he!
+	Para,vai me deixar
+	vermelho!
 	"""
 	keyWait
 		any = false
@@ -208,14 +209,14 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = Kosuke
 	msgOpen
-	"So grandpa⋯"
+	"Então,vovô..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I just wanna say I'm
-	sorry for calling
-	tops boring!
+	Desculpa por ter
+	falado que piões não
+	têm graça!
 	"""
 	keyWait
 		any = false
@@ -226,13 +227,14 @@ script 16 mmbn4 {
 script 17 mmbn4 {
 	mugshotShow
 		mugshot = TensukesBrother
-	"Heh!"
+	"He!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I may have lost,but
-	what a great fight!
+	Você pode ter
+	perdido,mas que
+	luta,hein!
 	"""
 	keyWait
 		any = false
@@ -243,27 +245,27 @@ script 18 mmbn4 {
 		mugshot = Tensuke
 	msgOpen
 	"""
-	I want to thank you,
-	too.
+	Quero agradecer a
+	você,também.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That last bit of
-	advice was really
-	useful.
+	Aquele último
+	conselho seu foi
+	muito útil.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Pour your heart\n into your Navi.\""
+	"\"Deposite o seu\n coração no seu\n Navi.\""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's how I was
-	able to finish
+	Foi graças a isso
+	que eu terminei o
 	TopMan.
 	"""
 	keyWait
@@ -276,23 +278,23 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = TensukesBrother
 	"""
-	A Navi is like your
+	Um Navi é como o seu
 	alter ego.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It was my crafts-
-	man's soul that gave
-	TopMan his power.
+	Foi a sua alma de
+	artesão que deu ao
+	TopMan sua força.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm glad you
-	understood.
+	Que bom que você
+	entendeu.
 	"""
 	keyWait
 		any = false
@@ -304,9 +306,8 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = Kosuke
 	"""
-	Grandpa!
-	Show me how to spin
-	a top!
+	Vovô! Me mostra como
+	faz pra rodar pião?
 	"""
 	keyWait
 		any = false
@@ -317,7 +318,7 @@ script 20 mmbn4 {
 script 21 mmbn4 {
 	mugshotShow
 		mugshot = Tensuke
-	"Sure!"
+	"Claro!"
 	keyWait
 		any = false
 	end
@@ -326,7 +327,7 @@ script 22 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"\"After the storm,\n a calm.\""
+	"\"Depois da\n tempestade,a\n bonança.\""
 	keyWait
 		any = false
 	clearMsg
@@ -337,9 +338,9 @@ script 23 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Yahoo!
-	All our hard work
-	paid off!
+	Aêêê! Todo o nosso
+	trabalho duro deu
+	resultados!
 	"""
 	keyWait
 		any = false
@@ -351,8 +352,8 @@ script 24 mmbn4 {
 	soundStopBGM
 	mugshotHide
 	"""
-	What're you talking
-	about?!
+	Do que é que você tá
+	falando?!
 	"""
 	keyWait
 		any = false
@@ -364,15 +365,16 @@ script 25 mmbn4 {
 		mugshot = Tensuke
 	msgOpen
 	"""
-	Couldn't you tell
-	from this battle?!
+	Não deu pra ver
+	nessa luta?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your Navi's no
-	match for my TopMan!
+	O seu Navi não é
+	páreo pro meu
+	TopMan!
 	"""
 	keyWait
 		any = false
@@ -383,14 +385,14 @@ script 25 mmbn4 {
 script 26 mmbn4 {
 	mugshotShow
 		mugshot = TensukesBrother
-	"Hey!"
+	"O quê?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't get cocky just
-	because you had a
-	good fight!
+	Não fica se achando
+	só porque foi bem em
+	UMA luta!
 	"""
 	keyWait
 		any = false
@@ -401,7 +403,7 @@ script 26 mmbn4 {
 script 27 mmbn4 {
 	mugshotShow
 		mugshot = Tensuke
-	"Oh yeah?!"
+	"Ah,é?!"
 	keyWait
 		any = false
 	clearMsg
@@ -411,7 +413,7 @@ script 27 mmbn4 {
 script 28 mmbn4 {
 	mugshotShow
 		mugshot = TensukesBrother
-	"Oh yeah?!"
+	"Ah,é?!"
 	keyWait
 		any = false
 	end
@@ -421,9 +423,9 @@ script 29 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Their friendship is
-	strong enough to
-	survive a fight.
+	A amizade deles
+	sobrevive a uma
+	briguinha... né?
 	"""
 	keyWait
 		any = false
@@ -436,9 +438,8 @@ script 30 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ah well,at least
-	they've got their
-	health.
+	Bom,pelo menos eles
+	têm saúde.
 	"""
 	keyWait
 		any = false

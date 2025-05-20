@@ -5,16 +5,16 @@ script 0 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Ladies and gentle-
-	men!! Here are
-	today's entrants!
+	Senhoras e senhores!
+	Apresentando os com-
+	petidores de hoje!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Introducing the
-	Brainy NetBattler,
+	Primeiramente,o
+	NetLutador Genial:
 	Terry!!
 	"""
 	keyWait
@@ -25,21 +25,21 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Terry
 	msgOpen
-	"Heh heh heh!"
+	"He he he!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I bet he's here with
-	that sad excuse for
-	a folder I planted⋯
+	Aposto que ele vai
+	usar a pasta horrí-
+	vel que eu deixei...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This'll be a cinch!
-	Heh heh heh!!
+	Isto vai ser moleza!
+	He he he!!
 	"""
 	keyWait
 		any = false
@@ -51,15 +51,15 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	Next,I'd like to
-	introduce the grade
+	A seguir,apresento
+	o NetLutador do
+	fundamental:
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	school NetBattler,
-	Lan!!
+	Lan Hikari!!
 	"""
 	keyWait
 		any = false
@@ -70,8 +70,8 @@ script 3 mmbn4 {
 		mugshot = Terry
 	msgOpen
 	"""
-	Heh heh heh!
-	Go easy on me!
+	He he he!
+	Pega leve comigo,tá?
 	"""
 	keyWait
 		any = false
@@ -82,20 +82,22 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Hey,yer that⋯!"
+	"Aí,você é aquele...!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You know how much
-	trouble you caused?!
+	Cê tem noção de
+	quanto problema
+	cê me causou?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Guess you wanna win,
-	even by cheating!
+	Acho que cê queria
+	muito vencer,mesmo
+	que trapacendo!
 	"""
 	keyWait
 		any = false
@@ -107,30 +109,32 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Terry
 	"""
-	I have no idea
-	what you're talking
-	about.
+	Eu nem faço ideia
+	do que você tá
+	falando.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Anyway,winning's
-	all that counts.
+	Mas,sim,vencer é
+	tudo o que importa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	As least,that's what
-	I've heard. Heh heh!
+	Pelo menos,foi o
+	que eu ouvi falar.
+	He he!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Stop stalling,Mr.
-	Loser Folder!
+	Agora para de
+	enrolar,menino
+	da Pasta Ruim!
 	"""
 	keyWait
 		any = false
@@ -142,23 +146,24 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I already got rid
-	of that folder.
+	Ah,eu já me livrei
+	daquela pasta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now I'm not gonna
-	hold anything back!
+	Agora,eu não vou
+	pegar leve,não
+	senhor!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And a certain some-
-	one asked me to beat
-	your socks off.
+	E um certo senhorzi-
+	nho me pediu pra te
+	dar uma surra.
 	"""
 	keyWait
 		any = false
@@ -170,8 +175,8 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Terry
 	"""
-	W-w-what?!
-	No way!
+	O-o-o quê?!
+	Nem vem!
 	"""
 	keyWait
 		any = false
@@ -183,30 +188,31 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = SparkMan
 	"""
-	Relax!
-	He's just a kid.
+	Relaxa!
+	Ele é só um garoto.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If we just do the
-	usual,we can't lose!
+	Se lutarmos como
+	sempre,é impossível
+	a gente perder!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just leave it to me!
-	You may be good with
-	machines,but
+	É só deixar comigo!
+	Você pode ser bom
+	com máquinas,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you sure stink at
-	Navi's operation!
+	mas é um lixo como
+	operador de Navi!
 	"""
 	keyWait
 		any = false
@@ -217,11 +223,11 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotShow
 		mugshot = Terry
-	"I can't help it! I'm"
+	"Ah,não enche,tá?"
 	keyWait
 		any = false
 	clearMsg
-	"a robot specialist!"
+	"Eu sou um\nespecialista em\nrobótica,não Navis!"
 	keyWait
 		any = false
 	clearMsg
@@ -232,15 +238,16 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Arguing before
-	the battle?
+	Discutindo antes da
+	luta?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Trust between opera-
-	tor and Navi is key!
+	Mas a confiança
+	entre operador e
+	Navi é crucial!
 	"""
 	keyWait
 		any = false
@@ -251,13 +258,13 @@ script 10 mmbn4 {
 script 11 mmbn4 {
 	mugshotShow
 		mugshot = Terry
-	"Shaddup!"
+	"Cala a boca!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SparkMan! Let's
-	teach 'em a lesson!
+	SparkMan! Bora dar
+	uma lição nele!
 	"""
 	keyWait
 		any = false
@@ -268,21 +275,21 @@ script 12 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	What's this?! Things
-	are heating up even
-	before the battle!!
+	Opa! As coisas estão
+	esquentando antes da
+	luta sequer começar!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's get it on!"
+	"Vamos lá!"
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Terry
 	Vs.
-	Lan
+	Lan Hikari!
 	"""
 	keyWait
 		any = false
@@ -300,7 +307,7 @@ script 12 mmbn4 {
 script 13 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -310,7 +317,7 @@ script 13 mmbn4 {
 script 14 mmbn4 {
 	mugshotShow
 		mugshot = SparkMan
-	"Slap 'em silly!"
+	"Vou te fazer tremer!"
 	keyWait
 		any = false
 	end

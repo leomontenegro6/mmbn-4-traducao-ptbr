@@ -49,8 +49,8 @@ script 130 mmbn4 {
 	msgOpen
 	"""
 	Você veio.
-	Este será um duelo
-	para valer!!
+	Este vai ser um
+	duelo pra valer!!
 	"""
 	keyWait
 		any = false
@@ -171,7 +171,7 @@ script 132 mmbn4 {
 	clearMsg
 	"""
 	e impede as BomBolas
-	de entrar nele,
+	de entrarem nele,
 	"""
 	keyWait
 		any = false

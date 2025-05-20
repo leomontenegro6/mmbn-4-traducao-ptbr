@@ -15,14 +15,14 @@ script 0 mmbn4 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	I'm watching out for
-	bad-mannered
-	tourists. Right now⋯
+	Estou de olho em
+	turistas mal-educa-
+	dos. No momento...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I don't see any."
+	"não vejo nenhum."
 	keyWait
 		any = false
 	end
@@ -37,23 +37,23 @@ script 1 mmbn4 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	I come here every
-	year from Electopia.
+	Sou de Ni-Hon
+	Venho aqui todo ano.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I revere this Buddha
-	feller⋯
+	Eu adoro este Buda
+	aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just looking at him
-	takes the pain out
-	of my back!
+	Só de olhar para
+	ele,a minha coluna
+	para de doer!
 	"""
 	keyWait
 		any = false
@@ -69,8 +69,8 @@ script 2 mmbn4 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	Wow! This Buddha is
-	humongous!!
+	Caramba! Esse Buda é
+	colossal!
 	"""
 	keyWait
 		any = false
@@ -81,16 +81,16 @@ script 3 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	This statue was
-	actually built
-	recently.
+	Na verdade,esta
+	estátua é bem
+	recente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Did you know
-	you can jack in?
+	Sabia que dá até
+	pra conectar nela?
 	"""
 	keyWait
 		any = false
@@ -101,15 +101,15 @@ script 5 mmbn4 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	These ruins are
-	worth the trouble it
+	Essas ruínas valem
+	todo o esforço que
+	temos para
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	takes to preserve
-	them.
+	preservá-las.
 	"""
 	keyWait
 		any = false
@@ -120,9 +120,9 @@ script 6 mmbn4 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Thanks to this Bud-
-	dha I can travel
-	with my grandson!
+	Graças a este Buda,
+	eu posso viajar com
+	o meu neto!
 	"""
 	keyWait
 		any = false
@@ -133,8 +133,8 @@ script 7 mmbn4 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	I want to come back
-	next year too!
+	Quero voltar aqui
+	ano que vem,também!
 	"""
 	keyWait
 		any = false
@@ -150,16 +150,16 @@ script 10 mmbn4 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Seems something's 
-	Happening on the
-	Net. I just hope
+	Parece que tem algo
+	acontecendo na Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	this ain't the start
-	of something worse!
+	Só espero que não
+	seja o presságio de
+	uma coisa pior!
 	"""
 	keyWait
 		any = false
@@ -175,16 +175,14 @@ script 11 mmbn4 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	The Net's been
-	divided off?
+	A Rede foi dividida?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What's this "Net" 
-	everyone's talking
-	about,anyway?
+	... O que é essa tal
+	de "Rede",mesmo?
 	"""
 	keyWait
 		any = false
@@ -200,9 +198,9 @@ script 12 mmbn4 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	The big Buddha's
-	nice an' all,but I
-	need more action!
+	O Buda é legal e
+	tal,mas eu quero
+	mais curtição!
 	"""
 	keyWait
 		any = false
@@ -213,28 +211,29 @@ script 15 mmbn4 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	I listened to Madame
-	Jen. When she said
+	Eu ouvi à Madame
+	Jen. Quando ela
+	disse "nós",
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"us",was she refer-
-	ring to the people
-	in this village?
+	ela se referia ao
+	povo desta vila?
+	Deste país?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯this country? ⋯this"
+	"... Deste planeta?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	planet?? Anyway,it's
-	clear something bad
-	is going to happen!
+	Enfim,claramente,
+	algo ruim está para
+	acontecer!
 	"""
 	keyWait
 		any = false
@@ -245,20 +244,21 @@ script 16 mmbn4 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	I heard some kind of
-	prophet is revered
-	by the people in
+	Parece que há uma
+	profeta que é
+	venerada pelo povo
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"this town. I can't"
+	"desta cidade."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	wait to hear what
-	she has to say!
+	Mal posso esperar
+	para ouvir o que
+	ela tem a dizer!
 	"""
 	keyWait
 		any = false
@@ -268,19 +268,22 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = CapBoy
 	msgOpen
-	"What's a prophecy?"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	⋯Oh,something that
-	tells what'll happen
-	in the future!
+	O que é uma
+	"profecia"?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Wow,that's amazing!"
+	"""
+	... Ah,é ver uma
+	coisa que vai
+	acontecer no futuro!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Que legal!"
 	keyWait
 		any = false
 	end
@@ -295,22 +298,22 @@ script 20 mmbn4 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Whatever the prophet
-	says comes true,
-	right? So a large
+	Tudo que a profeta
+	diz se realiza,né?
+	Então,uma grande luz
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	light is coming to
-	wreak calamity on
-	this planet?
+	está vindo e vai
+	trazer calamidade
+	para o planeta?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"That's not good!"
+	"Isso não é nada bom!"
 	keyWait
 		any = false
 	end
@@ -324,20 +327,23 @@ script 21 mmbn4 {
 	mugshotShow
 		mugshot = CapBoy
 	msgOpen
-	"What's a calamity?"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	To experience a
-	catastrophe?
+	O que é uma
+	"calamidade"?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯What's a
-	catastrophe?
+	"É passar por uma
+	catástrofe"?
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	... E o que é uma
+	"catástrofe"?
 	"""
 	keyWait
 		any = false
@@ -353,15 +359,17 @@ script 22 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	Madame Jen has spok-
-	en. What she says
+	A Madame Jen falou.
+	Todo o que ela fala,
+	se realiza!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	will happen! We must
-	prepare to evacuate!
+	Precisamos nos
+	preparar para
+	evacuar!
 	"""
 	keyWait
 		any = false
@@ -377,22 +385,23 @@ script 23 mmbn4 {
 		mugshot = OldManAlt
 	msgOpen
 	"""
-	A major calamity
-	approaches⋯
+	Uma grande
+	calamidade se
+	aproxima...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but we don't know
-	exactly what!
+	mas não sabemos que
+	calamidade é!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How are we supposed
-	to prepare for it?
+	Como podemos nos
+	preparar para ela?
 	"""
 	keyWait
 		any = false
@@ -408,17 +417,17 @@ script 24 mmbn4 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	The large light that
-	will wreak calamity
-	on this planet
+	A grande luz que
+	trará calamidade
+	para este planeta
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	approaches. There
-	is⋯no escape from
-	that light.
+	se aproxima. Não
+	há... como fugir da
+	luz.
 	"""
 	keyWait
 		any = false
@@ -429,9 +438,9 @@ script 30 mmbn4 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Oh no⋯Should I go
-	back to Electopia
-	or stay here?
+	Ah,não... Eu volto
+	pra Ni-Hon ou fico
+	aqui?
 	"""
 	keyWait
 		any = false
@@ -442,8 +451,8 @@ script 31 mmbn4 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	I wanna go to an
-	amusement park!
+	Eu quero ir pra um
+	parque de diversões!
 	"""
 	keyWait
 		any = false
@@ -453,21 +462,22 @@ script 32 mmbn4 {
 	mugshotShow
 		mugshot = Man
 	msgOpen
-	"Hang on there!"
+	"Calma!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's not like
-	there's no hope⋯
+	Não é como se
+	não houvesse
+	esperança...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's wait for
-	Madame Jen's next
-	prophecy.
+	Vamos aguardar a
+	próxima profecia
+	da Madame Jen.
 	"""
 	keyWait
 		any = false
@@ -478,23 +488,25 @@ script 33 mmbn4 {
 		mugshot = OldManAlt
 	msgOpen
 	"""
-	Madame Jen said she
-	saw a large shadow
+	A Madame Jen disse
+	que viu uma enorme
+	sombra e uma pequena
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and a small light
-	approaching the
+	luz se aproximando
+	da grande luz que
+	trará a
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	large light that
-	will wreak calamity⋯
-	What does it mean?!
+	calamidade...
+	Mas o que isso quer
+	dizer?!
 	"""
 	keyWait
 		any = false
@@ -505,21 +517,25 @@ script 34 mmbn4 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	A large shadow
-	approaches the large
-	light⋯Then a small
+	Uma grande sombra se
+	aproxima da grande
+	luz...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	light trails behind⋯
-	What happens after
+	E uma pequena luz
+	segue logo atrás...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"that is not clear⋯"
+	"""
+	O que acontece
+	depois disso,
+	não está claro...
+	"""
 	keyWait
 		any = false
 	end
@@ -533,9 +549,9 @@ script 140 mmbn4 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Just looking at this
-	Buddha heals my
-	soul⋯
+	Simplesmente olhar
+	para esse Buda cura
+	a minha alma...
 	"""
 	keyWait
 		any = false
@@ -550,43 +566,49 @@ script 141 mmbn4 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Why the glum look?
-	If you're feeling
+	Por que a cara de
+	enterro? Se está
+	para baixo,sugiro
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	down,you should jack
-	into this Buddha. It
-	will heal your soul!
+	se conectar neste
+	Buda. Irá curar a
+	sua alma!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You need permission
-	from Madame Jane to
+	Mas é preciso
+	permissão da Madame
+	Jen para se
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	jack in,though. She
-	is in the back of
+	conectar. Ela está
+	nos fundos de uma
+	ruína que pode ser
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	a ruin that can be
-	accessed from the
-	surface. Be sure to
+	acessada da
+	superfície.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"show her respect!"
+	"""
+	Não esqueça de
+	mostrar respeito
+	a ela!
+	"""
 	keyWait
 		any = false
 	flagSet
@@ -598,15 +620,15 @@ script 142 mmbn4 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Alpha waves are
-	being emitted.
+	Ondas alfa estão
+	sendo emitidas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just standing close
-	heals your soul.
+	Só de ficar perto,
+	a sua alma é curada.
 	"""
 	keyWait
 		any = false
@@ -622,7 +644,7 @@ script 220 mmbn4 {
 	msgOpen
 	"""
 	Posso fornecer um
-	dos meus SubChips...
+	ou dois SubChips...
 	"""
 	keyWait
 		any = false
@@ -638,7 +660,7 @@ script 220 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Look  "
+	"Olhar  "
 	option
 		brackets = false
 		left = 0
@@ -647,7 +669,7 @@ script 220 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Don't look"
+	"Não olhar"
 	select
 		default = 0
 		noDelay = false

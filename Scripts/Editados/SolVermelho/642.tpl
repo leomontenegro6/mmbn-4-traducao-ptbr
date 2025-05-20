@@ -5,17 +5,17 @@ script 0 mmbn4 {
 		mugshot = Riki
 	msgOpen
 	"""
-	Boss!
-	Don't make me keep
-	repeating myself!
+	Chefe!
+	Eu não vou falar de
+	novo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's no way I'm
-	gonna follow in your
-	footsteps!
+	Eu não vou seguir os
+	seus passos de jeito
+	nenhum!
 	"""
 	keyWait
 		any = false
@@ -28,53 +28,54 @@ script 1 mmbn4 {
 		mugshot = OldWomanAlt
 	msgOpen
 	"""
-	Humph! Isn't it time
-	you stopped acting
-	like a spoiled kid?!
+	Humpf! Já não é hora
+	de parar de ser um
+	moleque mimado?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your face is perfect
-	for a gang boss!
+	O seu rosto é
+	perfeito pra um
+	chefe de gangue!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	With a face like
-	that,you were meant
-	to take over!
+	Com um rosto desses,
+	você NASCEU para
+	assumir!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Taking over the
-	Mafia after I'm
-	gone's your destiny!
+	Comandar a Máfia
+	depois que eu morrer
+	é o seu destino!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And you think you
-	can win this fancy
-	tournament,take
+	E você acha que pode
+	vencer este torneio
+	chique,pegar o
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	your winnings,quit
-	the organization,
-	and open a bakery?!
+	prêmio,sair da
+	organização e abrir
+	uma padaria?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Don't make me laugh!"
+	"Não me faça rir!"
 	keyWait
 		any = false
 	end
@@ -83,7 +84,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	msgOpen
-	"Oof!"
+	"Oumf!"
 	keyWait
 		any = false
 	end
@@ -92,14 +93,14 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Riki
 	msgOpen
-	"What's wrong?!"
+	"O que foi?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey!
+	Ei!
 	Crusher!!!
-	Answer me!
+	Responde!
 	"""
 	keyWait
 		any = false
@@ -114,17 +115,17 @@ script 4 mmbn4 {
 		mugshot = OldWomanAlt
 	msgOpen
 	"""
-	I'll just hang onto
-	your Navi until the
-	tournament's over.
+	Vou ficar com o seu
+	Navi até o torneio
+	terminar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Forget about the
-	stinkin' bakery and
-	be the next boss!
+	Esqueça essa padaria
+	imbecil e seja o
+	próximo chefe!
 	"""
 	keyWait
 		any = false
@@ -135,9 +136,9 @@ script 5 mmbn4 {
 		mugshot = Riki
 	msgOpen
 	"""
-	Wait,boss!
-	I can't compete
-	without Crusher!
+	Espera,chefe!
+	Eu não posso compe-
+	tir sem o Crusher!
 	"""
 	keyWait
 		any = false
@@ -148,8 +149,8 @@ script 6 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Umm⋯
-	Are you okay?
+	Hum...
+	Você tá legal?
 	"""
 	keyWait
 		any = false
@@ -173,8 +174,8 @@ script 7 mmbn4 {
 	mugshotAnimation
 		animation = 2
 	"""
-	Noooo!!!
-	What should I do?!
+	Nãããão!!!
+	O que eu faço?!
 	"""
 	keyWait
 		any = false
@@ -198,32 +199,32 @@ script 9 mmbn4 {
 		mugshot = Riki
 	msgOpen
 	"""
-	I⋯
-	I can't do anything
-	without Crusher!
+	Eu...
+	Eu não posso fazer
+	nada sem o Crusher!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Err⋯
-	Don't look at me
-	like that!
+	Err...
+	Não olha pra mim
+	desse jeito!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Are you mad at me
-	for acting like a
-	hot shot just now?
+	Está zangado porque
+	eu me fiz de bonzão
+	ainda agora?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sorry!
-	Forgive me!
+	Desculpa!
+	Me perdoa!
 	"""
 	keyWait
 		any = false
@@ -240,9 +241,9 @@ script 10 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Huh. You seem just
-	the opposite from
-	how you were before.
+	Hm. Você está o
+	completo oposto de
+	como tava antes.
 	"""
 	keyWait
 		any = false
@@ -266,24 +267,25 @@ script 12 mmbn4 {
 		mugshot = Riki
 	msgOpen
 	"""
-	I have a pretty
-	scary face,
+	Eu tenho um rosto
+	bem medonho,então,
+	desde que eu era
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so ever since I was
-	a kid,bad guys have
-	made me their boss.
+	criança,os bandidos
+	ficam me escolhendo
+	como chefe deles.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Before I knew it,I
-	was in the Mafia!
-	What a scary group.
+	Antes que eu me des-
+	se conta,eu tava na
+	Máfia! Os bandidões!
 	"""
 	keyWait
 		any = false
@@ -296,9 +298,9 @@ script 13 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Now it looks like
-	I'm gonna be the
-	boss again.
+	E parece que você
+	vai ser eleito
+	chefe de novo,né?
 	"""
 	keyWait
 		any = false
@@ -310,30 +312,30 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = Riki
 	msgOpen
-	"You know⋯"
+	"Sabe..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nothing scares me
-	when I'm with
-	Crusher.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	But⋯I want to
-	leave the Mafia
-	as soon as I can!
+	Quando eu tô com
+	o Crusher,nada me
+	dá medo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wanna quit it so I
-	can fulfill my dream
-	of running a bakery!
+	Mas... eu quero
+	sair da Máfia o
+	quanto antes!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Sair e realizar o
+	meu sonho de abrir
+	uma padaria!
 	"""
 	keyWait
 		any = false
@@ -345,7 +347,7 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hmm⋯"
+	"Hmm..."
 	keyWait
 		any = false
 	clearMsg
@@ -357,9 +359,9 @@ script 16 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Now that I know the
-	story,I kinda feel
-	sorry for him.
+	Agora que eu aprendi
+	a história,tô com
+	pena dele.
 	"""
 	keyWait
 		any = false
@@ -372,9 +374,8 @@ script 17 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I wanna help,but
-	it's the Mafia
-	we're talking about.
+	Eu quero ajudar,
+	mas... é a Máfia!
 	"""
 	keyWait
 		any = false
@@ -384,14 +385,14 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = Riki
 	msgOpen
-	"It's okay."
+	"Tá tudo bem."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's my destiny,to
-	be around bad people
-	my whole life.
+	É o meu destino,fi-
+	car cercado de gente
+	má por toda a vida.
 	"""
 	keyWait
 		any = false
@@ -404,15 +405,16 @@ script 19 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Don't say things
-	like that!
+	Não fala essas
+	coisas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,can we help
-	him somehow?
+	MegaMan,tem algum
+	jeito da gente
+	ajudar ele?
 	"""
 	keyWait
 		any = false
@@ -425,30 +427,32 @@ script 20 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	No,we can't go up
-	against those guys.
+	Não,a gente não
+	pode contra esse
+	povo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I'd like to do
-	whatever I can.
+	Mas,sim,também quero
+	ajudar como for
+	possível.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's go see that
-	old lady,the boss of
-	the Mafia.
+	Vamos lá falar com
+	aquela senhora,a
+	chefona da Máfia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	She should still
-	be close.
+	Ela ainda deve estar
+	por aqui.
 	"""
 	keyWait
 		any = false

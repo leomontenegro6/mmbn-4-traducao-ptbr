@@ -5,16 +5,17 @@ script 0 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	We can't lose! This
-	must be some
-	nightmare!
+	É impossível a gente
+	perder! Só pode ser
+	pesadelo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yeah,a nightmare!
-	Haha,hahahahaha!
+	É... é,um pesadelo!
+	Ha ha...
+	Ha ha ha ha ha!
 	"""
 	keyWait
 		any = false
@@ -26,20 +27,20 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
 	"""
-	Oh no,my Navi's
-	broken!
+	Ah,não,o meu Navi
+	surtou!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Dang it!"
+	"Droga!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	In that case,I'll
-	smack you around in
-	a NetBattle instead!
+	O jeito vai ser dar
+	uma surra em vocês
+	numa NetLuta!
 	"""
 	keyWait
 		any = false
@@ -50,7 +51,7 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"I'm game!"
+	"Perfeito!"
 	keyWait
 		any = false
 	clearMsg
@@ -60,11 +61,11 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
-	"I'll see you there!"
+	"Vejo vocês lá!"
 	keyWait
 		any = false
 	clearMsg
-	"Jack out!"
+	"Desconectar!"
 	keyWait
 		any = false
 	clearMsg
@@ -75,8 +76,9 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	I haven't lost yet!
-	Haha,hahahahaha!
+	Eu ainda não perdi!
+	Ha ha...
+	Ha ha ha ha ha!
 	"""
 	keyWait
 		any = false
@@ -87,7 +89,7 @@ script 5 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go too,
+	Vamos também,
 	MegaMan!
 	"""
 	keyWait
@@ -98,7 +100,7 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah!"
+	"É!"
 	keyWait
 		any = false
 	end
@@ -107,21 +109,22 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Hey you,stand up!"
+	"Aí,rapaz! Levanta!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's more to
-	FootBomb than you
-	think!
+	O FuteBomba não é
+	pra quem não tem
+	determinação!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What is it?
-	You're not done?!
+	Que foi?
+	Você ainda tem gás
+	pra jogar,não tem?!
 	"""
 	keyWait
 		any = false
@@ -141,7 +144,7 @@ script 8 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Let's go  "
+	"Vamos  "
 	option
 		brackets = false
 		left = 0
@@ -150,7 +153,7 @@ script 8 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Wait!"
+	"Espera!"
 	select
 		default = 0
 		noDelay = false
@@ -166,16 +169,16 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	Heh,NetBattlers are
-	no big deal!!!
+	He,NetLutadores não
+	são de nada!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Come back when
-	you're ready to try
-	again!
+	Volta aqui quando
+	estiver pronto pra
+	jogar de novo!
 	"""
 	keyWait
 		any = false
@@ -186,15 +189,16 @@ script 9 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Heh,you don't know
-	when to give up.
+	He,você não sabe
+	mesmo quando
+	desistir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll smash you until
-	you've had enough!
+	Eu vou te detonar
+	até você cansar!
 	"""
 	keyWait
 		any = false

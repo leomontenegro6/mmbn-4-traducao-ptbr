@@ -5,8 +5,8 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I'm here about the
-	free PET service.
+	Eu vim pelo serviço
+	gratuito de PET.
 	"""
 	keyWait
 		any = false
@@ -18,8 +18,8 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Terry
 	"""
-	Great. May I see
-	your PET?
+	Show de bola. Posso
+	ver o seu PET?
 	"""
 	keyWait
 		any = false
@@ -30,13 +30,13 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Sure,here it is."
+	"Claro,toma aqui."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,chill out
-	for a bit.
+	MegaMan,descansa
+	um pouquinho.
 	"""
 	keyWait
 		any = false
@@ -47,9 +47,8 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotHide
 	"""
-	Lan handed
-	over his
-	PET!!!
+	Lan entregou
+	seu PET!!!
 	"""
 	keyWait
 		any = false
@@ -60,7 +59,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = Terry
-	"⋯MegaMan."
+	"... MegaMan."
 	keyWait
 		any = false
 	clearMsg
@@ -71,8 +70,8 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Huh? What
-	about MegaMan?
+	Hm? O que tem o
+	MegaMan?
 	"""
 	keyWait
 		any = false
@@ -84,29 +83,31 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Terry
 	"""
-	Oh n-nothing.
-	Nothing at all.
+	Ah,n-nada,não.
+	Nada mesmo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	W-well,lemme take
-	a look inside.
+	E-enfim,deixa eu dar
+	uma olhada nele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Since PETs are elec-
-	tronic devices,
+	Como PETs são
+	dispositivos
+	eletrônicos,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	they should be serv-
-	iced now and again.
+	eles precisam de
+	manutenção de vez
+	em quando.
 	"""
 	keyWait
 		any = false
@@ -119,19 +120,19 @@ script 7 mmbn4 {
 	soundPlay
 		track = 211
 	soundDisableTextSFX
-	"Click-click."
+	"Clic... Clic..."
 	wait
 		frames = 19
 	"\n"
 	soundPlay
 		track = 212
-	"Clank-clank."
+	"Clanc... Clanc..."
 	wait
 		frames = 13
 	"\n"
 	soundPlay
 		track = 213
-	"Clunk!"
+	"Plenc!"
 	wait
 		frames = 8
 	soundEnableTextSFX
@@ -145,16 +146,17 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Terry
 	"""
-	It's well used and
-	kinda banged up,
+	Tava bem gasto
+	depois de tanto uso,
+	mas,agora,tá bem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but it's OK now.
-	Good thing I fixed
-	it before the match.
+	Ainda bem que eu
+	consertei ele
+	antes da luta.
 	"""
 	keyWait
 		any = false
@@ -166,8 +168,9 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Hm? How'd you know I
-	was in a match?
+	Hm? Como você
+	sabia que eu ia
+	lutar?
 	"""
 	keyWait
 		any = false
@@ -178,33 +181,34 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = Terry
-	"Err⋯You know⋯"
+	"Err... Sabe..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Our latest offer
-	was for tournament
-	entrants⋯
+	A nossa oferta era
+	pra lutadores do
+	torneio,então...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Oh yeah and⋯"
+	"É,enfim..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I also installed
-	a great folder.
-	Please use it.
+	Eu também instalei
+	uma pasta irada.
+	Experimente ela.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I-I'm quite busy,so
-	please excuse me!
+	O-olha,eu tô super
+	ocupado,então,me dá
+	licença!
 	"""
 	keyWait
 		any = false
@@ -215,8 +219,9 @@ script 11 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Strange guy. Hm,he
-	dropped something.
+	Carinha esquisito.
+	Opa,ele deixou cair
+	alguma coisa.
 	"""
 	keyWait
 		any = false
@@ -248,21 +253,22 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"A piece of paper⋯"
+	"Um pedaço de\npapel..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looks like some
-	strange code. Can't
-	figure it out.
+	Parece ser um tipo
+	de código. Não
+	consigo decifrar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh yeah,hey,MegaMan,
-	how you feeling?!
+	Ah,é! MegaMan,
+	como você tá se
+	sentindo?!
 	"""
 	keyWait
 		any = false
@@ -272,11 +278,11 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"About the same⋯"
+	"Igual..."
 	keyWait
 		any = false
 	clearMsg
-	"Wait! Oh no!!"
+	"Espera! Ah,não!!"
 	keyWait
 		any = false
 	clearMsg
@@ -286,7 +292,7 @@ script 14 mmbn4 {
 script 15 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"What's wrong?!"
+	"O que foi?!"
 	keyWait
 		any = false
 	clearMsg
@@ -297,15 +303,17 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	My chip folder's
-	been overwritten!
+	A minha pasta de
+	chips principal
+	foi sobrescrita!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But my other folders
-	seem to be fine!!
+	Mas as minhas
+	outras pastas
+	parecem bem...
 	"""
 	keyWait
 		any = false
@@ -316,20 +324,21 @@ script 16 mmbn4 {
 script 17 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"What?!"
+	"O quê?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯You're right!! And
-	it's completely
+	... É verdade!
+	Ela tá 100%
+	bloqueada!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	locked! Can't you
-	do something?!
+	Não dá pra você
+	fazer alguma coisa?!
 	"""
 	keyWait
 		any = false
@@ -341,16 +350,17 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Nope. That guy in-
-	stalled some kinda
-	strange device.
+	Não. Aquele cara
+	instalou alguma
+	coisa estranha.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We gotta get the
-	PET fixed somewhere⋯
+	A gente tem que
+	levar o PET pra ser
+	consertado...
 	"""
 	keyWait
 		any = false
@@ -362,24 +372,24 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Yeah,we can't enter
-	the tournament with
-	locked chip folder.
+	É,não dá pra entrar-
+	mos no torneio com
+	uma pasta bloqueada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That'd be insane!
-	Let's have someone
-	else check the PET.
+	Seria loucura! Vamos
+	dar o PET pra alguém
+	ver.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯Who was that guy
-	anyway?!
+	... Quem era aquele
+	cara,afinal?!
 	"""
 	keyWait
 		any = false

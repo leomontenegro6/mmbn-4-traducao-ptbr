@@ -65,9 +65,9 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Está escrito: "Área
-	da Shuko. Pergunte
-	antes de entrar."
+	"Área da Shuko.
+	Peça permissão
+	para entrar."
 	"""
 	keyWait
 		any = false
@@ -186,9 +186,9 @@ script 9 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I got the shivers
-	just then. Come on!
-	Just ignore it!
+	Acabei de sentir um
+	arrepio... E-Er,
+	enfim,ignorar!
 	"""
 	keyWait
 		any = false
@@ -241,24 +241,23 @@ script 10 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I didn't see a
-	thing!
+	Eu não vi nada!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've never seen any
-	Ghost-Navi! No way!
-	Not me!
+	Nunca vi nenhum Navi
+	fantasma! Não
+	senhor! Eu,não!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Right! Back to work!
-	Ahem!
-	Ahem! A-Hem!
+	Enfim! De volta
+	ao trabalho!
+	Cof! COF!
 	"""
 	keyWait
 		any = false

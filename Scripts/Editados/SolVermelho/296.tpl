@@ -16,98 +16,100 @@ script 0 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	ARE YOU LOOKING FOR
-	A BAT-LIKE NAVI⋯?
+	ESTÁ PROCURANDO POR
+	UM NAVI QUE PARECE
+	UM MORCEGO...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HE IS IN THE AREA
-	THAT LIES BEYOND
-	THAT DOOR.
+	ELE ESTÁ NA ÁREA
+	QUE FICA ALÉM
+	DESTA PORTA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I AM THE PROGRAM
-	THAT OPERATES THE
-	DOOR,BUT⋯
+	EU SOU O PROGRAMA
+	QUE OPERA A PORTA,
+	MAS...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THREE "CYBER BATS"
-	THAT ARE FLYING
-	AROUND THE NET
+	HÁ TRÊS "CYBER
+	MORCEGOS" VOANDO
+	PELA REDE
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HAVE DISABLED THE
-	DOOR!
+	QUE DESATIVARAM
+	A PORTA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF YOU CAN CATCH
-	ALL OF THE "CYBER
-	BATS",THOUGH⋯
+	MAS SE CONSEGUIR
+	PEGAR TODOS OS
+	"CYBER MORCEGOS"...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE DOOR WILL
-	START WORKING AGAIN.
+	A PORTA VOLTARÁ
+	A FUNCIONAR.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"CYBER BATS" ARE
-	INVISIBLE,BUT IF
+	"CYBER MORCEGOS"
+	SÃO INVISÍVEIS,
+	MAS HÁ UM SISTEMA
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THERE IS A SONAR
-	SYSTEM IN THE MIDDLE
-	OF THIS AREA.
+	SONAR NO CENTRO
+	DESTA ÁREA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TURN IT ON TO
-	MAKE THE BATS
-	TEMPORARILY VISIBLE.
+	LIGUE-O E OS MORCE-
+	GOS FICARÃO VISÍVEIS
+	TEMPORARIAMENTE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF YOU WANT TO
-	GO BEYOND HERE,
+	SE QUISER PASSAR
+	POR ESTA PORTA,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU HAVE TO CATCH
-	THE "CYBER BATS"!
+	TERÁ QUE PEGAR OS
+	"CYBER MORCEGOS"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HERE'S THE DATA FOR
-	THE SONAR SYSTEM.
+	AQUI ESTÃO OS DADOS
+	PARA O SISTEMA
+	SONAR.
 	"""
 	keyWait
 		any = false
@@ -134,14 +136,14 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	BY THE WAY,THE SONAR
-	ONLY ACTIVATES FOR
-	10-SECOND PERIODS.
+	POR SINAL,O SONAR SÓ
+	SE ATIVA POR PERÍO-
+	DOS DE 10 SEGUNDOS.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Boa sorte!"
+	"BOA SORTE!"
 	keyWait
 		any = false
 	end
@@ -173,24 +175,24 @@ script 1 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WOW!!
-	YOU CAUGHT ALL
-	THE "CYBER BATS"!
+	NOSSA!!
+	VOCÊ PEGOU TODOS OS
+	"CYBER MORCEGOS"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THEY WERE REALLY
-	ANNOYING. ANYWAY,
-	SHOW ME THE DATA.
+	ERAM TÃO IRRITANTES,
+	NÉ? ENFIM,MOSTRE-ME
+	OS DADOS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	MegaMan gave:
+	MegaMan deu:
 	"
 	"""
 	printItem
@@ -205,24 +207,24 @@ script 1 mmbn4 {
 		amount = 3
 	mugshotShow
 		mugshot = MrProgGreen
-	"TAKE THAT! AND THAT!"
+	"TOMA ISSO!\nE MAIS ISSO!"
 	keyWait
 		any = false
 	clearMsg
-	"TAKE THAT! AND THAT!"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I GOT RID OF
-	THE "CYBER BATS"!
-	"""
+	"E ISSO TAMBÉM!\nE ISSO AQUI!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NOW I CAN OPEN
-	THE DOOR FOR YOU!
+	PRONTO,ME LIVREI DOS
+	"CYBER MORCEGOS"!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	AGORA POSSO ABRIR A
+	PORTA PARA VOCÊ!
 	
 	"""
 	keyWait
@@ -237,8 +239,8 @@ script 2 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THERE ARE 3
-	"CYBER BATS" LEFT!
+	AINDA RESTAM 3
+	"CYBER MORCEGOS"!
 	"""
 	keyWait
 		any = false
@@ -249,8 +251,8 @@ script 3 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THERE ARE 2
-	"CYBER BATS" LEFT!
+	AINDA RESTAM 3
+	"CYBER MORCEGOS"!
 	"""
 	keyWait
 		any = false
@@ -261,8 +263,8 @@ script 4 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THERE ARE 1
-	"CYBER BAT" LEFT!
+	AINDA RESTA 1
+	"CYBER MORCEGO"!
 	"""
 	keyWait
 		any = false
@@ -273,9 +275,9 @@ script 5 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	NOW I CAN OPEN
-	THE DOOR FOR YOU!
-	TRY THE DOOR NOW.
+	AGORA EU POSSO ABRIR
+	A PORTA PARA VOCÊ!
+	TENTE ABRI-LA.
 	"""
 	keyWait
 		any = false
@@ -286,13 +288,14 @@ script 6 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THAT BAT-LIKE NAVI
-	IS IN THE AREA
+	AQUELE NAVI QUE
+	PARECE UM MORCEGO
+	ESTÁ NA ÁREA
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"BEYOND THE DOOR."
+	"ENTRANDO AQUI."
 	keyWait
 		any = false
 	end
@@ -300,7 +303,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	msgOpen
 	"""
-	MegaMan caught a:
+	MegaMan pegou um
 	"
 	"""
 	printItem
@@ -319,7 +322,7 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	msgOpen
 	"""
-	MegaMan caught a:
+	MegaMan pegou um
 	"
 	"""
 	printItem
@@ -338,7 +341,7 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	msgOpen
 	"""
-	MegaMan caught a:
+	MegaMan pegou um
 	"
 	"""
 	printItem
@@ -359,9 +362,9 @@ script 10 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'D LIKE TO JUST
-	PUT THIS INCIDENT
-	BEHIND ME NOW⋯
+	EU QUERO SÓ ESQUECER
+	O INCIDENTE DE UMA
+	VEZ...
 	"""
 	keyWait
 		any = false
@@ -372,9 +375,9 @@ script 130 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I'm still cleaning
-	up from yesterday's
-	incident. Whew!
+	Ainda estou ajeitan-
+	tando os estragos
+	de ontem. Ufa!
 	"""
 	keyWait
 		any = false
@@ -385,9 +388,9 @@ script 131 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	So many Navis lost
-	their lives here⋯
-	Sniff⋯Sob! Sob!
+	Tantos Navis perde-
+	ram as vidas aqui...
+	Sniff...! Chuif!
 	"""
 	keyWait
 		any = false
@@ -408,16 +411,16 @@ script 160 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	You're handing out
-	ad flyers? Thanks
-	for coming out here!
+	Está distribuindo
+	panfletos? Obrigado
+	por vir até aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,I guess I'll
-	take one,then!
+	Bem,acho que vou
+	levar um,então!
 	"""
 	keyWait
 		any = false
@@ -440,9 +443,9 @@ script 160 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	So you're in ACDC?
-	Are you competing
-	with ElecTown?
+	Então,é uma loja de
+	ACDC? Concorrente
+	da EletroVila?
 	"""
 	keyWait
 		any = false
@@ -455,9 +458,9 @@ script 161 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Thanks to the
-	incident,business
-	is bad everywhere!
+	Graças ao incidente,
+	os negócios tão
+	ruins em todo canto!
 	"""
 	keyWait
 		any = false
@@ -468,9 +471,9 @@ script 162 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Wow! There are a
-	lot of rare items
-	for a small shop!
+	Puxa! Tem uns itens
+	bem raros,pra uma
+	loja pequena!
 	"""
 	keyWait
 		any = false
@@ -491,9 +494,9 @@ script 163 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	You're handing out
-	ad flyers? Thanks,
-	I'll take one!
+	Está distribuindo
+	panfletos,é?
+	Aceito um!
 	"""
 	keyWait
 		any = false
@@ -515,14 +518,14 @@ script 163 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = PurpleNavi
-	"A chip shop,huh?"
+	"Uma loja de chips,é?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A chip'd be a good
-	gift for my sick
-	friend.
+	Um chip daria um
+	bom presente pro meu
+	amigo doente.
 	"""
 	keyWait
 		any = false
@@ -535,9 +538,9 @@ script 164 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	He got hurt in the
-	big attack.
-	It was around here.
+	Ele se machucou
+	naquele ataque.
+	Foi bem por aqui.
 	"""
 	keyWait
 		any = false
@@ -548,8 +551,8 @@ script 165 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Hmm! Looks like
-	a cool shop!
+	Hmm! A loja parece
+	da hora!
 	"""
 	keyWait
 		any = false

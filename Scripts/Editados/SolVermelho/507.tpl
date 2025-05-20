@@ -16,9 +16,9 @@ script 1 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	No need to be so
-	startled⋯
-	Tee hee!
+	Não há por que ficar
+	tão espantado...
+	Hu hu hu!
 	"""
 	keyWait
 		any = false

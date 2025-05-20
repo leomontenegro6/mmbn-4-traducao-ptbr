@@ -7,9 +7,9 @@ script 0 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	How can I help ya?!
-	(R Button:Describe)
-	(B Button:Don't buy)
+	Como posso ajudar?!
+	(R: Descrição)
+	(B: Sair)
 	"""
 	waitHold
 }
@@ -20,9 +20,9 @@ script 1 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Which one?
-	(R Button:Describe)
-	(B Button:Don't buy)
+	Qual?
+	(R: Descrição)
+	(B: Sair)
 	"""
 	waitHold
 }
@@ -72,7 +72,7 @@ script 3 mmbn4 {
 		mugshot = HeelNaviPurple
 	textSpeed
 		delay = 0
-	"Come again!"
+	"Volte sempre!"
 	waitHold
 }
 script 4 mmbn4 {
@@ -81,7 +81,7 @@ script 4 mmbn4 {
 		mugshot = HeelNaviPurple
 	textSpeed
 		delay = 0
-	"You want \""
+	"Quer \""
 	printItem
 		buffer = 1
 		item = 0
@@ -126,7 +126,7 @@ script 5 mmbn4 {
 		mugshot = HeelNaviPurple
 	textSpeed
 		delay = 0
-	"You want \""
+	"Quer \""
 	printChip
 		buffer = 1
 		chip = 0
@@ -175,7 +175,7 @@ script 6 mmbn4 {
 		mugshot = MegaMan
 	textSpeed
 		delay = 0
-	"I bought \""
+	"Comprei \""
 	printItem
 		buffer = 1
 		item = 0
@@ -190,7 +190,7 @@ script 7 mmbn4 {
 		mugshot = MegaMan
 	textSpeed
 		delay = 0
-	"I bought \""
+	"Comprei \""
 	printChip
 		buffer = 1
 		chip = 0
@@ -209,7 +209,7 @@ script 8 mmbn4 {
 		mugshot = MegaMan
 	textSpeed
 		delay = 0
-	"Not enough Zennys⋯"
+	"Não tenho Zennys o\nbastante..."
 	keyWait
 		any = false
 	waitHold
@@ -221,8 +221,8 @@ script 9 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	I can't carry
-	any more.
+	Não posso carregar
+	mais.
 	"""
 	keyWait
 		any = false
@@ -235,8 +235,9 @@ script 10 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Sorry kid,nothing
-	left to sell now!
+	Foi mal,garoto.
+	Acabaram as minhas
+	mercadorias!
 	"""
 	keyWait
 		any = false
@@ -248,7 +249,7 @@ script 11 mmbn4 {
 		mugshot = HeelNaviPurple
 	textSpeed
 		delay = 0
-	"You want \""
+	"Quer \""
 	printNaviCustProgram
 		buffer = 1
 		program = 0
@@ -293,7 +294,7 @@ script 12 mmbn4 {
 		mugshot = MegaMan
 	textSpeed
 		delay = 0
-	"I bought \""
+	"Comprei \""
 	printNaviCustProgram
 		buffer = 1
 		program = 0

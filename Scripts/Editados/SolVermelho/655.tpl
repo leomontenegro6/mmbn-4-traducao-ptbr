@@ -4,14 +4,14 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Roll
 	msgOpen
-	"Wow,Mega!"
+	"Uau,Mega!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But don't expect the
-	real match to go
-	like this!
+	Mas não vá achando
+	que a nossa luta vai
+	acabar assim!
 	"""
 	keyWait
 		any = false
@@ -23,14 +23,14 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"*pant pant*"
+	"Arf... Uff..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	She's so fast!
-	I'll be at her
-	mercy.
+	Ela é rápida!
+	Vai me botar pra
+	sambar...
 	"""
 	keyWait
 		any = false
@@ -43,9 +43,9 @@ script 2 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	She may be fast,but
-	it takes more than
-	speed to win.
+	Talvez,mas é preciso
+	mais que só veloci-
+	dade pra vencer.
 	"""
 	keyWait
 		any = false
@@ -57,20 +57,20 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Roll
 	msgOpen
-	"Heh,I wonder."
+	"He,veremos."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Anyway,it's time to
-	go to the castle.
+	Enfim,já tá na hora
+	de ir pro castelo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I look forward to
-	the battle!
+	Tô ansiosa pela
+	luta!
 	"""
 	keyWait
 		any = false
@@ -81,16 +81,16 @@ script 4 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,there's
-	something different
-	about Roll today.
+	Lan,tem alguma
+	coisa diferente na
+	Roll hoje.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's head to the
-	castle,too!
+	Vamos lá pro
+	castelo,também!
 	"""
 	keyWait
 		any = false

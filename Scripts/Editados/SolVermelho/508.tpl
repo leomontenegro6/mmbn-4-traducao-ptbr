@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Are you OK?"
+	"Você tá bem?"
 	keyWait
 		any = false
 	clearMsg
@@ -16,25 +16,24 @@ script 1 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	No viruses has ever
-	gotten to the top
-	of the raft before⋯
+	Vírus nunca vieram
+	pra cima da jangada
+	antes...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	B-But we chased them
-	away,so everything
-	should be fine now!
+	M-mas espantamos
+	eles,então tá tudo
+	bem agora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Right! Let's get
-	settled and start on
-	our way!
+	É! Vamos voltar ao
+	nosso trajeto!
 	"""
 	keyWait
 		any = false
@@ -50,7 +49,7 @@ script 2 mmbn4 {
 	soundDisableTextSFX
 	soundPlay
 		track = 417
-	"Wooooooaaaa⋯"
+	"Oooohhh..."
 	keyWait
 		any = false
 	clearMsg
@@ -62,7 +61,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"What was that?"
+	"O que foi isso?"
 	keyWait
 		any = false
 	clearMsg
@@ -75,7 +74,7 @@ script 4 mmbn4 {
 	soundDisableTextSFX
 	soundPlay
 		track = 417
-	"Woooooooaaaa⋯"
+	"Uaaaarghh..."
 	keyWait
 		any = false
 	clearMsg
@@ -88,9 +87,9 @@ script 5 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	It's nothing⋯Don't
-	let it worry you⋯
-	Tee hee!
+	Não é nada... Não
+	precisa se preocu-
+	par... He he!
 	"""
 	keyWait
 		any = false
@@ -103,8 +102,8 @@ script 6 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Huh? Something
-	doesn't seem right⋯
+	Hm? Tem coisa errada
+	aqui...
 	"""
 	keyWait
 		any = false
@@ -116,22 +115,22 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Oh my goodness!"
+	"Meu Deus!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It looks like the
-	"Story" has changed
-	somehow.
+	Parece que a
+	"História" mudou,
+	de algum jeito.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Before conversion,we
-	have to choose the
-	correct storyline⋯
+	Antes da bifurcação,
+	temos que escolher a
+	opção certa...
 	"""
 	keyWait
 		any = false
@@ -143,31 +142,30 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Right!"
+	"Tá!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We have to choose
-	the correct
-	storyline here!
+	Temos que acertar
+	a história aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	Helpless before
-	Dracky's attack,
-	Django eats the
+	Indefeso contra o
+	ataque do Dracky,
+	Django come a
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SOLAR FRUIT "****"
-	in order to gain
-	strength.
+	FRUTA SOLAR "****"
+	para recuperar
+	suas forças.
 	"""
 	keyWait
 		any = false
@@ -186,7 +184,7 @@ script 8 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Apple  "
+	"Maçã  "
 	option
 		brackets = false
 		left = 0
@@ -195,7 +193,7 @@ script 8 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Grape"
+	"Goiaba"
 	select
 		default = 0
 		noDelay = false
@@ -213,7 +211,7 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yes!"
+	"Isso!"
 	keyWait
 		any = false
 	clearMsg
@@ -225,9 +223,9 @@ script 10 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Congratulations⋯
-	At last,the final
-	door⋯
+	Parabéns...
+	Enfim,a porta
+	final...
 	"""
 	keyWait
 		any = false
@@ -240,8 +238,8 @@ script 11 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Rats! I'll get it
-	next time!
+	Droga! Da próxima
+	vez,eu acerto!
 	"""
 	keyWait
 		any = false

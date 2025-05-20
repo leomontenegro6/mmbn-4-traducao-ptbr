@@ -17,9 +17,9 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Chaud,with that
-	door blocking the
-	way,you can't pass!
+	Chaud,não tem como
+	passar por aqui
+	com esta porta!
 	"""
 	keyWait
 		any = false
@@ -27,22 +27,22 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	MegaMan,examine the
-	door. Isn't anything
-	written on it?
+	MegaMan,examine ela.
+	Há alguma coisa
+	escrita nela?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Hold on a minute!"
+	"Só um instante!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯A-ha! It says,
-	"Get hold of
+	... Arrá! Aqui diz:
+	"Traga a
 	 
 	"""
 	printItem
@@ -59,48 +59,49 @@ script 0 mmbn4 {
 		buffer = 0
 		item = 111
 	"""
-	"⋯?
-	Right! That reminds
-	me of something.
+	"...?
+	Certo! Isso me
+	lembrou de algo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a trick they
-	often use. I've
-	cracked it before.
+	É um truque frequen-
+	te deles. Eu já o
+	superei antes.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"If it's the same,"
+	"Se for igual,"
 	keyWait
 		any = false
 	clearMsg
-	"\""
+	"a \""
 	printItem
 		buffer = 0
 		item = 111
 	"""
 	"
-	should be hidden in
-	the area somewhere.
+	deve estar guardada
+	nesta área...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But they'll have
-	hidden it under a
-	floor panel.
+	só que no piso,
+	escondida sob um
+	painel no chão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Normal searching
-	won't turn it up.
+	Você não vai achá-la
+	com uma busca
+	normal.
 	"""
 	keyWait
 		any = false
@@ -108,8 +109,8 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	W-well,how can I
-	find it then⋯?!
+	T-tá,e como eu faço
+	pra achar,então...?
 	"""
 	keyWait
 		any = false
@@ -117,16 +118,16 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	I'll tell you the
-	place. Check it out!
+	Eu vou te dar o
+	local. Vasculhe ele!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If I remember
-	correctly,the key
-	should be there.
+	Se me lembro bem,
+	a chave deve estar
+	lá.
 	"""
 	keyWait
 		any = false
@@ -134,8 +135,9 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Got it.
-	Chaud,back me up!
+	Beleza.
+	Conto com você,
+	Chaud!
 	"""
 	keyWait
 		any = false
@@ -143,20 +145,20 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	There's not much
-	time! Hurry!
+	Não temos muito
+	tempo! Rápido!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\""
+	"A \""
 	printItem
 		buffer = 0
 		item = 111
 	"""
 	"
-	is hidden in the
-	middle of 4 bones!
+	está escondida no
+	meio de 4 ossos!
 	"""
 	keyWait
 		any = false
@@ -164,9 +166,9 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	4 bones⋯
-	Got it! I'll hunt it
-	out!
+	4 ossos...
+	Certo!
+	Eu vou lá conferir!
 	"""
 	keyWait
 		any = false
@@ -177,9 +179,9 @@ script 1 mmbn4 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	What are you doing,
-	MegaMan?! Find the
-	key!
+	O que está fazendo,
+	MegaMan?! Encontre a
+	chave!
 	"""
 	keyWait
 		any = false
@@ -211,14 +213,15 @@ script 2 mmbn4 {
 		mugshot = Chaud
 	"""
 	MegaMan!
-	Hurry ahead!
+	Siga em frente,
+	rápido!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Okay!"
+	"OK!"
 	keyWait
 		any = false
 	end

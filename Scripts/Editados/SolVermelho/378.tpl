@@ -188,7 +188,7 @@ script 129 mmbn4 {
 	msgOpen
 	"""
 	O que tá fazendo aí,
-	bem no meio da nossa
+	bem na hora da nossa
 	luta?!
 	"""
 	keyWait

@@ -5,15 +5,16 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Hm?! No good⋯
-	I can't move.
+	Hm?! Mas o que...?
+	Não consigo me
+	mexer.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I'll never
-	give up!!
+	Mas eu nunca vou
+	desistir!!
 	"""
 	keyWait
 		any = false
@@ -28,26 +29,27 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	mugshotShow
 		mugshot = Duo
-	"Give up,already!!"
+	"Desista logo!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	30 min. to atmo-
-	spheric entry.
+	Só resta cerca de 30
+	minutos para a en-
+	trada na atmosfera.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What's this? Why's
-	the atmosphere
-	vibrating like that?
+	... O quê? Por que
+	a atmosfera está vi-
+	brando dessa forma?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Vibration sensor,on!"
+	"Sensor de vibração,\nligar!"
 	keyWait
 		any = false
 	clearMsg
@@ -61,15 +63,15 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	ME⋯N
-	⋯GA⋯N
+	ME...N
+	...GA...N
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MEGAM⋯!!
-	MEGAMA⋯!!
+	MEGAM...!!
+	MEGAMA...!!
 	MEGAMAN!!
 	"""
 	keyWait
@@ -82,8 +84,8 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Duo
 	"""
-	⋯Human voices?
-	That can't be!
+	... Vozes humanas?
+	Não é possível!
 	"""
 	keyWait
 		any = false
@@ -95,22 +97,23 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	They're rooting
-	for me⋯
+	Eles estão torcendo
+	por mim...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're transmitting
-	their power to me⋯
+	Estão transmitindo
+	suas energias para
+	mim...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 1
-	"⋯⋯⋯\n"
+	".........\n"
 	mugshotAnimation
 		animation = 2
 	"Raaahhhrrr!!"
@@ -123,17 +126,17 @@ script 5 mmbn4 {
 		mugshot = Duo
 	msgOpen
 	"""
-	What's this power
-	welling up within
-	MegaMan?!
+	Mas que energia é
+	essa se reunindo
+	dentro de MegaMan?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They must be awaking
-	some sort of latent
-	power within him!
+	Eles estão desper-
+	tando algum tipo de
+	poder latente nele!
 	"""
 	keyWait
 		any = false
@@ -144,15 +147,15 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"⋯Lan!"
+	"... Lan!"
 	keyWait
 		any = false
 	clearMsg
-	"Lend me the power"
+	"Me empresta a sua\nforça"
 	keyWait
 		any = false
 	clearMsg
-	"to save you all!!"
+	"pra salvar todos\nvocês!!"
 	keyWait
 		any = false
 	clearMsg
@@ -163,8 +166,8 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	MegaMan! You ready?!
-	Full-Synchro!!
+	MegaMan! Tá pronto?!
+	Sincronia Total!!
 	"""
 	keyWait
 		any = false
@@ -188,7 +191,7 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Go for it!!"
+	"Manda ver!!"
 	keyWait
 		any = false
 	end
@@ -197,7 +200,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"We did it⋯"
+	"Conseguimos..."
 	keyWait
 		any = false
 	end
@@ -207,60 +210,63 @@ script 11 mmbn4 {
 		mugshot = Duo
 	msgOpen
 	"""
-	MegaMan⋯
-	Now I have seen
-	what you can do⋯
+	MegaMan...
+	Agora,eu vi do que
+	você é capaz...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your planet barely
-	escaped destruction.
+	O seu planeta
+	escapou por muito
+	pouco da destruição.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I will delay punish-
-	ing you for now.
-	In the meantime,
+	Adiarei a punição
+	sobre vocês por ora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I will slumber as I
-	travel the universe.
+	Enquanto isso,
+	dormirei enquanto
+	viajo pelo universo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Next time I pass by
-	your planet,decades
+	Da próxima vez que
+	eu passar pelo seu
+	planeta,seja daqui
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	or even centuries
-	from now,you will
+	a décadas ou até
+	séculos,você serão,
+	mais uma vez,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	again be judged.
-	Then we'll see if
-	need to be punished.
+	julgados. E então,
+	veremos se merecem
+	a punição.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now,begone,
-	little warrior.
+	Agora,retire-se,
+	pequeno guerreiro.
 	"""
 	keyWait
 		any = false

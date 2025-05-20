@@ -47,7 +47,7 @@ script 2 mmbn4 {
 		jumpIfTrue = 3
 		jumpIfFalse = continue
 	msgOpen
-	"Uma\nCyberFrigideira..."
+	"Uma\nCyberPanela..."
 	keyWait
 		any = false
 	clearMsg
@@ -81,7 +81,7 @@ script 3 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = OfficialNavi
-	"Beleza! Vamos nessa!"
+	"Certo! Vamos lá!"
 	keyWait
 		any = false
 	clearMsg
@@ -97,19 +97,19 @@ script 3 mmbn4 {
 }
 script 4 mmbn4 {
 	msgOpen
-	"Uma\nCyberFrigideira..."
+	"Uma\nCyberPanela..."
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Ingredientes à base
-	de dados saem da
-	máquina de cozinha
+	de dados são trans-
+	feridos daqui para
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"daqui."
+	"a máquina de\ncozinha."
 	keyWait
 		any = false
 	end

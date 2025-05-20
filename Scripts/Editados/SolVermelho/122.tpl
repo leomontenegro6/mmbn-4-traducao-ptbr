@@ -46,7 +46,7 @@ script 2 mmbn4 {
 		jumpIfBlueMoon = 20
 	msgOpen
 	"""
-	Um quadro de uma
+	Um mural de uma
 	mulher em um lindo
 	vestido...
 	"""
@@ -92,9 +92,9 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	msgOpen
 	"""
-	This chair where the
-	contestants can rest
-	is so luxurious.
+	Essas cadeiras para
+	os competidores são
+	tão luxuosas.
 	"""
 	keyWait
 		any = false
@@ -102,7 +102,7 @@ script 4 mmbn4 {
 	"""
 	Olhando bem,há
 	letrinhas miúdas
-	talhadas nela.
+	talhadas nelas.
 	"""
 	keyWait
 		any = false

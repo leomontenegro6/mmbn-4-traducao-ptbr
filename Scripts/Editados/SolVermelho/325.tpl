@@ -11,42 +11,43 @@ script 0 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME TO YAI'S
-	HP!!
+	BEM-VINDO À PÁGINA
+	DA YAI!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THIS PAGE HAS NO
-	LINKS,CURRENTLY.
+	A PÁGINA,POR ORA,NÃO
+	TEM NENHUM LINK.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WOULD YOU LIKE TO
-	EXCHANGE LINKS?
+	GOSTARIA DE TROCAR
+	LINKS?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF WE DO,IT WILL
-	DIRECTLY CONNECT
-	THIS PAGE TO YOURS,
+	ISSO CONECTARÁ ESTA
+	PÁGINA DIRETAMENTE
+	À SUA,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SO YOU CAN JUMP TO
-	HERE FROM YOUR PAGE!
+	AÍ VOCÊ PODERÁ SE
+	TRANSFERIR DAQUI
+	PARA A SUA PÁGINA!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"HOW ABOUT IT?"
+	"QUE TAL?"
 	keyWait
 		any = false
 	clearMsg
@@ -86,8 +87,8 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	IF YOU CHANGE YOUR
-	MIND,LET ME KNOW!
+	SE MUDAR DE IDEIA,
+	É SÓ FALAR!
 	"""
 	keyWait
 		any = false
@@ -98,16 +99,16 @@ script 1 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	REALLY? YOU WANT TO
-	EXCHANGE LINKS?
+	ENTÃO VOCÊ QUER
+	TROCAR LINKS?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	GREAT! TAKE THIS.
-	USE THIS BANNER TO
-	ACCESS THIS PAGE!
+	ÓTIMO! TOME. USE
+	ESTE BANNER PARA
+	ACESSAR ESTA PÁGINA!
 	"""
 	keyWait
 		any = false
@@ -135,9 +136,8 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	OKAY! I'M GOING
-	TO BUILD THE LINK
-	RIGHT NOW⋯
+	CERTO! VOU CRIAR O
+	LINK AGORA MESMO...
 	"""
 	keyWait
 		any = false
@@ -165,16 +165,16 @@ script 2 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	ALL'S QUIET ON
-	THIS HOMEPAGE TODAY!
+	TUDO EM PAZ NESTA
+	PÁGINA HOJE!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	AND Y'KNOW WHY?
-	BECAUSE I'M HERE,
-	THAT'S WHY!
+	E SABE POR QUÊ?
+	PORQUE EU ESTOU
+	AQUI,ORAS!
 	"""
 	keyWait
 		any = false
@@ -205,23 +205,24 @@ script 10 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	I come to this HP
-	a lot⋯
+	Eu venho muito nesta
+	página...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess I've become
-	a regular here⋯
+	Acho que acabei
+	virando "cliente
+	regular"...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm on my way to
-	becoming a cyber
-	celebrity!
+	Próximo passo:
+	virar uma cyber
+	celebridade!
 	"""
 	keyWait
 		any = false
@@ -252,25 +253,25 @@ script 11 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Somebody wrote
-	something about
-	ghosts on that BBS⋯
+	Escreveram uma coisa
+	aí sobre fantasmas
+	no Fórum daqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There aren't really
-	any ghosts in the
-	Net⋯Are there?
+	Não tem mesmo
+	fantasmas na
+	Rede... tem?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd be afraid to go
-	out in the Net
-	alone!
+	Agora eu fiquei com
+	medo de sair na Rede
+	sozinho!
 	"""
 	keyWait
 		any = false
@@ -301,27 +302,27 @@ script 12 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I saw one!
-	I saw one!
+	Eu vi um!
+	Eu vi!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Saw what,you ask?"
+	"\"O quê\",você pergunta?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A ghost,of course!
-	It was so scary!
+	Um fantasma,óbvio!
+	Foi super medonho!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If I were human,
-	"I would have wet my
-	 pants!"
+	Se eu fosse humano,
+	teria "feito pipi nas
+	calças"!
 	"""
 	keyWait
 		any = false
@@ -332,25 +333,25 @@ script 15 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	I heard that a
-	nationwide tourney
-	is coming soon⋯
+	Parece que tem um
+	torneio nacional
+	vindo aí...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	All the boys seem
-	to be excited about
-	it⋯
+	Todos os garotos
+	parecem super
+	animados com isso...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But a cyber
-	celebrity like me
-	just can't care⋯
+	Mas uma cyber cele-
+	bridade como eu não
+	pode ligar pra isso.
 	"""
 	keyWait
 		any = false
@@ -361,9 +362,9 @@ script 16 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Those net ghosts
-	can't get into my
-	HP,can they?
+	Esses fantasmas da
+	rede não entram em
+	páginas,né?
 	"""
 	keyWait
 		any = false
@@ -374,13 +375,14 @@ script 17 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I saw one yesterday,
-	too! A ghost!
+	Eu vi um deles
+	ontem!
+	Um fantasma!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It was horrible!"
+	"Foi um horror!"
 	keyWait
 		any = false
 	end
@@ -390,17 +392,17 @@ script 20 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	I used to think that
-	Net Battles are just
-	things for boys⋯
+	Antes,eu achava que
+	NetLuta era coisa
+	de menino...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But there are a lot
-	of girls involved,
-	too!
+	Mas tem um monte de
+	mulheres envolvidas,
+	também!
 	"""
 	keyWait
 		any = false
@@ -414,15 +416,16 @@ script 21 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	The Eagle Tournament
-	has started!
+	O Torneio Águia
+	começou!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't wait to see
-	all those battles!
+	Mal posso esperar
+	pra ver todas as
+	lutas!
 	"""
 	keyWait
 		any = false
@@ -433,17 +436,16 @@ script 22 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Since all those
-	ghosts started
-	appearing⋯
+	Desde que os
+	fantasmas começaram
+	a aparecer...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've been sticking
-	to walking only in
-	the middle of road!
+	eu só ando bem no
+	meio da estrada!
 	"""
 	keyWait
 		any = false
@@ -454,15 +456,16 @@ script 23 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	The Hawk Tournament
-	has started!
+	O Torneio Falcão
+	começou!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't wait to see
-	all those battles!
+	Mal posso esperar
+	pra ver todas as
+	lutas!
 	"""
 	keyWait
 		any = false
@@ -477,9 +480,8 @@ script 130 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! The Net fire
-	has cut out the
-	link!
+	Lan! O incêndio da
+	Rede rompeu o link!
 	"""
 	keyWait
 		any = false
@@ -490,17 +492,17 @@ script 131 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The fire is
-	preventing the link
-	from being fixed!
+	O incêndio impede
+	o link de ser
+	consertado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looks like it will
-	take some time until
-	it's fixed again⋯
+	Parece que ainda vai
+	levar um tempo pra
+	ele voltar...
 	"""
 	keyWait
 		any = false

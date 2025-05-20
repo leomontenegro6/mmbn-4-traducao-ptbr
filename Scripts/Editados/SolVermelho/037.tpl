@@ -7,9 +7,9 @@ script 0 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	May I help yah?
-	(R Button:Describe)
-	(B Button:Don't buy)
+	Posso ajudar,é?
+	(R: Descrição)
+	(B: Sair)
 	"""
 	waitHold
 }
@@ -20,9 +20,9 @@ script 1 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	What'cha want,huh?
-	(R Button:Describe)
-	(B Button:Don't buy)
+	O que quer,é?
+	(R: Descrição)
+	(B: Sair)
 	"""
 	waitHold
 }
@@ -76,7 +76,7 @@ script 3 mmbn4 {
 		mugshot = Higsby
 	textSpeed
 		delay = 0
-	"Come again,huh!!"
+	"Volte sempre,é!!"
 	waitHold
 }
 script 4 mmbn4 {
@@ -183,7 +183,7 @@ script 6 mmbn4 {
 		mugshot = MegaMan
 	textSpeed
 		delay = 0
-	"I bought \""
+	"Comprei \""
 	printItem
 		buffer = 1
 		item = 0
@@ -202,7 +202,7 @@ script 7 mmbn4 {
 		mugshot = MegaMan
 	textSpeed
 		delay = 0
-	"I bought \""
+	"Comprei \""
 	printChip
 		buffer = 1
 		chip = 0
@@ -225,7 +225,7 @@ script 8 mmbn4 {
 		mugshot = MegaMan
 	textSpeed
 		delay = 0
-	"Not enough Zennys⋯"
+	"Não tenho Zennys o\nbastante..."
 	keyWait
 		any = false
 	waitHold
@@ -241,8 +241,8 @@ script 9 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	I can't carry
-	any more.
+	Não posso carregar
+	mais.
 	"""
 	keyWait
 		any = false
@@ -255,9 +255,9 @@ script 10 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	We're all sold out!
-	Thank yah for yer
-	business,huh!
+	Estamos esgotados!
+	Obrigado pela
+	preferência,é!
 	"""
 	keyWait
 		any = false
@@ -318,7 +318,7 @@ script 12 mmbn4 {
 		mugshot = MegaMan
 	textSpeed
 		delay = 0
-	"I bought \""
+	"Comprei \""
 	printNaviCustProgram
 		buffer = 1
 		program = 0
@@ -403,7 +403,7 @@ script 19 mmbn4 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"You bought \""
+	"Comprou \""
 	printItem
 		buffer = 1
 		item = 0
@@ -416,7 +416,7 @@ script 20 mmbn4 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"You bought \""
+	"Comprou \""
 	printChip
 		buffer = 1
 		chip = 0
@@ -433,7 +433,7 @@ script 21 mmbn4 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"Insufficient Zennys."
+	"Zennys\ninsuficientes."
 	keyWait
 		any = false
 	waitHold
@@ -442,7 +442,7 @@ script 22 mmbn4 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"Can't hold any more."
+	"Impossível portar\nmais."
 	keyWait
 		any = false
 	waitHold
@@ -451,7 +451,7 @@ script 23 mmbn4 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"You bought \""
+	"Comprou \""
 	printNaviCustProgram
 		buffer = 1
 		program = 0

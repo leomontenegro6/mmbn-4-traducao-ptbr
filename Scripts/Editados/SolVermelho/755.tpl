@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Seems those viruses
-	were what messed up
-	the system.
+	É,eram esses vírus
+	mesmo que tavam
+	causando isso.
 	"""
 	keyWait
 		any = false
@@ -19,7 +19,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Quick,MegaMan,use
+	Rápido,MegaMan,usa a
 	"
 	"""
 	printItem
@@ -35,7 +35,7 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Roger!"
+	"Certo!"
 	keyWait
 		any = false
 	end
@@ -43,7 +43,7 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	msgOpen
 	"""
-	MegaMan installed
+	MegaMan instalou
 	"
 	"""
 	printItem
@@ -59,8 +59,8 @@ script 4 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The system's running
-	normally again!!
+	O sistema voltou ao
+	normal!!
 	"""
 	keyWait
 		any = false
@@ -72,20 +72,20 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	OK!
-	Good work,MegaMan!
+	Beleza!
+	Mandou bem,MegaMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"The water's back!"
+	"A água voltou!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And with such force!
-	We better get back
-	to the other side!
+	E voltou com tudo!
+	Melhor voltarmos
+	logo pro outro lado!
 	"""
 	keyWait
 		any = false
@@ -96,7 +96,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Time to jack out!"
+	"Desconectar!"
 	keyWait
 		any = false
 	end

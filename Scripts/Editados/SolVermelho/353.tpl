@@ -5,17 +5,17 @@ script 10 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	NETBATTLE MACHINE
-	IS A BATTLEGROUND
-	FOR NAVIS,SO WE PRO-
+	MÁQUINAS DE NETLUTA
+	SÃO ARENAS DE LUTAS,
+	PARA NAVIS! E NÓS,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	GRAMS NEED TO STAY
-	FIT! I'M RUNNING TO
-	GET IN BETTER SHAPE!
+	PROGS DELAS,PRECISA-
+	MOS ESTAR EM FORMA!
+	DAÍ,ESTOU CORRENDO!
 	"""
 	keyWait
 		any = false
@@ -25,14 +25,13 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"LEFT! RIGHT! LEFT!"
+	"ESQUERDA! DIREITA!\nESQUERDA! DIREITA!\nISSO AÍ!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	RIGHT! ⋯DOES RUNNING
-	EVEN DO ANYTHING FOR
-	PROGRAMS?
+	(CORRER SEQUER TEM
+	EFEITO PARA PROGS?)
 	"""
 	keyWait
 		any = false

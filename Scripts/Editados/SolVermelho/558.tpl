@@ -5,9 +5,9 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	There's a huge mag-
-	netic disturbance!
-	Careful,MegaMan!
+	Tem um distúrbio
+	magnético enorme aí!
+	Cuidado,MegaMan!
 	"""
 	keyWait
 		any = false

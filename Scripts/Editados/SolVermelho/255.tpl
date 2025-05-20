@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	Looks like the
-	stands are totally
-	full already. Darn!
+	Parece que as arqui-
+	bancadas já tão
+	lotadas. Droga!
 	"""
 	keyWait
 		any = false
@@ -18,16 +18,16 @@ script 1 mmbn4 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	I'm not battling,
-	but I'd like to
-	find a good seat!
+	Eu não vou lutar,
+	mas quero achar um
+	lugar bom!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Man,I'm tired of
-	waiting in line!
+	Aah,não aguento mais
+	esperar na fila!
 	"""
 	keyWait
 		any = false
@@ -38,13 +38,13 @@ script 2 mmbn4 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	People don't mind
-	waiting,so long as
+	As pessoas não se
+	importam de esperar,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"it's for fun!"
+	"desde que seja pra\numa coisa legal!"
 	keyWait
 		any = false
 	end
@@ -74,9 +74,9 @@ script 3 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Hey,no pushing!
-	We've all got
-	plenty of time!
+	Ei,não empurre!
+	Ainda falta bastante
+	tempo!
 	"""
 	keyWait
 		any = false
@@ -107,22 +107,25 @@ script 4 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I'm working security
-	for the tournament.
+	Estou trabalhando na
+	segurança do
+	torneio.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I stand here all
-	day long to make
+	Eu fico aqui o dia
+	todo para me
+	certificar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	sure everyone has a
-	fun and safe time.
+	de que todos se
+	divirtam em
+	segurança.
 	"""
 	keyWait
 		any = false
@@ -133,16 +136,16 @@ script 5 mmbn4 {
 		mugshot = HotDogLady
 	msgOpen
 	"""
-	You're a contestant?
-	How about a nice
-	hotdog beforehand?
+	É um competidor?
+	Que tal comer um
+	dogão delicioso?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Can't battle on an
-	empty stomach,now!
+	Não dá pra lutar de
+	estômago vazio!
 	"""
 	keyWait
 		any = false
@@ -168,23 +171,23 @@ script 6 mmbn4 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Can't you just
-	feel the excitement?
-	Being in a crowd
+	Está sentindo essa
+	animação toda?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	like this really
-	gets me pumped up!
+	Ver uma multidão
+	dessas me deixa
+	extasiada!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Anyway,what are
-	we going to see?
+	Enfim,aquela fila é
+	para quê?
 	"""
 	keyWait
 		any = false
@@ -214,14 +217,13 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"Wow,it's crowded."
+	"Nossa,tá tão cheio."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've never seen
-	DenCity this
-	excited before!
+	Nunca vi DenCity tão
+	animada assim!
 	"""
 	keyWait
 		any = false
@@ -252,9 +254,9 @@ script 8 mmbn4 {
 		mugshot = Girl
 	msgOpen
 	"""
-	I'm going to cheer
-	for the coolest Navi
-	that I see today!
+	Eu vou torcer pro
+	Navi mais gato que
+	eu vir hoje!
 	"""
 	keyWait
 		any = false
@@ -265,9 +267,9 @@ script 9 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Well,the crowd's
-	all gone inside⋯
-	Whew! What a job.
+	Pronto,toda aquela
+	multidão já entrou.
+	Eita,trabalho!
 	"""
 	keyWait
 		any = false
@@ -278,16 +280,16 @@ script 10 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Even after the
-	crowd goes in,I
-	can't take a break.
+	Mesmo depois da
+	multidão entrar,meu
+	trabalho não pausa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've got to keep an
-	eye on things.
+	Tenho que ficar de
+	olho nas coisas.
 	"""
 	keyWait
 		any = false
@@ -300,14 +302,14 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = OldWoman
 	msgOpen
-	"The Den Battle?"
+	"A Batalha Den?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My grandkid dragged
-	me here,but I got
-	sucked into it!
+	Eu vim pelo meu
+	neto,mas acabei me
+	animando também!
 	"""
 	keyWait
 		any = false
@@ -318,15 +320,16 @@ script 12 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Looks like it's a
-	sellout crowd today.
+	Parece que o público
+	lotou as
+	arquibancadas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wonder how many
-	people are here?
+	Quantas pessoas será
+	que tem lá?
 	"""
 	keyWait
 		any = false
@@ -336,14 +339,14 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = OldWoman
 	msgOpen
-	"The City Battle?"
+	"A Batalha da Cidade?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My grandkid dragged
-	me here,but I got
-	sucked into it!
+	Eu vim pelo meu
+	neto,mas acabei me
+	animando também!
 	"""
 	keyWait
 		any = false
@@ -354,9 +357,9 @@ script 14 mmbn4 {
 		mugshot = Girl
 	msgOpen
 	"""
-	It's about to begin!
-	I can't wait to see
-	the Navis come out!
+	Está para começar!
+	Tô louca pra ver os
+	Navis aparecendo!
 	"""
 	keyWait
 		any = false
@@ -367,15 +370,15 @@ script 16 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Are you in the
-	tournament today?
+	Você também vai
+	competir no torneio?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This isn't the
-	battlers' entrance.
+	Esta não é a entrada
+	dos lutadores.
 	"""
 	keyWait
 		any = false
@@ -385,22 +388,21 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"Sigh. Once the match"
+	"Ai,ai. Depois que a\nluta começa,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	starts,it gets
-	kind of boring for
-	us security guys!
+	fica meio chato pra
+	gente,da segurança!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And besides,I'm
-	a fan,too. I wish
-	I could go watch!
+	Além disso,eu também
+	sou fã. Queria poder
+	ir assistir!
 	"""
 	keyWait
 		any = false
@@ -411,16 +413,17 @@ script 19 mmbn4 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	I can just feel the
-	passion! What's the
-	tournament about?
+	Estou sentindo forte
+	essa paixão! Esse
+	torneio é de quê?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hmm. Maybe I'll
-	go see for myself!
+	Hmm. Acho que vou
+	ter que conferir eu
+	mesma!
 	"""
 	keyWait
 		any = false
@@ -431,15 +434,17 @@ script 20 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Wow,what battles!
-	That was great!
+	Nossa,que lutas
+	incríveis!
+	Foi demais!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm glad I took the
-	day off to come!
+	Que bom que tirei o
+	dia de folga para
+	vir ver!
 	"""
 	keyWait
 		any = false
@@ -450,16 +455,17 @@ script 21 mmbn4 {
 		mugshot = Girl
 	msgOpen
 	"""
-	The Navis were all
-	so cool in battle!
+	Os Navis tavam todos
+	tão radiantes nas
+	lutas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I couldn't figure
-	out which one to
-	cheer for!
+	Não consigo decidir
+	por qual deles
+	torcer!
 	"""
 	keyWait
 		any = false
@@ -470,16 +476,16 @@ script 24 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	The final battlers,
-	please move along!
+	NetLutadores,
+	circulando!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This entrance is
-	for spectators
-	only!
+	Esta entrada aqui é
+	somente para
+	espectadores!
 	"""
 	keyWait
 		any = false
@@ -490,17 +496,17 @@ script 25 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	This is the big
-	championship! The
-	stadium's packed!
+	A grande final está
+	chegando!
+	O estádio tá lotado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	All I care about
-	is seeing who wins.
-	Can I get in⋯?
+	Eu só queria ver
+	quem vencerá. Será
+	que eu posso entrar?
 	"""
 	keyWait
 		any = false
@@ -511,16 +517,15 @@ script 27 mmbn4 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	It's the big
-	championship! I
+	É o grande campeona-
+	to! Eu vi as lutas
+	anteriores,também.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	watched the previous
-	matches,too. They
-	were pretty good!
+	Foram muito legais!
 	"""
 	keyWait
 		any = false
@@ -530,14 +535,14 @@ script 28 mmbn4 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"I'm so excited!"
+	"Estou tão animado!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The next battle
-	determines who's
-	number one!
+	A próxima luta irá
+	determinar quem é o
+	número um!
 	"""
 	keyWait
 		any = false
@@ -548,23 +553,23 @@ script 29 mmbn4 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Hey,you're
-	MegaMan's operator!
+	Aí,você é o operador
+	do MegaMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've been watching,
-	and now I'm a big
-	fan of MegaMan's!
+	Eu acompanhei as
+	lutas e agora sou
+	mega-fã do MegaMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll be cheering
-	for you both!
+	Estarei torcendo por
+	vocês dois!
 	"""
 	keyWait
 		any = false
@@ -579,8 +584,9 @@ script 30 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! We have to
-	stop the igniter!
+	Lan! A gente tem que
+	impedir aquele
+	incêndio!
 	"""
 	keyWait
 		any = false
@@ -591,8 +597,8 @@ script 31 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Get back to the
-	stadium,Lan!
+	De volta ao estádio,
+	Lan!
 	"""
 	keyWait
 		any = false
@@ -624,17 +630,16 @@ script 41 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Was that girl
-	your sister? You
-	get along well!
+	Aquela menina era
+	sua irmã? Vocês são
+	tão amigos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey,what happened
-	to that little
-	sister of yours?
+	Aliás,onde foi parar
+	ela?
 	"""
 	keyWait
 		any = false
@@ -666,17 +671,17 @@ script 43 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	That girl who was
-	playing tag with
-	you is so energetic!
+	Aquela menina que
+	estava brincando com
+	você é tão enérgica!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No matter how much
-	she runs,she never
-	seems to tire out!
+	Por mais que ela
+	corresse,ela não
+	cansava nunca!
 	"""
 	keyWait
 		any = false
@@ -708,16 +713,16 @@ script 45 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Was that girl
-	your little sister?
+	Aquela menina era
+	sua irmã mais nova?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I just love to
-	watch kids who
-	play so happily.
+	Eu adoro ver crian-
+	ças brincando tão
+	alegremente.
 	"""
 	keyWait
 		any = false
@@ -749,17 +754,16 @@ script 47 mmbn4 {
 		mugshot = Girl
 	msgOpen
 	"""
-	She really
-	seems to like you
-	a lot.
+	Ela parecia gostar
+	muito de você.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	As an only child,
-	I have to admit
-	I'm a bit jealous!
+	Como filha única,
+	admito que bate uma
+	inveja!
 	"""
 	keyWait
 		any = false
@@ -779,8 +783,8 @@ script 131 mmbn4 {
 		mugshot = HotDogLady
 	msgOpen
 	"""
-	The metal's hot,
-	so be careful!
+	O metal tá quente,
+	então,cuidado!
 	"""
 	keyWait
 		any = false
@@ -799,13 +803,13 @@ script 136 mmbn4 {
 	mugshotShow
 		mugshot = HotDogLady
 	msgOpen
-	"I can't fix it."
+	"Não sei como\nconsertar."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess only
-	Mr.Match can!
+	Acho que só o
+	Sr. Match saberia!
 	"""
 	keyWait
 		any = false
@@ -820,9 +824,9 @@ script 137 mmbn4 {
 		mugshot = HotDogLady
 	msgOpen
 	"""
-	Mr.March is taking
-	a look at it. I
-	hope he can fix it!
+	O Sr. Match tá dando
+	uma olhada nela.
+	Tomara que conserte!
 	"""
 	keyWait
 		any = false
@@ -833,8 +837,9 @@ script 138 mmbn4 {
 		mugshot = HotDogLady
 	msgOpen
 	"""
-	Good luck! I'll be
-	there cheering,too!
+	Boa sorte!
+	Tô torcendo por
+	você!
 	"""
 	keyWait
 		any = false
@@ -864,30 +869,30 @@ script 145 mmbn4 {
 		mugshot = Atsu
 	msgOpen
 	"""
-	Can you lend me
-	a hand,kid?
+	Pode me dar uma
+	ajuda,amigo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My sister's Navi
-	AquaMan is⋯Well,
-	he's crying!
+	O Navi da minha
+	irmã,o AquaMan,tá...
+	Er,chorando!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now the whole Net
-	is flooded!
+	E agora,a Rede
+	inteira tá inundada!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please help us!
-	Help us find
+	Por favor! Ajuda a
+	gente a achar o
 	AquaMan!
 	"""
 	keyWait
@@ -913,7 +918,7 @@ script 145 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"No way!"
+	"Não!"
 	select
 		default = 0
 		noDelay = false
@@ -928,25 +933,25 @@ script 145 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = Atsu
-	"Thanks so much!"
+	"Muito obrigado!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	AquaMan's somewhere
-	out on the Net.
-	Can you find him?
+	Ele tá agora em
+	algum canto da Rede.
+	Procure por ele!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Here,take this."
+	"Toma aqui."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'll need it
-	to find AquaMan.
+	Vai precisar disto
+	pra achar o AquaMan.
 	"""
 	keyWait
 		any = false
@@ -972,7 +977,7 @@ script 145 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = Atsu
-	"Thanks for helping!"
+	"Muito obrigado por\najudar a gente!"
 	keyWait
 		any = false
 	flagSet
@@ -984,8 +989,8 @@ script 146 mmbn4 {
 		mugshot = Atsu
 	msgOpen
 	"""
-	Please!
-	Someone help me!
+	Por favor!
+	Eu preciso de ajuda!
 	"""
 	keyWait
 		any = false
@@ -995,7 +1000,7 @@ script 147 mmbn4 {
 	mugshotShow
 		mugshot = Atsu
 	msgOpen
-	"Thanks for helping!"
+	"Valeu pela ajuda!"
 	keyWait
 		any = false
 	end
@@ -1004,14 +1009,17 @@ script 148 mmbn4 {
 	mugshotShow
 		mugshot = Atsu
 	msgOpen
-	"Huh? Where's Shuko?"
+	"""
+	Hã?
+	"Onde a Shuko está?"
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	She just called and
-	said she was in
-	ElecTown1.
+	Ela acabou de me
+	ligar,dizendo que ia
+	pra EletroVila1.
 	"""
 	keyWait
 		any = false
@@ -1023,7 +1031,7 @@ script 149 mmbn4 {
 	mugshotShow
 		mugshot = Atsu
 	msgOpen
-	"Look for her there!"
+	"Procura por ela lá!"
 	keyWait
 		any = false
 	end

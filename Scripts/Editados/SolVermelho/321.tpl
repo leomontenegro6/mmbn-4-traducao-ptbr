@@ -10,36 +10,35 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"HELLO THERE!"
+	"OLÁ!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WELCOME TO DEX'S
-	HP!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	DEX JUST TOLD
-	ME TO EXCHANGE
+	BEM-VINDO À PÁGINA
+	DO DEX!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MUTUAL LINKS WITH
-	LAN'S PERSONAL
-	HP.
+	O DEX ACABOU DE ME
+	DIZER PARA TROCAR
+	LINKS
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	DO YOU MIND IF
-	WE EXCHANGE LINKS
-	WITH EACH OTHER?
+	COM A PÁGINA PESSOAL
+	DO LAN.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	GOSTARIA DE TROCAR
+	LINKS CONOSCO?
 	"""
 	keyWait
 		any = false
@@ -80,8 +79,8 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	THANKS IN ADVANCE
-	FOR CONSIDERING IT!
+	DESDE JÁ,AGRADEÇO
+	POR PENSAR NO CASO!
 	"""
 	keyWait
 		any = false
@@ -91,21 +90,22 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"OH,REALLY?"
+	"É MESMO?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THANK YOU SO MUCH!
-	NOW DEX WON'T BE
-	ANGRY WITH ME!
+	OBRIGADO! AGORA O
+	DEX NÃO VAI FICAR
+	ZANGADO COMIGO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ALLOW ME TO GIVE
-	YOU OUR SITE BANNER.
+	PERMITA-ME DAR A
+	VOCÊ O BANNER DO
+	NOSSO SITE.
 	"""
 	keyWait
 		any = false
@@ -132,8 +132,8 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	WELL,THEN,I'LL
-	ACTIVATE THE LINKS!
+	BOM,ATIVAREI O
+	LINK AGORA!
 	"""
 	keyWait
 		any = false
@@ -144,7 +144,7 @@ script 1 mmbn4 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
 	"Oh!"
@@ -162,8 +162,9 @@ script 2 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	HERE'S TO MAKING
-	THIS HOMEPAGE GREAT!
+	VAMOS FAZER DESTA
+	UMA PÁGINA INCRÍVEL,
+	JUNTOS!
 	"""
 	keyWait
 		any = false
@@ -204,15 +205,17 @@ script 10 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	This BBS is for
-	battle information.
+	Este fórum é pra
+	informações de
+	batalha.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Use it to exchange
-	info about battles!
+	Use ele pra trocar
+	dicas e macetes de
+	NetLuta!
 	"""
 	keyWait
 		any = false
@@ -253,15 +256,16 @@ script 11 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	The BBS admin is a
-	really cool guy!
+	O administrador do
+	fórum é tão da hora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	His messages are
-	always interesting!
+	As postagens dele
+	são sempre super
+	interessantes!
 	"""
 	keyWait
 		any = false
@@ -302,8 +306,8 @@ script 12 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Wonder if there
-	are any new posts?
+	Será que tem alguma
+	postagem nova?
 	"""
 	keyWait
 		any = false
@@ -314,9 +318,9 @@ script 15 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	The Net's been in
-	an uproar lately.
-	Wonder what's up?
+	A Rede anda no maior
+	alvoroço. O que será
+	que tá pegando?
 	"""
 	keyWait
 		any = false
@@ -327,15 +331,16 @@ script 16 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	There's so much to
-	learn in order to 
+	É preciso aprender
+	tanta coisa pra se
+	tornar um mestre da
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	master Net Battling.
-	It's really hard!
+	NetLuta.
+	Não é mole,não!
 	"""
 	keyWait
 		any = false
@@ -346,8 +351,9 @@ script 17 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Don't bother me!
-	I'm taking notes!
+	Não me distrai!
+	Estou fazendo
+	anotações!
 	"""
 	keyWait
 		any = false
@@ -358,13 +364,14 @@ script 20 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I can't believe
-	what happened in
+	Eu não acredito no
+	que aconteceu na
+	Área ACDC!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"ACDCArea! Shiver!"
+	"Brrrrr!"
 	keyWait
 		any = false
 	end
@@ -374,9 +381,9 @@ script 21 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Time to try the
-	new technique I
-	just learned⋯!
+	Hora de experimentar
+	a nova técnica que
+	aprendi agora...!
 	"""
 	keyWait
 		any = false
@@ -386,14 +393,13 @@ script 22 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviPink
 	msgOpen
-	"Whew! Taking notes"
+	"Ufa! Anotar as dicas\né uma coisa,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	is one thing. Using
-	these tips in battle
-	is another⋯!
+	usar elas em batalha
+	é outra...!
 	"""
 	keyWait
 		any = false
@@ -404,17 +410,17 @@ script 25 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	The tournament to
-	determine DenCity's
-	top Battler is on!
+	O torneio pra eleger
+	o melhor Lutador de
+	DenCity tá rolando!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't wait!
-	I didn't enter,so I
-	can relax and watch!
+	Tô ansioso! Como eu
+	não me inscrevi,vou
+	acompanhar de boas!
 	"""
 	keyWait
 		any = false
@@ -425,9 +431,9 @@ script 26 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	The tournament's my
-	chance to put this
-	info to good use!
+	O torneio é a minha
+	chance de aplicar
+	todos estes macetes!
 	"""
 	keyWait
 		any = false
@@ -438,15 +444,16 @@ script 27 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	I'm really into
-	collecting info.
+	Eu adoro reunir
+	informações e
+	macetes...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I've never
-	actually Battled!
+	Mas nunca NetLutei
+	na vida,acredita?
 	"""
 	keyWait
 		any = false
@@ -457,9 +464,9 @@ script 30 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Net Battling is
-	all about power.
-	Not techniques!
+	NetLuta é uma
+	questão de força,
+	não técnica!
 	"""
 	keyWait
 		any = false
@@ -470,15 +477,16 @@ script 31 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Net Battling is
-	all technique.
+	NetLuta é técnica
+	pura.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A good technique
-	trumps power!
+	Habilidades técnicas
+	botam força bruta
+	no chinelo!
 	"""
 	keyWait
 		any = false
@@ -489,15 +497,16 @@ script 32 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Net Battling is
-	all about balance.
+	NetLutar é uma
+	questão de
+	equilíbrio.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Balancing power
-	and technique!
+	De equilibrar
+	força e técnica!
 	"""
 	keyWait
 		any = false

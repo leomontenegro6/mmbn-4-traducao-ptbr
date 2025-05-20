@@ -3,9 +3,9 @@
 script 0 mmbn4 {
 	msgOpen
 	"""
-	Such a big gathering
-	of statues has a
-	real power to it.
+	Esse amontoado de
+	estátuas comunica
+	tanta força.
 	"""
 	keyWait
 		any = false
@@ -14,17 +14,17 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	msgOpen
 	"""
-	It seems the statues
-	are here to protect
-	a big Buddha inside.
+	As estátuas parecem
+	existir para prote-
+	ger o Buda maior.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Actually,this one's
-	face is scarier than
-	the others.
+	Aliás,o rosto desta
+	é mais sinistro que
+	os das outras.
 	"""
 	keyWait
 		any = false
@@ -33,15 +33,15 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	msgOpen
 	"""
-	The smell of incense
-	soothes the heart.
+	O cheiro do incenso
+	acalenta o coração.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You feel peaceful
-	and calm.
+	Você se sente calmo
+	e em paz.
 	"""
 	keyWait
 		any = false
@@ -50,16 +50,16 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	msgOpen
 	"""
-	Hey! This particular
-	statue's used for
-	site management.
+	Ei! Essa estátua
+	aí é usada para
+	monitorar o local.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looks like you can
-	jack in.
+	Parece que dá para
+	se conectar nela.
 	"""
 	keyWait
 		any = false
@@ -68,9 +68,9 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	msgOpen
 	"""
-	It's brand new⋯
-	Looks like it's
-	the very latest.
+	É novo em folha...
+	Parece ser o modelo
+	mais recente.
 	"""
 	keyWait
 		any = false
@@ -79,17 +79,17 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	msgOpen
 	"""
-	There's a pattern
-	made up of endless
-	Buddhas.
+	Há uma estampa
+	composta de Budas
+	infindos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's so complicated,
-	it draws you in as
-	you gaze at it.
+	É tão complicada
+	que simplesmente
+	prende o seu olhar.
 	"""
 	keyWait
 		any = false
@@ -98,16 +98,16 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	msgOpen
 	"""
-	Close up,you can
-	see how it's made⋯
+	De perto,dá para
+	ver como é feito...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can't tell the
-	clothes and stuff
-	from real cloth.
+	Você não consegue
+	diferenciar as
+	roupas dos tecidos.
 	"""
 	keyWait
 		any = false
@@ -119,9 +119,9 @@ script 7 mmbn4 {
 		jumpIfBlueMoon = 10
 	msgOpen
 	"""
-	Their calm
-	expressions are
-	totally life-like.
+	As expressões deles
+	são realistas e
+	tranquilas.
 	"""
 	keyWait
 		any = false
@@ -130,17 +130,17 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	msgOpen
 	"""
-	There are faces on
-	the backs of their
-	heads too.
+	Eles também têm
+	rostos na parte de
+	trás da cabeça.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Never an unguarded
-	moment in protecting
-	the big Buddha⋯
+	Jamais baixam a
+	guarda ao proteger
+	o Buda maior...
 	"""
 	keyWait
 		any = false
@@ -149,9 +149,9 @@ script 8 mmbn4 {
 script 10 mmbn4 {
 	msgOpen
 	"""
-	Their calm
-	expressions are
-	totally life-like⋯
+	As expressões deles
+	são realistas e
+	tranquilas.
 	"""
 	keyWait
 		any = false

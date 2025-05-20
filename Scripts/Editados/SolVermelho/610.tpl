@@ -5,16 +5,17 @@ script 0 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Hah! So you can see
-	me,right!
+	Ah! Então,você 
+	consegue me ver,
+	não é?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Perfect! I'm through
-	here! Can you please
-	send me on?
+	Ótimo! Cansei desta
+	pós-vida! Me manda
+	pro lado de lá?
 	"""
 	keyWait
 		any = false
@@ -26,8 +27,8 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	MegaMan,use the
-	CybSutra!
+	MegaMan,usa o
+	Cyber Sutra!
 	"""
 	keyWait
 		any = false
@@ -39,8 +40,8 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Roger!
-	Umm⋯
+	Entendido!
+	Hmm...
 	"""
 	keyWait
 		any = false
@@ -49,9 +50,9 @@ script 2 mmbn4 {
 		timer = 1
 		value = 1
 	"""
-	Dot com slash slash
-	period exclamation.
-	Is that it?!
+	Ponto,vírgula,barra,
+	barra,colchete,
+	exclamação. É isso?!
 	"""
 	keyWait
 		any = false
@@ -62,8 +63,8 @@ script 3 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Yahoo!!!
-	Thank you!
+	Urrú!!!
+	Obrigado!
 	"""
 	keyWait
 		any = false

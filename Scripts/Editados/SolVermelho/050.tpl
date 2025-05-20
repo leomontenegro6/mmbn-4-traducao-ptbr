@@ -785,19 +785,19 @@ script 195 mmbn4s {
 	end
 }
 script 196 mmbn4s {
-	"HealNavi"
+	"HeelNavi"
 	end
 }
 script 197 mmbn4s {
-	"HealNavα"
+	"HeelNavα"
 	end
 }
 script 198 mmbn4s {
-	"HealNavβ"
+	"HeelNavβ"
 	end
 }
 script 199 mmbn4s {
-	"HealNavΩ"
+	"HeelNavΩ"
 	end
 }
 script 200 mmbn4s {
@@ -817,19 +817,19 @@ script 203 mmbn4s {
 	end
 }
 script 204 mmbn4s {
-	"HealNavi"
+	"HeelNavi"
 	end
 }
 script 205 mmbn4s {
-	"HealNavα"
+	"HeelNavα"
 	end
 }
 script 206 mmbn4s {
-	"HealNavβ"
+	"HeelNavβ"
 	end
 }
 script 207 mmbn4s {
-	"HealNavΩ"
+	"HeelNavΩ"
 	end
 }
 script 208 mmbn4s {

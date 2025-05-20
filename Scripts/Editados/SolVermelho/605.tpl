@@ -4,13 +4,13 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"AquaMan,deleted!"
+	"AquaMan foi\nderrotado!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The winner!
-	Lan!
+	Lan Hikari é o
+	vencedor!
 	"""
 	keyWait
 		any = false
@@ -20,7 +20,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"We did it!"
+	"Aê!"
 	keyWait
 		any = false
 	clearMsg
@@ -31,9 +31,9 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Shuko
 	"""
-	I lost⋯I guess my
-	life won't change,
-	after all.
+	Perdi... Acho que
+	a minha vida nunca
+	vai mudar,mesmo...
 	"""
 	keyWait
 		any = false
@@ -45,8 +45,8 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Heehee!
-	That's not true!
+	He he!
+	Não é verdade!
 	"""
 	keyWait
 		any = false
@@ -67,7 +67,7 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = Ty
-	"What a great match!"
+	"Que luta incrível!"
 	keyWait
 		any = false
 	end
@@ -76,7 +76,7 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Shuko
 	msgOpen
-	"Atsu⋯Ty⋯"
+	"Atsu... Tai..."
 	keyWait
 		any = false
 	clearMsg
@@ -87,16 +87,17 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = AquaMan
 	"""
-	Shuko's not unlucky!
-	*woosh woosh*
+	Shuko,você não tem
+	azar!
+	Xuá,xuá!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You've got such a
-	great family!
-	*woosh*
+	Olha que família
+	maravilhosa você
+	tem! Xuá!
 	"""
 	keyWait
 		any = false
@@ -107,15 +108,14 @@ script 8 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	AquaMan,you were
-	great!
+	AquaMan,você foi
+	demais!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't you think so,
-	MegaMan?
+	Não acha,MegaMan?
 	"""
 	keyWait
 		any = false
@@ -127,9 +127,9 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Yeah,he was a
-	really tough
-	opponent!
+	Aham! Ele foi um
+	oponente duro na
+	queda!
 	"""
 	keyWait
 		any = false
@@ -150,9 +150,9 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = AquaMan
 	"""
-	You were no slacker
-	yourself,MegaMan!
-	*woosh*
+	Você também foi
+	osso duro,MegaMan!
+	Xuá!
 	"""
 	keyWait
 		any = false
@@ -164,16 +164,16 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It really was a
-	fantastic battle!
+	Foi uma luta
+	fantástica!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I was touched by
-	your spirit,which
-	flows like water!
+	Eu fui tocado pelo
+	seu espírito,fluido
+	como a água!
 	"""
 	keyWait
 		any = false
@@ -189,9 +189,9 @@ script 13 mmbn4 {
 	soundPlay
 		track = 220
 	"""
-	MegaMan's soul has
-	communed with
-	AquaMan's!!
+	A Alma do MegaMan
+	se ligou à do
+	AquaMan!!
 	"""
 	keyWait
 		any = false
@@ -206,9 +206,9 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = Atsu
 	"""
-	Hey,Sis!
-	Let's go buy that
-	washing machine!
+	Ei,mana!
+	Vamos lá pegar a
+	máquina de lavar!
 	"""
 	keyWait
 		any = false
@@ -218,7 +218,7 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Ty
 	msgOpen
-	"Hurry up,Shuko!"
+	"Vamos logo,Shuko!"
 	keyWait
 		any = false
 	clearMsg
@@ -228,7 +228,7 @@ script 15 mmbn4 {
 script 16 mmbn4 {
 	mugshotShow
 		mugshot = Shuko
-	"Okay!"
+	"Tá bom!"
 	keyWait
 		any = false
 	end
@@ -238,9 +238,9 @@ script 17 mmbn4 {
 		mugshot = Shuko
 	msgOpen
 	"""
-	Thank you,Lan.
-	I'd like to see you
-	again some time!
+	Obrigada,Lan.
+	Espero te ver de
+	novo qualquer dia!
 	"""
 	keyWait
 		any = false
@@ -251,7 +251,7 @@ script 17 mmbn4 {
 script 18 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Sure thing!"
+	"Com certeza!"
 	keyWait
 		any = false
 	end
@@ -261,7 +261,7 @@ script 19 mmbn4 {
 	soundDisableTextSFX
 	soundPlay
 		track = 224
-	"*KABLOOIE!!!*"
+	"CA-PLONC!"
 	wait
 		frames = 71
 	soundEnableTextSFX
@@ -273,7 +273,7 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = Ty
 	msgOpen
-	"Sis,are you okay?!"
+	"Mana,você tá bem?!"
 	keyWait
 		any = false
 	clearMsg
@@ -284,8 +284,8 @@ script 21 mmbn4 {
 	mugshotShow
 		mugshot = Atsu
 	"""
-	Wow Sis,you sure
-	are a klutz!
+	Nossa,mana,cê é tão
+	desastrada!
 	"""
 	keyWait
 		any = false
@@ -305,9 +305,9 @@ script 22 mmbn4 {
 	mugshotAnimation
 		animation = 2
 	"""
-	There's no greater
-	happiness than to be
-	with your family!
+	Não existe alegria
+	maior que estar com
+	a família!
 	"""
 	keyWait
 		any = false
@@ -319,8 +319,8 @@ script 23 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Families are the
-	best!
+	Família é tudo de
+	bom!
 	"""
 	keyWait
 		any = false
@@ -332,9 +332,9 @@ script 24 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Yeah,it makes me a
-	little jealous.
-	What a great family!
+	É. Me dá até um
+	pouco de inveja.
+	Que família forte!
 	"""
 	keyWait
 		any = false
@@ -345,9 +345,9 @@ script 25 mmbn4 {
 		mugshot = AquaMan
 	msgOpen
 	"""
-	I'm so happy to hear
-	you say that! What a
-	fun battle! *woosh*
+	Fico feliz de ouvir
+	isso! Que luta mais
+	divertida! Xuá!
 	"""
 	keyWait
 		any = false

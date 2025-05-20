@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You can't run away,
+	Você não pode fugir,
 	Lan!
 	"""
 	keyWait
@@ -26,13 +26,13 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Mami
 	msgOpen
-	"Good job!"
+	"Bom trabalho!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And good luck in
-	the next match,too!
+	E boa sorte na
+	próxima luta,também!
 	"""
 	keyWait
 		any = false
@@ -43,16 +43,15 @@ script 10 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	Congratulations on
-	making it to the
-	finals!
+	Parabéns por chegar
+	nas finais!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Good luck on your
-	match!
+	Boa sorte na sua
+	luta!
 	"""
 	keyWait
 		any = false
@@ -63,15 +62,16 @@ script 15 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	What? What?
-	What's going on⋯?
+	Hã? Quê?
+	O que tá
+	acontecendo...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Are we being
-	attacked⋯?
+	A gente tá sendo
+	atacado...?
 	"""
 	keyWait
 		any = false
@@ -82,8 +82,8 @@ script 16 mmbn4 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Somebody⋯
-	Somebody save us!
+	Alguém...
+	Socorro!
 	"""
 	keyWait
 		any = false

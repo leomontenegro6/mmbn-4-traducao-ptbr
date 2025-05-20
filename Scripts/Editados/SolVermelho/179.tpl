@@ -13,8 +13,9 @@ script 4 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,destroy the
-	CyberSnowman first!
+	MegaMan,destrói os
+	CyberBonecosDeNeve
+	primeiro!
 	"""
 	keyWait
 		any = false
@@ -33,8 +34,9 @@ script 5 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,destroy the
-	CyberSnowman first!
+	MegaMan,destrói os
+	CyberBonecosDeNeve
+	primeiro!
 	"""
 	keyWait
 		any = false
@@ -45,8 +47,8 @@ script 9 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,light the
-	CyberTorch!
+	MegaMan,acende a
+	CyberTocha!
 	"""
 	keyWait
 		any = false
@@ -62,34 +64,38 @@ script 10 mmbn4 {
 		jumpIfLess = continue
 	msgOpen
 	"""
-	Something's written
-	on the panel⋯
+	Tem alguma coisa
+	escrita aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"C - Right behind it\n rise the flames of\n the beast.\""
+	"""
+	"C - Logo atrás,
+	erguem-se as chamas
+	de uma fera."
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Right behind⋯"
+	"Logo atrás..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe it means a hit
-	will make the square
-	behind explode?
+	Será que quer dizer
+	que explode o quadro
+	atrás ao atingir?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe the flames of
-	the beast mean a
-	beast-type viruses?!
+	E talvez "chamas de
+	uma fera" indique
+	um vírus tipo-fera!
 	"""
 	keyWait
 		any = false
@@ -103,8 +109,7 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	msgOpen
 	"""
-	The flames are
-	raging⋯
+	O fogo arde forte...
 	"""
 	keyWait
 		any = false

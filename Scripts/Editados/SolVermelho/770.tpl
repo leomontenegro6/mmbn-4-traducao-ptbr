@@ -4,27 +4,29 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"Yer pretty good!"
+	"Cê é bom,garoto!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But we'd be outta
-	business if word got
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	out that a kid out-
-	smarted us.
+	Mas a gente perderia
+	toda a clientela se
+	espalhassem por aí
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We can't let ya
-	leave here alive!!
+	que um guri sozinho
+	fez a gente sambar.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Não podemos deixar
+	cê sair daqui com
+	vida,não!!
 	"""
 	keyWait
 		any = false
@@ -35,14 +37,14 @@ script 1 mmbn4 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Strength in numbers
-	is the foundation
-	of warfare.
+	Força em números é a
+	base da arte da
+	guerra.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It's not cowardly!"
+	"Nem tenta dizer que\né covardia!"
 	keyWait
 		any = false
 	clearMsg
@@ -53,16 +55,17 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	We could pull it off
-	versus normal Navis,
+	Grr... Se fosse uma
+	luta contra Navis
+	normais,daria,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but the denizens of
-	the Undernet won't
-	be that easy.
+	mas contra gente da
+	Undernet,não vai ser
+	nada fácil.
 	"""
 	keyWait
 		any = false
@@ -74,9 +77,9 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Not good! MegaMan's
-	already tired from
-	the viruses battle!
+	Droga! O MegaMan tá
+	esgotado dos vírus
+	que enfrentou agora!
 	"""
 	keyWait
 		any = false
@@ -88,21 +91,21 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	"""
-	I'll delete you as
-	painlessly as I can.
+	Vou tentar te
+	deletar sem dor.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Navi karate,Undernet
-	style!!
-	"Moon of Hades"!
+	Karatê Navi,estilo
+	Undernet!
+	"Lua Infernal"!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"The ultimate move!"
+	"Minha técnica\nsuprema!"
 	keyWait
 		any = false
 	end
@@ -112,13 +115,13 @@ script 5 mmbn4 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	No one survives the
-	"Moon of Hades"!
+	Ninguém sobrevive à
+	"Lua Infernal"!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Prepare yourself⋯"
+	"Prepare-se...!"
 	keyWait
 		any = false
 	clearMsg
@@ -128,7 +131,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Lan,here he comes!!"
+	"Lan,lá vem!!"
 	keyWait
 		any = false
 	end
@@ -137,7 +140,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Whoa!!"
+	"Agh!!"
 	keyWait
 		any = false
 	clearMsg
@@ -148,8 +151,9 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	"""
-	Adios,blue Navi!!
-	"Moon of⋯
+	Tchauzinho,Navi
+	azul!!
+	"Lua In..."
 	"""
 	keyWait
 		any = false
@@ -159,7 +163,7 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"Hey,what the?!"
+	"Ué?! Mas o que...?!"
 	keyWait
 		any = false
 	end
@@ -168,7 +172,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"What have you done?!"
+	"O que foi que você\nfez?!"
 	keyWait
 		any = false
 	end
@@ -177,7 +181,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"W-who,what?!"
+	"Q-quem? O quê?!"
 	keyWait
 		any = false
 	end
@@ -187,21 +191,21 @@ script 12 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Such power and
-	precision⋯
+	Tanta força e
+	precisão...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That was the same
-	as the attacks that
-	were directed at me!
+	Foi igual aos
+	ataques que estavam
+	mirando em mim!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Who's doing this?!"
+	"... Quem tá fazendo\nisso?!"
 	keyWait
 		any = false
 	end
@@ -211,8 +215,7 @@ script 13 mmbn4 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	Mission
-	accomplished.
+	Missão cumprida.
 	"""
 	keyWait
 		any = false
@@ -223,23 +226,23 @@ script 14 mmbn4 {
 		mugshot = Raika
 	msgOpen
 	"""
-	Lan,that's SerchMan
-	over there.
+	Lan,esse é o
+	SearchMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now we've seen what
-	you can do.
+	Agora vimos do que
+	vocês são capazes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nice job getting
-	this far despite
-	SerchMan's attacks.
+	Bom trabalho chegan-
+	do aqui,mesmo com os
+	tiros do SearchMan.
 	"""
 	keyWait
 		any = false
@@ -255,9 +258,9 @@ script 15 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	So SerchMan was the
-	one shooting at
-	MegaMan?!
+	Então era o Search-
+	Man que tava ati-
+	rando no MegaMan?!
 	"""
 	keyWait
 		any = false
@@ -269,16 +272,17 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = Raika
 	"""
-	I've had a good look
-	at your ability now.
+	Agora pude observar
+	bem as habilidades
+	de vocês.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SerchMan,were you
-	able to analyze
-	their battle power?
+	E você,SearchMan?
+	Pôde analisar a
+	capacidade deles?
 	"""
 	keyWait
 		any = false
@@ -290,14 +294,14 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = SearchMan
 	"""
-	Lemme see⋯The pro-
-	bability of beating
-	them is⋯
+	Vejamos... A proba-
+	bilidade de nós os
+	vencermos é de...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯99%."
+	"... 99%."
 	keyWait
 		any = false
 	clearMsg
@@ -308,28 +312,29 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = Raika
 	"""
-	Only a 1% chance of
-	failure,huh?
+	Só 1% de chance de
+	derrota,é?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	On the battlefield,
-	that 1% could mean
-	life or death.
+	No campo de batalha,
+	esse 1% pode signi-
+	ficar a morte.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're gonna crush ya
-	with all our might!
+	Nós dois vamos
+	esmagar vocês com
+	toda a nossa força!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's go,SerchMan."
+	"Vamos,SearchMan."
 	keyWait
 		any = false
 	clearMsg
@@ -339,7 +344,7 @@ script 18 mmbn4 {
 script 19 mmbn4 {
 	mugshotShow
 		mugshot = SearchMan
-	"Yes,sir!"
+	"Sim,senhor!"
 	keyWait
 		any = false
 	end
@@ -348,7 +353,7 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"A 1% chance⋯"
+	"Uma chance de 1%..."
 	keyWait
 		any = false
 	clearMsg
@@ -359,16 +364,16 @@ script 21 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	MegaMan,don't let
-	it bother you.
+	MegaMan,não fica
+	bolado com isso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Haven't we survived
-	far more dangerous
-	battles before?!
+	A gente já passou
+	por lutas muito mais
+	perigosas,não foi?!
 	"""
 	keyWait
 		any = false
@@ -379,14 +384,14 @@ script 21 mmbn4 {
 script 22 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"⋯You're right."
+	"... Tem razão."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's nothing the
-	two of us together
-	can't overcome!
+	Não tem nada que a
+	gente não possa
+	superar juntos!
 	"""
 	keyWait
 		any = false
@@ -397,14 +402,14 @@ script 22 mmbn4 {
 script 23 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Now you're talking!"
+	"É assim que se fala!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's show those
-	showoffs what we
-	can really do!!
+	Vamos mostrar pra
+	aqueles exibidos
+	quem é que manda!
 	"""
 	keyWait
 		any = false
@@ -415,7 +420,7 @@ script 23 mmbn4 {
 script 24 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Roger!!"
+	"Beleza!!"
 	keyWait
 		any = false
 	end

@@ -5,13 +5,14 @@ script 0 mmbn4 {
 		mugshot = JunkMan
 	msgOpen
 	"""
-	Heh,hehe⋯
-	I can't move!
+	He... He he...
+	Não consigo mais
+	me mexer...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Go on,finish me."
+	"Vai,acaba logo\ncomigo."
 	keyWait
 		any = false
 	clearMsg
@@ -34,8 +35,9 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = JunkMan
 	"""
-	Hurry up! Why don't
-	you do it!
+	Vai logo!
+	Por que não me
+	deleta?!
 	"""
 	keyWait
 		any = false
@@ -46,21 +48,21 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"I can't do that."
+	"Eu não posso."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You don't have any
-	backup data.
+	Você não tem dados
+	de backup.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If I deleted you,
-	you'd be gone,
-	forever.
+	Se eu te deletar,
+	você vai sumir pra
+	sempre.
 	"""
 	keyWait
 		any = false
@@ -71,13 +73,13 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = JunkMan
-	"Yeah,so?"
+	"E daí?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is where I
-	decided to die.
+	Foi aqui que eu
+	decidi morrer.
 	"""
 	keyWait
 		any = false
@@ -89,9 +91,9 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Don't tell me you
-	wanted to be deleted
-	all along?
+	Você... queria ser
+	deletado desde o
+	começo?
 	"""
 	keyWait
 		any = false
@@ -105,38 +107,41 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = JunkMan
 	"""
-	I wanted to live a
-	glorious life of
-	battle.
+	... Eu queria uma
+	vida gloriosa de
+	combates.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm made of junk
-	data anyway. I don't
-	have long to live.
+	Sou feito de lixo,
+	mesmo.
+	Não ia viver muito.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You don't have to
-	do a thing. I'll
-	fade away anyway.
+	Cê não tem que fazer
+	nada. Eu vou sumir,
+	de qualquer jeito.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I just didn't want
-	to die alone,in
-	the junkyard.
+	Eu só... não queria
+	morrer sozinho lá no
+	ferro-velho.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I couldn't stand it."
+	"""
+	Isso eu não
+	aceitava.
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -146,7 +151,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Just as I thought⋯"
+	"JunkMan..."
 	keyWait
 		any = false
 	clearMsg
@@ -156,13 +161,13 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = JunkMan
-	"Enough t-talk."
+	"C-chega de conversa."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's time to say
-	g-goodbye.
+	É hora de dizer
+	a-adeus.
 	"""
 	keyWait
 		any = false
@@ -183,43 +188,43 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = JunkMan
-	"M-MegaMan⋯"
+	"M-MegaMan..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You are a strange
-	Navi,to feel sorry
-	for me after what I
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	did to you.
-	But you made me
-	happy.
+	Que Navi estranho
+	você é,tendo pena
+	de mim depois do que
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Everyone else who
-	saw me treated me
-	like a monster.
+	eu te fiz.
+	Mas.. você me deixou
+	feliz.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You are the only one
-	who every treated me
-	like a Navi.
+	Todos que me viam me
+	tratavam feito um
+	monstro...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"*gulp*"
+	"""
+	Você foi o único que
+	me tratou como...
+	um Navi...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Ugh!"
 	keyWait
 		any = false
 	clearMsg
@@ -240,23 +245,25 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = JunkMan
 	"""
-	Y-you were right,I
-	was looking for a
-	l-little kindness.
+	C-cê tava certo. Eu
+	tava atrás de uma
+	g-gentileza.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I was just ashamed
-	to hear you say it.
+	Só fiquei sem ter
+	onde enfiar a cara
+	quando cê falou.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's why I was
-	so cruel to you.
+	Por isso eu fui
+	cruel daquele jeito
+	com você...
 	"""
 	keyWait
 		any = false
@@ -280,16 +287,16 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = JunkMan
 	"""
-	I c-can't take any
-	more.
+	M-minhas forças
+	estão acabando...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm glad I met you.
-	Your PET is so
-	warm and cozy⋯
+	Fico feliz de ter te
+	conhecido. O seu PET
+	era tão quentinho...
 	"""
 	keyWait
 		any = false
@@ -300,8 +307,8 @@ script 15 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	And the winner is
-	MegaMan!
+	E o vencedor é
+	MegaMan.EXE!
 	"""
 	keyWait
 		any = false
@@ -312,8 +319,8 @@ script 16 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	JunkMan⋯was such a
-	sad Navi.
+	O JunkMan... era um
+	Navi tão triste...
 	"""
 	keyWait
 		any = false
@@ -334,28 +341,28 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	No he wasn't,all
-	these people were
+	... Não era,não.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	watching over him in
-	the end.
-	JunkMan's soul has
+	Todo mundo aqui
+	olhou pra ele no
+	final.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	touched so many
-	hearts,including
+	A alma do JunkMan
+	falou com inúmeros
+	corações...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"mine.\n"
+	"incluindo o meu.\n"
 	keyWait
 		any = false
 	clearMsg
@@ -367,9 +374,9 @@ script 19 mmbn4 {
 	soundPlay
 		track = 220
 	"""
-	MegaMan's soul has
-	communed with
-	JunkMan's!!
+	A Alma do MegaMan
+	se ligou à do
+	JunkMan!!
 	"""
 	keyWait
 		any = false
@@ -381,31 +388,32 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	You're right,
+	... Verdade,
 	MegaMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	JunkMan taught me
-	something really
-	important.
+	O JunkMan me ensinou
+	uma coisa muito
+	importante.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I took being
-	together with you
-	for granted,
+	Eu nunca dei valor
+	pro simples fato da
+	gente estar junto,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but we're really
-	very lucky.
+	mas,na real...
+	a gente tem muita
+	sorte.
 	"""
 	keyWait
 		any = false
@@ -417,24 +425,25 @@ script 21 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	You're right. When
-	you always see
-	kindness and true
+	É. Quando sempre se
+	está cercado de ter-
+	nura e felicidade,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	happiness,you
-	eventually lose
-	sight of it.
+	a gente acaba
+	perdendo essas
+	coisas de vista.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	JunkMan taught us
-	that all over again.
+	O JunkMan fez a
+	gente re-enxergar
+	isso...
 	"""
 	keyWait
 		any = false
@@ -448,7 +457,7 @@ script 22 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What is it,MegaMan?"
+	"Que foi,MegaMan?"
 	keyWait
 		any = false
 	clearMsg
@@ -459,16 +468,16 @@ script 23 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I felt JunkMan just
-	now!
+	Eu acabei de sentir
+	o JunkMan agora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	His body is broken,
-	but his spirit lives
-	on!
+	O corpo dele tá
+	quebrado,mas seu
+	espírito ainda vive!
 	"""
 	keyWait
 		any = false
@@ -480,9 +489,9 @@ script 24 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	That means we may
-	run into him again
-	some day!
+	Então,talvez a gente
+	encontre ele de
+	novo,um dia!
 	"""
 	keyWait
 		any = false
@@ -493,14 +502,14 @@ script 24 mmbn4 {
 script 25 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Yeah!"
+	"É!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	JunkMan,I look
-	forward to seeing
-	you again!
+	JunkMan,tô ansioso
+	pra gente se ver de
+	novo!
 	"""
 	keyWait
 		any = false
@@ -510,22 +519,22 @@ script 26 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	No he wasn't,all
-	these people were
+	Não era,não.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	watching over him in
-	the end.
+	Todo mundo aqui
+	olhou para ele no
+	final.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't think he's
-	alone anymore.
+	... Não acho que ele
+	estava mais sozinho.
 	"""
 	keyWait
 		any = false

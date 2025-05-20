@@ -5,16 +5,16 @@ script 0 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Please forgive the
-	long delay,everyone.
+	Desculpem o atraso,
+	senhoras e senhores.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	First,it's Lan,
-	the Electopia
-	representative!
+	Primeiro,represen-
+	tando Ni-Hon:
+	Lan Hikari!
 	"""
 	keyWait
 		any = false
@@ -25,15 +25,15 @@ script 1 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	And now,the
-	representative of
+	E enfrentado ele,
+	o representante da
+	Affriq:
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NetFrica,
-	Mr.Famous!
+	Sr. Famoso!
 	"""
 	keyWait
 		any = false
@@ -44,16 +44,16 @@ script 2 mmbn4 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	I'm sorry for the
-	delay,everyone!
-	To make up for it,
+	Desculpem o atraso,
+	pessoal!
+	Para compensar,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	here's Lan with the
-	ultimate NetBattle!
+	eu e Lan travaremos
+	a NetLuta suprema!
 	"""
 	keyWait
 		any = false
@@ -64,15 +64,15 @@ script 3 mmbn4 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	Let's start it!
-	Lan!
+	Vamos lá,Lan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Give us the ultimate
-	battle!
+	Eu prometi a NetLuta
+	suprema,então,faça
+	valer!
 	"""
 	keyWait
 		any = false
@@ -83,7 +83,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"You got it!"
+	"Com prazer!"
 	keyWait
 		any = false
 	end
@@ -93,20 +93,21 @@ script 5 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Give us the ultimate
-	battle!
+	Todos queremos ver
+	essa NetLuta
+	suprema!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Here we go!"
+	"Vamos lá!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan
+	Lan Hikari
 	Vs.
-	Mr.Famous!
+	Sr. Famoso!
 	"""
 	keyWait
 		any = false
@@ -134,7 +135,9 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = KendoMan
-	"Heeyah!"
+	"""
+	"Hajime"!
+	"""
 	keyWait
 		any = false
 	end

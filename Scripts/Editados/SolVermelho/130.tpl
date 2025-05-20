@@ -3,25 +3,25 @@
 script 0 mmbn4 {
 	msgOpen
 	"""
-	The battleground to
-	decide the world
-	number 1⋯
+	A arena para
+	definir o número
+	1 do mundo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It really feels like
-	a proper "fighting
-	arena".
+	Realmente passa a
+	aura de um legítimo
+	"estádio de luta".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a NetBattle
-	machine,so you can
-	jack in of course.
+	É uma máquina de
+	NetLuta. Dá para se
+	conectar nela,claro.
 	"""
 	keyWait
 		any = false

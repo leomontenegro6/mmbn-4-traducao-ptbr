@@ -20,9 +20,9 @@ script 0 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THERE'S AN EVENT
-	GOING ON AT
-	TOWN AREA3!
+	HÁ UM EVENTO EM
+	ANDAMENTO NA ÁREA
+	VILA 3!
 	"""
 	keyWait
 		any = false
@@ -48,17 +48,17 @@ script 1 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I HEAR THAT THE
-	FIRST THEME PARK IN
-	DENCITY OPENS SOON!
+	OUVI QUE O PRIMEIRO
+	PARQUE TEMÁTICO DE
+	DENCITY TÁ CHEGANDO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WE MR.PROGS WON'T
-	BE ABLE TO GO,OF
-	COURSE⋯
+	MAS CLARO QUE NÓS,OS
+	PROGS,NÃO PODEREMOS
+	IR...
 	"""
 	keyWait
 		any = false
@@ -69,15 +69,16 @@ script 5 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	A SCARY-LOOKING NAVI
-	JUST RAN BY HERE⋯
+	UM NAVI MEDONHO
+	ACABOU DE PASSAR
+	POR AQUI...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WHEEEEW! JUST LIKE
-	THAT!
+	FUSHHIIUU!
+	TIPO ASSIM!
 	"""
 	keyWait
 		any = false
@@ -88,16 +89,16 @@ script 6 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I HEAR THAT
-	PREPARATIONS TO
-	OPEN THE PARK AREA
+	PARECE QUE ESTÃO
+	QUASE TERMINANDO OS
+	PREPARATIVOS PRA
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ARE ALMOST FINISHED
-	IN TOWN AREA3!
+	ABRIR A ÁREA PARQUE
+	NA ÁREA VILA 3!
 	"""
 	keyWait
 		any = false
@@ -108,24 +109,24 @@ script 10 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	DO YOU SEE THAT
-	OTHER MR.PROG THERE?
+	VIU UM OUTRO PROG
+	POR AÍ?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HE SAYS THAT HE
-	CAN'T WAIT TO GO TO
-	CASTILLO⋯
+	ELE DISSE QUE MAL
+	PODE ESPERAR PRA IR
+	PRO CASTILLO...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯DOESN'T HE REALIZE
-	"THAT PROGRAMS CAN'T
-	 GET IN?"
+	.. SERÁ QUE NÃO SABE
+	QUE PROGRAMAS NÃO
+	ENTRAM?
 	"""
 	keyWait
 		any = false
@@ -136,16 +137,17 @@ script 11 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I WONDER WHAT KIND
-	OF RIDES THEY HAVE
-	AT CASTILLO?
+	QUE TIPOS DE
+	ATRAÇÕES SERÁ QUE
+	TEM NO CASTILLO?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯NOT THAT WE'LL BE
-	ABLE TO RIDE THEM⋯
+	... NÃO QUE A GENTE
+	POSSA EXPERIMENTAR
+	ELAS...
 	"""
 	keyWait
 		any = false
@@ -155,11 +157,11 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"YAWN! I'M SO SLEEPY!"
+	"UAAAH! QUE SONO!"
 	keyWait
 		any = false
 	clearMsg
-	"ZZZZZZZ⋯"
+	"ZZZZZZZ..."
 	keyWait
 		any = false
 	end
@@ -169,20 +171,20 @@ script 16 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	IT LOOKS LIKE
-	SOMETHING'S GOING ON
-	AT CASTILLO!
+	PARECE QUE ESTÁ
+	HAVENDO ALGUMA COISA
+	NO CASTILLO!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"THAT'LL SHOW 'EM⋯"
+	"MERECERAM..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯ER,NO! NOTHING! I
-	DIDN'T SAY ANYTHING!
+	... ER,OPS! NADA!
+	EU NÃO FALEI NADA!
 	"""
 	keyWait
 		any = false
@@ -197,23 +199,21 @@ script 30 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Yikes! You've
-	found me!
+	Eita! Cê me achou!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here! Take this!
-	Please,don't hurt
-	me!
+	Aqui! Toma!
+	Só... não me
+	machuca!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I was just fooling
-	around!
+	Eu só tava de zoas!
 	"""
 	keyWait
 		any = false
@@ -239,9 +239,9 @@ script 30 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	"""
-	I won't tell anybody
-	about anything,OK?
-	⋯OK? OK?
+	Eu não conto nada
+	pra ninguém,tá?
+	... Tá? TÁ?!
 	"""
 	keyWait
 		any = false
@@ -254,9 +254,9 @@ script 31 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	I don't know nuthin'
-	⋯Nuthin at all!
-	Whew⋯
+	Eu num sei nada...
+	Nadica de nada!
+	Uff...
 	"""
 	keyWait
 		any = false
@@ -267,16 +267,17 @@ script 40 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	STANDING HERE MAKES
-	ME FEEL STRANGE⋯
+	FICAR AQUI SEMPRE
+	FAZ EU ME SENTIR
+	ESTRANHO...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE HOLES⋯
-	SO MANY HOLES⋯
-	HEH⋯HEH HEH⋯
+	OS BURACOS...
+	TANTOS BURACOS...
+	HE... HE HE...
 	"""
 	keyWait
 		any = false
@@ -287,16 +288,17 @@ script 41 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	STANDING HERE MAKES
-	ME FEEL STRANGE⋯
+	FICAR AQUI SEMPRE
+	FAZ EU ME SENTIR
+	ESTRANHO...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE HOLES⋯
-	SO MANY HOLES⋯
-	HEH⋯HEH HEH⋯
+	OS BURACOS...
+	TANTOS BURACOS...
+	HE... HE HE...
 	"""
 	keyWait
 		any = false
@@ -317,24 +319,25 @@ script 42 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	IT'S DANGEROUS TO
-	STAND HERE FOR LONG!
+	É PERIGOSO FICAR
+	AQUI POR TEMPO
+	DEMAIS!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ALL OF THE HOLES
-	IN THIS PASSAGE
-	MAKES MY HEAD SPIN!
+	TODOS ESSES BURACOS
+	NESTA PASSAGEM ME
+	DEIXAM TONTINHO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'M OK! I'M OK!
-	I SAID I'M OK!
-	OK,OK,OK,OK,OK,OK!
+	EU TÔ BEM! TÔ BEM!
+	JÁ FALEI,TÔ BEM!
+	BEM,BEM,BEM,BEM!
 	"""
 	keyWait
 		any = false
@@ -345,9 +348,9 @@ script 43 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	ALL THE HOLES⋯
-	LOOK AT ALL THE
-	HOLES⋯
+	TODOS OS BURACOS...
+	OLHA SÓ TODOS OS
+	BURACOS...
 	"""
 	keyWait
 		any = false
@@ -357,18 +360,18 @@ script 44 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"I JUST LOVE HOLES⋯"
+	"EU... AMO...\nOS BURACOS..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	LOOK! LOOK AT ALL
-	OF THE HOLES!
+	OLHA! OLHA SÓ TODOS
+	OS BURACOS!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"THEY'RE⋯SO LOVELY!"
+	"SÃO TÃO... LINDOS!"
 	keyWait
 		any = false
 	end
@@ -377,22 +380,22 @@ script 50 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviPink
 	msgOpen
-	"Well hello there⋯"
+	"Opa,olá..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What's everybody so
-	worked up about?
-	Some kind of event?
+	Por que tá todo mun-
+	do alvoroçado? É al-
+	gum tipo de evento?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What? Points? I
-	don't know what you
-	are talking about!
+	Quê? Pontos?
+	Eu não sei do que cê
+	tá falando!
 	"""
 	keyWait
 		any = false
@@ -402,21 +405,21 @@ script 51 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviPink
 	msgOpen
-	"Well hello there⋯"
+	"Opa,oi..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And what are you up
-	to? You look very
-	excited⋯
+	E aí,tá fazendo o
+	quê? Você parece tão
+	animado...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Almost like you're
-	ready to fight⋯
+	Parece até pronto
+	pra brigar...
 	.
 	"""
 	waitSkip
@@ -427,7 +430,7 @@ script 51 mmbn4 {
 	"."
 	waitSkip
 		frames = 30
-	" How scary!!"
+	" Medo!!"
 	keyWait
 		any = false
 	end
@@ -446,31 +449,31 @@ script 52 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviPink
 	msgOpen
-	"Well hello there⋯"
+	"Opa,oi..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hear there's a
-	tournament for only
-	the #1 battlers!
+	Parece haver um tor-
+	neio só pros melho-
+	res lutadores!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Fighting amongst
-	yourselves・
+	Lutar uns contra os
+	outros.
 	"""
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"\nHow barbaric!"
+	"\nBarbárie!"
 	keyWait
 		any = false
 	end
@@ -479,22 +482,22 @@ script 53 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviPink
 	msgOpen
-	"Well hello there⋯"
+	"Opa,olá..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It looks like that
-	tournament is quite
+	Parece que aquele
+	torneio é bem
 	popular!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯Not that I would be
-	interested in such
-	a thing!
+	... Não que eu tenha
+	interesse por tais
+	coisas!
 	"""
 	keyWait
 		any = false
@@ -504,32 +507,31 @@ script 54 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviPink
 	msgOpen
-	"Well hello there⋯"
+	"Opa,olá..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I was ever so bored,
-	so I decided to see
-	that tournament⋯
+	Eu estava entediado,
+	então decidi confe-
+	rir aquele torneio.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It was a little
-	interesting,I
-	suppose・
+	Foi até interessan-
+	te,eu acho.
 	"""
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	" A little!"
+	" mas\nsó um pouco!"
 	keyWait
 		any = false
 	end

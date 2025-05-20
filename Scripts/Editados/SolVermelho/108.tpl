@@ -113,15 +113,15 @@ script 6 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"\" Você foi avisado,\n Lan. Podemos fazer\n muito pior."
+	"\"Você foi avisado,\nLan. Podemos fazer\nmuito pior."
 	keyWait
 		any = false
 	clearMsg
-	" Se não quiser que\n aqueles que ama se\n machuquem mais,"
+	"Se não quiser que\naqueles que ama se\nmachuquem mais,"
 	keyWait
 		any = false
 	clearMsg
-	" traga o DarkChip \n a Parque Área2\"."
+	"traga o Chip das\nTrevas à Área Parque\n2\"."
 	keyWait
 		any = false
 	flagSet
@@ -156,7 +156,7 @@ script 8 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	" traga o DarkChip \n a Parque Área2\"."
+	" traga o ChipTrev \n à Parque Área2\"."
 	keyWait
 		any = false
 	end

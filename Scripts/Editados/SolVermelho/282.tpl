@@ -5,8 +5,8 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It's too early for
-	the match,Lan!
+	Ainda tá cedo demais
+	pra luta,Lan!
 	"""
 	keyWait
 		any = false
@@ -17,8 +17,8 @@ script 1 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's got find
-	Mr.Famous!
+	Lan,vamos atrás do
+	Sr. Famoso!
 	"""
 	keyWait
 		any = false

@@ -6,8 +6,7 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	JunkMan?
-	Sounds pretty
-	tough.
+	Parece bem forte.
 	"""
 	keyWait
 		any = false
@@ -19,15 +18,15 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	All they're telling
-	us is that he's
+	Só o que dizem aí
+	é que ele é o
+	representante de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the representative
-	of YumLand.
+	Saborya.
 	"""
 	keyWait
 		any = false
@@ -39,8 +38,9 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Yeah.
-	He's kinda creepy.
+	É.
+	Na real,ele é meio
+	sinistro.
 	"""
 	keyWait
 		any = false
@@ -52,14 +52,14 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Don't worry,all we
-	gotta do is fight
-	our usual way.
+	Relaxa. É só a gente
+	lutar como a gente
+	sempre luta!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Huh?!"
+	"Hm?!"
 	keyWait
 		any = false
 	end
@@ -68,7 +68,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What is it,MegaMan?"
+	"Que foi,MegaMan?"
 	keyWait
 		any = false
 	clearMsg
@@ -79,8 +79,9 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I get the feeling
-	we're being watched.
+	Tô com a sensação de
+	que a gente tá sendo
+	observado.
 	"""
 	keyWait
 		any = false
@@ -90,13 +91,13 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"There's nobody here."
+	"Não tem ninguém\naqui."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why so nervous,
-	MegaMan?
+	Por que tá tão
+	nervoso,MegaMan?
 	"""
 	keyWait
 		any = false
@@ -107,13 +108,13 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"I'm not nervous."
+	"Eu não tô nervoso."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe it was
-	nothing?
+	Será que não era
+	nada mesmo...?
 	"""
 	keyWait
 		any = false
@@ -123,7 +124,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
 	msgOpen
-	"Oh no⋯"
+	"Ai,não..."
 	keyWait
 		any = false
 	end
@@ -132,7 +133,7 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What's wrong?"
+	"Que foi?"
 	keyWait
 		any = false
 	clearMsg
@@ -142,35 +143,35 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
-	"Oh,hi Lan."
+	"Ah,oi,Lan."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's a ton of
-	trash data in the
-	YumLand Area part of
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	the Net.
-	As a tourney
-	official,I'd like
+	A Área Saborya da
+	Rede está cheia de
+	dados-lixo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to do something
-	about it,but I'm
-	too busy now.
+	Como oficial do tor-
+	neio,eu queria fazer
+	algo a respeito
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I really have to go."
+	"""
+	disso,mas estou
+	ocupada demais
+	agora.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Com licença,tenho\nmesmo que ir."
 	keyWait
 		any = false
 	end
@@ -179,7 +180,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Oh no!"
+	"Que problemão!"
 	keyWait
 		any = false
 	clearMsg
@@ -189,13 +190,14 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Huh⋯"
+	"Hm..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wanna go check out
-	the trash data?
+	Quer ir lá dar
+	uma olhada nos
+	dados-lixo?
 	"""
 	keyWait
 		any = false
@@ -207,8 +209,9 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Well,we don't want
-	to get in her way.
+	Ah,não seria bom a
+	gente atrapalhar
+	ela.
 	"""
 	keyWait
 		any = false
@@ -220,15 +223,16 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Maybe we can help
-	out somehow?
+	Não daria pra gente
+	ajudar?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If we're in the way,
-	we can just leave.
+	Se a gente
+	atrapalhar,a gente
+	desconecta.
 	"""
 	keyWait
 		any = false
@@ -239,7 +243,7 @@ script 14 mmbn4 {
 script 15 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Yeah,okay."
+	"Bom... Tá bom."
 	keyWait
 		any = false
 	end

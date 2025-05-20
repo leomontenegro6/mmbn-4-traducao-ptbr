@@ -5,22 +5,22 @@ script 0 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Hmmm⋯Now this
-	is a surprise.
+	Hmmm...
+	Que surpresa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A foreign Navi win-
-	ning the Quest?
+	Um Navi estrangeiro,
+	vencendo a Campanha?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The others must be
-	told.
+	Preciso informar aos
+	outros.
 	"""
 	keyWait
 		any = false
@@ -31,27 +31,29 @@ script 1 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Listen,everyone. We
-	have a new Champion.
+	Escutem,amigos.
+	Temos um novo
+	Campeão...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It's MegaMan!"
+	"MegaMan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What a surprising
-	outcome!
-	Still,we must praise
+	Que resultado
+	surpreendente!
+	Devemos celebrar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	his strength and
-	outstanding ability.
+	a força e habilida-
+	dades excepcionais
+	dele!
 	"""
 	keyWait
 		any = false
@@ -62,7 +64,7 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
-	"Congratulations."
+	"Parabéns."
 	keyWait
 		any = false
 	clearMsg
@@ -72,7 +74,7 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = PurpleNavi
-	"Amazing!"
+	"Mandou bem!"
 	keyWait
 		any = false
 	clearMsg
@@ -82,7 +84,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviPink
-	"Wish I'd won⋯"
+	"Eu queria tanto\nvencer..."
 	keyWait
 		any = false
 	clearMsg
@@ -92,7 +94,7 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = NaviGirlOrange
-	"I'm jealous."
+	"Que inveja."
 	keyWait
 		any = false
 	clearMsg
@@ -103,8 +105,7 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	Hey,where's
-	Jammer?
+	Ei,cadê o Jammer?
 	"""
 	keyWait
 		any = false
@@ -116,16 +117,17 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	He's probably off
-	sulking somewhere.
+	Deve estar se
+	lamentando em
+	algum lugar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He was sure this
-	was the year he'd
-	be Champion.
+	Ele estava com tanta
+	certeza de que seria
+	o Campeão do ano.
 	"""
 	keyWait
 		any = false
@@ -136,7 +138,7 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = PurpleNavi
-	"That must be it."
+	"É,deve ser."
 	keyWait
 		any = false
 	clearMsg
@@ -147,24 +149,25 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	He's strong,
-	I'll give him that,
-	but too immature.
+	Ele é forte,não
+	nego,mas imaturo
+	demais.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now maybe he'll
-	realize it's a wide
+	Talvez agora ele
+	entenda que o mundo
+	é grande,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	world,and there are
-	others stronger than
-	him out there.
+	e que tem muita
+	gente mais forte
+	que ele por aí.
 	"""
 	keyWait
 		any = false
@@ -174,20 +177,21 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"A call⋯Excuse me⋯"
+	"Uma ligação...\nCom licença."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's me⋯What?!
-	Th-the river's⋯?!
+	Sou eu... O quê?!
+	O-o rio...?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK!! I'll have them
-	jack out right away!
+	Certo! Farei com
+	que desconectem
+	imediatamente!
 	"""
 	keyWait
 		any = false
@@ -198,22 +202,25 @@ script 11 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Listen,everyone. We
-	gotta jack out now!
+	Escutem,amigos.
+	Temos que
+	desconectar agora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It seems the river's
-	suddenly run dry!!
+	Parece que o rio
+	repentinamente
+	secou!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The WaterGod's angry
-	about something!!
+	O Deus da Água está
+	irritado com alguma
+	coisa!!
 	"""
 	keyWait
 		any = false
@@ -224,8 +231,8 @@ script 12 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	We can't live with-
-	out the river!!
+	Não dá para vivermos
+	sem o rio!!
 	"""
 	keyWait
 		any = false
@@ -237,14 +244,14 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	MegaMan,
-	it seems something
-	terrible's happened!
+	MegaMan,parece
+	que aconteceu um
+	desastre aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"We gotta jack out!!"
+	"A gente tem que se\ndesconectar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -254,7 +261,7 @@ script 13 mmbn4 {
 script 14 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Roger!!"
+	"Entendido!!"
 	keyWait
 		any = false
 	end

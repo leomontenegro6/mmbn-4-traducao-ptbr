@@ -243,9 +243,8 @@ script 17 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A gente não pode
-	deixar o MegaMan pra
-	trás!
+	Eu não posso deixar
+	o MegaMan pra trás!
 	"""
 	keyWait
 		any = false
@@ -298,7 +297,7 @@ script 25 mmbn4 {
 	msgOpen
 	"""
 	Vá à Praça se quiser
-	entrar no Torneio da
+	entrar no Torneio de
 	Batalha Den!
 	"""
 	keyWait
@@ -570,7 +569,7 @@ script 131 mmbn4 {
 		mugshot = Shuko
 	msgOpen
 	"""
-	Você fez muita coisa
+	Você fez tanta coisa
 	por mim.
 	"""
 	keyWait
@@ -585,8 +584,8 @@ script 131 mmbn4 {
 	clearMsg
 	"""
 	Fazendo um estranho
-	se esforçar tanto
-	por mim...!
+	ralar tanto por
+	mim...!
 	"""
 	keyWait
 		any = false
@@ -604,16 +603,16 @@ script 132 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Bom,agora está tudo
+	Bom,agora tá tudo
 	nas suas mãos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Por favor,me ajude a
-	resolver essa
-	confusão toda!
+	Por favor,ajude a
+	gente a resolver
+	essa confusão toda!
 	"""
 	keyWait
 		any = false

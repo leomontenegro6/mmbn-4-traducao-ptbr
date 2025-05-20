@@ -12,8 +12,9 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Este AirStadium
-	sobre o castelo
+	Este Estádio
+	Suspenso sobre o
+	castelo
 	"""
 	keyWait
 		any = false

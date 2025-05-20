@@ -24,31 +24,32 @@ script 0 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'M WORRIED ABOUT
-	ALL THOSE THAT WENT
-	OUT⋯
+	ESTOU PREOCUPADO COM
+	TODOS QUE SAÍRAM
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TO LOOK INTO THE
-	MAINTENANCE SYSTEM⋯
+	PARA INVESTIGAR O
+	SISTEMA DE
+	MANUTENÇÃO...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I WISH SOMEONE WOULD
-	GO CHECK ON THEM⋯
+	QUERIA QUE ALGUÉM
+	FOSSE LÁ VER COMO
+	ESTÃO...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WHAT? YOU WILL?
-	THANK YOU! HERE,TAKE
-	THIS⋯
+	HÃ? VOCÊ VAI?
+	OBRIGADO! AQUI,
+	LEVE ISTO...
 	"""
 	keyWait
 		any = false
@@ -74,7 +75,7 @@ script 0 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
-	"THANK YOU SO MUCH!"
+	"MUITO OBRIGADO!"
 	keyWait
 		any = false
 	end
@@ -83,7 +84,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"THANK YOU SO MUCH!"
+	"MUITO OBRIGADO!"
 	keyWait
 		any = false
 	end
@@ -93,9 +94,9 @@ script 2 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	TO WORK,TO WORK!
-	I'VE GOT SO MUCH TO
-	DO⋯
+	TRABALHO,TRABALHO!
+	TENHO TANTA COISA
+	PARA FAZER...
 	"""
 	keyWait
 		any = false
@@ -106,16 +107,16 @@ script 3 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'M WORRIED ABOUT
-	ALL THOSE THAT WENT
-	OUT⋯
+	ESTOU PREOCUPADO COM
+	TODOS QUE SAÍRAM
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TO LOOK INTO THE
-	MAINTENANCE SYSTEM⋯
+	PARA INVESTIGAR O
+	SISTEMA DE
+	MANUTENÇÃO...
 	"""
 	keyWait
 		any = false
@@ -131,45 +132,45 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"HELLO!"
+	"OLÁ!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IN AN EFFORT TO
-	BRING CASTILLO
-	CLOSER TO YOU,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	WE HAVE DECIDED TO
-	START A BANNER LINK
-	PROGRAM!
+	PARA TRAZER O CAS-
+	TILLO PARA MAIS
+	PERTINHO DE VOCÊ,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BY INSTALLING A
-	"BANNER INTO YOUR
-	 HP⋯"
+	DECIDIMOS COMEÇAR
+	UM PROGRAMA DE
+	BANNERS COM LINK!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU CAN JUMP
-	DIRECTLY HERE,AT
-	ANY TIME!
+	AO INSTALAR UM
+	"BANNER" NA SUA
+	PÁGINA...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WOULD YOU LIKE TO
-	CREATE A LINK?
+	VOCÊ PODE VIR
+	DIRETAMENTE PARA CÁ,
+	A QUALQUER HORA!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	GOSTARIA DE CRIAR
+	UM LINK?
 	"""
 	keyWait
 		any = false
@@ -209,14 +210,13 @@ script 4 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
-	"OH,I SEE⋯"
+	"AH,ENTENDO..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THANK YOU FOR
-	YOUR PATRONAGE
-	ANYWAY!
+	OBRIGADO MESMO
+	ASSIM!
 	"""
 	keyWait
 		any = false
@@ -227,9 +227,8 @@ script 5 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	YOU WOULD LIKE A
-	LINK? HERE,TAKE
-	THIS,PLEASE!
+	AH,VAI QUERER UM
+	LINK? AQUI,TOME!
 	"""
 	keyWait
 		any = false
@@ -258,28 +257,29 @@ script 5 mmbn4 {
 		mugshot = MrProgGreen
 	"""
 	OK,OK,OK!
-	IIIIIT'S,SHOWTIME!
+	É HOOORAAAA...
+	DO SHOW!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	LET'S INSTALL THAT
+	VAMOS INSTALAR O
 	LINK!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"THREE⋯"
+	"3..."
 	waitSkip
 		frames = 30
-	" TWO⋯"
+	" 2..."
 	waitSkip
 		frames = 30
-	" ONE⋯"
+	" 1..."
 	waitSkip
 		frames = 30
-	"\n⋯ZERO!"
+	"\n... ZERO!"
 	keyWait
 		any = false
 	soundDisableTextSFX
@@ -295,14 +295,14 @@ script 6 mmbn4 {
 	msgOpen
 	"""
 	CASTILLO,
-	THE LAND OF DREAMS!
+	A TERRA DOS SONHOS!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE CYBER FANTASY
-	WORLD!
+	O MUNDO DA
+	CYBER-FANTASIA!
 	"""
 	keyWait
 		any = false
@@ -313,15 +313,15 @@ script 7 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE TOYROBOS ARE
-	RUNNING WILD!
+	OS ROBÔS-BRINQUEDO
+	ENLOUQUECERAM!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HOW CAN THIS HAVE
-	HAPPENED??
+	COMO ISSO FOI
+	ACONTECER?!
 	"""
 	keyWait
 		any = false
@@ -361,15 +361,17 @@ script 10 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Castillo is fun!
-	I'm so glad I came!
+	O Castillo é tão
+	divertido! Que bom
+	que eu vim!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But what's happened
-	to all the rides?
+	Mas o que aconteceu
+	com todas as
+	atrações?
 	"""
 	keyWait
 		any = false
@@ -405,24 +407,24 @@ script 11 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	Theme parks are made
-	for humans to enjoy,
-	right?
+	Parques temáticos
+	existem para humanos
+	apreciá-los,né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We Navis don't have
-	much to enjoy⋯Just
-	these BBSs⋯
+	Não tem muita coisa
+	pra nós,Navis...
+	Só estes Fóruns...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I want to ride some
-	rides!
+	Eu quero andar nos
+	brinquedos!
 	"""
 	keyWait
 		any = false
@@ -458,9 +460,9 @@ script 12 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	This HP has a castle
-	motif!
-	How elegant!
+	Esta página tem uma
+	temática de castelo!
+	Que elegante!
 	"""
 	keyWait
 		any = false
@@ -471,16 +473,17 @@ script 13 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	It looks like the
-	rides are fixed,huh?
+	Parece que os
+	brinquedos foram
+	consertados,né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess problems
-	happen often on
-	opening day⋯
+	Acho que problemas
+	são comuns na
+	inauguração...
 	"""
 	keyWait
 		any = false
@@ -491,16 +494,16 @@ script 15 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	What? You can't
-	contact your
-	operator?
+	Ué? Não estou conse-
+	guindo contatar o
+	meu operador...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What could have
-	happened?
+	O que será que
+	aconteceu?
 	"""
 	keyWait
 		any = false
@@ -511,17 +514,17 @@ script 16 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	That purple Navi's
-	operator isn't
-	responding to him⋯
+	O operador do Navi
+	roxo não está
+	respondendo ele...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Actually,the same
-	thing happened to
-	me,too!
+	Na verdade,aconteceu
+	a mesma coisa
+	comigo,também!
 	"""
 	keyWait
 		any = false
@@ -532,17 +535,17 @@ script 17 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	It looks like
-	something happened
-	in the real world!
+	Parece que aconteceu
+	alguma coisa no
+	mundo real!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe I should jack
-	out and see what's
-	up⋯
+	Talvez eu devesse
+	desconectar e
+	conferir...
 	"""
 	keyWait
 		any = false
@@ -553,9 +556,9 @@ script 20 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I wonder what could
-	have caused that
-	incident⋯
+	O que será que
+	causou aquele
+	incidente...?
 	"""
 	keyWait
 		any = false
@@ -566,35 +569,35 @@ script 21 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	ToyRobos running
-	wild⋯
+	Robôs-Brinquedo
+	tocando o terror...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That can't just be
-	a maintenance
-	problem⋯
+	Não pode ser só um
+	problema de
+	manutenção...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Someone must be
-	behind all this!
+	Deve ter alguém por
+	trás disso tudo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯Someone operating
-	in secret!
+	... Alguém operando
+	das sombras!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯⋯⋯Nah! Couldn't be!"
+	".........\nNá! Não pode ser!"
 	keyWait
 		any = false
 	end
@@ -607,9 +610,9 @@ script 22 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I heard that the
-	Eagle Tournament
-	will be at Castillo!
+	Ouvi dizer que 
+	Torneio Água será
+	no Castillo!
 	"""
 	keyWait
 		any = false
@@ -620,9 +623,9 @@ script 23 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I heard that the
-	Hawk Tournament
-	will be at Castillo!
+	Ouvi dizer que 
+	Torneio Falcão será
+	no Castillo!
 	"""
 	keyWait
 		any = false
@@ -633,16 +636,17 @@ script 25 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	So the best Battler
-	in Electopia will be
-	decided today!
+	O melhor Lutador de
+	Ni-Hon será definido
+	hoje!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm not in it,but
-	it's still exciting!
+	Eu não vou partici-
+	par,mas ainda assim
+	estou super animado!
 	"""
 	keyWait
 		any = false
@@ -653,17 +657,17 @@ script 26 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	It looks like this
-	theme park is trying
-	to improve its
+	Parece que o
+	Castillo está ten-
+	tando melhorar sua
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	image after that
-	ToyRobo thing by
-	holding a tourney⋯
+	imagem com esse tor-
+	neio,depois do negó-
+	cio dos RobôBrinq...
 	"""
 	keyWait
 		any = false
@@ -674,15 +678,15 @@ script 27 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	The #1 Battler in
-	Electopia⋯⋯⋯
+	O NetLutador #1
+	de Ni-Hon......
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wish I could be
-	called that,someday!
+	Queria conquistar
+	esse título,um dia!
 	"""
 	keyWait
 		any = false
@@ -697,8 +701,8 @@ script 130 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! The Net fire
-	has cut out the
+	Lan! O incêndio na
+	Rede estragou o
 	link!
 	"""
 	keyWait
@@ -710,17 +714,17 @@ script 131 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The fire is
-	preventing the link
-	from being fixed!
+	O incêndio tá
+	impedindo o link
+	de funcionar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looks like it will
-	take some time until
-	it's fixed again⋯
+	Parece que ainda vai
+	demorar pra ele
+	voltar ao normal...
 	"""
 	keyWait
 		any = false
@@ -731,9 +735,9 @@ script 132 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	If I jack out now,
-	the fire may spread!
-	We can't allow that!
+	Se eu desconectar,o
+	fogo pode se espa-
+	lhar! Não devemos!
 	"""
 	keyWait
 		any = false
@@ -788,8 +792,8 @@ script 220 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I'm a ProgramDealer.
-	Need some program?
+	Eu vendo programas.
+	Gostaria de um?
 	
 	"""
 	positionOptionHorizontal
@@ -802,7 +806,7 @@ script 220 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Tá  "
+	"Sim  "
 	option
 		brackets = false
 		left = 0
@@ -828,7 +832,7 @@ script 220 mmbn4 {
 }
 script 221 mmbn4 {
 	clearMsg
-	"Come again⋯"
+	"Volte sempre..."
 	keyWait
 		any = false
 	end
@@ -837,7 +841,7 @@ script 222 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Sorry,I'm sold out⋯"
+	"Desculpe,está tudo\nesgotado..."
 	keyWait
 		any = false
 	end

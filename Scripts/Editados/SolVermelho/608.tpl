@@ -5,8 +5,8 @@ script 0 mmbn4 {
 		mugshot = Yuko
 	msgOpen
 	"""
-	What took you
-	so long?
+	Por que você demorou
+	tanto?
 	"""
 	keyWait
 		any = false
@@ -18,8 +18,9 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Sorry! So,what did
-	you want to do?
+	Desculpa! Mas e aí,
+	do que cê quer
+	brincar?
 	"""
 	keyWait
 		any = false
@@ -31,8 +32,9 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Yuko
 	"""
-	Let's play tag!
-	You're it!
+	Bora brincar de
+	pega-pega!
+	Tá com você!
 	"""
 	keyWait
 		any = false
@@ -43,8 +45,8 @@ script 3 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You're on!
-	Hey,wait for me!!!
+	Já é!
+	Ei,pera aí!!
 	"""
 	keyWait
 		any = false
@@ -55,8 +57,7 @@ script 4 mmbn4 {
 		mugshot = Yuko
 	msgOpen
 	"""
-	Hey Lan,I'm
-	over here!
+	Laaan! Eu tô aqui!
 	"""
 	keyWait
 		any = false
@@ -67,15 +68,15 @@ script 5 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	*pant pant*
-	*pant pant*
+	Arf,arf...
+	Arf,arf...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Heheh,she sure has
-	a lotta energy.
+	He he,essa aí é cheia
+	de energia.
 	"""
 	keyWait
 		any = false
@@ -87,8 +88,8 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	She's like a little
-	sister or something.
+	Parece até uma irmã
+	caçula,né?
 	"""
 	keyWait
 		any = false
@@ -99,7 +100,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Heheh,yeah."
+	"He he,pois é."
 	keyWait
 		any = false
 	end
@@ -109,18 +110,18 @@ script 8 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,you've got
-	mail! It's from your
-	Mom. I'll read it.
+	Lan,chegou e-mail!
+	É da sua mãe!
+	Vou ler ele aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Lan,someone's\n here to see you.\n Come back home.\""
+	"\"Lan,você tem visita.\n Venha para casa."
 	keyWait
 		any = false
 	clearMsg
-	"And that's all."
+	"Fim do e-mail."
 	keyWait
 		any = false
 	clearMsg
@@ -130,14 +131,14 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Someone to see me?"
+	"Uma visita pra mim?\nLá em casa?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh well,I'll just
-	tell Yuko and head
-	back home for a bit.
+	Tá,né. Eu vou contar
+	pra Yuko e passar em
+	casa rapidinho.
 	"""
 	keyWait
 		any = false
@@ -148,9 +149,9 @@ script 10 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Sorry Yuko,I've got
-	something I need to
-	take care of.
+	Foi mal,Yuko,mas eu
+	tenho que resolver
+	um negócio.
 	"""
 	keyWait
 		any = false
@@ -162,9 +163,9 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Yuko
 	"""
-	No problem!
-	I'll see you in the
-	battle,then!
+	Tudo bem!
+	A gente se vê na
+	luta,então!
 	"""
 	keyWait
 		any = false
@@ -175,14 +176,14 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"All right!"
+	"Tá bom!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No matter who wins,
-	let's play again
-	afterwards,okay?
+	Vença quem vencer,
+	a gente brinca de
+	novo depois,tá bom?
 	"""
 	keyWait
 		any = false
@@ -194,8 +195,8 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = Yuko
 	"""
-	Sure⋯
-	Sounds like a plan⋯
+	... Tá...
+	Gostei da ideia.
 	"""
 	keyWait
 		any = false

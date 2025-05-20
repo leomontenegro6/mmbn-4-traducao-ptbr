@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"We did it!"
+	"Vencemos!"
 	keyWait
 		any = false
 	end
@@ -14,40 +14,41 @@ script 1 mmbn4 {
 		mugshot = Duo
 	msgOpen
 	"""
-	So you managed to
-	defeat the evil
-	within⋯
+	Então,você foi capaz
+	de vencer o mal
+	interior...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"A fine battle."
+	"Ótima luta."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	However,you only
-	succeeded in repres-
-	sing your evilness.
+	Contudo,só o que fez
+	foi reprimir a sua
+	maldade.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It is gone for now,
-	but it will likely
+	Ela se foi por ora,
+	mas,um dia,muito
+	provavelmente ela
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"reawaken one day."
+	"redespertará."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	In short,you are
-	not powerful enough
-	to defeat evil.
+	Em suma,vocês não
+	são capazes de
+	vencer o mal.
 	"""
 	keyWait
 		any = false
@@ -59,27 +60,28 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Living creatures all
-	have both good and
-	evil in their heart.
+	Todos os seres
+	vivos têm bondade e
+	maldade no coração.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"No duh!"
+	"E todo mundo sabe\ndisso!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The important thing
-	is to whether you
+	O importante é
+	nossa capacidade de
+	enfrentar nossos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	can fight your own
-	evil when it wakes!
+	lados maus quando
+	eles vêm à tona!
 	"""
 	keyWait
 		any = false
@@ -91,15 +93,16 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Duo
 	"""
-	My mission is to
-	destroy evil,even if
+	A minha missão é
+	destruir o mal,
+	mesmo que isso
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it means annihilat-
-	ing the human race.
+	signifique aniquilar
+	a raça humana.
 	"""
 	keyWait
 		any = false
@@ -111,13 +114,13 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I won't let you do
-	that!
+	Eu não vou te deixar
+	fazer isso!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"This ends here!"
+	"Isto acaba aqui!"
 	keyWait
 		any = false
 	clearMsg
@@ -128,16 +131,16 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Duo
 	"""
-	I am only following
-	my program.
+	Só estou seguindo
+	minha programação.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I must destroy you
-	because of the evil
-	you have within.
+	Devo destruir vocês
+	devido ao mal que
+	guardam em si.
 	"""
 	keyWait
 		any = false
@@ -147,11 +150,11 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Duo
 	msgOpen
-	"Raaawr!"
+	"Aaaaarrhh!"
 	keyWait
 		any = false
 	clearMsg
-	"Battle body!"
+	"Corpo de batalha!"
 	keyWait
 		any = false
 	end
@@ -160,7 +163,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Duo
 	msgOpen
-	"Right arm!!"
+	"Braço direito!!"
 	keyWait
 		any = false
 	end
@@ -169,7 +172,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Duo
 	msgOpen
-	"Left arm!!"
+	"Braço esquerdo!!"
 	keyWait
 		any = false
 	end
@@ -178,7 +181,7 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Duo
 	msgOpen
-	"Duo,battle form!"
+	"Duo,forma de\nbatalha!"
 	keyWait
 		any = false
 	end
@@ -198,20 +201,21 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I know. We gotta
-	save the planet!
+	Eu sei. A gente
+	tem que salvar
+	o planeta!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Here we go MegaMan!!"
+	"Vamos,MegaMan!!"
 	keyWait
 		any = false
 	clearMsg
-	"Last routine! "
+	"Rotina final!\n"
 	waitSkip
 		frames = 30
-	"Set!"
+	"Preparar!"
 	keyWait
 		any = false
 	clearMsg
@@ -221,7 +225,7 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -233,8 +237,8 @@ script 13 mmbn4 {
 		mugshot = Duo
 	msgOpen
 	"""
-	I must destroy all
-	evil!!
+	Eu devo eliminar
+	todo o mal!
 	"""
 	keyWait
 		any = false

@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"We're just in time."
+	"Chegamos bem na\nhora."
 	keyWait
 		any = false
 	clearMsg
@@ -14,7 +14,7 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Chaud⋯"
+	"Chaud..."
 	keyWait
 		any = false
 	clearMsg
@@ -25,13 +25,14 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	Lan,I wanna free
-	ProtoMan myself.
+	Lan,quero libertar o
+	ProtoMan com minhas
+	próprias mãos.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Please understand."
+	"... Por favor."
 	keyWait
 		any = false
 	clearMsg
@@ -62,7 +63,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Lan!!"
+	"Lan..."
 	keyWait
 		any = false
 	clearMsg
@@ -73,17 +74,17 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I hate to let anyone
-	else operate him,but
-	you're an exception.
+	Odeio deixar outro
+	operador com ele,mas
+	você é uma exceção.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And if I were in
-	your shoes,I'd
-	do the same thing!
+	E,se eu tivesse no
+	seu lugar,faria a
+	mesma coisa!
 	"""
 	keyWait
 		any = false
@@ -95,8 +96,8 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Chaud,I'm counting
-	on your operation!!
+	Chaud,deixo a
+	operação com você!
 	"""
 	keyWait
 		any = false
@@ -109,7 +110,7 @@ script 8 mmbn4 {
 		mugshot = Chaud
 	mugshotAnimation
 		animation = 2
-	"You got it!!"
+	"Positivo!!"
 	keyWait
 		any = false
 	end

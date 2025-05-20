@@ -93,13 +93,14 @@ script 3 mmbn4 {
 }
 script 4 mmbn4 {
 	msgOpen
-	"\"Possua\n "
+	"\"Possua "
 	printItem
 		buffer = 0
 		item = 119
 	"""
-	..." É isso que
-	tem escrito aí.
+	..."
+	É isso que tem
+	escrito aí.
 	"""
 	keyWait
 		any = false
@@ -172,8 +173,8 @@ script 5 mmbn4 {
 		track = 285
 	clearMsg
 	"""
-	How many tusks does
-	Nupopo have?
+	Quantas presas o
+	Nupopo possui?
 	"""
 	keyWait
 		any = false
@@ -228,8 +229,8 @@ script 5 mmbn4 {
 		track = 285
 	clearMsg
 	"""
-	What's the Attack of
-	the BattleChip
+	De quanto é o
+	ataque do chip
 	"
 	"""
 	printChip
@@ -289,9 +290,9 @@ script 5 mmbn4 {
 		track = 285
 	clearMsg
 	"""
-	The NetFrica youth
-	club leader wears
-	what color clothes?
+	Qual a cor da camisa
+	do líder do grupo de
+	jovens da Affriq?
 	"""
 	keyWait
 		any = false
@@ -307,7 +308,7 @@ script 5 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"White\n"
+	"Branca\n"
 	positionOptionVertical
 		width = 5
 	option
@@ -318,7 +319,7 @@ script 5 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Green\n"
+	"Verde\n"
 	positionOptionVertical
 		width = 5
 	option
@@ -329,7 +330,7 @@ script 5 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Brown"
+	"Marrom"
 	select
 		default = 0
 		noDelay = false
@@ -346,9 +347,9 @@ script 5 mmbn4 {
 		track = 285
 	clearMsg
 	"""
-	How many big,round
-	squares are there
-	in the Netopia Area?
+	Quantos quadros
+	redondos existem
+	na Área Ameropa?
 	"""
 	keyWait
 		any = false
@@ -403,8 +404,8 @@ script 5 mmbn4 {
 		track = 285
 	clearMsg
 	"""
-	Thou hast shown
-	thy knowledge⋯
+	Tu mostrastes teu
+	conhecimento...
 	"""
 	keyWait
 		any = false
@@ -415,9 +416,9 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	msgOpen
 	"""
-	Those who wish to
-	pass must prove
-	their strength⋯
+	Quem deseja passar
+	aqui deve provar
+	sua força...
 	"""
 	keyWait
 		any = false
@@ -430,9 +431,9 @@ script 7 mmbn4 {
 		track = 286
 	clearMsg
 	"""
-	Come again after
-	expanding your
-	knowledge⋯
+	Volte após
+	expandir o seu
+	conhecimento...
 	"""
 	keyWait
 		any = false

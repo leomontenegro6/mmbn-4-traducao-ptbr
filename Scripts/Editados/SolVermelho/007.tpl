@@ -1,7 +1,7 @@
 @size 102
 
 script 0 mmbn4s {
-	"Dad"
+	"Pai"
 	end
 }
 script 1 mmbn4s {
@@ -21,7 +21,7 @@ script 4 mmbn4s {
 	end
 }
 script 5 mmbn4s {
-	"I have Chisao"
+	"Tenho Chisao"
 	end
 }
 script 6 mmbn4s {
@@ -33,7 +33,7 @@ script 7 mmbn4s {
 	end
 }
 script 8 mmbn4s {
-	"Help!"
+	"Socorro!"
 	end
 }
 script 9 mmbn4s {
@@ -41,11 +41,11 @@ script 9 mmbn4s {
 	end
 }
 script 10 mmbn4s {
-	"Mr.LAN"
+	"Sr.LAN"
 	end
 }
 script 11 mmbn4s {
-	"Maintenance"
+	"Manutenção"
 	end
 }
 script 12 mmbn4s {
@@ -53,11 +53,11 @@ script 12 mmbn4s {
 	end
 }
 script 13 mmbn4s {
-	"Mr.LAN"
+	"Sr.LAN"
 	end
 }
 script 14 mmbn4s {
-	"Daily Fortune!"
+	"Sorte do dia"
 	end
 }
 script 15 mmbn4s {
@@ -65,11 +65,11 @@ script 15 mmbn4s {
 	end
 }
 script 16 mmbn4s {
-	"Mr.LAN"
+	"Sr.LAN"
 	end
 }
 script 17 mmbn4s {
-	"Notice"
+	"Aviso"
 	end
 }
 script 18 mmbn4s {
@@ -81,7 +81,7 @@ script 19 mmbn4s {
 	end
 }
 script 20 mmbn4s {
-	"Back home"
+	"Em casa"
 	end
 }
 script 21 mmbn4s {
@@ -89,11 +89,11 @@ script 21 mmbn4s {
 	end
 }
 script 22 mmbn4s {
-	"Mr.LAN"
+	"Sr.LAN"
 	end
 }
 script 23 mmbn4s {
-	"Meeting Place"
+	"Loc encontro"
 	end
 }
 script 24 mmbn4s {
@@ -105,7 +105,7 @@ script 25 mmbn4s {
 	end
 }
 script 26 mmbn4s {
-	"Challenge"
+	"Desafio"
 	end
 }
 script 27 mmbn4s {
@@ -129,7 +129,7 @@ script 31 mmbn4s {
 	end
 }
 script 32 mmbn4s {
-	"Hi!"
+	"Oi!"
 	end
 }
 script 33 mmbn4s {
@@ -141,11 +141,11 @@ script 34 mmbn4s {
 	end
 }
 script 35 mmbn4s {
-	"Please help!"
+	"Ajuda!"
 	end
 }
 script 36 mmbn4s {
-	"Dad"
+	"Pai"
 	end
 }
 script 37 mmbn4s {
@@ -153,11 +153,11 @@ script 37 mmbn4s {
 	end
 }
 script 38 mmbn4s {
-	"NaviCust"
+	"CustNavi"
 	end
 }
 script 39 mmbn4s {
-	"Mom"
+	"Mãe"
 	end
 }
 script 40 mmbn4s {
@@ -165,7 +165,7 @@ script 40 mmbn4s {
 	end
 }
 script 41 mmbn4s {
-	"Please help?"
+	"Ajuda?"
 	end
 }
 script 42 mmbn4s {
@@ -177,11 +177,11 @@ script 43 mmbn4s {
 	end
 }
 script 44 mmbn4s {
-	"Bring it on!"
+	"Manda ver!"
 	end
 }
 script 45 mmbn4s {
-	"C Master"
+	"M. Curry"
 	end
 }
 script 46 mmbn4s {
@@ -189,11 +189,11 @@ script 46 mmbn4s {
 	end
 }
 script 47 mmbn4s {
-	"In a bind?"
+	"Num aperto?"
 	end
 }
 script 48 mmbn4s {
-	"Dad"
+	"Pai"
 	end
 }
 script 49 mmbn4s {
@@ -201,11 +201,11 @@ script 49 mmbn4s {
 	end
 }
 script 50 mmbn4s {
-	"GutsSoul"
+	"AlmaGuts"
 	end
 }
 script 51 mmbn4s {
-	"Dad"
+	"Pai"
 	end
 }
 script 52 mmbn4s {
@@ -213,11 +213,11 @@ script 52 mmbn4s {
 	end
 }
 script 53 mmbn4s {
-	"FireSoul"
+	"FireAlma"
 	end
 }
 script 54 mmbn4s {
-	"Dad"
+	"Pai"
 	end
 }
 script 55 mmbn4s {
@@ -225,11 +225,11 @@ script 55 mmbn4s {
 	end
 }
 script 56 mmbn4s {
-	"RollSoul"
+	"RollAlma"
 	end
 }
 script 57 mmbn4s {
-	"Dad"
+	"Pai"
 	end
 }
 script 58 mmbn4s {
@@ -237,11 +237,11 @@ script 58 mmbn4s {
 	end
 }
 script 59 mmbn4s {
-	"WindSoul"
+	"WindAlma"
 	end
 }
 script 60 mmbn4s {
-	"Dad"
+	"Pai"
 	end
 }
 script 61 mmbn4s {
@@ -249,11 +249,11 @@ script 61 mmbn4s {
 	end
 }
 script 62 mmbn4s {
-	"ThunSoul"
+	"ThunAlma"
 	end
 }
 script 63 mmbn4s {
-	"Dad"
+	"Pai"
 	end
 }
 script 64 mmbn4s {
@@ -261,11 +261,11 @@ script 64 mmbn4s {
 	end
 }
 script 65 mmbn4s {
-	"SrchSoul"
+	"SrchAlma"
 	end
 }
 script 66 mmbn4s {
-	"Dad"
+	"Pai"
 	end
 }
 script 67 mmbn4s {
@@ -273,11 +273,11 @@ script 67 mmbn4s {
 	end
 }
 script 68 mmbn4s {
-	"AquaSoul"
+	"AquaAlma"
 	end
 }
 script 69 mmbn4s {
-	"Dad"
+	"Pai"
 	end
 }
 script 70 mmbn4s {
@@ -285,11 +285,11 @@ script 70 mmbn4s {
 	end
 }
 script 71 mmbn4s {
-	"NumSoul"
+	"NumAlma"
 	end
 }
 script 72 mmbn4s {
-	"Dad"
+	"Pai"
 	end
 }
 script 73 mmbn4s {
@@ -297,11 +297,11 @@ script 73 mmbn4s {
 	end
 }
 script 74 mmbn4s {
-	"WoodSoul"
+	"WoodAlma"
 	end
 }
 script 75 mmbn4s {
-	"Dad"
+	"Pai"
 	end
 }
 script 76 mmbn4s {
@@ -309,11 +309,11 @@ script 76 mmbn4s {
 	end
 }
 script 77 mmbn4s {
-	"MetlSoul"
+	"MetlAlma"
 	end
 }
 script 78 mmbn4s {
-	"Dad"
+	"Pai"
 	end
 }
 script 79 mmbn4s {
@@ -321,11 +321,11 @@ script 79 mmbn4s {
 	end
 }
 script 80 mmbn4s {
-	"JunkSoul"
+	"JunkAlma"
 	end
 }
 script 81 mmbn4s {
-	"Dad"
+	"Pai"
 	end
 }
 script 82 mmbn4s {
@@ -333,7 +333,7 @@ script 82 mmbn4s {
 	end
 }
 script 83 mmbn4s {
-	"ProtSoul"
+	"ProtAlma"
 	end
 }
 script 84 mmbn4s {
@@ -349,15 +349,15 @@ script 86 mmbn4s {
 	end
 }
 script 87 mmbn4s {
-	"WeathCen"
+	"C. Clima"
 	end
 }
 script 88 mmbn4s {
-	"Battlers"
+	"Ltadores"
 	end
 }
 script 89 mmbn4s {
-	"Weather update"
+	"Previsão"
 	end
 }
 script 90 mmbn4s {
@@ -369,7 +369,7 @@ script 91 mmbn4s {
 	end
 }
 script 92 mmbn4s {
-	"This come in"
+	"Notícia!"
 	end
 }
 script 93 mmbn4s {
@@ -381,7 +381,7 @@ script 94 mmbn4s {
 	end
 }
 script 95 mmbn4s {
-	"You the man!"
+	"Cê é demais!"
 	end
 }
 script 96 mmbn4s {
@@ -393,11 +393,11 @@ script 97 mmbn4s {
 	end
 }
 script 98 mmbn4s {
-	"Notice"
+	"Aviso"
 	end
 }
 script 99 mmbn4s {
-	"HotelNet"
+	"HotelVrm"
 	end
 }
 script 100 mmbn4s {
@@ -405,6 +405,6 @@ script 100 mmbn4s {
 	end
 }
 script 101 mmbn4s {
-	"To esteemed"
+	"Estimados..."
 	end
 }

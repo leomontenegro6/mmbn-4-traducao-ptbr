@@ -3,17 +3,17 @@
 script 0 mmbn4 {
 	msgOpen
 	"""
-	This spacesuit's for
-	display,so it's
-	larger than normal⋯
+	É um traje espacial
+	para exposição. Por
+	isso,é extra-grande.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Its size makes it
-	easy to examine how
-	it's been made.
+	O tamanho facilita o
+	estudo dos materiais
+	que o compõem.
 	"""
 	keyWait
 		any = false
@@ -24,9 +24,9 @@ script 0 mmbn4 {
 		jumpIfFalse = continue
 	clearMsg
 	"""
-	There's something
-	gripped in the
-	spacesuit hand
+	Tem alguma coisa
+	presa na mão do
+	traje espacial
 	"""
 	waitSkip
 		frames = 30
@@ -48,8 +48,8 @@ script 0 mmbn4 {
 	playerAnimateScene
 		animation = 24
 	"""
-	Lan got:
-	PowerUp Program
+	Lan adquiriu:
+	Programa PowerUp
 	"
 	"""
 	printItem
@@ -62,9 +62,8 @@ script 0 mmbn4 {
 	playerResetScene
 	clearMsg
 	"""
-	Regular Memory
-	size has increased
-	by 3 MB!
+	Memória Padrão
+	aumentada em 3 MB!
 	"""
 	keyWait
 		any = false
@@ -73,9 +72,9 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	msgOpen
 	"""
-	It's an elevator
-	linking the 2nd
-	floor to the roof.
+	É um elevador que
+	liga o segundo andar
+	ao telhado.
 	"""
 	keyWait
 		any = false
@@ -87,17 +86,17 @@ script 2 mmbn4s {
 script 3 mmbn4 {
 	msgOpen
 	"""
-	Pressing the button
-	makes the display
-	spacesuit move.
+	Apertar o botão faz
+	o traje espacial à
+	mostra se mover.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But it looks like
-	it's being adjusted
-	right now.
+	Mas parece que está
+	sendo consertado
+	agora.
 	"""
 	keyWait
 		any = false
@@ -106,23 +105,24 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	msgOpen
 	"""
-	Someone's left an
-	NAXA pamphlet⋯
+	Alguém deixou um
+	panfleto da NAXA
+	aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It contains NAXA's
-	mascot,"Sana",
+	Contém o mascote
+	da NAXA,"Sana",
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	giving an easy-to-
-	follow tour of the
-	facility.
+	dando um tour
+	simplificado das
+	instalações.
 	"""
 	keyWait
 		any = false
@@ -131,16 +131,17 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	msgOpen
 	"""
-	An internal phone
-	for NAXA staff.
+	Um telefone interno
+	para funcionários da
+	NAXA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can tell it's
-	NAXA with the star-
-	shaped buttons.
+	Dá pra ver que é da
+	NAXA pelos botões em
+	forma de estrela.
 	"""
 	keyWait
 		any = false

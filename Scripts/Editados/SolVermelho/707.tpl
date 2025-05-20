@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I've been waiting
-	for you,MegaMan.
-	Welcome to the Dojo!
+	Estava lhe esperan-
+	do,MegaMan.EXE.
+	Bem-vindo ao Dojô!
 	"""
 	keyWait
 		any = false
@@ -20,8 +20,8 @@ script 1 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You're the Cooking
-	Master?
+	Você é o
+	Mestre-Cuca Mestre?
 	"""
 	keyWait
 		any = false
@@ -34,24 +34,24 @@ script 2 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	No,I'm the Cooking
-	Master's Navi.
+	Não,eu sou o Navi do
+	Mestre-Cuca Mestre.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Master has
-	commanded me to
-	teach you everything
+	O Mestre mandou que
+	eu lhe ensinasse
+	tudo o que há para
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	there is to know
-	about making curry
-	with that machine.
+	saber sobre fazer
+	curry com aquela
+	máquina.
 	"""
 	keyWait
 		any = false
@@ -64,23 +64,23 @@ script 3 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I don't want to look
-	a gift horse in the
-	mouth,
+	Olha,eu não quero
+	reclamar de coisa
+	dada de graça,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but who the heck is
-	this Cooking Master?
+	mas quem É esse tal
+	Mestre-Cuca Mestre?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why does he want to
-	help us?
+	E por que ele quer
+	ajudar a gente?
 	"""
 	keyWait
 		any = false
@@ -93,23 +93,24 @@ script 4 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Sorry,but I can't
-	tell you that.
+	Sinto muito,mas
+	não posso contar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But if you stick
-	with me,MegaMan,
+	Mas,se você me
+	deixar guiá-lo,
+	MegaMan,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guarantee you'll
-	master the cooking
-	machine in no time.
+	prometo que dominará
+	a máquina culinária
+	em pouco tempo.
 	"""
 	keyWait
 		any = false
@@ -133,9 +134,9 @@ script 6 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's trust this
-	Cooking Master for
-	now,MegaMan.
+	Vamos confiar nesse
+	Mestre-Cuca Mestre
+	por enquanto...
 	"""
 	keyWait
 		any = false
@@ -147,13 +148,13 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Okay!"
+	"OK!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	All right,show us
-	what you got!
+	Certo,então,
+	pode mandar!
 	"""
 	keyWait
 		any = false
@@ -165,13 +166,13 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Nice attitude."
+	"Gostei da atitude."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Okay,MegaMan,look
-	at this!
+	Pois bem,MegaMan,
+	veja isto!
 	"""
 	keyWait
 		any = false
@@ -181,7 +182,7 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"What is it?"
+	"O que é isso?"
 	keyWait
 		any = false
 	clearMsg
@@ -193,40 +194,40 @@ script 10 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	It's the same type
-	of pan as the one on
-	the CookComp.
+	É o mesmo tipo de
+	panela que a máquina
+	usa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The ingredients that
-	the operator puts
-	in the machine turn
+	Os ingredientes que
+	o operador insere
+	na máquina viram
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	into data,and fall
-	onto that pan.
+	dados,e,então,
+	caem nesta panela.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When the Navi in the
-	machine works with
-	the ingredient data,
+	Quando o Navi na
+	máquina manuseia os
+	ingredientes-dado,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the machine does
-	exactly the same
-	thing in reality!
+	a máquina faz a
+	mesma coisa no
+	mundo real!
 	"""
 	keyWait
 		any = false
@@ -239,9 +240,9 @@ script 11 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So that's why it's
-	important to work
-	with my Navi⋯
+	Então é assim que
+	se opera ela junto
+	ao Navi...
 	"""
 	keyWait
 		any = false
@@ -254,17 +255,17 @@ script 12 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Let's begin your
-	training with that
-	pan right away!
+	Comecemos o seu
+	treinamento com
+	a panela!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	All right,when
-	you're ready,
-	approach the pan!
+	Bem,quando estiver
+	pronto,aproxime-se
+	dela!
 	"""
 	keyWait
 		any = false

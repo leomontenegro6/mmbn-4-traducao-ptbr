@@ -2,7 +2,7 @@
 
 script 0 mmbn4 {
 	msgOpen
-	"Space-time's warped!"
+	"O espaço-tempo foi\ndistorcido!"
 	keyWait
 		any = false
 	end

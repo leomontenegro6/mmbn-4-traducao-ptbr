@@ -15,7 +15,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = WindMan
 	msgOpen
-	"*foooooooo!!!*"
+	"Fuuuuu!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -28,8 +28,8 @@ script 2 mmbn4 {
 	msgOpen
 	"""
 	MegaMan!
-	Hurry up and blow on
-	the "
+	Rápido,toca a
+	"
 	"""
 	printItem
 		buffer = 0
@@ -45,7 +45,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Okay!"
+	"Tá!"
 	keyWait
 		any = false
 	end
@@ -54,7 +54,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = WindMan
 	msgOpen
-	"*woooo*"
+	"Fuuuuu..."
 	keyWait
 		any = false
 	clearMsg
@@ -76,14 +76,13 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = WindMan
 	msgOpen
-	"What am I doing⋯"
+	"O que eu estou\nfazendo...?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The seal broke all
-	of a sudden,and
-	then⋯
+	O lacre se rompeu de
+	repente,e então...
 	"""
 	keyWait
 		any = false
@@ -96,17 +95,17 @@ script 7 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Then you turned this
-	whole area into a
-	big storm.
+	... você cobriu esta
+	área com uma enorme
+	tempestade.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lilly told me to
-	come here and stop
-	you.
+	A Lilly falou pra
+	gente vir aqui e te
+	parar.
 	"""
 	keyWait
 		any = false
@@ -116,21 +115,21 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = WindMan
 	msgOpen
-	"Humph."
+	"Humpf."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Not only did my
-	power overwhelm me,
-	I lost all control.
+	O meu poder me
+	sobrepujou e eu
+	perdi o controle...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is the worst
-	mistake of my life.
+	Esse foi o maior
+	erro da minha vida.
 	"""
 	keyWait
 		any = false
@@ -140,13 +139,13 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = WindMan
 	msgOpen
-	"And you saved me."
+	"E vocês me salvaram."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thank you,MegaMan.
-	And you,Lan.
+	Obrigado,MegaMan.
+	E você também,Lan.
 	"""
 	keyWait
 		any = false
@@ -159,23 +158,23 @@ script 10 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Don't worry about
-	it!
+	Nem esquenta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Worry about the
-	match - it's about
-	to start!
+	Esquenta é com a
+	luta! Ela tá pra
+	começar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'd better jack out
-	and get ready!
+	É melhor a gente
+	desconectar e se
+	preparar!
 	"""
 	keyWait
 		any = false
@@ -187,14 +186,14 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = WindMan
 	msgOpen
-	"Right."
+	"Certo."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,I'll be
-	waiting at the
-	tournament site.
+	MegaMan,espero por
+	você no local do
+	torneio.
 	"""
 	keyWait
 		any = false
@@ -205,8 +204,9 @@ script 12 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Okay,MegaMan,we'd
-	better go too!
+	Beleza,MegaMan,é
+	melhor a gente ir
+	também!
 	"""
 	keyWait
 		any = false
@@ -218,7 +218,7 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Okay!"
+	"Tá!"
 	keyWait
 		any = false
 	end

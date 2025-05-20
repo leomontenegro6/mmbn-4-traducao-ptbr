@@ -5,8 +5,8 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK,this igniter's
-	been disabled!
+	Pronto,desativamos
+	este dispositivo!
 	"""
 	keyWait
 		any = false

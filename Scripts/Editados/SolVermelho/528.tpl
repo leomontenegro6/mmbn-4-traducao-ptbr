@@ -5,21 +5,21 @@ script 0 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	All battles in the
-	Round 1 have
-	been completed!!
+	Todas as batalhas
+	da primeira rodada
+	foram concluídas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can now announce
-	the results.
+	Agora,anunciaremos
+	os resultados.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Here they are!!"
+	"Vejam!!"
 	keyWait
 		any = false
 	end

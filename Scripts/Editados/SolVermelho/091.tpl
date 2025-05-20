@@ -141,8 +141,8 @@ script 9 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	CyberTopComp⋯Try
-	not to get dizzy!
+	CPUCyberPião...
+	Não vá ficar tonto!
 	"""
 	keyWait
 		any = false
@@ -154,8 +154,8 @@ script 10 mmbn4 {
 	msgOpen
 	"""
 	É incrível como tem
-	entrada até numas
-	coisas tão finas...
+	entrada até em coi-
+	sas finas assim...
 	"""
 	keyWait
 		any = false
@@ -206,7 +206,7 @@ script 14 mmbn4 {
 	"""
 	Espero que aí tenha
 	ar... Pera,EXISTE
-	ar no cyberespaço?
+	ar no ciberespaço?
 	"""
 	keyWait
 		any = false
@@ -308,8 +308,8 @@ script 23 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Então é aqui que vai
-	ser o Torneio da
+	Então este é o palco
+	do Torneio de
 	Batalha Den...
 	"""
 	keyWait
@@ -346,9 +346,9 @@ script 31 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Sal said that a
-	member is here! We
-	have to find him!
+	A Sal disse que tem
+	um membro aqui!
+	Temos que achá-lo!
 	"""
 	keyWait
 		any = false
@@ -359,8 +359,9 @@ script 32 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I don't like the
-	feeling of this⋯
+	Tô com um mau
+	pressentimento
+	aqui...
 	"""
 	keyWait
 		any = false
@@ -383,16 +384,16 @@ script 36 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Something happened
-	at home?!
+	Aconteceu alguma
+	coisa lá em casa?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We've got to jack
-	out and go check on
-	Mom!
+	Temos que desconec-
+	tar e ver como a
+	mamãe tá!
 	"""
 	keyWait
 		any = false
@@ -403,16 +404,16 @@ script 37 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I wonder if this
-	alarm is what made
-	the guy run away?
+	Será que foi este
+	alarme que espantou
+	o cara?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We need to get after
-	that criminal!
+	A gente tem que ir
+	atrás do bandido!
 	"""
 	keyWait
 		any = false
@@ -423,9 +424,9 @@ script 39 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Play tag,huh? I
-	guess we don't have
-	much choice⋯
+	Pega-pega,é? Bom,
+	acho que não temos
+	muita escolha...
 	"""
 	keyWait
 		any = false
@@ -456,9 +457,9 @@ script 41 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What could Roll
-	want? Let's go ask
-	her ourselves!
+	O que a Roll quer?
+	Vamos perguntar pra
+	ela!
 	"""
 	keyWait
 		any = false
@@ -469,9 +470,9 @@ script 42 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Roll sure is fast,
-	isn't she?
-	Good luck,MegaMan!
+	A Roll é rápida
+	mesmo,né?
+	Boa sorte,MegaMan!
 	"""
 	keyWait
 		any = false
@@ -482,9 +483,9 @@ script 43 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,jack out!
-	We have to get to
-	the castle!
+	MegaMan,desconecta!
+	A gente tem que ir
+	pro castelo!
 	"""
 	keyWait
 		any = false
@@ -495,8 +496,8 @@ script 44 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Então é aqui que
-	vai ser o Torneio de
+	Então este é o palco
+	ser o Torneio de
 	Batalha da Cidade...
 	"""
 	keyWait

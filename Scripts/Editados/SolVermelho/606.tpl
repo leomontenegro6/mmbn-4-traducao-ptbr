@@ -5,8 +5,8 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's see,our next
-	opponent is⋯
+	Vejamos,o nosso
+	adversário é...
 	"""
 	keyWait
 		any = false
@@ -21,7 +21,7 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"What a cute name."
+	"Que nome bonitinho."
 	keyWait
 		any = false
 	clearMsg
@@ -32,16 +32,16 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Yeah,doesn't sound
-	very strong.
+	É,não parece lá
+	muito forte.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Still,be careful.
-	You can't judge a
-	Navi by its name!
+	Ainda assim,é bom
+	a gente não julgar
+	um Navi pelo nome!
 	"""
 	keyWait
 		any = false
@@ -53,7 +53,8 @@ script 3 mmbn4 {
 	msgOpen
 	"""
 	MegaMan!
-	Let's go full-bore!
+	Bora lutar com tudo
+	e mais um pouco!
 	"""
 	keyWait
 		any = false
@@ -64,7 +65,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Of course!"
+	"Claro,né?!"
 	keyWait
 		any = false
 	end

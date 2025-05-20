@@ -20,32 +20,32 @@ script 0 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'M A WORKING.
-	I'M A WORKING.
+	TRABALHANDO.
+	TRABALHANDO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'M WORKING ALL DAY
-	LONG!
+	TRABALHANDO ATÉ O
+	DIA RAIAR!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WHAT DO YOU THINK?
-	I WROTE THE SONG AND
-	LYRICS MYSELF!
+	QUE TAL? EU MESMO
+	COMPUS ESSA MÚSICA E
+	ESCREVI AS LETRAS!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"BALLAD OF THE\n WORKING PROGRAM\"!"
+	"\"A BALADA DO\n PROG TRABALHADOR\"!"
 	keyWait
 		any = false
 	clearMsg
-	"WERE YOU MOVED?"
+	"FICOU COMOVIDO?"
 	keyWait
 		any = false
 	end
@@ -70,9 +70,9 @@ script 1 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	That Mr.Prog over
-	there is singing
-	a lovely song⋯
+	Aquele Prog ali está
+	cantando uma música
+	tão linda...
 	"""
 	keyWait
 		any = false
@@ -83,17 +83,16 @@ script 5 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	PROOOOOGRAM!
-	PROOOOOOOGRAM!
+	PROOOGRAMA!
+	PROG,PROGRAAMAA!
 	LA LA LA LA LAAAA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WHAT DO YOU THINK?
-	PRETTY AMAZING,
-	RIGHT?
+	O QUE ACHOU?
+	INCRÍVEL,NÃO É?
 	"""
 	keyWait
 		any = false
@@ -104,17 +103,16 @@ script 6 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	The song of Mr.Prog
-	and "Ballad of the
-	Program"!
+	É a música do Prog,
+	"A Balada do Prog"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A perfect expression
-	of the plight of the
-	working class!
+	Uma expressão per-
+	feita das angústias
+	da classe operária!
 	"""
 	keyWait
 		any = false
@@ -125,20 +123,20 @@ script 10 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	DOODLY WOP-BOP BAM!
-	SHOOBLY BAM BAM BOP!
+	TIRIRI POM-POM PÁ!
+	PERULÊ DEN DEN TOC!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BIPPETY-BIPPETY
-	BIPPETY-BIPPETY
+	PIPIPIU!
+	PIPIPIU!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"WOW,I'M GREAT!"
+	"NOSSA,EU SOU DEMAIS!"
 	keyWait
 		any = false
 	end
@@ -148,16 +146,16 @@ script 11 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I just love the Mr.
-	Progs in this area!
-	
+	Eu simplesmente
+	adoro o Prog desta
+	área!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's got a great
-	voice for a Mr.Prog!
+	Pra um Prog,a voz
+	dele é linda!
 	"""
 	keyWait
 		any = false
@@ -168,15 +166,15 @@ script 15 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	SANG⋯TOO MUCH⋯
-	LOST⋯VOICE⋯
+	CANTEI... DEMAIS...
+	PERDI... A VOZ...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	CAN'T⋯SING⋯
-	⋯ANYMORE⋯!
+	NÃO... DÁ MAIS...
+	PRA CANTAR...!
 	"""
 	keyWait
 		any = false
@@ -187,14 +185,14 @@ script 16 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	That Mr.Prog lost
-	his voice,and now
-	he can't sing!
+	Aquele Prog perdeu a
+	voz,e não pode mais
+	cantar!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"How disappointing!"
+	"Que decepção!"
 	keyWait
 		any = false
 	end
@@ -208,38 +206,39 @@ script 30 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Hey! Kid! I've got
-	just the thing you
-	need⋯
+	Aí! Garoto! Eu tenho
+	aqui um negócio
+	perfeito pra você...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's perfect for
-	you,and only 3000 
-	Zennys! Whatcha say?
+	E custa um precinho
+	camarada: só 3000
+	Zennys! Que tal?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Huh? You wanna know
-	what it is?
+	Hã? Cê quer saber o
+	que é?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sorry,kid. Can't
-	tell you that⋯
+	Desculpa,garoto.
+	Eu não posso te
+	contar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So whatcha say?
-	Just 3000 Zennys!
+	E aí,que tal?
+	Só 3000 Zennys!
 	"""
 	keyWait
 		any = false
@@ -279,7 +278,7 @@ script 30 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviYellow
-	"What a shame!"
+	"Que pena!"
 	keyWait
 		any = false
 	end
@@ -293,30 +292,31 @@ script 31 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Thanks,kid!"
+	"Valeu,garoto!"
 	keyWait
 		any = false
 	clearMsg
-	"Here's the item!\n"
+	"Tá aqui o produto!\n"
 	keyWait
 		any = false
 	clearMsg
-	"Ta-daaaa!"
+	"Tcharãããã!"
 	keyWait
 		any = false
 	clearMsg
-	"A scrubbing sponge!"
+	"Uma esponja de\ncozinha!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 1
-	"⋯⋯⋯\n"
+	"... "
 	mugshotAnimation
 		animation = 2
 	"""
-	Just kidding! Here's
-	the real deal!
+	Brincadeira! Tá
+	aqui o produto de
+	verdade!
 	"""
 	keyWait
 		any = false
@@ -343,9 +343,9 @@ script 31 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Not bad,huh?
-	It took forever to
-	scrape those up!
+	Nada mal,né? Eu
+	fiquei horas
+	reunindo eles!
 	"""
 	keyWait
 		any = false
@@ -358,9 +358,9 @@ script 32 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	You don't have the
-	cash! Sorry,kid.
-	No discounts!
+	Cê não tem a grana!
+	Foi mal,garoto.
+	Não faço desconto!
 	"""
 	keyWait
 		any = false
@@ -370,7 +370,7 @@ script 33 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Thanks,kid!"
+	"Valeu,garoto!"
 	keyWait
 		any = false
 	end
@@ -380,16 +380,17 @@ script 40 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'M AN ADVERTISING
-	PROGRAM FOR
+	SOU UM PROG
+	PUBLICITÁRIO DO
 	CASTILLO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	EVERYONE! PLEASE
-	COME TO CASTILLO!
+	VENHAM,TODOS!
+	VENHAM PARA O
+	CASTILLO!
 	"""
 	keyWait
 		any = false
@@ -413,21 +414,21 @@ script 41 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	CURRENTLY AT
-	CASTILLO⋯
+	ATUALMENTE,
+	NO CASTILLO,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU CAN ENJOY THE
-	ROUND 1 OF THE
-	EAGLE TOURNAMENT!
+	É POSSÍVEL VER
+	A PRIMEIRA RODADA
+	DO TORNEIO ÁGUIA!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"COME ONE,COME ALL!"
+	"VENHAM TODOS\nTRAGAM A FAMÍLIA!"
 	keyWait
 		any = false
 	end
@@ -437,15 +438,16 @@ script 42 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	IT'S ALMOST TIME
-	FOR THE EXCITING
-	SEMI-FINALS!
+	ESTÁ CHEGANDO A
+	HORA DAS INCRÍVEIS
+	SEMIFINAIS!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	EVERYONE! HURRY TO
+	VAMOS LÁ,PESSOAL!
+	VÃO LOGO PRO
 	CASTILLO!
 	"""
 	keyWait
@@ -457,22 +459,22 @@ script 43 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	AND NOW,THE TIME HAS
-	COME TO DETERMINE
-	WHO'S BEST OF ALL!
+	E AGORA,CHEGOU A
+	HORA DE DEFINIR O
+	MELHOR DE TODOS!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	DON'T MISS THE
-	EXCITING FINALS!
+	NÃO PERCAM ESSA
+	EMOCIONANTE FINAL!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	RUN NOW,TO
+	VÃO LOGO PARA O
 	CASTILLO!
 	"""
 	keyWait
@@ -484,21 +486,21 @@ script 44 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	CURRENTLY AT
-	CASTILLO⋯
+	ATUALMENTE,
+	NO CASTILLO,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU CAN ENJOY THE
-	ROUND 1 OF THE
-	HAWK TOURNAMENT!
+	É POSSÍVEL VER
+	A PRIMEIRA RODADA
+	DO TORNEIO FALCÃO!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"EVERYONE⋯C'MON!"
+	"VENHAM TODOS\nTRAGAM A FAMÍLIA!"
 	keyWait
 		any = false
 	end
@@ -508,16 +510,16 @@ script 50 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Well,if it isn't
-	the pride of ACDC!
+	Ora,ora,é o orgulho
+	de ACDC!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hear you made it
-	through the prelims!
-	That's great!
+	Cê passou nas
+	preliminares,né?
+	Que demais!
 	"""
 	keyWait
 		any = false
@@ -538,9 +540,9 @@ script 51 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	So the Round 1
-	is coming up! Keep
-	up the good work!
+	Então,a primeira
+	rodada vem aí!
+	Não perca o pique!
 	"""
 	keyWait
 		any = false
@@ -551,16 +553,16 @@ script 52 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Yeah! Yeah!
-	Go for it! Yeah!
+	Aêê! Aêê!
+	Manda ver! É!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ah,sorry⋯Got a
-	little bit TOO
-	excited there⋯
+	Ah,desculpa...
+	Acabei me exaltando
+	um pouco demais...
 	"""
 	keyWait
 		any = false
@@ -571,17 +573,17 @@ script 53 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	You're amazing! If
-	you win the next
-	match,you're champ!
+	Você é incrível! Se
+	vencer a próxima
+	luta,será o campeão!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm so excited for
-	you! Go for it! Go!
-	Yeah! Yeah! Yeah!
+	Estou animado por
+	você! Manda ver! É!
+	Força! Força!
 	"""
 	keyWait
 		any = false
@@ -595,16 +597,15 @@ script 60 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	The Eagle Tournament
-	huh?
+	O Torneio Águia,é?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The players there
-	will be much better
-	than at DenCity!
+	Os lutadores lá vão
+	ser bem mais fortes
+	que os de DenCity!
 	"""
 	keyWait
 		any = false
@@ -625,9 +626,9 @@ script 61 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	It's almost time for
-	your match,isn't it?
-	So why are you HERE?
+	Tá quase na hora da
+	sua luta,né? Bom,tá
+	fazendo o quê AQUI?!
 	"""
 	keyWait
 		any = false
@@ -638,17 +639,16 @@ script 62 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I saw your match!
-	What a beautiful
-	victory!
+	Eu vi a sua luta!
+	Que vitória linda!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Keep up the good
-	work in your next
-	match,too!
+	Continue assim nas
+	próximas lutas,
+	também!
 	"""
 	keyWait
 		any = false
@@ -659,17 +659,17 @@ script 63 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Just one more match
-	until you're best
-	in Electopia!
+	Só mais uma luta
+	e você será o
+	melhor de Ni-Hon!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess you can't
-	judge a Navi by its
-	cover,right?
+	Acho que não se pode
+	julgar um Navi pela
+	capa,né?
 	"""
 	keyWait
 		any = false
@@ -680,16 +680,15 @@ script 64 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	The Hawk Tournament
-	huh?
+	O Torneio Águia,é?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The players there
-	will be much better
-	than at DenCity!
+	Os lutadores lá vão
+	ser bem mais fortes
+	que os de DenCity!
 	"""
 	keyWait
 		any = false

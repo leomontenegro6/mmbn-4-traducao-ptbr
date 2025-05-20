@@ -5,24 +5,24 @@ script 0 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	All right! Time for
-	a CookingBattle,but
-	don't ask me why!
+	Beleza! Hora de uma
+	Luta Culinária. Por
+	algum motivo aí!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan vs. Flave
-	Yamakawa,in a
-	cooking competition!
+	Lan Hikari vs. Flave
+	Yamakawa,em uma
+	disputa na cozinha!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll be your host,
-	Mami!
+	E eu,Mami,serei a
+	sua apresentadora!
 	"""
 	keyWait
 		any = false
@@ -37,9 +37,9 @@ script 1 mmbn4 {
 	soundPlay
 		track = 244
 	"""
-	Woohoo!
-	All right!
-	*clap clap clap*
+	Urrúúú!
+	Legaaal!
+	Clap Clap Clap
 	"""
 	wait
 		frames = 140
@@ -55,32 +55,32 @@ script 2 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	Everyone's favorite
-	dish is on the menu,
-	curried rice!
+	Tem o prato favorito
+	da galera no menu:
+	curry com arroz!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The judge will be
-	this man! The Master
-	Chef of
+	O juiz será este
+	homem aqui! O Chef
+	Superior da
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the 200-years-old
-	Electopian Chef's
-	Association!
+	Centenária Associa-
+	ção de Chefs de
+	Ni-Hon!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mr.Tabezo,70 years
-	young!
+	É o Sr.Tabezo,
+	de 70 aninhos!
 	"""
 	keyWait
 		any = false
@@ -91,9 +91,9 @@ script 3 mmbn4 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Tehehe,I can't wait
-	to try the yummy
-	curry!
+	He he,estou ansioso
+	para comer aquele
+	curry gostoso!
 	"""
 	keyWait
 		any = false
@@ -106,8 +106,9 @@ script 4 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	And there's our
-	challenger,Lan!
+	E aqui,o nosso
+	desafiador:
+	Lan Hikari!
 	"""
 	keyWait
 		any = false
@@ -120,9 +121,9 @@ script 5 mmbn4 {
 	soundPlay
 		track = 244
 	"""
-	*woot woot*
-	*clap clap clap*
-	Good luck!
+	Éééé!
+	Boa sorte!
+	Clap Clap Clap
 	"""
 	keyWait
 		any = false
@@ -136,9 +137,9 @@ script 6 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Heh,this is start-
-	ing to look like a
-	real competition.
+	He,tá começando a
+	parecer uma compe-
+	tição de verdade.
 	"""
 	keyWait
 		any = false
@@ -151,9 +152,9 @@ script 7 mmbn4 {
 		mugshot = Flave
 	msgOpen
 	"""
-	Yeah,this is more
-	fun than the real
-	NetBattle!
+	É,isto aqui é mais
+	divertido que uma
+	NetLuta!
 	"""
 	keyWait
 		any = false
@@ -166,9 +167,9 @@ script 8 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	All right,place the
-	prepared ingredients
-	on your machines!
+	OK! Insiram seus
+	ingredientes nas
+	máquinas!
 	"""
 	keyWait
 		any = false
@@ -178,7 +179,7 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"There we go."
+	"Vamos lá!"
 	keyWait
 		any = false
 	clearMsg
@@ -189,7 +190,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Flave
 	msgOpen
-	"I'm ready!"
+	"Tudo pronto!"
 	keyWait
 		any = false
 	clearMsg
@@ -201,22 +202,22 @@ script 11 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	Jack your Navi into
-	the machine,and
-	start cooking!
+	Conectem seus Navis
+	na máquina e comecem
+	a cozinhar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan
+	Lan Hikari
 	Vs.
-	Flave Yamakawa
+	Flave Yamakawa!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ready to cook!"
+	"Bora pra cozinha!"
 	keyWait
 		any = false
 	clearMsg

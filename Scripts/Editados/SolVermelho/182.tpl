@@ -13,8 +13,9 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,destroy the
-	CyberSnowman first!
+	MegaMan,destrói os
+	CyberBonecosDeNeve
+	primeiro!
 	"""
 	keyWait
 		any = false
@@ -33,8 +34,9 @@ script 1 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,destroy the
-	CyberSnowman first!
+	MegaMan,destrói os
+	CyberBonecosDeNeve
+	primeiro!
 	"""
 	keyWait
 		any = false
@@ -53,8 +55,9 @@ script 2 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,destroy the
-	CyberSnowman first!
+	MegaMan,destrói os
+	CyberBonecosDeNeve
+	primeiro!
 	"""
 	keyWait
 		any = false
@@ -73,8 +76,9 @@ script 3 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,destroy the
-	CyberSnowman first!
+	MegaMan,destrói os
+	CyberBonecosDeNeve
+	primeiro!
 	"""
 	keyWait
 		any = false
@@ -93,8 +97,9 @@ script 4 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,destroy the
-	CyberSnowman first!
+	MegaMan,destrói os
+	CyberBonecosDeNeve
+	primeiro!
 	"""
 	keyWait
 		any = false
@@ -113,8 +118,9 @@ script 5 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,destroy the
-	CyberSnowman first!
+	MegaMan,destrói os
+	CyberBonecosDeNeve
+	primeiro!
 	"""
 	keyWait
 		any = false
@@ -133,8 +139,9 @@ script 6 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,destroy the
-	CyberSnowman first!
+	MegaMan,destrói os
+	CyberBonecosDeNeve
+	primeiro!
 	"""
 	keyWait
 		any = false
@@ -153,8 +160,9 @@ script 7 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,destroy the
-	CyberSnowman first!
+	MegaMan,destrói os
+	CyberBonecosDeNeve
+	primeiro!
 	"""
 	keyWait
 		any = false
@@ -173,8 +181,9 @@ script 8 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,destroy the
-	CyberSnowman first!
+	MegaMan,destrói os
+	CyberBonecosDeNeve
+	primeiro!
 	"""
 	keyWait
 		any = false
@@ -185,8 +194,8 @@ script 9 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,light the
-	CyberTorch!
+	MegaMan,acende a
+	CyberTocha!
 	"""
 	keyWait
 		any = false
@@ -202,37 +211,35 @@ script 10 mmbn4 {
 		jumpIfLess = continue
 	msgOpen
 	"""
-	Something's written
-	on the panel⋯
+	Tem alguma coisa
+	escrita aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Z - Raise flames of\n darkness destroying\n all around.\""
+	"\"Z - Ergue chamas\nsombrias,destruindo\nos arredores.\""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Destroy all around.
-	I guess it must be
-	a big explosion⋯?
+	"Destruindo os arre-
+	dores". Uma grande
+	explosão,talvez?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've heard about a
-	chip like that
-	before somewhere!
+	Eu já ouvi falar
+	de um chip assim!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sure it was
-	called
+	Acho que se chamava
 	"
 	"""
 	printChip
@@ -251,8 +258,7 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	msgOpen
 	"""
-	The flames are
-	raging⋯
+	O fogo arde forte...
 	"""
 	keyWait
 		any = false

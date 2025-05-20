@@ -5,16 +5,17 @@ script 0 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Let's begin the
-	WaterGod Quest,the
+	Vamos começar a
+	Campanha do Deus
+	da Água,o ritual
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ritual for deciding
-	our annual Village
-	Champion. Good luck!
+	para decidir o nosso
+	Campeão da Vila
+	anual. Boa sorte!
 	"""
 	keyWait
 		any = false
@@ -25,7 +26,7 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
-	"It's mine this year!"
+	"Este ano,eu levo!"
 	keyWait
 		any = false
 	clearMsg
@@ -35,7 +36,7 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = PurpleNavi
-	"Not while I'm here!"
+	"Até parece que eu\nvou deixar!"
 	keyWait
 		any = false
 	clearMsg
@@ -46,8 +47,8 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = NaviGirlOrange
 	"""
-	I can beat any
-	of you guys!
+	Eu acabo com vocês
+	de olhos vendados!
 	"""
 	keyWait
 		any = false
@@ -58,7 +59,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviPink
-	"I'll never give up!"
+	"Eu não vou me dar\npor vencido!"
 	keyWait
 		any = false
 	end
@@ -68,9 +69,9 @@ script 5 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Wow,they're pumped.
-	What's the Village
-	Champion,anyway?
+	Tá todo mundo tão
+	animado. Mas o que é
+	o Campeão da Vila?
 	"""
 	keyWait
 		any = false
@@ -81,7 +82,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Beats me."
+	"Sei lá."
 	keyWait
 		any = false
 	end
@@ -90,7 +91,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	msgOpen
-	"Yer,MegaMan,right?"
+	"Cê é o MegaMan,né?"
 	keyWait
 		any = false
 	end
@@ -100,13 +101,13 @@ script 8 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yeah⋯
-	How'd you know?
+	Sou...
+	Como você sabia?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ah,you must be⋯"
+	"Ah,você deve ser..."
 	keyWait
 		any = false
 	clearMsg
@@ -117,15 +118,16 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	"""
-	Yep. I'm Paulie's
-	Navi Jammer.
+	Aham. Sou Jammer,
+	o Navi do Paulie.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You gonna enter the
-	WaterGod Quest,too?
+	Cê vai entrar na
+	Campanha do Deus
+	da Água também?
 	"""
 	keyWait
 		any = false
@@ -136,7 +138,7 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Yeah,if it's OK."
+	"Ah,eu quero,se não\ntiver problema."
 	keyWait
 		any = false
 	clearMsg
@@ -146,7 +148,7 @@ script 10 mmbn4 {
 script 11 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
-	"Sure,I don't mind."
+	"Por mim,de boa."
 	keyWait
 		any = false
 	end
@@ -155,7 +157,7 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	msgOpen
-	"Hey,guys!"
+	"Aí,gente!"
 	keyWait
 		any = false
 	end
@@ -165,16 +167,17 @@ script 13 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	This is MegaMan,the
-	Navi I'll be battl-
-	ing in the tourney.
+	Este é o MegaMan.
+	O Navi que vou en-
+	frentar no torneio.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Can he join in on
-	the WaterGod Quest?
+	Ele pode participar
+	da Campanha do Deus
+	da Água?
 	"""
 	keyWait
 		any = false
@@ -186,14 +189,16 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	Why not? What's the
-	chance of him
-	becoming
+	Por que não?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Champion,anyway?"
+	"""
+	Não é como se ele
+	tivesse muita chance
+	de ser Campeão.
+	"""
 	keyWait
 		any = false
 	end
@@ -202,7 +207,7 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	msgOpen
-	"Great! Yer in!"
+	"Perfeito! Tá aí!"
 	keyWait
 		any = false
 	clearMsg
@@ -213,13 +218,14 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	As long as we're
-	here,why not!
+	Bom,a gente já tá
+	aqui,né? Então,não
+	custa nada!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"How do you win?"
+	"Como se faz para\nvencer?"
 	keyWait
 		any = false
 	clearMsg
@@ -230,43 +236,43 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	"""
-	We launch the Water-
-	God Idol and then
+	Nós soltamos o
+	Ídolo do Deus da
+	Água e,depois,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	try to find it.
-	You must find it and
-	bring it back here
+	tentamos achá-lo.
+	Para se tornar Cam-
+	peão,deve-se trazer
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to become Champion.
-	The WaterGod watches
-	over the Champion
+	ele aqui. O Deus da
+	Água abençoa o
+	campeão e fornece a
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"and gives him good"
+	"ele boa sorte o\nano todo."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	luck all year.
-	But that's not all.
+	E tem mais!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Champion is also
-	recognized as our
-	top NetBattler!
+	O Campeão também é
+	coroado nosso Net-
+	Lutador número um!
 	"""
 	keyWait
 		any = false
@@ -278,8 +284,8 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I see.
-	Lan,let's go for it!
+	Entendi.
+	Lan,vamos lá!
 	"""
 	keyWait
 		any = false
@@ -291,9 +297,9 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	OK! It'll be a per-
-	fect way to warm up
-	before our match!
+	OK! Vai ser um ótimo
+	aquecimento pra
+	nossa luta!
 	"""
 	keyWait
 		any = false
@@ -304,7 +310,7 @@ script 19 mmbn4 {
 script 20 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
-	"Almost time."
+	"Já está quase na\nhora."
 	keyWait
 		any = false
 	end
@@ -313,20 +319,20 @@ script 21 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Everyone ready?!"
+	"Todos prontos?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Where the idol goes,
-	nobody knows.
+	Aonde o ídolo irá,
+	não há como saber.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Last year,it flew
-	clear to Sharo Area.
+	Ano passado,ele foi
+	parar na Área Sharo.
 	"""
 	keyWait
 		any = false
@@ -336,7 +342,7 @@ script 22 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Ready to launch⋯"
+	"Preparar para\nlançamento..."
 	keyWait
 		any = false
 	end
@@ -345,7 +351,7 @@ script 23 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"⋯Fire!!"
+	"... Fogo!!"
 	keyWait
 		any = false
 	end
@@ -354,11 +360,11 @@ script 24 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Ready,go!!"
+	"Preparar... Vai!!"
 	keyWait
 		any = false
 	clearMsg
-	"Good luck,everyone!"
+	"Boa sorte,gente!"
 	keyWait
 		any = false
 	end
@@ -368,8 +374,9 @@ script 25 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hurry,MegaMan! We'll
-	be left in the dust!
+	Rápido,MegaMan!
+	Vamos ficar pra
+	trás!
 	"""
 	keyWait
 		any = false

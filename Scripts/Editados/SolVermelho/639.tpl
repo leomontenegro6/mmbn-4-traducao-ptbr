@@ -5,16 +5,17 @@ script 0 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	At last! Everyone,
-	the competitors are
-	finally here!
+	Chegou a hora! Ami-
+	gos,os competidores
+	finalmente chegaram!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	First,grade school
-	NetBattler Lan!
+	Primeiro NetLutador:
+	Lan Hikari,do ensino
+	fundamental!
 	"""
 	keyWait
 		any = false
@@ -24,19 +25,19 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"Moving right along!"
+	"E em seguida..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's the owner of
-	Higsby's in ACDC-
-	a chip expert!
+	O dono da Loja do
+	Higsby e um expert
+	em chips!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Mr.Higsby!"
+	"O Sr. Higsby!"
 	keyWait
 		any = false
 	end
@@ -45,7 +46,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Good luck,Higsby!"
+	"Boa sorte,Higsby!"
 	keyWait
 		any = false
 	clearMsg
@@ -55,22 +56,26 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = Higsby
-	"Hehe,Lan⋯If you"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	expect an easy win,
-	you got another
-	think comin'.
+	He he,Lan... Se
+	tava esperando uma
+	vitória fácil,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I do more than just
-	kick back in my chip
-	shop,you know,huh!
+	se prepare pra
+	uma surpresa
+	desagradável.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Eu não fico só de
+	bobeira na minha
+	loja,não,viu?!
 	"""
 	keyWait
 		any = false
@@ -82,8 +87,8 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Hehe,I'm lookin'
-	forward to it!
+	He he! Tô ansioso
+	por isso!
 	"""
 	keyWait
 		any = false
@@ -94,16 +99,15 @@ script 5 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Let the battle
-	begin!
+	Que comece a luta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan
+	Lan Hikari
 	Vs.
-	Mr.Higsby!
+	Sr. Higsby!
 	"""
 	keyWait
 		any = false
@@ -131,7 +135,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = NumberMan
-	"No way I'll lose!"
+	"Nunca que eu vou\nperder!"
 	keyWait
 		any = false
 	end

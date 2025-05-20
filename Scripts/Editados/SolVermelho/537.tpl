@@ -7,7 +7,7 @@ script 0 mmbn4 {
 		value = 3
 	mugshotHide
 	soundDisableTextSFX
-	"Briiiiing!"
+	"Trrrriiiimmm!"
 	keyWait
 		any = false
 	waitOWVar
@@ -23,8 +23,8 @@ script 1 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It's a phone call.
-	Who could it be?
+	É uma ligação.
+	De quem será?
 	"""
 	keyWait
 		any = false
@@ -36,8 +36,8 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Dad
 	"""
-	Lan,this is Dad.
-	Can you hear me?
+	Lan,é o seu pai.
+	Está me ouvindo?
 	"""
 	keyWait
 		any = false
@@ -49,8 +49,8 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Yes,Dad! Is
-	something wrong?
+	Tô sim,pai!
+	Algum problema?
 	"""
 	keyWait
 		any = false
@@ -63,38 +63,38 @@ script 4 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	The criminal who
-	damaged the Net is
+	O criminoso que
+	fez isso com a
+	Rede está escondido
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	hiding in
-	Park Area1!
+	na Área Parque 1!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	However,Officials
-	from Netopia
+	Porém,Oficiais de
+	Ameropa não têm
+	jusrisdição para
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	have no jurisdiction
-	to operate in the
-	Electopia Net,and
+	operarem na Rede
+	de Ni-Hon,e os
+	Oficiais de Ni-Hon
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Electopia Officials
-	are still without
-	communication.
+	ainda estão
+	incomunicáveis.
 	"""
 	keyWait
 		any = false
@@ -105,7 +105,7 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"OK! Leave it to me!"
+	"Beleza!\nDeixa comigo!"
 	keyWait
 		any = false
 	clearMsg
@@ -115,28 +115,27 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = Dad
-	"Thanks,Lan!"
+	"Obrigado,Lan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	First,find the
-	Official Navi in the
-	Netopia Area.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	He'll give you
-	more details.
+	Primeiro,encontre
+	o Navi Oficial na
+	Área Ameropa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm depending on
-	you,Lan!
+	Ele vai te dar mais
+	detalhes.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Conto com você,Lan!
 	"""
 	keyWait
 		any = false
@@ -147,7 +146,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Yes,sir!"
+	"Sim,senhor!"
 	keyWait
 		any = false
 	end

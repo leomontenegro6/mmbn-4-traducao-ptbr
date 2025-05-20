@@ -9,24 +9,24 @@ script 0 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Welcome to Yai's HP.
-	This is the Chat
-	BBS.
+	Bem-vindos ao Fórum
+	de Bate-Papo na pá-
+	gina da Srta. Yai.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	At the generous
-	bequest of Miss Yai,
+	A pedido generoso
+	dela,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	this board is open
-	to the general
-	public.
+	este fórum agora
+	está aberto ao
+	público.
 	"""
 	keyWait
 		any = false
@@ -41,24 +41,25 @@ script 1 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Yai! Congrats on
-	revamping your HP!
-	Looks like I'm the
+	Yai! Parabéns na
+	repaginada da pági-
+	na! Parece que sou
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	first poster! Say,
-	how's that Tornado
-	Dryer you bought at
+	a primeira postando!
+	Ei,como tá o Secador
+	Tornado que você
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ElecTown? Let's go
-	shopping again!
+	comprou na Eletro-
+	Vila? Vamos fazer
+	compras lá de novo!
 	"""
 	keyWait
 		any = false
@@ -73,24 +74,25 @@ script 2 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Hey Yai! I see you
-	put up your own BBS.
+	E aí,Yai?! Tô vendo
+	que cê montou seu
+	próprio Fórum.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Actually,I created
-	my own HP for Battle
-	info. Come on over
+	Aliás,eu criei um
+	na minha página pra
+	falar de lutas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and I'll initiate
-	you into the art of
-	viruses busting!
+	Vai lá,eu te inicio
+	na arte de deletar
+	vírus!
 	"""
 	keyWait
 		any = false
@@ -104,37 +106,38 @@ script 3 mmbn4 {
 	positionArrow
 		left = 202
 		top = 108
-	"Thanks for coming,"
+	"Obrigada por virem,\namigos!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	everyone! I trust
-	you all like my
-	stylish design.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Thanks for your post
-	Mayl! The dryer
-	works like a charm!
+	Imagino que tenham
+	adorado o meu
+	design estiloso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thanks for your post
-	too,Dex! I visited
+	Obrigada por postar,
+	Mayl! O secador fun-
+	ciona feito mágica!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	your HP. That
-	wallpaper definitely
-	has to go!
+	E obrigada a você
+	também,Dex! Eu
+	visitei a sua
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	página. Você precisa
+	jogar aquele papel
+	de parede no LIXO!
 	"""
 	keyWait
 		any = false
@@ -149,17 +152,17 @@ script 4 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Yeeee-haaaaaaawwww!
-	Dex's wallpaper may
-	be drab,but it's
+	Guuuuts! O papel de
+	parede do Dex pode
+	ser brega,mas é
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	better than that
-	raunchy design he
-	had up before!
+	melhor que o design
+	vulgar que tinha lá
+	antes!
 	"""
 	keyWait
 		any = false
@@ -174,16 +177,16 @@ script 5 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Guts! What are you
-	blabbering about?!
+	Guts! Do que é que
+	cê tá falando?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My wallpaper
-	expresses the spirit
-	of manliness!
+	Meu papel de parede
+	expressa o espírito
+	da masculinidade!
 	"""
 	keyWait
 		any = false
@@ -198,25 +201,25 @@ script 6 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Hello Yai! It was
-	lovely seeing you at
-	the ball. How is
+	Oi,Yai! Foi ótimo
+	te ver no baile.
+	Como está o Glide?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Glide? Was he hurt
-	in the Navi attack?
-	Crime seems rampant
+	Ele se machucou no
+	ataque do Navi?
+	Parece que o crime
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	on the Net of late.
-	Please,do be
-	careful.
+	só tem aumentado na
+	Rede. Por favor,se
+	cuide.
 	"""
 	keyWait
 		any = false
@@ -231,32 +234,33 @@ script 7 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Hi Yai! That Navi
-	attack was scary!
-	Speaking of scary,
+	Oi,Yai! Aquele
+	ataque de Navi foi
+	sinistro! E falando
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	have you heard the
-	rumor about ghost
+	em sinistro,você
+	ouviu o boato sobre
+	os Navis fantasma?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Navis? Apparently
-	ghosts of long-
-	deleted Navis are
+	Parece que fantasmas
+	de Navis há muito
+	deletados estão
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	attacking other
-	Navis,and Cyber-
-	Sutras don't work!
+	à espreita por aí,
+	e Cyber-Sutras não
+	os repelem!
 	"""
 	keyWait
 		any = false
@@ -271,24 +275,24 @@ script 8 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Hi Nikaido! Yai's
-	friend Dex here! Are
-	those ghost stories
+	Oi,Nikaido! Sou Dex,
+	amigo da Yai! Esse
+	papo de fantasma aí
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	true?! Sound kind
-	of exciting! I think
-	I'll prowl about the
+	é sério?! Parece
+	divertido! Acho que
+	vou explorar a Rede
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Net and see if I can
-	find any!
+	e ver se encontro
+	um!
 	"""
 	keyWait
 		any = false
@@ -303,23 +307,25 @@ script 9 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Haaww?! I-I don't
-	like g-ghosts⋯
-	But if Dex orders me
+	G-Guts?! E-eu não
+	gosto de fantasma...
+	Mas se o Dex me
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to look around the
-	Net,I won't back
+	mandar revirar a
+	Rede,eu não vou
+	dar pra trás!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	down! I just hope
-	my GutPunch works⋯
+	Só espero que o
+	meu GutPunch
+	funcione...!
 	"""
 	keyWait
 		any = false
@@ -334,24 +340,25 @@ script 10 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Hi Dex! It's
-	Nikaido! One rumor
+	Oi,Dex! Nikaido
+	aqui! Um dos boatos
+	diz que os fantasmas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	has it that the
-	ghosts are illusions
-	generated by your
+	são ilusões geradas
+	pela sua própria
+	mente,então,pra
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	own mind,so you have
-	to overcome your own
-	fears to beat them.
+	vencê-los,você
+	precisa superar os
+	seus próprios medos.
 	"""
 	keyWait
 		any = false
@@ -366,29 +373,30 @@ script 11 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Hi Nikaido! It looks
-	like you and Dex are
+	Oi,Nikaido! Parece
+	que você e o Dex
+	são bem compatíveis!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	two of a kind! I've
-	heard about the
+	Eu também ouvi falar
+	dos fantasmas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ghosts too.
-	Apparently they
+	Parece que eles
+	aparecem
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	appear at the end of
-	corridors and such.
+	nos finais de
+	corredores e afins.
 	"""
 	keyWait
 		any = false
@@ -403,17 +411,17 @@ script 12 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Howdy! It looks like
-	a world NetBattle
-	championship is
+	Fala! Parece que vai
+	rolar um campeonato
+	mundial de NetLuta
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	going to take place
-	in my country,
-	Netopia! Woo-hoo!
+	aqui mesmo no meu
+	país,Ni-Hon!
+	Ah,moleque!
 	"""
 	keyWait
 		any = false
@@ -428,17 +436,17 @@ script 13 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Hee hee! My father's
-	sponsoring that
-	tournament. Be sure
+	Hi hi! O meu pai tá
+	patrocinando esse
+	torneio. É pra todo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to watch it everyone
-	and raise the
-	ratings!
+	mundo aqui assistir
+	e fazer a audiência
+	bater recordes,viu!
 	"""
 	keyWait
 		any = false
@@ -453,26 +461,26 @@ script 14 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	That's the contest
-	Lan is participating
-	in,right? The
+	É a competição em
+	que o Lan tá
+	participando,né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	contestants are
-	staying in a hotel
-	in Netopia. Poor
+	Os competidores tão
+	hospedados em um
+	hotel na Ameropa.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Lan must be lonely⋯"
+	"O coitado do Lan\ndeve estar tão\nsolitário..."
 	keyWait
 		any = false
 	clearMsg
-	"Good luck,Lan!"
+	"Boa sorte,Lan!"
 	keyWait
 		any = false
 	waitHold
@@ -486,17 +494,17 @@ script 15 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Lan is the bomb!
-	He's the only guy
-	GutsMan and I can't
+	O Lan é demais!
+	Ele é o único cara
+	que o GutsMan e eu
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	beat! Don't you dare
-	lose to anyone but
-	us,Lan!
+	não vencemos! Não
+	vai perder pra
+	ninguém,Lan!
 	"""
 	keyWait
 		any = false

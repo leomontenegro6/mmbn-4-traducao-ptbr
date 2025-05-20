@@ -5,36 +5,37 @@ script 0 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Phase One!
-	Cut the ingredients
-	with the B Button
+	Fase 1! Corte os
+	ingredientes com
+	o botão "B"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	when they're right
-	in front of you.
+	quando eles
+	estiverem bem
+	diante de você.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The meat's already
-	been cut,so just
+	Menos a carne,que já
+	foi cortada. Só
+	deixe-a cair.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	drop it in the pan
-	without cutting it
-	or lose points!
+	Se cortá-la,você
+	perderá pontos!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"All right⋯Begin!"
+	"Pois bem,então...\nComeçar!"
 	keyWait
 		any = false
 	end
@@ -44,46 +45,46 @@ script 1 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Not bad.
-	Let's see how you do
-	in this next phase.
+	Nada mal. Vejamos
+	como se sai nesta
+	próxima fase.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sometimes viruses
-	get mixed up with
-	the ingredients!
+	Às vezes,vírus
+	também se misturam
+	nos ingredientes!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When the viruses
-	fall,blow them away
-	with the A Button!
+	Quando um vírus
+	cair,empurre-o
+	com o botão "A"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Be very careful not
-	to let any get into
-	the pan!
+	Tome muito cuidado
+	para não deixar ne-
+	nhum cair na panela!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'll lose lots of
-	points if you miss
-	any!
+	Se o fizer,irá
+	perder muitos
+	pontos!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"All right⋯Begin!"
+	"Certo,então...\nComeçar!"
 	keyWait
 		any = false
 	end
@@ -93,35 +94,35 @@ script 2 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	It's almost time for
-	the last round!
+	Agora,hora da última
+	rodada!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lots of blocks of
-	curry will fall,so
+	Vários blocos de
+	curry cairão,então,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	cut it to pieces
-	when it's in front
-	of you!
+	fatie-os quando
+	estiverem diante
+	de você!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But look out for
-	viruses!
+	Só tome cuidado com
+	os vírus!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Here we go!"
+	"Vamos lá!"
 	keyWait
 		any = false
 	end
@@ -131,14 +132,14 @@ script 3 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Hmm,sorry. You're
-	not quite ready to
-	graduate yet.
+	Hmm,lamento. Ainda
+	não está pronto
+	para se formar.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Try again!"
+	"Tente de novo!"
 	keyWait
 		any = false
 	end
@@ -148,22 +149,22 @@ script 10 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Okay,I'll send the
-	ingredient data
-	over!
+	Certo,enviarei os
+	os ingredientes-
+	dados!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Use the B Button to
-	cut the ingredients,
-	but not the meat!
+	Use "B" para cortar
+	os ingredientes,
+	mas a carne,não!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Here we go!"
+	"Lá vai!"
 	keyWait
 		any = false
 	end
@@ -174,16 +175,15 @@ script 11 mmbn4 {
 	msgOpen
 	"""
 	Argh!
-	MegaMan,it's
-	viruses!
+	MegaMan,são vírus!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Use the A Button to
-	knock them away
-	from the pan!
+	Aperte "A" pra
+	empurrá-los pra
+	longe da panela!
 	"""
 	keyWait
 		any = false
@@ -194,16 +194,16 @@ script 12 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Okay,now for the
-	blocks of curry!
-	Cut them to pieces!
+	Tá,hora dos blocos
+	de curry!
+	Fatia eles!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But look out for
-	the viruses!
+	Mas cuidado com os
+	vírus!
 	"""
 	keyWait
 		any = false
@@ -213,13 +213,13 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"It's done!"
+	"Pronto!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,is the
-	jack out now!
+	MegaMan,
+	bora desconectar!
 	"""
 	keyWait
 		any = false

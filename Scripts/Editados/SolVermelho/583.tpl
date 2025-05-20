@@ -5,8 +5,9 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	SparkMan⋯Never
-	battled him before.
+	SparkMan...
+	Nunca lutei contra
+	esse aí antes.
 	"""
 	keyWait
 		any = false
@@ -18,9 +19,9 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	⋯Yeah.
-	Wonder what kinda
-	Navi he is?
+	... Pois é.
+	Que tipo de Navi
+	será que ele é?
 	"""
 	keyWait
 		any = false
@@ -31,9 +32,9 @@ script 2 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	At any rate,we just
-	gotta battle
-	like we always do.
+	Enfim,é só a gente
+	lutar com tudo,
+	como sempre.
 	"""
 	keyWait
 		any = false
@@ -44,7 +45,7 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Yeah,you're right!"
+	"É,isso aí!"
 	keyWait
 		any = false
 	clearMsg
@@ -57,7 +58,7 @@ script 4 mmbn4 {
 		value = 3
 	mugshotHide
 	soundDisableTextSFX
-	"Beep beep beep!!"
+	"Bip Bip Bip!!"
 	keyWait
 		any = false
 	clearMsg
@@ -68,53 +69,54 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	soundEnableTextSFX
-	"Lan,you got mail!"
+	"Lan,chegou e-mail!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looks like an ad
-	from Jomon Electric.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	You and your dad vi-
-	sited them recently.
-	It says,
+	Parece ser um
+	anúncio da Jomon
+	Eletrônicos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	In appreciation of
-	your continued
-	support,we are
+	Aquela que você e o
+	papai visitaram es-
+	tes dias. Aqui diz:
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	offering free PET
-	maintenance checks
-	to our valued
+	"Para agradecer por
+	seu apoio regular,
+	estamos oferecendo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	customers today in
-	front of DenDome.
-	Please give our
+	manutenção gratuita
+	de PETs para nossos
+	melhores clientes
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	service a try if you
-	will be in the
-	tournament.
+	hoje,em frente ao
+	DenDomo. Por favor,
+	experimentem o nosso
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	serviço caso sejam
+	participantes do
+	torneio."
 	"""
 	keyWait
 		any = false
@@ -126,23 +128,23 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	So they'll be
-	offering free PET
-	maintenance⋯
+	Então,eles tão
+	consertando PETs
+	de graça...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think I'll try it.
-	After all,they're a
+	Acho que eu vou lá.
+	Digo,é uma empresa
+	confiável...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	firm you can trust,
-	and it's free!
+	e é de graça!
 	"""
 	keyWait
 		any = false
@@ -153,7 +155,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Sounds good!"
+	"Concordo!"
 	keyWait
 		any = false
 	end

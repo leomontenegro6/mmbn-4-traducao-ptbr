@@ -3,8 +3,8 @@
 script 0 mmbn4 {
 	msgOpen
 	"""
-	A mysterious light
-	stares at MegaMan
+	Uma luz misteriosa
+	encara MegaMan
 	"""
 	waitSkip
 		frames = 30
@@ -25,8 +25,8 @@ script 0 mmbn4 {
 		jumpIfDark = 1
 	clearMsg
 	"""
-	The light seems to
-	smile softly⋯
+	A luz parece sorrir
+	sutilmente...
 	"""
 	keyWait
 		any = false
@@ -34,9 +34,8 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Something has
-	appeared from within
-	the light!
+	Algo apareceu de
+	dentro da luz!
 	"""
 	keyWait
 		any = false
@@ -64,16 +63,16 @@ script 0 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Is that"
+	"Esse sou"
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・ Me?"
+	". eu?"
 	keyWait
 		any = false
 	clearMsg
@@ -85,7 +84,7 @@ script 0 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"It's fading!"
+	"Tá sumindo!"
 	keyWait
 		any = false
 	end
@@ -93,9 +92,9 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	clearMsg
 	"""
-	The mysterious light
-	shows a sad
-	expression⋯
+	A luz misteriosa
+	mostra uma expressão
+	de tristeza...
 	"""
 	keyWait
 		any = false
@@ -103,16 +102,15 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Wh⋯What is this
-	light?
+	Q... que luz é essa?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It almost seems to
-	be looking through
-	my soul!
+	Parece até que está
+	vendo através da
+	minha alma!
 	"""
 	keyWait
 		any = false

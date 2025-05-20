@@ -5,16 +5,16 @@ script 0 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	SerchMan's been
-	deleted!!
+	SearchMan foi
+	derrotado!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan and MegaMan
-	have won the
-	deadly duel!
+	Lan e MegaMan
+	venceram esse
+	duelo mortal!
 	"""
 	keyWait
 		any = false
@@ -25,8 +25,7 @@ script 1 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	How d'ya like them
-	apples,Raika!!
+	Toma! Gostou,Raika?!
 	"""
 	keyWait
 		any = false
@@ -38,20 +37,20 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Raika
 	"""
-	I don't believe it.
-	You only had a 1%
-	chance of winning.
+	Não acredito...
+	Você só tinha 1% de
+	chance de vencer.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"We kept on our toes⋯"
+	"Nós não baixamos a\nguarda..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What went wrong,
-	SerchMan? Tell me.
+	O que deu errado,
+	SearchMan? Diga-me.
 	"""
 	keyWait
 		any = false
@@ -63,17 +62,17 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = SearchMan
 	"""
-	During the battle,an
-	unexpected variable
-	was introduced.
+	Durante a luta,uma
+	variável inesperada
+	se revelou.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And as the battle
-	progressed,that var-
-	iable grew stronger.
+	E,com o passar da
+	luta,essa variável
+	só ficou mais forte.
 	"""
 	keyWait
 		any = false
@@ -84,13 +83,13 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = Raika
-	"Huh?!"
+	"Hã?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What d'ya mean,an
-	unexpected variable?
+	Como assim,uma
+	variável inesperada?
 	"""
 	keyWait
 		any = false
@@ -102,16 +101,17 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	He means the power
-	of friendship be-
-	tween MegaMan and I.
+	É a força da
+	amizade entre o
+	MegaMan e eu.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I doubt that was in
-	your guy's analysis.
+	Duvido que tenham
+	incluído isso na
+	análise de vocês.
 	"""
 	keyWait
 		any = false
@@ -122,7 +122,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = Raika
-	"Power of friendship?"
+	"Força da amizade?"
 	keyWait
 		any = false
 	clearMsg
@@ -132,21 +132,21 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"That's right."
+	"Aham."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Our power is
-	limitless when our
-	souls become one.
+	Nossa força não tem
+	limites quando nos-
+	sas almas se unem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Even a computer can
-	not measure it!
+	E nem um computador
+	consegue medir ela!
 	"""
 	keyWait
 		any = false
@@ -158,8 +158,9 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Raika
 	"""
-	Power even a compu-
-	ter can't measure⋯
+	Força que nem um
+	computador consegue
+	medir...
 	"""
 	keyWait
 		any = false
@@ -171,16 +172,16 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	After all,Navis
-	have a soul.
+	Afinal de contas,
+	os Navis têm alma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Even you'd be more
-	powerful by bonding
-	with SerchMan.
+	Você seria ainda
+	mais forte se ligan-
+	do com o SearchMan.
 	"""
 	keyWait
 		any = false
@@ -191,7 +192,7 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = Raika
-	"Bond with SerchMan⋯"
+	"Me ligar ao\nSearchMan..."
 	keyWait
 		any = false
 	clearMsg
@@ -202,31 +203,31 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I other words,
-	become friends
-	with your Navi.
+	Sabe,vire amigo do
+	seu Navi.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What's wrong? Why
-	the confused look?
+	Que foi? Por que
+	essa cara de quem
+	não entendeu?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh,I know! You don't
-	have any friends,
-	do you,Raika?
+	Ah,entendi! Você não
+	tem nenhum amigo,né,
+	Raika?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So you really don't
-	know what to do.
+	Então,não sabe
+	direito o que fazer.
 	"""
 	keyWait
 		any = false
@@ -237,21 +238,21 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	mugshotShow
 		mugshot = Raika
-	"Shaddup!!"
+	"Cale-se!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My sole purpose in
-	life is to become
-	an elite soldier.
+	Meu único propósito
+	na vida é ser um
+	soldado de elite.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't need
-	any friends.
+	Eu não preciso de
+	amigos.
 	"""
 	keyWait
 		any = false
@@ -264,7 +265,7 @@ script 13 mmbn4 {
 	soundDisableTextSFX
 	soundPlay
 		track = 156
-	"Briiiiing!"
+	"Trrriiiimmm!"
 	wait
 		frames = 60
 	soundEnableTextSFX
@@ -276,17 +277,18 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = Raika
 	msgOpen
-	"⋯Raika here."
+	"... Raika falando."
 	keyWait
 		any = false
 	clearMsg
-	"Oh,Mr.President⋯"
+	"Ah,Sr. Presidente..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Forgive me⋯I accept
-	my punishment.
+	Peço perdão...
+	Aceito qualquer
+	punição.
 	"""
 	keyWait
 		any = false
@@ -299,7 +301,7 @@ script 15 mmbn4 {
 	soundDisableTextSFX
 	soundPlay
 		track = 209
-	"Click!"
+	"Clic!"
 	wait
 		frames = 11
 	soundEnableTextSFX
@@ -312,8 +314,9 @@ script 16 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Wait. I'm not done
-	talking to you yet.
+	Espera! Eu ainda não
+	terminei de falar
+	com você.
 	"""
 	keyWait
 		any = false
@@ -325,32 +328,32 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = Raika
 	"""
-	I was in this tour-
-	nament under the
+	Na verdade,eu entrei
+	neste torneio sob
+	ordens do nosso
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	orders of our
-	president.
+	presidente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My mission was to
-	show the world
-	Sharo's Network
+	A minha missão era
+	mostrar ao mundo
+	o poderio militar
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"military power."
+	"da Rede de Sharo."
 	keyWait
 		any = false
 	clearMsg
-	"But I failed⋯"
+	"Mas eu falhei..."
 	keyWait
 		any = false
 	clearMsg
@@ -361,8 +364,8 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	And that punishment
-	you mentioned?
+	E que papo foi esse
+	de "punição"?
 	"""
 	keyWait
 		any = false
@@ -374,8 +377,8 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = Raika
 	"""
-	I blew the mission.
-	I must be punished.
+	Eu falhei a missão.
+	Devo ser punido.
 	"""
 	keyWait
 		any = false
@@ -386,8 +389,9 @@ script 20 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	But that must be
-	something terrible⋯
+	Mas deve ser alguma
+	coisa horrível,
+	né...?
 	"""
 	keyWait
 		any = false
@@ -398,7 +402,7 @@ script 20 mmbn4 {
 script 21 mmbn4 {
 	mugshotShow
 		mugshot = Raika
-	"⋯Aha-ha-ha-ha!!"
+	"... Ha ha ha ha!!"
 	keyWait
 		any = false
 	clearMsg
@@ -408,7 +412,7 @@ script 21 mmbn4 {
 script 22 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"What's so funny?!"
+	"Qual é a graça?!"
 	keyWait
 		any = false
 	clearMsg
@@ -419,15 +423,17 @@ script 23 mmbn4 {
 	mugshotShow
 		mugshot = Raika
 	"""
-	Just a moment ago
-	you hated me,but
+	Não faz nem cinco
+	minutos,você me
+	odiava tanto,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	now you're suddenly
-	worried about me?
+	e agora,de repente,
+	está preocupado
+	comigo?
 	"""
 	keyWait
 		any = false
@@ -438,13 +444,12 @@ script 23 mmbn4 {
 script 24 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"So?!"
+	"E o que é que tem\nisso?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's just
-	the way I am!
+	Eu sou assim mesmo!
 	"""
 	keyWait
 		any = false
@@ -455,7 +460,7 @@ script 24 mmbn4 {
 script 25 mmbn4 {
 	mugshotShow
 		mugshot = Raika
-	"What a freak⋯"
+	"Que anormal..."
 	keyWait
 		any = false
 	end
@@ -464,14 +469,14 @@ script 26 mmbn4 {
 	mugshotShow
 		mugshot = Raika
 	msgOpen
-	"If,and I mean IF,"
+	"Se...\nE ênfase no SE..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	we were to meet
-	somewhere else⋯
-	
+	nos encontrarmos
+	de novo em algum
+	lugar
 	"""
 	mugshotAnimation
 		animation = 1
@@ -481,7 +486,7 @@ script 26 mmbn4 {
 	clearMsg
 	mugshotAnimation
 		animation = 2
-	"I could become your⋯"
+	"Eu poderia me tornar\nseu"
 	keyWait
 		any = false
 	clearMsg
@@ -494,7 +499,7 @@ script 26 mmbn4 {
 	"."
 	waitSkip
 		frames = 30
-	"friend."
+	" amigo."
 	keyWait
 		any = false
 	end
@@ -504,13 +509,14 @@ script 27 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You could at least
-	say it like you mean
+	Você podia pelo
+	menos falar com
+	vontade,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"it,Raika."
+	"Raika."
 	keyWait
 		any = false
 	clearMsg
@@ -529,24 +535,25 @@ script 28 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan and Raika
-	have become friends!
+	Ele nem sabe que
+	vocês dois já se
+	tornaram amigos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They've had a meet-
-	ing of minds through
-	battle!
+	Através da luta,
+	as suas mentes se
+	encontraram!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I really like
-	SerchMan's cool
-	personality.
+	E eu gosto muito da
+	personalidade
+	fria do SearchMan.
 	"""
 	keyWait
 		any = false
@@ -562,9 +569,9 @@ script 29 mmbn4 {
 	soundPlay
 		track = 220
 	"""
-	MegaMan's soul has
-	communed with
-	SerchMan's!!
+	A Alma do MegaMan
+	se ligou à do
+	SearchMan!!
 	"""
 	keyWait
 		any = false
@@ -579,8 +586,9 @@ script 30 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	We're bound to meet
-	again sometime!
+	Com certeza a gente
+	vai se encontrar de
+	novo! É o destino!
 	"""
 	keyWait
 		any = false
@@ -592,16 +600,17 @@ script 31 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	You noticed too,
-	right? Raika's our
-	friend now.
+	Você também notou,
+	né? O Raika já é
+	nosso amigo agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sure
-	we'll meet again⋯
+	Com certeza,
+	um dia,vamos nos
+	reencontrar...
 	"""
 	keyWait
 		any = false
@@ -612,7 +621,7 @@ script 31 mmbn4 {
 script 32 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Yeah⋯"
+	"É..."
 	keyWait
 		any = false
 	end

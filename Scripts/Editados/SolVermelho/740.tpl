@@ -5,16 +5,16 @@ script 0 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Please forgive the
-	long delay,everyone.
+	Desculpem o atraso,
+	senhoras e senhores.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	First,it's Lan,
-	the Electopia
-	representative!
+	Primeiro,represen-
+	tando Ni-Hon:
+	Lan Hikari!
 	"""
 	keyWait
 		any = false
@@ -25,15 +25,15 @@ script 1 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	And now,the
-	representative of
+	E seu oponente,
+	representando a
+	Affriq...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NetFrica,
-	Mr.Famous!
+	Sr. Famoso!
 	"""
 	keyWait
 		any = false
@@ -44,8 +44,8 @@ script 2 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Uh,excuse me⋯
-	Actually⋯
+	Er,com licença...
+	Na verdade...
 	"""
 	keyWait
 		any = false
@@ -56,18 +56,18 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
-	"・"
+	"."
 	wait
 		frames = 30
-	"・"
+	"."
 	wait
 		frames = 30
-	"・"
+	". "
 	wait
 		frames = 30
 	"""
-	Okay,got it.
-	Thank you.
+	Entendi.
+	Obrigada.
 	"""
 	keyWait
 		any = false
@@ -81,38 +81,37 @@ script 4 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	I have an announce-
-	ment for everyone.
+	Tenho um anúncio,
+	amigos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's time for the
-	match to start,
+	Já está na hora da
+	luta começar,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but Mr.Famous has
-	not yet arrived.
-	
+	mas o Sr. Famoso
+	ainda não chegou.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If he doesn't arrive
-	within 5 minutes,
-	according to the
+	Se não chegar dentro
+	de 5 minutos,as
+	regras do torneio
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	tournament rules,
-	he will forfeit.
+	ditam que ele será
+	desqualificado.
 	"""
 	keyWait
 		any = false
@@ -124,16 +123,17 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	What?!
-	You're kidding!
+	O quê?!
+	Só pode tá
+	brincando!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mr.Famous and
-	KendoMan were look-
-	ing forward to it!
+	O Sr. Famoso e o
+	KendoMan tavam
+	ansiosos por isto!
 	"""
 	keyWait
 		any = false
@@ -154,9 +154,9 @@ script 7 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah,something must
-	have happened to
-	them!
+	É... alguma coisa
+	deve ter acontecido
+	com eles!
 	"""
 	keyWait
 		any = false
@@ -168,9 +168,9 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I agree!
-	Let's go look for
-	them!
+	Concordo!
+	Vamos procurar por
+	eles!
 	"""
 	keyWait
 		any = false
@@ -181,7 +181,7 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Exactly!"
+	"Vamos!"
 	keyWait
 		any = false
 	end
@@ -191,29 +191,29 @@ script 10 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Miss!
-	Please give us some
-	time!
+	Moça!
+	Por favor,dá só um
+	tempo pra gente!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm gonna go look
-	for Mr.Famous!
+	Eu vou encontrar o
+	Sr. Famoso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There must be
-	something wrong for
-	him not to show up!
+	Deve ter dado algum
+	problema pra ele não
+	aparecer!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Please!!!"
+	"Por favor!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -223,23 +223,23 @@ script 10 mmbn4 {
 script 11 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
-	"All right."
+	"Tudo bem."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I also find it hard
-	to believe he'd miss
-	a match like this.
+	Também acho imprová-
+	vel ele perder a
+	hora da luta assim.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"But I can't wait"
+	"Dito isso..."
 	keyWait
 		any = false
 	clearMsg
-	"for very long!"
+	"Não podemos esperar\npor muito tempo!"
 	keyWait
 		any = false
 	clearMsg
@@ -249,7 +249,7 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Thank you!"
+	"Obrigado!"
 	keyWait
 		any = false
 	end
@@ -258,7 +258,7 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Let's go,MegaMan!"
+	"Vamos,MegaMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -269,8 +269,8 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Where do you think
-	he is?
+	Onde você acha que
+	ele pode estar?
 	"""
 	keyWait
 		any = false
@@ -281,14 +281,14 @@ script 14 mmbn4 {
 script 15 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"I don't know."
+	"Não sei."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll have to look
-	for him based on the
-	info we have now.
+	Vamos ter que procu-
+	rar com base nas in-
+	formações que temos.
 	"""
 	keyWait
 		any = false
@@ -299,7 +299,7 @@ script 15 mmbn4 {
 script 16 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Okay!"
+	"Beleza!"
 	keyWait
 		any = false
 	end

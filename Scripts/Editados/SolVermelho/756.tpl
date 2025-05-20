@@ -4,11 +4,11 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Man
 	msgOpen
-	"You did it."
+	"Você conseguiu!"
 	keyWait
 		any = false
 	clearMsg
-	"The water's back!!"
+	"A água voltou!!"
 	keyWait
 		any = false
 	end
@@ -18,8 +18,8 @@ script 1 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	Thank you,
-	young Champion!
+	Obrigado,
+	jovem Campeão!
 	"""
 	keyWait
 		any = false
@@ -29,14 +29,14 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Heh heh!"
+	"He he!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It was nothin'.
-	Besides,the WaterGod
-	was protecting me.
+	Não foi nada. Além
+	disso,o Deus da
+	Água me protegeu.
 	"""
 	keyWait
 		any = false
@@ -48,15 +48,15 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Man
 	"""
-	Ha ha ha⋯I like
-	you.
+	Ha ha ha...
+	Gostei de você.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey,Paulie,why
-	don't you⋯
+	Ei,Paulie,por que
+	não...
 	"""
 	keyWait
 		any = false
@@ -67,8 +67,9 @@ script 4 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	Where'd he get to
-	now? He's hopeless.
+	Onde ele foi parar
+	agora? Aquele menino
+	não tem jeito,viu?
 	"""
 	keyWait
 		any = false
@@ -80,8 +81,8 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I bet he headed back
-	to the Colosseum!
+	Aposto que ele foi
+	pro Coliseu!
 	"""
 	keyWait
 		any = false
@@ -93,8 +94,8 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan,we better get
-	back there quick!!
+	Lan,melhor a gente
+	voltar lá,rápido!!
 	"""
 	keyWait
 		any = false
@@ -106,13 +107,13 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Oh man!
-	We better hurry!
+	Cara!
+	Vamos correr!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Sorry,we gotta run!"
+	"Desculpa,gente,mas\neu tenho que ir!"
 	keyWait
 		any = false
 	clearMsg
@@ -122,13 +123,13 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = Man
-	"Thank you,young man."
+	"Obrigado,rapaz."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	May the WaterGod
-	watch over you.
+	Que o Deus da Água
+	lhe abençoe.
 	"""
 	keyWait
 		any = false

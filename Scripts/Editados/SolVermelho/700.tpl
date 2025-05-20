@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Huh?"
+	"Hã?"
 	keyWait
 		any = false
 	end
@@ -14,13 +14,13 @@ script 1 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Do you smell some-
-	thing burning?
+	Tá sentindo um
+	cheiro de queimado?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It can't be!"
+	"! Não pode ser!"
 	keyWait
 		any = false
 	end
@@ -43,9 +43,9 @@ script 3 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Were FireMan and
-	BurnMan fighting
-	here,too?
+	O FireMan e o
+	BurnMan tão brigando
+	aqui também?
 	"""
 	keyWait
 		any = false
@@ -57,14 +57,14 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Those two!!!"
+	"Aqueles dois...!!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What're they think-
-	ing? The match is
-	about to start!
+	O que eles têm na
+	cabeça? A luta tá
+	pra começar!
 	"""
 	keyWait
 		any = false
@@ -77,8 +77,9 @@ script 5 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We'd better do
-	something!
+	É bom a gente
+	fazer alguma
+	coisa!
 	"""
 	keyWait
 		any = false
@@ -91,9 +92,8 @@ script 6 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,do you
-	still have the
-	"FireBstr"?!
+	MegaMan,você ainda
+	tem o "ApgaFogo"?!
 	"""
 	keyWait
 		any = false
@@ -105,13 +105,13 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah!"
+	"Tenho!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,hurry up and
-	jack me in!
+	Lan,rápido,
+	me conecta!
 	"""
 	keyWait
 		any = false

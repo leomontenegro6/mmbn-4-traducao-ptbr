@@ -57,8 +57,8 @@ script 3 mmbn4 {
 	msgOpen
 	"""
 	O diário da Mayl...
-	Cheio de segredo que
-	você não deve ler.
+	Cheio de segredos
+	que não deve ler.
 	"""
 	keyWait
 		any = false
@@ -144,16 +144,15 @@ script 6 mmbn4 {
 	clearMsg
 	"""
 	Parece possuir uma
-	entrada especial
-	de conexão...
+	entrada especial de
+	conexão...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Mas está quebrada
-	agora,então,
-	esquece.
+	agora,então,esquece.
 	"""
 	keyWait
 		any = false

@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"I lost?!"
+	"Eu perdi?!"
 	keyWait
 		any = false
 	clearMsg
@@ -14,18 +14,18 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"No way!"
+	"Ufa!"
 	keyWait
 		any = false
 	clearMsg
-	"That was close,but"
+	"Essa foi por pouco."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	if you catch the
-	ball there's nothing
-	to worry about.
+	Depois de defender a
+	bola uma vez,fica
+	fácil.
 	"""
 	keyWait
 		any = false
@@ -36,13 +36,13 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
-	"Grr⋯"
+	"Grr..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How could I lose to
-	this amateur?!
+	Como eu pude perder
+	pra esse amador?!
 	"""
 	keyWait
 		any = false
@@ -54,8 +54,8 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Heh,FootBomb's no
-	big deal!
+	He,FuteBomba nem é
+	tudo isso!
 	"""
 	keyWait
 		any = false
@@ -66,8 +66,7 @@ script 4 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,aren't you
-	saying too much?
+	Lan,maneira aí...
 	"""
 	keyWait
 		any = false
@@ -78,14 +77,14 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Leave it be!"
+	"Não!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He said what he
-	wanted to about us,
-	so it's my turn!
+	Ele ficou provocando
+	a gente,né? Bom,pois
+	é a minha vez!
 	"""
 	keyWait
 		any = false
@@ -96,7 +95,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Yeah,but still⋯"
+	"Eu sei,mas..."
 	keyWait
 		any = false
 	clearMsg
@@ -107,9 +106,9 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	Dang! I want to find
-	some spacious area
-	and just run!
+	Argh! Eu só quero ir
+	pra uma área aberta
+	e sair correndo!
 	"""
 	keyWait
 		any = false
@@ -123,7 +122,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Whoa!"
+	"Opa!"
 	keyWait
 		any = false
 	clearMsg
@@ -134,7 +133,7 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
 	msgOpen
-	"No!!!"
+	"Não!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -144,7 +143,7 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"He's gone."
+	"E lá foi ele."
 	keyWait
 		any = false
 	end
@@ -154,14 +153,14 @@ script 11 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	What are you blab-
-	bing on about,he
-	must be depressed.
+	Sim,"lá foi ele"!
+	Aposto que ele ficou
+	super deprimido.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's go apologize."
+	"Vamos lá pedir\ndesculpas."
 	keyWait
 		any = false
 	clearMsg
@@ -171,7 +170,7 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"But he started it⋯"
+	"Mas foi ele quem\ncomeçou..."
 	keyWait
 		any = false
 	clearMsg
@@ -181,7 +180,7 @@ script 12 mmbn4 {
 script 13 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Lan?!"
+	"Lan!"
 	keyWait
 		any = false
 	clearMsg
@@ -192,13 +191,14 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Okay,MegaMan.
-	Let's apologize!
+	Tá bom,tá bom.
+	Vamos lá pedir
+	desculpas!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"But where is he?"
+	"Mas onde será que\nele tá?"
 	keyWait
 		any = false
 	clearMsg
@@ -209,9 +209,9 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	He said something
-	about running in
-	some spacious area.
+	Ele falou de correr
+	numa área aberta,
+	não foi?
 	"""
 	keyWait
 		any = false
@@ -222,18 +222,18 @@ script 15 mmbn4 {
 script 16 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"A spacious area⋯"
+	"Uma área aberta..."
 	keyWait
 		any = false
 	clearMsg
-	"A big square?"
+	"Tipo uma praça\nenorme?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I probably said too
-	much,too. Let's go
-	find him.
+	É,acho que eu peguei
+	pesado. Vamos lá
+	encontrar ele.
 	"""
 	keyWait
 		any = false
@@ -243,21 +243,22 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Hey you,stand up!"
+	"Aí,rapaz! Levanta!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's more to
-	FootBomb than you
-	think!
+	O FuteBomba não é
+	pra quem não tem
+	determinação!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What is it?
-	You're not done?!
+	Que foi?
+	Você ainda tem gás
+	pra jogar,não tem?!
 	"""
 	keyWait
 		any = false
@@ -277,7 +278,7 @@ script 18 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Let's go  "
+	"Vamos  "
 	option
 		brackets = false
 		left = 0
@@ -286,7 +287,7 @@ script 18 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Wait!"
+	"Espera!"
 	select
 		default = 0
 		noDelay = false
@@ -302,16 +303,16 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	Heh,NetBattlers are
-	no big deal!!!
+	He,NetLutadores não
+	são de nada!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Come back when
-	you're ready to try
-	again!
+	Volta aqui quando
+	estiver pronto pra
+	jogar de novo!
 	"""
 	keyWait
 		any = false
@@ -322,15 +323,16 @@ script 19 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Heh,you don't know
-	when to give up.
+	He,você não sabe
+	mesmo quando
+	desistir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll smash you until
-	you've had enough!
+	Eu vou te detonar
+	até você cansar!
 	"""
 	keyWait
 		any = false

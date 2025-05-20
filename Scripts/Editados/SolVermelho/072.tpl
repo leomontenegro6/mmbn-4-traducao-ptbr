@@ -62,8 +62,8 @@ script 5 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The tournament's
-	going to start! 
+	O torneio já vai
+	começar!
 	"""
 	keyWait
 		any = false
@@ -74,9 +74,9 @@ script 6 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,we did it! Let's
-	go back to the
-	WaitingRoom!
+	Conseguimos,Lan!
+	Bom,de volta à
+	Sala de Espera!
 	"""
 	keyWait
 		any = false
@@ -92,9 +92,9 @@ script 7 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,we did it! Let's
-	go back to the
-	WaitingRoom!
+	Conseguimos,Lan!
+	Bom,de volta à
+	Sala de Espera!
 	"""
 	keyWait
 		any = false
@@ -109,8 +109,8 @@ script 8 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's read that
-	mail!
+	Lan,vamos ler o
+	e-mail!
 	"""
 	keyWait
 		any = false
@@ -121,9 +121,9 @@ script 9 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,we did it! Let's
-	go back to the
-	WaitingRoom!
+	Conseguimos,Lan!
+	Bom,de volta à
+	Sala de Espera!
 	"""
 	keyWait
 		any = false
@@ -146,9 +146,9 @@ script 130 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We've got some time
-	before the match.
-	Let's look around!
+	Ainda tem um tempo
+	até a luta. Vamos
+	explorar por aí!
 	"""
 	keyWait
 		any = false
@@ -202,8 +202,8 @@ script 132 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Vamos lá pra
-	EletroVila Plaza!
+	Vamos lá pra Praça
+	da EletroVila!
 	"""
 	keyWait
 		any = false
@@ -237,9 +237,9 @@ script 134 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's collect the
-	number data and head
-	back to ElecTown Sq!
+	Vamos coletar os
+	dados de número e
+	voltar pra Praça!
 	"""
 	keyWait
 		any = false
@@ -373,9 +373,9 @@ script 145 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	That should be all
-	of them. Let's go
-	to the Stadium!
+	Pronto,acho que
+	foram todos.
+	Para o Estádio!
 	"""
 	keyWait
 		any = false
@@ -386,9 +386,9 @@ script 146 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's find the five
-	ignition devices
-	inside the Dome!
+	Vamos achar os 5
+	dispositivos de
+	ignição no Domo!
 	"""
 	keyWait
 		any = false
@@ -399,9 +399,9 @@ script 147 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Jack me in! We have
-	to stop the MT
-	ignition devices!
+	Me conecta! Temos
+	que parar o dispo-
+	sitivo de ignição!
 	"""
 	keyWait
 		any = false
@@ -412,9 +412,9 @@ script 148 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Jack me in! We've
-	almost stopped the
-	MT ignition devices!
+	Me conecta! Falta
+	pouco pra parar os
+	dispositivos!
 	"""
 	keyWait
 		any = false
@@ -490,9 +490,9 @@ script 153 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Our folder's fixed,
-	so let's head back
-	to the arena!
+	Pasta consertada.
+	Agora,de volta à
+	arena!
 	"""
 	keyWait
 		any = false
@@ -536,9 +536,9 @@ script 161 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's give the top
-	to that elderly
-	guy! Where'd he go?
+	Vamos dar o pião
+	pra aquele senhor!
+	Onde ele se meteu?
 	"""
 	keyWait
 		any = false
@@ -549,9 +549,9 @@ script 162 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go to ACDC
-	Park,where elderly
-	NetBattlers are at!
+	Fale com os NetLuta-
+	dores idosos no
+	Parque ACDC!
 	"""
 	keyWait
 		any = false
@@ -617,8 +617,8 @@ script 166 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	O Navi da Chefe deve
-	estar em ACDC,né?
+	O Navi do Chefe está
+	em ACDC,né?
 	Vamos lá!
 	"""
 	keyWait
@@ -755,8 +755,8 @@ script 177 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go to AquaMan!
-	Jack me in!
+	Vamos até o AquaMan!
+	Me conecta!
 	"""
 	keyWait
 		any = false
@@ -1148,9 +1148,9 @@ script 216 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's hurry to the
-	Town Area and help
-	NumbrMan!
+	Vamos logo pra Área
+	Vila ajudar o
+	NumberMan!
 	"""
 	keyWait
 		any = false
@@ -1210,9 +1210,9 @@ script 230 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The match is about
-	to start! Hurry!
-	It's the last door!
+	A luta tá pra
+	começar! Corre!
+	É a porta no final!
 	"""
 	keyWait
 		any = false
@@ -1223,8 +1223,8 @@ script 231 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's go to the
-	WaitingRoom!
+	Lan,vamos pra
+	Sala de Espera!
 	"""
 	keyWait
 		any = false

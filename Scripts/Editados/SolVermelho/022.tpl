@@ -1,67 +1,67 @@
 @size 48
 
 script 0 mmbn4s {
-	" Glide    Welcome All! "
+	" Glide    Bem-vindos!  "
 	end
 }
 script 1 mmbn4s {
-	" Mayl     Good for you!"
+	" Mayl     Que bom!     "
 	end
 }
 script 2 mmbn4s {
-	" Dex      Congrats!!   "
+	" Dex      Parabéns!!   "
 	end
 }
 script 3 mmbn4s {
-	" Yai      Thanks!      "
+	" Yai      Obrigada!    "
 	end
 }
 script 4 mmbn4s {
-	" GutsMan  RE:Thanks!   "
+	" GutsMan  RE:Obrigada! "
 	end
 }
 script 5 mmbn4s {
-	" Dex      RE:Thanks!   "
+	" Dex      RE:Obrigada! "
 	end
 }
 script 6 mmbn4s {
-	" Hans     Hello!       "
+	" Hans     Oi!          "
 	end
 }
 script 7 mmbn4s {
-	" Nikaido  Hi Yai!      "
+	" Nikaido  Oi,Yai!      "
 	end
 }
 script 8 mmbn4s {
-	" Dex      Ghosts?!     "
+	" Dex      Fantasmas?!  "
 	end
 }
 script 9 mmbn4s {
-	" GutsMan  RE:Ghosts?!  "
+	" GutsMan  RE:Fantasmas?"
 	end
 }
 script 10 mmbn4s {
-	" Nikaido  RE:Ghosts?!  "
+	" Nikaido  RE:Fantasmas?"
 	end
 }
 script 11 mmbn4s {
-	" Yai      Oh,my!       "
+	" Yai      Puxa!        "
 	end
 }
 script 12 mmbn4s {
-	" Matsu    Tournament?  "
+	" Matsu    Torneio?     "
 	end
 }
 script 13 mmbn4s {
-	" Yai      Sponsor      "
+	" Yai      Patrocinador "
 	end
 }
 script 14 mmbn4s {
-	" Mayl     Lan too!     "
+	" Mayl     O Lan também!"
 	end
 }
 script 15 mmbn4s {
-	" Dex      Lan rules!   "
+	" Dex      Lan arrebenta"
 	end
 }
 script 16 mmbn4s {

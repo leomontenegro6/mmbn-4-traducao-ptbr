@@ -5,23 +5,23 @@ script 0 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Amazing! You passed
-	the rock-smashing
-	test!
+	Olha só! Cê passou
+	no teste de quebrá
+	pedra!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now you've got the
-	fighting spirit!
+	Agora cê tem o
+	eshpírito de luta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Tamako will accept
-	you now.
+	A Tamako deve te
+	aceitá agora.
 	"""
 	keyWait
 		any = false
@@ -33,7 +33,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Thank you very much!"
+	"Muito obrigado!"
 	keyWait
 		any = false
 	clearMsg
@@ -45,8 +45,8 @@ script 2 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Fight well in your
-	battle.
+	Luta bonito lá no
+	negoço,viu?
 	"""
 	keyWait
 		any = false
@@ -58,7 +58,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Okay!"
+	"Certo!"
 	keyWait
 		any = false
 	clearMsg
@@ -69,7 +69,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	msgOpen
-	"Time to go,MegaMan!"
+	"Tá,vai logo embora,\nMegaMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -80,7 +80,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Goodbye!"
+	"Tchau!"
 	keyWait
 		any = false
 	end
@@ -90,9 +90,8 @@ script 6 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Novice!
-	Start again from
-	the beginning!
+	Amadô'!
+	Vai de novo,do zero!
 	"""
 	keyWait
 		any = false

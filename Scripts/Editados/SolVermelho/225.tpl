@@ -630,7 +630,7 @@ script 28 mmbn4 {
 	msgOpen
 	"""
 	Seja lá quem atacou
-	aquele Navi,ainda
+	aquela Navi,ainda
 	está à solta.
 	"""
 	keyWait
@@ -654,7 +654,7 @@ script 35 mmbn4 {
 	msgOpen
 	"""
 	Hoje é o dia do
-	Torneio da Batalha
+	Torneio de Batalha
 	Den!
 	"""
 	keyWait
@@ -828,7 +828,7 @@ script 45 mmbn4 {
 	msgOpen
 	"""
 	Você passou na
-	Primeira Rodada?
+	primeira rodada?
 	Aê,Lan!
 	"""
 	keyWait
@@ -840,7 +840,8 @@ script 46 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	O que eu compro\nagora...?
+	O que eu compro
+	agora...?
 	"""
 	keyWait
 		any = false
@@ -857,7 +858,7 @@ script 47 mmbn4 {
 	"""
 	Quanto mais você
 	avança,mais acirrada
-	fica a compatição.
+	fica a competição.
 	"""
 	keyWait
 		any = false
@@ -953,9 +954,9 @@ script 142 mmbn4 {
 		mugshot = OldManAlt
 	msgOpen
 	"""
-	É um teste pra en-
-	trar pro nosso clube
-	de NetLutadores!
+	É um teste pra se
+	provar pro nosso
+	Clube de NetLutas!
 	"""
 	keyWait
 		any = false
@@ -1023,7 +1024,7 @@ script 144 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"força aí,garoto!"
+	"boa sorte,meu filho!"
 	keyWait
 		any = false
 	end
@@ -1072,8 +1073,8 @@ script 148 mmbn4 {
 	msgOpen
 	"""
 	O Chefe e Tensuke
-	nunca ficam de
-	acordo com nada.
+	nunca concordam em
+	nada.
 	"""
 	keyWait
 		any = false

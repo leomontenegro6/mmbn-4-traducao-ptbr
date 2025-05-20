@@ -14,7 +14,7 @@ script 0 mmbn4 {
 	"""
 	Felizmente,ninguém
 	se feriu. Graças a
-	você,mocinha.
+	você,mocinho.
 	"""
 	keyWait
 		any = false
@@ -168,7 +168,7 @@ script 7 mmbn4 {
 	"""
 	É. Ela está
 	envolvida em todo o
-	tipo do crime,
+	tipo de crime,
 	"""
 	keyWait
 		any = false

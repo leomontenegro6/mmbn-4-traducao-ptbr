@@ -5,23 +5,25 @@ script 10 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS INFORMATION
-	SYSTEM IS CURRENTLY
+	ESTE SISTEMA DE
+	INFORMAÇÕES ESTÁ,
+	NO MOMENTO,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ACTING AS A SPACE
-	OBSERVATION SYSTEM.
+	OPERANDO COMO SIS-
+	TEMA DE OBSERVAÇÃO
+	ESPACIAL.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'M SO BUSY I CAN'T
-	HANDLE EVERYTHING
-	BY MYSELF!!
+	ESTOU TÃO OCUPADO
+	QUE NEM CUIDO DE
+	TUDO SOZINHO!!
 	"""
 	keyWait
 		any = false

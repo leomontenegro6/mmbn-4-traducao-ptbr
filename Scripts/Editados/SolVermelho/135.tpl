@@ -3,32 +3,32 @@
 script 0 mmbn4 {
 	msgOpen
 	"""
-	This is the
-	SpaceCtr's
-	information system.
+	É o sistema de
+	informação do Centro
+	Espacial.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a useful system
-	for getting around
-	this place,
+	Muito útil para se
+	situar por aqui,
+	e,em emergências,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but in emergencies
-	it serves as a space
-	observatory system.
+	serve como um
+	sistema observatório
+	espacial.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looks like you can
-	jack in.
+	Parece que dá para
+	se conectar nele.
 	"""
 	keyWait
 		any = false
@@ -37,9 +37,9 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	msgOpen
 	"""
-	This machine'll tell
-	you about satellites
-	and their history.
+	Essa máquina ensina
+	sobre satélites e
+	as origens deles.
 	"""
 	keyWait
 		any = false
@@ -48,17 +48,17 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	msgOpen
 	"""
-	A cut-down model
-	of a weather
-	satellite⋯
+	Um modelo compacto
+	de um satélite
+	climático...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The idea that this
-	travels in space
-	seems like fiction.
+	Parece até ficção,
+	o fato disso aí
+	viajar pelo espaço.
 	"""
 	keyWait
 		any = false
@@ -67,17 +67,17 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	msgOpen
 	"""
-	Weather satellite
-	data is recorded
-	here.
+	Os dados do satélite
+	climático são
+	gravados aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Even now,processed
-	data is constantly
-	being recorded.
+	Mesmo agora,dados
+	processados são
+	gravados.
 	"""
 	keyWait
 		any = false
@@ -86,17 +86,17 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	msgOpen
 	"""
-	Once the weather
-	satellite data has
-	been sorted here,
+	Depois que os dados
+	do satélite são
+	separados aqui,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it's copied to the
-	storage system next
-	to it.
+	eles são copiados ao
+	sistema de armazena-
+	mento ao lado.
 	"""
 	keyWait
 		any = false
@@ -105,17 +105,17 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	msgOpen
 	"""
-	Data from way off in
-	space is processed
-	right here.
+	Dados advindos
+	do espaço são
+	processados aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is an important
-	system for Sharo's
-	weather control.
+	Um sistema importan-
+	te para o controle
+	climático de Sharo.
 	"""
 	keyWait
 		any = false
@@ -124,16 +124,16 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	msgOpen
 	"""
-	You can check the
-	weather satellite
-	status from here.
+	Pode-se conferir os
+	estados dos satéli-
+	tes climáticos aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Right now everything
-	looks a-okay.
+	Agora,tudo parece
+	em ordem!
 	"""
 	keyWait
 		any = false
@@ -142,17 +142,17 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	msgOpen
 	"""
-	The earth and moon
-	are displayed in
-	real-time.
+	A Terra e a Lua
+	são exibidas em
+	tempo real.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Both of them have
-	a peaceful glow
-	about them⋯
+	Ambas têm um brilho
+	pacífico acerca
+	delas...
 	"""
 	keyWait
 		any = false
@@ -161,17 +161,17 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	msgOpen
 	"""
-	A photo taken from
-	Sharo of an aurora
-	in the night sky⋯
+	Foto de uma aurora
+	no céu,tirada em
+	Sharo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's so beautiful.
-	Like a veil of
-	light.
+	É tão linda.
+	Parece até um véu de
+	luz.
 	"""
 	keyWait
 		any = false
@@ -180,25 +180,25 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	msgOpen
 	"""
-	Lots of pictures
-	of the Milkyway and
-	asteroids⋯
+	Diversas fotos da
+	Via Láctea e de
+	asteroides...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Each one lets you
-	feel the wonder and
-	mystery of space.
+	Elas lhe fazem sen-
+	tir o fascínio e o
+	mistério do espaço.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's something
-	small written in a
-	picture's corner.
+	Há uma pequena
+	anotação no canto
+	de uma das fotos.
 	"""
 	keyWait
 		any = false

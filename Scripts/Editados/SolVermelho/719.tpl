@@ -5,22 +5,21 @@ script 0 mmbn4 {
 		mugshot = OldManAlt
 	msgOpen
 	"""
-	You're not ready to
-	represent Electopia
-	just yet.
+	Você ainda não está
+	pronto para repre-
+	sentar Ni-Hon.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But anything could
-	happen in this
-	tournament.
+	Mas tudo é possível
+	neste torneio.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Gresply Nekrom!"
+	"Grespri Nekrom!"
 	keyWait
 		any = false
 	end
@@ -29,27 +28,28 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Gresply?"
+	"Grespri?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Who was that old
-	guy?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Well,he's not in
-	the tournament.
+	Quem era esse
+	velhote?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Is it some custom of
-	this nation?
+	Bom,eu sei que
+	competidor,ele
+	não era.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Será algum tipo de
+	costume deste país?
 	"""
 	keyWait
 		any = false
@@ -60,7 +60,7 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"I wonder?"
+	"Será?"
 	keyWait
 		any = false
 	clearMsg
@@ -70,14 +70,14 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Oh well!"
+	"Ah,enfim!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Forget about that,
-	let's go get some
-	Netopian bread!
+	Esquece isso. Bora
+	comer um pãozinho
+	ameropano!
 	"""
 	keyWait
 		any = false

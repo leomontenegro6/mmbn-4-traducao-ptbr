@@ -10,15 +10,15 @@ script 0 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Hah! I found you at
-	last! I won't let
+	Ha! Finalmente te
+	achei!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you off so easily
-	this time!
+	Dessa vez cê não
+	escapa fácil!
 	"""
 	keyWait
 		any = false
@@ -26,8 +26,8 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = OrangeShirtBoy
 	"""
-	C'mon! Show me what
-	you've got!
+	Vamos! Mostra aí do
+	que cê é capaz!
 	"""
 	keyWait
 		any = false
@@ -43,9 +43,9 @@ script 1 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	You think you can
-	beat me with that
-	raggedy folder? Ha!
+	Acha que pode me
+	vencer com essa
+	pastinha aí? Rá!
 	"""
 	keyWait
 		any = false
@@ -53,8 +53,8 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = BlueShirtBoy
 	"""
-	Those words will be
-	your last!!
+	Tá com pressa pra ir
+	pra cova,hein?!
 	"""
 	keyWait
 		any = false
@@ -68,15 +68,16 @@ script 5 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	To us,this battle's
-	more important than
+	Pra gente,esta luta
+	é mais importante
+	até que o
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that Red Sun
-	Tournament!
+	Torneio Sol
+	Vermelho!
 	"""
 	keyWait
 		any = false
@@ -86,14 +87,14 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = OrangeShirtBoy
 	msgOpen
-	"That's right!"
+	"Pois é!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The only thing
-	important to us is
-	who's stronger!
+	Só o que importa pra
+	gente é ver quem é o
+	mais forte!
 	"""
 	keyWait
 		any = false
@@ -104,16 +105,15 @@ script 7 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	To us,this battle's
-	more important than
+	Pra gente,esta luta
+	é mais importante
+	até que o
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that Blue Moon
-	Tournament!
-	That's right!
+	Torneio Lua Azul!
 	"""
 	keyWait
 		any = false
@@ -134,9 +134,9 @@ script 10 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Here goes!
-	Winnnd!!
-	LLLaaaannnncceeee!!
+	Lá vai!
+	Wiiind!!
+	Laaaaaannnce!!
 	"""
 	keyWait
 		any = false
@@ -157,8 +157,9 @@ script 11 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	So you wanna play
-	rough,huh?! OK⋯
+	Então,cê quer
+	jogar sério,é?
+	Tá bom...
 	"""
 	keyWait
 		any = false
@@ -168,9 +169,9 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Hahaha! Try breaking
-	down this impregna-
-	ble shield!
+	Ha ha ha! Quero ver
+	cê passar por este
+	escudo invencível!
 	"""
 	keyWait
 		any = false
@@ -181,8 +182,8 @@ script 15 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	What?! Fine,have it
-	your way!
+	O quê?!
+	Tá bom,então!
 	Barrier 100!!
 	"""
 	keyWait
@@ -194,9 +195,9 @@ script 16 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Why you⋯! So you've
-	got a defensive
-	folder too?
+	Argh...! Você também
+	tem uma pasta
+	defensiva?!
 	"""
 	keyWait
 		any = false
@@ -211,8 +212,8 @@ script 20 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Whoa!! A technical
-	victory!
+	Caramba!!
+	Uma vitória técnica!
 	"""
 	keyWait
 		any = false
@@ -220,9 +221,8 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = OrangeShirtBoy
 	"""
-	You won't
-	be so lucky next
-	time!
+	Na próxima cê não
+	vai ter essa sorte!
 	"""
 	keyWait
 		any = false
@@ -232,27 +232,26 @@ script 21 mmbn4 {
 	mugshotShow
 		mugshot = OrangeShirtBoy
 	msgOpen
-	"That was a close"
+	"Essa luta foi\nacirrada,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	battle,but it looks
-	like your will to
-	win was stronger
+	mas parece que a
+	sua vontade de
+	vencer foi mais
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"than mine⋯"
+	"forte que a minha..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = BlueShirtBoy
 	"""
-	Now that's what bat-
-	tling's all about!
+	NetLuta é isso!
 	"""
 	keyWait
 		any = false
@@ -267,20 +266,22 @@ script 25 mmbn4 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"The Tower's all"
+	"A Torre está limpa."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	clear. Nebula hasn't
-	even left a trail to
+	A Nebula não deixou
+	sequer uma trilha
+	para seguir!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	follow! We Officials
-	are out of clues!
+	Nós,Oficiais,estamos
+	completamente sem
+	pistas!
 	"""
 	keyWait
 		any = false
@@ -296,15 +297,16 @@ script 26 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	That man there's an
-	Official,right? I'll
+	Aquele cara ali é um
+	Oficial,né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ask him to look at
-	my folder later!
+	Vou pedir pra ele
+	dar uma olhada na
+	minha pasta depois!
 	"""
 	keyWait
 		any = false
@@ -320,16 +322,17 @@ script 27 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	I want to be an
-	Official someday!
+	Eu quero ser um
+	Oficial quando eu
+	crescer!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll ask that Offi-
-	cial what I should
-	do to become one!
+	Vou perguntar pra
+	aquele o que eu
+	tenho que fazer!
 	"""
 	keyWait
 		any = false
@@ -340,20 +343,17 @@ script 30 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	The Net's been
-	fixed,but I don't
+	A Rede foi
+	consertada,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	know how to make
-	these children go
+	mas eu não sei como
+	fazer estas crianças
+	me deixarem em paz!
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"away!"
 	keyWait
 		any = false
 	end
@@ -363,8 +363,9 @@ script 31 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Sir! Sir! Look at my
-	folder! Pleeease?!
+	Moço! Moço! Olha
+	a minha pasta!
+	Por favooooor!
 	"""
 	keyWait
 		any = false
@@ -375,8 +376,9 @@ script 32 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Um⋯how do I become
-	an Official?!
+	Er... Como eu faço
+	pra me tornar um
+	Oficial?
 	"""
 	keyWait
 		any = false
@@ -387,29 +389,30 @@ script 35 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	I managed to talk
-	those kids into
+	Consegui convencer
+	aqueles meninos a
+	irem pra casa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	going home. I've got
-	orders from above
-	to secure this
+	Recebi ordens dos
+	meus superiores de
+	preparar esta Praça
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Square as an evacua-
-	tion area. Don't ask
-	me why⋯I just do
+	para ser uma área de
+	evacuação. Não per-
+	gunte por quê...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"what they tell me."
+	"eu só sigo ordens."
 	keyWait
 		any = false
 	end

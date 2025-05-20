@@ -20,9 +20,9 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	The Undernet crawls
-	with shady Navis.
-	Be careful,MegaMan!
+	A Undernet é cheia
+	de Navis sinistros.
+	Cuidado aí,MegaMan!
 	"""
 	keyWait
 		any = false
@@ -33,20 +33,20 @@ script 1 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Darker than the
+	Mais sombrio que a
 	Undernet
 	"""
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
 	"""
-	・
-	Be careful,MegaMan!
+	.
+	Cuidado aí,MegaMan!
 	"""
 	keyWait
 		any = false
@@ -65,9 +65,9 @@ script 185 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	The Undernet crawls
-	with shady Navis.
-	Be careful,MegaMan!
+	A Undernet é cheia
+	de Navis sinistros.
+	Cuidado aí,MegaMan!
 	"""
 	keyWait
 		any = false
@@ -78,9 +78,9 @@ script 187 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	SerchMan's evil
-	hideout should be in
-	this area,right?
+	O esconderijo em que
+	o SearchMan foi fica
+	nesta área,né?
 	"""
 	keyWait
 		any = false
@@ -96,9 +96,9 @@ script 188 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,go to
-	Undernet6!
-	Be careful!
+	MegaMan,vai pra
+	Undernet 6!
+	Mas cuidado!
 	"""
 	keyWait
 		any = false
@@ -112,9 +112,9 @@ script 189 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's jack out and
-	battle Raika at the
-	Colosseum,MegaMan!
+	Vamos desconectar
+	e lutar contra o
+	Raika no Coliseu!
 	"""
 	keyWait
 		any = false
@@ -193,9 +193,9 @@ script 195 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I'm concerned about
-	Chaud. Let's go to
-	the hotel,MegaMan!
+	Tô preocupado com o
+	Chaud. Bora lá pro
+	hotel,MegaMan!
 	"""
 	keyWait
 		any = false
@@ -206,9 +206,9 @@ script 196 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Search for ProtoMan,
-	MegaMan! He can't
-	have gotten far yet!
+	Procura pelo ProtoMan,
+	MegaMan! Ele não deve
+	ter ido longe!
 	"""
 	keyWait
 		any = false
@@ -219,8 +219,8 @@ script 197 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	ProtoMan should be
-	somewhere down here⋯
+	O ProtoMan deve
+	estar por aqui...
 	"""
 	keyWait
 		any = false
@@ -230,14 +230,14 @@ script 199 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Keep delving deeper."
+	"Continue adentrando."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nebula's members
-	won't be near the
-	surface here.
+	Os membros da Nebula
+	não estariam perto
+	da entrada.
 	"""
 	keyWait
 		any = false
@@ -253,20 +253,20 @@ script 200 mmbn4 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Listen up. The
+	Escute. O
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 111
 	"""
-	" is hidden
-	in the center of
+	" fica
+	escondido no meio de
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"4 bones."
+	"4 ossos."
 	keyWait
 		any = false
 	end
@@ -281,8 +281,8 @@ script 201 mmbn4 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Open the door and
-	go on,MegaMan.
+	Abra a porta e
+	entre,MegaMan.
 	"""
 	keyWait
 		any = false
@@ -292,14 +292,14 @@ script 202 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Keep going on⋯"
+	"Continue..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There are bound to
-	be traps in your way
-	so be on the alert.
+	Deve haver armadi-
+	lhas no caminho,
+	então,cuidado.
 	"""
 	keyWait
 		any = false
@@ -315,7 +315,7 @@ script 203 mmbn4 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	First find the
+	Primeiro,ache o
 	"
 	"""
 	printItem
@@ -326,15 +326,9 @@ script 203 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	It should be in
-	the right corner of
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	a square in that
-	area.
+	Ele é para estar no
+	canto direito de u,
+	quadro nessa área.
 	"""
 	keyWait
 		any = false
@@ -350,17 +344,16 @@ script 204 mmbn4 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	The next place
-	should be at the
-	bottom of a flight
+	O próximo lugar
+	fica na descida
+	de uma escadaria,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	of stairs,where you
-	are repelled when
-	trying to proceed.
+	onde você é repelido
+	ao tentar avançar.
 	"""
 	keyWait
 		any = false
@@ -376,9 +369,9 @@ script 205 mmbn4 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Now open the door
-	and go to the next
-	area.
+	Agora abra a porta
+	e vá para a próxima
+	área.
 	"""
 	keyWait
 		any = false
@@ -399,9 +392,9 @@ script 206 mmbn4 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	ProtoMan is
-	definitely ahead.
-	Be on guard.
+	O ProtoMan com cer-
+	teza está à frente.
+	Não baixe a guarda.
 	"""
 	keyWait
 		any = false
@@ -417,17 +410,17 @@ script 207 mmbn4 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	This may be the last
-	door. Get each key
-	one at a time.
+	Pode ser a última
+	porta. Pegue uma
+	chave de cada vez.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The 1st key is in
-	front of the 5th
-	bone out of 9 bones.
+	A primeira está na
+	frente do 5o. osso
+	de 9 ossos.
 	"""
 	keyWait
 		any = false
@@ -443,8 +436,9 @@ script 208 mmbn4 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	The next key is at a
-	corner with 6 bones.
+	A próxima chave está
+	em um canto com 6
+	ossos.
 	"""
 	keyWait
 		any = false
@@ -460,9 +454,9 @@ script 209 mmbn4 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	The final key is in
-	the corner of a
-	square with 2 warps.
+	A última chave está
+	no canto de um qua-
+	dro com 2 portais.
 	"""
 	keyWait
 		any = false
@@ -478,9 +472,9 @@ script 210 mmbn4 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Open the door and
-	go on. Be on the
-	highest alert.
+	Abra a porta e
+	prossiga. Mas
+	fique 100% alerta.
 	"""
 	keyWait
 		any = false
@@ -496,9 +490,9 @@ script 211 mmbn4 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Keep going. I can
-	feel ProtoMan is
-	close!
+	Prossiga. Estou
+	sentindo que o
+	ProtoMan está perto!
 	"""
 	keyWait
 		any = false
@@ -514,9 +508,9 @@ script 212 mmbn4 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Enter Nebula's
-	hideout. I'm
-	counting on you.
+	Entre no esconderijo
+	da Nebula. Conto com
+	você.
 	"""
 	keyWait
 		any = false
@@ -527,9 +521,9 @@ script 213 mmbn4 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	ProtoMan's close,
-	just up ahead.
-	Please hurry.
+	O ProtoMan está
+	perto,logo à
+	frente. Rápido.
 	"""
 	keyWait
 		any = false
@@ -543,8 +537,8 @@ script 214 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go face Chaud
-	at the Colosseum!
+	Vamos lá enfrentar
+	o Chaud no Coliseu!
 	"""
 	keyWait
 		any = false
@@ -555,8 +549,8 @@ script 215 mmbn4 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Go back to Undernet
-	1 and look for the
+	Volte a Undernet 1
+	e procure pelo
 	
 	"""
 	printItem
@@ -572,9 +566,9 @@ script 216 mmbn4 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Open the Undernet1
-	door and go through
-	it!
+	Abra a porta na
+	Undernet 1 e
+	atravesse-a!
 	"""
 	keyWait
 		any = false
@@ -585,9 +579,9 @@ script 217 mmbn4 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Go back to Undernet
-	2 and look for the
-	key to the door!
+	Volte a Undernet 2
+	e procure pela
+	chave da porta!
 	"""
 	keyWait
 		any = false
@@ -598,9 +592,9 @@ script 218 mmbn4 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Open the Undernet2
-	door and go through
-	it!
+	Abra a porta de
+	Undernet 2 e
+	atravesse-a!
 	"""
 	keyWait
 		any = false
@@ -611,8 +605,8 @@ script 219 mmbn4 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	What are you doing,
-	MegaMan? Hurry!
+	O que está fazendo,
+	MegaMan? Rápido!
 	"""
 	keyWait
 		any = false
@@ -623,9 +617,9 @@ script 220 mmbn4 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Go back to Undernet
-	3 and look for the
-	key to the door!
+	Volte a Undernet 3
+	e procure pela
+	chave da porta!
 	"""
 	keyWait
 		any = false
@@ -636,9 +630,9 @@ script 221 mmbn4 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Open the Undernet3
-	door and go through
-	it!
+	Abra a porta de
+	Undernet 3 e
+	atravesse-a!
 	"""
 	keyWait
 		any = false
@@ -649,9 +643,9 @@ script 222 mmbn4 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	I don't sense
-	ProtoMan here. Go
-	back!
+	Não sinto o
+	ProtoMan aqui.
+	Volte!
 	"""
 	keyWait
 		any = false

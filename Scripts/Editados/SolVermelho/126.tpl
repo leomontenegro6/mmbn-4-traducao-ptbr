@@ -3,32 +3,32 @@
 script 0 mmbn4 {
 	msgOpen
 	"""
-	A stone statue of
-	victory⋯
+	Uma estátua de
+	pedra da vitória...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's badly damaged,
-	but hasn't lost any
-	of its majesty.
+	Está bem avariada,
+	mas não perdeu sua
+	majestade.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But actually! It's
-	made so you can jack
-	in to it!
+	Mas,na verdade! Ela
+	foi feita para ser
+	conectável!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's been made to
-	look broken,but
-	it's brand new.
+	Foi feita para pare-
+	cer quebrada,mas é
+	novinha em folha.
 	"""
 	keyWait
 		any = false
@@ -36,14 +36,14 @@ script 0 mmbn4 {
 }
 script 1 mmbn4 {
 	msgOpen
-	"An outdoor cafe⋯"
+	"Uma cafeteria ao ar\nlivre..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Dining in a classy
-	place like this is
-	really Netopian!
+	Comer eu um lugar
+	chique assim é tão
+	"Ameropa"!
 	"""
 	keyWait
 		any = false
@@ -52,16 +52,16 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	msgOpen
 	"""
-	The cafe's behind
-	here.
+	A cafeteria fica
+	aqui atrás.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's full of people
-	from Netopia,so you
-	can't go in alone.
+	É cheia de gente da
+	Ameropa,então,não
+	pode entrar sozinho.
 	"""
 	keyWait
 		any = false
@@ -70,17 +70,15 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	msgOpen
 	"""
-	There are mountains
-	of multi-colored
-	fruits⋯
+	Há pilhas de frutas
+	multicoloridas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Some of them I've
-	never even seen
-	before.
+	Algumas delas,você
+	nunca viu na vida.
 	"""
 	keyWait
 		any = false
@@ -88,22 +86,22 @@ script 3 mmbn4 {
 }
 script 4 mmbn4 {
 	msgOpen
-	"What is this shop?"
+	"O que loja é essa?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's too dark to see
-	but there seem to be
-	some customers⋯
+	Está escuro demais
+	para ver,mas parece
+	haver clientes...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Better not get too
-	close. It's a bit
-	unsettling⋯
+	Melhor não chegar
+	perto demais. É meio
+	perturbadora...
 	"""
 	keyWait
 		any = false
@@ -112,16 +110,17 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	msgOpen
 	"""
-	A huge apartment
-	block⋯Sounds like
-	they're having fun.
+	Um enorme prédio.
+	Parece que os
+	moradores estão se
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're having a
-	party.
+	divertindo.
+	Há uma festa em
+	andamento.
 	"""
 	keyWait
 		any = false
@@ -129,21 +128,21 @@ script 5 mmbn4 {
 }
 script 6 mmbn4 {
 	msgOpen
-	"A big box⋯"
+	"Uma caixa grande..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looks like it's full
-	of fruit. What a
-	sweet smell!
+	Parece estar cheia
+	de frutas. Que
+	cheiro docinho!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Look! Something's
-	scribbled on it.
+	Olha! Tem uma coisa
+	escrita nela.
 	"""
 	keyWait
 		any = false

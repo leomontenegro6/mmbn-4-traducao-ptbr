@@ -4,14 +4,14 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Listen up,WoodMan."
+	"Escute bem,WoodMan."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you do just as I
-	say,we can protect
-	nature for Sal.
+	Se fizer o que eu
+	mandar,a natureza da
+	Sal será protegida.
 	"""
 	keyWait
 		any = false
@@ -22,17 +22,17 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	mugshotShow
 		mugshot = WoodMan
-	"*gulp*"
+	"H-hum..."
 	keyWait
 		any = false
 	clearMsg
-	"But to do that,"
+	"Mas,pra isso,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	is it really okay to
-	destroy the Net?
+	é mesmo certo
+	destruir a Rede?
 	"""
 	keyWait
 		any = false
@@ -44,25 +44,25 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	Sal acts like
-	changing people's
-	minds is important,
+	A Sal age como se
+	harmonia fosse o
+	mais importante,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but she's really
-	furious at people
-	who destroy nature.
+	mas,no fundo,sente
+	raiva daqueles que
+	destroem a natureza.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WoodMan,you must
-	understand how Sal
-	really feels?
+	Você deve entender
+	como a Sal se sente,
+	não é,WoodMan?
 	"""
 	keyWait
 		any = false
@@ -74,16 +74,16 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = WoodMan
 	"""
-	Yeah,I do⋯
-	And⋯
+	É,eu entendo...
+	E... É...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sal's too nice,and
-	she has trouble
-	taking action.
+	A Sal é boazinha
+	demais,e hesita
+	demais pra agir.
 	"""
 	keyWait
 		any = false
@@ -94,28 +94,28 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
-	"Right?"
+	"Pois é,né?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The methods may be a
-	little forceful,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	but if we can stop
-	the development of
-	ACDC Town,
+	Estes métodos podem
+	ser meio agressivos,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sal is bound to
-	understand!
+	mas,se conseguirmos
+	parar as reformas do
+	Bairro ACDC,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	a Sal com certeza
+	vai entender!
 	"""
 	keyWait
 		any = false
@@ -126,11 +126,11 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = WoodMan
-	"*gulp*"
+	"Glup..."
 	keyWait
 		any = false
 	clearMsg
-	"All for Sal⋯"
+	"Tudo pela Sal..."
 	keyWait
 		any = false
 	clearMsg
@@ -141,29 +141,31 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	Okay,your job is to
-	stand here and
+	Certo.
+	O seu trabalho é
+	ficar aqui
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	chase away anyone
-	who tries to come in
+	e espantar qualquer
+	um que tentar entrar
+	aqui,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	until I'm done
-	preparing the bombs.
+	até eu terminar de
+	preparar as bombas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can't let a
-	single program in.
+	Não deixe um byte
+	sequer passar.
 	"""
 	keyWait
 		any = false
@@ -174,7 +176,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = WoodMan
-	"Okay,I understand."
+	"Certo,entendido."
 	keyWait
 		any = false
 	end
@@ -183,7 +185,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = WoodMan
 	msgOpen
-	"It's all for you,"
+	"Isso tudo é por\nvocê,"
 	keyWait
 		any = false
 	clearMsg

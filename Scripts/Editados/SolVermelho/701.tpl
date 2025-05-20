@@ -4,14 +4,14 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = BurnerMan
 	msgOpen
-	"What's up with that?"
+	"Qual é,hein?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Those wimpy flames
-	shooting outta your
-	head! Pitiful!
+	Esse foguinho ridí-
+	culo saindo da sua
+	cabeça... Pff!
 	"""
 	keyWait
 		any = false
@@ -24,15 +24,14 @@ script 1 mmbn4 {
 		mugshot = FireMan
 	msgOpen
 	"""
-	Yeah,well you're
-	one to talk!
+	Olha quem fala!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your flames are all
-	bluster!
+	As suas chamas são
+	só ar quente!
 	"""
 	keyWait
 		any = false
@@ -42,7 +41,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Another fire!"
+	"Mais chamas!"
 	keyWait
 		any = false
 	clearMsg
@@ -53,7 +52,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Calm down,you two!"
+	"Calma aí,gente!"
 	keyWait
 		any = false
 	clearMsg
@@ -65,8 +64,9 @@ script 4 mmbn4 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	You're too flaky to
-	have a flame Navi!
+	Você é molenga
+	demais pra ter um
+	Navi de fogo!
 	"""
 	keyWait
 		any = false
@@ -79,8 +79,8 @@ script 5 mmbn4 {
 		mugshot = FireMan
 	msgOpen
 	"""
-	Yeah,what Mr.Match
-	said!
+	É isso aí,
+	Sr. Match!
 	"""
 	keyWait
 		any = false
@@ -93,17 +93,16 @@ script 6 mmbn4 {
 		mugshot = Atsuki
 	msgOpen
 	"""
-	Heh,this is why I
-	can't stand old
-	guys.
+	He,por isso que eu
+	não suporto tiozão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Both the operator
-	and the Navi are
-	old and worn out!
+	Um operador velho
+	e um Navi acabado!
+	Por favor,né?!
 	"""
 	keyWait
 		any = false
@@ -116,8 +115,7 @@ script 7 mmbn4 {
 		mugshot = BurnerMan
 	msgOpen
 	"""
-	Yeah,what Atsuki
-	said!
+	É isso aí,Atsuki!
 	"""
 	keyWait
 		any = false
@@ -129,7 +127,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	msgOpen
-	"Brat!"
+	"Pivete!"
 	keyWait
 		any = false
 	clearMsg
@@ -140,7 +138,7 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Atsuki
 	msgOpen
-	"Old guy!"
+	"Velhote!"
 	keyWait
 		any = false
 	end
@@ -150,8 +148,8 @@ script 10 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Cut it out,both of
-	you!
+	Ô,para com isso,
+	vocês!
 	"""
 	keyWait
 		any = false
@@ -162,9 +160,9 @@ script 11 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Your fighting has
-	caught the whole
-	place on fire!
+	A briga de vocês
+	fez a área inteira
+	pegar fogo!
 	"""
 	keyWait
 		any = false
@@ -175,16 +173,15 @@ script 12 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	And BurnMan,our
-	match is about to
-	begin!
+	E BurnMan,a nossa
+	luta tá pra começar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do you really have
-	time for this?!
+	Você tem mesmo
+	tempo pra isso?!
 	"""
 	keyWait
 		any = false
@@ -196,14 +193,14 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = BurnerMan
 	msgOpen
-	"Bah!"
+	"Blergh!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Who cares about the
-	match,I gotta beat
-	this guy first!
+	Quem liga pra luta?
+	Preciso torrar esse
+	otário primeiro!
 	"""
 	keyWait
 		any = false
@@ -215,7 +212,7 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = FireMan
 	msgOpen
-	"Yeah,back off!"
+	"É,se manda daqui!"
 	keyWait
 		any = false
 	end
@@ -225,8 +222,8 @@ script 15 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,what should we
-	do?
+	Lan,o que a gente
+	faz?
 	"""
 	keyWait
 		any = false
@@ -239,20 +236,21 @@ script 16 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We can't just let
-	them fight. I guess
-	I'll handle it.
+	Não podemos deixar
+	eles brigarem. Vou
+	tentar uma coisa.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hey,BurnMan!"
+	"Aí,BurnMan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You must be pretty
-	scared of MegaMan!
+	Você deve tá
+	morreeeeendo de
+	medo do MegaMan!
 	"""
 	keyWait
 		any = false
@@ -262,7 +260,7 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = BurnerMan
 	msgOpen
-	"What?!"
+	"O quê?!"
 	keyWait
 		any = false
 	clearMsg
@@ -274,16 +272,16 @@ script 18 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan's much
-	stronger than
+	O MegaMan é muito
+	mais forte que o
 	FireMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's actually beaten
-	FireMan before!
+	Inclusive,ele já
+	VENCEU o FireMan!
 	"""
 	keyWait
 		any = false
@@ -297,7 +295,7 @@ script 19 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"MegaaaaMaaaan!!!"
+	"MegaMaaaaan!!!"
 	keyWait
 		any = false
 	end
@@ -307,8 +305,8 @@ script 20 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Hey,I didn't do
-	anything!
+	E-ei,eu não fiz
+	nada!
 	"""
 	keyWait
 		any = false
@@ -321,53 +319,54 @@ script 21 mmbn4 {
 		mugshot = Atsuki
 	msgOpen
 	"""
-	Bwahahaah,is that
-	true,Old guy?!
+	Ah ha ha ha!
+	É verdade isso,
+	tiozão?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Beaten by this
-	little shrimp of a
-	Navi?!
+	Cê perdeu pra esse
+	Navi nanico aí?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hilarious! You're
-	not hot at all!
+	Que hilário!
+	Cê não tem fogo
+	nenhum!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So if I beat
-	MegaMan,it means
+	Então,se eu vencer
+	o MegaMan,isso vai
+	significar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	my BurnMan's
-	stronger than your
-	FireMan!
+	que o meu BurnMan
+	é mais forte que
+	o seu FireMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Time to jack out,
+	Hora de desconectar,
 	BurnMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's hurry to the
-	castle for the
-	match!
+	Bora rápido pro
+	castelo,pra luta!
 	"""
 	keyWait
 		any = false
@@ -379,7 +378,7 @@ script 22 mmbn4 {
 	mugshotShow
 		mugshot = BurnerMan
 	msgOpen
-	"All right!"
+	"Certo!"
 	keyWait
 		any = false
 	end
@@ -390,7 +389,7 @@ script 23 mmbn4 {
 	msgOpen
 	"""
 	Lan!!!
-	You jerk!
+	Pirralho maldito!
 	"""
 	keyWait
 		any = false
@@ -403,16 +402,15 @@ script 24 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I had to say it,or
-	you'd still be
-	fighting,right?
+	Eu tinha que falar,
+	ou vocês iam conti-
+	nuar brigando.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And it's true,
-	anyway.
+	E,sabe... eu menti?
 	"""
 	keyWait
 		any = false
@@ -424,28 +422,28 @@ script 25 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	msgOpen
-	"Grr⋯"
+	"Grr..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Fine! But you'd
-	better beat that
-	guy!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	If that brat beats
-	you,it'll make my
+	Que seja! Mas é
+	bom você vencer
+	aquele moleque!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	FireMan look bad,
-	too!
+	Se ele te vencer,
+	isso só vai manchar
+	a reputação do meu
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	FireMan,também!
 	"""
 	keyWait
 		any = false
@@ -458,9 +456,9 @@ script 26 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I got it covered!
-	I'll win,don't
-	worry about it!
+	Relaxa! Eu vou
+	vencer sim,nem
+	se preocupa!
 	"""
 	keyWait
 		any = false
@@ -471,8 +469,9 @@ script 27 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Okay,MegaMan,we'd
-	better go too!
+	Beleza,MegaMan,
+	hora da gente ir
+	também!
 	"""
 	keyWait
 		any = false
@@ -484,7 +483,7 @@ script 28 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger that!"
+	"Vamos!"
 	keyWait
 		any = false
 	end

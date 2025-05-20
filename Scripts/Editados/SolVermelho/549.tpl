@@ -7,9 +7,9 @@ script 0 mmbn4 {
 	color
 		palette = 1
 	"""
-	As MegaMan fought
-	for his life,NAXA
-	told the world about
+	Enquanto MegaMan
+	lutava por sua vida,
+	a NAXA informou ao
 	"""
 	keyWait
 		any = false
@@ -18,9 +18,9 @@ script 0 mmbn4 {
 		width = 19
 		height = 3
 	"""
-	the incoming aste-
-	roid and MegaMan's
-	heroic effort.
+	mundo sobre o aste-
+	roide e as ações
+	heróicas do Navi.
 	"""
 	keyWait
 		any = false
@@ -29,9 +29,9 @@ script 0 mmbn4 {
 		width = 19
 		height = 3
 	"""
-	With only 1 hour to
-	impact,the sudden
-	announcement caused
+	Faltando somente
+	uma hora para o
+	impacto,o anúncio
 	"""
 	keyWait
 		any = false
@@ -40,8 +40,9 @@ script 0 mmbn4 {
 		width = 10
 		height = 2
 	"""
-	mass panic.
-	⋯⋯
+	repentino causou
+	pânico geral.
+	......
 	"""
 	keyWait
 		any = false
@@ -52,9 +53,9 @@ script 1 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Oh no!
-	That asteroid's
-	gonna kill us all!
+	Não!
+	O asteroide vai
+	matar a gente!
 	"""
 	keyWait
 		any = false
@@ -66,20 +67,14 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Man
 	"""
-	This place isn't
-	gonna protect us
+	Este lugar não vai
+	nos proteger de uma
+	queda de asteroide.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"""
-	from an asteroid
-	strike.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"We're history."
+	"Vamos morrer..."
 	keyWait
 		any = false
 	end
@@ -89,17 +84,17 @@ script 3 mmbn4 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	MegaMan's giving it
-	his best shot,but
-	what can 1 Navi do?
+	O MegaMan está lutan-
+	do,mas o que só um
+	Navi pode fazer?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Had I known about
-	this,I'd have mar-
-	ried long ago.
+	Se eu soubesse
+	disso,teria me
+	casado faz tempo.
 	"""
 	keyWait
 		any = false
@@ -112,9 +107,9 @@ script 4 mmbn4 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	This is terrible.
-	What're the
-	Officials doing?!
+	Que horror.
+	O que os Oficiais
+	estão fazendo?!
 	"""
 	keyWait
 		any = false
@@ -138,16 +133,17 @@ script 6 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	All you think about
-	are yourselves!
+	Vocês todos só
+	pensam em vocês
+	mesmos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	At this very moment,
-	MegaMan's out there
-	risking his life!
+	Agora mesmo,o
+	MegaMan tá lá,
+	arriscando a vida!
 	"""
 	keyWait
 		any = false
@@ -158,9 +154,9 @@ script 7 mmbn4 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Well,it's not like
-	we could do anything
-	about it⋯
+	Bom,não é como se
+	pudéssemos fazer
+	algo a respeito...
 	"""
 	keyWait
 		any = false
@@ -172,15 +168,16 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Man
 	"""
-	All we can do is
-	sit here and wait
+	Só o que podemos
+	fazer é ficar aqui
+	e esperar pela
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	for the asteroid
-	to strike!
+	chegada do
+	asteroide!
 	"""
 	keyWait
 		any = false
@@ -192,15 +189,16 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = YoungWoman
 	"""
-	MegaMan's just
-	some kid's Navi.
+	O MegaMan é só o
+	Navi de uma criança
+	qualquer.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What're the chances
-	of him helping us?
+	Quais são as chances
+	de ele nos salvar?
 	"""
 	keyWait
 		any = false
@@ -211,15 +209,15 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotHide
 	"""
-	Sigh⋯Those
-	cry-baby adults⋯
+	Ai,ai...
+	Bando de adulto
+	chorão...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	All they do is
-	whine.
+	Só sabem reclamar.
 	"""
 	keyWait
 		any = false
@@ -239,27 +237,29 @@ script 12 mmbn4 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Do you guys plan on
-	just waiting here to
-	die?
+	Vocês pretendem só
+	esperar a morte
+	aqui?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I refuse to do that."
+	"Eu me recuso a fazer\nisso."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm gonna go down in
-	a blaze of glory.
+	Eu vou insistir até
+	a vela da minha vida
+	parar de queimar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There must be some-
-	thing we can do.
+	Deve haver alguma
+	coisa que nós
+	possamos fazer.
 	"""
 	keyWait
 		any = false
@@ -271,8 +271,9 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = Yai
 	"""
-	Yeah,we gotta help
-	MegaMan somehow!!
+	É,a gente tem que
+	achar um jeito de
+	ajudar o MegaMan!!
 	"""
 	keyWait
 		any = false
@@ -282,7 +283,7 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	msgOpen
-	"Now yer talking."
+	"É assim que se fala."
 	keyWait
 		any = false
 	end
@@ -292,21 +293,22 @@ script 15 mmbn4 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	He's heading this
-	way with the aste-
-	roid,right?
+	Ele está vindo pra
+	cá com o asteroide,
+	não é?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He might hear us if
-	we yell really loud.
+	Se gritarmos bem
+	alto,é possível que
+	ele nos ouça.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Use your voices!"
+	"Usem as suas vozes!"
 	keyWait
 		any = false
 	clearMsg
@@ -331,7 +333,7 @@ script 16 mmbn4 {
 		animation = 2
 	"""
 	ME-GA-MAN!!
-	GO FOR IT!!
+	VAI NESSA!!
 	"""
 	keyWait
 		any = false
@@ -347,7 +349,7 @@ script 17 mmbn4 {
 		value = 20
 	"""
 	MEGAMAN!!
-	YOU-CAN-DO-IT!
+	VOCÊ CONSEGUE!
 	"""
 	keyWait
 		any = false
@@ -370,7 +372,7 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	msgOpen
-	"Heh,heh."
+	"He,he."
 	keyWait
 		any = false
 	end
@@ -379,20 +381,20 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	msgOpen
-	"What about you guys?"
+	"E vocês?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm gonna yell till
-	I'm on fire!
+	Porque EU vou gritar
+	até pegar fogo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then I can die with-
-	out any regrets!
+	Aí vou poder morrer
+	sem arrependimentos!
 	"""
 	keyWait
 		any = false
@@ -401,13 +403,13 @@ script 20 mmbn4 {
 		timer = 0
 		value = 26
 	"""
-	RAAAHHH!
+	AAAAARRHHHH!
 	MEGAMAN!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"HANG-IN-THERE!!"
+	"LUTE!!"
 	keyWait
 		any = false
 	end
@@ -445,7 +447,7 @@ script 23 mmbn4 {
 	storeTimer
 		timer = 0
 		value = 31
-	"YOU-CAN-DO-IT!"
+	"VAAAII!"
 	keyWait
 		any = false
 	clearMsg
@@ -458,7 +460,7 @@ script 24 mmbn4 {
 	storeTimer
 		timer = 0
 		value = 32
-	"DON'T-GIVE-UUUUUUP!!"
+	"NÃO DESIIIISTEEEE!!"
 	keyWait
 		any = false
 	clearMsg

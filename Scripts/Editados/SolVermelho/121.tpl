@@ -30,7 +30,7 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	msgOpen
 	"""
-	Doces de personages
+	Doces de personagens
 	famosos,brinquedos,
 	cadernos...
 	"""
@@ -83,7 +83,7 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	com o WzDog.
+	contra o MagoCão.
 	É uma atração bem
 	impactante.
 	"""
@@ -92,7 +92,7 @@ script 3 mmbn4 {
 	clearMsg
 	"""
 	Ali atrás fica
-	"A Selva do TinMan -
+	"A Selva do Flandrô -
 	 A Atração"
 	"""
 	keyWait
@@ -107,7 +107,7 @@ script 3 mmbn4 {
 	clearMsg
 	"""
 	na estranha selva em
-	que o TinMan vive.
+	que o Flandrô vive.
 	"""
 	keyWait
 		any = false
@@ -117,16 +117,16 @@ script 4 mmbn4 {
 	msgOpen
 	"""
 	Apresentando o
-	WzDog⋯
+	MagoCão...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"O WzDog é um cão\n com poderes\n mágicos especiais."
+	"\"O MagoCão é um cão\n com poderes\n mágicos especiais."
 	keyWait
 		any = false
 	clearMsg
-	" Normalmente,luta\n com o seu rival,\n the WzMonkey."
+	" Normalmente,briga\n com o seu rival,\n o MagoMacaco."
 	keyWait
 		any = false
 	clearMsg
@@ -134,19 +134,19 @@ script 4 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	" é atacada pelo\n mago do mal,os\n dois unem forças."
+	" é atacado pelo\n mago do mal,os\n dois unem forças."
 	keyWait
 		any = false
 	clearMsg
-	" O \"MagicSel\" do mago\n do mal causa muitos\n apuros a eles,"
+	" O \"SeloMági\" do mago\n do mal causa muitos\n apuros a eles,"
 	keyWait
 		any = false
 	clearMsg
-	" mas o faro do\n WzDog localiza\n o mago do mal,"
+	" mas o faro do\n MagoCão localiza\n o mago do mal,"
 	keyWait
 		any = false
 	clearMsg
-	" e o WzMonkey\n ataca ele com\n Scratch."
+	" e o MgMacaco\n ataca ele com\n um Arranhão."
 	keyWait
 		any = false
 	clearMsg
@@ -159,12 +159,12 @@ script 5 mmbn4 {
 	msgOpen
 	"""
 	Apresentando
-	TinMan...
+	Flandrô...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"TinMan é um\n guerreiro de\naço..."
+	"\"Flandrô é um\n guerreiro de\naço..."
 	keyWait
 		any = false
 	clearMsg
@@ -180,7 +180,7 @@ script 5 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	" Ao mesmo tempo,o\n TinMan desperta\n \"culpa\" acerca"
+	" Ao mesmo tempo,o\n Flandrô desperta\n \"culpa\" acerca"
 	keyWait
 		any = false
 	clearMsg
@@ -192,7 +192,7 @@ script 5 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	" TinMan queria ser\n desmontando e\n virar brinquedos."
+	" Flandrô queria ser\n desmontando e\n virar brinquedos."
 	keyWait
 		any = false
 	clearMsg
@@ -236,9 +236,9 @@ script 7 mmbn4 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	Tem uma estante com
-	doces especiais à
-	venda.
+	Tem uma barraquinha
+	com doces especiais
+	à venda.
 	"""
 	keyWait
 		any = false
@@ -271,7 +271,7 @@ script 8 mmbn4 {
 	clearMsg
 	"""
 	À frente,um castelo.
-	O MelPlaza é à di-
+	A PrçMarchen é à di-
 	reita,escada abaixo.
 	"""
 	keyWait
@@ -287,7 +287,7 @@ script 9 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"\"A Princesa Alabarda\n amava o Prín-\n cipe Tomahawk..."
+	"\"A Princesa Alabarda\n amava o Príncipe\n Tomahawk..."
 	keyWait
 		any = false
 	clearMsg
@@ -307,7 +307,7 @@ script 9 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	" Ela tira uma\n MightyBl da árvore"
+	" Ela arranca uma\n Poderosa Espada da\nárvore"
 	keyWait
 		any = false
 	clearMsg

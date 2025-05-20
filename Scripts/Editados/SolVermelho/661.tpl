@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Lilly,are you okay?"
+	"Lilly,você tá legal?"
 	keyWait
 		any = false
 	clearMsg
@@ -15,7 +15,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = LillyDrunk
 	msgOpen
-	"Heh!"
+	"He!"
 	keyWait
 		any = false
 	clearMsg
@@ -26,7 +26,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Huh?"
+	"Hã?"
 	keyWait
 		any = false
 	clearMsg
@@ -41,21 +41,21 @@ script 3 mmbn4 {
 		timer = 1
 		value = 1
 	"""
-	Yes,I'm fine!
-	It's nothing!
-	Really!
+	É,eu tô bem!
+	Não foi nada!
+	Nadinha!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thank you for saving
-	me,Lan.
+	Brigada por me
+	salvar,Lan.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"*hic*"
+	"Hic!"
 	keyWait
 		any = false
 	clearMsg
@@ -66,13 +66,13 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hehe,you're welcome!"
+	"He he,de nada!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Okay,time for me to
-	go.
+	Bom,eu tenho que ir
+	agora.
 	"""
 	keyWait
 		any = false
@@ -83,16 +83,17 @@ script 5 mmbn4 {
 		mugshot = LillyDrunk
 	msgOpen
 	"""
-	Grr⋯
-	My strategy failed.
+	Grr...
+	A minha estratégia
+	deu errado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I thought I could
-	weaken MegaMan a
-	little,but no go⋯
+	Pensei que ia enfra-
+	quecer o MegaMan um
+	pouquinho antes...
 	"""
 	keyWait
 		any = false
@@ -101,14 +102,14 @@ script 5 mmbn4 {
 		slot = 31
 		length = 8
 	"""
-	It's time for some
-	extreme measures!
-	Bwahahaa!
+	Hora de tomar
+	medidas extremas!
+	Ua ha ha ha!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"*hic*"
+	"Hic!"
 	keyWait
 		any = false
 	end

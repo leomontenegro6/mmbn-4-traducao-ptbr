@@ -58,7 +58,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	NO FRAGMENTO DA
+	EM UM FRAGMENTO DA
 	MEMÓRIA DO JUNKMAN?
 	"""
 	keyWait

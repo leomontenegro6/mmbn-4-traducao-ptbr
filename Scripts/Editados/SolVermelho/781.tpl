@@ -5,8 +5,9 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Chaud,we did it!
-	ProtoMan's back!
+	Chaud,a gente
+	conseguiu!
+	O ProtoMan voltou!
 	"""
 	keyWait
 		any = false
@@ -16,13 +17,13 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"⋯Yeah."
+	"... É."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I owe you and
-	MegaMan big time.
+	Devo muito a você
+	e ao MegaMan.
 	"""
 	keyWait
 		any = false
@@ -34,16 +35,16 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	You don't owe us
-	anything.
+	Cê não deve nada
+	pra gente,não.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We only helped you
-	guys so we could
-	battle you.
+	A gente só ajudou
+	vocês pra gente
+	poder lutar.
 	"""
 	keyWait
 		any = false
@@ -55,16 +56,16 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	Hmph. Well that's
-	a relief.
+	Hmpf. É um alívio
+	ouvir isso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I couldn't let lose
-	on you in the tour-
-	nament otherwise.
+	Senão,não poderia
+	lutar com tudo con-
+	tra você no torneio.
 	"""
 	keyWait
 		any = false
@@ -76,8 +77,9 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Oh yeah?!
-	Well same here!
+	Ah,é?!
+	Pois eu digo o
+	mesmo!
 	"""
 	keyWait
 		any = false
@@ -87,7 +89,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"ProtoMan,you OK?"
+	"ProtoMan,você está\nbem?"
 	keyWait
 		any = false
 	clearMsg
@@ -98,8 +100,9 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = ProtoMan
 	"""
-	Yeah!
-	No damage at all.
+	Estou!
+	Não sofri nenhum
+	dano.
 	"""
 	keyWait
 		any = false
@@ -111,8 +114,9 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	Then let's jack out.
-	To the Colosseum!
+	Então vamos nos
+	desconectar e ir
+	para o Coliseu!
 	"""
 	keyWait
 		any = false
@@ -123,14 +127,14 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = ProtoMan
-	"Yes,sir!"
+	"Sim,senhor!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯MegaMan,my memory's
-	fuzzy,but I know I
-	should thank you.
+	Minha memória está
+	fraca,mas sei que
+	devo te agradecer.
 	"""
 	keyWait
 		any = false
@@ -142,13 +146,13 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	No problem. I just
-	helped out a bit.
+	Imagina. Eu só dei
+	uma ajudinha pouca.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Chaud did the rest."
+	"O Chaud que fez\ntudo."
 	keyWait
 		any = false
 	clearMsg
@@ -158,7 +162,7 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = ProtoMan
-	"Hmm⋯"
+	"Hmm..."
 	keyWait
 		any = false
 	end
@@ -168,8 +172,9 @@ script 11 mmbn4 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Lan,we'll be waiting
-	at the Colosseum.
+	Lan,estaremos
+	esperando vocês
+	no Coliseu.
 	"""
 	keyWait
 		any = false
@@ -180,9 +185,9 @@ script 12 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Jack out,MegaMan!
-	We gotta get to the
-	Colosseum.
+	Desconecta,MegaMan!
+	A gente tem que ir
+	pro Coliseu.
 	"""
 	keyWait
 		any = false
@@ -193,7 +198,7 @@ script 12 mmbn4 {
 script 13 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Roger!!"
+	"Beleza!!"
 	keyWait
 		any = false
 	end

@@ -54,7 +54,7 @@ script 11 mmbn4 {
 	"""
 	MegaMan! Desconecta
 	e bora pro
-	CentroPlaza!
+	PraçaCentrl!
 	"""
 	keyWait
 		any = false
@@ -234,7 +234,7 @@ script 31 mmbn4 {
 	msgOpen
 	"""
 	MegaMan! Bora parar
-	essas coisas e
+	essa coisa e
 	salvar a Lilly!
 	"""
 	keyWait

@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	NumbrMan⋯
-	The next battle is
-	with Higsby's Navi!
+	NumberMan...
+	A próxima luta é com
+	o Navi do Higsby!
 	"""
 	keyWait
 		any = false
@@ -18,9 +18,9 @@ script 1 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I'm looking forward
-	to it,MegaMan!
-	Should be fun!
+	Tô ansioso pra isso,
+	MegaMan!
+	Vai ser divertido!
 	"""
 	keyWait
 		any = false
@@ -31,7 +31,7 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Yeah!"
+	"É!"
 	keyWait
 		any = false
 	end
@@ -40,7 +40,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"Are you Lan?"
+	"Você é Lan Hikari?"
 	keyWait
 		any = false
 	clearMsg
@@ -56,8 +56,8 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Uh,yes.
-	That's me.
+	Er,sim.
+	Sou eu.
 	"""
 	keyWait
 		any = false
@@ -69,30 +69,29 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	You've got a message
-	from your next
-	opponent.
+	Seu próximo oponente
+	mandou uma mensagem.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It's from Higsby."
+	"O Sr. Higsby."
 	keyWait
 		any = false
 	clearMsg
-	"Um,let's see."
+	"Er,vejamos..."
 	keyWait
 		any = false
 	clearMsg
-	"\"Lan,I'm gonna\n withdraw from the\n next match."
+	"\"Lan,vou jogar a\ntoalha nessa\npróxima luta."
 	keyWait
 		any = false
 	clearMsg
-	" Put up a good fight\n for me,buddy.\""
+	"Lute bem por mim,\namigão.\""
 	keyWait
 		any = false
 	clearMsg
-	"And that's it."
+	"E é isso."
 	keyWait
 		any = false
 	clearMsg
@@ -103,16 +102,17 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Higsby's withdrawing
-	from the match?
+	O Higsby vai se
+	render sem nem
+	lutar?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why?!
-	I wonder what's
-	going on⋯
+	Por quê?!
+	O que será que tá
+	rolando aqui...?
 	"""
 	keyWait
 		any = false
@@ -124,24 +124,24 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	He was in a big
-	hurry,so I didn't
-	get any details.
+	Ele estava com muita
+	pressa,então não
+	peguei detalhes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Anyway,the next
-	match will probably
-	be a win by default.
+	Enfim,você deve
+	vencer essa luta por
+	W.O.,então.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	All right,see you
-	later!
+	De todo modo,
+	até mais!
 	"""
 	keyWait
 		any = false
@@ -152,9 +152,9 @@ script 8 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Why would Higsby
-	withdraw? It doesn't
-	make any sense.
+	Por que o Higsby
+	sairia assim? Não
+	faz sentido.
 	"""
 	keyWait
 		any = false
@@ -166,16 +166,16 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	He was in a big
-	hurry,so there must
-	be something up.
+	"Ele tava com muita
+	pressa"...
+	Aí tem coisa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's go see Higsby,
-	MegaMan!
+	Vamos falar com o
+	Higsby,MegaMan!
 	"""
 	keyWait
 		any = false
@@ -186,7 +186,7 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Okay!"
+	"Vamos!"
 	keyWait
 		any = false
 	end

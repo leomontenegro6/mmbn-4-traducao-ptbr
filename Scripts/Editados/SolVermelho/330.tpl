@@ -20,15 +20,15 @@ script 0 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Is there any way
-	you can come down
+	Não dá pra você
+	baixar o preço
+	dessa geladeira
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	a bit on the price
-	for this fridge?
+	sóóó um pouquinho?
 	"""
 	keyWait
 		any = false
@@ -54,9 +54,9 @@ script 1 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I'm sorry,but this
-	is as low as
-	we can go!
+	Desculpe,mas,mais
+	baixo que isso,
+	impossível!
 	"""
 	keyWait
 		any = false
@@ -94,21 +94,21 @@ script 2 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Are you in the
-	preliminary for
-	the tournament?
+	Você vai entrar nas
+	preliminares do
+	torneio?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Better hurry,then!"
+	"Melhor correr,então!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The deadline for
-	registration's
-	almost over!
+	O prazo para a
+	inscrição está
+	quase acabando!
 	"""
 	keyWait
 		any = false
@@ -128,9 +128,9 @@ script 4 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	You made it to the
-	next round? That's
-	great! Keep it up!
+	Você conseguiu avan-
+	çar para a próxima
+	rodada? Que ótimo!
 	"""
 	keyWait
 		any = false
@@ -141,23 +141,24 @@ script 5 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Did you register
-	your name yet?
+	Já registrou o seu
+	nome?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Registration's
-	in the back of
-	Town3.
+	O registro é feito
+	nos fundos da
+	Área Vila 3.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Look for a Navi
-	just like me.
+	É só falar com um
+	Navi parecido
+	comigo.
 	"""
 	keyWait
 		any = false
@@ -168,15 +169,17 @@ script 10 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	You know,I came
-	all the way here!
+	Poxa,eu vim de tão
+	longe pra chegar
+	aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't make me beg
-	you,now! C'mon!
+	Não me faz implorar,
+	não,cara! Cadê o
+	amor nesse coração?
 	"""
 	keyWait
 		any = false
@@ -187,9 +190,9 @@ script 11 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	But this price is
-	almost wholesale!
-	I can't do any more.
+	Mas esse é quase o
+	preço de fábrica!
+	Não sai por menos.
 	"""
 	keyWait
 		any = false
@@ -197,8 +200,9 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	"""
-	I'm saying I want
-	it even cheaper!
+	Pois eu tô dizendo
+	que quero ABAIXO
+	disso!
 	"""
 	keyWait
 		any = false
@@ -209,8 +213,8 @@ script 12 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I'll go read the
-	bulletin boards⋯
+	Acho que vou dar uma
+	lida nos fóruns...
 	"""
 	keyWait
 		any = false

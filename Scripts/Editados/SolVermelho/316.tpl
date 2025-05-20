@@ -9,8 +9,8 @@ script 130 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! The Net fire
-	has cut out the
+	Lan! O incêndio na
+	Rede estragou o
 	link!
 	"""
 	keyWait
@@ -22,17 +22,17 @@ script 131 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The fire is
-	preventing the link
-	from being fixed!
+	O incêndio tá
+	impedindo o link
+	de funcionar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looks like it will
-	take some time until
-	it's fixed again⋯
+	Parece que ainda vai
+	demorar pra ele
+	voltar ao normal...
 	"""
 	keyWait
 		any = false
@@ -43,9 +43,9 @@ script 132 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	If I jack out now,
-	the fire may spread!
-	We can't allow that!
+	Se eu desconectar,o
+	fogo pode se espa-
+	lhar! Não devemos!
 	"""
 	keyWait
 		any = false

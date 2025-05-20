@@ -5,16 +5,17 @@ script 0 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	At last! Everyone,
-	the competitors are
-	finally here!
+	Chegou a hora! Ami-
+	gos,os competidores
+	finalmente chegaram!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	First,grade school
-	NetBattler Lan!
+	Primeiro NetLutador:
+	Lan Hikari,do ensino
+	fundamental!
 	"""
 	keyWait
 		any = false
@@ -24,20 +25,21 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"And his opponent!"
+	"E enfrentando ele..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The tournament's
-	oldest participant!
+	O participante mais
+	velho do torneio!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Tensuke,68-
-	years-old NetBattler!
+	Tensuke Takumi,o
+	NetLutador de 68
+	anos de idade!
 	"""
 	keyWait
 		any = false
@@ -49,14 +51,14 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Huh?
-	The oldest?
-	Tensuke?
+	Hã?
+	O mais velho?
+	Tensuke?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"You're kidding⋯"
+	"Não pode ser..."
 	keyWait
 		any = false
 	end
@@ -65,13 +67,13 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"It's Tensuke!"
+	"É o Tensuke!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Tensuke is our
-	opponent?
+	O Tensuke é o nosso
+	oponente?!
 	"""
 	keyWait
 		any = false
@@ -83,16 +85,17 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Tensuke
 	"""
-	Whoa!
-	It's you!
-	Imagine that!
+	Olha!
+	É você!
+	Quem diria!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Hahaha!
-	What're the odds?!
+	Quais são as
+	chances?!
 	"""
 	keyWait
 		any = false
@@ -104,8 +107,8 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Did you fix your
-	Navi?
+	O senhor consertou o
+	seu Navi?
 	"""
 	keyWait
 		any = false
@@ -117,29 +120,30 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Tensuke
 	"""
-	Humph!
-	Don't you worry!
+	Humpf!
+	Não se preocupe com
+	isso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I more than fixed
-	it. It's better than
-	ever!
+	Eu fiz mais que 
+	consertar. Agora,ele
+	tá melhor que nunca!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thanks for all your
-	help,but this is a
-	battle!
+	Agradeço a sua
+	ajuda,mas isto aqui
+	é uma luta!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I hope you're ready!"
+	"Espero que esteja\npronto!"
 	keyWait
 		any = false
 	clearMsg
@@ -149,13 +153,13 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Heh!"
+	"He!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This'll be a fun
-	battle!
+	Essa batalha vai ser
+	divertida!
 	"""
 	keyWait
 		any = false
@@ -167,9 +171,9 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Yeah!
-	No way you're gonna
-	beat me!
+	É! Nunca que eu vou
+	deixar você me
+	vencer!
 	"""
 	keyWait
 		any = false
@@ -180,15 +184,15 @@ script 9 mmbn4 {
 		mugshot = Tensuke
 	msgOpen
 	"""
-	Boy,get ready to
-	see what a crafts-
-	man can do!
+	Menino,prepare-se
+	pra ver do que um
+	artesão é capaz!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go get 'em,new
+	Acaba com eles,novo
 	TopMan!
 	"""
 	keyWait
@@ -199,13 +203,14 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = TopMan
 	msgOpen
-	"Hah!"
+	"Ha!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm not too old to
-	beat young Navis!
+	Eu não tô velho a
+	ponto de perder pra
+	um Navi novinho!
 	"""
 	keyWait
 		any = false
@@ -217,28 +222,28 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	Are you ready for
-	this?!
+	Estão prontos,
+	amigos?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a battle of the
-	generations! They're
-	over 50 years apart!
+	É uma luta de
+	gerações! 50 anos
+	de diferença!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's begin!"
+	"Vamos começar!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan
+	Lan Hikari
 	Vs.
-	Tensuke
+	Tensuke Takumi!
 	"""
 	keyWait
 		any = false
@@ -266,7 +271,7 @@ script 12 mmbn4 {
 script 13 mmbn4 {
 	mugshotShow
 		mugshot = TopMan
-	"Go nuts!"
+	"Vamos girar!"
 	keyWait
 		any = false
 	end

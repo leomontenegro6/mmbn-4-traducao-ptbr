@@ -6,17 +6,17 @@ script 0 mmbn4 {
 		jumpIfBlueMoon = 10
 	msgOpen
 	"""
-	There's half-eaten
-	candy scattered all
-	about.
+	Tem doces não-
+	totalmente-comidos
+	espalhados aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The candy snacks are
-	completely shriveled
-	up.
+	As guloseimas estão
+	completamente
+	acabadas.
 	"""
 	keyWait
 		any = false
@@ -34,17 +34,17 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	msgOpen
 	"""
-	It's not quite
-	closed⋯A tiny gap
-	like that is creepy.
+	Está só semi-
+	fechado... Essa
+	fresta dá um medo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's almost as if
-	someone's peeping
-	through it.
+	É quase como se
+	alguém estivesse
+	espiando por ela.
 	"""
 	keyWait
 		any = false
@@ -53,15 +53,16 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	msgOpen
 	"""
-	An old abandoned
-	cardboard carton⋯
+	Uma velha caixa de
+	papelão outrora
+	descartada...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's lots of old
-	magazines inside.
+	Está cheia de
+	revistas velhas.
 	"""
 	keyWait
 		any = false
@@ -73,16 +74,16 @@ script 4 mmbn4 {
 		jumpIfBlueMoon = 11
 	msgOpen
 	"""
-	A really old game is
-	displayed on screen.
+	A tela mostra um
+	jogo super antigo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But the old ornament
-	on top of the TV
-	stands out more.
+	Mas o velho enfeite
+	sobre a TV chama
+	mais atenção.
 	"""
 	keyWait
 		any = false
@@ -99,14 +100,14 @@ script 5 mmbn4 {
 		jumpIfBlueMoon = 12
 	msgOpen
 	"""
-	It's a new game
-	machine,the same
-	color as GutsMan's.
+	É um console novo,
+	da mesma cor que o
+	GutsMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"You can jack in."
+	"Dá para se conectar\nnele."
 	keyWait
 		any = false
 	end
@@ -114,9 +115,9 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	msgOpen
 	"""
-	There are prints and
-	stuff from school in
-	the carton.
+	Dentro da caixa,
+	papéis e materiais
+	escolares.
 	"""
 	keyWait
 		any = false
@@ -125,9 +126,9 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	msgOpen
 	"""
-	It's Dex's PC⋯
-	It's pretty dusty,
-	but you can jack in.
+	O PC do Dex... Tá
+	empoeirado,mas dá
+	pra se conectar.
 	"""
 	keyWait
 		any = false
@@ -136,17 +137,17 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	msgOpen
 	"""
-	Some test answers
-	have been crumpled
-	up and thrown away.
+	Há provas de escola
+	que foram amassadas
+	e descartadas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯Now there's a
-	result best kept
-	hidden!
+	... Credo! Com essas
+	notas,melhor ficarem
+	aí mesmo!
 	"""
 	keyWait
 		any = false
@@ -155,23 +156,23 @@ script 8 mmbn4 {
 script 10 mmbn4 {
 	msgOpen
 	"""
-	There's a half-
-	finished game of
-	chess here⋯
+	Um jogo de xadrez
+	jogado pela
+	metade...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looks like it was
-	started recently.
+	Parece que foi só
+	recém-iniciado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's a pretty
-	serious hobby.
+	Tá aí um hobby bem
+	sério.
 	"""
 	keyWait
 		any = false
@@ -180,16 +181,16 @@ script 10 mmbn4 {
 script 11 mmbn4 {
 	msgOpen
 	"""
-	A really old game is
-	displayed on screen.
+	A tela mostra um
+	jogo super antigo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That thing on the TV
-	looks like a memento
-	from somewhere.
+	A coisa na TV parece
+	ser uma lembrancinha
+	de algum lugar.
 	"""
 	keyWait
 		any = false
@@ -198,14 +199,14 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	msgOpen
 	"""
-	It's a new game
-	machine. The colors
-	are a bit plain.
+	É um console novo.
+	A cor dele é meio
+	sem graça.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"You can jack in."
+	"Dá para se conectar\nnele."
 	keyWait
 		any = false
 	end
@@ -217,8 +218,9 @@ script 15 mmbn4 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	Something's flashing
-	under the game⋯
+	Tem alguma coisa
+	brilhando sob o
+	console...
 	"""
 	keyWait
 		any = false
@@ -249,9 +251,9 @@ script 16 mmbn4 {
 		jumpIfBlueMoon = 17
 	msgOpen
 	"""
-	It's a new game
-	machine,the same
-	color as GutsMan's.
+	É um console novo,
+	da mesma cor que o
+	GutsMan.
 	"""
 	keyWait
 		any = false
@@ -260,9 +262,9 @@ script 16 mmbn4 {
 script 17 mmbn4 {
 	msgOpen
 	"""
-	It's a new game
-	machine. The colors
-	are a bit plain.
+	É um console novo.
+	A cor dele é meio
+	sem graça.
 	"""
 	keyWait
 		any = false
@@ -286,16 +288,16 @@ script 30 mmbn4 {
 }
 script 31 mmbn4 {
 	msgOpen
-	"It's a trash can⋯"
+	"É uma lata de\nlixo..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	HigsbyAds⋯
-	I've handed enough
-	out. I can chuck 1!
+	Já distribuí panfle-
+	tos o bastante.
+	Posso jogar fora!
 	"""
 	keyWait
 		any = false
@@ -305,7 +307,7 @@ script 31 mmbn4 {
 		item = 90
 		amount = 1
 	"""
-	Lan threw 1
+	Lan jogou 1
 	"
 	"""
 	printItem
@@ -313,7 +315,7 @@ script 31 mmbn4 {
 		item = 90
 	"""
 	"!
-	in the trash!
+	no lixo!
 	"""
 	keyWait
 		any = false

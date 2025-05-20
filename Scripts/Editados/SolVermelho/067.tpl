@@ -114,8 +114,8 @@ script 11 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We have to say hi
-	to Mayl!
+	A gente tem que dar
+	um "oi" pra Mayl!
 	"""
 	keyWait
 		any = false
@@ -126,9 +126,9 @@ script 12 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Jack in,Lan! We
-	don't want to keep
-	Roll waiting!
+	Me conecta,Lan! Não
+	vamos deixar a Roll
+	esperando!
 	"""
 	keyWait
 		any = false
@@ -139,8 +139,8 @@ script 13 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's get back
-	on the Net!
+	Lan,vamos voltar
+	pra Rede!
 	"""
 	keyWait
 		any = false
@@ -198,7 +198,7 @@ script 17 mmbn4 {
 	"""
 	Lan! Se conecta,
 	vamos pra Área
-	Parque2!
+	Parque 2!
 	"""
 	keyWait
 		any = false
@@ -211,7 +211,7 @@ script 18 mmbn4 {
 	"""
 	Lan! Bora voltar pra
 	Rede e ir pra Área
-	Parque2!
+	Parque 2!
 	"""
 	keyWait
 		any = false
@@ -223,7 +223,7 @@ script 19 mmbn4 {
 	msgOpen
 	"""
 	Lan! Vamos pra
-	Área Parque2!
+	Área Parque 2!
 	"""
 	keyWait
 		any = false
@@ -363,8 +363,8 @@ script 53 mmbn4 {
 	msgOpen
 	"""
 	Vai ser difícil
-	entrar no parque
-	com aqueles guardas!
+	andar no Parque com
+	aqueles guardas!
 	"""
 	keyWait
 		any = false
@@ -388,7 +388,7 @@ script 59 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Brincar de pique-
+	Brincar de pega-
 	pega com a Roll?
 	Bom... Tá,né...?
 	"""
@@ -446,7 +446,7 @@ script 61 mmbn4 {
 	"""
 	Lan! Se conecta,
 	vamos lá ver o Glide
-	em Parque Área1!
+	na Área Parque 1!
 	"""
 	keyWait
 		any = false
@@ -484,7 +484,7 @@ script 64 mmbn4 {
 	msgOpen
 	"""
 	Lan,bora pra Área
-	Parque3 ajudar a
+	Parque 3 ajudar a
 	Roll!
 	"""
 	keyWait
@@ -559,9 +559,9 @@ script 69 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's jack in to the
-	toy and ask Roll
-	about this!
+	Entra no brinquedo!
+	Vamos perguntar pra
+	Roll sobre isso!
 	"""
 	keyWait
 		any = false
@@ -590,8 +590,8 @@ script 72 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's get some
-	lunch from Mom!
+	Vamos comer o
+	almoço da mamãe!
 	"""
 	keyWait
 		any = false
@@ -666,8 +666,8 @@ script 80 mmbn4 {
 	msgOpen
 	"""
 	O que será que a
-	Tamako quer fazer
-	no MarPlaza?
+	Tamako quer lá na
+	Praça Marchen?
 	"""
 	keyWait
 		any = false
@@ -768,8 +768,8 @@ script 87 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's get to the
-	castle and fight
+	Bora pro castelo
+	lutar com o
 	MetalMan!
 	"""
 	keyWait
@@ -803,7 +803,7 @@ script 91 mmbn4 {
 	msgOpen
 	"""
 	Lan,bora achar
-	aquele vídeo!
+	aqueles vídeos!
 	"""
 	keyWait
 		any = false
@@ -880,9 +880,9 @@ script 102 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We have to fight
-	for Sal! Off to
-	DenDome!
+	Temos que lutar pela
+	Sal!
+	Bora pro DenDomo!
 	"""
 	keyWait
 		any = false
@@ -944,9 +944,9 @@ script 107 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It's almost time
-	for the match! I
-	hope we do well!
+	Tá quase na hora da
+	luta!
+	Vamos com tudo!
 	"""
 	keyWait
 		any = false
@@ -1006,8 +1006,8 @@ script 112 mmbn4 {
 	msgOpen
 	"""
 	O Atsuki deve ter
-	fugido da luta e tá
-	no palco agora!
+	abortado a luta e tá
+	na arena agora!
 	"""
 	keyWait
 		any = false
@@ -1042,9 +1042,9 @@ script 115 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Smoke? From your
-	PC? We've got
-	to hurry!
+	Fumaça?
+	Do seu computador?
+	Corre,Lan!
 	"""
 	keyWait
 		any = false
@@ -1055,8 +1055,8 @@ script 117 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! Let's go put
-	out the fire in
+	Lan! Vamos apagar o
+	incêndio na Área
 	ACDC!
 	"""
 	keyWait
@@ -1122,9 +1122,9 @@ script 123 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! Hurry to
-	Park Area2 for the
-	cooking practice!
+	Lan! Vai pra Área
+	Parque 2 pro treino
+	de culinária!
 	"""
 	keyWait
 		any = false
@@ -1165,9 +1165,9 @@ script 126 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's hurry to the
-	castle for our
-	battle with Flave!
+	Vamos pro castelo,
+	pra luta contra o
+	Flave!
 	"""
 	keyWait
 		any = false
@@ -1178,8 +1178,8 @@ script 127 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Pegamos o Ingredi-
-	ente! Vamos pro
+	Pegamos os Ingredi-
+	entes! Vamos pro
 	Dojô Culinário!
 	"""
 	keyWait

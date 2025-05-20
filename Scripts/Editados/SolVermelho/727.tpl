@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Umm⋯
-	Lan said some mean
-	things⋯
+	Hum...
+	O Lan falou umas
+	coisas pesadas...
 	"""
 	keyWait
 		any = false
@@ -19,22 +19,22 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	Hey,that was just
-	training!
+	Ah,aquilo lá era só
+	treinamento!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's play FootBomb
-	again!
+	Vamos jogar
+	FuteBomba de novo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This time we use the
-	"PowerBomb"!
+	Desta vez,a gente
+	usa a "SuperBomba"!
 	"""
 	keyWait
 		any = false
@@ -45,7 +45,7 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"P-PowerBomb?"
+	"S-SuperBomba?"
 	keyWait
 		any = false
 	clearMsg
@@ -56,33 +56,33 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	Yeah,it's a
-	traditional Netopian
-	bomb that we use to
+	É. Uma bomba amero-
+	pana tradicional que
+	usamos para ver quem
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	see who the best
-	FootBomber is! It'll
-	destroy anything!
+	é o melhor
+	FuteBombista!
+	Ela destrói tudo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It'll tear most
-	Navis to shreds in a
-	single hit!
+	Destroça a maioria
+	dos Navis com um só
+	acerto!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Compared to this,
-	that last game was a
-	tea party!
+	Comparado a isso,
+	aquele último jogo
+	foi pré-escola!
 	"""
 	keyWait
 		any = false
@@ -93,7 +93,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Gulp."
+	"Glup."
 	keyWait
 		any = false
 	clearMsg
@@ -104,25 +104,25 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	So,will you accept
-	my challenge?!
-	Or are you scared?!
+	E aí,aceita o
+	meu desafio?!
+	Ou tá com medinho?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Heh,so that's what
-	a NetBattler's made
-	of. You can refuse
+	He,então,NetLutador
+	só é capaz disso.
+	Pode recusar,se
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	if you wanna,but if
-	you do,you have to
-	quit the tourney!
+	quiser,mas se fizer
+	isso,vai ter que
+	sair do torneio!
 	"""
 	keyWait
 		any = false
@@ -134,9 +134,9 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	What?! You have no
-	right to add con-
-	ditions like that!
+	O quê?! Cê não tem o
+	direito de adicionar
+	condições assim!
 	"""
 	keyWait
 		any = false
@@ -149,9 +149,9 @@ script 7 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,I'll do it.
-	Let's show them what
-	NetBattlers can do!
+	Aceito. Bora mostrar
+	pra ele o poder dos
+	NetLutadores!
 	"""
 	keyWait
 		any = false
@@ -163,25 +163,24 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
 	"""
-	Fine,let's do it
-	before you change
-	your mind.
+	Beleza. Vamos logo,
+	antes que cê mude de
+	ideia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll do it in Hero-
-	Comp,the FootBomb
-	holy land!
+	Vamos lá no CPU
+	Herói,a Meca do
+	FuteBomba!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't lose your
-	nerve and try to
-	run!
+	Não vai amarelar
+	e fugir,hein?!
 	"""
 	keyWait
 		any = false
@@ -192,22 +191,23 @@ script 9 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	HeroComp?
-	Where is that?
+	CPU Herói?
+	Onde que é isso?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Fine!
-	Jack out,MegaMan!
+	Enfim,de boa!
+	Desconecta,MegaMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We have to find the
-	FootBomb holy land!
+	A gente tem que
+	achar essa tal
+	"maca" do FuteBomba!
 	"""
 	keyWait
 		any = false
@@ -217,7 +217,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Okay!"
+	"Tá!"
 	keyWait
 		any = false
 	end

@@ -4,11 +4,11 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Mami
 	msgOpen
-	"He's deleted!"
+	"Fim da luta!"
 	keyWait
 		any = false
 	clearMsg
-	"Lan is the winner!"
+	"Lan Hikari é o\nvencedor!"
 	keyWait
 		any = false
 	end
@@ -17,7 +17,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"We did it!"
+	"Aêêê!"
 	keyWait
 		any = false
 	clearMsg
@@ -29,9 +29,9 @@ script 2 mmbn4 {
 		mugshot = Flave
 	msgOpen
 	"""
-	Dang!
-	I lost in the Net-
-	Battle,too!
+	Droga!
+	Eu perdi na
+	NetLuta também!
 	"""
 	keyWait
 		any = false
@@ -44,16 +44,15 @@ script 3 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Flave⋯
-	Do you understand,
-	now?
+	Flave...
+	Entendeu agora?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do you know what
-	you're missing?
+	Entendeu o que falta
+	em você?
 	"""
 	keyWait
 		any = false
@@ -65,7 +64,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Flave
 	msgOpen
-	"Affection⋯"
+	"Afeto..."
 	keyWait
 		any = false
 	clearMsg
@@ -76,36 +75,36 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"That's it!"
+	"Aham!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You need to want to
-	make people happy
-	with your cooking.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	And that takes
-	tenderness and
-	affection!
+	Você tem que querer
+	deixar as pessoas
+	felizes ao cozinhar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Cooking Master
-	who taught me how to
+	E pra isso,é preciso
+	ternura e afeto!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	cook taught me that,
-	too.
+	O Mestre-Cuca
+	Mestre,que me
+	ensinou a cozinhar,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	me ensinou isso,
+	também.
 	"""
 	keyWait
 		any = false
@@ -115,21 +114,21 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Flave
 	msgOpen
-	"Cooking Master?!"
+	"O Mestre-Cuca\nMestre?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Are you talking
-	about that chef who
-	wanders the world,
+	Tá falando do chef
+	errante que viaja
+	pelo mundo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	in order to become
-	the ultimate chef?
+	para se tornar o
+	chef supremo?
 	"""
 	keyWait
 		any = false
@@ -142,9 +141,9 @@ script 7 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Huh?
-	Why do you know
-	about him?
+	Hã?
+	Como é que você
+	sabe sobre ele?
 	"""
 	keyWait
 		any = false
@@ -156,24 +155,24 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Flave
 	msgOpen
-	"Cooking Master⋯"
+	"O Mestre-Cuca\nMestre..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Only one guy travels
-	the world and calls
-	himself that.
+	Só tem um homem que
+	viaja pelo mundo e
+	se apresenta assim.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 1
-	"⋯⋯\n"
+	"......\n"
 	mugshotAnimation
 		animation = 2
-	"That's my dad."
+	"O meu pai."
 	keyWait
 		any = false
 	clearMsg
@@ -184,7 +183,7 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What?!"
+	"O quê?!"
 	keyWait
 		any = false
 	clearMsg
@@ -196,17 +195,17 @@ script 10 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Wow⋯
-	So that's why the
-	Cooking Master
+	Caramba... Então é
+	por isso que o
+	Mestre-Cuca Mestre
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	wanted us to win and
-	teach you an
-	important lesson.
+	queria que vencêsse-
+	mos e te ensinásse-
+	mos esta lição.
 	"""
 	keyWait
 		any = false
@@ -219,24 +218,25 @@ script 11 mmbn4 {
 		mugshot = Flave
 	msgOpen
 	"""
-	I can't believe my
-	dad went that far.
+	Não acredito que o
+	meu pai foi longe
+	assim...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey Lan,do you
-	think that if I can
-	learn how to cook
+	Ei,Lan,acha que,
+	se eu aprender a
+	cozinhar com afeto,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	with affection,I
-	might be the best
-	chef in Electopia?
+	eu posso me tornar
+	o melhor chef de
+	Ni-Hon?
 	"""
 	keyWait
 		any = false
@@ -248,13 +248,14 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Of course you can!"
+	"Com certeza!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your cooking skills
-	are ingenious!
+	As suas habilidades
+	culinárias são
+	geniais!
 	"""
 	keyWait
 		any = false
@@ -267,23 +268,24 @@ script 13 mmbn4 {
 		mugshot = Flave
 	msgOpen
 	"""
-	Hehe!
-	Thanks,Lan!
+	He he!
+	Obrigado,Lan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm going to go back
-	home to relearn all
+	Eu vou voltar pra
+	casa pra reaprender
+	tudo o que há para
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	there is about
-	the spirit of
-	cooking!
+	saber sobre o
+	espírito da
+	culinária!
 	"""
 	keyWait
 		any = false
@@ -294,9 +296,9 @@ script 14 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I'm sure he'll be
-	the best master
-	chef ever.
+	Com certeza ele
+	vai virar o melhor
+	chef do mundo.
 	"""
 	keyWait
 		any = false
@@ -309,8 +311,8 @@ script 15 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I look forward to
-	seeing it happen!
+	Tô ansioso pra ver
+	isso acontecer!
 	"""
 	keyWait
 		any = false

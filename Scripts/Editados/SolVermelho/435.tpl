@@ -8,36 +8,36 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	msgOpen
-	"Sheesh!"
+	"Affe!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The treasure that I
-	found was stolen
-	from me!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	It was as shiny as
-	the Sun⋯
+	Roubaram o tesouro
+	que eu tinha achado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I could have sold it
-	for a lot of money!
+	Era tão brilhante!
+	Parecia até o Sol...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The guy who took it
-	is from Under6⋯I'll
-	find him!
+	Eu podia ter feito
+	TANTA grana vendendo
+	ele!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	O cara que roubou é
+	da Undernet 6...
+	Eu ainda pego ele!
 	"""
 	keyWait
 		any = false
@@ -50,20 +50,22 @@ script 1 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	That guy from Under6
-	stole my treasure⋯
+	Aquele cara da
+	Undernet 6 roubou
+	o meu tesouro...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Shiny like the Sun,
-	it was⋯
+	O negócio brilhava
+	feito o Sol...
+	Poxa...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'll get him!"
+	"Ah,mas eu pego ele!"
 	keyWait
 		any = false
 	end
@@ -76,7 +78,7 @@ script 130 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Chaud,here it is!"
+	"Chaud,aqui está!"
 	keyWait
 		any = false
 	clearMsg
@@ -102,16 +104,17 @@ script 130 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	OK! On to the next
-	one! I think it was⋯
+	OK! Agora,para o
+	próximo! Acho que
+	estava...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Under some stairs,in
-	a place that pushes
-	you back⋯
+	Embaixo de escadas,
+	em um lugar que te
+	empurra para trás...
 	"""
 	keyWait
 		any = false
@@ -119,8 +122,7 @@ script 130 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	OK! I'll look for
-	it!
+	Certo! Vou procurar!
 	"""
 	keyWait
 		any = false
@@ -140,9 +142,9 @@ script 132 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Hey! Something is
-	shining from under
-	the ground!
+	Ei! Tem alguma coisa
+	brilando aqui no
+	chão!
 	"""
 	keyWait
 		any = false
@@ -169,15 +171,15 @@ script 132 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	OK! Open the door
-	and go on!
+	OK! Abra a porta e
+	prossiga!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Roger!"
+	"Entendido!"
 	keyWait
 		any = false
 	flagSet

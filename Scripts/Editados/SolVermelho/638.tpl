@@ -5,16 +5,15 @@ script 0 mmbn4 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Whaddayah think,
-	huh?
+	Que tal,hein?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Higsby's can rake in
-	the cash when it
-	has to,huh!
+	A Loja do Higsby
+	sabe fazer dindim
+	quando precisa,é!
 	"""
 	keyWait
 		any = false
@@ -26,8 +25,8 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Maid
 	"""
-	Oh yeah,do you got
-	the picture now?!
+	É! Sacou a parada
+	agora... er,brô?!
 	"""
 	keyWait
 		any = false
@@ -39,32 +38,32 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = BlackMan
 	"""
-	Hahaha!
-	Not a chance!
+	Ha ha ha!
+	Até parece!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You just worked
-	overtime today and
-	got a little lucky!
+	Vocês só fizeram uma
+	horinha extra e
+	deram sorte!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's already been
-	decided! This shop's
-	gonna sell brushes!
+	Já tá decidido!
+	Esta loja aqui vai
+	vender ESCOVA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So why don't you
-	just give up the
-	shop already!
+	Então por que não
+	desiste da loja de
+	uma vez?
 	"""
 	keyWait
 		any = false
@@ -74,7 +73,7 @@ script 2 mmbn4 {
 }
 script 3 mmbn4 {
 	mugshotHide
-	"Never!!!"
+	"Nunca!!!"
 	keyWait
 		any = false
 	end
@@ -84,8 +83,9 @@ script 4 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	This place is really
-	important to us!
+	Esta loja é muito
+	importante pra
+	gente!
 	"""
 	keyWait
 		any = false
@@ -97,9 +97,9 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = CapBoy
 	"""
-	I won't let you
-	drive Higsby's out
-	of business!
+	Eu não vou deixar
+	você fechar a Loja
+	do Higsby!
 	"""
 	keyWait
 		any = false
@@ -110,7 +110,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = BlackMan
-	"Grr⋯"
+	"Grr..."
 	keyWait
 		any = false
 	clearMsg
@@ -121,9 +121,9 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = OrangeShirtBoy
 	"""
-	I won't let you get
-	away with driving
-	Higsby out of here!
+	Se botar o Higsby
+	pra fora,vai se ver
+	comigo!
 	"""
 	keyWait
 		any = false
@@ -136,7 +136,8 @@ script 8 mmbn4 {
 		mugshot = Girl
 	"""
 	Higsby!
-	We're on your side!
+	A gente tá do seu
+	lado!
 	"""
 	keyWait
 		any = false
@@ -148,17 +149,17 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Higsby
 	"""
-	You guys⋯never buy
-	chips. All you do is
-	hang out here,huh.
+	Vocês... nunca com-
+	pram chips. Só vêm
+	pra brincar,é.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But today you're
-	really helping! I
-	just might cry,huh!
+	Mas,hoje,estão
+	ajudando tanto!
+	Eu vou chorar,é!
 	"""
 	keyWait
 		any = false
@@ -170,16 +171,17 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = BlackMan
 	"""
-	Wow,what a strong-
-	willed kid you are!
+	Rá,que guris mais
+	determinados vocês
+	são,hein?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess I'll just
-	have to back off
-	this time!
+	Acho que,desta
+	vez,eu vou ter
+	que recuar!
 	"""
 	keyWait
 		any = false
@@ -190,9 +192,9 @@ script 11 mmbn4 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Anyway,Lan and
-	Higsby,isn't it
-	time for your match?
+	Enfim,Lan,Higsby...
+	Já não tá na hora
+	da luta de vocês?
 	"""
 	keyWait
 		any = false
@@ -204,8 +206,8 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = OrangeShirtBoy
 	"""
-	You'd better hurry
-	to the DenDome!
+	É melhor irem logo
+	pro DenDomo!
 	"""
 	keyWait
 		any = false
@@ -217,8 +219,8 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = BlueShirtBoy
 	"""
-	We'll be there,
-	rooting for you!
+	A gente vai tá lá,
+	torcendo por vocês!
 	"""
 	keyWait
 		any = false
@@ -229,14 +231,14 @@ script 13 mmbn4 {
 script 14 mmbn4 {
 	mugshotShow
 		mugshot = Higsby
-	"That's right!"
+	"Ah,é!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I forgot about the
-	match in all the
-	excitement,huh!
+	No meio desse
+	frenesi todo,acabei
+	esquecendo da luta!
 	"""
 	keyWait
 		any = false
@@ -247,14 +249,14 @@ script 14 mmbn4 {
 script 15 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Let's go,Higsby!"
+	"Vamos lá,Higsby!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This mess is cleared
-	up,so we can relax
-	and enjoy the match!
+	A bagunça foi resol-
+	vida. A gente pode
+	lutar sem estresse!
 	"""
 	keyWait
 		any = false
@@ -265,11 +267,11 @@ script 15 mmbn4 {
 script 16 mmbn4 {
 	mugshotShow
 		mugshot = Higsby
-	"Yeah,huh!"
+	"É... É!"
 	keyWait
 		any = false
 	clearMsg
-	"I'm ready!"
+	"Tô pronto!"
 	keyWait
 		any = false
 	end
@@ -279,13 +281,12 @@ script 17 mmbn4 {
 		mugshot = Maid
 	msgOpen
 	"""
-	Good luck,both of
-	you!
+	Boa sorte,rapazes!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'll cheer for you!"
+	"Vou torcer muito por\nvocês!"
 	keyWait
 		any = false
 	end

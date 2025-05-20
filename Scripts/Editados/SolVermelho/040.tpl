@@ -183,7 +183,7 @@ script 6 mmbn4 {
 		mugshot = MegaMan
 	textSpeed
 		delay = 0
-	"I bought \""
+	"Comprei \""
 	printItem
 		buffer = 1
 		item = 0
@@ -202,7 +202,7 @@ script 7 mmbn4 {
 		mugshot = MegaMan
 	textSpeed
 		delay = 0
-	"I bought \""
+	"Comprei \""
 	printChip
 		buffer = 1
 		chip = 0
@@ -225,7 +225,7 @@ script 8 mmbn4 {
 		mugshot = MegaMan
 	textSpeed
 		delay = 0
-	"Not enough Zennys⋯"
+	"Não tenho Zennys o\nbastante..."
 	keyWait
 		any = false
 	waitHold
@@ -241,8 +241,8 @@ script 9 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	I can't carry
-	any more.
+	Não posso carregar
+	mais.
 	"""
 	keyWait
 		any = false
@@ -317,7 +317,7 @@ script 12 mmbn4 {
 		mugshot = MegaMan
 	textSpeed
 		delay = 0
-	"I bought \""
+	"Comprei \""
 	printNaviCustProgram
 		buffer = 1
 		program = 0
@@ -402,7 +402,7 @@ script 19 mmbn4 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"I BOUGHT \""
+	"Comprei \""
 	printItem
 		buffer = 1
 		item = 0
@@ -415,7 +415,7 @@ script 20 mmbn4 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"I BOUGHT \""
+	"Comprei \""
 	printChip
 		buffer = 1
 		chip = 0
@@ -432,7 +432,7 @@ script 21 mmbn4 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"INSUFFICIENT ZENNYS."
+	"Zennys\ninsuficientes."
 	keyWait
 		any = false
 	waitHold
@@ -441,7 +441,7 @@ script 22 mmbn4 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"CAN'T HOLD ANY MORE."
+	"Impossível portar\nmais."
 	keyWait
 		any = false
 	waitHold
@@ -450,7 +450,7 @@ script 23 mmbn4 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"YOU BOUGHT \""
+	"Comprou \""
 	printNaviCustProgram
 		buffer = 1
 		program = 0

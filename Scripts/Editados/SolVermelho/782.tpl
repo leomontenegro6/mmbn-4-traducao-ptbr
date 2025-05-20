@@ -5,51 +5,52 @@ script 0 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Ladies and
-	gentlemen⋯
+	Senhoras e
+	senhores...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The battle you've
-	been waiting for!!
+	Chegou a hora da
+	luta pela qual vocês
+	tanto esperavam!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The showdown between
-	the two Electopians!
+	O confronto entre
+	os dois ni-honenses!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And both of them
-	are kids!
+	E os dois,
+	jovens guerreiros!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's have them
-	enter the arena
-	together!!
+	Vamos recebê-los
+	na arena juntos!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Representing
-	Electopia,Lan.
+	Representando
+	Ni-Hon,Lan Hikari.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Also representing
-	Electopia,Chaud!!
+	E também represen-
+	tando Ni-Hon,
+	Eugene Chaud!!
 	"""
 	keyWait
 		any = false
@@ -60,8 +61,8 @@ script 1 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Chaud,ProtoMan's
-	feeling fine,right?
+	Chaud,o ProtoMan
+	tá bem,né?
 	"""
 	keyWait
 		any = false
@@ -73,15 +74,17 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	Sorry to disappoint
-	you,but yes he is.
+	Lamento te
+	desapontar,mas,
+	sim,ele está.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're gonna thank ya
-	by not holding back!
+	Como agradecimento,
+	nós dois não vamos
+	nos segurar!
 	"""
 	keyWait
 		any = false
@@ -93,8 +96,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I wouldn't have it
-	any other way!!
+	Ainda bem!!
 	"""
 	keyWait
 		any = false
@@ -105,16 +107,16 @@ script 4 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Who will the Fates
-	smile upon today!!
+	Para quem a sorte
+	irá sorrir hoje?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan!!
+	Lan Hikari!!
 	Vs.
-	Chaud!!
+	Eugene Chaud!!
 	"""
 	keyWait
 		any = false
@@ -142,7 +144,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = ProtoMan
-	"Slice and dice!!"
+	"Minha lâmina não\nrecua!!"
 	keyWait
 		any = false
 	end

@@ -16,8 +16,8 @@ script 1 mmbn4 {
 		mugshot = Lilly
 	msgOpen
 	"""
-	Lan,thank you for
-	helping me with
+	Lan,obrigada por
+	me ajudar com o
 	WindMan!
 	"""
 	keyWait
@@ -30,18 +30,18 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"It was no problem!"
+	"Imagina!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here's your
+	Toma,a sua
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 92
-	"\" back."
+	"\"."
 	keyWait
 		any = false
 	end
@@ -50,11 +50,11 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lilly
 	msgOpen
-	"Ah,yes."
+	"Ah,sim."
 	keyWait
 		any = false
 	clearMsg
-	"I'm so nervous⋯"
+	"Estou tão nervosa..."
 	keyWait
 		any = false
 	clearMsg
@@ -65,20 +65,20 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"It's okay! Really."
+	"Tá tudo bem!\nÉ sério."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Everyone's rooting
-	for us.
+	Tá todo mundo
+	torcendo pela gente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's just have a
-	good time!
+	Vamos lá,vamos nos
+	divertir!
 	"""
 	keyWait
 		any = false
@@ -90,7 +90,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lilly
 	msgOpen
-	"Lan⋯"
+	"Lan..."
 	keyWait
 		any = false
 	clearMsg
@@ -102,9 +102,8 @@ script 6 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I'll go on ahead.
-	I'll be waiting for
-	you!
+	Eu vou na frente.
+	Te espero lá!
 	"""
 	keyWait
 		any = false
@@ -114,19 +113,19 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lilly
 	msgOpen
-	"Stay calm."
+	"Mantenha a calma..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ah,all this
-	worrying has made
-	me thirsty.
+	Ah,toda esta
+	preocupação
+	me deu sede.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Water⋯I need water."
+	"Água... Eu preciso\nde água."
 	keyWait
 		any = false
 	end
@@ -138,7 +137,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Lilly
 	msgOpen
-	"Ahhh⋯"
+	"Ahhh..."
 	keyWait
 		any = false
 	clearMsg
@@ -156,7 +155,7 @@ script 8 mmbn4 {
 		animation = 2
 	mugshotShow
 		mugshot = LillyDrunk
-	"*hic*"
+	"Hic!"
 	keyWait
 		any = false
 	end
@@ -164,7 +163,7 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	msgOpen
 	"""
-	Lan returned the
+	Lan devolveu a
 	"
 	"""
 	printItem
@@ -177,15 +176,15 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Anyway,let's hurry
-	over to the tourney!
+	Enfim,vamos logo
+	lá pro torneio!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The spectators are
-	waiting for us!
+	O público tá
+	esperando a gente!
 	"""
 	keyWait
 		any = false

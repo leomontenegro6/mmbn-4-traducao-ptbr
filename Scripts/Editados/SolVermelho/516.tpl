@@ -4,40 +4,41 @@ script 0 mmbn4 {
 	mugshotHide
 	msgOpen
 	"""
-	For some reason,
-	Halberd Princess
-	loved a huge axe.
+	Por algum motivo,
+	a Princesa Alabarda
+	amava machadões.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	However,she had been
-	acting very strange.
+	Porém,ela andava
+	agindo muito
+	estranho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Always used for wood
-	cutting before,she
-	now used her axe for
+	Sempre acostumada a
+	cortar lenha,agora
+	só usava seu
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"****",and
-	she also fretted
-	over her appearance⋯
+	"****"	,e ficara
+	cuidadosa com a
+	própria aparência...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	She seemed to be in
-	love with Prince
-	Tomahawk.
+	Ela parecia estar
+	apaixonada pelo
+	Príncipe Tomahawk.
 	"""
 	keyWait
 		any = false
@@ -49,7 +50,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"⋯A bit is missing."
+	"... Tem um pedaço\nfaltando."
 	keyWait
 		any = false
 	clearMsg
@@ -60,20 +61,21 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Ah,I see!"
+	"Ah,já entendi!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The plot doesn't
-	flow correctly,
+	Como o enredo não
+	está fluindo
+	direito,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so the ToyRobo
-	went berserk!
+	o Robô-Brinquedo
+	saiu do controle!
 	"""
 	keyWait
 		any = false
@@ -85,7 +87,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"What should I do?!"
+	"E o que eu faço?!"
 	keyWait
 		any = false
 	clearMsg
@@ -97,17 +99,17 @@ script 4 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	The missing bits of
-	story data are under
-	this passage.
+	Os dados de narrati-
+	va que faltam estão
+	além desse portal.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Bring them here and
-	set them on the door
-	to open the path!
+	Traga-os aqui e co-
+	loque-os na porta
+	para abrir a rota!
 	"""
 	keyWait
 		any = false
@@ -119,7 +121,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yes,I understand!"
+	"Tá,entendi!"
 	keyWait
 		any = false
 	clearMsg
@@ -131,24 +133,25 @@ script 6 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Be careful! Some of
-	the story data is
-	wrong for this plot!
+	Cuidado! Alguns dos
+	dados serão errados
+	para esta trama!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Be sure to choose
-	the correct data!
+	Você terá que
+	escolher os dados
+	certos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And not like on
-	the raft,there are
-	lots of viruses!
+	E,diferente da
+	jangada,haverá
+	vários vírus lá!
 	"""
 	keyWait
 		any = false

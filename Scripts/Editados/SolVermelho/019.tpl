@@ -9,33 +9,33 @@ script 0 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Hiyah! This is Dex
-	your admin writing!
-	Welcome to my HP!
+	Fala! Administrador
+	Dex aqui! Bem-vindos
+	à minha página!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I,the #1 NetBattler
-	in ACDC Town,will
-	answer questions
+	Eu,o Lutador #1 de
+	ACDC,e meu Navi,o
+	GutsMan,vamos ler
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	about NetBattle &
-	viruses bust,along
-	with GutsMan,so ask
+	perguntas sobre Net-
+	Luta e deleção de
+	vírus. Perguntem aí!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	away! I expect to
-	hear from you guys
-	in Class 6-A too!
+	E postem vocês
+	também,povo da Turma
+	6-A!
 	"""
 	keyWait
 		any = false
@@ -50,33 +50,33 @@ script 1 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Well,well,you really
-	built your own
-	Battle Board HP. Not
+	Ora,ora,você fez
+	mesmo seu próprio
+	Fórum de Luta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	bad! Very well,can
-	you tell me how to
-	beat that boomerang-
+	OK,então digam aí:
+	como se vence
+	aqueles vírus dos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	wielding viruses
-	looks like a
-	clothes pin?
+	bumerangues que
+	parecem prendedores
+	de roupa?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My Navi Glide can't
-	dodge those
-	boomerangs!
+	O meu Navi,Glide,não
+	consegue desviar
+	daquelas coisas!
 	"""
 	keyWait
 		any = false
@@ -91,25 +91,25 @@ script 2 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Yeeee-haaaaaaawwww!
-	Guts here! I'll
-	help you out!
+	Guuuuuuts!
+	Guts na área!
+	Eu ajudo vocês!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You gotta stand
-	your ground and
-	face him like a man!
+	O Glide tem que fir-
+	mar os pés no chão e
+	aturar feito homem!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just keep blasting
-	him with the
-	GutBuster!
+	É só ficar atirando
+	nele com o seu
+	GutBuster sem parar!
 	"""
 	keyWait
 		any = false
@@ -124,41 +124,41 @@ script 3 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Oh,GutsMan! That's
-	not how you do it!
-	A virus is called
+	Ai,GutsMan! Não é
+	assim! Esse vírus
+	se chama "Boomer".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"Boomer". It blocks
-	attacks when its
-	boomerang is in its
+	Ele bloqueia ataques
+	quando está com o
+	bumerangue na boca.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	mouth,so at first
-	you should stand in
-	the center row where
+	No começo,fique na
+	fileira do meio,
+	onde ele não pode te
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	its boomerang can't
-	hit you. Once it
-	throws its boomerang
+	acertar. Aí,depois
+	que ele lançar o
+	bumerangue,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	move to Boomer's row
-	and attack! Isn't
-	that right,Dex?
+	vá pra fileira do
+	Boomer e ataque!
+	Não é assim,Dex?
 	"""
 	keyWait
 		any = false
@@ -173,17 +173,17 @@ script 4 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Uh⋯y-yeah! That's
-	what I was gonna
-	say! Hey Mayl⋯
+	Er... É-é! Era isso
+	mesmo que eu ia
+	dizer! Puxa,Mayl...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I didn't know you
-	were so good at
-	viruses busting!
+	Eu não sabia que cê
+	era boa assim em
+	lutar com vírus!
 	"""
 	keyWait
 		any = false
@@ -198,24 +198,25 @@ script 5 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Tee hee! Well,Lan's
-	always coming to my
-	rescue,so I figured
+	Hi hi! Bom,o Lan tá
+	sempre me salvando,
+	então resolvi que,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the least I could do
-	is learn how to
-	fight viruses on my
+	no mínimo,eu podia
+	aprender a lutar
+	com vírus sozinha.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	own. I'd like to Net
-	Battle sometime too!
+	E adoraria NetLutar
+	com vocês qualquer
+	dia,também!
 	"""
 	keyWait
 		any = false
@@ -230,9 +231,9 @@ script 6 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	I'm having trouble
-	with that stingray-
-	thingy with glasses.
+	Estou com dificulda-
+	des com aquela raia
+	estranha de óculos.
 	"""
 	keyWait
 		any = false
@@ -247,63 +248,63 @@ script 7 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Yo! Koetsu in da
-	house! I'll answer
+	E aí! Koetsu na
+	área! Eu te ajudo,
 	Masabumi!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You must be talking
-	about a Lark.
+	Você deve estar
+	falando de um Lark.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That thing's
-	tough,but you'll be
-	al'right.
+	Aquele lá é durão,
+	mas acho que cê
+	dá conta,sim.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You know
-	about Elements?
+	Sabe os Elementos?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Fire over Wood,
-	Wood over
-	Elec,Elec over Aqua,
+	Fogo vence Mdra,
+	Mdra vence Elét,
+	Elét vence Água
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"and Aqua over Fire."
+	"e Água vence Fogo."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'll double your
-	attack if using a
-	stronger Element!
+	Se usar o Elemento
+	mais forte,seu ata-
+	que dói em dobro!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Since Larks are Aqua
-	use an Elec chip,
+	E como os Larks são
+	vírus de Água,use
+	um chip Elét,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"like Thunder1!"
+	"tipo o Thunder1!"
 	keyWait
 		any = false
 	clearMsg
@@ -321,32 +322,33 @@ script 8 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Wow,are you really
-	Koetsu,the "Cyber
-	Sage"? May I ask you
+	Caramba,cê é mesmo
+	Koetsu,o "Cyber
+	Sábio"? Posso fazer
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	a question too? The
-	other day I was
-	fighting this Gnarly
+	uma pergunta também?
+	Outro dia,eu lutei
+	com esses vírus,os
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	viruses,and spotted
-	some Mystery Data!
+	Gnarly,e,durante a
+	luta,avistei uns
+	dados misteriosos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The viruses destroy-
-	ed it,but what was
-	inside that data?
+	Os vírus destruíram
+	eles,mas o que tinha
+	dentro do cristal?
 	"""
 	keyWait
 		any = false
@@ -361,33 +363,33 @@ script 9 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Yo! Koetsu in da
-	house! My friend 
-	Goh,you witnessed
+	Fala! Koetsu na
+	área! Goh,meu amigo,
+	você testemunhou um
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	a rare event! If you
-	can defeat the virus
-	without letting the
+	evento raro! Se
+	vencer os vírus sem
+	deixar o cristal ser
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	data be destroyed or
-	destroying it
-	yourself,you'll get
+	destruído ou você
+	mesmo destruí-lo,os
+	dados são seus!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it! As for what's
-	inside,all I can say
-	is it's very rare!
+	Quanto ao que tem
+	dentro... só posso
+	dizer que é RARO!
 	"""
 	keyWait
 		any = false
@@ -402,25 +404,25 @@ script 10 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Hey,check this out!
-	While I was battling
-	the other day,some
+	Ei,saca só! Enquanto
+	eu lutava outro dia,
+	alguns dos meus
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	chips of mine merged
-	together! Three
-	Cannons turned in a
+	chips se fundiram!
+	Três Cannons viraram
+	um GigaCannon!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	GigaCan! I can't
-	seem to do it again
-	though⋯
+	Só não tô
+	conseguindo fazer
+	rolar de novo...
 	"""
 	keyWait
 		any = false
@@ -435,40 +437,41 @@ script 11 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Hey! Dex here! I
-	can answer this one!
+	E aí! Dex aqui!
+	Essa eu posso
+	responder!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Some chips have Chip
-	Codes,such as ABC⋯
-	Select the chips in
+	Certos chips têm
+	Códigos,tipo ABC...
+	Se selecionar chips
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the right order and
-	send them to your
-	Navi to merge them!
+	na ordem certa e
+	mandar pro Navi,eles
+	podem se fundir!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Try different
-	combinations! You
-	can include a single
+	Vai tentando umas
+	combinações! Ah,e dá
+	pra incluir um único
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	chip with a * code.
-	Hah! How's that for
-	administrating?
+	chip de código "*".
+	Ha! E aí? Adminis-
+	trei legal,foi não?
 	"""
 	keyWait
 		any = false
@@ -483,40 +486,41 @@ script 12 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Hiyah! I work part-
-	time at Castillo. I
-	wear a Navi outfit
+	Olá! Eu trabalho de
+	meio período no
+	Castillo. Visto
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and am really
-	enjoying it,but I
-	also have to perform
+	uma fantasia de Navi
+	e adoro,mas também
+	preciso fazer
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	maintenance work on
-	the outfit⋯I often
-	run into a really
+	manutenção nela...
+	E sempre esbarro em
+	vírus super fortes
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	strong viruses called
-	Moloko during
-	maintenance.
+	chamados Moloko
+	durante a
+	manutenção.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Does anyone know
-	how to beat it?
+	Alguém aí sabe como
+	se faz para
+	vencê-los?
 	"""
 	keyWait
 		any = false
@@ -531,37 +535,37 @@ script 13 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Molokos are cute,
-	but tough little
-	buggers.
+	Molokos são uns
+	bichinhos fofos,
+	porém fortinhos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can attack them
-	with a sword after
-	peeling
+	Você pode atacá-los
+	com um chip de
+	espada depois de
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"off their fur,"
+	"remover a lã deles,\nou manter distância\ne usar um"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	or stand back and
-	use a rapid-fire
-	chip like Vulcan!
+	chip de tiros
+	seguidos,tipo o
+	Vulcan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Both ways take some
-	courage,
-	but keep trying!
+	As duas estratégias
+	requerem coragem,
+	mas não desista!
 	"""
 	keyWait
 		any = false
@@ -576,39 +580,41 @@ script 14 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	I finally got a Navi
-	Customizer! I always
+	Finalmente comprei
+	um Customizador de
+	Navi! Eu sempre
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	thought programming
-	would be hard,but
-	it's actually kind
+	achei que programa-
+	ção era difícil,mas
+	é até meio
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	of fun--like solving
-	a puzzle! I'm going
+	divertido. É tipo
+	montar quebra-
+	cabeça! Vou instalar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to install lots of
-	programs and boost
-	up my Navi!
+	um monte de
+	programas e turbinar
+	o meu Navi!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Say,does anyone know
-	of a good program
-	store?
+	Ei,alguém aí conhece
+	uma boa loja de
+	programas?
 	"""
 	keyWait
 		any = false
@@ -622,37 +628,37 @@ script 15 mmbn4 {
 	positionArrow
 		left = 202
 		top = 108
-	"If you're looking \nfor programs,I know"
+	"Se está atrás de \nprogramas,eu conheço\numa loja incrível"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	an awesome shop
-	hidden in the
-	Castillo HP!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I bought a Shield
-	and FstBarr to
+	escondida na página
+	do Castillo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	defend against Vol-
-	Gear's flames. Use
-	customization to 
+	Comprei lá um Escudo
+	e uma BarrVelz pra
+	me defender das
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	reinforce weaknesses
-	or further enhance
-	your strong areas.
+	chamas do VolGear.
+	Use a customização
+	pra reduzir suas
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	fraquezas ou turbi-
+	nar ainda mais seus
+	pontos fortes!
 	"""
 	keyWait
 		any = false
@@ -667,24 +673,24 @@ script 16 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	The other day I saw
-	a Navi named Glide.
-	He kept turning to
+	Outro dia,vi um Navi
+	chamado Glide. Ele
+	ficava dobrando pra
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the right when he
-	walked. I think
-	his NaviCust wasn't
+	direita enquanto
+	andava. Acho que o
+	CustNavi dele não
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	programmed
-	correctly.
+	estava programado
+	direito.
 	"""
 	keyWait
 		any = false
@@ -699,33 +705,33 @@ script 17 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	I-I don't
-	understand! How
-	could an expert
+	E-eu não entendo!
+	Como pôde uma pro-
+	gramadora prodígio
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	programmer like Yai
-	forget to place the
-	UnderSht above the
+	como eu esquecer de
+	colocar o PorUm em
+	cima da Linha de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Command Line?!
-	Well,no one's
-	perfect⋯I think
+	Comando?!
+	Bom,ninguém é
+	perfeito... Acho que
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll buy a BugStop
-	so this won't ever
-	happen again.
+	vou comprar um
+	ParaBug para que
+	isso não se repita.
 	"""
 	keyWait
 		any = false
@@ -740,33 +746,33 @@ script 18 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	My Navi's been a
-	little⋯blackish
-	lately⋯Maybe he's
+	O meu Navi tem anda-
+	do meio... escuro
+	ultimamente. Ele se
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	got a tan? No⋯It
-	doesn't look
-	healthy. He's got
+	bronzeou,será?
+	Não... não parece
+	saudável. Ele tá com
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	kind of like this
-	foreboding look to
-	him⋯His max HP has
+	um semblante meio
+	sinistro... E os
+	PV máximos dele
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	also dropped to 98⋯
-	What could be wrong
-	with him?
+	caíram pra 98...
+	O que tem de errado
+	com ele?!
 	"""
 	keyWait
 		any = false
@@ -781,68 +787,70 @@ script 19 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Goh⋯That sounds an
-	awful lot like the
+	Goh... Isso aí
+	parece muito os
+	efeitos de um
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	effects of one of
-	those DarkChips
-	everyone's talking
+	daqueles Chips das
+	Trevas de que a
+	galera anda falando,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	about that are making
-	their way around the
-	UnderNet.
+	que andam circulando
+	pela Undernet.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're extremely
-	powerful,but they
-	cause bugs
+	São super fortes,
+	mas fazem bugs
+	ocorrerem quando
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to occur when you
-	use them,and your
-	Navi's max HP is
+	a gente os usa,e os
+	PV máximos do seu
+	Navi caem em 1.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	reduced by 1. They
-	even corrupt Navis.
+	Eles até corrompem
+	Navis.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Once you use one,you
-	can't stop. Even if
+	Depois que se usa
+	um,não dá mais pra
+	parar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you throw the chip
-	away,it'll reappear
+	Mesmo se você
+	jogar o chip fora,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	on the Custom
-	Screen!
+	ele reaparece na
+	Tela de
+	Customização!
 	"""
 	keyWait
 		any = false
@@ -857,31 +865,32 @@ script 20 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Are you for real,
-	Zono?! A DarkChip?!
+	É sério isso,Zono?!
+	Um Chip das Trevas?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If your max HP gets
-	reduced each time
+	Se os seus PV
+	máximos caem sempre
+	que você usa um,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you use it,after
-	awhile you won't be
-	able to fight at
+	depois de um tempo,
+	nem vai mais dar pro
+	Navi lutar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	all! Sounds like⋯
-	Once you use one,
-	it's all downhill⋯
+	Parece que... Depois
+	que se usa um,é
+	ladeira abaixo...
 	"""
 	keyWait
 		any = false
@@ -896,17 +905,17 @@ script 21 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	The Eagle and Hawk
-	Tournaments are
-	finally over.
+	Os Torneios Águia e
+	Falcão finalmente
+	acabaram.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I heard an grade
-	school student won
-	one of them!
+	Ouvi dizer que um
+	menino do fundamen-
+	tal venceu um deles!
 	"""
 	keyWait
 		any = false
@@ -921,24 +930,25 @@ script 22 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Hey Saki! That
-	grade school
+	Fala,Saki!
+	Esse menino do
+	fundamental
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	student just happens
-	to be Lan! He's the
-	best in ACDC Town⋯
+	é Lan Hikari! O
+	melhor NetLutador de
+	ACDC... e de Ni-Hon!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and in Electopia!
-	And guess who's his
-	arch-rival? Me! Dex!
+	E adivinha só quem é
+	o arqui-rival dele?
+	Aham! Eu! Dex!
 	"""
 	keyWait
 		any = false
@@ -953,31 +963,33 @@ script 23 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Tee hee! The same
-	Dex who lost in the
-	Den Battle
+	Hi hi! O mesmo Dex
+	que perdeu na
+	Batalha Den!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Tournament! I
-	Shouldn't be talking
-	though,I lost in the
+	Mas eu também não
+	posso falar nada,já
+	que perdi no Torneio
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Eagle Tournament!
-	Still,Lan is truly
+	Águia!
+	Enfim,é,o Lan é
+	incrível mesmo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	amazing. He'll win
-	for sure!
+	Com certeza vai
+	levar todos os
+	troféus!
 	"""
 	keyWait
 		any = false
@@ -992,54 +1004,55 @@ script 24 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Heh heh heh! I found
-	the command to the
-	legendary VarSwrd!
+	He he he! Achei o
+	comando pra
+	lendária VarSwrd!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't go telling
-	anyone,and don't
-	write it on other
+	Não vão contar pra
+	ninguém,nem postem
+	nos outros fóruns!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	boards! All right,
-	here it is:
-	Hold A Button.
+	Tá,aqui vai:
+	Segurem o botão "A".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Down/Down-Right/
-	Right for LongSwrd.
+	Baixo/Inferior
+	Direito/Direita
+	pra LongSwrd.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Up/Right/Down for
-	WideSwrd.
+	Cima/Direita/Baixo
+	pra WideSwrd.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Left/Down/Right for
+	Esquerda/Baixo/
+	Direita pra
 	FtrSword.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll let you find
-	the last one by
-	yourselves!
+	O último,eu deixo
+	pra vocês mesmos
+	descobrirem!
 	"""
 	keyWait
 		any = false
@@ -1054,9 +1067,9 @@ script 25 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Does anyone know how
-	to beat that Spider
-	like viruses?
+	Alguém aí sabe como
+	se vence aqueles
+	vírus aranhas?
 	"""
 	keyWait
 		any = false
@@ -1071,22 +1084,23 @@ script 26 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	You must mean Misty.
-	He's a tough one,but
+	Ah,o Misty.
+	Ele é durão mesmo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	if you have the
-	Slasher chip,you'll
+	mas se você tiver o
+	chip Slasher,tá tudo
+	de boa na lagoa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	be fine. You can buy
-	it in Netopia Area!
+	Tem pra vender na
+	Área Ameropa!
 	"""
 	keyWait
 		any = false
@@ -1101,22 +1115,22 @@ script 27 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	I was fighting a
-	Network Duel the
-	other day,when I got
+	Eu tava num Duelo de
+	Rede outro dia
+	quando apareceu um
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	a chip my opponent
-	didn't have,on the
-	Results Screen. What
+	chip que meu oponen-
+	te não tinha na Tela
+	de Resultados.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"was that all about?"
+	"O que cargas d'água\naconteceu?"
 	keyWait
 		any = false
 	waitHold
@@ -1130,32 +1144,33 @@ script 28 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Yo! Koetsu in da
-	house! That's a
+	Fala! Koetsu na
+	área! Esse foi um
+	chip bônus!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	bonus chip! Bonus
-	chips are sometimes
-	awarded in Network
+	Chips bônus são,
+	às vezes,cedidos
+	em Duelos de Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Duels. If you fight
-	enough duels,you'll
-	fill up your Data
+	Se travar vários
+	duelos,isso vai
+	encher a sua Coleção
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Library! Only
-	Standard chips are
-	awarded though.
+	de Chips! Mas os
+	bônus são sempre só
+	Chips Padrão.
 	"""
 	keyWait
 		any = false

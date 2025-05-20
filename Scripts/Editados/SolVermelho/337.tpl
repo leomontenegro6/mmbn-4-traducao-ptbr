@@ -128,7 +128,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = ShadeMan
 	msgOpen
-	"Nhé-é-é-é!"
+	"Hye-he-he!"
 	keyWait
 		any = false
 	end
@@ -334,7 +334,7 @@ script 21 mmbn4 {
 		mugshot = NormalNaviYellow
 	"""
 	Bom,se mudar de
-	ideia,volta aqui
+	ideia,volte aqui
 	quando quiser!
 	"""
 	keyWait
@@ -527,15 +527,14 @@ script 26 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Por favor,leve um
-	"
+	Por favor,leve este
+	par de "
 	"""
 	printItem
 		buffer = 0
 		item = 1
 	"""
-	" para
-	você mesmo!
+	"!
 	"""
 	keyWait
 		any = false
@@ -556,8 +555,7 @@ script 26 mmbn4 {
 		buffer = 0
 		item = 1
 	"""
-	s no seu
-	PET...
+	 no seu PET...
 	"""
 	keyWait
 		any = false

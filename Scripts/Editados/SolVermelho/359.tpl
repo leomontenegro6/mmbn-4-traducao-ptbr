@@ -4,21 +4,21 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"WEAKNESS IS NOT"
+	"FRAQUEZA É\nINACEITÁVEL"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PERMITTED IN
-	ELECTOPIA'S NET-
-	BATTLE MACHINE!!
+	NA MÁQUINA DE 
+	NETLUTA DA AMEROPA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I AM SPRINTING TO
-	INCREASE STRENGTH!
+	ESTOU CORRENDO PARA
+	AUMENTAR MINHA
+	FORÇA!
 	"""
 	keyWait
 		any = false
@@ -29,16 +29,17 @@ script 11 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	RUN-RUN! RUN-RUN!
-	OUR HARD TRAINING
+	CORREEER! CORREEEER!
+	NOSSO TREINO PESADO
+	DEVERÁ SER ÚTIL PARA
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SHOULD HELP IMPROVE
-	THIS MACHINE'S
-	PERFORMANCE!!
+	MELHORAR O
+	DESEMPENHO
+	DESTA MÁQUINA!!
 	"""
 	keyWait
 		any = false
@@ -48,14 +49,14 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"HUFF⋯HUFF⋯HUFF⋯"
+	"UFF... UFF... UFF..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IS THIS REALLY DOING
-	ANYTHING FOR THE
-	MACHINE⋯?
+	ISTO TÁ MESMO
+	AJUDANDO A
+	MÁQUINA...?
 	"""
 	keyWait
 		any = false

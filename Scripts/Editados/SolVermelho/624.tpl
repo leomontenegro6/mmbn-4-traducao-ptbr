@@ -5,15 +5,15 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So this is our
-	opponent⋯
+	Então,esse é o
+	nosso oponente...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looks like a pretty
-	mean Navi.
+	Parece ser um Navi
+	bem mau.
 	"""
 	keyWait
 		any = false
@@ -25,9 +25,9 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Yeah⋯What kind of
-	attack do you think
-	it'll use?
+	É... Que tipo de
+	golpes você acha que
+	ele vai usar?
 	"""
 	keyWait
 		any = false
@@ -39,16 +39,16 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Looks pretty
-	shady to me.
+	Bom,ele parece bem
+	ardiloso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe a sneak
-	attack,or some kind
-	of surprise attack.
+	Talvez um ataque
+	surpresa de algum
+	tipo.
 	"""
 	keyWait
 		any = false
@@ -59,15 +59,15 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotHide
 	"""
-	I wouldn't do
-	something like that!
+	Eu não faria uma
+	coisa dessas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Real men always
-	fight fair!
+	Homens de verdade
+	sempre lutam limpo!
 	"""
 	keyWait
 		any = false
@@ -78,39 +78,38 @@ script 4 mmbn4 {
 		mugshot = Tetsu
 	msgOpen
 	"""
-	I'm your opponent,
-	Tetsu!
+	Eu sou Tetsu,
+	o seu oponente!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My Navi doesn't do
-	sneak attacks,or
-	surprise attacks!
+	O meu Navi não faz
+	ataques surpresas!
+	Nem pelas costas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He may look mean,
-	but he's got a heart
-	of gold!
+	Ele pode parecer
+	mau,mas tem um
+	coração de ouro!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm just looking
-	forward to seeing
-	your MegaMan fight!
+	Estou ansioso para
+	ver o seu MegaMan
+	lutar com ele!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So I'll see you
-	later!
+	Bom,até depois!
 	"""
 	keyWait
 		any = false
@@ -121,17 +120,17 @@ script 5 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It's the leader of
-	that gang! I thought
-	he was just a myth!
+	Era um líder de gan-
+	gue! Achava que isso
+	só tinha em mangá!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's pretty intense.
-	We'd better fight
-	real hard!
+	Bem intenso,ele.
+	A gente vai ter que
+	lutar com tudo!
 	"""
 	keyWait
 		any = false
@@ -142,13 +141,14 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"I'm on fire,Lan!"
+	"Eu tô mais que\npronto,Lan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's go outside and
-	walk around a bit.
+	Mas,por enquanto,
+	vamos dar uma volta
+	lá fora.
 	"""
 	keyWait
 		any = false
@@ -159,14 +159,14 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Sounds great!"
+	"Bora!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If I wait around
-	here much longer
-	it'll drive me nuts!
+	Se eu continuar
+	esperando aqui,
+	eu enlouqueço!
 	"""
 	keyWait
 		any = false

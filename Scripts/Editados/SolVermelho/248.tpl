@@ -106,7 +106,7 @@ script 12 mmbn4 {
 	"""
 	Sabia! Você é o
 	menino que venceu o
-	Torneio da Águia!
+	Torneio Águia!
 	"""
 	keyWait
 		any = false
@@ -167,8 +167,8 @@ script 20 mmbn4 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Vou pesquisar na
-	Rede notícias sobre
+	Vou pesquisar nas
+	Net-Notícias sobre
 	o Sol Vermelho!
 	"""
 	keyWait
@@ -219,7 +219,7 @@ script 22 mmbn4 {
 	"""
 	Acabei de te ver na
 	TV. O "campeão de
-	Nihon"!
+	Ni-Hon"!
 	"""
 	keyWait
 		any = false
@@ -234,8 +234,8 @@ script 23 mmbn4 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Vou pesquisar na
-	Rede notícias sobre
+	Vou pesquisar nas
+	Net-Notícias sobre
 	a Lua Azul!
 	"""
 	keyWait
@@ -278,7 +278,7 @@ script 31 mmbn4 {
 	msgOpen
 	"""
 	Então você é o cam-
-	peão de Ni-hon? Como
+	peão de Ni-Hon? Como
 	nosso representante,
 	"""
 	keyWait
@@ -415,7 +415,7 @@ script 46 mmbn4 {
 	msgOpen
 	"""
 	Oi,Lan! Parabéns por
-	vencer o Torneio do
+	vencer o Torneio
 	Sol Vermelho!
 	"""
 	keyWait
@@ -845,7 +845,7 @@ script 220 mmbn4 {
 	msgOpen
 	"""
 	Posso fornecer um
-	dos meus SubChips...
+	ou dois SubChips...
 	"""
 	keyWait
 		any = false

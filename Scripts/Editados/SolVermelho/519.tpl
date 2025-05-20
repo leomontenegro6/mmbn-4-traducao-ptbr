@@ -10,17 +10,17 @@ script 0 mmbn4 {
 	color
 		palette = 1
 	"""
-	One week has passed
-	since the dramatic
-	Eagle Tournament⋯
+	Uma semana se passou
+	desde o dramático
+	Torneio Águia...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NAXA's plan to save
-	the planet is about
-	to be implemented.
+	O plano da NAXA para
+	salvar o mundo
+	estava em andamento.
 	"""
 	keyWait
 		any = false
@@ -31,8 +31,8 @@ script 1 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Is everyone ready
-	to proceed⋯
+	Estão todos
+	prontos...?
 	"""
 	keyWait
 		any = false
@@ -45,7 +45,7 @@ script 2 mmbn4 {
 		mugshot = SciLabMan
 	mugshotAnimation
 		animation = 1
-	"⋯Gulp."
+	"... Glup."
 	keyWait
 		any = false
 	clearMsg
@@ -58,8 +58,9 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	Our future rests on
-	one beam of light.
+	O nosso futuro
+	depende desse único
+	feixe de luz.
 	"""
 	keyWait
 		any = false
@@ -71,8 +72,8 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	Enough of your
-	dreamer's babble!
+	Para com esse
+	lero-lero poético!
 	"""
 	keyWait
 		any = false
@@ -83,14 +84,14 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
-	"⋯Yes,be quiet."
+	"... Sim,silêncio."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This Laser Gun can
-	only shoot one
-	laser beam⋯
+	Este Canhão Laser
+	só pode disparar
+	um raio laser...
 	"""
 	keyWait
 		any = false
@@ -101,8 +102,8 @@ script 6 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Only one?
-	W-Why⋯
+	Só um?
+	P-por quê...?
 	"""
 	keyWait
 		any = false
@@ -114,15 +115,15 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	The power generated
-	by firing the laser
+	A energia gerada ao
+	disparar o laser
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	is more than the gun
-	can take.
+	é mais do que o
+	canhão aguenta.
 	"""
 	keyWait
 		any = false
@@ -133,8 +134,8 @@ script 8 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	So⋯
-	If we miss⋯
+	Então...
+	se errarmos...
 	"""
 	keyWait
 		any = false
@@ -145,14 +146,14 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
-	"Then we're finished⋯"
+	"Será o nosso fim..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	However,we've worked
-	hard to ensure that
-	we will not miss.
+	Mas nós trabalhamos
+	duro para garantir
+	que o raio acerte.
 	"""
 	keyWait
 		any = false
@@ -163,15 +164,17 @@ script 10 mmbn4 {
 		mugshot = Regal
 	msgOpen
 	"""
-	She's right⋯We did
-	all that we could.
+	Ela está certa...
+	Fizemos tudo ao
+	nosso alcance.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's just hope that
-	our luck holds out.
+	Só podemos rezar
+	para que a sorte
+	sorria para nós.
 	"""
 	keyWait
 		any = false
@@ -182,8 +185,8 @@ script 11 mmbn4 {
 		mugshot = Regal
 	msgOpen
 	"""
-	If you would,
-	Dr.Hikari,the laser⋯
+	Por favor,
+	Dr.Hikari,o laser...
 	"""
 	keyWait
 		any = false
@@ -197,13 +200,14 @@ script 12 mmbn4 {
 		jumpIfBlueMoon = 34
 	mugshotShow
 		mugshot = Dad
-	"Yes,let's do it."
+	"Certo,vamos lá."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Red Sun Laser Gun⋯
-	ON!
+	Canhão Laser
+	Sol Vermelho...
+	LIGADO!
 	"""
 	keyWait
 		any = false
@@ -213,7 +217,7 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"Power transfer⋯ON!"
+	"Transferência de\nenergia... LIGADA!"
 	keyWait
 		any = false
 	end
@@ -222,7 +226,7 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"Power at 80%!"
+	"Energia em 80%!"
 	keyWait
 		any = false
 	clearMsg
@@ -261,7 +265,8 @@ script 15 mmbn4 {
 	msgOpen
 	"""
 	D-Dr.Hikari!
-	Shouldn't you fire⋯
+	Não já é hora de
+	disparar...?
 	"""
 	keyWait
 		any = false
@@ -272,14 +277,14 @@ script 15 mmbn4 {
 script 16 mmbn4 {
 	mugshotShow
 		mugshot = Dad
-	"Not yet!"
+	"Ainda não!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The power level must
-	be 200% to shift the
-	asteroid's course.
+	É necessário 200% da
+	energia para redire-
+	cionar o asteroide.
 	"""
 	keyWait
 		any = false
@@ -340,7 +345,7 @@ script 18 mmbn4 {
 }
 script 19 mmbn4 {
 	mugshotHide
-	"Heh heh heh⋯"
+	"He he he..."
 	keyWait
 		any = false
 	end
@@ -349,7 +354,7 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"Y-Yes,we⋯"
+	"I-isso,nós..."
 	keyWait
 		any = false
 	clearMsg
@@ -359,7 +364,7 @@ script 20 mmbn4 {
 script 21 mmbn4 {
 	mugshotShow
 		mugshot = Dad
-	"⋯Uh!!"
+	"... Ugh!!"
 	keyWait
 		any = false
 	clearMsg
@@ -370,7 +375,7 @@ script 22 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	What's wrong⋯
+	Q-qual o problema,
 	Dr.Hikari?!
 	"""
 	keyWait
@@ -382,8 +387,8 @@ script 23 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	⋯Our plan
-	⋯has failed!
+	... O nosso plano...
+	... falhou!
 	"""
 	keyWait
 		any = false
@@ -393,14 +398,14 @@ script 24 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"You're joking?!"
+	"Não pode estar\nfalando sério!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The laser was fired
-	when the power level
-	was at 200%.
+	O laser foi dispara-
+	do com 200% de
+	energia!
 	"""
 	keyWait
 		any = false
@@ -412,29 +417,29 @@ script 25 mmbn4 {
 	mugshotShow
 		mugshot = Dad
 	"""
-	As the instant the
-	laser was fired,
+	No instante em que
+	ele foi disparado,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	something reduced
-	the power to just
-	120%⋯
+	alguma coisa fez a
+	energia cair para
+	só 120%...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Even a direct hit on
-	the asteroid would
-	have no effect⋯
+	Com essa energia,
+	não surtiria efeito
+	no asteroide...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What will we do!!"
+	"O que fazemos\nagora?!"
 	keyWait
 		any = false
 	clearMsg
@@ -446,8 +451,8 @@ script 26 mmbn4 {
 		mugshot = Regal
 	"""
 	......
-	Who would do such a
-	thing?
+	Quem faria uma coisa
+	dessas?
 	"""
 	keyWait
 		any = false
@@ -459,39 +464,40 @@ script 27 mmbn4 {
 	mugshotShow
 		mugshot = Dad
 	"""
-	I suspect it may be
-	a malicious Navi⋯
+	Suspeito que tenha
+	sido um Navi mal
+	intencionado...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But it must be very
-	powerful to operate
-	in the LaserComp⋯
+	Mas,para operar o
+	CPULaser,deve ser
+	um muito forte...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please check all of
-	the devices in this
-	facility right away.
+	Confiram todas as
+	máquinas daqui
+	imediatamente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll consider what
-	to do about the
-	asteroid.
+	Vou pensar no que
+	fazer sobre o
+	asteroide.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We have very little
-	time left.
+	Temos pouquíssimo
+	tempo restante.
 	"""
 	keyWait
 		any = false
@@ -502,15 +508,16 @@ script 28 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	I can't believe Dr.
-	Hikari failed⋯
+	Não acredito que o
+	Dr. Hikari falhou...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What will happen to
-	the planet⋯to us⋯
+	O que vai ser do
+	planeta...
+	De nós...?
 	"""
 	keyWait
 		any = false
@@ -521,7 +528,7 @@ script 28 mmbn4 {
 script 29 mmbn4 {
 	mugshotShow
 		mugshot = Regal
-	"I have a plan."
+	"Eu tenho um plano."
 	keyWait
 		any = false
 	end
@@ -531,8 +538,8 @@ script 30 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	R-Really? Dr.Regal,
-	a plan?!
+	É-é mesmo?
+	Um plano,Dr.Regal?!
 	"""
 	keyWait
 		any = false
@@ -544,8 +551,9 @@ script 31 mmbn4 {
 	mugshotShow
 		mugshot = Regal
 	"""
-	I'll need an expert
-	operator and Navi.
+	Precisarei de um
+	operador experiente
+	e de um Navi.
 	"""
 	keyWait
 		any = false
@@ -557,8 +565,8 @@ script 32 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
 	"""
-	⋯I understand.
-	Leave it to me.
+	... Entendo.
+	Pode deixar comigo.
 	"""
 	keyWait
 		any = false
@@ -571,17 +579,17 @@ script 33 mmbn4 {
 	color
 		palette = 1
 	"""
-	One week has passed
-	since the dramatic
-	Hawk Tournament⋯
+	Uma semana se passou
+	desde o dramático
+	Torneio Falcão...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NAXA's plan to save
-	the planet is about
-	to be implemented.
+	O plano da NAXA para
+	salvar o mundo
+	estava em andamento.
 	"""
 	keyWait
 		any = false
@@ -590,13 +598,14 @@ script 33 mmbn4 {
 script 34 mmbn4 {
 	mugshotShow
 		mugshot = Dad
-	"Yes,let's do it."
+	"Certo,vamos lá."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Blue Moon Laser Gun⋯
-	ON!
+	Canhão Laser
+	Lua Azul...
+	LIGADO!
 	"""
 	keyWait
 		any = false

@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = AquaMan
 	msgOpen
-	"*woosh woosh woosh*"
+	"Xuá,xuá,xuá..."
 	keyWait
 		any = false
 	clearMsg
@@ -23,7 +23,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = AquaMan
 	msgOpen
-	"Who's that? *woosh*"
+	"Quem tá aí? Xuá!"
 	keyWait
 		any = false
 	clearMsg
@@ -34,17 +34,16 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I'm MegaMan.
-	I've been looking
-	for you.
+	Eu sou o MegaMan.
+	Tava te procurando.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Everyone's worried
-	about you. Why don't
-	you come back home?
+	Tá todo mundo preo-
+	cupado com você.
+	Por que não volta?
 	"""
 	keyWait
 		any = false
@@ -56,16 +55,17 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = AquaMan
 	"""
-	Everyone's worried?
-	*woosh*
+	Todo mundo tá
+	preocupado?
+	Xuá...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Liar! *woosh* After
-	the tourney,they're
-	gonna throw me away!
+	Mentira! Xuá! Depois
+	do torneio,eles vão
+	me jogar fora!
 	"""
 	keyWait
 		any = false
@@ -76,7 +76,7 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"You're mistaken!"
+	"Você entendeu\nerrado!"
 	keyWait
 		any = false
 	clearMsg
@@ -87,23 +87,23 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = AquaMan
 	"""
-	I don't wanna hear
-	it! *woosh woosh*
+	Não quero ouvir!
+	Xuá,xuá!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm *woosh* too
-	noisy! I'm an
-	unwanted Navi!
+	Eu sou barulhento
+	demais,xuá! Sou
+	um Navi indesejado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Leave me alone!
-	*woosh woosh woosh*
+	Me deixa em paz!
+	Xuá,xuá,xuá...
 	"""
 	keyWait
 		any = false
@@ -127,9 +127,9 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	What a stubborn
-	Navi! Let's chase
-	him,MegaMan!
+	Mas que Navi
+	teimoso! Vamos atrás
+	dele,MegaMan!
 	"""
 	keyWait
 		any = false
@@ -140,7 +140,7 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Okay!"
+	"É!"
 	keyWait
 		any = false
 	end

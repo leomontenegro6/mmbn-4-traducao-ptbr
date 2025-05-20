@@ -3,17 +3,17 @@
 script 0 mmbn4 {
 	msgOpen
 	"""
-	I wonder what people
-	of old thought and
-	did here⋯?
+	O que será que os
+	povos da antiguidade
+	faziam aqui...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looking at the ruins
-	conjures up all
-	kinds of ideas.
+	Olhar para as ruínas
+	faz você criar todo
+	o tipo de teoria.
 	"""
 	keyWait
 		any = false
@@ -24,17 +24,17 @@ script 0 mmbn4 {
 		jumpIfOutOfRange = 5
 	clearMsg
 	"""
-	Some letters are
-	carved in a stone
-	pillar.
+	Tem alguma coisa
+	rabiscada em um dos
+	pilares de pedra.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Probably done by
-	some thoughtless
-	visitor⋯
+	Provavelmente
+	obra de algum
+	farofeiro...
 	"""
 	keyWait
 		any = false
@@ -50,16 +50,16 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	msgOpen
 	"""
-	Something's shining
-	in the water. People
-	throw coins in here.
+	Tem algo brilhnando
+	na água. As pessoas
+	jogam moedas aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looks like some kind
-	of spell.
+	Marece ser algum
+	tipo de superstição.
 	"""
 	keyWait
 		any = false
@@ -68,17 +68,17 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	msgOpen
 	"""
-	The ruins of a post.
-	Perhaps it separated
-	the 2 fountains⋯
+	Pilares em ruínas.
+	Talvez separassem
+	as duas fontes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe the fountains
-	on either side were
-	part of a bath⋯?
+	Será que as fontes
+	opostas eram parte
+	de um banho público?
 	"""
 	keyWait
 		any = false
@@ -87,16 +87,16 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	msgOpen
 	"""
-	There are so many
-	coins. You couldn't
-	even count them⋯
+	São tantas moedas.
+	Nem dá para contar
+	todas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder what the
-	story is here.
+	Qual será a história
+	por trás disto?
 	"""
 	keyWait
 		any = false
@@ -105,40 +105,40 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	msgOpen
 	"""
-	This stone statue
-	looks like it could
-	move any time.
+	Essa estátua de
+	pedra parece até
+	prestes a se mover.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's modeled on
-	the old heroes of
-	the Colosseum.
+	Ela retrata um herói
+	ancestral do
+	Coliseu.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The brilliant
-	artwork really
-	transfixes you.
+	Essa criação bri-
+	lhante realmente
+	prende sua atenção.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But wait! It's made
-	so you can jack in
-	to it.
+	Mas... Espere!
+	É possível se
+	conectar nela.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It must've been made
-	recently,then.
+	Deve ter sido criada
+	recentemente,então.
 	"""
 	keyWait
 		any = false

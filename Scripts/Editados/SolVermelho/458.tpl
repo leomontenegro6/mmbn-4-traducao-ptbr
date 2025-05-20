@@ -20,14 +20,14 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,daqui,tudo
-	parece bem.
+	Mas comigo,tá tudo
+	normal até agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Tá,a Torre é bem
+	Tá,a Torre tá bem
 	ali.
 	"""
 	keyWait
@@ -96,7 +96,7 @@ script 5 mmbn4 {
 	soundDisableTextSFX
 	soundPlay
 		track = 132
-	"Uungh... Aauuugh..."
+	"Uôôôn... Uííín..."
 	wait
 		frames = 100
 	soundEnableTextSFX
@@ -163,8 +163,8 @@ script 9 mmbn4 {
 	clearMsg
 	"""
 	Era isso. Ele tava
-	enlouquecendo as
-	minhas ondas,também!
+	mexendo nas minhas
+	ondas,também!
 	"""
 	keyWait
 		any = false

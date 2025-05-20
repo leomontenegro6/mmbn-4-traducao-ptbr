@@ -20,8 +20,8 @@ script 0 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	O Programa que tava
-	aqui saiu de férias!
+	O Prog que tava aqui
+	saiu de férias!
 	"""
 	keyWait
 		any = false
@@ -65,7 +65,7 @@ script 5 mmbn4 {
 	clearMsg
 	"""
 	É a área que fica lá
-	nos confis da
+	no finalzinho da
 	Área Vila3.
 	"""
 	keyWait
@@ -85,9 +85,9 @@ script 10 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	O Cielo Castillo?
+	O Castillo?
 	Queria tanto ir...
-	Se fosse humana...
+	Se fosse humano...
 	"""
 	keyWait
 		any = false
@@ -150,7 +150,7 @@ script 41 mmbn4 {
 	"""
 	Mal posso esperar
 	pra ver quem vai ser
-	lutador número 1!
+	o lutador número 1!
 	"""
 	keyWait
 		any = false
@@ -452,7 +452,7 @@ script 240 mmbn4 {
 	msgOpen
 	"""
 	Ei! Não pode entrar
-	aí desse jeito...!
+	aqui desse jeito...!
 	"""
 	keyWait
 		any = false

@@ -14,62 +14,62 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	msgOpen
-	"You're an outsider?"
+	"Você é um\nforasteiro?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I am the protector
-	of NetFrica's cyber-
-	world. I stand guard
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	here on the lookout
-	for intruders from
-	the Net.
+	Sou o protetor do
+	espaço cibernético
+	da Affriq. Eu fico
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can go through
-	that portal,but you
+	de guarda aqui,de
+	olho em intrusos da
+	Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	will need my
+	Você pode passar
+	pelo portal,mas vai
+	precisar do meu
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 149
 	"""
-	"!
-	proceed farther. If
+	" para
+	seguir!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you want my
+	Se quiser o meu
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 149
 	"""
-	",you must
-	pass a test.
+	",terá de
+	passar em uma prova.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Are you prepared?"
+	"Está pronto?"
 	keyWait
 		any = false
 	clearMsg
@@ -109,9 +109,9 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	"""
-	So you're just a
-	tourist? Return then
-	to the real world.
+	Então,é só um turis-
+	ta mesmo? Pois volte
+	pro mundo real.
 	"""
 	keyWait
 		any = false
@@ -123,18 +123,17 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	msgOpen
-	"Let the test begin⋯"
+	"Que comece a\nprovação..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The test is simple.
-	If you survive,you
+	A prova é simples.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"pass!"
+	"Se você sobreviver,\nvocê passa!"
 	keyWait
 		any = false
 	flagSet
@@ -146,8 +145,8 @@ script 2 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	So,you'll take the
-	test after all?
+	Então,vai encarar
+	a provação?
 	"""
 	keyWait
 		any = false
@@ -188,8 +187,8 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	"""
-	Cowards are not
-	worthy of the test.
+	Covardes não são
+	dignos da provação.
 	"""
 	keyWait
 		any = false
@@ -200,23 +199,25 @@ script 3 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	You survived. You
-	have great skill.
+	Você sobreviveu.
+	Demonstrou fortes
+	habilidades.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	However,without an
-	equally great soul
-	you are yet not
+	Contudo,sem uma
+	alma igualmente
+	forte,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	worthy. Look into my
-	eyes⋯
+	continuará indigno.
+	Olhe nos meus
+	olhos...
 	"""
 	keyWait
 		any = false
@@ -231,15 +232,15 @@ script 3 mmbn4 {
 	waitSkip
 		frames = 30
 	"""
-	 Hrumph!
-	You are sincere.
+	 Hrumpf!
+	Você é sincero.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Of this I am sure.
-	Take this.
+	Disso,eu tenho
+	certeza. Tome.
 	"""
 	keyWait
 		any = false
@@ -266,8 +267,8 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	"""
-	Use your strength
-	wisely⋯
+	Use sua força
+	sabiamente...
 	"""
 	keyWait
 		any = false
@@ -278,8 +279,8 @@ script 4 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Hrumph! No intruders
-	in sight!
+	Hrumpf! Nenhum
+	intruso à vista!
 	"""
 	keyWait
 		any = false
@@ -290,32 +291,32 @@ script 10 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	ALL LIFE IS BORN
-	FROM NATURE AND
-	RETURNS TO NATURE⋯
+	TODA A VIDA NASCE
+	DA NATUREZA E A
+	ELA RETORNA...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BOTH "LIFE" AND
-	"DEATH" INVOLVE 
+	"VIDA" E "MORTE".
+	AMBOS ENVOLVEM
+	DEVOLVER À NATUREZA
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	RETURNING TO NATURE
-	ONLY THAT WHICH HAS
-	BEEN GIVEN.
+	SOMENTE AQUILO QUE
+	ELA OFERECEU.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NUPOPO REPRESENTS
-	THIS LINK BETWEEN
-	LIFE AND NATURE.
+	NUPOPO REPRESENTA
+	ESSE ELO ENTRE
+	VIDA E NATUREZA.
 	"""
 	keyWait
 		any = false

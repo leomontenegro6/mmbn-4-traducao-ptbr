@@ -5,15 +5,16 @@ script 0 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	BEYOND HERE IS THE
-	UNDERNET⋯
+	ALÉM DAQUI FICA A
+	UNDERNET...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I THINK THAT YOU
-	HAD BEST TURN BACK⋯
+	NA MINHA OPINIÃO,
+	VOCÊ DEVIA DAR
+	MEIA-VOLTA AQUI...
 	"""
 	keyWait
 		any = false
@@ -30,25 +31,24 @@ script 1 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Not bad,kid,making
-	it all the way out
-	here⋯
+	Nada mal,garoto,
+	chegando até aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I haven't talked
-	to anyone in 3
-	years⋯
+	Já faz três anos
+	que eu não falo
+	com ninguém...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm in a good mood,
-	so I guess I'll give
-	you this⋯
+	Eu tô de bom humor,
+	então,vou te dar
+	isto aqui...
 	"""
 	keyWait
 		any = false
@@ -81,24 +81,25 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	"""
-	I found that deep
-	in the Undernet,
+	Achei isso nas
+	profundezas da
+	Undernet,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but it's not the
-	kind of chip that
-	people like me use⋯
+	mas não é o tipo de
+	chip que gente da
+	minha laia usa...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder why a chip
-	like that would be
-	in the Undernet⋯?
+	Por que será que um
+	chip desses estava
+	na Undernet?
 	"""
 	keyWait
 		any = false
@@ -109,17 +110,17 @@ script 2 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	If you're heading
-	to the Undernet,
-	you'd better take
+	Se estiver indo pra
+	Undernet,melhor
+	levar um monte de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	lots of healing
-	SubChips⋯You'll be
-	sorry if you don't⋯
+	SubChips de cura...
+	Senão,vai se
+	arrepender...
 	"""
 	keyWait
 		any = false
@@ -129,13 +130,13 @@ script 120 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	msgOpen
-	"Life is training!"
+	"Treinar é vida!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Keep your calm,no
-	matter what happens!
+	Mantenha a calma,
+	haja o que houver!
 	"""
 	keyWait
 		any = false

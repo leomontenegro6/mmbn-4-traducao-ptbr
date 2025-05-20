@@ -4,8 +4,7 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	Um vírus saiu do
-	cyber-boneco de
-	neve!
+	CyberBonecoDeNeve!
 	"""
 	keyWait
 		any = false
@@ -17,8 +16,7 @@ script 1 mmbn4 {
 	msgOpen
 	"""
 	Um vírus saiu do
-	cyber-boneco de
-	neve!
+	CyberBonecoDeNeve!
 	"""
 	keyWait
 		any = false
@@ -30,8 +28,7 @@ script 2 mmbn4 {
 	msgOpen
 	"""
 	Um vírus saiu do
-	cyber-boneco de
-	neve!
+	CyberBonecoDeNeve!
 	"""
 	keyWait
 		any = false
@@ -43,8 +40,7 @@ script 3 mmbn4 {
 	msgOpen
 	"""
 	Um vírus saiu do
-	cyber-boneco de
-	neve!
+	CyberBonecoDeNeve!
 	"""
 	keyWait
 		any = false
@@ -56,8 +52,7 @@ script 4 mmbn4 {
 	msgOpen
 	"""
 	Um vírus saiu do
-	cyber-boneco de
-	neve!
+	CyberBonecoDeNeve!
 	"""
 	keyWait
 		any = false
@@ -68,9 +63,8 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	msgOpen
 	"""
-	O cyber-boneco de
-	neve se desfez
-	todo!
+	O CyberBonecoDeNeve
+	se desfez todo!
 	"""
 	keyWait
 		any = false

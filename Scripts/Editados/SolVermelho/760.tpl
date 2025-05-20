@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You must be ColdMan."
+	"Você deve ser o\nColdMan."
 	keyWait
 		any = false
 	clearMsg
@@ -15,8 +15,8 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = ColdMan
 	"""
-	Whoosh⋯
-	Who're you?
+	Xuou...
+	Quem é você?
 	"""
 	keyWait
 		any = false
@@ -28,8 +28,9 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I'm MegaMan,you're
-	tournament opponent!
+	Eu sou o MegaMan,
+	seu oponente no
+	torneio!
 	"""
 	keyWait
 		any = false
@@ -41,9 +42,9 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = ColdMan
 	"""
-	So? What business
-	do you have with
-	me,whoosh?
+	E? O que você
+	tem para tratar
+	comigo,xuou?
 	"""
 	keyWait
 		any = false
@@ -55,16 +56,16 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	You're causing all
-	sorts of trouble by
-	chilling the Net.
+	Você tá sendo bem
+	inconveniente,
+	congelando a Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So would you mind
-	stopping it now?
+	Então,daria para
+	você parar com isso?
 	"""
 	keyWait
 		any = false
@@ -75,14 +76,14 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = ColdMan
-	"Whoosh⋯I see⋯"
+	"Xuou... Entendo..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So you want me to
-	stop chilling the
-	Net,do ya?
+	Então,você quer que
+	eu pare de esfriar a
+	Rede,é?
 	"""
 	keyWait
 		any = false
@@ -93,7 +94,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Um,yes⋯"
+	"Er,é..."
 	keyWait
 		any = false
 	clearMsg
@@ -103,22 +104,21 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = ColdMan
-	"Whoosh⋯"
+	"Xuou..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Alright⋯
-	Then I will do
-	as you ask.
+	Tudo bem...
+	Farei o que pediu.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You mind,
+	Você se incomoda,
 	Chillski?
-	Whoosh!
+	Xuou!
 	"""
 	keyWait
 		any = false
@@ -129,22 +129,22 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = Chillski
-	"I do not mind!"
+	"Não me incomodo!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I tire of dis
-	artificial cold.
-	However!!
+	Já me cansei deste
+	frio artificial.
+	Entretanto!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now I go back to
-	Sharo and return wis
-	natural cold!!
+	Agora,eu voltarei a
+	Sharo e trarei o
+	frio natural de lá!
 	"""
 	keyWait
 		any = false
@@ -156,8 +156,8 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = ColdMan
 	"""
-	⋯Whoosh whoosh!
-	Yay! Natural cold!
+	... Xuou,xuou!
+	Viva! Frio natural!
 	"""
 	keyWait
 		any = false
@@ -173,13 +173,13 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Hurry up and stop
-	the cold already!
+	Rápido,acaba logo
+	com esse frio!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm f-f-freezing!"
+	"Eu tô c-congelando!"
 	keyWait
 		any = false
 	clearMsg
@@ -199,13 +199,13 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	mugshotShow
 		mugshot = ColdMan
-	"Whoosh!"
+	"Xuou!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know.
-	Hold yer horses!
+	Eu sei.
+	Paciência,rapaz!
 	"""
 	keyWait
 		any = false
@@ -215,7 +215,7 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = ColdMan
 	msgOpen
-	"Be gone,snowmen!!"
+	"Bonecos de neve,\nsumam!!"
 	keyWait
 		any = false
 	end
@@ -224,18 +224,19 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = ColdMan
 	msgOpen
-	"Whoooooosh!!"
+	"Xuooooou!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The temp. will re-
-	turn to normal soon.
+	A temperatura
+	voltará ao normal
+	logo.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"See ya at the match."
+	"Nos vemos na luta."
 	keyWait
 		any = false
 	end
@@ -245,8 +246,8 @@ script 15 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	That seemed a little
-	too easy.
+	Isso pareceu meio
+	fácil demais,né?
 	"""
 	keyWait
 		any = false
@@ -257,13 +258,13 @@ script 15 mmbn4 {
 script 16 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Yeah,it did."
+	"Pareceu mesmo."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Phew,it's warmed up
-	quite a bit.
+	Ufa. Mas,pelo menos,
+	esquentou um pouco.
 	"""
 	keyWait
 		any = false
@@ -275,9 +276,9 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	So what was all that
-	about "natural cold"
-	anyway?
+	Que papo todo foi
+	aquele de "frio
+	natural",afinal?
 	"""
 	keyWait
 		any = false
@@ -289,8 +290,8 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Probably nothing
-	to worry about.
+	Não deve ser nada
+	preocupante.
 	"""
 	keyWait
 		any = false
@@ -301,7 +302,7 @@ script 18 mmbn4 {
 script 19 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"I'm not so sure⋯"
+	"Não sei não,hein..."
 	keyWait
 		any = false
 	clearMsg
@@ -311,7 +312,7 @@ script 19 mmbn4 {
 script 20 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Relax!"
+	"Relaxa!"
 	keyWait
 		any = false
 	end

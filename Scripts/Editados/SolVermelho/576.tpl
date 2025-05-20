@@ -5,8 +5,9 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Looks like this
-	igniter stopped!!
+	Parece que este
+	dispositivo foi
+	desligado!!
 	"""
 	keyWait
 		any = false

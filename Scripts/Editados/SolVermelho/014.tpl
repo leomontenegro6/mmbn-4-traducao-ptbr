@@ -49,11 +49,11 @@ script 18 mmbn4s {
 	end
 }
 script 19 mmbn4s {
-	"________Beco■"
+	"____Corredor■"
 	end
 }
 script 20 mmbn4s {
-	"___SalãoDomo■"
+	"__Salão Domo■"
 	end
 }
 script 21 mmbn4s {
@@ -68,7 +68,7 @@ script 24 mmbn4s {
 	end
 }
 script 25 mmbn4s {
-	"_CentroPlaza■"
+	"_PraçaCentrl■"
 	end
 }
 script 26 mmbn4s {
@@ -76,11 +76,11 @@ script 26 mmbn4s {
 	end
 }
 script 27 mmbn4s {
-	"__AirStadium■"
+	"EstádioSuspn■"
 	end
 }
 script 28 mmbn4s {
-	"____MelPlaza■"
+	"PraçaMarchen■"
 	end
 }
 script 29 mmbn4s {
@@ -104,7 +104,7 @@ script 39 mmbn4s {
 	end
 }
 script 40 mmbn4s {
-	"____Coliseu■"
+	"_____Coliseu■"
 	end
 }
 script 41 mmbn4s {
@@ -144,27 +144,27 @@ script 53 mmbn4s {
 	end
 }
 script 55 mmbn4s {
-	"Tr.Elet.CPU1■"
+	"CPUEletTorr1■"
 	end
 }
 script 56 mmbn4s {
-	"Tr.Elet.CPU2■"
+	"CPUEletTorr2■"
 	end
 }
 script 58 mmbn4s {
-	"RbôBrinqCPU1■"
+	"CPURbôBrinq1■"
 	end
 }
 script 59 mmbn4s {
-	"RbôBrinqCPU2■"
+	"CPURbôBrinq2■"
 	end
 }
 script 60 mmbn4s {
-	"RbôBrinqCPU3■"
+	"CPURbôBrinq3■"
 	end
 }
 script 61 mmbn4s {
-	"RbôBrinqCPU4■"
+	"CPURbôBrinq4■"
 	end
 }
 script 65 mmbn4s {
@@ -220,7 +220,7 @@ script 82 mmbn4s {
 	end
 }
 script 83 mmbn4s {
-	"CPUMicroonds■"
+	"___CPU Fogão■"
 	end
 }
 script 84 mmbn4s {
@@ -232,223 +232,223 @@ script 85 mmbn4s {
 	end
 }
 script 86 mmbn4s {
-	"_DomoNBMCPU■"
+	"_CPU DomoMNL■"
 	end
 }
 script 87 mmbn4s {
-	"CyberTopComp■"
+	"CPUCyberPião■"
 	end
 }
 script 88 mmbn4s {
-	"____LCD Comp■"
+	"___CPU Telão■"
 	end
 }
 script 89 mmbn4s {
-	"_CastNBMComp■"
+	"CPU MNLCastl■"
 	end
 }
 script 90 mmbn4s {
-	"__StatueComp■"
+	"_CPU Estátua■"
 	end
 }
 script 91 mmbn4s {
-	"__NupopoComp■"
+	"__CPU Nupopo■"
 	end
 }
 script 92 mmbn4s {
-	"ComputerComp■"
+	"CPUCmputador■"
 	end
 }
 script 93 mmbn4s {
-	"_____ToyComp■"
+	"_CPU Pelúcia■"
 	end
 }
 script 94 mmbn4s {
-	"_ColoNBMComp■"
+	"CPUMNLColise■"
 	end
 }
 script 95 mmbn4s {
-	"____LionComp■"
+	"____CPU Leão■"
 	end
 }
 script 96 mmbn4s {
-	"_DogHousComp■"
+	"CPUCasaCachr■"
 	end
 }
 script 97 mmbn4s {
-	"____GameComp■"
+	"CPUVideoGame■"
 	end
 }
 script 98 mmbn4s {
-	"_VendMchComp■"
+	"CPU MáqVenda■"
 	end
 }
 script 100 mmbn4s {
-	"____CardComp■"
+	"__CPU Cartão■"
 	end
 }
 script 101 mmbn4s {
-	"___WaterComp■"
+	"____CPU Água■"
 	end
 }
 script 102 mmbn4s {
-	"_Ticket Comp■"
+	"_CPU Tíquete■"
 	end
 }
 script 103 mmbn4s {
-	"___StandComp■"
+	"_CPU Barraca■"
 	end
 }
 script 104 mmbn4s {
-	"____AntComp1■"
+	"_CPU Antena1■"
 	end
 }
 script 105 mmbn4s {
-	"____AntComp2■"
+	"_CPU Antena2■"
 	end
 }
 script 106 mmbn4s {
-	"____AntComp3■"
+	"_CPU Antena3■"
 	end
 }
 script 107 mmbn4s {
-	"____AntComp4■"
+	"_CPU Antena4■"
 	end
 }
 script 108 mmbn4s {
-	"__BuddhaComp■"
+	"____CPU Buda■"
 	end
 }
 script 109 mmbn4s {
-	"_GoddessComp■"
+	"___CPU Deusa■"
 	end
 }
 script 110 mmbn4s {
-	"____HeroComp■"
+	"___CPU Herói■"
 	end
 }
 script 111 mmbn4s {
-	"____CookComp■"
+	"_CPU Cozinha■"
 	end
 }
 script 116 mmbn4s {
-	"_WtrGodComp1■"
+	"CPUDeusÁgua1■"
 	end
 }
 script 117 mmbn4s {
-	"_WtrGodComp2■"
+	"CPUDeusÁgua2■"
 	end
 }
 script 118 mmbn4s {
-	"_WtrGodComp3■"
+	"CPUDeusÁgua3■"
 	end
 }
 script 119 mmbn4s {
-	"_WtrGodComp4■"
+	"CPUDeusÁgua4■"
 	end
 }
 script 120 mmbn4s {
-	"_WtrGodComp5■"
+	"CPUDeusÁgua5■"
 	end
 }
 script 121 mmbn4s {
-	"_WtrGodComp6■"
+	"CPUDeusÁgua6■"
 	end
 }
 script 122 mmbn4s {
-	"_WtrGodComp7■"
+	"CPUDeusÁgua7■"
 	end
 }
 script 123 mmbn4s {
-	"_WtrGodComp8■"
+	"CPUDeusÁgua8■"
 	end
 }
 script 124 mmbn4s {
-	"_WtrGodComp9■"
+	"CPUDeusÁgua9■"
 	end
 }
 script 125 mmbn4s {
-	"WtrGodComp10■"
+	"CPUDesÁgua10■"
 	end
 }
 script 126 mmbn4s {
-	"WtrGodComp11■"
+	"CPUDesÁgua11■"
 	end
 }
 script 127 mmbn4s {
-	"WtrGodComp12■"
+	"CPUDesÁgua12■"
 	end
 }
 script 128 mmbn4s {
-	"WtrGodComp13■"
+	"CPUDesÁgua13■"
 	end
 }
 script 129 mmbn4s {
-	"WtrGodComp14■"
+	"CPUDesÁgua14■"
 	end
 }
 script 130 mmbn4s {
-	"WtrGodComp15■"
+	"CPUDesÁgua15■"
 	end
 }
 script 131 mmbn4s {
-	"WtrGodComp16■"
+	"CPUDesÁgua16■"
 	end
 }
 script 132 mmbn4s {
-	"__ACDC Area1■"
+	"__Área ACDC1■"
 	end
 }
 script 133 mmbn4s {
-	"__ACDC Area2■"
+	"__Área ACDC2■"
 	end
 }
 script 134 mmbn4s {
-	"__ACDC Area3■"
+	"__Área ACDC3■"
 	end
 }
 script 137 mmbn4s {
-	"__Town Area1■"
+	"__Área Vila1■"
 	end
 }
 script 138 mmbn4s {
-	"__Town Area2■"
+	"__Área Vila2■"
 	end
 }
 script 139 mmbn4s {
-	"__Town Area3■"
+	"__Área Vila3■"
 	end
 }
 script 140 mmbn4s {
-	"__Town Area4■"
+	"__Área Vila4■"
 	end
 }
 script 142 mmbn4s {
-	"__Park Area1■"
+	"Área Parque1■"
 	end
 }
 script 143 mmbn4s {
-	"__Park Area2■"
+	"Área Parque2■"
 	end
 }
 script 144 mmbn4s {
-	"__Park Area3■"
+	"Área Parque3■"
 	end
 }
 script 147 mmbn4s {
-	"YumLand Area■"
+	"Área Saborya■"
 	end
 }
 script 148 mmbn4s {
-	"Netopia Area■"
+	"Área Ameropa■"
 	end
 }
 script 149 mmbn4s {
-	"NetFricaArea■"
+	"_Área Affriq■"
 	end
 }
 script 150 mmbn4s {
-	"__Sharo Area■"
+	"__Área Sharo■"
 	end
 }
 script 152 mmbn4s {
@@ -476,11 +476,11 @@ script 157 mmbn4s {
 	end
 }
 script 158 mmbn4s {
-	"_BlackEarth1■"
+	"_TerraVazia1■"
 	end
 }
 script 159 mmbn4s {
-	"_BlackEarth2■"
+	"_TerraVazia2■"
 	end
 }
 script 240 mmbn4s {

@@ -13,16 +13,16 @@ script 0 mmbn4 {
 		mugshot = Maid
 	msgOpen
 	"""
-	Thanks to the Eagle
-	Tournament we sold
-	a lot of chips,and
+	Graças ao Torneio
+	Águia,vendemos um
+	monte de chips,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Higsby raised my
-	hourly wage!
+	e o Higbsy até me
+	deu um aumento!
 	"""
 	keyWait
 		any = false
@@ -33,16 +33,16 @@ script 1 mmbn4 {
 		mugshot = Maid
 	msgOpen
 	"""
-	Thanks to the Hawk
-	Tournament we sold
-	a lot of chips,and
+	Graças ao Torneio
+	Falcão,vendemos um
+	monte de chips,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Higsby raised my
-	hourly wage!
+	e o Higbsy até me
+	deu um aumento!
 	"""
 	keyWait
 		any = false
@@ -53,17 +53,17 @@ script 5 mmbn4 {
 		mugshot = Maid
 	msgOpen
 	"""
-	There's a world
-	NetBattle champion-
-	ship in Netopia?!
+	Tem um campeonato
+	mundial de NetLuta
+	na Ameropa?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I bet we could make
-	a fortune selling
-	chips there!
+	Aposto que faríamos
+	uma fortuna vendendo
+	chips lá!
 	"""
 	keyWait
 		any = false
@@ -83,18 +83,18 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Maid
 	msgOpen
-	"You came all the way"
+	"Você voltou de tão\nlonge"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	back just to visit
-	us? You're such a
+	só pra visitar a
+	gente?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"sweetheart!"
+	"Ai,você é um fofo!"
 	keyWait
 		any = false
 	end
@@ -104,9 +104,8 @@ script 11 mmbn4 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	Hey Lan! Have you
-	heard about Free
-	Tournaments?
+	Lan! Ficou sabendo
+	dos Torneios Livres?
 	"""
 	keyWait
 		any = false
@@ -122,7 +121,7 @@ script 11 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Yeah  "
+	"Sim  "
 	option
 		brackets = false
 		left = 0
@@ -131,7 +130,7 @@ script 11 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"No⋯"
+	"Não..."
 	select
 		default = 0
 		noDelay = false
@@ -146,43 +145,44 @@ script 11 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = CapBoy
-	"Then I'll tell you!"
+	"Então conto eu!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can record Navi
-	Data transmitted
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	from your friend's
-	PET through a
-	Network Cable at
+	Você pode salvar
+	Dados de Navi
+	transmitidos do
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that board there,and
-	hold a tournament!
+	PET de um amigo
+	através de um
+	Cabo de Rede
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you win,Higsby
-	will present you
-	with a prize! It's
+	naquele quadro ali e
+	sediar um torneio!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	a blast! You oughta
-	give it a try!
+	Se vencer,o Higsby
+	te dá um prêmio!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	É divertido pra
+	caramba! Cê devia
+	experimentar!
 	"""
 	keyWait
 		any = false
@@ -192,21 +192,22 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = CapBoy
 	msgOpen
-	"Of course you have!"
+	"Imaginei!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't enter any
-	real tournaments,but
+	Eu não posso entrar
+	em torneios de
+	verdade,mas ao menos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	at least I can hold
-	my own and try to
-	beat my friends!
+	posso vencer meus
+	próprios torneios
+	contra meus amigos!
 	"""
 	keyWait
 		any = false
@@ -216,13 +217,13 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Maid
 	msgOpen
-	"How do you feel?!"
+	"E aí,como vai?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Are you using
-	Higsby's chips?!
+	Tá usando os chips
+	do Higsby?!
 	"""
 	keyWait
 		any = false
@@ -233,23 +234,25 @@ script 20 mmbn4 {
 		mugshot = Maid
 	msgOpen
 	"""
-	You've advanced to
-	the finals?! If you
+	Você chegou às
+	finais?! Se você
+	vencer,a Loja do
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	win,Higsby's may
-	become internation-
-	aly famous as the
+	Higsby ficará
+	internacionalmente
+	reconhecida
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	shop the world champ
-	buys his chips at!
+	como a loja em que
+	o campeão do mundo
+	compra chips!
 	"""
 	keyWait
 		any = false
@@ -274,17 +277,17 @@ script 25 mmbn4 {
 		mugshot = Maid
 	msgOpen
 	"""
-	What?
-	You WON?!
-	WOW!!!
+	O quê?
+	Você VENCEU?!
+	CARAMBA!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now Higsby's will
-	be popular the
-	world over!!
+	Agora a Loja do
+	Higsby será mundi-
+	almente famosa!!
 	"""
 	keyWait
 		any = false
@@ -295,27 +298,28 @@ script 30 mmbn4 {
 		mugshot = Maid
 	msgOpen
 	"""
-	I expected chip
-	orders from around
+	Eu estava esperando
+	encomendas de chips
+	de todo o mundo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the world and TV
-	interviews,but no
+	e entrevistas para
+	canais de TV...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"one's even called!"
+	"mas não recebemos\numa ligação sequer!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What? The world has
-	bigger problems? Did
-	something happen?
+	Hã? Tem problemas
+	maiores no mundo
+	agora? O que houve?
 	"""
 	keyWait
 		any = false
@@ -326,25 +330,25 @@ script 35 mmbn4 {
 		mugshot = Maid
 	msgOpen
 	"""
-	The Officials told
-	everyone to hide
-	inside,but if they
+	Os Oficiais mandaram
+	todo mundo ficar em
+	casa,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	did that,no one
-	would come buy
-	chips! I admire Hig-
+	mas se fizerem isso,
+	ninguém vai comprar
+	chips! Admiro muito
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	sby for his dedicat-
-	ion to stay open at
-	a time like this!
+	a dedicação do Higs-
+	by de manter a loja
+	aberta nessas horas!
 	"""
 	keyWait
 		any = false
@@ -358,7 +362,7 @@ script 40 mmbn4 {
 	mugshotShow
 		mugshot = Higsby
 	msgOpen
-	"Welcome,huh!"
+	"Bem-vindo,é!"
 	keyWait
 		any = false
 	jump
@@ -375,36 +379,38 @@ script 41 mmbn4 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Welcome,huh!
-	I've finally freed
-	up some time to
+	Bem-vindo,é!
+	Finalmente reservei
+	um tempo pra reabrir
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	restart my chip-
-	ordering system,huh!
+	o meu sistema de
+	encomenda de chips,
+	é!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you tell me the
-	name of a chip you
-	want⋯
+	É só me dar o nome
+	de um chip que
+	você queira...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can order it for
-	you from my
+	que eu encomendo
+	o danado pra você
+	diretamente do meu
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"supplier,huh!"
+	"fornecedor,é!"
 	keyWait
 		any = false
 	clearMsg
@@ -418,7 +424,7 @@ script 41 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Normal stock\n"
+	"Acervo normal\n"
 	positionOptionVertical
 		width = 8
 	option
@@ -429,7 +435,7 @@ script 41 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Chip order\n"
+	"Encomendar\n"
 	positionOptionVertical
 		width = 8
 	option
@@ -440,7 +446,7 @@ script 41 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Cancel"
+	"Sair"
 	select
 		default = 0
 		noDelay = false
@@ -487,7 +493,7 @@ script 42 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Encomenda\n"
+	"Encomendar\n"
 	positionOptionHorizontal
 		width = 8
 	option

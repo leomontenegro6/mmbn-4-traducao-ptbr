@@ -12,9 +12,9 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	msgOpen
 	"""
-	Framework chairs⋯
-	They're all folded
-	up neatly.
+	Cadeiras dobráveis.
+	Todas devidamente
+	empilhadas.
 	"""
 	keyWait
 		any = false
@@ -25,9 +25,9 @@ script 1 mmbn4 {
 		jumpIfFalse = continue
 	clearMsg
 	"""
-	Tem uma coisa bri-
-	lhando nas cadei-
-	ras
+	Tem uma coisa
+	brilhando entre as
+	cadeiras
 	"""
 	waitSkip
 		frames = 30
@@ -125,9 +125,8 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mesmo NetLutadores
-	têm que tomar muito
-	cuidado.
+	Até NetLutadores têm
+	que fazer sua parte.
 	"""
 	keyWait
 		any = false
@@ -195,16 +194,16 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	msgOpen
 	"""
-	Tem várias mochilas
-	na mesa.
+	Tem várias bolsas na
+	mesa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	É importante cui-
-	dar dos pertences
-	importantes aqui.
+	Cuidar bem de seus
+	pertences
+	importantes é vital.
 	"""
 	keyWait
 		any = false

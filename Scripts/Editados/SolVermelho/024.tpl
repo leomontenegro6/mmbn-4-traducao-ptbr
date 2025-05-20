@@ -1,15 +1,15 @@
 @size 48
 
 script 0 mmbn4s {
-	" Anna     Welcome!     "
+	" Anna     Bem-vindos!  "
 	end
 }
 script 1 mmbn4s {
-	" Mustash  Travel Tip   "
+	" Mustash  Dica viagem  "
 	end
 }
 script 2 mmbn4s {
-	" Mustash  YumLand      "
+	" Mustash  Saborya      "
 	end
 }
 script 3 mmbn4s {
@@ -17,11 +17,11 @@ script 3 mmbn4s {
 	end
 }
 script 4 mmbn4s {
-	" Mustash  NetFrica     "
+	" Mustash  Affriq       "
 	end
 }
 script 5 mmbn4s {
-	" Mustash  Netopia      "
+	" Mustash  Ameropa      "
 	end
 }
 script 6 mmbn4s {

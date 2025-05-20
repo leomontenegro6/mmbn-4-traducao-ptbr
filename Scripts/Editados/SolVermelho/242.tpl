@@ -13,30 +13,30 @@ script 0 mmbn4 {
 		mugshot = Yai
 	msgOpen
 	"""
-	The Red Sun
-	Tournament?!
+	O Torneio Sol
+	Vermelho?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And you're going
-	to Netopia?
+	E você vai pra
+	Ameropa?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯Whatever. It's not
-	like I'm jealous⋯
+	... Tá. Eu nem tô
+	com inveja...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can go to Netopia
-	anytime I want in my
-	private jet,so ha!
+	Posso ir quando eu
+	quiser no meu jati-
+	nho particular! Rá!
 	"""
 	keyWait
 		any = false
@@ -47,28 +47,30 @@ script 1 mmbn4 {
 		mugshot = Yai
 	msgOpen
 	"""
-	The Blue Moon
-	Tournament?!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"And you're going"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	to Netopia?
-	⋯Whatever. It's not
-	like I'm jealous⋯
+	O Torneio Lua
+	Azul?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can go to Netopia
-	anytime I want in my
-	private jet,so ha!
+	E você vai pra
+	Ameropa?
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	... Tá. Eu nem tô
+	com inveja...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Posso ir quando eu
+	quiser no meu jati-
+	nho particular! Rá!
 	"""
 	keyWait
 		any = false
@@ -79,16 +81,17 @@ script 5 mmbn4 {
 		mugshot = Yai
 	msgOpen
 	"""
-	You've cleared the
-	prelims? Not bad⋯
+	Você passou nas
+	preliminares?
+	Nada mal...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	GO show the world
-	how Electopians
-	NetBattle!
+	Agora mostra pro
+	mundo a NetLuta
+	de Ni-Hon!
 	"""
 	keyWait
 		any = false
@@ -114,8 +117,9 @@ script 10 mmbn4 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Where were you taken
-	after the finals?
+	Pra onde você foi
+	levado depois das
+	finais?
 	"""
 	keyWait
 		any = false
@@ -126,17 +130,16 @@ script 10 mmbn4 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
-	"NAXA?!"
+	"a NAXA?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What does NAXA want
-	with the likes of
-	you?
+	O que a NAXA ia
+	querer com VOCÊ?
 	"""
 	keyWait
 		any = false
@@ -147,15 +150,17 @@ script 15 mmbn4 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Something happened
-	on the Net,right?
+	Aconteceu alguma
+	coisa na Rede,não
+	foi?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Apparently Nebula
-	is involved⋯
+	Ao que parece,a
+	Nebula tá
+	envolvida...
 	"""
 	keyWait
 		any = false
@@ -166,20 +171,21 @@ script 20 mmbn4 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Don't worry about
-	us! Get over to
+	Não se preocupa com
+	a gente! Vai logo
+	pra NAXA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NAXA! Lan,you're
-	the only one who can
+	Lan,você é o único
+	que pode
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"save our planet now!"
+	"salvar o nosso\nplaneta agora!"
 	keyWait
 		any = false
 	end
@@ -189,13 +195,13 @@ script 25 mmbn4 {
 		mugshot = Yai
 	msgOpen
 	"""
-	I know you can
-	protect our planet!
+	Eu sei que você
+	pode salvar o mundo!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Don't lose heart!"
+	"Não se deixe abalar!"
 	keyWait
 		any = false
 	end

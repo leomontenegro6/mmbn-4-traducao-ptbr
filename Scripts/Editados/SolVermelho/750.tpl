@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Here comes the shot!"
+	"Lá vai o chute!"
 	keyWait
 		any = false
 	end
@@ -14,8 +14,8 @@ script 1 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	See if you can stop
-	it!
+	Quero ver você
+	segurar esta!
 	"""
 	keyWait
 		any = false
@@ -26,9 +26,9 @@ script 2 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Wow! What a huge
-	explosion! But I'll
-	still beat you!
+	Agh! Que explosão!
+	Mas,ainda assim,
+	eu vou te vencer!
 	"""
 	keyWait
 		any = false
@@ -39,9 +39,9 @@ script 3 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Arrgh! The shock
-	wave! But it's not
-	over yet!
+	Arrgh! As ondas de
+	choque! Mas ainda
+	não acabou!
 	"""
 	keyWait
 		any = false

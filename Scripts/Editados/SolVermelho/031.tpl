@@ -14,9 +14,8 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Parece que
-	tem uma nova
-	postagem!
+	Parece que tem
+	postagem nova!
 	"""
 	keyWait
 		any = false

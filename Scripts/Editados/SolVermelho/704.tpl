@@ -5,8 +5,9 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Our next opponent is
-	a normal Navi.
+	O nosso próximo
+	oponente é um Navi
+	normal.
 	"""
 	keyWait
 		any = false
@@ -19,16 +20,16 @@ script 1 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Still,we can't let
-	our guard down.
+	É,mas não podemos
+	baixar a guarda.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He made it this far,
-	so he must have some
-	skills.
+	Pra ele ter chegado
+	longe assim,deve ser
+	habilidoso.
 	"""
 	keyWait
 		any = false
@@ -38,14 +39,14 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"You think?"
+	"Você acha?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's not a fighting
-	Navi,so he should
-	be easy for us.
+	Não é um Navi de
+	luta,então acho que
+	vai ser moleza.
 	"""
 	keyWait
 		any = false
@@ -57,9 +58,9 @@ script 3 mmbn4 {
 	mugshotHide
 	msgOpen
 	"""
-	Don't be so smug!
-	It won't be that
-	easy.
+	Baixa essa bola aí!
+	Não vai ser tão
+	fácil assim.
 	"""
 	keyWait
 		any = false
@@ -70,8 +71,8 @@ script 4 mmbn4 {
 		mugshot = Flave
 	msgOpen
 	"""
-	NetBattle's like
-	cooking.
+	NetLutas são como a
+	culinária.
 	"""
 	keyWait
 		any = false
@@ -83,7 +84,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"C-cooking?"
+	"C-culinária?"
 	keyWait
 		any = false
 	clearMsg
@@ -94,37 +95,38 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Flave
 	msgOpen
-	"Yeah!"
+	"Aham!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A master chef like
-	I am can make the
-	most exquisite
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	cuisine from even
-	the cheapest
-	ingredients!
+	Um chef prodígio
+	como eu prepara
+	pratos divinos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NetBattles aren't
-	decided by what type
-	of Navi you've got.
+	até com os
+	ingredientes mais
+	baratos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My skills are enough
-	to win the fight!
+	NetLutas também não
+	são ditadas pelo
+	tipo de Navi.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Só as minhas habili-
+	dades bastam para
+	vencer a luta!
 	"""
 	keyWait
 		any = false
@@ -137,8 +139,8 @@ script 7 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Wow,you sure are
-	confident.
+	Quanta confiança,
+	hein?
 	"""
 	keyWait
 		any = false
@@ -151,8 +153,9 @@ script 8 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Why do you keep
-	mentioning cooking?
+	Por que você fica
+	falando de
+	culinária?
 	"""
 	keyWait
 		any = false
@@ -165,22 +168,23 @@ script 9 mmbn4 {
 		mugshot = Flave
 	msgOpen
 	"""
-	Oh yeah,let me
-	introduce myself!
+	Ah,sim,ainda não
+	me apresentei!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm Flave Yamakawa,
-	your next opponent!
+	Eu sou Flave
+	Yamakawa,seu
+	próximo oponente...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Future king of the
-	culinary world!
+	e futuro rei do
+	mundo da culinária!
 	"""
 	keyWait
 		any = false
@@ -192,7 +196,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"A chef,huh?"
+	"Um chef,é?"
 	keyWait
 		any = false
 	clearMsg
@@ -203,27 +207,27 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Flave
 	msgOpen
-	"Perfect!"
+	"Perfeito!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Get ready to enjoy
-	my gastronomic
-	masterpieces!
+	Prepare-se para
+	saborear minhas
+	obras gastronômicas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And by the way,my
-	Navi's functions are
-	customized!
+	E,por sinal,as fun-
+	ções do meu Navi
+	são customizadas!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'll see you there!"
+	"Vejo vocês lá!"
 	keyWait
 		any = false
 	end
@@ -233,8 +237,8 @@ script 12 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	See us there? Where
-	is "there"?
+	"Vê a gente lá"?
+	Onde é "lá"?
 	"""
 	keyWait
 		any = false
@@ -247,17 +251,17 @@ script 13 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Huh. He must be
-	somewhere nearby.
-	Let's go find him.
+	Hm. Ele deve estar
+	por perto. Vamos
+	atrás dele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And something he
-	said kinda bothered
-	me.
+	Ainda mais porque
+	ele falou algo que
+	me deixou curioso.
 	"""
 	keyWait
 		any = false
@@ -270,25 +274,24 @@ script 14 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Something about his
-	cooking skills and
-	Navi functions.
+	O papo de culinária
+	tendo a ver com
+	funções de Navi,né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What could he
-	possibly be
-	planning?
+	O que será que ele
+	tá planejando?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Okay,let's go,
-	MegaMan! Time to
-	find Flave!
+	Tá bom,vamos lá,
+	MegaMan! Hora de
+	achar o Flave!
 	"""
 	keyWait
 		any = false
@@ -300,7 +303,7 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Okay!"
+	"É!"
 	keyWait
 		any = false
 	end

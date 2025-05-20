@@ -7,8 +7,9 @@ script 0 mmbn4 {
 	color
 		palette = 1
 	"""
-	Three days after the
-	asteroid incident⋯
+	Três dias após o
+	incidente do
+	asteroide...
 	"""
 	keyWait
 		any = false
@@ -17,8 +18,9 @@ script 0 mmbn4 {
 		width = 17
 		height = 2
 	"""
-	Dr.Regal's where-
-	abouts were still
+	O paradeiro do
+	Dr. Regal segue
+	desconhecido,
 	"""
 	keyWait
 		any = false
@@ -27,8 +29,9 @@ script 0 mmbn4 {
 		width = 18
 		height = 2
 	"""
-	unknown,despite a
-	full investigation.
+	mesmo após uma
+	investigação
+	completa.
 	"""
 	keyWait
 		any = false
@@ -37,9 +40,9 @@ script 0 mmbn4 {
 		width = 18
 		height = 3
 	"""
-	At the Colosseum in
-	Netopia,a delayed
-	ceremony was held.
+	No Coliseu da Ame-
+	ropa,uma cerimônia
+	tardia é sediada.
 	"""
 	keyWait
 		any = false
@@ -50,15 +53,16 @@ script 1 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Congratulations on
-	another fine win.
+	Meus parabéns por
+	outra vitória
+	incrível.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And thank you for
-	saving the planet.
+	E muito obrigada
+	por salvar a Terra.
 	"""
 	keyWait
 		any = false
@@ -95,30 +99,31 @@ script 4 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Ladies and
-	gentlemen⋯
+	Senhoras e
+	senhores...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan has been named
-	World NetBattle
-	Goodwill Ambassador!
+	Lan Hikari foi
+	nomeado Embaixador
+	Mundial da NetLuta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's deepen ties
-	between the world's
+	Que os elos entre
+	as nações do mundo
+	sejam aprofundados
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	nations through
-	NetBattles!
+	através das
+	NetLutas!
 	"""
 	keyWait
 		any = false
@@ -129,13 +134,14 @@ script 5 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	What's wrong?
-	Why the glum look?
+	Que foi?
+	Por que a cara
+	triste,Lan?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"That's not like you."
+	"Não é do seu feitio."
 	keyWait
 		any = false
 	end
@@ -145,16 +151,16 @@ script 6 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Oh⋯I just can't
-	stop thinking about
-	Regal's last words.
+	Ah... Eu não paro de
+	pensar nas palavras
+	finais do Regal.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm not in the mood
-	to celebrate.
+	Não tô muito no
+	clima pra comemorar.
 	"""
 	keyWait
 		any = false
@@ -166,51 +172,52 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	You mean that thing
-	about evil still
-	remaining?
+	Quer dizer,aquele
+	papo do mal
+	continuar?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I think he's right."
+	"... Eu acho que\nele tava certo."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Still,we all should
-	have the power to
-	overcome it.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	All of us have the
-	power to fight evil,
+	Mas também acho que
+	todos temos o poder
+	para superá-lo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so we must build a
-	world in which
-	everyone has a
+	Todos nós temos a
+	força para lutar
+	contra o mal,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	place,in preparation
-	for when Duo once
-	again comes to this
+	então,precisamos
+	construir um mundo
+	em que haja lugar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	planet,centuries
-	from now.
+	para todos,pra
+	estarmos prontos pra
+	quando o Duo voltar
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	à Terra de novo,
+	séculos no futuro.
 	"""
 	keyWait
 		any = false
@@ -223,17 +230,17 @@ script 8 mmbn4 {
 		mugshot = Lan
 	mugshotAnimation
 		animation = 1
-	"⋯⋯\n"
+	"......\n"
 	mugshotAnimation
 		animation = 2
-	"Yeah,you're right!"
+	"É,tem razão!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Besides,we're the
-	ones who are gonna
-	build a new age!!
+	Além disso,somos nós
+	que vamos construir
+	uma nova era!!
 	"""
 	keyWait
 		any = false
@@ -243,14 +250,14 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
 	msgOpen
-	"And now,"
+	"E agora,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd like to ask
-	Lan to show us
-	his technique!
+	gostaria de pedir ao
+	Lan que nos mostre
+	suas técnicas!
 	"""
 	keyWait
 		any = false
@@ -261,8 +268,9 @@ script 10 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Huh?! You mean I
-	gotta do something?
+	Hã?! Quer dizer que
+	eu vou ter que fazer
+	coisa?
 	"""
 	keyWait
 		any = false
@@ -274,9 +282,9 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
 	"""
-	The crowd wants to
-	see your NetBattle
-	technique.
+	O público quer ver
+	suas habilidades de
+	NetLuta!
 	"""
 	keyWait
 		any = false
@@ -287,8 +295,8 @@ script 12 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Please ready
-	yourself!
+	Por favor,
+	os preparativos!
 	"""
 	keyWait
 		any = false
@@ -299,9 +307,9 @@ script 13 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	NetBattle technique?
-	Wonder what I
-	should do?
+	Habilidades de
+	NetLuta?
+	... O que eu faço?
 	"""
 	keyWait
 		any = false
@@ -313,8 +321,8 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = Dex
 	"""
-	Lan! Show us
-	your best move!
+	Lan! Mostra aí o seu
+	melhor golpe!
 	"""
 	keyWait
 		any = false
@@ -325,13 +333,14 @@ script 15 mmbn4 {
 		mugshot = Yai
 	msgOpen
 	"""
-	We came all this way
-	to see you perform!
+	A gente veio lá de
+	longe pra ver você
+	se apresentar!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Get it together!"
+	"Força,homem!"
 	keyWait
 		any = false
 	clearMsg
@@ -343,7 +352,7 @@ script 16 mmbn4 {
 		mugshot = Mayl
 	"""
 	Lan,MegaMan,
-	you can do it!
+	vocês conseguem!
 	"""
 	keyWait
 		any = false
@@ -354,7 +363,7 @@ script 16 mmbn4 {
 script 17 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Is everyone here?!"
+	"O pessoal todo\nveio?!"
 	keyWait
 		any = false
 	clearMsg
@@ -364,7 +373,7 @@ script 17 mmbn4 {
 script 18 mmbn4 {
 	mugshotShow
 		mugshot = Dad
-	"Don't get nervous!"
+	"Não fique nervoso!"
 	keyWait
 		any = false
 	end
@@ -383,7 +392,7 @@ script 19 mmbn4 {
 script 20 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"My Mom's here?!"
+	"Até a mamãe tá\naqui?!"
 	keyWait
 		any = false
 	clearMsg
@@ -394,8 +403,9 @@ script 21 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	Stop stalling! It's
-	gonna get dark soon!
+	Pare de enrolar!
+	O sol está prestes
+	a se pôr.
 	"""
 	keyWait
 		any = false
@@ -405,18 +415,19 @@ script 22 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"And Chaud,too?!"
+	"Até tu,Chaud?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hmmm⋯Seems we've
-	got no choice.
+	Hmmm... Acho que a
+	gente não tem
+	escolha,então.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ready,MegaMan?"
+	"Pronto,MegaMan?"
 	keyWait
 		any = false
 	clearMsg
@@ -426,7 +437,7 @@ script 22 mmbn4 {
 script 23 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Yep! Always am!"
+	"Aham! Sempre!"
 	keyWait
 		any = false
 	end

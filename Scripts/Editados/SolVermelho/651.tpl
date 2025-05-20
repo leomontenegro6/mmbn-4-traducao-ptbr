@@ -5,22 +5,22 @@ script 0 mmbn4 {
 		mugshot = Yai
 	msgOpen
 	"""
-	I thought it was a
-	joke at first,
+	No começo,eu achei
+	que era piada,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but I guess it's
-	really true.
+	mas acho que é
+	verdade mesmo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What's gotten into
-	you?
+	O que foi que deu em
+	você?
 	"""
 	keyWait
 		any = false
@@ -32,7 +32,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Well⋯"
+	"Bom..."
 	keyWait
 		any = false
 	clearMsg
@@ -45,16 +45,16 @@ script 2 mmbn4 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"⋯⋯\n"
+	"......\n"
 	mugshotAnimation
 		animation = 2
-	"Hehe,I see."
+	"Hehe,entendi."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So who are you gonna
-	fight?
+	Então,contra quem
+	você vai lutar?
 	"""
 	keyWait
 		any = false
@@ -66,7 +66,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Well⋯"
+	"Er..."
 	keyWait
 		any = false
 	clearMsg
@@ -78,9 +78,9 @@ script 4 mmbn4 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Wow! You're gonna go
-	up against Lan in
-	the next match?!
+	Gente! A sua luta
+	vai ser contra o
+	Lan?!
 	"""
 	keyWait
 		any = false
@@ -92,30 +92,30 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Yep."
+	"É."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The prelims only
-	involved gathering
-	BattlePoints,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	and I was able to
-	clear it thanks to
-	Roll's speed.
+	As preliminares
+	envolviam reunir
+	Pontos de Batalha,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But there's no way
-	Roll can beat Mega-
-	Man in a battle.
+	e,com a velocidade
+	da Roll,eu consegui
+	passar.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Mas é impossível a
+	gente vencer o
+	MegaMan em uma luta.
 	"""
 	keyWait
 		any = false
@@ -127,13 +127,14 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"I guess not."
+	"Pois é,né..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's top-ranked in
-	DenCity,after all.
+	Ele é o melhor
+	lutador de
+	DenCity,afinal.
 	"""
 	keyWait
 		any = false
@@ -146,40 +147,41 @@ script 7 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Ah well,I'll do my
-	best and see how far
-	I can go.
+	Mas,enfim. Eu vou
+	dar o melhor de mim
+	e ver no que dá.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd like to warm up
-	before the match.
+	Só queria fazer
+	um aquecimento
+	antes da luta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Would you mind help-
-	ing me practice,
-	with Glide?
+	Pode me ajudar a
+	treinar,você e o
+	Glide?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Roll has been
-	followed by some
-	weird Navi lately.
+	A Roll anda sendo
+	seguida por uns
+	Navis estranhos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please help. I don't
-	feel safe with just
-	Roll here.
+	Por favor,ajuda.
+	Não me sinto segura,
+	só eu e a Roll.
 	"""
 	keyWait
 		any = false
@@ -192,16 +194,17 @@ script 8 mmbn4 {
 		mugshot = Yai
 	msgOpen
 	"""
-	I hope it's not a
-	stalker Navi⋯
+	Tomara que não seja
+	um Navi stalker!
+	Eu que não quero que
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wouldn't want any-
-	thing to happen to
-	Roll. Let's go.
+	nada aconteça com a
+	Roll.
+	Vem,Mayl,vamos lá.
 	"""
 	keyWait
 		any = false
@@ -213,7 +216,7 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Thank you,Yai!"
+	"Obrigada,Yai!"
 	keyWait
 		any = false
 	clearMsg
@@ -224,28 +227,26 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"No thanks needed!"
+	"Imagina!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just be careful,
-	okay?!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	There are lots of
-	weirdos in this
-	world.
+	Só toma cuidado,tá?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wanna go to the
-	Park Area?
+	O mundo tá cheio de
+	esquisitões.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Quer ir comigo na
+	Área Parque?
 	"""
 	keyWait
 		any = false
@@ -257,7 +258,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Sure!"
+	"Tá!"
 	keyWait
 		any = false
 	end

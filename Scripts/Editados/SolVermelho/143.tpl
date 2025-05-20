@@ -9,17 +9,17 @@ script 0 mmbn4 {
 	soundPlay
 		track = 213
 	"""
-	MegaMan
-	pressed the ToyRobo
-	Stop switch!
+	MegaMan apertou o
+	botão de desligar do
+	Robô-Brinquedo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	At the same time as
-	pressing the button,
-	a virus started!
+	Mas assim que
+	apertou o botão,
+	um vírus saiu dele!
 	"""
 	keyWait
 		any = false
@@ -30,9 +30,9 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	msgOpen
 	"""
-	The Stop switch for
-	ToyRobo⋯No need
-	to press it now.
+	O botão de desligar
+	do Robô... Não pre-
+	cisa apertar agora.
 	"""
 	keyWait
 		any = false
@@ -70,7 +70,7 @@ script 10 mmbn4 {
 }
 script 11 mmbn4 {
 	msgOpen
-	"That's not right."
+	"Errado."
 	keyWait
 		any = false
 	end
@@ -79,48 +79,48 @@ script 12 mmbn4 {
 	mugshotHide
 	msgOpen
 	"""
-	WzDog was a
-	magical dog.
+	O MagoCão era um
+	canino mágico.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He looked like a
-	normal dog,but he
-	was a skilled
+	Parecia um cão nor-
+	mal,mas,na verdade,
+	era um feiticeiro
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	magician.
-	Although popular in
-	the river town of
+	habilidoso. Apesar
+	de popular na cidade
+	ribeirinha de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Renice,WzDog
-	had one particular
-	annoyance.
+	Reneza,o MagoCão
+	tinha um problema em
+	particular.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This bitter rival
-	was "****",also
-	living in Renice.
+	Seu rival eterno,
+	"****",também
+	de Reneza.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Equal in magical
-	skill,they fought
-	like cat and dog.
+	Com habilidades
+	iguais,eles brigavam
+	feito cão e gato.
 	"""
 	keyWait
 		any = false
@@ -130,41 +130,41 @@ script 13 mmbn4 {
 	mugshotHide
 	msgOpen
 	"""
-	However,a certain
-	incident required
-	them to cooperate.
+	Porém,um certo inci-
+	dente forçou os dois
+	a cooperarem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A evil magician
-	appeared one day in
-	Renice.
+	Um mago do mal,
+	um dia,apareceu
+	em Reneza.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Although they both
-	tried to chase off
-	the wizard,he used
+	Os dois tentaram
+	afugentar o mago,
+	mas ele usou
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	his "****"
-	and had them almost
-	defeated. Unable to
+	seu "****"
+	e os deixou à beira
+	da derrota.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	use magic,they were
-	just a dog and
-	monkey.
+	Sem sua magia,os
+	dois eram apenas um
+	cão e um macaco.
 	"""
 	keyWait
 		any = false
@@ -174,104 +174,104 @@ script 14 mmbn4 {
 	mugshotHide
 	msgOpen
 	"""
-	With their magic
-	blocked by the evil
-	magician's attack,
+	Com sua magia selada
+	pelo ataque do mago
+	do mal,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WzDog and
-	WzMonkey were in
-	big trouble⋯
+	o MagoCão e o
+	MgMacaco estavam
+	em sérios apuros...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But once their
-	special powers had
-	been taken away,
+	Mas com seus poderes
+	poderes especiais
+	retirados,seus
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	their natural animal
-	instincts returned
-	in a flash!
+	instintos naturais
+	animais voltaram em
+	um piscar de olhos!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"First,WzDog"
+	"Primeiro,o MagoCão"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	used the "****"
-	for which dogs are
-	famous,trapping the
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	wizard in a rapid
-	spin.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"Then WzMonkey used"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	a monkey's speed
-	to cling to the
-	wizard's face,and
+	usou seu "****",
+	coisa pela qual os
+	cães são famosos,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	his "****" attack
-	left the wizard's
-	face in a mess.
+	confundindo o mago
+	com golpes ágeis
+	ajudados por ele.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Depois,o MagoMacaco\nusou"
+	keyWait
+		any = false
+	clearMsg
+	"""
+	sua velocidade de
+	macaco e pulou no
+	rosto do mago,e seu
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To escape,the wizard
-	turned into a bird
-	and flew away.
+	"****" destroçou o
+	rosto do vilão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	By cooperating,the
-	two new partners had
-	saved Renice.
+	Para fugir,o mago
+	virou um pássaro e
+	voou para longe.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	However,when their
-	magical powers had
-	been restored,
+	Ao cooperarem,os
+	dois parceiros
+	salvaram Reneza.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	they returned to
-	fighting like cat
-	and dog as usual⋯
+	Contudo,ao
+	recuperarem seus
+	poderes mágicos,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	eles começaram a
+	brigar feito cão
+	e gato,de novo...
 	"""
 	keyWait
 		any = false

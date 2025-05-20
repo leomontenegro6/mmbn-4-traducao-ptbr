@@ -7,7 +7,7 @@ script 0 mmbn4 {
 		jumpIfInRange = continue
 		jumpIfOutOfRange = 2
 	msgOpen
-	"Show the S-ID"
+	"Mostre o ID-S"
 	waitSkip
 		frames = 30
 	"."
@@ -31,9 +31,9 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	msgOpen
 	"""
-	This door will open
-	only to one with
-	S-ID.
+	Esta porta só se
+	abrirá para quem
+	portar o ID-S.
 	"""
 	keyWait
 		any = false

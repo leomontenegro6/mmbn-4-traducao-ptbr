@@ -13,17 +13,16 @@ script 0 mmbn4 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Hey! It's me,the
-	chief of the Electo-
-	pia NetBattler Asso-
+	Opa! Sou eu,o chefe
+	da Associação de
+	NetLuta de Ni-Hon!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ciation! Good luck
-	in the Red Sun
-	Tournament,Lan!
+	Boa sorte no Torneio
+	Sol Vermelho,Lan!
 	"""
 	keyWait
 		any = false
@@ -34,17 +33,16 @@ script 1 mmbn4 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Hey! It's me,the
-	chief of the Electo-
-	pia NetBattler Asso-
+	Opa! Sou eu,o chefe
+	da Associação de
+	NetLuta de Ni-Hon!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ciation! Good luck
-	in the Blue Moon
-	Tournament,Lan!
+	Boa sorte no Torneio
+	Lua Azul,Lan!
 	"""
 	keyWait
 		any = false
@@ -55,9 +53,8 @@ script 5 mmbn4 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	GO show the world
-	what Electopia's
-	all about!
+	Mostre pro mundo o
+	poder de Ni-Hon!
 	"""
 	keyWait
 		any = false
@@ -78,13 +75,13 @@ script 10 mmbn4 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Don't lose the first
-	match,Lan! I'm
+	Não vá perder na
+	primeira luta,Lan!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"counting on you!"
+	"Conto com você!"
 	keyWait
 		any = false
 	end
@@ -94,13 +91,14 @@ script 15 mmbn4 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Alright! You passed
-	Round 1! Keep it up,
+	Esplêndido! Você
+	passou na primeira
+	rodada!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Lan! It's all you!!"
+	"Continue assim,Lan!\nVocê consegue!!"
 	keyWait
 		any = false
 	end
@@ -110,15 +108,16 @@ script 20 mmbn4 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Lan,win this
-	one for Electopia!
+	Lan,vença!
+	Por Ni-Hon!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're all rooting
-	for you! WOOHOOOO!!
+	Estamos todos
+	torcendo por você!
+	OÚÚÚÚÚÚÚ!!
 	"""
 	keyWait
 		any = false
@@ -141,24 +140,25 @@ script 25 mmbn4 {
 	mugshotShow
 		mugshot = BlackMan
 	msgOpen
-	"Hey! Aren't you Lan,"
+	"Aí! Você é Lan\nHikari,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the victor of the
-	Red Sun Tournament?
+	o vencedor do Torneio
+	Sol Vermelho?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Wow,I picked a"
+	"Nossa!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	perfect time to
-	visit Electopia!!
+	Eu escolhi a hora
+	perfeita pra visitar
+	Ni-Hon!!
 	"""
 	keyWait
 		any = false
@@ -179,16 +179,17 @@ script 26 mmbn4 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	My country's Net is
-	all messed up,so I
-	came to Electopia.
+	A Rede do meu país
+	tá toda ferrada,
+	daí vim pra Ni-Hon.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Electopia's known
-	for its safety!
+	Ni-Hon é conhecida
+	por ser muito
+	segura!
 	"""
 	keyWait
 		any = false
@@ -198,24 +199,25 @@ script 27 mmbn4 {
 	mugshotShow
 		mugshot = BlackMan
 	msgOpen
-	"Hey! Aren't you Lan,"
+	"Aí! Você é Lan\nHikari,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the victor of the
-	BlueMoon Tournament?
+	o vencedor do Torneio
+	Lua Azul?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Wow,I picked a"
+	"Nossa!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	perfect time to
-	visit Electopia!!
+	Eu escolhi a hora
+	perfeita pra visitar
+	Ni-Hon!!
 	"""
 	keyWait
 		any = false
@@ -226,20 +228,20 @@ script 30 mmbn4 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Hey Mr.Lan! Do you
-	come here a lot?
+	Aí,Lan! Você vem
+	muito aqui?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Sometimes? I see⋯"
+	"... Só às vezes?\nEntendi..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Perhaps the secret
-	to your strength
-	can be found here⋯
+	Talvez o segredo da
+	sua força esteja
+	aqui...
 	"""
 	keyWait
 		any = false
@@ -249,11 +251,11 @@ script 31 mmbn4 {
 	mugshotShow
 		mugshot = BlondMan
 	msgOpen
-	"NetCrime is scary!"
+	"NetCrimes dão medo!"
 	keyWait
 		any = false
 	clearMsg
-	"*Tremble*⋯*Tremble*⋯"
+	"Treme... Treme..."
 	keyWait
 		any = false
 	end
@@ -263,14 +265,18 @@ script 35 mmbn4 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	I just got a mail
-	from my Mom in Neto-
-	pia. She said "come
+	Recebi um e-mail da
+	minha mãe lá na
+	Ameropa. Dizia:
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"home\"! What's wrong?"
+	"""
+	"Volte pra casa!"
+	O que será que
+	aconteceu?
+	"""
 	keyWait
 		any = false
 	end
@@ -280,16 +286,17 @@ script 36 mmbn4 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	Some Electopian
-	Official dude told
-	me to go back to my
+	Um Oficial ni-
+	honense aí me
+	mandou voltar pro
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	country! That's
-	racism,man! Racism!
+	meu país! Isso aí
+	é racismo,cara!
+	Racismo!
 	"""
 	keyWait
 		any = false

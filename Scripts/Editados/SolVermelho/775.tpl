@@ -4,14 +4,14 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"Hee hee hee⋯"
+	"He he he..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ProtoMan. That Navi
-	who deleted 500 of
-	my Nebula comrades.
+	ProtoMan. O Navi
+	que deletou 500 dos
+	meus parceiros.
 	"""
 	keyWait
 		any = false
@@ -22,7 +22,7 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	mugshotShow
 		mugshot = ProtoMan
-	"Oooooohhh⋯"
+	"Aarguuughh..."
 	keyWait
 		any = false
 	clearMsg
@@ -33,23 +33,25 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	"""
-	Don't worry.
-	We don't hold a
-	grudge against you.
+	Não se preocupe.
+	Não guardamos rancor
+	por você.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Those Navi you de-
-	leted were idiots.
+	Aqueles Navis que
+	foram deletados eram
+	uns palermas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I should really be
-	thanking you.
+	Na verdade,eu
+	devia era estar
+	te agradecendo.
 	"""
 	keyWait
 		any = false
@@ -60,7 +62,7 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = ProtoMan
-	"Raaawrrr!!"
+	"Grrraahrr!!"
 	keyWait
 		any = false
 	clearMsg
@@ -71,21 +73,21 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	"""
-	Hee hee⋯You wanna
-	release the dark
-	power within,do ya?!
+	He he... Cê quer
+	liberar esse poder
+	sombrio aí,hein?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hee hee hee!!"
+	"He he he!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your DarkSoul will
-	dominate you com-
-	pletely soon enough.
+	A sua Alma Sombria
+	logo vai te dominar
+	por completo.
 	"""
 	keyWait
 		any = false
@@ -96,7 +98,7 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = ProtoMan
-	"Grrrrrr⋯"
+	"Grrrrrr..."
 	keyWait
 		any = false
 	end
@@ -106,8 +108,8 @@ script 6 mmbn4 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Once it completely
-	dominates you⋯
+	E tendo ela feito
+	isso...
 	"""
 	keyWait
 		any = false
@@ -118,14 +120,14 @@ script 7 mmbn4 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	DarkProtoMan,the
-	ultimate killing ma-
-	chine,will be born!
+	Nasce DarkProtoMan,
+	a máquina de matar
+	suprema!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Muwahahahahaha!!"
+	"Ua ha ha ha ha!!"
 	keyWait
 		any = false
 	end
@@ -134,21 +136,22 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	msgOpen
-	"I have a report,sir!"
+	"Notícias,senhor!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Chaud's set out to
-	rescue ProtoMan.
+	Chaud já começou a
+	agir para resgatar
+	o ProtoMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That must mean Mega-
-	Man is on the move
-	in the Cyberworld.
+	Logo,o MegaMan deve
+	estar vasculhando o
+	Mundo Cibernético.
 	"""
 	keyWait
 		any = false
@@ -158,14 +161,14 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"That was quick⋯"
+	"Que rápido..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Keep them away until
-	DarkProtoMan is
-	complete.
+	Mantenha-os ocupados
+	até o DarkProtoMan
+	estar pronto.
 	"""
 	keyWait
 		any = false
@@ -176,13 +179,14 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
-	"Yes,sir. I'm prepar-"
+	"Sim,senhor."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ing something that
-	will stop them!!
+	Estou preparando uma
+	coisinha que vai
+	segurar eles!!
 	"""
 	keyWait
 		any = false
@@ -193,8 +197,8 @@ script 11 mmbn4 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Don't let them
-	interfere⋯
+	Eles não podem
+	interferir...
 	"""
 	keyWait
 		any = false

@@ -5,16 +5,16 @@ script 0 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	This virus battle is
-	a test level for
-	Sharo's Net Corps.
+	Essa luta é um
+	teste de força da
+	Net Tropa de Sharo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It'll get you to
-	where Raika is.
+	Vou te levar até
+	onde o Raika está.
 	"""
 	keyWait
 		any = false
@@ -24,21 +24,22 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"Raika,you there?"
+	"Raika,está na\nescuta?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're sending in
-	reinforcements now.
-	All checks complete.
+	Estamos mandando
+	reforços. Terminamos
+	de testá-lo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This lvl can be used
-	for a real battle.
+	Ele está no nível
+	de encarar uma
+	batalha de verdade.
 	"""
 	keyWait
 		any = false
@@ -50,8 +51,8 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Raika
 	"""
-	⋯Reinforcements?
-	Who?
+	... Reforços?
+	Quem?
 	"""
 	keyWait
 		any = false
@@ -63,13 +64,13 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = SciLabMan
 	"""
-	An Electopian boy
-	named Lan.
+	Um menino ni-honense
+	chamado Lan Hikari.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Should we send him?"
+	"Podemos enviá-lo?"
 	keyWait
 		any = false
 	clearMsg
@@ -80,13 +81,13 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Raika
 	msgOpen
-	"⋯⋯Heh."
+	"...... He."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yeah,go ahead and
-	send him in.
+	Claro. Vá em frente,
+	mande-o para cá.
 	"""
 	keyWait
 		any = false
@@ -97,7 +98,7 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = SciLabMan
-	"Roger⋯"
+	"Entendido..."
 	keyWait
 		any = false
 	end
@@ -107,15 +108,17 @@ script 6 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Okay,let's get you
-	to the site.
+	Certo,agora você
+	terá que ir até o
+	local.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is a copy of
-	hideout key.
+	Aqui,uma cópia
+	da chave do
+	esconderijo.
 	"""
 	keyWait
 		any = false
@@ -150,16 +153,16 @@ script 8 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	It's located in
-	Undernet6,one of
+	Ele fica localizado
+	na Undernet 6,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the deepest levels
-	of the Undernet.
-	Be careful!
+	um dos níveis mais
+	profundos da Under-
+	net. Tome cuidado!
 	"""
 	keyWait
 		any = false
@@ -180,8 +183,9 @@ script 10 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	I intend to test
-	that Raika.
+	Com isso,eu vou
+	poder testar aquele
+	Raika...
 	"""
 	keyWait
 		any = false

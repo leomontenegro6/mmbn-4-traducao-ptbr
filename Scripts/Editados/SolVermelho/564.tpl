@@ -5,15 +5,16 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Well,we defeated
-	the viruses!
+	Pronto,a gente
+	venceu os vírus!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now let Chisao go,
-	like you promised!
+	Agora solta o
+	Chisao,como você
+	prometeu!
 	"""
 	keyWait
 		any = false
@@ -24,23 +25,23 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	mugshotHide
 	"""
-	NOT BAD AT ALL!
-	I WILL FREE HIM AS
-	PER THE AGREEMENT.
+	NADA MAL! IREI
+	LIBERTÁ-LO,CONFORME
+	COMBINADO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT IS ALMOST TIME
-	FOR YOUR MATCH!
+	MAS JÁ ESTÁ QUASE NA
+	HORA DA SUA LUTA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU HAVE AS GOOD
-	AS LOST NOW!
+	VOCÊ PRATICAMENTE JÁ
+	PERDEU!
 	"""
 	keyWait
 		any = false
@@ -51,13 +52,12 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"So?! The life of"
+	"E daí?! É a vida do\nirmão do meu amigo"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	my friend's little
-	brother's at stake!
+	que tá em jogo aqui!
 	"""
 	keyWait
 		any = false
@@ -68,9 +68,8 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotHide
 	"""
-	HM?! THEN YOU'VE
-	ALREADY GIVEN UP ON
-	THE MATCH?
+	HM?! ENTÃO VOCÊ JÁ
+	DESISTIU DA LUTA?
 	"""
 	keyWait
 		any = false
@@ -82,13 +81,14 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	You can't compare a
-	match with his life!
+	Não dá pra comparar
+	uma luta de torneio
+	com uma vida!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let him go,now!"
+	"Agora solta ele! Já!"
 	keyWait
 		any = false
 	clearMsg
@@ -97,19 +97,19 @@ script 4 mmbn4 {
 }
 script 5 mmbn4 {
 	mugshotHide
-	"VERY WELL⋯"
+	"TUDO BEM..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU STILL MIGHT MAKE
-	IT IF YOU HURRY BACK
-	TO DENDOME.
+	TALVEZ VOCÊ CHEGUE A
+	TEMPO SE CORRER PARA
+	O DENDOMO.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"HURRY⋯"
+	"VÁ LOGO..."
 	keyWait
 		any = false
 	end
@@ -127,11 +127,11 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"You OK?!"
+	"Você tá bem!"
 	keyWait
 		any = false
 	clearMsg
-	"Are you hurt?!"
+	"Se machucou?!"
 	keyWait
 		any = false
 	end
@@ -140,7 +140,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Chisao
 	msgOpen
-	"⋯I'm OK."
+	"... Eu tô bem."
 	keyWait
 		any = false
 	clearMsg
@@ -151,8 +151,8 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Hey,where's the
-	kidnapper?!
+	Pera,cadê o
+	sequestrador?!
 	"""
 	keyWait
 		any = false
@@ -162,7 +162,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Dang,he got away⋯"
+	"Droga,ele fugiu..."
 	keyWait
 		any = false
 	clearMsg
@@ -173,16 +173,17 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	What was he trying
-	to do,anyway?
+	Qual era o objetivo
+	dele,afinal de
+	contas?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's as if he wanted
-	to keep Lan from
-	the match.
+	Parece até que ele
+	só queria te impedir
+	de lutar.
 	"""
 	keyWait
 		any = false
@@ -193,8 +194,9 @@ script 12 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	That must be it!
-	We still have time?!
+	Deve ser isso!
+	A gente ainda tem
+	tempo?!
 	"""
 	keyWait
 		any = false
@@ -206,9 +208,9 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I dunno,but let's
-	get back to DenDome
-	as fast as we can!
+	Não sei. Só bora
+	correr pro DenDomo
+	com tudo!
 	"""
 	keyWait
 		any = false
@@ -219,7 +221,7 @@ script 13 mmbn4 {
 script 14 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"OK!!"
+	"É!!"
 	keyWait
 		any = false
 	end
@@ -229,8 +231,8 @@ script 15 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Chisao,we're going
-	back to DenDome!
+	Chisao,a gente vai
+	voltar pro DenDomo!
 	"""
 	keyWait
 		any = false

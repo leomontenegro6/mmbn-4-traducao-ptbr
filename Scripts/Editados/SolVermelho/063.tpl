@@ -13,7 +13,7 @@ script 2 mmbn4s {
 	end
 }
 script 3 mmbn4s {
-	"CyberBat"
+	"CbMorceg"
 	end
 }
 script 4 mmbn4s {
@@ -37,7 +37,7 @@ script 8 mmbn4s {
 	end
 }
 script 9 mmbn4s {
-	"Jornal"
+	"Papel"
 	end
 }
 script 10 mmbn4s {
@@ -69,7 +69,7 @@ script 16 mmbn4s {
 	end
 }
 script 17 mmbn4s {
-	"CyberTop"
+	"CybrPião"
 	end
 }
 script 18 mmbn4s {
@@ -93,11 +93,11 @@ script 22 mmbn4s {
 	end
 }
 script 23 mmbn4s {
-	"OrsouroM"
+	"BesOuroM"
 	end
 }
 script 24 mmbn4s {
-	"OrsouroF"
+	"BesOuroF"
 	end
 }
 script 25 mmbn4s {
@@ -109,11 +109,11 @@ script 26 mmbn4s {
 	end
 }
 script 27 mmbn4s {
-	"Gelo"
+	"Sorvete"
 	end
 }
 script 28 mmbn4s {
-	"CybCanst"
+	"CybTnque"
 	end
 }
 script 29 mmbn4s {
@@ -169,55 +169,55 @@ script 41 mmbn4s {
 	end
 }
 script 42 mmbn4s {
-	"MightyBl"
+	"Ataque"
 	end
 }
 script 43 mmbn4s {
-	"StrmKiss"
+	"Beijo"
 	end
 }
 script 44 mmbn4s {
-	"Lecture"
+	"Discurso"
 	end
 }
 script 45 mmbn4s {
-	"WzMonkey"
+	"MgMacaco"
 	end
 }
 script 46 mmbn4s {
-	"WzCat"
+	"MagoGato"
 	end
 }
 script 47 mmbn4s {
-	"WzDragon"
+	"MgDragão"
 	end
 }
 script 48 mmbn4s {
-	"MagicSel"
+	"SeloMági"
 	end
 }
 script 49 mmbn4s {
-	"VioDance"
+	"Bailar"
 	end
 }
 script 50 mmbn4s {
-	"PiadRuim"
+	"LeroLero"
 	end
 }
 script 51 mmbn4s {
-	"GoodNose"
+	"FaroBom"
 	end
 }
 script 52 mmbn4s {
-	"Scratch"
+	"Arranhão"
 	end
 }
 script 53 mmbn4s {
-	"BonsOlhs"
+	"Pelo"
 	end
 }
 script 54 mmbn4s {
-	"Plunge"
+	"Rugido"
 	end
 }
 script 55 mmbn4s {
@@ -233,7 +233,7 @@ script 57 mmbn4s {
 	end
 }
 script 58 mmbn4s {
-	"Orgulho"
+	"Soberba"
 	end
 }
 script 59 mmbn4s {
@@ -245,15 +245,15 @@ script 60 mmbn4s {
 	end
 }
 script 61 mmbn4s {
-	"Dresser"
+	"Pia"
 	end
 }
 script 62 mmbn4s {
-	"Zumbi"
+	"Paca"
 	end
 }
 script 63 mmbn4s {
-	"PçaBrinq"
+	"Brnquedo"
 	end
 }
 script 64 mmbn4s {
@@ -261,11 +261,11 @@ script 64 mmbn4s {
 	end
 }
 script 65 mmbn4s {
-	"Politicn"
+	"Político"
 	end
 }
 script 66 mmbn4s {
-	"RobôFznd"
+	"Fzndeiro"
 	end
 }
 script 67 mmbn4s {
@@ -273,15 +273,15 @@ script 67 mmbn4s {
 	end
 }
 script 68 mmbn4s {
-	"CrmScarf"
+	"ChclVrml"
 	end
 }
 script 69 mmbn4s {
-	"RedUWear"
+	"AnelMágc"
 	end
 }
 script 70 mmbn4s {
-	"WalshP37"
+	"Porrete"
 	end
 }
 script 71 mmbn4s {
@@ -289,19 +289,19 @@ script 71 mmbn4s {
 	end
 }
 script 72 mmbn4s {
-	"Sunlight"
+	"LuzDoSol"
 	end
 }
 script 73 mmbn4s {
-	"Moonlght"
+	"LuzDaLua"
 	end
 }
 script 74 mmbn4s {
-	"MissSun"
+	"Sr.Sol"
 	end
 }
 script 75 mmbn4s {
-	"Skylight"
+	"Clraboia"
 	end
 }
 script 76 mmbn4s {
@@ -309,19 +309,19 @@ script 76 mmbn4s {
 	end
 }
 script 77 mmbn4s {
-	"Mo-o-m!"
+	"Maanhêêê!"
 	end
 }
 script 78 mmbn4s {
-	"Man Head"
+	"Caixa"
 	end
 }
 script 79 mmbn4s {
-	"C-Slider"
+	"DeslizaC"
 	end
 }
 script 80 mmbn4s {
-	"TownKyDt"
+	"DdCvVila"
 	end
 }
 script 81 mmbn4s {
@@ -337,7 +337,7 @@ script 83 mmbn4s {
 	end
 }
 script 84 mmbn4s {
-	"Tíquete"
+	"Passagem"
 	end
 }
 script 85 mmbn4s {
@@ -345,19 +345,19 @@ script 85 mmbn4s {
 	end
 }
 script 86 mmbn4s {
-	"BraveryM"
+	"PBravura"
 	end
 }
 script 87 mmbn4s {
-	"StrngthM"
+	"PForça"
 	end
 }
 script 88 mmbn4s {
-	"WisdomM"
+	"PSbdoria"
 	end
 }
 script 89 mmbn4s {
-	"KindnesM"
+	"PTernura"
 	end
 }
 script 90 mmbn4s {
@@ -369,15 +369,15 @@ script 91 mmbn4s {
 	end
 }
 script 92 mmbn4s {
-	"GrasFlut"
+	"FlautaGr"
 	end
 }
 script 93 mmbn4s {
-	"VirusCln"
+	"MataVrus"
 	end
 }
 script 94 mmbn4s {
-	"CybrJrky"
+	"CybrCnSc"
 	end
 }
 script 95 mmbn4s {
@@ -393,7 +393,7 @@ script 97 mmbn4s {
 	end
 }
 script 98 mmbn4s {
-	"BmbShoes"
+	"ChtrBomb"
 	end
 }
 script 99 mmbn4s {
@@ -425,7 +425,7 @@ script 105 mmbn4s {
 	end
 }
 script 106 mmbn4s {
-	"FireBstr"
+	"ApgaFogo"
 	end
 }
 script 107 mmbn4s {
@@ -433,7 +433,7 @@ script 107 mmbn4s {
 	end
 }
 script 108 mmbn4s {
-	"BordPart"
+	"PeçaPrch"
 	end
 }
 script 109 mmbn4s {
@@ -473,7 +473,7 @@ script 117 mmbn4s {
 	end
 }
 script 118 mmbn4s {
-	"RecvrDrp"
+	"GotaCura"
 	end
 }
 script 119 mmbn4s {
@@ -481,7 +481,7 @@ script 119 mmbn4s {
 	end
 }
 script 120 mmbn4s {
-	"BncaMald"
+	"BnecAmal"
 	end
 }
 script 121 mmbn4s {
@@ -501,7 +501,7 @@ script 124 mmbn4s {
 	end
 }
 script 125 mmbn4s {
-	"JomonCd"
+	"CódJomon"
 	end
 }
 script 126 mmbn4s {
@@ -513,27 +513,27 @@ script 127 mmbn4s {
 	end
 }
 script 128 mmbn4s {
-	"SpinWhit"
+	"GiraBran"
 	end
 }
 script 129 mmbn4s {
-	"SpinPink"
+	"GiraRosa"
 	end
 }
 script 130 mmbn4s {
-	"SpinYllw"
+	"GiraAmrl"
 	end
 }
 script 131 mmbn4s {
-	"SpinRed"
+	"GiraVrml"
 	end
 }
 script 132 mmbn4s {
-	"SpinBlue"
+	"GiraAzul"
 	end
 }
 script 133 mmbn4s {
-	"SpinGrn"
+	"GiraVerd"
 	end
 }
 script 144 mmbn4s {
@@ -553,51 +553,51 @@ script 147 mmbn4s {
 	end
 }
 script 148 mmbn4s {
-	"SaboryaC"
+	"CSaborya"
 	end
 }
 script 149 mmbn4s {
-	"AffriqC"
+	"CAffriq"
 	end
 }
 script 150 mmbn4s {
-	"SharoCd"
+	"CdSharo"
 	end
 }
 script 151 mmbn4s {
-	"CastlPCd"
+	"CdPCastl"
 	end
 }
 script 152 mmbn4s {
-	"SpacePCd"
+	"CdPCtEsp"
 	end
 }
 script 153 mmbn4s {
-	"MaylBanr"
+	"BanrMayl"
 	end
 }
 script 154 mmbn4s {
-	"DexBaner"
+	"BanerDex"
 	end
 }
 script 155 mmbn4s {
-	"YaiBaner"
+	"BanerYai"
 	end
 }
 script 156 mmbn4s {
-	"JomonBnr"
+	"BnrJomon"
 	end
 }
 script 157 mmbn4s {
-	"CastlBnr"
+	"BnrCastl"
 	end
 }
 script 158 mmbn4s {
-	"HotelBnr"
+	"BnrHotel"
 	end
 }
 script 159 mmbn4s {
-	"SpaceBnr"
+	"BnrSpace"
 	end
 }
 script 160 mmbn4s {
@@ -641,7 +641,7 @@ script 179 mmbn4s {
 	end
 }
 script 180 mmbn4s {
-	"LocEnemy"
+	"TravInmg"
 	end
 }
 script 181 mmbn4s {

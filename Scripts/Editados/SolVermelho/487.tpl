@@ -23,9 +23,9 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	"""
-	Waaaaaaaaaaaa.
-	Wooooooooo.
-	Woooo. Woooo.
+	Aaaaaaahh!
+	Aauuughhh!
+	Ahhh... Aaah!
 	"""
 	waitOWVar
 		variable = 0
@@ -38,7 +38,8 @@ script 2 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ah,foi a Mayl... né?
+	Er,aquela era a
+	Mayl... né?
 	"""
 	keyWait
 		any = false

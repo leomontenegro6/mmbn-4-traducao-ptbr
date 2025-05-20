@@ -4,21 +4,21 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Atsuki
 	msgOpen
-	"Late again!"
+	"Atrasado de novo!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan!
-	Hurry up,we're
-	tired of waiting!
+	Vamos,Lan! Rápido,
+	ninguém aguenta
+	mais esperar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I want to do my
-	commentary!
+	Eu quero trocar
+	insultos com você!
 	"""
 	keyWait
 		any = false
@@ -31,16 +31,16 @@ script 1 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	Along with the burn-
-	ing spirit of
-	Atsuki,
+	Juntamente ao
+	espírito flamejante
+	do Atsuki,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it's Lan,
-	in the building!
+	eis aí Lan,
+	chegando no prédio!
 	"""
 	keyWait
 		any = false
@@ -50,18 +50,18 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Atsuki
 	msgOpen
-	"You're late,Lan!"
+	"Atrasou,hein,Lan?"
 	keyWait
 		any = false
 	clearMsg
-	"I gotta beat you,"
+	"Eu preciso te vencer"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so I can prove that
-	I'm the strongest
-	and the hottest!
+	pra provar que eu
+	sou o mais forte e
+	o mais quente!
 	"""
 	keyWait
 		any = false
@@ -74,8 +74,8 @@ script 3 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Don't be so sure of
-	that!
+	Tá confiante demais,
+	esquentadinho!
 	"""
 	keyWait
 		any = false
@@ -85,14 +85,14 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Mami
 	msgOpen
-	"Let's begin!"
+	"Vamos começar!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan!
+	Lan Hikari!
 	Vs.
-	Atsuki
+	Atsuki Homura!
 	"""
 	keyWait
 		any = false
@@ -122,7 +122,7 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = BurnerMan
 	msgOpen
-	"Burn baby burn!"
+	"Vou reduzir o\nMegaMan a ferro e\nfogo!"
 	keyWait
 		any = false
 	end

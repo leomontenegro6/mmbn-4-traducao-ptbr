@@ -15,29 +15,30 @@ script 10 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WITHIN THIS LAND SO
-	ABUNDANT IN NATURAL
+	SOBRE ESTA TERRA
+	TÃO ABUNDANTE EM
+	RECURSOS NATURAIS,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BEAUTY DWELL ANIMALS
-	WITH⋯LESS HOSPITABLE
-	DISPOSITIONS. I EMIT
+	VIVEM ANIMAIS QUE
+	SÃO... MENOS QUE
+	ACOLHEDORES. EU
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SPECIAL SOUND WAVES
-	TO ENSURE THEY DO
-	NOT ENCROACH.
+	EMITO ONDAS SONORAS
+	ESPECIAIS PARA MAN-
+	TÊ-LOS TRANQUILOS.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"GRRWWWOOOAAARRRR!!"
+	"GGRRAAAAARRR!!"
 	keyWait
 		any = false
 	end
@@ -48,23 +49,24 @@ script 11 mmbn4 {
 	msgOpen
 	"""
 	AAAHHH!
-	WHAT'S HAPPENING?!
+	O QUE ESTÁ
+	ACONTECENDO?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SOMEONE SET UP THOSE
-	STRANGE DEVICES!
-	THEY'RE EMITTING
+	ALGUÉM PLANTOU ESSES
+	APARELHOS ESTRANHOS!
+	ESTÃO EMITINDO UM
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	AN UNRECOGNIZED
-	SIGNAL! THE VILLAGE
-	IS IN TROUBLE!!
+	SINAL NÃO-IDENTI-
+	FICADO! A VILA
+	ESTÁ EM PERIGO!!
 	"""
 	keyWait
 		any = false
@@ -75,14 +77,17 @@ script 12 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THANKS TO YOU REMOV-
-	ING THOSE DEVICES,
-	ALL SYSTEMS ARE
+	OBRIGADO POR REMOVER
+	OS APARELHOS.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"BACK TO NORMAL!"
+	"""
+	AGORA,TODOS OS
+	SISTEMAS VOLTARAM
+	AO NORMAL!
+	"""
 	keyWait
 		any = false
 	end

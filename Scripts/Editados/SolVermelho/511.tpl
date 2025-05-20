@@ -7,9 +7,8 @@ script 0 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Huh? Something
-	that's strange.
-	Is the raft broken?
+	Ué? Que estranho.
+	A jangada quebrou?
 	"""
 	keyWait
 		any = false
@@ -20,30 +19,30 @@ script 1 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	controlLock
-	"Ah,it moved."
+	"Ah,voltou a se\nmover."
 	wait
 		frames = 60
 	clearMsg
 	spriteRotate
 		sprite = 0
 		direction = 1
-	"Now,now. No need to"
+	"Calma,rapaz. Não tem"
 	wait
 		frames = 10
-	"\nlook so worried!"
+	"\npor que ficar tão\npreocupado!"
 	wait
 		frames = 20
 	spriteRotate
 		sprite = 0
 		direction = 5
 	clearMsg
-	"It's perfectly safe"
+	"É 100% seguro"
 	wait
 		frames = 10
-	"\non top of the raft!"
+	"\naqui,na jangada!"
 	wait
 		frames = 10
-	"\nIt is really!"
+	"\nJuro que é!"
 	wait
 		frames = 20
 	end

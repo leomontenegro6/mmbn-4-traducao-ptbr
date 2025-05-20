@@ -19,9 +19,9 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Ha ha! It feels like
-	I'm shadow-boxing.
-	There's no response!
+	Arh... Parece até
+	que tô atacando uma
+	sombra! Nada atinge!
 	"""
 	keyWait
 		any = false
@@ -145,7 +145,7 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotShow
 		mugshot = ShadeMan
-	"Eugene Chaud...\nProtoMan..."
+	"Eugene Chaud...\nProtoMan.EXE..."
 	keyWait
 		any = false
 	clearMsg
@@ -396,7 +396,7 @@ script 21 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"... O que era?"
+	"... O que será?"
 	keyWait
 		any = false
 	end
@@ -477,8 +477,8 @@ script 25 mmbn4 {
 	clearMsg
 	"""
 	Talvez ele consiga
-	descobrir alguma
-	coisa sobre ele.
+	dizer alguma coisa
+	sobre ele.
 	"""
 	keyWait
 		any = false

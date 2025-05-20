@@ -15,7 +15,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Raika
 	msgOpen
-	"LAN,MEGAMAN!"
+	"LAN! MEGAMAN! "
 	waitSkip
 		frames = 30
 	"."
@@ -29,9 +29,9 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Yell with me guys!!
-	Only Lan and MegaMan
-	can save our planet!
+	Vamos,gritem também!
+	Somente eles podem
+	salvar o mundo!
 	"""
 	keyWait
 		any = false
@@ -43,15 +43,15 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = BlondMan
 	"""
-	Sharo's a cold coun-
-	try,but our
-	hearts are on fire!!
+	Sharo pode ser um
+	país frio,mas nossos
+	corações ardem!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WE'RE COUNTING ON
+	CONTAMOS COM VOCÊ,
 	MEGAMAN!!
 	"""
 	keyWait
@@ -64,7 +64,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	THREE CHEERS FOR
+	TRÊS VIVAS PARA O
 	MEGAMAN!
 	"""
 	keyWait
@@ -76,7 +76,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = YoungWoman
-	"MR.MEGAMAN!"
+	"SR. MEGAMAN!"
 	keyWait
 		any = false
 	clearMsg
@@ -87,7 +87,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
 	"""
-	YEEEHHH!
+	ÉÉÉÉ!
 	MEGA-MANNN!
 	"""
 	keyWait

@@ -4,14 +4,14 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Oh yeah."
+	"Ah,é."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's mail Mom and
-	tell her we're on
-	our way.
+	Vamos avisar pra
+	mamãe pra tamos a
+	caminho por e-mail.
 	"""
 	keyWait
 		any = false
@@ -21,13 +21,13 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Lessee⋯"
+	"Deixa eu ver..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm coming home for
-	lunch.
+	"Estou indo para
+	casa almoçar."
 	"""
 	keyWait
 		any = false
@@ -40,7 +40,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = LillyDrunk
 	msgOpen
-	"There we go!"
+	"Agora!"
 	wait
 		frames = 30
 	end
@@ -51,7 +51,7 @@ script 3 mmbn4 {
 	msgOpen
 	"""
 	Lan!
-	*glub glub*
+	Glub Glub!
 	"""
 	keyWait
 		any = false
@@ -68,7 +68,7 @@ script 4 mmbn4 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"⋯⋯\n"
+	"......\n"
 	mugshotAnimation
 		animation = 2
 	"Ahhhhhh!!!"
@@ -82,7 +82,7 @@ script 5 mmbn4 {
 	msgOpen
 	"""
 	MegaMan! MegaMan!
-	Are you all right?!
+	Você tá bem?!
 	"""
 	keyWait
 		any = false
@@ -96,8 +96,8 @@ script 6 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yes,I'm fine.
-	Nothing wrong here!
+	Aham,estou bem!
+	Nenhum problema!
 	"""
 	keyWait
 		any = false
@@ -110,17 +110,17 @@ script 7 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Whew! I thought I
-	was a goner for a
-	moment there.
+	Ufa! Por um momento,
+	eu achei que ia te
+	perder.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Who was that,just
-	slamming into me
-	all of a sudden?!
+	Quem foi que
+	esbarrou em mim
+	de repente,assim?!
 	"""
 	keyWait
 		any = false
@@ -133,15 +133,15 @@ script 8 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It was too fast to
-	see.
+	Foi rápido demais
+	pra ver.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Anyway,I'm fine.
-	Let's hurry on home.
+	Mas,enfim,eu tô bem.
+	Vamos logo pra casa.
 	"""
 	keyWait
 		any = false
@@ -154,8 +154,8 @@ script 9 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,you're just
-	too nice.
+	Ah,MegaMan,você
+	perdoa fácil demais.
 	"""
 	keyWait
 		any = false
@@ -165,59 +165,59 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = LillyDrunk
 	msgOpen
-	"*hic!*"
+	"Hic!"
 	keyWait
 		any = false
 	clearMsg
-	"Foiled again."
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Time for the final
-	resort!
-	"""
+	"Frustrada de novo."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll release
-	WindMan's full power
+	Hora do meu recurso
+	final.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and cause a major
-	panic in the Net!
+	Vou liberar o poder
+	total do WindMan
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan's on his way
-	to stop WindMan,
-	but he'll lose and
+	e causar o maior
+	pânico na Rede!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	get blown away with
-	no chance of
-	recovery! Brilliant!
+	Aí o MegaMan tentará
+	deter o WindMan,mas
+	vai perder e ser
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And that'll be the
-	end of MegaMan!
+	pulverizado,sem
+	chances de se recu-
+	perar! É brilhante!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hahahahaha!!!"
+	"""
+	E aí,será o fim do
+	MegaMan!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Ha ha ha ha ha!!!"
 	keyWait
 		any = false
 	end

@@ -5,19 +5,19 @@ script 0 mmbn4s {
 	end
 }
 script 1 mmbn4s {
-	"\"Hi\" = \"He???\""
+	"Rio=R10,Riio=R???"
 	end
 }
 script 2 mmbn4s {
-	"Three lines"
+	"Três linhas"
 	end
 }
 script 3 mmbn4s {
-	"Three circles"
+	"Três círculos"
 	end
 }
 script 4 mmbn4s {
-	"August,April,May"
+	"Agosto,Abril,Maio"
 	end
 }
 script 5 mmbn4s {

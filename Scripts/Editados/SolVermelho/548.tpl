@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Huff,huff⋯"
+	"Urf... Arf..."
 	keyWait
 		any = false
 	clearMsg
@@ -14,7 +14,7 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	mugshotShow
 		mugshot = Duo
-	"⋯Gwahhh!"
+	"... Aaaauugh!"
 	keyWait
 		any = false
 	end
@@ -24,27 +24,28 @@ script 2 mmbn4 {
 		mugshot = Duo
 	msgOpen
 	"""
-	How did you beat
-	my battle form?
+	Como você venceu
+	a minha forma de
+	batalha?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"But it is too late."
+	"Mas já é tarde\ndemais."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Gravity is already
-	pulling the missile
-	toward your planet.
+	A gravidade já está
+	puxando o míssíl
+	para o seu planeta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It is too late to
-	change its course.
+	É tarde demais para
+	mudar o curso dele.
 	"""
 	keyWait
 		any = false
@@ -56,9 +57,9 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Just wait and see!
-	We won't ever
-	give up!
+	Isso é o que vere-
+	mos! A gente não vai
+	desistir,nunca!
 	"""
 	keyWait
 		any = false
@@ -69,7 +70,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = Duo
-	"Then give it a try."
+	"Fique à vontade\npara tentar."
 	keyWait
 		any = false
 	end
@@ -79,24 +80,25 @@ script 5 mmbn4 {
 		mugshot = Duo
 	msgOpen
 	"""
-	I am interested in
-	seeing what you got.
+	Estou interessado em
+	ver do que você é
+	capaz.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You should cross the
-	bridge and then use
-	the control system.
+	Atravesse a ponte e
+	use o sistema de
+	controle.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Only 1 hour till it
-	enters the atmo-
-	sphere!
+	Só resta uma hora
+	até o míssil entrar
+	na atmosfera!
 	"""
 	keyWait
 		any = false
@@ -107,7 +109,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Hurry,MegaMan!"
+	"Rápido,MegaMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -117,7 +119,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"OK!"
+	"Tá!"
 	keyWait
 		any = false
 	end
@@ -126,7 +128,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"If I turn this⋯"
+	"Se eu virar isto\naqui..."
 	keyWait
 		any = false
 	end
@@ -136,13 +138,13 @@ script 9 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Grrr⋯Grrr⋯
-	Dang,it's heavy!
+	Grrr... Gnrr...
+	Droga,que pesado!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hrrr⋯"
+	"Hrrr...!"
 	keyWait
 		any = false
 	clearMsg
@@ -152,7 +154,7 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"You can do it!!"
+	"Você consegue!!"
 	keyWait
 		any = false
 	end

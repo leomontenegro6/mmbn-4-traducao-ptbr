@@ -2,7 +2,7 @@
 
 script 0 mmbn4 {
 	msgOpen
-	"Leavin' now!"
+	"Partindo!"
 	keyWait
 		any = false
 	callWorldMap
@@ -11,17 +11,17 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	msgOpen
 	"""
-	What?! There's a
-	snake in the drink
-	bottle on the table!
+	Quê?! Tem uma cobra
+	na bebida que está
+	sobre a mesa!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looks healthy,but
-	it's got some issues
-	with its head!
+	Parece saudável,
+	mas não tá bem da
+	cabeça,não!
 	"""
 	keyWait
 		any = false
@@ -30,24 +30,25 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	msgOpen
 	"""
-	The dish is empty,
-	but there's a spicy
-	smell in the air.
+	O prato está vazio,
+	mas há um aroma
+	apimentado no ar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Reckon they do some
-	pretty spicy food⋯
+	Você supõe que eles
+	adoram uma pimenta
+	aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you're gonna eat
-	here you've gotta be
-	ready for that.
+	Se for comer aqui,
+	esteja preparado
+	para isso.
 	"""
 	keyWait
 		any = false
@@ -56,17 +57,17 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	msgOpen
 	"""
-	They only sell rice
-	wine or super-spicy
-	food⋯
+	Eles só vendem vinho
+	de arroz e comida
+	apimentada...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's too strong for
-	kids or if you don't
-	like spicy stuff.
+	É forte demais pra
+	crianças e gente que
+	não é chegada.
 	"""
 	keyWait
 		any = false
@@ -75,15 +76,16 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	msgOpen
 	"""
-	The smell of bread
-	and kebab meat
+	O cheiro do pão e
+	da carne dos
+	espetinhos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	sure gets your
-	belly growling!
+	faz o seu estômago
+	roncar alto!
 	"""
 	keyWait
 		any = false
@@ -91,14 +93,14 @@ script 4 mmbn4 {
 }
 script 5 mmbn4 {
 	msgOpen
-	"A gas can⋯"
+	"Um botijão de gás..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This place supplies
-	gas for cooking
-	with.
+	Este lugar fornece
+	gás para ser usado
+	na cozinha.
 	"""
 	keyWait
 		any = false
@@ -109,9 +111,9 @@ script 5 mmbn4 {
 		jumpIfOutOfRange = 9
 	clearMsg
 	"""
-	Something's written
-	in Electopian among
-	the cans.
+	Tem alguma coisa
+	escrita em meio
+	aos botijões.
 	"""
 	keyWait
 		any = false
@@ -127,24 +129,25 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	msgOpen
 	"""
-	Among the statues
-	there's something
-	you just can't read.
+	Dentre as estátuas,
+	há algo que você
+	não consegue ler.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Look! There's a note
-	in Electopian in
-	the corner.
+	Olha! Tem uma
+	anotação na sua
+	língua no canto.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Probably written by
-	an expert⋯
+	Provavelmente foi
+	escrita por alguém
+	que a estudou...
 	"""
 	keyWait
 		any = false
@@ -161,17 +164,17 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	msgOpen
 	"""
-	The soothing sight
-	of the statues
-	would relax anyone.
+	A visagem dessas
+	estátuas relaxa
+	qualquer um.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	As you look at them,
-	somehow your heart
-	feels restful.
+	Ao olhar para elas,
+	seu coração se sente
+	descansado.
 	"""
 	keyWait
 		any = false
@@ -180,9 +183,9 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	msgOpen
 	"""
-	A giant figure of an
-	elephant in a giant
-	elephant figure.
+	A estátua gigante
+	de um gigantesco
+	elefante.
 	"""
 	keyWait
 		any = false

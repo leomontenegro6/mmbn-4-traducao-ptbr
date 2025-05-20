@@ -25,8 +25,8 @@ script 1 mmbn4 {
 		flag = 4478
 	msgOpen
 	"""
-	MegaMan isn't in
-	the PET⋯
+	MegaMan.EXE não está
+	no PET...
 	"""
 	keyWait
 		any = false
@@ -92,8 +92,9 @@ script 12 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Jack in later,Lan!
-	Mom's in trouble!
+	Deixa pra conectar
+	depois,Lan! A mamãe
+	tá em apuros!
 	"""
 	keyWait
 		any = false
@@ -115,8 +116,9 @@ script 13 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's read
-	your mail!
+	Lan,veja a sua caixa
+	de entrada de
+	e-mails!
 	"""
 	keyWait
 		any = false
@@ -132,7 +134,7 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Dad sent you mail!"
+	"Chegou um e-mail do\npapai!"
 	keyWait
 		any = false
 	end
@@ -148,9 +150,9 @@ script 15 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Wait! Didn't your
-	Mom say something
-	about your PC⋯?
+	Espera! A mamãe não
+	disse alguma coisa
+	sobre o seu PC...?
 	"""
 	keyWait
 		any = false
@@ -173,8 +175,8 @@ script 16 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	First off,Lan,we
-	have to find the
+	Lan,primeiro a gente
+	tem que achar o
 	"
 	"""
 	printItem

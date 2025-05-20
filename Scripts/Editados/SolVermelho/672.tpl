@@ -5,17 +5,17 @@ script 0 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	Nice work! Great
-	expression on your
-	face!
+	Muito bem! Adorei
+	essa ferocidade no
+	seu olhar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think you're ready
-	to put up a great
-	fight,now!
+	Acho que vocês estão
+	prontos pra fazer
+	bonito na luta!
 	"""
 	keyWait
 		any = false
@@ -28,8 +28,8 @@ script 1 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	MetalMan won't be
-	beaten!
+	O MetalMan vai ser
+	osso duro de roer!
 	"""
 	keyWait
 		any = false
@@ -41,7 +41,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = MetalMan
 	msgOpen
-	"Bring it on!"
+	"Manda ver!"
 	keyWait
 		any = false
 	clearMsg
@@ -52,7 +52,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah!"
+	"Pode deixar!"
 	keyWait
 		any = false
 	end
@@ -62,8 +62,9 @@ script 4 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's jack out,Lan.
-	Head to the castle!
+	Vamos desconectar,
+	Lan. Hora de irmos
+	pro castelo!
 	"""
 	keyWait
 		any = false
@@ -75,13 +76,13 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Okay!"
+	"Tá!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll see you at the
-	fight,Tamako!
+	Te vejo na luta,
+	Tamako!
 	"""
 	keyWait
 		any = false
@@ -92,8 +93,8 @@ script 6 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	Let's see your best
-	in the fight,
+	Vamos dar tudo
+	de nós na luta,
 	MetalMan!
 	"""
 	keyWait
@@ -106,22 +107,21 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = MetalMan
 	msgOpen
-	"But of course!"
+	"Mas é claro!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,the other
-	Navi is a tough one.
-	We won't have a
+	MegaMan é um Navi
+	bem durão. Não terei
+	chance se não usar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	chance without our
-	best spirit.
-	Tamako,too.
+	todo o meu espírito.
+	Você também,Tamako.
 	"""
 	keyWait
 		any = false
@@ -134,9 +134,9 @@ script 8 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	Heh,that's more
-	than you usually
-	say. Worried?
+	He,você não costuma
+	falar tanto assim.
+	Tá preocupado?
 	"""
 	keyWait
 		any = false
@@ -162,14 +162,14 @@ script 10 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	We'll just smash and
-	punch the best we
-	can,as always!
+	A gente só vai socar
+	e chutar com toda a
+	força,como sempre!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Vamos lá!"
+	"Vamos!"
 	keyWait
 		any = false
 	clearMsg
@@ -180,7 +180,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = MetalMan
 	msgOpen
-	"Okay!"
+	"É!"
 	keyWait
 		any = false
 	end

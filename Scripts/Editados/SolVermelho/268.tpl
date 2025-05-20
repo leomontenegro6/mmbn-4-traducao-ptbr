@@ -10,9 +10,9 @@ script 0 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Oowhee! The garbage
-	left behind an event
-	like this is awful!
+	Uff! O lixo que fica
+	depois de um evento
+	desses é pútrido!
 	"""
 	keyWait
 		any = false
@@ -28,8 +28,8 @@ script 1 mmbn4 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	Oh,there you are my
-	pumpkin-wumpkin!
+	Ah,aí está você,
+	minha fofucha!
 	"""
 	keyWait
 		any = false
@@ -45,8 +45,8 @@ script 2 mmbn4 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Sorry to keep you
-	waiting,handsome!
+	Desculpa te fazer
+	esperar,bonitão!
 	"""
 	keyWait
 		any = false
@@ -57,9 +57,9 @@ script 10 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Picking up garbage
-	all day strains my
-	back⋯OWW! OWW!!
+	Catar lixo o dia
+	todo acaba com a
+	minha coluna. AAAI!
 	"""
 	keyWait
 		any = false
@@ -70,14 +70,14 @@ script 11 mmbn4 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	Who cares about our
-	age difference when
-	we have love!
+	Quem liga pra nossa
+	diferença de idade?
+	Nós temos amor!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Oh honey,I love you!"
+	"Ah,querida,eu te\namo!"
 	keyWait
 		any = false
 	end
@@ -87,9 +87,9 @@ script 12 mmbn4 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	I wish those two
-	lovebirds would go
-	someplace private!
+	Estes dois pombinhos
+	aqui precisam de um
+	lugar bem reservado!
 	"""
 	keyWait
 		any = false
@@ -113,16 +113,17 @@ script 20 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	The Red Sun Tourna-
-	ment should start
-	any minute now. I'm
+	O Torneio Sol Verme-
+	lho deve começar a
+	qualquer momento.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	glad I set my VCR to
-	record it!
+	Ainda bem que eu
+	deixei gravando em
+	casa!
 	"""
 	keyWait
 		any = false
@@ -137,19 +138,19 @@ script 21 mmbn4 {
 	mugshotShow
 		mugshot = BlondMan
 	msgOpen
-	"Why do we go in-"
+	"\"Por que não\nentramos?\""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	side,you ask? Well
-	sweety pie,riding on
-	the attractions is
+	Ora,meu docinho de
+	coco,você sabe que
+	esses brinquedos não
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"bad for your heart⋯"
+	"são bons pro seu\ncoração..."
 	keyWait
 		any = false
 	end
@@ -164,15 +165,16 @@ script 22 mmbn4 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Th-that's sweet,
-	darling⋯but you
+	É-é muito meigo da
+	sua parte,lindão...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	don't have to treat
-	me like an old lady.
+	Mas não precisa me
+	tratar como uma
+	senhorinha.
 	"""
 	keyWait
 		any = false
@@ -183,16 +185,17 @@ script 23 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	The Blue Moon Tour-
-	nament should start
-	any minute now. I'm
+	O Torneio Sol Azul
+	deve começar a
+	qualquer momento.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	glad I set my VCR to
-	record it!
+	Ainda bem que eu
+	deixei gravando em
+	casa!
 	"""
 	keyWait
 		any = false
@@ -206,23 +209,25 @@ script 30 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I hope Electopia's
-	battler is doing
-	well in the Red Sun
+	Tomara que o lutador
+	de Ni-Hon esteja se
+	saindo bem no
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Tournament,whoever
-	he is.
+	Torneio Sol
+	Vermelho,seja lá
+	quem ele for.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Huh? He hasn't lost
-	yet? That's good.
+	Hm? Ele ainda não
+	foi vencido?
+	Ah,que bom.
 	"""
 	keyWait
 		any = false
@@ -233,9 +238,9 @@ script 31 mmbn4 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	Peach-kins? I'm so
-	happy just being
-	with you like this.
+	Amoreco? Fico tão
+	feliz só de estar
+	com você,assim...
 	"""
 	keyWait
 		any = false
@@ -246,16 +251,17 @@ script 32 mmbn4 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Oh,shnookums! I'm
-	happy you feel that
-	way,but I need some
+	Ah,meu xuxuzinho!
+	Fico feliz que se
+	sinta assim,mas eu
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	excitement every
-	now and then⋯
+	preciso de um pouco
+	de emoção de vez em
+	quando...
 	"""
 	keyWait
 		any = false
@@ -263,8 +269,8 @@ script 32 mmbn4 {
 	mugshotShow
 		mugshot = BlondMan
 	"""
-	No,you have to take
-	care of your health.
+	Não,você tem que
+	cuidar bem da saúde.
 	"""
 	keyWait
 		any = false
@@ -275,23 +281,25 @@ script 33 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I hope Electopia's
-	battler is doing
-	well in the Blue
+	Tomara que o lutador
+	de Ni-Hon esteja se
+	saindo bem no
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Moon Tournament,
-	whoever he is.
+	Torneio Lua Azul,
+	seja lá quem ele
+	for.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Huh? He hasn't lost
-	yet? That's good.
+	Hm? Ele ainda não
+	foi vencido?
+	Ah,que bom.
 	"""
 	keyWait
 		any = false
@@ -302,9 +310,9 @@ script 40 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I'm finished clean-
-	ing for now. Maybe
-	I'll go watch TV⋯
+	Terminei de limpar,
+	por ora. Acho que
+	vou assistir TV...
 	"""
 	keyWait
 		any = false
@@ -315,21 +323,21 @@ script 41 mmbn4 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	My precious cuty-
-	pie left in a huff!
-	I don't think I did
+	A minha bonequinha
+	saiu tão zangada
+	daqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	anything wrong⋯
-	Oh,I'll never
+	Eu não acho que fiz
+	nada errado...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"understand women!"
+	"Ah,nunca vou\nentender as\nmulheres!"
 	keyWait
 		any = false
 	end
@@ -344,23 +352,24 @@ script 45 mmbn4 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Eventually people
-	stop coming,even to
-	a popular theme park
+	Uma hora,as pessoas
+	param de vir,até em
+	um parque temático
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	like Castillo. We
-	actually prefer it
+	popular como o
+	Castillo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	this way without the
-	crowds!
+	Francamente,eu
+	prefiro assim,
+	sem multidão!
 	"""
 	keyWait
 		any = false
@@ -376,15 +385,17 @@ script 46 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Visitors have almost
-	completely stopped
+	Praticamente pararam
+	de vir visitantes
+	aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	coming. We're losing
-	money staying open!
+	Estamos perdendo
+	dinheiro,abrindo
+	sem ninguém vir!
 	"""
 	keyWait
 		any = false
@@ -395,9 +406,9 @@ script 50 mmbn4 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Maybe people will
-	come back if there's
-	another incident?
+	Talvez as pessoas
+	voltem se houver
+	outro incidente?
 	"""
 	keyWait
 		any = false
@@ -408,34 +419,37 @@ script 51 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Their paying me for
-	just standing here!
+	Estão me pagando só
+	pra ficar parado
+	aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's nice not having
-	to do anything,but
+	É legal não ter
+	que fazer nada,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	if work doesn't pick
-	up,they may fire me!
+	mas se não começar
+	a aparecer trabalho,
+	vão me demitir!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd better find
-	something to do,and
+	É melhor eu achar
+	alguma coisa pra
+	fazer,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"quick!"
+	"e rápido!"
 	keyWait
 		any = false
 	end
@@ -445,20 +459,24 @@ script 55 mmbn4 {
 		mugshot = Girl
 	msgOpen
 	"""
-	An Official came in
-	here and is telling
+	Um Oficial veio aqui
+	e saiu dizendo pra
+	todo mundo ir pra
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	everyone to go home!
-	Did Castillo do
+	casa!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"something bad?"
+	"""
+	Será que o Castillo
+	fez alguma coisa
+	errada?
+	"""
 	keyWait
 		any = false
 	end
@@ -468,8 +486,9 @@ script 56 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Why's the park tem-
-	porarily closed?!
+	Por que o
+	parque fechou
+	temporariamente?!
 	"""
 	keyWait
 		any = false
@@ -480,13 +499,13 @@ script 57 mmbn4 {
 		mugshot = ShadyGuy
 	msgOpen
 	"""
-	Why do we have to
-	leave?! We were just
+	Por que a gente tem
+	que vazar?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"having fun!"
+	"Só távamos curtindo\naqui,de boa!"
 	keyWait
 		any = false
 	end
@@ -496,9 +515,9 @@ script 58 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	I can't discuss the
-	details,but you must
-	leave immediately!
+	Não posso dar deta-
+	lhes,mas vocês pre-
+	cisam ir embora!
 	"""
 	keyWait
 		any = false
@@ -506,46 +525,48 @@ script 58 mmbn4 {
 }
 script 180 mmbn4 {
 	msgOpen
-	"A Navi doll⋯"
+	"Um boneco de\nNavi..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Suddenly the doll
-	starts talking!!
+	De repente,ele
+	começa a falar!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviYellow
-	"Welcome to Castillo!"
+	"Bem-vindo ao\nCastillo!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Would you like to
-	take home a Castillo
-	"
+	Gostaria de levar
+	uma "
 	"""
 	printFolderName
 		buffer = 0
 		entry = 3
-	"\"?"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	It will replace your
-	current SpareFolder,
-	and if that's OK
+	"
+	do Castillo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	then it's yours!
-	Well?
+	Ela substituirá sua
+	PastaExtra atual.
+	Se aceitar essas
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	condições,ela é sua!
+	E então?
 	"""
 	keyWait
 		any = false
@@ -561,7 +582,7 @@ script 180 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Sure!  "
+	"Tá!  "
 	option
 		brackets = false
 		left = 0
@@ -570,7 +591,7 @@ script 180 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"No"
+	"Não"
 	select
 		default = 0
 		noDelay = false
@@ -586,8 +607,8 @@ script 180 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	Oh? All right,maybe
-	next time⋯
+	Ah,é? Bom,talvez
+	na próxima...
 	"""
 	keyWait
 		any = false
@@ -598,15 +619,15 @@ script 181 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	All right. I'll send
-	over the "
+	Certo,vou transferir
+	os dados da
+	"
 	"""
 	printFolderName
 		buffer = 0
 		entry = 3
 	"""
-	"
-	data now!
+	" agora!
 	"""
 	keyWait
 		any = false
@@ -621,20 +642,20 @@ script 181 mmbn4 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
 	soundPlay
 		track = 297
-	"Beep!"
+	"Bip!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	Transmission
-	complete!
+	Transmissão
+	concluída!
 	"""
 	keyWait
 		any = false
@@ -644,16 +665,17 @@ script 181 mmbn4 {
 		buffer = 0
 		entry = 3
 	"""
-	" is now
-	your new Spare-
-	Folder! Please
+	" agora é
+	sua nova
+	PastaExtra!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	remember Castillo
-	whenever you use it!
+	Espero que se lembre
+	do Castillo sempre
+	que a usar!
 	"""
 	keyWait
 		any = false

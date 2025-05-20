@@ -20,22 +20,23 @@ script 0 mmbn4 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	This village has a
-	river so we always
+	A vila tem um rio,
+	então sempre temos
+	água,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	have water,and a
-	lion statue so lions
+	e uma estátua de
+	leão para espantar
+	outros leões.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	don't approach. See
-	it up there?
+	Viu ela lá em cima?
 	"""
 	keyWait
 		any = false
@@ -66,23 +67,25 @@ script 1 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	I'm this village's
-	youth group leader.
+	Sou o líder do grupo
+	dos jovens desta
+	vila.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Actually,almost
-	everyone here is
-	young,
+	Na verdade,quase
+	todos aqui são
+	jovens,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so I'm like the
-	village chief.
+	então eu meio que
+	sou o chefe do
+	vilarejo.
 	"""
 	keyWait
 		any = false
@@ -108,25 +111,24 @@ script 2 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Actually,this villa-
-	ge was built lately.
-	It's surrounded by
+	Na verdade,esta vila
+	é recente. Está
+	cercada de lindos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	beautiful natural
-	landscapes,but
-	everything
+	cenários naturais,
+	mas tudo é controla-
+	do por uma Rede!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	is controlled by a
-	Network! ⋯But don't
-	tell anyone that!
+	... Mas não conta
+	pra ninguém,viu?!
 	"""
 	keyWait
 		any = false
@@ -137,9 +139,9 @@ script 10 mmbn4 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	Thanks to this river
-	we can live easily
-	in our village.
+	Graças a este rio,
+	podemos viver tran-
+	quilamente na vila.
 	"""
 	keyWait
 		any = false
@@ -150,16 +152,17 @@ script 11 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	The youth here built
-	this village as a
-	model of science and
+	Os jovens aqui cons-
+	truíram esta vila
+	como um modelo da
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	nature coexisting
-	in harmony.
+	ciência e da
+	natureza coexistindo
+	em harmonia.
 	"""
 	keyWait
 		any = false
@@ -170,24 +173,25 @@ script 12 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Our village is an
-	experiment in manag-
-	ing nature through
+	A vila é um experi-
+	mento de gerencia-
+	mento da natureza
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Networks. If nature
-	can be completely
-	managed this way,
+	através de Redes. Se
+	ela puder ser admi-
+	nistrada desse modo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	our planet will have
-	a bright future!
+	isso indicará um
+	futuro promissor
+	para a Terra!
 	"""
 	keyWait
 		any = false
@@ -198,16 +202,17 @@ script 20 mmbn4 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	I hear a famous
-	Electopian is
-	visiting here. 
+	Ouvi dizer que tem
+	um visitante ni-
+	honense famoso aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The say he's a
-	master NetBattler!
+	E dizem que ele é
+	um NetLutador de
+	primeira!
 	"""
 	keyWait
 		any = false
@@ -218,27 +223,29 @@ script 21 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	Something's missing
-	in this village⋯We
+	Tem alguma coisa
+	faltando nesta
+	vila...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	built a protective
-	deity⋯we created a
+	Nós construímos uma
+	divindade protetora,
+	criamos uma lenda...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	a legend⋯That's it!
-	There are no elders!
+	Ah,é claro!
+	Não tem anciãos!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"We need old people!"
+	"A gente precisa de\nvelhinhos!"
 	keyWait
 		any = false
 	end
@@ -248,16 +255,16 @@ script 22 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I'm not a local. I'm
-	an Electopian
-	systems engineer.
+	Eu não sou daqui.
+	Sou um engenheiro de
+	sistema ni-honense.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm just here to
-	inspect the Network.
+	Só vim aqui para
+	inspecionar a Rede.
 	"""
 	keyWait
 		any = false
@@ -273,17 +280,17 @@ script 25 mmbn4 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	I tried to go to the
-	Netopia Area on the
-	Net,but some foreign
+	Tentei ir à Área
+	Ameropa através da
+	Rede,mas um aparelho
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	device blocked my
-	way!
-	How annoying!!
+	estrangeiro aí me
+	barrou!
+	Que irritante!!
 	"""
 	keyWait
 		any = false
@@ -299,16 +306,16 @@ script 26 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	There's a lot of
-	commotion on the
-	Net. I hope this
+	Está uma bela
+	comoção na Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	village isn't in
-	danger.
+	Espero que esta vila
+	não esteja correndo
+	perigo...
 	"""
 	keyWait
 		any = false
@@ -324,25 +331,25 @@ script 27 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	The water isn't that
-	good,but it's good
-	enough for crops.
+	A água não é ótima,
+	mas serve para as
+	plantações.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We plan on growing
-	rice paddies in this
-	village. We're using
+	Planejamos plantar
+	arroz na vila.
+	Usaremos reprodução
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	selective breeding
-	to create rice that
-	thrives here.
+	seletiva para
+	criar arroz capaz
+	de crescer aqui.
 	"""
 	keyWait
 		any = false
@@ -353,28 +360,33 @@ script 30 mmbn4 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	The Net's back to
-	normal,but Official
+	A Rede voltou ao
+	normal,mas tem um
+	monte de Navis
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Navis are all over
-	the place asking if
-	anyone knows about
+	Oficiais por toda a
+	parte perguntando se
+	as pessoas conhecem
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"Nebula",so I jacked
-	out. What is Nebula,
+	uma tal de
+	"Nebula",então,
+	eu desconectei.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"anyway?"
+	"""
+	Quem que é essa
+	"Nebula",afinal?
+	"""
 	keyWait
 		any = false
 	end
@@ -384,22 +396,24 @@ script 31 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	Something happened
-	on the Net,right? We
+	Aconteceu alguma
+	coisa na Rede,não
+	foi?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	have to increase our
-	security so we don't
+	Temos que fortalecer
+	a nossa segurança
+	para não sermos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	fall victim to any
-	crimes.
+	vítimas de nenhum
+	crime.
 	"""
 	keyWait
 		any = false
@@ -410,9 +424,9 @@ script 32 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	We'll have to create
-	a waterway here to
-	channel water⋯
+	Teremos que criar um
+	canal para canalizar
+	água aqui...
 	"""
 	keyWait
 		any = false
@@ -423,22 +437,24 @@ script 35 mmbn4 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	N-Nupopo is crying!
-	You have to squint
+	N-Nupopo está
+	chorando! É um pouco
+	difícil de ver,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to see it,but a tear
-	is streaking down
+	mas há uma lágrima
+	caindo por seu
+	rosto!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	his cheak! This must
-	be a bad omen!
+	Isso só pode ser
+	um mau presságio!
 	"""
 	keyWait
 		any = false
@@ -449,17 +465,17 @@ script 36 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	Nupopo's tears indi-
-	cate danger of at
-	least Level 4 ap-
+	As lágrimas do 
+	Nupopo indicam que
+	um perigo de nível
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	proaches.
-	We must evacuate
-	underground!
+	mínimo 4 se aproxi-
+	ma. Precisamos fugir
+	para o subsolo!
 	"""
 	keyWait
 		any = false
@@ -470,47 +486,47 @@ script 37 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Nupopo is worshipped
-	as thie town's pro-
-	tective deity
+	O Nupopo é venerado
+	como o deus protetor
+	desta cidade porque,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	because he's
-	actually a disaster
-	forecasting device.
+	na verdade,ele é um
+	sistema de previsão
+	de desastres.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	His reactions differ
-	depending on the
-	disater level:
+	As reações dele
+	dependem do nível
+	do desastre:
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Level 1: Sweat
-	Level 2: Drool
+	Nível 1: Suor
+	Nível 2: Baba
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Level 3: Snot
-	Level 4: Tears
+	Nível 3: Catarro
+	Nível 4: Lágrimas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The higher the level
-	the worse the catas-
-	trophe will be.
+	Quanto maior o
+	nível,pior a
+	catástrofe.
 	"""
 	keyWait
 		any = false
@@ -521,23 +537,23 @@ script 40 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	Has anyone not
-	evacuated yet?
+	Ainda falta alguém
+	para evacuar?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'd better get
-	out of here too.
+	É melhor você sair
+	daqui,também.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nupopo's forecast
-	sensors are never
-	wrong!
+	Os sensores de
+	previsão do Nupopo
+	nunca erram!
 	"""
 	keyWait
 		any = false
@@ -548,9 +564,9 @@ script 130 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! If we get any
-	closer,the perpetra-
-	tor will notice!
+	Lan! Se chegarmos
+	mais perto,o bandido
+	vai notar!
 	"""
 	keyWait
 		any = false
@@ -561,9 +577,9 @@ script 131 mmbn4 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	This leads to holy
-	ground. Outsiders
-	are prohibited.
+	Aqui leva ao nosso
+	território sagrado.
+	Forasteiros,fora.
 	"""
 	keyWait
 		any = false
@@ -578,30 +594,31 @@ script 132 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	I'm this village's
-	youth group leader.
+	Eu sou o líder do
+	grupo de jovens
+	desta vila.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hmm? You're looking
-	for KendoMan? He's
+	Hmm? Você tá atrás
+	do KendoMan? Ele
+	está na Rede,na
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	on the Net in the
-	NetFricaArea. It's
-	time for practice,so
+	Área Affriq. É
+	hora do treino dele,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you should be able
-	to find him.
+	então você deve
+	encontrá-lo lá.
 	"""
 	keyWait
 		any = false
@@ -614,9 +631,9 @@ script 133 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	KendoMan's strict
-	during practice,
-	so be careful!
+	O KendoMan pega
+	pesado durante os
+	treinos. Cuidado!
 	"""
 	keyWait
 		any = false
@@ -627,15 +644,15 @@ script 135 mmbn4 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	You are a brave
-	warrior.
+	Você é um guerreiro
+	valente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You may approach
-	the lion.
+	Pode se aproximar
+	do leão.
 	"""
 	keyWait
 		any = false
@@ -646,16 +663,17 @@ script 136 mmbn4 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	Y-you saved my life!
-	I thought I was a
+	V-você salvou a
+	minha vida! Eu
+	achei que ia morrer,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	gonner the way that
-	lion was glaring
-	at me⋯
+	com o jeito com que
+	aquele leão estava
+	olhando pra mim...
 	"""
 	keyWait
 		any = false
@@ -665,13 +683,14 @@ script 137 mmbn4 {
 	mugshotShow
 		mugshot = Man
 	msgOpen
-	"Thank you! If"
+	"Obrigado!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	not for you,we
-	would've been⋯ *Sob*
+	Se não fosse você,
+	nós teríamos sido...
+	Chuif!
 	"""
 	keyWait
 		any = false
@@ -683,15 +702,16 @@ script 138 mmbn4 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"Buuuuurrrrrrr⋯"
+	"Brrrrrrr..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 2
 	"""
-	I still can't stop
-	shivering!
+	Não consigo parar
+	de tremer,mesmo
+	agora!
 	"""
 	keyWait
 		any = false
@@ -710,17 +730,17 @@ script 150 mmbn4 {
 		mugshot = BlackKid
 	msgOpen
 	"""
-	We're holding a
-	festival on the
-	NetFricaArea!
+	Estamos fazendo
+	um festival na
+	Área Affriq!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Jack into that
-	Nupopo statue and
-	join us!
+	Conecte-se à
+	estátua do Nipopo
+	e participe também!
 	"""
 	keyWait
 		any = false
@@ -732,7 +752,7 @@ script 151 mmbn4 {
 	mugshotShow
 		mugshot = BlackKid
 	msgOpen
-	"Hurry!"
+	"Rápido!"
 	keyWait
 		any = false
 	end
@@ -742,13 +762,13 @@ script 152 mmbn4 {
 		mugshot = BlackKid
 	msgOpen
 	"""
-	I'm going to be
-	Champion!
+	Eu vou ser o
+	campeão!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"You try too!"
+	"Tenta você,também!"
 	keyWait
 		any = false
 	end
@@ -763,39 +783,42 @@ script 155 mmbn4 {
 	msgOpen
 	flagSet
 		flag = 2837
-	"I heard all about"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	it⋯You protected the
-	village. The Water
+	Já fiquei sabendo
+	de tudo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	God is back to nor-
-	mal because of you.
+	Você salvou a vila.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You may jack into
-	it. I will take you
+	O Deus da Água
+	voltou ao normal
+	graças a você.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	across the river.
-	Now then,climb onto
+	Pode se conectar
+	nele. Eu te levo
+	pro outro lado do
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"my shoulders."
+	"""
+	rio.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Vamos,suba nas\nminhas costas."
 	keyWait
 		any = false
 	clearMsg
@@ -819,7 +842,7 @@ script 155 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Huh? No!"
+	"Hã? Não!"
 	select
 		default = 0
 		noDelay = false
@@ -835,8 +858,8 @@ script 155 mmbn4 {
 	mugshotShow
 		mugshot = Riki
 	"""
-	Come to me when you
-	wish to cross.
+	Fale comigo quando
+	quiser atravessar.
 	"""
 	keyWait
 		any = false
@@ -847,8 +870,8 @@ script 156 mmbn4 {
 		mugshot = Riki
 	msgOpen
 	"""
-	We go!
-	⋯Hup!!
+	Lá vamos nós!
+	... Upa!
 	"""
 	keyWait
 		any = false
@@ -860,7 +883,7 @@ script 157 mmbn4 {
 	mugshotShow
 		mugshot = Riki
 	msgOpen
-	"Will you return?"
+	"Quer voltar?"
 	keyWait
 		any = false
 	clearMsg
@@ -875,7 +898,7 @@ script 157 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Yes  "
+	"Sim  "
 	option
 		brackets = false
 		left = 0
@@ -884,7 +907,7 @@ script 157 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"No"
+	"Não"
 	select
 		default = 0
 		noDelay = false
@@ -900,8 +923,8 @@ script 157 mmbn4 {
 	mugshotShow
 		mugshot = Riki
 	"""
-	Let me know when you
-	wish to return.
+	Avise quando quiser
+	voltar.
 	"""
 	keyWait
 		any = false
@@ -912,8 +935,8 @@ script 158 mmbn4 {
 		mugshot = Riki
 	msgOpen
 	"""
-	We return!
-	⋯Hi-yup!!
+	Voltando!
+	... Uuppa!!
 	"""
 	keyWait
 		any = false
@@ -925,7 +948,7 @@ script 159 mmbn4 {
 	mugshotShow
 		mugshot = Riki
 	msgOpen
-	"Will you cross?"
+	"Vai atravessar?"
 	keyWait
 		any = false
 	clearMsg
@@ -940,7 +963,7 @@ script 159 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Yes  "
+	"Sim  "
 	option
 		brackets = false
 		left = 0
@@ -949,7 +972,7 @@ script 159 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"No"
+	"Não"
 	select
 		default = 0
 		noDelay = false
@@ -964,7 +987,7 @@ script 159 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = Riki
-	"Oh yeah⋯"
+	"Certo..."
 	keyWait
 		any = false
 	end
@@ -986,23 +1009,22 @@ script 160 mmbn4 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	Today's when we hold
-	the festival
-	for the WaterGod,who
+	Hoje é o festival
+	para o Deus da Água,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	watches over the
-	river for us!
+	que protege o rio
+	por todos nós!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WA-TER-GOD!
-	WA-TER-GOD!
+	DEUS-DA-ÁGUA!
+	DEUS-DA-ÁGUA!
 	"""
 	keyWait
 		any = false
@@ -1025,37 +1047,38 @@ script 161 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	You're from a
-	distant village?
+	Você é de uma vila
+	distante?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I am the youth
-	group leader
+	Sou o líder do grupo
+	de jovens desta
+	vila.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	of this village.
-	Enjoy our festival!
+	Aproveite o
+	festival!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're singing a
-	praise chant to the
-	WaterGod!
+	Estamos recitando um
+	cântico de gratidão
+	ao Deus da Água!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WA-TER-GOD!
-	WA-TER-GOD!
+	DEUS-DA-ÁGUA!
+	DEUS-DA-ÁGUA!
 	"""
 	keyWait
 		any = false
@@ -1077,27 +1100,27 @@ script 162 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"Huff⋯huff⋯huff⋯"
+	"Urf... Urf... Uff..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm a scholar⋯I'm
-	not fit for this!
-	Huff⋯huff⋯
+	Sou um acadêmico...
+	Não fui feito para
+	isto! Urf...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This dance⋯
-	Huff⋯huff⋯
-	⋯Is killing me!
+	Esta dança...
+	Urf... Arf...
+	... tá me matando!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯⋯wa⋯⋯ter⋯⋯god⋯⋯"
+	"...... deus...\nda...\ná... gua..."
 	keyWait
 		any = false
 	end
@@ -1107,15 +1130,16 @@ script 163 mmbn4 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	You're trying to
-	become Champion?
+	Você quer se tornar
+	o Campeão?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're the first
-	outsider to do that!
+	É o primeiro
+	forasteiro que
+	tenta fazer isso!
 	"""
 	keyWait
 		any = false
@@ -1125,8 +1149,8 @@ script 163 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	WA-TER-GOD!
-	WA-TER-GOD!
+	DEUS-DA-ÁGUA!
+	DEUS-DA-ÁGUA!
 	"""
 	keyWait
 		any = false
@@ -1137,22 +1161,22 @@ script 164 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	Who'll be Champion
-	this year?!
+	Quem vai ser o
+	Campeão deste ano?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I was Champion last
-	year!!
+	O Campeão do ano
+	passado fui eu!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WA-TER-GOD!
-	WA-TER-GOD!
+	DEUS-DA-ÁGUA!
+	DEUS-DA-ÁGUA!
 	"""
 	keyWait
 		any = false
@@ -1162,7 +1186,7 @@ script 165 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"⋯I can't go on⋯⋯"
+	"... Não aguento\nmais..."
 	keyWait
 		any = false
 	end
@@ -1171,13 +1195,13 @@ script 166 mmbn4 {
 	mugshotShow
 		mugshot = BlackWoman
 	msgOpen
-	"Oh no! Without this"
+	"Essa não!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	river,we can't live
-	here!
+	Sem o rio,não temos
+	como viver aqui!
 	"""
 	keyWait
 		any = false
@@ -1193,20 +1217,20 @@ script 167 mmbn4 {
 	mugshotShow
 		mugshot = Man
 	msgOpen
-	"\""
+	"A \""
 	printItem
 		buffer = 0
 		item = 118
 	"""
-	" is in the
-	NetFricaArea!
+	" está na
+	Área Affriq!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please hurry,
-	Champion!
+	Por favor,
+	se apresse,Campeão!
 	"""
 	keyWait
 		any = false
@@ -1217,27 +1241,30 @@ script 168 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Install the
+	Instale a
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 118
 	"""
-	" in the
-	WaterGod's River
+	" no
+	Sistema de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Management System!
-	It's deep inside the
+	Gerenciamento do
+	Deus da Água!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"WaterGod!"
+	"""
+	Fica nas profundezas
+	da Rede dele!
+	"""
 	keyWait
 		any = false
 	end
@@ -1247,8 +1274,8 @@ script 169 mmbn4 {
 		mugshot = BlackKid
 	msgOpen
 	"""
-	This should be easy
-	for the Champion!
+	Isso vai ser moleza
+	para o Campeão!
 	"""
 	keyWait
 		any = false
@@ -1258,21 +1285,21 @@ script 170 mmbn4 {
 	mugshotShow
 		mugshot = Man
 	msgOpen
-	"Champion. Inside the"
+	"Campeão. Dentro do\nDeus da Água,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WaterGod lies a lab-
-	yrinth of Networks.
-	If you feel in
+	há um labirinto de
+	Redes. Se sentir
+	que corre perigo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	danger,jack out
-	immediately!
+	desconecte-se
+	imediatamente!
 	"""
 	keyWait
 		any = false
@@ -1283,9 +1310,9 @@ script 171 mmbn4 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	Thank you! Our
-	village is indebted
-	to you!
+	Muito obrigada!
+	Nossa vila deve
+	muito a você!
 	"""
 	keyWait
 		any = false
@@ -1296,8 +1323,9 @@ script 172 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	Pray that the Water
-	God protects you⋯
+	Reze para que o
+	Deus da Água te
+	proteja...
 	"""
 	keyWait
 		any = false
@@ -1308,13 +1336,14 @@ script 173 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I thought we were
-	doomed for sure⋯
+	Eu estava certo de
+	que estávamos
+	perdidos...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Thank you!"
+	"Muito obrigado!"
 	keyWait
 		any = false
 	end

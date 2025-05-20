@@ -25,9 +25,9 @@ script 0 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	I'm gonna keep
-	coming back until
-	I get a discount!
+	Eu vou continuar
+	voltando até você me
+	dar um desconto!
 	"""
 	keyWait
 		any = false
@@ -58,8 +58,9 @@ script 1 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Oh,it's you⋯
-	You're back again⋯
+	Ah,você...
+	Então,está de
+	volta...
 	"""
 	keyWait
 		any = false
@@ -92,14 +93,14 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Hey! MegaMan!"
+	"Opa! MegaMan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Congratulations on
-	winning the Den
-	Battle Tournament!
+	Parabéns por vencer
+	o Torneio de Batalha
+	Den!
 	"""
 	keyWait
 		any = false
@@ -109,14 +110,14 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Hey! MegaMan!"
+	"Opa! MegaMan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Congratulations on
-	winning the City
-	Battle Tournament!
+	Parabéns por vencer
+	o Torneio de Batalha
+	da Cidade!
 	"""
 	keyWait
 		any = false
@@ -127,17 +128,17 @@ script 5 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	C'mon! Gimme a
-	discount on that
-	refrigerator!
+	Ah,vai! Dá um
+	desconto nessa
+	geladeira!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No⋯? Well then,
-	how about that
-	washing machine⋯?
+	Não vai...? Bom,e
+	aquela máquina de
+	lavar ali?
 	"""
 	keyWait
 		any = false
@@ -148,8 +149,8 @@ script 6 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	The washing machine?
-	Ummmmm⋯
+	A máquina de lavar?
+	Hmmmmm...
 	"""
 	keyWait
 		any = false
@@ -160,23 +161,23 @@ script 7 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Hey! A new kind of
-	PET was released!
+	Ah! Saiu um novo
+	modelo de PET!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've gotta' get me
-	one of those!
+	Eu tenho que comprar
+	um!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BBSs are nice,since
-	they let people
-	share information!
+	Fóruns são legais
+	porque dá pra achar
+	informações assim!
 	"""
 	keyWait
 		any = false
@@ -187,16 +188,16 @@ script 10 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	What?! You won't
-	discount the washer
-	either⋯?
+	O quê?! Também não
+	rola desconto na
+	máquina de lavar...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What's with this
-	store?!
+	Esta loja é um
+	ultraje!
 	"""
 	keyWait
 		any = false
@@ -207,8 +208,8 @@ script 11 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	But,but⋯It's a
-	new model,you see⋯
+	M-mas... é que é um
+	novo modelo,sabe...?
 	"""
 	keyWait
 		any = false
@@ -219,13 +220,13 @@ script 12 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I wonder what color
-	PET I should get⋯
+	Que cor de PET eu
+	compro...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I can't decide!"
+	"Não consigo decidir!"
 	keyWait
 		any = false
 	end
@@ -239,8 +240,8 @@ script 130 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! The Net fire
-	has cut out the
+	Lan! O incêndio na
+	Rede estragou o
 	link!
 	"""
 	keyWait
@@ -252,17 +253,17 @@ script 131 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The fire is
-	preventing the link
-	from being fixed!
+	O incêndio tá
+	impedindo o link
+	de funcionar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looks like it will
-	take some time until
-	it's fixed again⋯
+	Parece que ainda vai
+	demorar pra ele
+	voltar ao normal...
 	"""
 	keyWait
 		any = false

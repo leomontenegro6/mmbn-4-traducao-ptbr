@@ -12,17 +12,17 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	msgOpen
 	"""
-	The bathroom ahead's
-	got everything,bath
-	and toilet included.
+	O banheiro tem de
+	tudo,incluindo
+	banheira e chuveiro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm not used to it,
-	so I can't relax
-	when I'm in there.
+	Mas,dada a situação,
+	você não pode
+	relaxar aqui.
 	"""
 	keyWait
 		any = false
@@ -30,22 +30,22 @@ script 1 mmbn4 {
 }
 script 2 mmbn4 {
 	msgOpen
-	"A refrigerator⋯"
+	"Uma geladeira..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Pay afterwards and
-	drink as much as you
-	like.
+	Você consome o
+	quanto quiser dela
+	para pagar depois.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It costs a bit more
-	than outside,so you
-	gotta take care.
+	Mas é bem mais caro
+	que fora do hotel,
+	então,cuidado.
 	"""
 	keyWait
 		any = false
@@ -53,14 +53,14 @@ script 2 mmbn4 {
 }
 script 3 mmbn4 {
 	msgOpen
-	"A couch⋯"
+	"Uma poltrona..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's made for people
-	from Netopia,so
-	it's pretty big.
+	É feita pra
+	ameropanos,
+	então,é enorme.
 	"""
 	keyWait
 		any = false
@@ -69,9 +69,9 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	msgOpen
 	"""
-	There's a phone and
-	some hotel pamphlets
-	on the desk.
+	Tem um telefone e
+	uns panfletos do
+	hotel na mesa.
 	"""
 	keyWait
 		any = false
@@ -79,14 +79,14 @@ script 4 mmbn4 {
 }
 script 5 mmbn4 {
 	msgOpen
-	"A backless chair⋯"
+	"Uma bancada..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Light,but strong
-	too. Useful for all
-	kinds of stuff.
+	Leve,porém rígida.
+	Útil para todo o
+	tipo de coisa.
 	"""
 	keyWait
 		any = false
@@ -95,16 +95,16 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	msgOpen
 	"""
-	The bed's made up
-	nicely.
+	A cama está bem
+	arrumadinha.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That makes it easy
-	to sleep,even in a
-	strange place.
+	Assim fica fácil
+	dormir,mesmo num
+	lugar desconhecido.
 	"""
 	keyWait
 		any = false
@@ -113,16 +113,16 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	msgOpen
 	"""
-	The TV looked like
-	an ultra-thin one,
+	A TV parece com uma
+	de tela plana,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but looking closer,
-	it's just set back
-	into the wall.
+	mas,olhando de
+	perto,ela só está
+	enfiada na parede.
 	"""
 	keyWait
 		any = false
@@ -131,16 +131,16 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	msgOpen
 	"""
-	A real old-style
-	lamp⋯
+	Um abajur modelo
+	antigo genuíno...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But it's just right
-	for the atmosphere
-	in this room.
+	Combina
+	perfeitamente com a
+	atmosfera do quarto.
 	"""
 	keyWait
 		any = false
@@ -149,24 +149,25 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	msgOpen
 	"""
-	This is a cool
-	plaster statue of a
-	warrior.
+	Uma estátua de
+	gesso legal de um
+	guerreiro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's for the anti-
-	crime equipment and
-	the emergency bell.
+	É para a equipagem
+	anticrime e o alarme
+	de emergência.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And it's made so you
-	can jack in to it.
+	E é feito para você
+	poder se conectar
+	nela.
 	"""
 	keyWait
 		any = false

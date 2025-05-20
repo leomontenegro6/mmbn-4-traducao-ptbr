@@ -45,7 +45,7 @@ script 3 mmbn4 {
 		mugshot = Regal
 	msgOpen
 	"""
-	Acabei de pensar em
+	Acabei de lembrar de
 	uma coisa...
 	"""
 	keyWait

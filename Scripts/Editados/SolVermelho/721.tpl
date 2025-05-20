@@ -14,14 +14,14 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	mugshotShow
 		mugshot = Raoul
-	"What is it?"
+	"O que foi?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't like bugging
-	my opponent before
-	the match,
+	Desculpe,eu evito
+	falar com o oponente
+	antes de uma luta.
 	"""
 	keyWait
 		any = false
@@ -33,8 +33,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	but MegaMan's in
-	trouble!
+	O MegaMan tá mal!
 	"""
 	keyWait
 		any = false
@@ -46,8 +45,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Raoul
 	"""
-	What's wrong with
-	MegaMan?
+	O que ele tem?
 	"""
 	keyWait
 		any = false
@@ -59,16 +57,17 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	He started suffering
-	in the Net all of a
-	sudden!
+	Ele começou a sofrer
+	na Rede de repente,
+	e daí,começou a
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And then he started
-	losing power!
+	perder forças! Sabe
+	o que pode estar
+	acontecendo?!
 	"""
 	keyWait
 		any = false
@@ -80,8 +79,9 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Raoul
 	"""
-	Does this ring any
-	bells?
+	O MegaMan lutou
+	contra algum vírus
+	antes disso?
 	"""
 	keyWait
 		any = false
@@ -93,32 +93,24 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Did MegaMan fight a
-	viruses before he
-	collapsed?
+	Não,mas um velho
+	esquisito NetLutou
+	com a gente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No,but a strange
-	old man challenged
-	us to a NetBattle.
+	Ah,e ele disse uma
+	coisa depois da
+	luta...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He said something
-	after the battle
-	ended.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Gresply something or
-	other.
+	"Grespri"?
+	Uma coisa assim.
 	"""
 	keyWait
 		any = false
@@ -134,9 +126,8 @@ script 7 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Did that old man
-	say "Gresply
-	Nekrom"?
+	Esse homem falou
+	"Grespri Nekrom"?
 	"""
 	keyWait
 		any = false
@@ -152,8 +143,9 @@ script 8 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	That's it!
-	That's what he said!
+	É!
+	Foi isso mesmo que
+	ele disse!
 	"""
 	keyWait
 		any = false
@@ -164,14 +156,14 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotShow
 		mugshot = Raoul
-	"Gresply Nekrom⋯"
+	"Grespri Nekrom..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"Great Spirit,let
-	the Trial of Doom
-	begin!"
+	"Grande Espírito,que
+	comece a Provação da
+	Morte!"
 	"""
 	keyWait
 		any = false
@@ -184,7 +176,7 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Trial of Doom?"
+	"Provação da Morte?"
 	keyWait
 		any = false
 	clearMsg
@@ -195,17 +187,17 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Raoul
 	"""
-	In other words,
-	MegaMan has been hit
-	with a death curse.
+	O MegaMan foi
+	atingido por uma
+	maldição mortífera.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Unless something's
-	done,the curse will
-	kill MegaMan.
+	A menos que façamos
+	algo,a maldição vai
+	matar o MegaMan.
 	"""
 	keyWait
 		any = false
@@ -217,15 +209,17 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Death⋯curse?
-	MegaMan will d-die?
+	Maldição...
+	mortífera? O Mega-
+	Man v-vai morrer?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Raoul,isn't there
-	something we can do?
+	Raoul,não tem nada
+	que a gente possa
+	fazer?!
 	"""
 	keyWait
 		any = false
@@ -237,23 +231,23 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = Raoul
 	"""
-	There's only one
-	way to lift the
-	curse.
+	Só há um modo de
+	acabar com a
+	maldição.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan would have
-	to pass a trial of
+	Mas o MegaMan terá
+	de passar por uma
+	provação de vida ou
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	life or death first,
-	though.
+	morte primeiro.
 	"""
 	keyWait
 		any = false
@@ -265,8 +259,8 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Trial of life or
-	death?
+	Provação de vida ou
+	morte?
 	"""
 	keyWait
 		any = false
@@ -277,11 +271,11 @@ script 14 mmbn4 {
 script 15 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Lan⋯"
+	"Lan..."
 	keyWait
 		any = false
 	clearMsg
-	"I'll do it⋯"
+	"Eu topo..."
 	keyWait
 		any = false
 	end
@@ -295,8 +289,8 @@ script 16 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	You're in no shape
-	to do that!
+	Você não tá em
+	condições pra isso!
 	"""
 	keyWait
 		any = false
@@ -308,16 +302,17 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I'm okay,with your
-	help,Lan⋯
+	Se eu tiver a sua
+	ajuda,eu consigo,
+	Lan...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That trial is the
-	only way to lift
-	the curse,right?
+	Essa provação é o
+	único jeito de tirar
+	a maldição,né?
 	"""
 	keyWait
 		any = false
@@ -328,7 +323,7 @@ script 17 mmbn4 {
 script 18 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Okay,MegaMan."
+	"MegaMan..."
 	keyWait
 		any = false
 	end
@@ -338,13 +333,14 @@ script 19 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Raoul,tell us how
-	to lift this curse!
+	Raoul,fala pra gente
+	como acabar com essa
+	maldição!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"We're ready!"
+	"A gente tá pronto!"
 	keyWait
 		any = false
 	clearMsg
@@ -354,21 +350,22 @@ script 19 mmbn4 {
 script 20 mmbn4 {
 	mugshotShow
 		mugshot = Raoul
-	"Very well."
+	"Muito bem."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This Gresply Nekrom
-	curse uses a
-	"CursDoll",which
+	A maldição Grespri
+	Nekrom usa um "Bo-
+	neco Amaldiçoado",
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	must be placed in a
-	specific location.
+	que deve ser
+	afixado em um
+	local específico.
 	"""
 	keyWait
 		any = false
@@ -379,7 +376,7 @@ script 20 mmbn4 {
 script 21 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Where?!"
+	"Onde?!"
 	keyWait
 		any = false
 	clearMsg
@@ -390,46 +387,48 @@ script 22 mmbn4 {
 	mugshotShow
 		mugshot = Raoul
 	"""
-	There's a road in
-	Netopia Area that's
-	blocked by a door.
+	Há uma rota na Área
+	Ameropa que é barra-
+	da por uma porta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The "CursDoll" must
-	be behind that door.
+	O Boneco Amaldiçoado
+	deve estar além
+	dela.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To get past that
-	door,you'll need
+	Para passar pela
+	porta,será preciso
+	quatro provas:
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	4 marks:
-	BraveryM,StrngthM,
-	WisdomM,& KindnesM.
+	PBravura,PForça,
+	PSbdoria e PTernura.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're hidden in
-	Netopia and
-	YumLand Area.
+	Elas estão
+	escondidas nas Áreas
+	Ameropa e Saborya.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Only the cursed can
-	see them.
+	Só o amaldiçoado
+	consegue
+	enxergá-las.
 	"""
 	keyWait
 		any = false
@@ -441,8 +440,8 @@ script 23 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	So today,only
-	MegaMan sees them.
+	Então,só o MegaMan
+	pode ver elas agora.
 	"""
 	keyWait
 		any = false
@@ -454,16 +453,16 @@ script 24 mmbn4 {
 	mugshotShow
 		mugshot = Raoul
 	"""
-	It's a difficult
-	trial,
+	É uma provação
+	difícil,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but MegaMan
-	must pass it to
-	live another day!
+	mas o MegaMan preci-
+	sa passar por ela
+	se quiser viver!
 	"""
 	keyWait
 		any = false
@@ -474,7 +473,7 @@ script 24 mmbn4 {
 script 25 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Okay!"
+	"Tá!"
 	keyWait
 		any = false
 	clearMsg
@@ -485,22 +484,23 @@ script 26 mmbn4 {
 	mugshotShow
 		mugshot = Raoul
 	"""
-	I'll send ThunderMan
-	to Netopia Area.
+	Enviarei ThunderMan
+	à Área Ameropa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go to him after you
-	get the "CursDoll".
+	Fale com ele após
+	adquirir o "Boneco
+	Amaldiçoado".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Find the 4 marks
-	first.
+	Primeiro,encontre as
+	4 provas.
 	"""
 	keyWait
 		any = false
@@ -512,23 +512,24 @@ script 27 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I got it. Thank you,
+	Beleza. Obrigado,
 	Raoul.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I feel weird about
-	asking someone I'm
-	about to fight for
+	É meio estranho
+	pedir ajuda pro meu
+	próximo oponente,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	help,but there's
-	nobody else.
+	mas eu não tinha
+	mais a quem
+	recorrer.
 	"""
 	keyWait
 		any = false
@@ -540,9 +541,9 @@ script 28 mmbn4 {
 	mugshotShow
 		mugshot = Raoul
 	"""
-	Don't worry about
-	it. This isn't just
-	your problem.
+	Não se preocupe.
+	Esse problema não é
+	só seu.
 	"""
 	keyWait
 		any = false
@@ -553,7 +554,7 @@ script 28 mmbn4 {
 script 29 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Huh?"
+	"Hã?"
 	keyWait
 		any = false
 	clearMsg
@@ -564,9 +565,9 @@ script 30 mmbn4 {
 	mugshotShow
 		mugshot = Raoul
 	"""
-	Okay,hurry up.
-	The match will start
-	soon!
+	Enfim,apresse-se
+	logo. Não falta
+	muito para a luta!
 	"""
 	keyWait
 		any = false

@@ -4,22 +4,19 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
 	msgOpen
-	"KendoMan,deleted!"
+	"KendoMan foi\nderrotado!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Against all odds,
-	Lan has won the
-	battle!
+	No último segundo,
+	Lan levou a vitória!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But either side
-	could easily have
-	been victorious!
+	Mas foi por um triz!
 	"""
 	keyWait
 		any = false
@@ -29,29 +26,29 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
 	msgOpen
-	"Amazing!"
+	"Incrível!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You beat my
+	Você venceu o meu
 	KendoMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's not just Net-
-	Battles where you
-	shine,either.
+	Não é só que você
+	se sobressaia nas
+	NetLutas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You have the spirit
-	to overcome yourself
-	in times of trouble!
+	Você tem o espírito
+	para se superar na
+	hora do aperto!
 	"""
 	keyWait
 		any = false
@@ -63,15 +60,16 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	The two of you
-	taught me that!
+	Foram vocês dois
+	quem me ensinaram
+	isso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's the spirit of
-	the martial artist!
+	Esse é o espírito do
+	artista marcial!
 	"""
 	keyWait
 		any = false
@@ -82,21 +80,21 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = KendoMan
-	"Precisely!"
+	"Exatamente!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You learned that
-	your lessons well!
+	Vocês aprenderam
+	suas lições bem!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mr.Famous,we have
-	to take them as
-	apprentices⋯
+	Sr. Famoso,temos de
+	tomá-los como
+	aprendizes...
 	"""
 	keyWait
 		any = false
@@ -108,16 +106,17 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	No,we have nothing
-	left to teach them.
+	Não. Não nos resta
+	nada a ensinar a
+	eles.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They'll grow up
-	through their own
-	strength,now.
+	Agora,eles crescerão
+	com suas próprias
+	forças.
 	"""
 	keyWait
 		any = false
@@ -128,19 +127,19 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = KendoMan
-	"How⋯unfortunate."
+	"Que... infortuno."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's too bad,but
-	there's nothing left
-	to teach them!
+	É uma pena,mas,é
+	verdade. Não temos
+	mais nada a ensinar!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hahahahaha!!!"
+	"Ha ha ha ha ha!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -151,45 +150,45 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	Lan,MegaMan,I get
-	the feeling a huge
+	Lan,MegaMan,eu sinto
+	que tem uma enorme
+	missão bem próxima,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	mission is waiting
-	just around the
-	corner for you.
+	esperando por
+	vocês.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There may be many
-	problems up ahead
-	waiting for you,but
+	Pode ser que vocês
+	encontrem muitos
+	desafios à frente,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	whatever happens,
-	don't give up,and
-	follow your heart.
+	mas,haja o que hou-
+	ver,não desistam e
+	sigam seus corações.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you do this,I'm
-	sure your future
-	will be bright.
+	Se o fizerem,de
+	certo o sol do seu
+	amanhã brilhará.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"You got that?"
+	"Ouviram?"
 	keyWait
 		any = false
 	clearMsg
@@ -199,7 +198,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Okay!"
+	"Certo!"
 	keyWait
 		any = false
 	clearMsg
@@ -209,14 +208,14 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
-	"This is farewell!"
+	"Bom,me despeço\npor aqui!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I look forward to
-	our next battle,
-	wherever it may be.
+	Estou ansioso para a
+	nossa próxima luta,
+	seja quando for.
 	"""
 	keyWait
 		any = false
@@ -227,15 +226,15 @@ script 9 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	"Nothing left to
-	teach us!"
+	"Não resta nada a
+	eles nos ensinarem"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Are we that
-	amazing?!
+	A gente é incrível
+	assim?!
 	"""
 	keyWait
 		any = false
@@ -247,13 +246,17 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Don't get cocky,it
-	just shows how much
+	Não vá ficar
+	convencido,Lan.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"you have to learn!"
+	"""
+	Isso mostra que você
+	ainda tem muito a
+	aprender!
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -263,7 +266,7 @@ script 10 mmbn4 {
 script 11 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"I'll be careful!"
+	"Eu vou tentar!"
 	keyWait
 		any = false
 	end

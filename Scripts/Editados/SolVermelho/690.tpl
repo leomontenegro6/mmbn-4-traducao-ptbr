@@ -14,20 +14,20 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	mugshotShow
 		mugshot = Sal
-	"Lan⋯"
+	"Lan..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't get in touch
-	with WoodMan.
+	Eu não consigo
+	contatar o WoodMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This has never
-	happened before.
+	Isso nunca aconteceu
+	antes...
 	"""
 	keyWait
 		any = false
@@ -38,9 +38,9 @@ script 2 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	He was going near
-	the Navi that made
-	up this scheme.
+	Ele estava perto do
+	Navi que armou este
+	esquema todo.
 	"""
 	keyWait
 		any = false
@@ -52,9 +52,8 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	The Navi that
-	convinced everyone
-	to do this?!
+	O Navi que convenceu
+	todo mundo?!
 	"""
 	keyWait
 		any = false
@@ -66,24 +65,24 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = YoungWoman
 	"""
-	Yeah,That Navi has
-	no operator.
+	É. Aquele Navi não
+	tem operador.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a dangerous
-	Navi that just likes
-	to destroy the Net!
+	É um Navi perigoso
+	que simplesmente ama
+	destruir a Rede!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's just using our
-	members to further
-	his ambitions.
+	Ele só está usando
+	nossos membros pras
+	ambições deles.
 	"""
 	keyWait
 		any = false
@@ -94,18 +93,19 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = Sal
-	"What can I do?"
+	"O que eu faço?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If something happens
-	to WoodMan,I'd⋯
+	Se alguma coisa
+	acontecer com o
+	WoodMan,eu...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"*sob*"
+	"Chuif!"
 	keyWait
 		any = false
 	end

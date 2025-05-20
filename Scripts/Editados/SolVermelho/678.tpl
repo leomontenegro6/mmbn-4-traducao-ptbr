@@ -5,14 +5,14 @@ script 0 mmbn4 {
 		mugshot = Roll
 	msgOpen
 	"""
-	I knew you could do
-	it,Mega! Let's see
-	you do it again!
+	Eu sabia que conse-
+	guiria,Mega! Mas
+	consegue de novo?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Here we go!"
+	"Vamos ver!"
 	keyWait
 		any = false
 	flagSet
@@ -24,15 +24,14 @@ script 1 mmbn4 {
 		mugshot = Roll
 	msgOpen
 	"""
-	I expected this
-	much!
+	Já esperava isso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The next round won't
-	go that way!
+	Nesta próxima vez,
+	não vai ser assim!
 	"""
 	keyWait
 		any = false

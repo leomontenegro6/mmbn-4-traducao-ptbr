@@ -5,9 +5,9 @@ script 2 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,where are you
-	going?! We have to
-	put out the fire!
+	Lan,aonde você vai?!
+	A gente tem que
+	apagar o incêndio!
 	"""
 	keyWait
 		any = false
@@ -18,9 +18,9 @@ script 10 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,I'll start up
-	the NaviCustomizer!
-	
+	Lan,eu vou iniciar o
+	Customizador de
+	Navi!
 	"""
 	keyWait
 		any = false
@@ -30,13 +30,13 @@ script 30 mmbn4 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"Urrgh⋯"
+	"Urrgh..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"M⋯Mom!"
+	"M... Mãe!"
 	keyWait
 		any = false
 	flagSet
@@ -48,8 +48,9 @@ script 31 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Where are you going?
-	Mom needs help!
+	Aonde você vai?
+	A mamãe precisa da
+	nossa ajuda!
 	"""
 	keyWait
 		any = false
@@ -60,9 +61,9 @@ script 32 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Mom said that the
-	suspect was messing
-	with your PC,right?
+	A mamãe disse que o
+	suspeito mexeu no
+	seu computador,né?
 	"""
 	keyWait
 		any = false
@@ -73,8 +74,8 @@ script 40 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's read
-	that mail!
+	Lan,vamos ler
+	aquele e-mail!
 	"""
 	keyWait
 		any = false

@@ -6,7 +6,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"It's Lilly!"
+	"É a Lilly!"
 	keyWait
 		any = false
 	end
@@ -17,12 +17,12 @@ script 1 mmbn4 {
 	msgOpen
 	"""
 	Lan!
-	What great timing!
+	Chegou bem na hora!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Help!!!"
+	"Socorro!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -33,12 +33,12 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"It's a virus!"
+	"É um vírus!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's jack in,
+	Vamos conectar,
 	MegaMan!
 	"""
 	keyWait
@@ -51,7 +51,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Okay!"
+	"Beleza!"
 	keyWait
 		any = false
 	clearMsg
@@ -62,7 +62,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = LillyDrunk
 	msgOpen
-	"*grin*"
+	"He..."
 	keyWait
 		any = false
 	end

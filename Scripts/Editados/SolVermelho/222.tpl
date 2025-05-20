@@ -25,9 +25,9 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	msgOpen
 	"""
-	This place is firmly
-	locked. Open it with
-	a special key⋯
+	Esta porta está
+	bem trancada. Requer
+	chave especial...
 	"""
 	keyWait
 		any = false

@@ -6,8 +6,8 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	AquaMan?
-	I guess "aqua" means
-	he'll use water.
+	"Aqua"... Então
+	ele usa água,né?
 	"""
 	keyWait
 		any = false
@@ -18,13 +18,14 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Makes sense."
+	"Faria sentido."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Still,I wonder what
-	kind of Navi he is.
+	Ainda assim,me
+	pergunto que tipo
+	de Navi ele é.
 	"""
 	keyWait
 		any = false
@@ -38,7 +39,7 @@ script 2 mmbn4 {
 		value = 3
 	mugshotHide
 	soundDisableTextSFX
-	"*beep beep beep*"
+	"Bip Bip Bip"
 	keyWait
 		any = false
 	waitOWVar
@@ -53,21 +54,29 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan,you've got mail.
-	I'll read it!
+	Lan,chegou e-mail.
+	Eu vou ler aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"CyberMail Magazine\n Here's your fortune\n for today!"
+	"""
+	"Revista CyberMail:
+	Aqui vai a sua sorte
+	do dia!
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" You are likely to\n drown today!\n Beware of water!\""
+	"""
+	Altas chances de
+	você se afogar hoje!
+	Cuidado com água!"
+	"""
 	keyWait
 		any = false
 	clearMsg
-	"Huh."
+	"Hum..."
 	keyWait
 		any = false
 	clearMsg
@@ -82,9 +91,9 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	This can't be good
-	luck. Just before a
-	fight with AquaMan!
+	Isso que é azar!
+	Justo antes da luta
+	contra o AquaMan!
 	"""
 	keyWait
 		any = false
@@ -96,9 +105,9 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Don't worry,you
-	can't trust fortunes
-	like this.
+	Relaxa,essas
+	previsões são
+	sempre balela.
 	"""
 	keyWait
 		any = false
@@ -110,8 +119,9 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Well,yeah. Still,
-	I don't like it.
+	Bom... é.
+	Mas ainda assim,
+	não gosto nada.
 	"""
 	keyWait
 		any = false
@@ -123,16 +133,16 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Don't let it freak
-	you out.
+	Não esquenta muito
+	com isso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's go do some-
-	thing. There's time
-	before the match.
+	Vamos fazer alguma
+	coisa. Ainda tem
+	tempo até a luta.
 	"""
 	keyWait
 		any = false
@@ -144,9 +154,9 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	You're right. Let-
-	ting a fortune get
-	you down is silly.
+	Verdade. Deixar vi-
+	dência me botar pra
+	baixo é besteira.
 	"""
 	keyWait
 		any = false

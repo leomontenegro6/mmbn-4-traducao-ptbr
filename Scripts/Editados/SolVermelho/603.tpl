@@ -15,40 +15,39 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = AquaMan
 	"""
-	Just leave me alone.
-	*woosh* I'm really
-	depressed now.
+	Me deixa eu paz.
+	Xuá! Tô muito
+	deprimido agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know things have
-	been tough with Mom
-	and Dad dying young,
+	Sei que tem sido bem
+	difícil desde que os
+	pais deles morreram,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but I've worked
-	really hard for
-	everyone,too.
+	mas eu também
+	trabalhei duro pra
+	ajudar todo mundo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And now they're
-	gonna⋯
+	E agora,eles vão...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're gonna throw
-	me away and buy a
-	new Navi! So cruel!
+	Vão me jogar fora
+	e comprar um Navi
+	novo! É tão cruel!
 	"""
 	keyWait
 		any = false
@@ -60,9 +59,9 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Like I said,that's
-	all just a big
-	misunderstanding!
+	Como eu falei antes,
+	isso é tudo um
+	mal-entendido!
 	"""
 	keyWait
 		any = false
@@ -73,9 +72,9 @@ script 3 mmbn4 {
 		mugshot = AquaMan
 	msgOpen
 	"""
-	Nah,they said I'm
-	like an old washing
-	machine.
+	Mas,disseram que eu
+	era como uma máquina
+	de lavar velha!
 	"""
 	keyWait
 		any = false
@@ -92,7 +91,7 @@ script 3 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Wait a minute!"
+	"Pera!"
 	keyWait
 		any = false
 	clearMsg
@@ -102,14 +101,14 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"You got it!"
+	"Pois é!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's right,they
-	were talking about
-	the washing machine!
+	Eles tavam falando
+	era de uma máquina
+	de lavar!
 	"""
 	keyWait
 		any = false
@@ -120,16 +119,15 @@ script 5 mmbn4 {
 		mugshot = AquaMan
 	msgOpen
 	"""
-	Argh! I'm so
-	embarrassed!
+	Argh! Que vergonha!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What an incredibly
-	stupid misunder-
-	standing!
+	Que mal-entendido
+	idiota!
+	Super idiota!
 	"""
 	keyWait
 		any = false
@@ -141,17 +139,17 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Don't worry about
-	it. I'm just glad
-	you understand,now.
+	Relaxa. Tô feliz
+	que,agora,você
+	entendeu.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Anyway,can you do
-	something about
-	the Net?
+	Enfim,pode dar uma
+	ajeitada na Rede
+	agora?
 	"""
 	keyWait
 		any = false
@@ -162,24 +160,24 @@ script 7 mmbn4 {
 		mugshot = AquaMan
 	msgOpen
 	"""
-	Oh no! *woosh*
-	Did I do it again?!
+	Ai,não! Xuá!
+	Eu fiz de novo?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When I cry,I can't
-	see what's around
-	me.
+	Quando eu choro,
+	não consigo ver o
+	que tem ao redor.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sorry! *woosh*
-	I'll fix it up in a
-	jiffy!
+	Desculpa! Xuá!
+	Eu vou consertar
+	agora mesmo!
 	"""
 	keyWait
 		any = false
@@ -190,8 +188,8 @@ script 8 mmbn4 {
 		mugshot = AquaMan
 	msgOpen
 	"""
-	Aqua Vacuum!
-	*woooooooooooosh!*
+	Aqua-Sugador!
+	Xuááááááá!
 	"""
 	keyWait
 		any = false
@@ -202,8 +200,9 @@ script 9 mmbn4 {
 		mugshot = AquaMan
 	msgOpen
 	"""
-	Sorry about all the
-	hassle,MegaMan!
+	Desculpa por toda
+	a dor de cabeça,
+	MegaMan!
 	"""
 	keyWait
 		any = false
@@ -215,17 +214,17 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Don't worry about
-	me,just hurry back
-	home to Shuko!
+	Não esquenta comigo.
+	Volta logo pra
+	Shuko!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Besides,the match's
-	about to start. We'd
-	better head over.
+	Além disso,a luta tá
+	chegando. Melhor a
+	gente ir pra lá.
 	"""
 	keyWait
 		any = false
@@ -237,8 +236,8 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = AquaMan
 	"""
-	How do you know
-	about my match?
+	Como você sabia da
+	minha luta?
 	"""
 	keyWait
 		any = false
@@ -249,21 +248,21 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"I'm your opponent!"
+	"Eu sou o seu\noponente!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now that that's all
-	cleared up,we can
-	have a great battle!
+	Agora que tá tudo
+	esclarecido,podemos
+	ter uma luta legal!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll see you at the
-	tournament,then!
+	A gente se vê no
+	torneio,então!
 	"""
 	keyWait
 		any = false
@@ -273,7 +272,7 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = AquaMan
 	msgOpen
-	"MegaMan⋯"
+	"MegaMan..."
 	keyWait
 		any = false
 	end

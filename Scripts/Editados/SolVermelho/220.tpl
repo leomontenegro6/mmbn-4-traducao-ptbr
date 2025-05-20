@@ -6,8 +6,8 @@ script 0 mmbn4 {
 		jumpIfNotAll = 5
 	msgOpen
 	"""
-	Show the union of
-	the 6 souls⋯
+	Mostre a união das
+	seis almas...
 	"""
 	keyWait
 		any = false
@@ -17,7 +17,7 @@ script 0 mmbn4 {
 }
 script 1 mmbn4 {
 	msgOpen
-	"The UnderBBS⋯"
+	"O UnderFórum..."
 	keyWait
 		any = false
 	startBBS
@@ -30,14 +30,14 @@ script 2 mmbn4 {
 		jumpIfTrue = 3
 		jumpIfFalse = continue
 	msgOpen
-	"A coffin⋯"
+	"Um caixão..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The lid's closed,
-	but you can sense a
-	huge power within⋯
+	Está fechado,mas dá
+	para sentir grande
+	poder dentro dele...
 	"""
 	keyWait
 		any = false
@@ -46,15 +46,15 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	msgOpen
 	"""
-	The coffin's
-	opening⋯
+	O caixão está
+	aberto...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Inside,there is
-	nothing
+	Seu interior está
+	vazio
 	"""
 	waitSkip
 		frames = 30
@@ -76,9 +76,9 @@ script 3 mmbn4 {
 		jumpIfLess = continue
 	clearMsg
 	"""
-	Or so it seemed!
-	Something's flashing
-	inside the coffin!
+	Ou assim parecia!
+	Tem algo brilhando
+	dentro do caixão!
 	"""
 	keyWait
 		any = false
@@ -108,8 +108,8 @@ script 4 mmbn4s {
 script 5 mmbn4 {
 	msgOpen
 	"""
-	Show the union of
-	the 6 souls⋯
+	Mostre a união das
+	seis almas...
 	"""
 	keyWait
 		any = false

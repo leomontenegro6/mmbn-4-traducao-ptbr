@@ -5,17 +5,17 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,the magnetic
-	field in this area
-	is fluctuating too
+	Lan,o campo magnéti-
+	co dessa área é
+	instável demais
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	much for us to save
-	the game! Do you
-	want to go on?
+	para salvarmos o
+	jogo! Quer mesmo
+	seguir em frente?
 	"""
 	keyWait
 		any = false
@@ -56,8 +56,8 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	All right,then.
-	Here I go!
+	Beleza,então.
+	Vou lá!
 	"""
 	keyWait
 		any = false
@@ -71,13 +71,13 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"All right. Let me"
+	"Certo."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	know when you're
-	ready!
+	Me avise quando
+	estiver pronto!
 	"""
 	keyWait
 		any = false

@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I'm famished."
+	"Nossa,tô morto de\nfome."
 	keyWait
 		any = false
 	clearMsg
@@ -16,8 +16,8 @@ script 1 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Wanna get something
-	to eat nearby?
+	Quer comer alguma
+	coisa por aqui?
 	"""
 	keyWait
 		any = false
@@ -30,16 +30,17 @@ script 2 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Sure,but I don't
-	have much money.
+	Querer,eu quero,
+	mas tô zerado de
+	dinheiro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,do we have
-	time to go home
-	real quick?
+	MegaMan,dá tempo da
+	gente passar lá em
+	casa rapidinho?
 	"""
 	keyWait
 		any = false
@@ -52,9 +53,8 @@ script 3 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	There's plenty of
-	time before the
-	fight.
+	Bom,ainda falta um
+	bocado pra luta.
 	"""
 	keyWait
 		any = false
@@ -67,36 +67,37 @@ script 4 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Great,let's go
-	home then.
+	Beleza,então,
+	bora pra casa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll ask Mom to cook
-	up something tasty!
+	Vou pedir pra mamãe
+	preparar alguma
+	coisa gostosa!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's free,and most
-	of all,it tastes
-	good!
+	É de graça e,
+	mais importante,
+	delicioso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"True!"
+	"Verdade!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Get your strength up
-	for the next battle!
+	É bom reunir energia
+	pra luta!
 	"""
 	keyWait
 		any = false
@@ -115,7 +116,7 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wha'?!"
+	"Ué?!"
 	keyWait
 		any = false
 	clearMsg
@@ -127,9 +128,9 @@ script 7 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan?!
-	That's coming from
-	MelSquar!
+	Lan!
+	Isso veio lá da
+	Praça Marchen!
 	"""
 	keyWait
 		any = false

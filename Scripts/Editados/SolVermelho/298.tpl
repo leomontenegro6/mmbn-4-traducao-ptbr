@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	EVERYTHING IS
-	RELATIVELY PEACEFUL
-	NOW.
+	TUDO ESTÁ EM
+	RELATIVA PAZ
+	AGORA.
 	"""
 	keyWait
 		any = false

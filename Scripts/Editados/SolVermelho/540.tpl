@@ -18,7 +18,8 @@ script 1 mmbn4 {
 	mugshotHide
 	"""
 	.........
-	⋯An,La⋯
+	...an...
+	La...
 	"""
 	keyWait
 		any = false
@@ -30,8 +31,8 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	⋯MegaMan!
-	Is that you?!
+	... MegaMan!
+	Você tá aí?!
 	"""
 	keyWait
 		any = false
@@ -51,23 +52,23 @@ script 4 mmbn4 {
 		mugshot = Roll
 	msgOpen
 	"""
-	Hi Mega!
-	Saved in a flash!
+	Oi,Mega!
+	Resgate na hora
+	certa,hein?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just one shot to
-	destroy a sturdy
-	barrier like that.
+	Uma explosão boba
+	dessas não
+	destruiria esta
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nothing can
-	withstand this!
+	barreira!
 	"""
 	keyWait
 		any = false
@@ -78,9 +79,9 @@ script 5 mmbn4 {
 		mugshot = Glide
 	msgOpen
 	"""
-	Lan's father told
-	us of the situation
-	by mail.
+	O pai do Lan nos
+	informou da situação
+	via e-mail.
 	"""
 	keyWait
 		any = false
@@ -91,8 +92,9 @@ script 6 mmbn4 {
 		mugshot = GutsMan
 	msgOpen
 	"""
-	Only you can save
-	the planet,MegaMan!
+	Só você pode salvar
+	a Terra,MegaMan!
+	Guts!
 	"""
 	keyWait
 		any = false
@@ -103,7 +105,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Thank you all⋯!"
+	"Pessoal...!"
 	keyWait
 		any = false
 	clearMsg
@@ -113,7 +115,7 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = Dex
-	"Leave things to us!"
+	"Deixa isso aqui com\na gente!"
 	keyWait
 		any = false
 	clearMsg
@@ -124,13 +126,17 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Yai
 	"""
-	You're the planet's
-	only hope,so go and
+	Você é a única
+	esperança do
+	planeta,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"do what's needed!"
+	"""
+	então vai lá e faz
+	o que você precisa!
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -141,13 +147,14 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	"""
-	We all believe⋯
-	in you,Lan.
+	Eu... Nós
+	acreditamos muito
+	em você,Lan.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"No matter what!"
+	"Haja o que houver!"
 	keyWait
 		any = false
 	clearMsg
@@ -158,31 +165,31 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Dex⋯Yai⋯
-	⋯Mayl
+	Dex... Yai...
+	... Mayl...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯⋯You guys! By just
-	being here,you make
-	me feel invincible!
+	... Só de ter vocês
+	aqui,eu me sinto
+	invencível!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just wait and see.
-	I'm going to save
-	our world!
+	Esperem só. A gente
+	vai salvar o nosso
+	mundo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,let's get
-	back to NAXA!
+	MegaMan,vamos voltar
+	pra NAXA!
 	"""
 	keyWait
 		any = false
@@ -195,7 +202,7 @@ script 12 mmbn4 {
 		mugshot = MegaMan
 	"""
 	OK!
-	Thank you all!
+	Valeu,gente!
 	"""
 	keyWait
 		any = false

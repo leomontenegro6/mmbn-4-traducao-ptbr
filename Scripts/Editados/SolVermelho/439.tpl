@@ -4,14 +4,14 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Wha⋯?!"
+	"Hã...?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's a powerful
-	dark force here⋯I
-	can't go on!
+	Tem uma força som-
+	bria poderosa aqui!
+	Não consigo seguir!
 	"""
 	keyWait
 		any = false
@@ -26,62 +26,63 @@ script 1 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	The big dark hole
-	leads to the "Black
-	Earth",the world of
+	O grande buraco ne-
+	gro leva à "Terra
+	Vazia",o mundo da
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	darkness. It spews
-	forth dark power,
+	escuridão. Ela
+	expele poder
+	sombrio,impedindo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	preventing anyone
-	from entering it⋯
+	qualquer um de
+	entrar lá...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Only the chosen one
-	who bears the 5
-	EvilChips may enter⋯
+	Somente o escolhido,
+	que porta 5 Chips do
+	Mal,pode entrar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ever since the
-	statue appeared in
-	Undernet5,the dark
+	Desde que a estátua
+	apareceu em Undernet
+	5,o poder das trevas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	power has been
-	increasing⋯It is
-	tuned to that power!
+	tem aumentado...
+	O lugar ressoa com
+	esse poder!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If that statue is
-	not destroyed,then
-	even having the 5
+	Se a estátua não
+	for destruída,então
+	nem possuir os cinco
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	EvilChips will not
-	allow you to enter⋯
+	Chips do Mal lhe
+	permitiria entrar...
 	"""
 	keyWait
 		any = false
@@ -92,24 +93,24 @@ script 2 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	The dark power is
-	weakened?
+	O poder das trevas
+	foi enfraquecido?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Can this mean that
-	the statue in
-	Undernet5 is gone⋯?
+	Então,a estátua em
+	Undernet 5 se
+	foi...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It may now be
-	possible to enter
-	"Black Earth"!
+	Agora pode ser
+	possível entrar na
+	"Terra Vazia"!
 	"""
 	keyWait
 		any = false
@@ -131,22 +132,21 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"Wahahaha!"
+	"Ah ha ha ha!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Like my treasure?
-	I got it off some
-	guy in Undernet2⋯
+	Gostou do meu tesou-
+	ro? Peguei de um
+	cara em Undernet 2.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Look how it shines!
-	It's almost like the
-	sun!
+	Olha só como brilha!
+	Parece até o sol!
 	"""
 	keyWait
 		any = false
@@ -157,29 +157,30 @@ script 10 mmbn4 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
 	"""
-	What?
-	You want this?
+	Hã?
+	Cê quer isto?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hmmm⋯Lessee⋯"
+	"Hmmm... Xô ver..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess I could sell
-	it for 10000 Zs⋯
+	Acho que eu posso
+	vender por 10000
+	Zennys...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You got 10000
+	Você TEM 10000
 	Zennys?
 	"""
 	keyWait
@@ -221,8 +222,8 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	"""
-	No cash,
-	no treasure!
+	Sem grana,
+	sem tesouro!
 	"""
 	keyWait
 		any = false
@@ -238,22 +239,22 @@ script 11 mmbn4 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	So you'll buy it for
-	10000 Zennys?
+	Então,cê vai comprar
+	por 10000 Zennys?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You sure are rich
-	for a little kid⋯
+	Cê é bem barãozinho,
+	hein...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK! It's a deal!
-	Here yah go!
+	OK! Fechado!
+	Toma aí!
 	"""
 	keyWait
 		any = false
@@ -280,8 +281,8 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	"""
-	Good deal for you,
-	eh kid? Wahahaha!
+	Bom negócio,hein,
+	garoto? Ha ha ha!
 	"""
 	keyWait
 		any = false
@@ -292,8 +293,9 @@ script 12 mmbn4 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	You don't have the
-	cash to buy this!
+	Cê não tem a
+	grana pra comprar
+	isto aqui!
 	"""
 	keyWait
 		any = false
@@ -304,28 +306,27 @@ script 13 mmbn4 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Hey! Did you bring
-	the cash?
+	Ô! Trouxe a grana?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You want it,right?
-	Bright as the Sun,
-	you know⋯
+	Cê quer ele,né?
+	O brilhante como
+	o sol...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	10000 Zennys and
-	not a Zenny less!
+	10000 Zennys,e
+	não faço desconto!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Want it?"
+	"Quer?"
 	keyWait
 		any = false
 	clearMsg
@@ -365,8 +366,8 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	"""
-	No cash,
-	no treasure!
+	Sem grana,
+	sem tesouro!
 	"""
 	keyWait
 		any = false
@@ -377,8 +378,9 @@ script 14 mmbn4 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Good deal for you,
-	eh kid? Wahahaha!
+	Que bom negócio,
+	hein,garoto?
+	Ha ha ha ha!
 	"""
 	keyWait
 		any = false
@@ -389,9 +391,9 @@ script 150 mmbn4 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Who are you,child?!
-	How did you get in
-	here?!
+	Quem é você,criança?
+	Como veio parar
+	aqui?!
 	"""
 	keyWait
 		any = false
@@ -399,8 +401,8 @@ script 150 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I came to defeat you
-	all!
+	Eu vim derrotar
+	todos vocês!
 	"""
 	keyWait
 		any = false
@@ -408,25 +410,25 @@ script 150 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	"""
-	You must be a crony
-	of SerchMan⋯
+	Deve ser um lacaio
+	do SearchMan...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"So be it!"
+	"Que seja!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll show you what
-	happens to those who
-	oppose us! Deletion!
+	Vou mostrar o que
+	acontece com aqueles
+	que se opõem a nós!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Arrrrghhhh!"
+	"Deleção!\nArrrrghhhh!"
 	keyWait
 		any = false
 	flagSet
@@ -437,22 +439,21 @@ script 160 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	msgOpen
-	"Who are you?!"
+	"Quem é você?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're with that
-	ProtoMan character,
-	huh?
+	Você é aliado
+	daquele ProtoMan,
+	não é?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then there's no way
-	you're going past
-	here!
+	Então nunca que cê
+	vai passar aqui!
 	"""
 	keyWait
 		any = false
@@ -469,8 +470,8 @@ script 220 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Welcome to my
-	program shop!
+	Bem-vindo à minha
+	loja de programas!
 	
 	"""
 	positionOptionHorizontal
@@ -483,7 +484,7 @@ script 220 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Look  "
+	"Olhar  "
 	option
 		brackets = false
 		left = 0
@@ -492,7 +493,7 @@ script 220 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Don't look"
+	"Não olhar"
 	select
 		default = 0
 		noDelay = false
@@ -509,7 +510,7 @@ script 220 mmbn4 {
 }
 script 221 mmbn4 {
 	clearMsg
-	"Come again!"
+	"Volte sempre!"
 	keyWait
 		any = false
 	end
@@ -519,8 +520,8 @@ script 222 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Sorry,I'm all out of
-	merchandise⋯
+	Desculpe,acabou a
+	minha mercadoria...
 	"""
 	keyWait
 		any = false

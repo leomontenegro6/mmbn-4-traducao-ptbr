@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yes! NetFricaArea
-	and Netopia Area are
-	now connected,Lan!
+	Isso! A Área Affriq
+	e a Área Ameropa
+	estão reconectadas!
 	"""
 	keyWait
 		any = false

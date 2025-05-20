@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,that's the exit!"
+	"Lan,aí é a saída!"
 	keyWait
 		any = false
 	end
@@ -14,8 +14,8 @@ script 1 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,you can't leave
-	Mayl like that!
+	Lan,não pode largar
+	a Mayl assim!
 	"""
 	keyWait
 		any = false
@@ -28,15 +28,16 @@ script 2 mmbn4 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	It's the Halberd
-	Princess!!
+	É a Princesa
+	Alabarda!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	She's swinging her
-	giant halberd!
+	Ela está brandido
+	sua alabarda
+	gigante!
 	"""
 	keyWait
 		any = false
@@ -45,9 +46,9 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	msgOpen
 	"""
-	The halberd has been
-	put away,and all is
-	safe for now⋯
+	A alabarda foi
+	guardada. Tudo está
+	em segurança,agora.
 	"""
 	keyWait
 		any = false
@@ -62,8 +63,8 @@ script 5 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	The rides aren't
-	working!
+	As atrações não
+	estão funcionando!
 	"""
 	keyWait
 		any = false
@@ -78,9 +79,9 @@ script 6 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Well,I guess this is
-	a good time for some
-	ice cream and rest⋯
+	Bom,acho que é uma
+	boa hora pra tomar
+	sorvete e relaxar...
 	"""
 	keyWait
 		any = false
@@ -91,9 +92,9 @@ script 7 mmbn4 {
 		mugshot = OldManAlt
 	msgOpen
 	"""
-	Something smells
-	good! I think I'll
-	have some lunch!
+	Sinto um cheiro tão
+	bom! Acho que vou
+	almoçar agora!
 	"""
 	keyWait
 		any = false
@@ -104,8 +105,8 @@ script 8 mmbn4 {
 		mugshot = OldWomanAlt
 	msgOpen
 	"""
-	But Gramps,we
-	just ate!
+	Mas,querido,nós
+	acabamos de comer!
 	"""
 	keyWait
 		any = false
@@ -116,15 +117,15 @@ script 10 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	That was some really
-	good ice cream!
+	O sorvete tava tão
+	gostoso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder what I
-	should ride next⋯?
+	Em qual atração eu
+	vou agora...?
 	"""
 	keyWait
 		any = false
@@ -135,9 +136,9 @@ script 11 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	I think I'll skip
-	the VampirManor⋯
-	That looks scary!
+	Acho que vou pular a
+	Mansão do Vampiro.
+	Dá medo!
 	"""
 	keyWait
 		any = false
@@ -151,7 +152,7 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Lan! Look out!"
+	"Lan! Cuidado!"
 	keyWait
 		any = false
 	end
@@ -164,13 +165,13 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = BlueShirtBoy
 	msgOpen
-	"Ahhhhh⋯!"
+	"Ahhhhh..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've fallen,and
-	I can't get up⋯!
+	Eu caí e não
+	consigo levantar...!
 	"""
 	keyWait
 		any = false
@@ -184,7 +185,7 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = OrangeShirtBoy
 	msgOpen
-	"Help meeeee!"
+	"Socooorroooo!"
 	keyWait
 		any = false
 	end
@@ -198,9 +199,9 @@ script 18 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	What's going on
-	here? How could this
-	be happening⋯?
+	O que está havendo
+	aqui? Como isso pode
+	estar acontecendo?!
 	"""
 	keyWait
 		any = false
@@ -209,23 +210,25 @@ script 18 mmbn4 {
 script 20 mmbn4 {
 	msgOpen
 	"""
-	The funny-looking,
-	and yet sad Steel
-	Warrior⋯
+	O engraçado,porém
+	triste,Guerreiro
+	de Aço....
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Castillo's popular
-	character,TinMan⋯
+	O popular personagem
+	do Castillo,o
+	Flandrô...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It has a jack in
-	for maintenance.
+	Possui uma entrada
+	de conexão para
+	manutenção.
 	"""
 	keyWait
 		any = false
@@ -234,29 +237,31 @@ script 20 mmbn4 {
 script 21 mmbn4 {
 	msgOpen
 	"""
-	A Vampire,living in
-	darkness,hunted by
+	Um Vampiro,vivendo
+	na escuridão,sendo
+	caçado por
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Django,the Solar
-	Boy!
+	Django,o Garoto
+	Solar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Castillo's popular
-	character,Dracky⋯
+	O popular personagem
+	do Castillo,
+	Dracky...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It has a jack in
-	for maintenance.
+	Possui uma entrada
+	para manutenção.
 	"""
 	keyWait
 		any = false
@@ -265,16 +270,16 @@ script 21 mmbn4 {
 script 22 mmbn4 {
 	msgOpen
 	"""
-	Dracky is running
-	wild again!
+	O Dracky está fora
+	de controle de novo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He looks to be
-	heading straight
-	for Lilly!
+	E parece estar
+	avançando
+	sobre a Lilly!
 	"""
 	keyWait
 		any = false
@@ -284,7 +289,7 @@ script 25 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Lan,be careful!"
+	"Lan,cuidado!"
 	keyWait
 		any = false
 	end
@@ -293,13 +298,14 @@ script 26 mmbn4 {
 	mugshotShow
 		mugshot = BlueShirtBoy
 	msgOpen
-	"Th⋯Thank you!"
+	"O... Obrigado!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯But I still can't
-	get up!
+	... Mas eu ainda
+	não consigo me
+	levantar!
 	"""
 	keyWait
 		any = false
@@ -309,7 +315,7 @@ script 27 mmbn4 {
 	mugshotShow
 		mugshot = OrangeShirtBoy
 	msgOpen
-	"You,you've saved me!"
+	"V-você me salvou!"
 	keyWait
 		any = false
 	end
@@ -319,8 +325,8 @@ script 28 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	What could have
-	caused all of this⋯?
+	O que será que
+	causou tudo isso...?
 	"""
 	keyWait
 		any = false
@@ -334,48 +340,49 @@ script 30 mmbn4 {
 	mugshotShow
 		mugshot = OldManAlt
 	msgOpen
-	"⋯You can see me??"
+	"... Você consegue me\nver?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So you can⋯You have
-	very sharp senses,
-	son⋯
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Actually,I'm a
-	fairy!
+	Consegue,sim...
+	Seus sentidos são
+	bem aguçados,rapaz.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯Why are you making
-	that face⋯?
+	Na verdade,eu sou
+	uma fada!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lessee⋯How to prove
-	it to you⋯
+	... Por que essa
+	cara?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know! I'll give
-	you something you've
-	been looking for!
+	Vejamos... Como
+	faço para provar
+	para você...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Allahkhazam!"
+	"""
+	Já sei! Lhe darei
+	uma coisa pela qual
+	vem procurando!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"... Alacazam!"
 	keyWait
 		any = false
 	clearMsg
@@ -400,23 +407,24 @@ script 30 mmbn4 {
 	mugshotShow
 		mugshot = OldManAlt
 	"""
-	NOW do you believe
-	me?
+	E aí,acredita em
+	mim AGORA?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯Well if you don't
-	believe me,gimme
-	those points back!
+	... Bom,se não
+	acredita,devolve
+	aqui esses pontos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯You DO believe me?
-	Well that's good!
+	... Ah,você
+	acredita?
+	Ótimo!
 	"""
 	keyWait
 		any = false
@@ -429,15 +437,16 @@ script 31 mmbn4 {
 		mugshot = OldManAlt
 	msgOpen
 	"""
-	Actually,I'm king
-	of the fairies!
+	Na verdade,eu sou o
+	rei das fadas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's why I look
-	like this!
+	É por isso que eu
+	tenho esta
+	aparência!
 	"""
 	keyWait
 		any = false
@@ -448,14 +457,14 @@ script 32 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	I saw a ToyRobo
-	going into the
-	VampirManor⋯
+	Vi um RobôBrinq
+	entrando na
+	Mansão do Vampiro.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Lan,be careful!"
+	"Lan,toma cuidado!"
 	keyWait
 		any = false
 	end
@@ -464,7 +473,7 @@ script 33 mmbn4 {
 	mugshotShow
 		mugshot = BlueShirtBoy
 	msgOpen
-	"That was scary!"
+	"Deu tanto medo!"
 	keyWait
 		any = false
 	end
@@ -474,8 +483,8 @@ script 34 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	My knees won't stop
-	shaking!
+	Os meus joelhos não
+	param de tremer!
 	"""
 	keyWait
 		any = false
@@ -486,16 +495,17 @@ script 35 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	I can't believe this
-	is happening! And
-	right after opening!
+	Não acredito nisso!
+	E logo depois da
+	inauguração!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I just hope that
-	nobody gets hurt⋯
+	Espero de coração
+	que ninguém se
+	machuque...
 	"""
 	keyWait
 		any = false
@@ -506,9 +516,9 @@ script 40 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,where are you
-	going?! We have to
-	help Lilly!
+	Lan,aonde você vai?!
+	A gente tem que
+	ajudar a Lilly!
 	"""
 	keyWait
 		any = false
@@ -518,21 +528,20 @@ script 41 mmbn4 {
 	mugshotShow
 		mugshot = LillyDrunk
 	msgOpen
-	"⋯gulp⋯"
+	"... Hic..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯Huh? No,it's
-	nothing! Nothing
-	at all!
+	... Hã? Não,não é
+	nada! Nadinha
+	mesmo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Come on,hurry up
-	and save me!
+	Vai,me salva logo!
 	"""
 	keyWait
 		any = false
@@ -558,39 +567,39 @@ script 43 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	So,it looks like
-	your training is
-	finished!
+	Ah,parece que você
+	terminou o seu
+	treinamento!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can see the look
-	of determination
-	in your eyes⋯
+	Dá pra ver pela
+	determinação no
+	seu olhar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,let's see what
-	you've managed to
-	learn⋯
+	Bem,vejamos o que
+	você aprendeu...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go jack in to that
-	ice cream cart!
+	Conecte-se a este
+	carrinho de sorvete!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MetalMan is waiting
-	for you there⋯
+	O MetalMan vai estar
+	esperando por você
+	lá...
 	"""
 	keyWait
 		any = false
@@ -602,14 +611,14 @@ script 44 mmbn4 {
 	mugshotShow
 		mugshot = Tamako
 	msgOpen
-	"Go on! Hurry up!"
+	"Vá logo! Rápido!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you don't hurry,
-	you'll be late for
-	the match!
+	Se não se apressar,
+	vai se atrasar para
+	a luta!
 	"""
 	keyWait
 		any = false
@@ -620,8 +629,8 @@ script 46 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	I need to pull
-	myself together⋯!
+	Eu preciso treinar
+	mais...!
 	"""
 	keyWait
 		any = false
@@ -632,8 +641,9 @@ script 50 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	⋯Mmmmm,should I go
-	in? What do I do⋯?
+	... Mmmm. Será que
+	eu entro? O que eu
+	faço...?
 	"""
 	keyWait
 		any = false
@@ -644,9 +654,9 @@ script 51 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Vampires,huh⋯
-	That sounds really
-	scary⋯
+	Vampiros...
+	Parece sinistro
+	demais...
 	"""
 	keyWait
 		any = false
@@ -657,16 +667,16 @@ script 52 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	That was the
-	scariest thing I've
-	ever seen! Wow!
+	Foi a coisa mais
+	assustadora que eu
+	já vi! Uau!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯And look what
-	happened to my hair!
+	... Olha só como
+	ficou o meu cabelo!
 	"""
 	keyWait
 		any = false
@@ -677,16 +687,17 @@ script 53 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	I can't believe how
-	scary that was⋯
+	Nem acredito em
+	quanto medo isso
+	deu...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯So why is it that
-	I want to go in
-	again⋯?
+	... Mas,por algum
+	motivo,eu quero ir
+	de novo!
 	"""
 	keyWait
 		any = false
@@ -701,8 +712,9 @@ script 54 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	What?! They're
-	running wild again⋯?
+	O quê?! Eles saíram
+	do controle de
+	novo...?
 	"""
 	keyWait
 		any = false
@@ -713,22 +725,25 @@ script 55 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	First I'm scared by
-	the VampirManor⋯
+	Primeiro eu fiquei
+	com medo da Mansão
+	do Vampiro...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then I'm scared by
-	the crazed Dracky⋯
+	Depois,fui aterrori-
+	zado pelo Dracky
+	enlouquecido...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How much can one
-	person take⋯?
+	É medo demais pra
+	um coraçãozinho
+	só...
 	"""
 	keyWait
 		any = false
@@ -739,9 +754,9 @@ script 60 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	He's scared of
-	everything,but still
-	wants to go in⋯
+	Ele tem medo de
+	tudo,e mesmo assim,
+	quer entrar lá...
 	"""
 	keyWait
 		any = false
@@ -752,16 +767,16 @@ script 61 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	He's still trying to
-	work up the nerve!
-	I wish he'd give up⋯
+	Ele ainda tá reunin-
+	do coragem! Ele
+	devia desistir logo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	C'mon⋯! Let's just
-	go watch the match⋯
+	Chega,vai...! Vamos
+	lá ver a luta...!
 	"""
 	keyWait
 		any = false
@@ -771,21 +786,21 @@ script 62 mmbn4 {
 	mugshotShow
 		mugshot = OrangeShirtBoy
 	msgOpen
-	"I told you so!"
+	"Eu disse!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Are we finished
-	here? Can we go
-	watch the match now?
+	E aí,já chega,né?
+	Podemos ir ver a
+	luta agora?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't wait to see
-	it!
+	Eu tô morrendo de
+	vontade de ir ver!
 	"""
 	keyWait
 		any = false
@@ -796,24 +811,24 @@ script 63 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	He just won't give
-	up⋯I'll just go to
-	the finals alone⋯
+	Ele não desiste...
+	Vou ver a final
+	sozinho,então...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So who's still in
-	the running⋯?
+	Quem é que vai
+	lutar...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯What?!
-	⋯YOU are?!
-	You liar!
+	... O quê?!
+	... VOCÊ vai?!
+	Não mente!
 	"""
 	keyWait
 		any = false
@@ -828,8 +843,8 @@ script 64 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Huh? Isn't that
-	girl⋯
+	Ué? Aquela garota
+	ali...
 	"""
 	keyWait
 		any = false
@@ -840,25 +855,25 @@ script 65 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	That's the girl who
-	was being chased
-	by Dracky!
+	Sabe a garota que
+	tava sendo caçada
+	pelo Dracky?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wasn't she doing
-	something to him
-	before that⋯?
+	Acho que ela tava
+	fazendo algo com ele
+	antes disso...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Not that I think
-	SHE caused him to
-	run wild⋯
+	Não que eu ache que
+	foi ELA quem fez ele
+	perder o controle...
 	"""
 	keyWait
 		any = false
@@ -874,7 +889,7 @@ script 220 mmbn4 {
 	msgOpen
 	"""
 	Posso fornecer um
-	dos meus SubChips...
+	ou dois SubChips...
 	"""
 	keyWait
 		any = false
@@ -890,7 +905,7 @@ script 220 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Tá  "
+	"Sim  "
 	option
 		brackets = false
 		left = 0

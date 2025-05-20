@@ -4,14 +4,14 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = OldManAlt
 	msgOpen
-	"And that is why⋯"
+	"E é por isso que..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	In order to develop
-	ACDC even further,
-	10 or 20 trees⋯
+	para desenvolver
+	ACDC ainda mais,umas
+	poucas árvores...
 	"""
 	keyWait
 		any = false
@@ -23,21 +23,21 @@ script 1 mmbn4 {
 	soundStopBGM
 	mugshotHide
 	"""
-	Hey,you!
-	You can't come in
-	here!!!
+	Ô,garoto!
+	Não pode entrar
+	aqui!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Mayor is giving
-	a speech!
+	O Prefeito está
+	fazendo um discurso!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Uh!"
+	"Ugh!"
 	keyWait
 		any = false
 	clearMsg
@@ -58,11 +58,11 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"*pant pant*"
+	"Arf... Urf..."
 	keyWait
 		any = false
 	clearMsg
-	"I made it!"
+	"Deu tempo!"
 	keyWait
 		any = false
 	end
@@ -72,9 +72,9 @@ script 4 mmbn4 {
 		mugshot = OldManAlt
 	msgOpen
 	"""
-	Why are you inter-
-	rupting my excellent
-	speech,boy?
+	Por que está inter-
+	rompendo o meu lindo
+	discurso,rapazinho?
 	"""
 	keyWait
 		any = false
@@ -86,7 +86,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Outta the way!"
+	"Sai daí!"
 	keyWait
 		any = false
 	end

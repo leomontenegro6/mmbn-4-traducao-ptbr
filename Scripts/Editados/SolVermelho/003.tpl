@@ -7,7 +7,7 @@ script 0 mmbn4 {
 		arrowDistance = 3
 	textSpeed
 		delay = 0
-	"SAVE GAME?\n"
+	"SALVAR O JOGO?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -109,11 +109,11 @@ script 2 mmbn4 {
 		left = 222
 		top = 141
 	clearMsg
-	"SAVE FAILED."
+	"O SALVAMENTO\nFALHOU."
 	keyWait
 		any = false
 	clearMsg
-	"TRY AGAIN?\n"
+	"TENTAR DE NOVO?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -158,7 +158,7 @@ script 3 mmbn4 {
 		left = 222
 		top = 141
 	clearMsg
-	"SAVE COMPLETED"
+	"SALVAMENTO\nCONCLUÍDO"
 	keyWait
 		any = false
 	waitHold
@@ -175,14 +175,14 @@ script 4 mmbn4 {
 		top = 141
 	clearMsg
 	"""
-	THE DATA CAN
-	NOT SAVE FOR
-	PROBLEM WRITE
+	HOUVE UM ERRO NO
+	SALVAMENTO DOS
+	DADOS
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"TRY AGAIN?\n"
+	"TENTAR DE NOVO?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -228,14 +228,14 @@ script 5 mmbn4 {
 		top = 141
 	clearMsg
 	"""
-	THE DATA CAN
-	NOT SAVE FOR
-	PROBLEM WRITE
+	HOUVE UM ERRO NO
+	SALVAMENTO DOS
+	DADOS
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"TRY AGAIN?\n"
+	"TENTAR DE NOVO?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -270,19 +270,19 @@ script 5 mmbn4 {
 	waitHold
 }
 script 6 mmbn4s {
-	"Playtime"
+	"Tempo"
 	end
 }
 script 7 mmbn4s {
-	"Data Library"
+	"Coleção"
 	end
 }
 script 8 mmbn4s {
-	"BattleChips"
+	"Chips"
 	end
 }
 script 9 mmbn4s {
-	"Credit"
+	"Zennys"
 	end
 }
 script 10 mmbn4s {
@@ -334,9 +334,9 @@ script 15 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Too bad,Lan.
-	Want to watch
-	the rest?
+	Que pena,Lan.
+	Quer assistir
+	ao resto?
 	"""
 	positionOptionHorizontal
 		width = 8
@@ -467,8 +467,8 @@ script 21 mmbn4 {
 		buffer = 1
 		entry = 0
 	"""
-	 HAS
-	BEEN EQUIPPED!
+	 FOI
+	EQUIPADA!
 	"""
 	keyWait
 		any = false
@@ -492,8 +492,8 @@ script 22 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	STOP
-	EDITING?
+	PARAR DE
+	EDITAR?
 	
 	"""
 	positionOptionHorizontal
@@ -691,9 +691,9 @@ script 30 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	I CAN'T USE
-	EXTRA FOLDER!
-	IT'S LOCKED!
+	NÃO DÁ PARA USAR
+	PASTA EXTRA!
+	ESTÁ BLOQUEADA!
 	"""
 	keyWait
 		any = false
@@ -716,8 +716,8 @@ script 31 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	EDIT A FOLDER
-	AND RE-EQUIP!
+	EDITE UMA PASTA
+	E RE-EQUIPE-A!
 	"""
 	keyWait
 		any = false
@@ -816,9 +816,9 @@ script 46 mmbn4 {
 		left = 198
 		top = 93
 	"""
-	THERE ISN'T
-	NEED TO USE
-	THAT YET.
+	NÃO PRECISA
+	USAR ISSO
+	AINDA.
 	"""
 	keyWait
 		any = false
@@ -882,8 +882,8 @@ script 48 mmbn4 {
 		left = 198
 		top = 93
 	"""
-	MegaMan HP
-	recovered!
+	Os PV de MegaMan
+	foram restaurados!
 	"""
 	keyWait
 		any = false
@@ -898,9 +898,9 @@ script 49 mmbn4 {
 		left = 198
 		top = 93
 	"""
-	MegaMan HP
-	has fully
-	recovered!
+	Os PV de MegaMan
+	foram restaurados
+	por completo!
 	"""
 	keyWait
 		any = false
@@ -1220,7 +1220,7 @@ script 77 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"records"
+	"Recordes"
 	select
 		default = 0
 		noDelay = false
@@ -1259,7 +1259,7 @@ script 78 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"NaviCust\n"
+	"CustNavi\n"
 	positionOptionVertical
 		width = 12
 	option
@@ -1270,7 +1270,7 @@ script 78 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"records"
+	"Recordes"
 	select
 		default = 0
 		noDelay = false
@@ -1438,7 +1438,7 @@ script 83 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"Transmitting data⋯"
+	"Transmitindo\ndados..."
 	keyWait
 		any = false
 	waitHold
@@ -1654,9 +1654,8 @@ script 100 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Quit and
-	return to the
-	menu screen?
+	Sair e voltar
+	para o menu?
 	"""
 	keyWait
 		any = false
@@ -1929,7 +1928,7 @@ script 112 mmbn4 {
 		arrowDistance = 3
 	textSpeed
 		delay = 0
-	"Custom reset!"
+	"Customização\nresetada!"
 	waitHold
 }
 script 113 mmbn4s {
@@ -1986,9 +1985,9 @@ script 125 mmbn4s {
 }
 script 126 mmbn4 {
 	"""
-	Did it. Showed
-	'em about
-	RS Tournament!
+	Boa. Arrasou
+	no Torneio
+	Sol Vermelho!
 	"""
 	keyWait
 		any = false
@@ -1996,9 +1995,9 @@ script 126 mmbn4 {
 }
 script 127 mmbn4 {
 	"""
-	Did it. Showed
-	'em about
-	RS Tournament!
+	Boa. Arrasou
+	no Torneio
+	Sol Vermelho!
 	"""
 	keyWait
 		any = false
@@ -2006,9 +2005,9 @@ script 127 mmbn4 {
 }
 script 128 mmbn4 {
 	"""
-	Too bad!We owe
-	RS Tournament
-	team apology
+	Pena! Devemos
+	desculpas à
+	equipe do SV!
 	"""
 	keyWait
 		any = false
@@ -2016,9 +2015,9 @@ script 128 mmbn4 {
 }
 script 129 mmbn4 {
 	"""
-	Too bad!We owe
-	RS Tournament
-	team apology
+	Pena! Devemos
+	desculpas à
+	equipe do SV!
 	"""
 	keyWait
 		any = false
@@ -2026,9 +2025,9 @@ script 129 mmbn4 {
 }
 script 130 mmbn4 {
 	"""
-	Did it. Showed
-	'em about
-	BM Tournament!
+	Boa. Arrasou
+	no Torneio
+	Lua Azul!
 	"""
 	keyWait
 		any = false
@@ -2036,9 +2035,9 @@ script 130 mmbn4 {
 }
 script 131 mmbn4 {
 	"""
-	Did it. Showed
-	'em about
-	BM Tournament!
+	Boa. Arrasou
+	no Torneio
+	Lua Azul!
 	"""
 	keyWait
 		any = false
@@ -2046,9 +2045,9 @@ script 131 mmbn4 {
 }
 script 132 mmbn4 {
 	"""
-	Too bad!We owe
-	BM Tournament
-	team apology
+	Pena! Devemos
+	desculpas à
+	equipe do LA!
 	"""
 	keyWait
 		any = false
@@ -2056,20 +2055,20 @@ script 132 mmbn4 {
 }
 script 133 mmbn4 {
 	"""
-	Too bad!We owe
-	BM Tournament
-	team apology
+	Pena! Devemos
+	desculpas à
+	equipe do LA!
 	"""
 	keyWait
 		any = false
 	waitHold
 }
 script 140 mmbn4s {
-	"PwrAtk ChargeS"
+	"AtqFrç ChargeS"
 	end
 }
 script 141 mmbn4s {
-	"PwrAtk Heat LV"
+	"AtqFrç Fogo LV"
 	printBuffer
 		buffer = 0
 		minLength = 1
@@ -2078,7 +2077,7 @@ script 141 mmbn4s {
 	end
 }
 script 142 mmbn4s {
-	"PwrAtk Aqua LV"
+	"AtqFrç Água LV"
 	printBuffer
 		buffer = 0
 		minLength = 1
@@ -2087,7 +2086,7 @@ script 142 mmbn4s {
 	end
 }
 script 143 mmbn4s {
-	"PwrAtk Elec LV"
+	"AtqFrç Elet LV"
 	printBuffer
 		buffer = 0
 		minLength = 1
@@ -2096,7 +2095,7 @@ script 143 mmbn4s {
 	end
 }
 script 144 mmbn4s {
-	"PwrAtk Wood LV"
+	"AtqFrç Mdra LV"
 	printBuffer
 		buffer = 0
 		minLength = 1
@@ -2105,23 +2104,23 @@ script 144 mmbn4s {
 	end
 }
 script 145 mmbn4s {
-	"PwrAtk Invis"
+	"AtqFrç Invis"
 	end
 }
 script 146 mmbn4s {
-	"PwrAtk Cube"
+	"AtqFrç Cubo"
 	end
 }
 script 147 mmbn4s {
-	"PwrAtk WaterGun"
+	"AtqFrç PistÁgua"
 	end
 }
 script 148 mmbn4s {
-	"PwrAtk Flower"
+	"AtqFrç Flor"
 	end
 }
 script 149 mmbn4s {
-	"PwrAtk Custom"
+	"AtqFrç Custom"
 	end
 }
 script 152 mmbn4 {
@@ -2136,7 +2135,7 @@ script 152 mmbn4 {
 		top = 80
 	mugshotShow
 		mugshot = MegaMan
-	"BM Record: "
+	"Recorde BM: "
 	printRecordName
 		buffer = 4
 		name = 0
@@ -2169,7 +2168,7 @@ script 152 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Back  "
+	"Voltar  "
 	option
 		brackets = false
 		left = 0
@@ -2178,7 +2177,7 @@ script 152 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Delete"
+	"Apagar"
 	select
 		default = 0
 		noDelay = false
@@ -2205,7 +2204,7 @@ script 153 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	BM Record:
+	Recorde BM:
 	Lan:
 	
 	"""
@@ -2301,9 +2300,9 @@ script 154 mmbn4 {
 		jumpIfEqual = 127
 		jumpIfNotEqual = continue
 	"""
-	Did it,showed
-	'em about
-	RS Tournament!
+	Boa. Arrasou
+	no Torneio
+	Sol Vermelho!
 	"""
 	keyWait
 		any = false
@@ -2380,9 +2379,9 @@ script 155 mmbn4 {
 		jumpIfEqual = 129
 		jumpIfNotEqual = continue
 	"""
-	Too bad!We owe
-	RS Tournament
-	team apology
+	Pena! Devemos
+	desculpas à
+	equipe do SV!
 	"""
 	keyWait
 		any = false
@@ -2459,9 +2458,9 @@ script 156 mmbn4 {
 		jumpIfEqual = 131
 		jumpIfNotEqual = continue
 	"""
-	Did it. Showed
-	'em about
-	BM Tournament!
+	Boa. Arrasou
+	no Torneio
+	Lua Azul!
 	"""
 	keyWait
 		any = false
@@ -2538,9 +2537,9 @@ script 157 mmbn4 {
 		jumpIfEqual = 133
 		jumpIfNotEqual = continue
 	"""
-	Too bad!We owe
-	BM Tournament
-	team apology
+	Pena! Devemos
+	desculpas à
+	equipe do LA!
 	"""
 	keyWait
 		any = false
@@ -2562,9 +2561,9 @@ script 158 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	We'll try
-	harder
-	next time⋯!
+	Vamos nos
+	esforçar mais
+	na próxima!
 	"""
 	keyWait
 		any = false
@@ -2591,11 +2590,11 @@ script 160 mmbn4s {
 	end
 }
 script 161 mmbn4s {
-	"VS BM Battles:"
+	"Lutas VS LA:"
 	end
 }
 script 162 mmbn4s {
-	"VS RS Battles:"
+	"Lutas VS SV:"
 	end
 }
 script 163 mmbn4 {
@@ -2669,9 +2668,9 @@ script 163 mmbn4 {
 		jumpIfEqual = 248
 		jumpIfNotEqual = continue
 	"""
-	Good work,Lan
-	Nice operating
-	A perfect win!
+	Boa,Lan! Ótima
+	operação! Uma
+	vitória perfeita!
 	"""
 	keyWait
 		any = false
@@ -2748,9 +2747,8 @@ script 164 mmbn4 {
 		jumpIfEqual = 250
 		jumpIfNotEqual = continue
 	"""
-	That was a
-	total loss for
-	us,Lan⋯
+	A gente perdeu
+	feio,Lan...
 	"""
 	keyWait
 		any = false
@@ -2772,9 +2770,9 @@ script 165 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	We'll try
-	harder
-	next time⋯!
+	Vamos nos
+	esforçar mais
+	na próxima!
 	"""
 	keyWait
 		any = false
@@ -2816,9 +2814,9 @@ script 167 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Transmission
-	error. 
-	Stop battle
+	Erro de
+	transmissão.
+	Luta abortada.
 	"""
 	keyWait
 		any = false
@@ -2840,8 +2838,9 @@ script 168 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	You can't both
-	trade nothing!
+	Vocês não
+	podem os 2
+	trocar nada!
 	"""
 	keyWait
 		any = false
@@ -2863,9 +2862,9 @@ script 169 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Choose the
-	same mode as
-	your friend!
+	Escolha o
+	mesmo modo
+	que seu amigo!
 	"""
 	keyWait
 		any = false
@@ -2890,7 +2889,7 @@ script 171 mmbn4 {
 		top = 80
 	mugshotShow
 		mugshot = MegaMan
-	"RS Record: "
+	"Recorde SV: "
 	printRecordName
 		buffer = 4
 		name = 0
@@ -2923,7 +2922,7 @@ script 171 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Back  "
+	"Voltar  "
 	option
 		brackets = false
 		left = 0
@@ -2932,7 +2931,7 @@ script 171 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Delete"
+	"Apagar"
 	select
 		default = 0
 		noDelay = false
@@ -2962,7 +2961,7 @@ script 172 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	RS Record:
+	Recorde SV:
 	Lan:
 	
 	"""
@@ -3002,14 +3001,14 @@ script 173 mmbn4 {
 		top = 80
 	mugshotShow
 		mugshot = MegaMan
-	"Trade complete"
+	"Troca concluída."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But was that
-	trade really
-	worth it⋯?
+	Mas essa troca
+	valeu mesmo
+	a pena...?
 	"""
 	keyWait
 		any = false
@@ -3033,9 +3032,9 @@ script 174 mmbn4 {
 	mugshotAnimation
 		animation = 0
 	"""
-	Communication
-	error! Trade
-	cancelled!
+	Erro de comu-
+	nicação! Troca
+	abortada!
 	"""
 	keyWait
 		any = false
@@ -3056,13 +3055,13 @@ script 175 mmbn4 {
 		top = 80
 	mugshotShow
 		mugshot = MegaMan
-	"Trade complete"
+	"Troca concluída."
 	keyWait
 		any = false
 	waitHold
 }
 script 176 mmbn4s {
-	"Selecting"
+	"Selecionando"
 	end
 }
 script 177 mmbn4s {
@@ -3070,7 +3069,7 @@ script 177 mmbn4s {
 	end
 }
 script 178 mmbn4s {
-	"VS Results"
+	"Resultados VS"
 	end
 }
 script 179 mmbn4s {
@@ -3094,43 +3093,43 @@ script 180 mmbn4s {
 	end
 }
 script 181 mmbn4s {
-	"NetBattle"
+	"NetLuta"
 	end
 }
 script 182 mmbn4s {
-	"Compare"
+	"Comparar"
 	end
 }
 script 183 mmbn4s {
-	"Trade"
+	"Troca"
 	end
 }
 script 184 mmbn4s {
-	"WaitingRoom"
+	"SalaEspera"
 	end
 }
 script 185 mmbn4s {
-	"SinglBattle"
+	"LutaÚnica"
 	end
 }
 script 186 mmbn4s {
-	"TriplBattle"
+	"LutaTripla"
 	end
 }
 script 187 mmbn4s {
-	"SelctBattle"
+	"EscolhrLuta"
 	end
 }
 script 188 mmbn4s {
-	"Practice"
+	"Treino"
 	end
 }
 script 189 mmbn4s {
-	"Real Thing"
+	"Para Valer"
 	end
 }
 script 190 mmbn4s {
-	"CompLibrary"
+	"CompColeção"
 	end
 }
 script 191 mmbn4s {
@@ -3138,19 +3137,19 @@ script 191 mmbn4s {
 	end
 }
 script 192 mmbn4s {
-	"BattleChips"
+	"Chips"
 	end
 }
 script 193 mmbn4s {
-	"Program"
+	"Programa"
 	end
 }
 script 194 mmbn4s {
-	"Reception"
+	"Receber"
 	end
 }
 script 195 mmbn4s {
-	"Visit"
+	"Visitar"
 	end
 }
 script 196 mmbn4 {
@@ -3166,8 +3165,8 @@ script 196 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Delete which
-	entry?
+	Qual item
+	apagar?
 	"""
 	waitHold
 }
@@ -3183,7 +3182,7 @@ script 197 mmbn4 {
 		top = 128
 	mugshotShow
 		mugshot = MegaMan
-	"Navis in room.\n"
+	"Navis na sala.\n"
 	positionOptionVertical
 		width = 11
 	option
@@ -3194,7 +3193,7 @@ script 197 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Accept entry\n"
+	"Aceitar\n"
 	positionOptionVertical
 		width = 11
 	option
@@ -3205,7 +3204,7 @@ script 197 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Delete entry"
+	"Deletar"
 	select
 		default = 0
 		noDelay = false
@@ -3233,7 +3232,7 @@ script 198 mmbn4 {
 		top = 128
 	mugshotShow
 		mugshot = MegaMan
-	"Delete "
+	"Apagar "
 	printEnemy
 		buffer = 1
 		enemy = 0
@@ -3241,8 +3240,7 @@ script 198 mmbn4 {
 		buffer = 2
 		name = 0
 	"""
-	's
-	entry?
+	?
 	
 	"""
 	positionOptionHorizontal
@@ -3279,7 +3277,7 @@ script 198 mmbn4 {
 	waitHold
 }
 script 199 mmbn4s {
-	"-NO ENTRY-"
+	"-VAZIO-"
 	end
 }
 script 200 mmbn4 {
@@ -3295,8 +3293,8 @@ script 200 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Battle with a
-	friend!
+	Lutar com um
+	amigo!
 	"""
 	waitHold
 }
@@ -3313,9 +3311,9 @@ script 201 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Comp data and
-	exchange info
-	with friend!
+	Comparar dados e
+	trocar informações
+	com um amigo!
 	"""
 	waitHold
 }
@@ -3332,9 +3330,9 @@ script 202 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Exchange chips
-	and programs
-	with a friend!
+	Trocar chips e
+	programas com
+	um amigo!
 	"""
 	waitHold
 }
@@ -3351,8 +3349,8 @@ script 203 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Entering the
-	WaitingRoom!
+	Entrar na
+	SalaDeEspera!
 	"""
 	waitHold
 }
@@ -3369,9 +3367,9 @@ script 204 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	This is a 1-
-	round battle.
-	Go for it!
+	Luta de 1 só
+	round.
+	Manda ver!
 	"""
 	waitHold
 }
@@ -3388,9 +3386,9 @@ script 205 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	This is a
-	3-round win
-	the battle!
+	Luta de até
+	três rounds
+	para vencer!
 	"""
 	waitHold
 }
@@ -3407,9 +3405,9 @@ script 206 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	3-rnd battle
-	of different
-	tournaments!
+	Luta de 3 rounds
+	de torneios
+	diferentes!
 	"""
 	waitHold
 }
@@ -3426,9 +3424,9 @@ script 207 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Trade data
-	library with
-	a friend!
+	Trocar cole-
+	ção de dados
+	com amigo!
 	"""
 	waitHold
 }
@@ -3445,9 +3443,9 @@ script 208 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Exchange top
-	record with
-	a friend!
+	Trocar
+	recordes
+	com amigo!
 	"""
 	waitHold
 }
@@ -3464,9 +3462,9 @@ script 209 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Exchange
-	BattleChips
-	with a friend!
+	Trocar
+	chips com
+	um amigo!
 	"""
 	waitHold
 }
@@ -3483,9 +3481,9 @@ script 210 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Exchange
-	programs
-	with a friend!
+	Trocar
+	programas
+	com amigo!
 	"""
 	waitHold
 }
@@ -3502,9 +3500,9 @@ script 211 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Accept battle
-	with a Navi
-	sent by friend
+	Aceitar luta
+	com Navi man-
+	dado por amigo
 	"""
 	waitHold
 }
@@ -3521,9 +3519,9 @@ script 212 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Send a trusted
-	Navi to your
-	friend's match
+	Enviar Navi
+	para luta do
+	seu amigo
 	"""
 	waitHold
 }
@@ -3539,14 +3537,14 @@ script 213 mmbn4 {
 		top = 128
 	mugshotShow
 		mugshot = MegaMan
-	"Practice Mode!"
+	"Modo de Treino!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The loser
-	doesn't lose
-	a chip.
+	O perdedor
+	não perde
+	um chip.
 	"""
 	waitHold
 }
@@ -3563,16 +3561,16 @@ script 214 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Real Battle
-	Mode!
+	Modo de Luta
+	Séria!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The loser
-	gives up
-	a chip
+	O perdedor
+	cede um
+	chip
 	"""
 	waitHold
 }
@@ -3589,9 +3587,9 @@ script 215 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Your friend
-	isn't ready.
-	Please wait.
+	Espere seu
+	amigo ficar
+	pronto.
 	"""
 	waitHold
 }
@@ -3609,18 +3607,18 @@ script 216 mmbn4 {
 		mugshot = MegaMan
 	controlLock
 	"""
-	Comparing
-	libraries!
+	Comparando
+	coleções! 
 	"""
 	wait
 		frames = 60
-	"・"
+	"."
 	wait
 		frames = 60
-	"・"
+	"."
 	wait
 		frames = 60
-	"・"
+	"."
 	controlUnlock
 	waitHold
 }
@@ -3640,9 +3638,9 @@ script 217 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Transmission
-	error! Please
-	try again.
+	Erro de trans-
+	missão! Tente
+	de novo.
 	"""
 	waitHold
 }
@@ -3659,9 +3657,9 @@ script 218 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	There is new
-	data in the
-	data library!
+	Há novos
+	dados na
+	coleção!
 	"""
 	waitHold
 }
@@ -3678,9 +3676,9 @@ script 219 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	There isn't
-	any new data
-	in the library
+	Não há novos
+	dados na
+	coleção
 	"""
 	waitHold
 }
@@ -3697,9 +3695,9 @@ script 220 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	You've got to
-	pick the same
-	mode as friend
+	Escolha o
+	mesmo modo que
+	seu amigo
 	"""
 	waitHold
 }
@@ -3719,17 +3717,17 @@ script 221 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Your friend is
-	in a different
-	tournament.
+	Seu amigo está
+	em outro
+	torneio.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can only
-	compare in the
-	same one.
+	Só pode compa-
+	rar com amigo
+	do mesmo.
 	"""
 	waitHold
 }
@@ -3746,16 +3744,16 @@ script 222 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	controlLock
-	"Compare record"
+	"Comparar recorde"
 	wait
 		frames = 60
-	"・"
+	"."
 	wait
 		frames = 60
-	"・"
+	"."
 	wait
 		frames = 60
-	"・"
+	"."
 	controlUnlock
 	waitHold
 }
@@ -3772,8 +3770,8 @@ script 223 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Records
-	updated!
+	Recordes
+	atualizados!
 	"""
 	waitHold
 }
@@ -3790,8 +3788,9 @@ script 224 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Records not
-	updated⋯
+	Recordes não
+	foram atua-
+	lizados...
 	"""
 	waitHold
 }
@@ -3808,9 +3807,9 @@ script 225 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I'm booting up
-	the chip
-	trade screen
+	Abrindo tela
+	de troca de
+	chips
 	"""
 	waitHold
 }
@@ -3827,9 +3826,9 @@ script 226 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I'm booting up
-	the program
-	trade screen
+	Abrindo tela
+	de troca de
+	programas
 	"""
 	waitHold
 }
@@ -3846,9 +3845,9 @@ script 227 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	You don't have
-	non-Gigachip
-	chips in pack
+	Você não tem
+	não-GigaChips
+	na mochila
 	"""
 	waitHold
 }
@@ -3868,9 +3867,9 @@ script 228 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	There aren't
-	Navis to go
-	along with me
+	Não há Navis
+	para virem
+	comigo
 	"""
 	keyWait
 		any = false
@@ -3889,8 +3888,9 @@ script 229 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Go to waiting
-	screen
+	Vá para a
+	tela de
+	espera
 	"""
 	waitHold
 }
@@ -3907,8 +3907,9 @@ script 230 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Go to visit
-	screen
+	Vá para a
+	tela de
+	visitas
 	"""
 	waitHold
 }
@@ -3927,7 +3928,7 @@ script 231 mmbn4 {
 		top = 128
 	mugshotShow
 		mugshot = MegaMan
-	"Deleted entry:\n"
+	"Item apagado:\n"
 	printEnemy
 		buffer = 1
 		enemy = 0
@@ -3953,16 +3954,16 @@ script 232 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	The Navi seems
-	to be in a
-	tournament.
+	O Navi parece
+	estar em um
+	torneio.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't delete
-	the entry
+	Impossível deletar
+	o inserido.
 	"""
 	keyWait
 		any = false
@@ -3995,7 +3996,7 @@ script 234 mmbn4 {
 		top = 128
 	mugshotShow
 		mugshot = MegaMan
-	"Accept entry\n"
+	"Aceitar\n"
 	printEnemy
 		buffer = 2
 		enemy = 0
@@ -4051,9 +4052,9 @@ script 235 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Huh? We didn't
-	receive the
-	data⋯!
+	Hã? Não
+	recebemos
+	os dados...!
 	"""
 	keyWait
 		any = false
@@ -4072,8 +4073,8 @@ script 236 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Send which
-	Navi?
+	Qual Navi
+	enviar?
 	"""
 	waitHold
 }
@@ -4089,7 +4090,7 @@ script 237 mmbn4 {
 		top = 128
 	mugshotShow
 		mugshot = MegaMan
-	"Send "
+	"Enviar "
 	printEnemy
 		buffer = 1
 		enemy = 0
@@ -4146,13 +4147,13 @@ script 238 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Transmission
-	stopped.
+	Transmissão
+	suspensa.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Try again?\n"
+	"Tentar de novo?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -4199,8 +4200,9 @@ script 239 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Sending entry
-	data
+	Enviando
+	dados de
+	inscrição.
 	"""
 	waitHold
 }
@@ -4220,8 +4222,9 @@ script 240 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Transmission
-	OK!
+	Tudo certo
+	com a
+	transmissão!
 	"""
 	keyWait
 		any = false
@@ -4243,8 +4246,8 @@ script 241 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Entry
-	completed!
+	Inscrição
+	concluída!
 	"""
 	keyWait
 		any = false
@@ -4266,9 +4269,9 @@ script 242 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Only two Navis
-	of the same
-	type may entry
+	Só 2 Navis do
+	mesmo tipo
+	poden entrar.
 	"""
 	keyWait
 		any = false
@@ -4287,9 +4290,9 @@ script 243 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	WaitingRoom
-	is full now.
-	Overwrite?
+	SalaDeEspera
+	cheia agora.
+	Sobrescrever?
 	"""
 	waitHold
 }
@@ -4308,7 +4311,7 @@ script 244 mmbn4 {
 		top = 128
 	mugshotShow
 		mugshot = MegaMan
-	"Same Navi."
+	"Mesmo Navi."
 	keyWait
 		any = false
 	waitHold
@@ -4328,7 +4331,7 @@ script 245 mmbn4 {
 		top = 128
 	mugshotShow
 		mugshot = MegaMan
-	"Overwrite\n"
+	"Sobrescrever\n"
 	printEnemy
 		buffer = 1
 		enemy = 0
@@ -4382,17 +4385,17 @@ script 246 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Friend chips
-	aren't enough.
-	Stop battle
+	Chips do amigo
+	fracos demais.
+	Parar luta
 	"""
 	waitHold
 }
 script 247 mmbn4 {
 	"""
-	We did it,
-	barely⋯
-	That was tough
+	Foi por
+	pouco,
+	essa...
 	"""
 	keyWait
 		any = false
@@ -4400,8 +4403,8 @@ script 247 mmbn4 {
 }
 script 248 mmbn4 {
 	"""
-	We did it,Lan
-	Nice operating
+	Vencemos,Lan!
+	Operou bem!
 	"""
 	keyWait
 		any = false
@@ -4409,8 +4412,9 @@ script 248 mmbn4 {
 }
 script 249 mmbn4 {
 	"""
-	That was close
-	We'll win next
+	Foi quase.
+	Na próxima,a
+	gente vence
 	"""
 	keyWait
 		any = false
@@ -4418,8 +4422,9 @@ script 249 mmbn4 {
 }
 script 250 mmbn4 {
 	"""
-	I'm sorry,Lan.
-	It's my fault.
+	Desculpa,Lan.
+	Foi culpa
+	minha...
 	"""
 	keyWait
 		any = false
@@ -4441,9 +4446,9 @@ script 251 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	We can't
-	battle in same
-	tournament
+	Não pode lutar
+	no mesmo
+	torneio.
 	"""
 	waitHold
 }

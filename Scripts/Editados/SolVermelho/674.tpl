@@ -4,11 +4,11 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Mami
 	msgOpen
-	"MetalMan,deleted!"
+	"MetalMan foi\nderrotado!"
 	keyWait
 		any = false
 	clearMsg
-	"And Lan has won!"
+	"Lan Hikari é o\nvencedor!"
 	keyWait
 		any = false
 	end
@@ -17,7 +17,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yahoo!!!"
+	"Aêêê!!!"
 	keyWait
 		any = false
 	end
@@ -27,14 +27,14 @@ script 2 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	What spirit! You
-	beat MetalMan head-
-	on!
+	Mas que espírito!
+	Você encarou o
+	MetalMan de frente!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"That felt great!"
+	"Ah,que sensação boa!"
 	keyWait
 		any = false
 	clearMsg
@@ -46,22 +46,22 @@ script 3 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Now that's a battle
-	between two real
-	fighters!
+	Essa,sim,foi uma lu-
+	ta entre dois luta-
+	dores de verdade!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Who can grudge the
-	other guy,we both
-	gave it our all!
+	Sem nenhum ressenti-
+	mento,porque demos o
+	nosso melhor!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Right,MegaMan?!"
+	"Né,MegaMan?!"
 	keyWait
 		any = false
 	clearMsg
@@ -78,25 +78,25 @@ script 4 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yeah,MetalMan is
-	one Navi who talks
-	with his fists,
+	Aham. O MetalMan é
+	do tipo que fala com
+	os punhos,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and it really hurt a
-	lot,but it's better
-	than mere words.
+	e a dor é grande aí,
+	mas é melhor que
+	simples palavras.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I was moved by
-	MetalMan's soul of
-	steel.
+	Eu fiquei encantado
+	com a alma de aço do
+	MetalMan.
 	"""
 	keyWait
 		any = false
@@ -113,9 +113,9 @@ script 5 mmbn4 {
 		timer = 0
 		value = 254
 	"""
-	MegaMan's soul has
-	communed with
-	MetalMan's!!
+	A Alma do MegaMan
+	se ligou à do
+	MetalMan!!
 	"""
 	keyWait
 		any = false
@@ -131,9 +131,9 @@ script 6 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yeah,MetalMan is
-	one Navi who talks
-	with his fists,
+	É,o MetalMan é um
+	Navi que fala com
+	os punhos,
 	"""
 	keyWait
 		any = false
@@ -146,22 +146,24 @@ script 7 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	I'm really happy to
-	hear you say that.
+	Fico muito feliz
+	de ouvir isso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think MegaMan's a
-	great Navi,too.
+	Eu acho o MegaMan
+	um Navi incrível,
+	também.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's fight again
-	some time.
+	Espero que possamos
+	lutar de novo,
+	qualquer dia.
 	"""
 	keyWait
 		any = false
@@ -173,7 +175,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Sounds great!"
+	"Já é!"
 	keyWait
 		any = false
 	clearMsg
@@ -185,9 +187,9 @@ script 9 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	And I'm afraid I'll
-	have to get you back
-	for today,then!
+	É? Bom,infelizmente,
+	terei que me vingar
+	por hoje nesse dia!
 	"""
 	keyWait
 		any = false
@@ -200,8 +202,8 @@ script 10 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hehe,easier said
-	than done!
+	He he,quero ver você
+	tentar!
 	"""
 	keyWait
 		any = false
@@ -214,20 +216,20 @@ script 11 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	I look forward to
-	it!
+	Mal posso esperar
+	por isso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's time to go
-	home!
+	Enfim,hora de ir
+	pra casa!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"But first⋯"
+	"Mas,antes..."
 	keyWait
 		any = false
 	end
@@ -237,8 +239,8 @@ script 12 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	We're on TV now,
-	right?
+	A gente tá ao vivo
+	agora,né?
 	"""
 	keyWait
 		any = false
@@ -250,7 +252,10 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = Mami
 	msgOpen
-	"Yes⋯We are on TV."
+	"""
+	Er... Sim,estamos na
+	TV.
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -261,7 +266,7 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = Tamako
 	msgOpen
-	"Where's the camera?"
+	"Cadê a câmera?"
 	keyWait
 		any = false
 	clearMsg
@@ -273,8 +278,8 @@ script 15 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	The camera?
-	Umm⋯
+	A câmera?
+	Er...
 	"""
 	keyWait
 		any = false
@@ -285,8 +290,8 @@ script 16 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	There's a camera in
-	the stands⋯
+	Tem uma ali,nas
+	arquibancadas...
 	"""
 	keyWait
 		any = false
@@ -297,40 +302,40 @@ script 17 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	Everyone at the inn,
-	sorry for losing!
+	Pessoal da pousada,
+	desculpa por perder!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please forgive me!
-	I'll advertise the
-	inn,now!
+	Imploro o perdão de
+	vocês! Vou divulgar
+	a pousada agora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you're looking
-	for an inn with hot
-	springs,come to Ura
+	Quer uma pousada com
+	fontes termais? Vem
+	pra Pousada Unda!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Inn! The food's
-	incredible,too! And
-	the air's pristine!
+	A comida é incrível,
+	também! E o ar é
+	puríssimo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't forget,that's
-	the Ura Inn! I work
-	in the gift shop!
+	Não esqueçam: Pousa-
+	da Unda! Trabalho na
+	loja de presentes!
 	"""
 	keyWait
 		any = false
@@ -343,9 +348,9 @@ script 18 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	Hey! You can't just
-	advertise without
-	asking first!
+	Ei! Não pode fazer
+	propaganda sem
+	pedir permissão!
 	"""
 	keyWait
 		any = false
@@ -356,13 +361,13 @@ script 19 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	Don't be such a
-	hard-nose!
+	Ah,não seja tão
+	cri-cri!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"See yah later,Lan!"
+	"Até mais,Lan!"
 	keyWait
 		any = false
 	end
@@ -372,8 +377,8 @@ script 20 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What an aggressive
-	girl⋯
+	Tá aí uma moça
+	agressiva...
 	"""
 	keyWait
 		any = false
@@ -386,8 +391,8 @@ script 21 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I'd like to see her
-	again!
+	Espero muito ver ela
+	de novo!
 	"""
 	keyWait
 		any = false
@@ -399,14 +404,14 @@ script 22 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Me too!"
+	"Eu também!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I'd get tired
-	out if I had to see
-	her everyday⋯
+	Mas eu ficaria
+	exausto de conviver
+	com ela todo dia...
 	"""
 	keyWait
 		any = false

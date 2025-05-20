@@ -23,7 +23,7 @@ script 1 mmbn4 {
 	clearMsg
 	mugshotAnimation
 		animation = 1
-	"(Ainda bem que é de\ngraça. Encontros\npodem ser caros...)"
+	"(Que bom que foi de\ngraça. Encontros\npodem ser caros...)"
 	keyWait
 		any = false
 	clearMsg
@@ -88,9 +88,9 @@ script 6 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Ah,e olha esta
-	boneca aqui. Não
-	acha ela linda,Lan?
+	Ah,e olha este bone-
+	quinho aqui. Não é
+	um amor,Lan?
 	"""
 	keyWait
 		any = false
@@ -101,14 +101,14 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"... Er,claro!"
+	"... Er,aham!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 1
 	"""
-	("Linda"? Isso?!)
+	("Um amor"? Isso?!)
 	"""
 	keyWait
 		any = false
@@ -119,8 +119,8 @@ script 8 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Olha só toda essa
-	gente olhando.
+	Olha só toda o
+	tamanho desta fila.
 	"""
 	keyWait
 		any = false
@@ -163,14 +163,14 @@ script 12 mmbn4 {
 	soundDisableTextSFX
 	soundPlay
 		track = 235
-	"Bang⋯"
+	"Bang..."
 	wait
 		frames = 30
 	"\n"
 	storeTimer
 		timer = 1
 		value = 1
-	"Ratatatata⋯"
+	"Ratatatata..."
 	wait
 		frames = 32
 	keyWait
@@ -181,7 +181,7 @@ script 12 mmbn4 {
 		value = 2
 	soundPlay
 		track = 237
-	"Vroooooooooom!!"
+	"Vruuuuuuum!!"
 	wait
 		frames = 44
 	keyWait
@@ -278,13 +278,13 @@ script 19 mmbn4 {
 	soundDisableTextSFX
 	soundPlay
 		track = 157
-	"Vroooooom!!"
+	"Vruuuuuum!!"
 	wait
 		frames = 49
 	"\n"
 	soundPlay
 		track = 239
-	"Kersplooosh!"
+	"Catchuáááá!"
 	wait
 		frames = 57
 	keyWait

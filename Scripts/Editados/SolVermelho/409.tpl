@@ -240,8 +240,8 @@ script 32 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Felizmente Ni-Hon
-	não sofreu prejuízo,
+	Felizmente,Ni-Hon
+	não sofreu estragos,
 	"""
 	keyWait
 		any = false
@@ -272,8 +272,8 @@ script 35 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	AQUELE NAVI E CORREU
-	PRA ACDC 3!
+	AQUELES NAVIS E
+	CORREU PRA ACDC 3!
 	BRR-BRR-BRRRRR...
 	"""
 	keyWait
@@ -298,8 +298,8 @@ script 37 mmbn4 {
 	msgOpen
 	"""
 	Este Navi foi
-	nocauteado em um só
-	golpe!
+	nocauteado com
+	um só golpe!
 	"""
 	keyWait
 		any = false
@@ -430,7 +430,7 @@ script 240 mmbn4 {
 	msgOpen
 	"""
 	Ei! Não pode entrar
-	aí desse jeito...!
+	aqui desse jeito...!
 	"""
 	keyWait
 		any = false

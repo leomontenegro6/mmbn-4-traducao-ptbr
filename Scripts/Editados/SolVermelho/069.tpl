@@ -269,7 +269,7 @@ script 35 mmbn4 {
 	"""
 	Vamos voltar pra
 	Rede! Temos que
-	pegar o Navi Preto!
+	pegar o Navi Roxo!
 	"""
 	keyWait
 		any = false
@@ -284,7 +284,7 @@ script 36 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Vamos pro Plaza!
+	Vamos pra Praça!
 	"""
 	keyWait
 		any = false
@@ -320,7 +320,7 @@ script 38 mmbn4 {
 	msgOpen
 	"""
 	Lan,vamos voltar
-	pro Plaza!
+	pra Praça!
 	"""
 	keyWait
 		any = false
@@ -383,7 +383,7 @@ script 43 mmbn4 {
 	msgOpen
 	"""
 	Vamos achar outra
-	rota pro Plaza!
+	rota pra Praça!
 	"""
 	keyWait
 		any = false
@@ -421,7 +421,7 @@ script 45 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,vamos pro Plaza!
+	Lan,vamos pra Praça!
 	"""
 	keyWait
 		any = false
@@ -476,8 +476,8 @@ script 48 mmbn4 {
 	msgOpen
 	"""
 	Terminamos as 3
-	missões. Vamos
-	falar praquele cara!
+	missões. Vamos falar
+	pra aquele cara!
 	"""
 	keyWait
 		any = false
@@ -488,8 +488,8 @@ script 49 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	É aqui o ponto de
-	encontro,não é?
+	É aqui o lugar que
+	disseram,né?
 	"""
 	keyWait
 		any = false
@@ -527,8 +527,8 @@ script 52 mmbn4 {
 	msgOpen
 	"""
 	Terminamos as 3
-	missões. Vamos pro
-	EletroVila Plaza!
+	missões. Vamos pra
+	Praça da EletroVila!
 	"""
 	keyWait
 		any = false
@@ -601,8 +601,8 @@ script 132 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Vamos lá pra
-	EletroVila Plaza!
+	Vamos lá pra Praça
+	da EletroVila!
 	"""
 	keyWait
 		any = false
@@ -639,9 +639,9 @@ script 135 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	This is the place
-	the culprit
-	designated,right?
+	Foi aqui que o
+	criminoso falou,
+	né?
 	"""
 	keyWait
 		any = false
@@ -788,9 +788,9 @@ script 153 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Our folder's fixed,
-	so let's head back
-	to the arena!
+	Pasta consertada.
+	Agora,de volta à
+	arena!
 	"""
 	keyWait
 		any = false
@@ -834,9 +834,9 @@ script 161 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's give the top
-	to that elderly
-	guy! Where'd he go?
+	Vamos dar o pião
+	pra aquele senhor!
+	Onde ele se meteu?
 	"""
 	keyWait
 		any = false
@@ -847,9 +847,9 @@ script 162 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go to ACDC
-	Park,where elderly
-	NetBattlers are at!
+	Fale com os NetLuta-
+	dores idosos no
+	Parque ACDC!
 	"""
 	keyWait
 		any = false
@@ -905,8 +905,8 @@ script 166 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	O Navi da Chefe deve
-	estar em ACDC,né?
+	O Navi do Chefe está
+	em ACDC,né?
 	Vamos lá!
 	"""
 	keyWait
@@ -1048,8 +1048,8 @@ script 177 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go to AquaMan!
-	Jack me in!
+	Vamos até o AquaMan!
+	Me conecta!
 	"""
 	keyWait
 		any = false
@@ -1073,8 +1073,8 @@ script 179 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Shuko should be in
-	this area⋯
+	A Shuko deve estar
+	nesta área...
 	"""
 	keyWait
 		any = false

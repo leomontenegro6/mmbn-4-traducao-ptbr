@@ -1,15 +1,15 @@
 @size 48
 
 script 0 mmbn4s {
-	" AdminDex Welcome!     "
+	" AdminDex Bem-vindos!  "
 	end
 }
 script 1 mmbn4s {
-	" Yai      Impressive!  "
+	" Yai      Impressionou!"
 	end
 }
 script 2 mmbn4s {
-	" GutsMan  I got it!    "
+	" GutsMan  Deixa comigo!"
 	end
 }
 script 3 mmbn4s {
@@ -21,47 +21,47 @@ script 4 mmbn4s {
 	end
 }
 script 5 mmbn4s {
-	" Mayl     Well⋯        "
+	" Mayl     Bom...       "
 	end
 }
 script 6 mmbn4s {
-	" Masabumi Bespect⋯     "
+	" Masabumi Auxílio...   "
 	end
 }
 script 7 mmbn4s {
-	" Koetsu   RE:Bespect⋯  "
+	" Koetsu   RE:Auxílio..."
 	end
 }
 script 8 mmbn4s {
-	" Goh      Mystery Data?"
+	" Goh      Dd misterioso"
 	end
 }
 script 9 mmbn4s {
-	" Koetsu   RE:Mystry DT?"
+	" Koetsu   RE:Dd misteri"
 	end
 }
 script 10 mmbn4s {
-	" Rutha    Chip Merger? "
+	" Rutha    Fusão chips? "
 	end
 }
 script 11 mmbn4s {
-	" AdminDex RE:Chip M⋯   "
+	" AdminDex RE:Fusão chip"
 	end
 }
 script 12 mmbn4s {
-	" Hinata   Sheep!       "
+	" Hinata   Ovelhas!     "
 	end
 }
 script 13 mmbn4s {
-	" Kawachi  RE:Sheep!    "
+	" Kawachi  RE:Ovelhas!  "
 	end
 }
 script 14 mmbn4s {
-	" Nonchan  NaviCust!    "
+	" Nonchan  CustNavi!    "
 	end
 }
 script 15 mmbn4s {
-	" Mabo     RE:NaviCust! "
+	" Mabo     RE:CustNavi! "
 	end
 }
 script 16 mmbn4s {
@@ -73,27 +73,27 @@ script 17 mmbn4s {
 	end
 }
 script 18 mmbn4s {
-	" Goh      Black Navi   "
+	" Goh      Navi Sombrio "
 	end
 }
 script 19 mmbn4s {
-	" Zono     RE:Black Navi"
+	" Zono     RE:Navi Sombr"
 	end
 }
 script 20 mmbn4s {
-	" Goh      Uh oh⋯       "
+	" Goh      Putz...      "
 	end
 }
 script 21 mmbn4s {
-	" Saki     Tournaments! "
+	" Saki     Torneios!    "
 	end
 }
 script 22 mmbn4s {
-	" AdminDex RE:Tourn⋯    "
+	" AdminDex RE:Torneios! "
 	end
 }
 script 23 mmbn4s {
-	" Mayl     RE:Tourn⋯    "
+	" Mayl     RE:Torneios! "
 	end
 }
 script 24 mmbn4s {
@@ -101,19 +101,19 @@ script 24 mmbn4s {
 	end
 }
 script 25 mmbn4s {
-	" Niko     Spider Virus "
+	" Niko     Vírus aranha "
 	end
 }
 script 26 mmbn4s {
-	" Ryuge    RE:Spider V⋯ "
+	" Ryuge    RE:Vírus aran"
 	end
 }
 script 27 mmbn4s {
-	" Wolf     Network Duels"
+	" Wolf     Duelos Rede  "
 	end
 }
 script 28 mmbn4s {
-	" Koetsu   RE:Netw D⋯   "
+	" Koetsu   RE:Duelos Red"
 	end
 }
 script 29 mmbn4s {

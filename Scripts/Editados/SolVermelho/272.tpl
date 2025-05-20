@@ -5,15 +5,14 @@ script 30 mmbn4 {
 		mugshot = Woman
 	msgOpen
 	"""
-	Wow,this is
-	gorgeous!
+	Nossa,que lindo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I want to live in a
-	place like this!
+	Queria tanto morar
+	num lugar assim!
 	"""
 	keyWait
 		any = false
@@ -24,8 +23,9 @@ script 31 mmbn4 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	No way! A real
-	castle! A castle!
+	Uau! Não brinca!
+	É um castelo de
+	verdade! Um castelo!
 	"""
 	keyWait
 		any = false

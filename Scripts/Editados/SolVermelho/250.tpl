@@ -25,25 +25,25 @@ script 0 mmbn4 {
 		mugshot = Woman
 	msgOpen
 	"""
-	NetBattles really
-	depend on how good
-	the operator is⋯
+	NetLutas realmente
+	dependem da habili-
+	dade do operador...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just putting in
-	strong programs
-	isn't enough,⋯
+	Só instalar
+	programas fortes é
+	inútil
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯if the operator
-	can't use them
-	properly!
+	se o operador não
+	souber usá-los
+	direito!
 	"""
 	keyWait
 		any = false
@@ -74,9 +74,9 @@ script 1 mmbn4 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	My Navi⋯Its blood
-	was sucked out by
-	a big Black Navi!
+	Meu Navi... O sangue
+	dele foi sugado por
+	um Navi Roxo!
 	"""
 	keyWait
 		any = false
@@ -97,17 +97,17 @@ script 2 mmbn4 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	I want to change
-	the color of my PET
-	screen⋯
+	Eu queria trocar a
+	cor da tela do meu
+	PET...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder if there's
-	a program that does
-	that⋯?
+	Será que tem algum
+	programa que faz
+	isso...?
 	"""
 	keyWait
 		any = false
@@ -118,20 +118,20 @@ script 5 mmbn4 {
 		mugshot = Woman
 	msgOpen
 	"""
-	Why are you in such
-	a hurry?
+	Por que tanta
+	pressa?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯You're chasing
-	a robber?
+	... Você está atrás
+	de um ladrão?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ayyye!"
+	"Aaaaiiin!"
 	keyWait
 		any = false
 	end
@@ -141,9 +141,9 @@ script 6 mmbn4 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	I'm going to make
-	a Navi that can beat
-	ANYBODY!
+	Eu vou criar um Navi
+	capaz de vencer
+	QUALQUER LUTA!
 	"""
 	keyWait
 		any = false
@@ -154,16 +154,16 @@ script 7 mmbn4 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	They didn't have any
-	programs to change
-	my PET's color!
+	Eles não tinham
+	nenhum programa pra
+	mudar a cor do PET!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯Even a store as
-	big as this one⋯
+	... Nem numa loja
+	grande destas...
 	"""
 	keyWait
 		any = false
@@ -174,13 +174,13 @@ script 10 mmbn4 {
 		mugshot = Woman
 	msgOpen
 	"""
-	Hello,lad! You're
-	going to Castillo?
+	Olá,mocinho! Está
+	indo pro Castillo?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"How nice!"
+	"Legal!"
 	keyWait
 		any = false
 	end
@@ -190,15 +190,15 @@ script 11 mmbn4 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	I want to go see
-	Catsiyo,too!
+	Eu quero ir no
+	Catchiyo também!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Take me with you!
-	Take me with you!
+	Me leva!
+	Me leva!
 	"""
 	keyWait
 		any = false
@@ -209,16 +209,17 @@ script 12 mmbn4 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	If I can't change
-	the color of my PET⋯
+	Se eu não posso
+	mudar a cor do meu
+	PET...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wish I could at
-	least change the
-	color of my Navi!
+	queria,pelo menos,
+	poder mudar a do
+	meu Navi!
 	"""
 	keyWait
 		any = false
@@ -232,13 +233,13 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"Sheesh!"
+	"Puxa!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So you've made it
-	to the prelims⋯?
+	Então,você está
+	nas preliminares...?
 	"""
 	keyWait
 		any = false
@@ -278,7 +279,7 @@ script 20 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = Scientist
-	"I see⋯"
+	"Sei..."
 	keyWait
 		any = false
 	end
@@ -288,13 +289,13 @@ script 21 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	So you found me!
-	Not bad!
+	Então,você me achou!
+	Nada mal!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Here,take this!"
+	"Tome aqui!"
 	keyWait
 		any = false
 	clearMsg
@@ -333,9 +334,9 @@ script 23 mmbn4 {
 		mugshot = Woman
 	msgOpen
 	"""
-	I was looking
-	forward to going to
-	that theme park⋯
+	Eu tava tão ansiosa
+	pra ir naquele
+	parque temático...
 	"""
 	keyWait
 		any = false
@@ -346,8 +347,8 @@ script 24 mmbn4 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	⋯That wolf was
-	scary!
+	... Aquele lobo deu
+	muito medo!
 	"""
 	keyWait
 		any = false
@@ -358,8 +359,8 @@ script 30 mmbn4 {
 		mugshot = Woman
 	msgOpen
 	"""
-	I'm sick of
-	theme parks⋯
+	Já tô cheia de
+	parques temáticos...
 	"""
 	keyWait
 		any = false
@@ -370,8 +371,8 @@ script 31 mmbn4 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	I want to go to
-	Catsiyo again!
+	Eu quero ir no
+	Catchiyo de novo!
 	"""
 	keyWait
 		any = false
@@ -392,28 +393,28 @@ script 35 mmbn4 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	I heard that a
-	national tournament
-	is being held!
+	Parece que estão
+	fazendo um torneio
+	nacional agora!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"How cool!"
+	"Irado!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Are you in the
-	tournament too?
+	Cê também tá
+	participando?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can tell,by that
-	burning look in your
-	eyes!
+	Dá pra ver por essa
+	chama intensa no seu
+	olhar!
 	"""
 	keyWait
 		any = false
@@ -434,16 +435,16 @@ script 36 mmbn4 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	I should go to
-	DenCity and get a
-	new Navi!
+	Eu vim pra DenCity
+	arranjar um novo
+	Navi...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯But they're all
-	so expensive!
+	mas são todos tão
+	CAROS!
 	"""
 	keyWait
 		any = false
@@ -467,16 +468,16 @@ script 37 mmbn4 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	I wish that I could
-	be in the Eagle
-	Tournament⋯
+	Poxa,queria poder
+	competir no Torneio
+	Águia...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯But I only got 48
-	points!
+	... mas só consegui
+	48 pontos!
 	"""
 	keyWait
 		any = false
@@ -487,16 +488,16 @@ script 38 mmbn4 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	I wish that I could
-	be in the Hawk
-	Tournament⋯
+	Poxa,queria poder
+	competir no Torneio
+	Falcão...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯But I only got 48
-	points!
+	... mas só consegui
+	48 pontos!
 	"""
 	keyWait
 		any = false
@@ -507,14 +508,14 @@ script 40 mmbn4 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	All of the Battlers
-	around here are so
-	good!
+	Todos os
+	NetLutadores daqui
+	são tão bons!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Amazing!"
+	"\"Amazing\"!"
 	keyWait
 		any = false
 	end
@@ -524,8 +525,8 @@ script 41 mmbn4 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	Where can I find a
-	discount Navi⋯?
+	Onde eu acho Navis
+	com desconto...?
 	"""
 	keyWait
 		any = false
@@ -536,17 +537,17 @@ script 42 mmbn4 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	I only needed 2 more
-	points to make it
-	to the finals!
+	Eu só precisava de
+	mais 2 pontos pra
+	entrar no torneio!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯I can't believe
-	that blue Navi got
-	those 3 points⋯
+	... Argh,aquele Navi
+	azul que pegou
+	aqueles 3 pontos...
 	"""
 	keyWait
 		any = false
@@ -556,13 +557,13 @@ script 45 mmbn4 {
 	mugshotShow
 		mugshot = BlackMan
 	msgOpen
-	"Wow!"
+	"Eita!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You made it to the
-	finals? Amazing!
+	Cê chegou nas
+	finais? Que demais!
 	"""
 	keyWait
 		any = false
@@ -573,16 +574,17 @@ script 46 mmbn4 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	I managed to find a
-	used Navi!
+	Consegui achar um
+	Navi usado a um
+	preço ótimo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's been customized
-	to the max⋯A great
-	deal for the price!
+	Já veio customizado
+	ao máximo!
+	Que negócio!
 	"""
 	keyWait
 		any = false
@@ -593,15 +595,15 @@ script 47 mmbn4 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	Next time they have
-	a tournament⋯
+	Da próxima vez que
+	fizerem um torneio...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯I'm sure I'll make
-	it to the finals!
+	eu vou chegar nas
+	finais,com certeza!
 	"""
 	keyWait
 		any = false

@@ -5,8 +5,7 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So?
-	MegaMan?
+	E aí,MegaMan?
 	"""
 	keyWait
 		any = false
@@ -18,8 +17,9 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's locked,and I
-	don't see NumbrMan.
+	Tá trancada,e eu
+	não tô vendo o
+	NumberMan.
 	"""
 	keyWait
 		any = false
@@ -29,7 +29,7 @@ script 1 mmbn4 {
 }
 script 2 mmbn4 {
 	mugshotHide
-	"Help!"
+	"Socorro!"
 	keyWait
 		any = false
 	clearMsg
@@ -39,7 +39,7 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Huh?"
+	"Hã?"
 	keyWait
 		any = false
 	end
@@ -48,7 +48,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What is it,MegaMan?"
+	"Que foi,MegaMan?"
 	keyWait
 		any = false
 	clearMsg
@@ -59,16 +59,15 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I heard someone from
-	the other side of
-	the door.
+	Eu ouvi alguém do
+	outro lado da porta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That sounds like
-	NumbrMan⋯
+	Parecia o
+	NumberMan...
 	"""
 	keyWait
 		any = false
@@ -77,8 +76,8 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	msgOpen
 	"""
-	Is someone there?!
-	Help me!!!
+	Tem alguém aí?!
+	Socorro!!!
 	"""
 	keyWait
 		any = false
@@ -88,11 +87,11 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"It is NumbrMan!"
+	"É o NumberMan!"
 	keyWait
 		any = false
 	clearMsg
-	"He's in there!"
+	"Ele tá aí!"
 	keyWait
 		any = false
 	clearMsg
@@ -104,25 +103,24 @@ script 8 mmbn4 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	MegaMan,is that
-	you?!
+	MegaMan,é você?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ah,great timing!"
+	"Ah,e em boa hora!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I got locked in! The
-	door won't open from
-	the inside!
+	Me trancaram aqui!
+	E a porta não abre
+	por dentro!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Help!!!"
+	"Me ajuda!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -132,7 +130,7 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"But it's locked⋯"
+	"Mas tá trancada..."
 	keyWait
 		any = false
 	clearMsg
@@ -142,14 +140,14 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"What can we do?"
+	"O que dá pra gente\nfazer?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Does anyone other
-	than Higsby have
-	the key?
+	Será que alguém
+	além do Higsby
+	tem a chave?
 	"""
 	keyWait
 		any = false

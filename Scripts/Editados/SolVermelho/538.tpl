@@ -4,25 +4,25 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	msgOpen
-	"Uh⋯You got me⋯"
+	"Urgh...\nVocê me pegou..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But fear not⋯,our
-	mighty leader's⋯
-	plan⋯
+	Mas tudo bem...
+	O plano do nosso
+	todo-poderoso...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"is now⋯in motion⋯"
+	"líder está...\nem andamento..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The asteroid⋯
-	is ours⋯
+	O asteroide...
+	é nosso...
 	"""
 	keyWait
 		any = false
@@ -34,8 +34,8 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I knew it. You were
-	after the asteroid!
+	Sabia. Vocês tavam
+	atrás do asteroide!
 	"""
 	keyWait
 		any = false
@@ -48,9 +48,9 @@ script 2 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Heh heh⋯Our Plan of
-	Darkness is nearly
-	complete.
+	He he... Nosso Plano
+	da Escuridão está
+	quase concluído.
 	"""
 	keyWait
 		any = false
@@ -62,13 +62,14 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I'll smash your plan
-	into little pieces!
+	Pois a gente vai
+	acabar com esse
+	plano aí!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Right,MegaMan?"
+	"Né,MegaMan?"
 	keyWait
 		any = false
 	clearMsg
@@ -78,7 +79,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Dead right!"
+	"Pode apostar!"
 	keyWait
 		any = false
 	clearMsg
@@ -89,21 +90,21 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	"""
-	That's what you
-	think,little boy⋯
+	Isso é o que você
+	acha,garotinho...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,as I am
-	wiped out,so too
-	will you⋯
+	MegaMan,assim como
+	eu serei dizimado,
+	você também será...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯into thin air!!"
+	"... reduzido a pó!!"
 	keyWait
 		any = false
 	end
@@ -126,11 +127,11 @@ script 7 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Answer me! MegaMan!"
+	"Responde! MegaMan!"
 	keyWait
 		any = false
 	clearMsg
-	"Uwaaaaaaa!!"
+	"Aaaaaahhhhhh!!"
 	keyWait
 		any = false
 	end

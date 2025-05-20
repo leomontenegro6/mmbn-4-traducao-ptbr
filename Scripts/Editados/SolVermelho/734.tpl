@@ -5,8 +5,7 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Give me my body
-	back!
+	Devolve o meu corpo!
 	"""
 	keyWait
 		any = false
@@ -18,8 +17,8 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	JunkMan! Get out of
-	MegaMan's body!
+	JunkMan! Sai do
+	corpo do MegaMan!
 	"""
 	keyWait
 		any = false
@@ -31,8 +30,9 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Dang,so the game's
-	over already?
+	Droga. Então,
+	já acabou a
+	brincadeira?
 	"""
 	keyWait
 		any = false
@@ -42,20 +42,20 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = JunkMan
 	msgOpen
-	"M-MegaMan⋯"
+	"M-MegaMan..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I am JunkMan.
-	I am your opponent.
+	Eu sou JunkMan.
+	O seu oponente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How do you like the
-	place of my birth?
+	O que achou do lugar
+	em que eu nasci?
 	"""
 	keyWait
 		any = false
@@ -66,7 +66,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Place of your birth?"
+	"Lugar em que você\nnasceu?"
 	keyWait
 		any = false
 	clearMsg
@@ -77,52 +77,53 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = JunkMan
 	"""
-	I was born in this
-	junkyard,alone.
+	Eu nasci neste
+	ferro-velho,sozinho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nobody knew I was
-	here until now.
-	Do you know what it
+	Ninguém nem soube
+	que eu estava
+	aqui até agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	is like to live
-	covered in other
-	people's filth?
+	Você entende como
+	é,viver coberto do
+	lixo dos outros?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't stand the
-	thought of Navis
-	like you,living the
+	Não suporto pensar
+	em Navis como você,
+	levando uma vida
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	easy life. So enjoy
-	talking with your
-	operator now.
+	mansa. Então,papeia
+	aí com o seu opera-
+	dor enquanto pode.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You will die after
-	the match ends.
+	Depois da luta de
+	hoje...
+	você morre.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Bwahahaaa!"
+	"Ua ha ha ha ha!"
 	keyWait
 		any = false
 	end
@@ -131,7 +132,7 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Nobody knew?"
+	"Ninguém sabia...?"
 	keyWait
 		any = false
 	clearMsg
@@ -142,8 +143,8 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	MegaMan,hurry back
-	to your body!
+	MegaMan,volta logo
+	pro seu corpo!
 	"""
 	keyWait
 		any = false
@@ -154,7 +155,7 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Okay!"
+	"Tá bom!"
 	keyWait
 		any = false
 	end
@@ -164,21 +165,21 @@ script 9 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What an odd Navi,
-	taking over other
-	Navis like that.
+	Que Navi esquisito,
+	possuindo os outros
+	desse jeito.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wanna tear that
-	guy apart.
+	Eu quero dar um
+	trato nele!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What is it?"
+	"? Que foi?"
 	keyWait
 		any = false
 	clearMsg
@@ -192,31 +193,32 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Well⋯I don't
-	really hate JunkMan.
-	I had time to think
+	Bom... Na real,eu
+	não odeio o JunkMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	about all sorts of
-	things while locked
+	Enquanto eu tava
+	preso com todos os
+	dados-lixo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	up with the junk
-	data.
+	eu tive tempo pra
+	pensar em um monte
+	de coisas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The loneliness is
-	hard to describe
-	with words.
+	A solidão...
+	É difícil descrever
+	ela com palavras.
 	"""
 	keyWait
 		any = false
@@ -240,8 +242,8 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	JunkMan is
-	suffering.
+	O JunkMan tá
+	sofrendo.
 	"""
 	keyWait
 		any = false
@@ -253,13 +255,13 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Suffering⋯
-	JunkMan is?
+	Sofrendo...
+	O JunkMan?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I didn't notice it."
+	"Não me pareceu."
 	keyWait
 		any = false
 	clearMsg
@@ -270,39 +272,40 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I don't know how he
-	is suffering,but I
-	kind of understand.
+	Não sei COMO ele
+	sofre,mas eu meio
+	que entendo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder if we can
-	save him somehow.
+	Será que tem um
+	jeito da gente
+	salvar ele?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I saw an image of a
-	big person lying
-	down,in the junk.
+	Eu tive uma visão de
+	um cara grandão dei-
+	tado,lá no lixo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think it's from
-	the real world.
+	Acho que era do
+	mundo real.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have a feeling it
-	might be the key to
-	save JunkMan.
+	Sinto que essa pode
+	ser a chave pra
+	salvar o JunkMan.
 	"""
 	keyWait
 		any = false
@@ -314,13 +317,17 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	A big person?
-	I dunno,but let's
+	Um cara grande?
+	Bom,isso é meio
+	vago...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"look for him!"
+	"""
+	mas,beleza:
+	bora procurar!
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -330,11 +337,11 @@ script 15 mmbn4 {
 script 16 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Thank you,Lan!"
+	"Obrigado,Lan!"
 	keyWait
 		any = false
 	clearMsg
-	"Time to jack out!"
+	"Hora de desconectar!"
 	keyWait
 		any = false
 	end

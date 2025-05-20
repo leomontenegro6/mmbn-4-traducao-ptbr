@@ -5,8 +5,8 @@ script 0 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Send me to Cyber
-	Heaven!
+	Me manda pro
+	Cyber Nirvana!
 	"""
 	keyWait
 		any = false
@@ -19,8 +19,8 @@ script 1 mmbn4 {
 		mugshot = Lan
 	"""
 	MegaMan!
-	Send him on with the
-	CybSutra!
+	Faz ele ascender com
+	o Cyber Sutra!
 	"""
 	keyWait
 		any = false
@@ -31,7 +31,7 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Gotcha!"
+	"Beleza!"
 	keyWait
 		any = false
 	clearMsg
@@ -39,9 +39,9 @@ script 2 mmbn4 {
 		timer = 1
 		value = 1
 	"""
-	H T T P colon
-	slash slash.
-	Is that it?!
+	H T T P,ponto e
+	vírgula,travessão,
+	travessão. É isso?!
 	"""
 	keyWait
 		any = false
@@ -52,8 +52,8 @@ script 3 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Take this,young
-	master!
+	Fique com isto,meu
+	jovem!
 	"""
 	keyWait
 		any = false
@@ -62,8 +62,9 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	msgOpen
 	"""
-	The Navi ghost
-	dropped something.
+	O Navi fantasma
+	deixou cair alguma
+	coisa.
 	"""
 	keyWait
 		any = false

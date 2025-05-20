@@ -4,11 +4,11 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Mami
 	msgOpen
-	"VideoMan,deleted!"
+	"VideoMan foi\nderrotado!"
 	keyWait
 		any = false
 	clearMsg
-	"Lan wins!"
+	"Lan Hikari é o\nvencedor!"
 	keyWait
 		any = false
 	end
@@ -18,21 +18,22 @@ script 1 mmbn4 {
 		mugshot = ViddyNarcy
 	msgOpen
 	"""
-	What?! You lost?!
-	What are you doing?!
+	O quê?! Você
+	perdeu?! O que pensa
+	que está fazendo?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My script has you
-	winning by a huge
-	margin!
+	O meu roteiro ditava
+	que você venceria de
+	lavada!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Useless Navi!"
+	"Navi imprestável!"
 	keyWait
 		any = false
 	clearMsg
@@ -43,8 +44,8 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = VideoMan
 	"""
-	You called me a
-	useless Navi?!
+	Você me chamou de
+	Navi imprestável?!
 	"""
 	keyWait
 		any = false
@@ -56,16 +57,16 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = ViddyNarcy
 	"""
-	Yeah,and I'll say
-	it again!
+	Chamei!
+	E chamo de novo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Useless Navi!
-	Useless Navi!
-	Useless Navi!
+	Navi imprestável!
+	Navi imprestável!
+	Navi imprestável!
 	"""
 	keyWait
 		any = false
@@ -76,21 +77,21 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = VideoMan
-	"Hey!"
+	"Ei!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I fought as hard as
-	I could!
+	Eu dei tudo de mim
+	na luta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe the problem
-	was in your ope-
-	rating technique!
+	Acho que o problema
+	foi a sua técnica de
+	operação chinfrim!
 	"""
 	keyWait
 		any = false
@@ -102,28 +103,28 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = ViddyNarcy
 	"""
-	What a horrid thing
-	to say! My technique
-	is always perfect!
+	Que ultraje! A minha
+	técnica é sempre
+	perfeita!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Why,you!"
+	"Ora,seu...!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You keep promising
-	to go digital,but
-	you never do!
+	Você vive prometendo
+	virar digital,mas
+	nunca vira!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're still all
-	analog!
+	Continua sendo um
+	analógico puro!
 	"""
 	keyWait
 		any = false
@@ -135,17 +136,17 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = VideoMan
 	"""
-	Yeah,well you never
-	give me anything
-	good to tape!
+	Ah,é? E você nunca
+	me dá nada que
+	preste para filmar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No one wants to see
-	your self-satisfied
-	performances anyway!
+	Ninguém quer ver as
+	suas produções ego-
+	maníacas,mesmo!
 	"""
 	keyWait
 		any = false
@@ -157,14 +158,14 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Mami
 	msgOpen
-	"Shut up!!!"
+	"CALEM A BOCA!!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You guys lost! Stop
-	fighting and get
-	outta here already!
+	Vocês perderam!
+	Parem de brigar e
+	sumam logo daqui!
 	"""
 	keyWait
 		any = false
@@ -174,13 +175,13 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = ViddyNarcy
 	msgOpen
-	"Hey,don't yell!"
+	"Ai,não grita!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Okay,okay,we'll
-	leave!
+	Tá bom,tá bom,
+	a gente vai embora!
 	"""
 	keyWait
 		any = false
@@ -191,7 +192,7 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Hey,Viddy!"
+	"Ei,Viddy!"
 	keyWait
 		any = false
 	end
@@ -200,7 +201,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = ViddyNarcy
 	msgOpen
-	"What?!"
+	"Que é?!"
 	keyWait
 		any = false
 	clearMsg
@@ -211,9 +212,9 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Do you know the most
-	important part of
-	acting out a win?
+	Sabe qual é a parte
+	mais importante de
+	atuar como vencedor?
 	"""
 	keyWait
 		any = false
@@ -226,10 +227,10 @@ script 12 mmbn4 {
 		mugshot = ViddyNarcy
 	mugshotAnimation
 		animation = 1
-	"⋯⋯\n"
+	"......\n"
 	mugshotAnimation
 		animation = 2
-	"What is it!"
+	"Qual?"
 	keyWait
 		any = false
 	clearMsg
@@ -239,21 +240,21 @@ script 12 mmbn4 {
 script 13 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"It's \"effort\"!"
+	"É \"esforço\"!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you cheat to win,
-	you're still not
+	Se você trapaceia
+	pra vencer,então
+	não está produzindo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	putting on the best
-	possible perfor-
-	mance!
+	a melhor
+	apresentação!
 	"""
 	keyWait
 		any = false
@@ -265,8 +266,8 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = ViddyNarcy
 	"""
-	Grr⋯
-	I know that!
+	Grr...
+	Eu sei disso!
 	"""
 	keyWait
 		any = false
@@ -281,21 +282,21 @@ script 15 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	No matter how good
-	the performance is,
+	Por melhor que seja
+	a atuação de alguém,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it'd be hard to
-	express the satis-
-	faction of this
+	seria super difícil
+	expressar a satisfa-
+	ção desta vitória!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"victory!"
+	"He he!"
 	keyWait
 		any = false
 	clearMsg
@@ -305,20 +306,19 @@ script 15 mmbn4 {
 script 16 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"I have to agree."
+	"Concordo."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The more difficult
-	the victory,
+	Quanto mais difícil
+	é a vitória,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the sweeter the
-	taste.
+	mais doce ela é.
 	"""
 	keyWait
 		any = false

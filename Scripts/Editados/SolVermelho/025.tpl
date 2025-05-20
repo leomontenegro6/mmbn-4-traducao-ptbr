@@ -9,30 +9,29 @@ script 0 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Castillo--DenCity's
-	premiere theme park
-	is officially open!
+	Castillo,o primeiro
+	parque temático de
+	DenCity,está aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Welcome to the world
-	of fantasy and fairy
-	tales! This BBS is
+	Bem-vindos a este
+	mundo de fantasias e
+	contos de fada!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	dedicated to chat
-	and requests.
-	Anyone and everyone
+	Este é um Fórum para
+	bate-papo e pedidos.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"is welcome to post!"
+	"São todos muito\nbem-vindos a\npostarem!"
 	keyWait
 		any = false
 	waitHold
@@ -46,24 +45,25 @@ script 1 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Hiya! I'm writing
-	from inside 
-	Castillo! This place
+	Oiê! Estou escreven-
+	do de dentro do
+	Castillo! O lugar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	is amazing! I've met
-	some of my favorite
-	characters! I'm
+	é incrível! Conheci
+	os meus personagens
+	favoritos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	gonna go try some of
-	the rides. See ya!
+	Vou andar em alguns
+	dos brinquedos.
+	Tchau!
 	"""
 	keyWait
 		any = false
@@ -78,37 +78,38 @@ script 2 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Cool! I wanna go
-	too! I wanna be
-	bitten by WzDog
+	Legal! Eu queria ir
+	também! Quero ser
+	mordido pelo MagoCão
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and visit the gift
-	shop! I want the
-	Halberd Princess's
+	e ir na loja de pre-
+	sentes! Quero com-
+	prar a alabarda da
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	halberd! My favorite
-	is Dracky,though. He
+	Princesa Alabarda!
+	Mas o meu favorito
+	é o Dracky. Ele
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	always loses to
-	Django,but never
-	gives up! Who does
+	sempre perde pro
+	Django,mas nunca
+	desiste!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"everyone else like?"
+	"Quem são os\nfavoritos de\nvocês?"
 	keyWait
 		any = false
 	waitHold
@@ -122,25 +123,25 @@ script 3 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	I like TinMan! I
-	cried when I saw the
-	anime movie! If he
+	Eu gosto do Flandrô!
+	Chorei quando vi o
+	filme dele! Se ele
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	was never given
-	Emotion,he wouldn't
-	have had to suffer!
+	não tivesse recebido
+	Emoção,não teria
+	tido que sofrer!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Still,thanks to
-	Emotion people are
-	gentle and kind.
+	Mas é graças a Emo-
+	ções que as pessoas
+	são boas e gentis.
 	"""
 	keyWait
 		any = false
@@ -155,33 +156,33 @@ script 4 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	My fav's the
-	Halberd Princess!
-	She's amazing! My
+	A minha favorita é
+	a Princesa Alabarda!
+	Ela é demais! Minha
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	favorite scene is
-	when she runs
-	through the
+	cena favorita é
+	quando ela corre
+	pela Floresta
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Bewitched Forest to
-	save Prince 
-	Tomahawk! Women
+	Amaldiçoada para
+	salvar o Príncipe
+	Tomahawk! Não são só
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	don't always have
-	to be the ones in
-	need of rescuing!
+	as mulheres quem
+	precisam serem
+	resgatadas!
 	"""
 	keyWait
 		any = false
@@ -195,26 +196,27 @@ script 5 mmbn4 {
 	positionArrow
 		left = 202
 		top = 108
-	"I like WzDog,huh!"
+	"Eu gosto do\nMagoCão,é!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My favorite scene is
-	when he teams up
+	A minha cena favori-
+	ta é quando ele se
+	alia ao inimigo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	with his enemy 
-	WzMonkey to save
-	the town from an
+	dele,o MagoMacaco, 
+	pra salvar a cidade
+	do feiticeiro do
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"evil sorcerer,huh!"
+	"mal,é!"
 	keyWait
 		any = false
 	waitHold
@@ -228,28 +230,29 @@ script 6 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	I like Dracky,'cause
-	my favorite story is
+	Eu gosto do Dracky,
+	porque a minha his-
+	tória favorita é
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Django,the Solar\n Boy\"!"
+	"\"Django,o Garoto\n Solar\"!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My parents are
-	gonna take me to
-	Castillo tomorrow. I
+	Os meus pais vão me
+	levar no Castillo
+	amanhã. Mal posso
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	can't wait to shoot
-	him with my
-	GunDelSl!
+	esperar pra atirar
+	nele com a minha
+	GunDelSol!
 	"""
 	keyWait
 		any = false
@@ -264,17 +267,17 @@ script 7 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	You like Django,
-	Takumi? You should
-	go to VampirManor!
+	Gosta do Django,
+	Takumi? Então vá na
+	Mansão do Vampiro!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's filled with
-	scenes of Django
-	fighting Vampires!
+	Lá tem um monte de
+	cenas do Django lu-
+	tando com Vampiros!
 	"""
 	keyWait
 		any = false
@@ -289,17 +292,17 @@ script 8 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Kids seem to love
-	"Django,the Solar
-	 Boy".
+	Parece que as crian-
+	ças adoram "Django,
+	o Garoto Solar".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Django's weapon,
-	GunDelSl,is on sale
-	now as a BattleChip.
+	A arma dele, a Gun-
+	DelSol,agora está a
+	venda como um chip.
 	"""
 	keyWait
 		any = false
@@ -314,24 +317,24 @@ script 9 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	I hear it can absorb
-	light! If an
-	operator is in a
+	Parece que ela pode
+	absorver luz! Se o
+	operador estiver
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	place where sunlight
-	reaches,such as
-	outdoors,GunDelSl's
+	banhado pela luz
+	solar,fora de casa,
+	por exemplo,a força
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	power increases in
-	strength!
+	da GunDelSol
+	aumenta!
 	"""
 	keyWait
 		any = false
@@ -346,32 +349,33 @@ script 10 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Visitors: We at
-	Castillo offer our
-	sincerest apologies
+	Visitantes: Nós,do
+	Castillo,pedimos
+	desculpas sinceras
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	for the attraction
-	failure and ToyRobo
-	malfunctions the
+	pelos defeitos nas
+	atrações e nos
+	Robôs-Brinquedo do
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	other day. We have
-	implemented daily
-	security checks.
+	outro dia. Implemen-
+	tamos checagens diá-
+	rias de segurança.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We hope for your
-	continued support.
+	Esperamos poder
+	continuar a contar
+	com o seu apoio.
 	"""
 	keyWait
 		any = false
@@ -386,24 +390,24 @@ script 11 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	I was at the park
-	when the ToyRobo
-	went berserk.
+	Eu tava no parque
+	quando os RobôBrinq
+	endoidou.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Dracky was the
-	scariest! It was
-	almost as if he was
+	O Dracky foi o que
+	deu mais medo! Pare-
+	cia até que ele tava
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	possessed by a real
-	Vampire!
+	possuído por um
+	Vampiro de verdade!
 	"""
 	keyWait
 		any = false
@@ -418,28 +422,30 @@ script 12 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	I was at the park
-	too! It was
+	Eu tava no parque,
+	também! Deu muito
+	medo... mas também
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	frightening⋯yet
-	thrilling! Still,it
+	foi emocionante!
+	Mas,é,é apavorante
+	pensar no que
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	scares me to think
-	of what might have
-	happened if not for
+	poderia ter
+	acontecido se não
+	fosse por aquele
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"that bandanna kid⋯"
+	"menino da bandana..."
 	keyWait
 		any = false
 	waitHold
@@ -453,24 +459,24 @@ script 13 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Is there some kind
-	of event going on? I
+	Tem algum evento
+	rolando? Eu vi
+	alguém escondendo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	saw someone hiding
-	things all over the
-	park. He was by the
+	coisas por todo o
+	parque. Ele foi à
+	fonte da entrada,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	front fountain,the
-	iron door and even
-	Dracky!
+	ao portão de ferro
+	e até ao Dracky!
 	"""
 	keyWait
 		any = false
@@ -485,25 +491,25 @@ script 14 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	The castle at
-	Castillo was the
-	sight for that Net-
+	O castelo do
+	Castillo foi o
+	palco para aquele
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Battle Tournament?!
-	Who'd have thought
-	they'd use a theme
+	Torneio de NetLuta?!
+	Quem diria que
+	usariam um parque
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	park! Must be a
-	joint-sponsor deal
-	that's all the rage⋯
+	temático! Deve ser
+	um contrato de
+	patrocínio aí...
 	"""
 	keyWait
 		any = false
@@ -518,23 +524,23 @@ script 15 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	That was a national
-	competition,and the
+	Era uma competição
+	nacional,e o
+	vencedor foi
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	winner was none
-	other than that kid
-	who stopped the
+	justamente o menino
+	que parou o
+	Robô-Brinquedo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	berserk ToyRobo
-	here!
+	enlouquecido aqui!
 	"""
 	keyWait
 		any = false
@@ -549,22 +555,22 @@ script 16 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	It seems there was
-	some kind of trouble
-	at the awards
+	Parece que houve
+	problemas na
+	cerimônia de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ceremony. It was so
-	crowded I couldn't
-	see. What exactly
+	premiação. Estava
+	tão lotada que não
+	deu pra eu ver.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"happened?"
+	"O que aconteceu lá?"
 	keyWait
 		any = false
 	waitHold
@@ -578,29 +584,30 @@ script 17 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	I saw everything!
-	The kid that won was
+	Eu vi tudo! O menino
+	que venceu se 
+	conectou à
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	jacked into the
-	NetBattle Machine
-	and was battling
+	Máquina de NetLutas
+	e lutou contra
+	alguém.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	someone. The scene
-	was really intense,
-	but I'm not sure
+	Foi bem intenso,
+	mas não entendi
+	muito bem o que
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"what was going down."
+	"estava acontecendo."
 	keyWait
 		any = false
 	waitHold

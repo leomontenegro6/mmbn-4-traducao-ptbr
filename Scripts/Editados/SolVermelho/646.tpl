@@ -5,8 +5,8 @@ script 0 mmbn4 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Ah! Hurry up,call
-	for reinforcements!
+	Ah! Rápido,chama
+	reforços!
 	"""
 	keyWait
 		any = false
@@ -19,9 +19,9 @@ script 1 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Oh no!
-	MegaMan,hurry up
-	and jack out!
+	Essa não!
+	MegaMan! Rápido,
+	desconecta!
 	"""
 	keyWait
 		any = false
@@ -33,7 +33,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Okay!"
+	"Tá bom!"
 	keyWait
 		any = false
 	end
@@ -43,14 +43,14 @@ script 3 mmbn4 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Dang! They mighta
-	heard about our plan
-	to take over!
+	Droga! Ele deve ter
+	ouvido o nosso
+	plano!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hmmm⋯"
+	"Hmmm..."
 	keyWait
 		any = false
 	end

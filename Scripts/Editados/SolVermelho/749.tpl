@@ -3,9 +3,9 @@
 script 0 mmbn4 {
 	msgOpen
 	"""
-	You've got some
-	amazing skills!
-	Here,take this!
+	Suas habilidades são
+	incríveis!
+	Tome,aceite isto!
 	"""
 	keyWait
 		any = false
@@ -30,16 +30,15 @@ script 0 mmbn4 {
 		value = 2
 	clearMsg
 	"""
-	The next training
-	session is with the
-	machine
+	A próxima sessão de
+	treinamento é com a
+	máquina na Área
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	in Netopia Area.
-	Let's go!
+	Ameropa. Avante!!
 	"""
 	keyWait
 		any = false
@@ -47,13 +46,13 @@ script 0 mmbn4 {
 }
 script 1 mmbn4 {
 	msgOpen
-	"What're you doing?!"
+	"O que você está\nfazendo?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Try again!
-	Are you ready?!
+	Vamos de novo!
+	Está pronto?!
 	"""
 	keyWait
 		any = false
@@ -68,7 +67,7 @@ script 1 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Yes\n"
+	"Sim\n"
 	positionOptionVertical
 		width = 3
 	option
@@ -79,7 +78,7 @@ script 1 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"No"
+	"Não"
 	select
 		default = 0
 		noDelay = false
@@ -96,9 +95,9 @@ script 1 mmbn4 {
 script 5 mmbn4 {
 	msgOpen
 	"""
-	You've got some
-	amazing skills!
-	Here,take this!
+	Suas habilidades são
+	incríveis!
+	Tome,aceite isto!
 	"""
 	keyWait
 		any = false
@@ -123,16 +122,15 @@ script 5 mmbn4 {
 		value = 2
 	clearMsg
 	"""
-	The next training
-	session is with the
-	machine
+	A próxima sessão de
+	treinamento é com a
+	máquina na Área
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	in Sharo Area.
-	Let's go!
+	Sharo. Avante!!
 	"""
 	keyWait
 		any = false
@@ -145,9 +143,9 @@ script 6 mmbn4 {
 script 10 mmbn4 {
 	msgOpen
 	"""
-	You've got some
-	amazing skills!
-	Here,take this!
+	Suas habilidades são
+	incríveis!
+	Tome,aceite isto!
 	"""
 	keyWait
 		any = false
@@ -172,8 +170,8 @@ script 10 mmbn4 {
 		value = 2
 	clearMsg
 	"""
-	Okay,time to go
-	visit KendoMan!
+	Bom,hora de ir falar
+	com o KendoMan!
 	"""
 	keyWait
 		any = false
@@ -185,21 +183,21 @@ script 11 mmbn4 {
 }
 script 15 mmbn4 {
 	msgOpen
-	"Knock me down within\n"
+	"Nocauteie-me em\n"
 	printBuffer
 		buffer = 1
 		minLength = 0
 		padZeros = false
 		padLeft = true
-	" seconds!"
+	" segundos!"
 	keyWait
 		any = false
 	clearMsg
-	"Here we go!"
+	"Avante!!"
 	keyWait
 		any = false
 	clearMsg
-	"Begin!"
+	"Começar!"
 	keyWait
 		any = false
 	end

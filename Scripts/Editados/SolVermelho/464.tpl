@@ -97,8 +97,8 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Deixa eu ver...
-	É um trabalho pro
+	Deixa eu ver... Esse
+	é um trabalho pro
 	expert dos chips...
 	"""
 	keyWait
@@ -211,7 +211,7 @@ script 13 mmbn4 {
 		mugshot = Higsby
 	"""
 	Um ChipTrev arrasta
-	o dono direto pra
+	o dono direto pro
 	Mundo das Trevas.
 	"""
 	keyWait
@@ -246,7 +246,7 @@ script 15 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas ao usá-lo,uma
+	Mas,ao usá-lo,uma
 	força terrível é
 	liberada,é.
 	"""
@@ -342,7 +342,7 @@ script 19 mmbn4 {
 	"""
 	Eu sei,mas... Você
 	achou esses dados no
-	ciberespaço,não é?
+	ciberespaço,não foi?
 	"""
 	keyWait
 		any = false
@@ -353,7 +353,7 @@ script 19 mmbn4 {
 script 20 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"É-é..."
+	"F-foi..."
 	keyWait
 		any = false
 	clearMsg

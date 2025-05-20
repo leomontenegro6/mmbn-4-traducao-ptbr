@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
 	msgOpen
-	"Follow me please."
+	"Venha comigo,\npor favor."
 	keyWait
 		any = false
 	clearMsg
@@ -15,8 +15,8 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	W-Wait,what is this
-	place?!
+	P-pera,que lugar é
+	este?!
 	"""
 	keyWait
 		any = false
@@ -26,20 +26,21 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
 	msgOpen
-	"Welcome,Lan."
+	"Bem-vindo,Lan."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To the Netopia space
-	monitoring center.
+	Este é o centro de
+	monitoramento
+	espacial da Ameropa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Otherwise known as
-	NAXA.
+	Também conhecido
+	como NAXA.
 	"""
 	keyWait
 		any = false
@@ -52,14 +53,14 @@ script 3 mmbn4 {
 		mugshot = Lan
 	"""
 	N-NAXA?
-	Space?
+	Espacial?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why have you brought
-	me here?
+	Por que vocês me
+	trouxeram aqui?
 	"""
 	keyWait
 		any = false
@@ -70,29 +71,30 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
-	"Prepare yourself⋯"
+	"Escute o que eu\nvou dizer,e tente\nmanter a calma..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A huge asteroid is
-	headed directly
-	towards our planet.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	If we don't stop it,
-	we're all doomed!
+	Um enorme asteroide
+	está vindo rumo ao
+	nosso planeta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Our plan to prevent
-	the impact requires
-	your strength,Lan.
+	E se não o pararmos,
+	seremos todos
+	dizimados!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Nosso plano é preve-
+	nir o impacto com a
+	sua ajuda,Lan.
 	"""
 	keyWait
 		any = false
@@ -103,14 +105,14 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"W-What⋯"
+	"O-o quê...?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I haven't heard
-	anything about an
-	asteroid!
+	Eu não ouvi falar
+	nada de nenhum
+	asteroide,não!
 	"""
 	keyWait
 		any = false
@@ -121,40 +123,42 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
-	"Of course not."
+	"Claro que não\nouviu."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's Level 5 top
-	secret information.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	If everyone knew,the
-	world would descend
-	into chaotic panic.
+	É uma informação
+	ultra-secreta de
+	nível 5.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll tell you the
-	details inside.
+	Se o público soubes-
+	se,o mundo inteiro
+	entraria em pânico.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go the room on the
-	second floor.
+	Darei mais detalhes
+	depois que
+	entrarmos.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hurry now!"
+	"""
+	Siga para o salão
+	no segundo andar.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Depressa!"
 	keyWait
 		any = false
 	end

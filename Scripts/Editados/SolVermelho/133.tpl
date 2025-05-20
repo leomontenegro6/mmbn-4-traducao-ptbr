@@ -8,8 +8,8 @@ script 0 mmbn4 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	Ka-kaaw⋯!
-	(Leavin' now!)
+	Ca-cóóó!
+	(Partindo!)
 	"""
 	keyWait
 		any = false
@@ -19,15 +19,16 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	msgOpen
 	"""
-	A mud and straw
-	house⋯
+	Uma casinha de
+	argila e palha...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's a breeze,so
-	it's nice inside.
+	Está ventando agora,
+	então está bem gos-
+	toso dentro dela.
 	"""
 	keyWait
 		any = false
@@ -38,8 +39,8 @@ script 1 mmbn4 {
 		jumpIfFalse = continue
 	clearMsg
 	"""
-	Something's fallen
-	in the entrance
+	Tem alguma coisa no
+	chão da entrada
 	"""
 	waitSkip
 		frames = 30
@@ -61,8 +62,8 @@ script 1 mmbn4 {
 	playerAnimateScene
 		animation = 24
 	"""
-	Lan got:
-	PowerUp Program
+	Lan adquiriu:
+	Programa PowerUp
 	"
 	"""
 	printItem
@@ -85,17 +86,17 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	msgOpen
 	"""
-	Inside and out,it's
-	a bit more luxurious
-	than other houses.
+	Por dentro e por
+	fora,é mais luxuosa
+	que as outras casas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's the mayor's
-	place,I guess. He's
-	real important here.
+	Deve ser a casa do
+	prefeito. Ele é mui-
+	to importante aqui.
 	"""
 	keyWait
 		any = false
@@ -104,25 +105,25 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	msgOpen
 	"""
-	You can't tell if
-	it's a scared face
-	or a happy one⋯
+	Não dá pra dizer se
+	é uma cara assustada
+	ou feliz...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A statue of the
-	village guardian
-	god,Nupopo⋯
+	É uma estátua de
+	Nupopo,deus
+	guardião da vila...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Look at that! You
-	can jack in through
-	its mouth!
+	Olha só! Tem uma
+	entrada de conexão
+	na boca dele!
 	"""
 	keyWait
 		any = false
@@ -131,32 +132,33 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	msgOpen
 	"""
-	It's got a mane,so
-	it was probably
-	modeled on a lion.
+	Tem uma juba,então
+	deve ter sido feita
+	com base no leão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's been made to
-	look different to
-	a real lion,
+	Ela foi moldada para
+	parecer diferente de
+	um leão de verdade,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but it's no less
-	impressive.
+	mas é tão
+	impressionante
+	quanto.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you look closely,
-	you can jack in
-	through its nose.
+	Olhando bem,dá
+	para se conectar
+	no focinho dele.
 	"""
 	keyWait
 		any = false
@@ -165,25 +167,25 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	msgOpen
 	"""
-	It's hot in NetFrica
-	so they often have
-	water shortages.
+	É tão quente na
+	Affriq que há muita
+	falta de água.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This statue's for
-	managing the water.
-	It's the WaterGod⋯
+	Essa estátua é para
+	gerenciar a água.
+	É o Deus da Água.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can even jack in
-	to a control system
-	for the river water.
+	Dá até pra se conec-
+	tar a um sistema de
+	controle fluvial.
 	"""
 	keyWait
 		any = false
@@ -201,17 +203,17 @@ script 7 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Er,are you going
-	back to the airport
-	on the ostrich?
+	Er,você vai voltar
+	pro aeroporto no
+	avestruz?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're in NetFrica!
-	You've gotta stay
-	for the festival!
+	Você tá na Affriq!
+	Tem que ficar pra
+	ver o festival!
 	"""
 	keyWait
 		any = false
@@ -222,9 +224,9 @@ script 8 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Where you off to,
-	Lan?! You've gotta
-	purify the WaterGod!
+	Aonde você vai,Lan?!
+	Temos que purificar
+	o Deus da Água!
 	"""
 	keyWait
 		any = false

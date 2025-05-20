@@ -340,17 +340,17 @@ script 11 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	That wooden post was
-	for destroying Navis
-	on a manhunt,
+	Aquelas coisas eram
+	pra destruir Navis
+	que alguém procura,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	set up by Navis with
-	wood attributes.
-	Right! On with work!
+	e foram armadas por
+	Navis de Madeira.
+	Enfim! Ao trabalho!
 	"""
 	keyWait
 		any = false

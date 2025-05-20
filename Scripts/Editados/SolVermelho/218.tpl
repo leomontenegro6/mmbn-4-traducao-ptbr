@@ -14,7 +14,7 @@ script 0 mmbn4 {
 		jumpIfGreater = continue
 		jumpIfLess = 1
 	msgOpen
-	"MegaMan used:"
+	"MegaMan usou:"
 	keyWait
 		any = false
 	clearMsg
@@ -23,7 +23,7 @@ script 0 mmbn4 {
 		buffer = 0
 		item = 112
 	"""
-	" and
+	" e
 	"
 	"""
 	printItem
@@ -46,15 +46,15 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	MegaMan,
-	hurry ahead!
+	Rápido,MegaMan,
+	vá em frente!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Okay!"
+	"Certo!"
 	keyWait
 		any = false
 	end
@@ -70,13 +70,16 @@ script 1 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Chaud,there's a
-	door here too!
+	Chaud,tem outra
+	porta aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It says,\"Get\n "
+	"""
+	Tem escrito: "Traga
+	a 
+	"""
 	printItem
 		buffer = 0
 		item = 112
@@ -84,32 +87,31 @@ script 1 mmbn4 {
 	printItem
 		buffer = 0
 		item = 113
-	"\"!"
+	"a \"!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Chaud
 	"""
-	Right then,I'll
-	tell you where the
-	keys are.
+	Certo. Vou dizer
+	onde as chaves
+	estão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'll definitely
-	find both of them
-	here.
+	Garanto que você vai
+	achar as duas lá.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Start by finding the
-	first key,
-	"
+	Comece achando a
+	primeira chave,
+	a "
 	"""
 	printItem
 		buffer = 0
@@ -119,9 +121,9 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	It's hidden in the
-	right corner of a
-	square in the area!
+	Está no canto supe-
+	rior-direito de um
+	quadrado na área!
 	"""
 	keyWait
 		any = false
@@ -129,9 +131,9 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Okay,I'm on it!
-	Look in the place I
-	thought of,okay!
+	Beleza,eu vou lá!
+	É só eu procurar
+	nesse lugar!
 	"""
 	keyWait
 		any = false
@@ -142,8 +144,8 @@ script 2 mmbn4 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	MegaMan,hurry!
-	Find the key!
+	Rápido,MegaMan!
+	Encontre a chave!
 	"""
 	keyWait
 		any = false

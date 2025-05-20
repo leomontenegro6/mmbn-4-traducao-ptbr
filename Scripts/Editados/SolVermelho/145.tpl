@@ -32,7 +32,7 @@ script 10 mmbn4 {
 }
 script 11 mmbn4 {
 	msgOpen
-	"That's not right."
+	"Errado."
 	keyWait
 		any = false
 	end
@@ -40,9 +40,9 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	msgOpen
 	"""
-	To open the door,
-	you need some story
-	data from the tales.
+	Para abrir,adquira
+	dados de narrativa
+	das histórias.
 	"""
 	keyWait
 		any = false
@@ -61,64 +61,65 @@ script 13 mmbn4 {
 script 14 mmbn4 {
 	mugshotHide
 	msgOpen
-	"Chapter 1⋯"
+	"Capítulo 1..."
 	keyWait
 		any = false
 	clearMsg
-	"Django,the Solar Boy"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	carried
-	"****"
-	the Solar Gun,and
-	"""
+	"Django,o Garoto\nSolar,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	with the "****"
-	that had been worn
-	by his father,
+	portava a
+	"****",
+	a Arma Solar,e,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	he set off to defeat
-	Vampires⋯
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"On that same night,"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	the lid of a giant
-	coffin slowly
-	opened⋯
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"\"It's dinner time.\""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Having just woken,
-	the evil occupant
-	spread his wings
+	com um "****",
+	antes usado por seu
+	pai,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and flew off into
-	a jet black sky⋯
+	ele partiu para
+	derrotar Vampiros.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Naquela mesma noite,"
+	keyWait
+		any = false
+	clearMsg
+	"""
+	a tampa do caixão
+	gigante lentamente
+	se abria...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"\"Hora do jantar.\""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Logo após acordar,
+	o ser maligno abriu
+	suas grandes asas
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	e voou em direção a
+	um céu da mais com-
+	pleta escuridão...
 	"""
 	keyWait
 		any = false
@@ -127,51 +128,51 @@ script 14 mmbn4 {
 script 15 mmbn4 {
 	mugshotHide
 	msgOpen
-	"Chapter 2⋯"
+	"Capítulo 2..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	On his travels,
-	Django met "****",
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	the Sun Spirit,and
-	they decided to
-	travel together.
+	Em suas viagens,
+	Django conheceu
+	"****",
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just little after
-	starting off⋯
+	o Espírito do Sol,
+	e os dois decidiram
+	viajar juntos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Sun Spirit felt
-	an extraordinary
-	evil force
+	Pouco depois da
+	viagem começar,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	coming from the
-	east.
+	o Espírito do Sol
+	sentiu uma força
+	maligna absurda
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The two travelers
-	then started walking
-	in that direction⋯
+	advinda do leste.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Os dois viajantes,
+	então,seguiram
+	naquela direção...
 	"""
 	keyWait
 		any = false
@@ -180,97 +181,100 @@ script 15 mmbn4 {
 script 16 mmbn4 {
 	mugshotHide
 	msgOpen
-	"Chapter 3⋯"
+	"Capítulo 3..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Master Otenko led
-	the way to an
-	eastern town
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	and Django then met
-	that town's
-	dreadful Vampire.
+	O Mestre Otenko
+	guiou os dois a
+	uma cidade a leste,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Super-Vampire Dracky
-	was immune to garlic
-	and cross.
+	e lá,Django,se depa-
+	rou com o maligno
+	Vampiro da cidade.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	In order to defeat
-	this wicked Vampire,
+	Dracky,o Super Vam-
+	piro,imune a alho
+	e a cruzes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Django and Master
-	Otenko broke into
-	Dracky's Manor.
+	Para vencer esse
+	Vampiro cruel,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Evading numerous
-	monsters and traps,
+	Django e o Mestre
+	Otenko invadiram a
+	mansão de Dracky.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Django finally got
-	to Dracky's chamber.
+	Evitando diversos
+	monstros e
+	armadilhas,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A battle to the
-	death ensued!
+	Django finalmente
+	chegou à câmara do
+	Dracky.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	In a Manor where the
-	"****" does not
-	shine,
+	Tudo culminou em
+	uma batalha até a
+	morte!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the Vampire was at
-	a great advantage.
+	Na Mansão em que a
+	"****" não
+	chegava,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The GunDelSol
-	battery was nearly
-	wasted⋯
+	o Vampiro detinha
+	imensa vantagem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Django was in a
-	tighter spot than
-	ever before⋯
+	A bateria da
+	GunDelSol estava
+	quase esgotada...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Django estava nos
+	maiores apuros de
+	sua vida...
 	"""
 	keyWait
 		any = false
@@ -279,45 +283,45 @@ script 16 mmbn4 {
 script 17 mmbn4 {
 	mugshotHide
 	msgOpen
-	"Chapter 4⋯"
+	"Capítulo 4..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Dracky attacked
-	Django with his bite
-	of certain death!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Just one bite of
-	that potency could
-	fell an elephant!!
+	Dracky atacou Django
+	com sua mordida da
+	morte certa!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	At the last second,
-	a beam of light cut
-	through Django!!
+	Uma única mordida
+	dessas mataria até
+	um elefante!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The sunlight had
-	come from "****".
+	No último instante,
+	um feixe de luz caiu
+	sobre Django!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Django held up the
-	GunDelSol and let
-	out a scream!!
+	A luz solar vinha de
+	uma "****".
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Django ergueu a
+	GunDelSol e soltou
+	e um grito!!
 	"""
 	keyWait
 		any = false
@@ -327,67 +331,69 @@ script 17 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	The solar battery is
-	quickly charged!
+	A bateria solar se
+	recarregou num
+	piscar de olhos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	His single shot
-	pierced Dracky's
-	heart!!
+	E seu único tiro
+	perfurou o coração
+	do Dracky!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Dracky had but a
-	single weakpoint,and
-	that weakpoint was
+	Dracky possuía
+	somente um ponto
+	fraco,esse sendo
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"light of the Sun!"
+	"a luz do sol!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Dracky's body was
-	engulfed in flame⋯
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Sure of victory,
-	Django watched on,
-	but
+	O corpo do Dracky
+	foi engolido por
+	chamas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	suddenly the burning
-	Dracky charged
-	headlong at him!
+	Certo da vitória,
+	Django seguiu
+	observando,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	quando,de repente,
+	Dracky avançou
+	direto nele!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	......
-	In Dracky's burnt
-	Manor,
+	Na Mansão queimada
+	do Dracky,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	a Vampire's laugh
-	echoed through the
-	silence⋯
+	a risada do Vampiro
+	ecoou,cortando o
+	silêncio...
 	"""
 	keyWait
 		any = false

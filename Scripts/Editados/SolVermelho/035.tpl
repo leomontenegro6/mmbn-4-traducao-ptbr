@@ -7,9 +7,9 @@ script 0 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Howdy!
-	(R Button:Describe)
-	(B Button:Don't buy)
+	Olá!
+	(R: Descrição)
+	(B: Sair)
 	"""
 	waitHold
 }
@@ -20,9 +20,9 @@ script 1 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	What'cha want?
-	(R Button:Describe)
-	(B Button:Don't buy)
+	O que quer?
+	(R: Descrição)
+	(B: Sair)
 	"""
 	waitHold
 }
@@ -72,7 +72,7 @@ script 3 mmbn4 {
 		mugshot = OfficialNavi
 	textSpeed
 		delay = 0
-	"Y'all come back,now!"
+	"Volta sempre,\nviu!"
 	waitHold
 }
 script 4 mmbn4 {
@@ -175,7 +175,7 @@ script 6 mmbn4 {
 		mugshot = MegaMan
 	textSpeed
 		delay = 0
-	"I bought \""
+	"Comprei \""
 	printItem
 		buffer = 1
 		item = 0
@@ -190,7 +190,7 @@ script 7 mmbn4 {
 		mugshot = MegaMan
 	textSpeed
 		delay = 0
-	"I bought \""
+	"Comprei \""
 	printChip
 		buffer = 1
 		chip = 0
@@ -209,7 +209,7 @@ script 8 mmbn4 {
 		mugshot = MegaMan
 	textSpeed
 		delay = 0
-	"Not enough Zennys⋯"
+	"Não tenho Zennys o\nbastante..."
 	keyWait
 		any = false
 	waitHold
@@ -221,8 +221,8 @@ script 9 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	I can't carry
-	any more.
+	Não posso carregar
+	mais.
 	"""
 	keyWait
 		any = false
@@ -235,8 +235,8 @@ script 10 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	I'm plumb sold out.
-	Thank ya kindly!
+	Estou esgotadinho.
+	'Gradecido!
 	"""
 	keyWait
 		any = false
@@ -293,7 +293,7 @@ script 12 mmbn4 {
 		mugshot = MegaMan
 	textSpeed
 		delay = 0
-	"I bought \""
+	"Comprei \""
 	printNaviCustProgram
 		buffer = 1
 		program = 0
@@ -391,7 +391,7 @@ script 20 mmbn4 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"You bought \""
+	"Comprou \""
 	printChip
 		buffer = 1
 		chip = 0
@@ -408,7 +408,7 @@ script 21 mmbn4 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"Insufficient Zennys."
+	"Zennys\ninsuficientes."
 	keyWait
 		any = false
 	waitHold
@@ -417,7 +417,7 @@ script 22 mmbn4 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"Can't hold any more."
+	"Impossível portar\nmais."
 	keyWait
 		any = false
 	waitHold
@@ -426,7 +426,7 @@ script 23 mmbn4 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"You bought \""
+	"Comprou \""
 	printNaviCustProgram
 		buffer = 1
 		program = 0

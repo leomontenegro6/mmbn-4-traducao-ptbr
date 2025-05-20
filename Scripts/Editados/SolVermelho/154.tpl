@@ -2,7 +2,7 @@
 
 script 0 mmbn4 {
 	msgOpen
-	"The Chat BBS⋯"
+	"O Fórum de\nBate-Papo..."
 	keyWait
 		any = false
 	startBBS

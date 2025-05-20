@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Let's run,Lan!\n"
+	"Vamos fugir,Lan!\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -24,7 +24,7 @@ script 0 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"No!"
+	"Não!"
 	select
 		default = 0
 		noDelay = false
@@ -44,18 +44,18 @@ script 1 mmbn4 {
 	msgOpen
 	wait
 		frames = 18
-	"・"
+	"."
 	wait
 		frames = 18
-	"・"
+	"."
 	wait
 		frames = 18
-	"・"
+	". "
 	wait
 		frames = 18
 	"""
-	Okay!
-	Did it! I got away.
+	Boa!
+	Conseguimos fugir!
 	"""
 	keyWait
 		any = false
@@ -67,18 +67,18 @@ script 2 mmbn4 {
 	msgOpen
 	wait
 		frames = 18
-	"・"
+	"."
 	wait
 		frames = 18
-	"・"
+	"."
 	wait
 		frames = 18
-	"・"
+	". "
 	wait
 		frames = 18
 	"""
-	No,
-	I can't get away!
+	Droga,
+	não deu pra fugir!
 	"""
 	keyWait
 		any = false
@@ -94,8 +94,8 @@ script 3 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! This is no time
-	for us to run away!
+	Lan! Não é hora pra
+	fugir!
 	"""
 	keyWait
 		any = false
@@ -108,8 +108,8 @@ script 4 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	The enemy's changing
-	strategies! 
+	O inimigo tá trocan-
+	do de estratégia!
 	
 	"""
 	positionOptionHorizontal
@@ -131,7 +131,7 @@ script 4 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"No!"
+	"Não!"
 	select
 		default = 0
 		noDelay = false
@@ -151,7 +151,7 @@ script 5 mmbn4 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"What should we do?\n"
+	"O que faremos?\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -162,7 +162,7 @@ script 5 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Chase the enemy!\n"
+	"Perseguir alvo!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -173,7 +173,7 @@ script 5 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Get out of row!"
+	"Sair da linha!"
 	select
 		default = 0
 		noDelay = false
@@ -193,7 +193,7 @@ script 6 mmbn4 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"What should I use?"
+	"O que eu uso?"
 	keyWait
 		any = false
 	clearMsg
@@ -207,7 +207,7 @@ script 6 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Use the MegaBuster!\n"
+	"Usa o MegaTiro!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -218,7 +218,7 @@ script 6 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Use the shield!\n"
+	"Usa o escudo!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -229,7 +229,7 @@ script 6 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Wait for a chip"
+	"Espere um chip"
 	select
 		default = 0
 		noDelay = false
@@ -250,7 +250,7 @@ script 7 mmbn4 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"What should I use?"
+	"O que eu uso?"
 	keyWait
 		any = false
 	clearMsg
@@ -264,7 +264,7 @@ script 7 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Use the MegaBuster!\n"
+	"Usa o MegaTiro!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -275,7 +275,7 @@ script 7 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Use the shield!\n"
+	"Usa o escudo!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -286,7 +286,7 @@ script 7 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Wait for a chip"
+	"Espere um chip"
 	select
 		default = 0
 		noDelay = false
@@ -308,8 +308,8 @@ script 8 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	The enemy's changing
-	strategies! 
+	O inimigo tá trocan-
+	do de estratégia!
 	
 	"""
 	positionOptionHorizontal
@@ -331,7 +331,7 @@ script 8 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"No!"
+	"Não!"
 	select
 		default = 0
 		noDelay = false
@@ -351,7 +351,7 @@ script 9 mmbn4 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"What should we do?\n"
+	"O que faremos?\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -362,7 +362,7 @@ script 9 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Chase the enemy!\n"
+	"Perseguir alvo!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -373,7 +373,7 @@ script 9 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Get out of row!"
+	"Sair da linha!"
 	select
 		default = 0
 		noDelay = false
@@ -393,7 +393,7 @@ script 10 mmbn4 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"What should I use?"
+	"O que eu uso?"
 	keyWait
 		any = false
 	clearMsg
@@ -407,7 +407,7 @@ script 10 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Use the Buster!\n"
+	"Use o MegaTiro!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -418,7 +418,7 @@ script 10 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Use the RollArro\n"
+	"Use a RollArro\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -429,7 +429,7 @@ script 10 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Wait for a chip"
+	"Espere por um chip"
 	select
 		default = 0
 		noDelay = false
@@ -450,7 +450,7 @@ script 11 mmbn4 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"What should I use?"
+	"O que eu uso?"
 	keyWait
 		any = false
 	clearMsg
@@ -464,7 +464,7 @@ script 11 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Use the Buster!\n"
+	"Use o MegaTiro!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -475,7 +475,7 @@ script 11 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Use the RollArro\n"
+	"Use a RollArro\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -486,7 +486,7 @@ script 11 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Wait for a chip"
+	"Espere por um chip"
 	select
 		default = 0
 		noDelay = false
@@ -508,8 +508,8 @@ script 12 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	The enemy's changing
-	strategies! 
+	O inimigo tá trocan-
+	do de estratégia!
 	
 	"""
 	positionOptionHorizontal
@@ -531,7 +531,7 @@ script 12 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"No!"
+	"Não!"
 	select
 		default = 0
 		noDelay = false
@@ -551,7 +551,7 @@ script 13 mmbn4 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"What should we do?\n"
+	"O que faremos?\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -562,7 +562,7 @@ script 13 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Chase the enemy!\n"
+	"Perseguir alvo!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -573,7 +573,7 @@ script 13 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Get out of row!"
+	"Sair da linha!"
 	select
 		default = 0
 		noDelay = false
@@ -593,7 +593,7 @@ script 14 mmbn4 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"What should I use?"
+	"O que eu uso?"
 	keyWait
 		any = false
 	clearMsg
@@ -607,7 +607,7 @@ script 14 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Use the Buster!\n"
+	"Use o MegaTiro!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -618,7 +618,7 @@ script 14 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Use the Guts Hammer\n"
+	"Use o Guts Hammer!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -629,7 +629,7 @@ script 14 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Wait for a chip"
+	"Espere por um chip"
 	select
 		default = 0
 		noDelay = false
@@ -650,7 +650,7 @@ script 15 mmbn4 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"What should I use?"
+	"O que eu uso?"
 	keyWait
 		any = false
 	clearMsg
@@ -664,7 +664,7 @@ script 15 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Use the Buster!\n"
+	"Use o MegaTiro!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -675,7 +675,7 @@ script 15 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Use the Guts Hammer\n"
+	"Use o Guts Hammer!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -686,7 +686,7 @@ script 15 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Wait for a chip"
+	"Espere por um chip"
 	select
 		default = 0
 		noDelay = false
@@ -708,8 +708,8 @@ script 16 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	The enemy's changing
-	strategies! 
+	O inimigo tá trocan-
+	do de estratégia!
 	
 	"""
 	positionOptionHorizontal
@@ -731,7 +731,7 @@ script 16 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"No!"
+	"Não!"
 	select
 		default = 0
 		noDelay = false
@@ -751,7 +751,7 @@ script 17 mmbn4 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"What should we do?\n"
+	"O que faremos?\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -762,7 +762,7 @@ script 17 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Chase the enemy!\n"
+	"Perseguir alvo!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -773,7 +773,7 @@ script 17 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Get out of row!"
+	"Sair da linha!"
 	select
 		default = 0
 		noDelay = false
@@ -793,7 +793,7 @@ script 18 mmbn4 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"What should I use?"
+	"O que eu uso?"
 	keyWait
 		any = false
 	clearMsg
@@ -807,7 +807,7 @@ script 18 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Use the Buster!\n"
+	"Use o Atirador!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -818,7 +818,7 @@ script 18 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Hit them with Wind\n"
+	"Assopre com Wind\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -829,7 +829,7 @@ script 18 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Suck them with Fan"
+	"Puxe com Fan"
 	select
 		default = 0
 		noDelay = false
@@ -850,7 +850,7 @@ script 19 mmbn4 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"What should I use?"
+	"O que eu uso?"
 	keyWait
 		any = false
 	clearMsg
@@ -864,7 +864,7 @@ script 19 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Use the Buster!\n"
+	"Use o Atirador!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -875,7 +875,7 @@ script 19 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Hit them with Wind\n"
+	"Assopre com Wind\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -886,7 +886,7 @@ script 19 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Suck them with Fan"
+	"Puxe com Fan"
 	select
 		default = 0
 		noDelay = false
@@ -908,8 +908,8 @@ script 20 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	The enemy's changing
-	strategies! 
+	O inimigo tá trocan-
+	do de estratégia!
 	
 	"""
 	positionOptionHorizontal
@@ -931,7 +931,7 @@ script 20 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"No!"
+	"Não!"
 	select
 		default = 0
 		noDelay = false
@@ -951,7 +951,7 @@ script 21 mmbn4 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"I await orders.\n"
+	"Ordens?\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -962,7 +962,7 @@ script 21 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Chase the enemy!\n"
+	"Perseguir alvo!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -973,7 +973,7 @@ script 21 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Get out of row!"
+	"Sair da linha!"
 	select
 		default = 0
 		noDelay = false
@@ -993,7 +993,7 @@ script 22 mmbn4 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"What shall I use?"
+	"O que devo usar?"
 	keyWait
 		any = false
 	clearMsg
@@ -1007,7 +1007,7 @@ script 22 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Use the Buster!\n"
+	"Use o Atirador!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -1029,7 +1029,7 @@ script 22 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Wait for a chip"
+	"Espere por um chip"
 	select
 		default = 0
 		noDelay = false
@@ -1050,7 +1050,7 @@ script 23 mmbn4 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"What shall I use?"
+	"O que devo usar?"
 	keyWait
 		any = false
 	clearMsg
@@ -1064,7 +1064,7 @@ script 23 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Use the Buster!\n"
+	"Use o Atirador!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -1086,7 +1086,7 @@ script 23 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Wait for a chip"
+	"Espere por um chip"
 	select
 		default = 0
 		noDelay = false
@@ -1108,8 +1108,8 @@ script 24 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	The enemy's changing
-	strategies! 
+	O inimigo tá trocan-
+	do de estratégia!
 	
 	"""
 	positionOptionHorizontal
@@ -1131,7 +1131,7 @@ script 24 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"No!"
+	"Não!"
 	select
 		default = 0
 		noDelay = false
@@ -1151,7 +1151,7 @@ script 25 mmbn4 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"What should we do?\n"
+	"O que faremos?\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -1162,7 +1162,7 @@ script 25 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Chase the enemy!\n"
+	"Perseguir alvo!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -1173,7 +1173,7 @@ script 25 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Get out of row!"
+	"Sair da linha!"
 	select
 		default = 0
 		noDelay = false
@@ -1193,7 +1193,7 @@ script 26 mmbn4 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"What should I use?"
+	"O que eu uso?"
 	keyWait
 		any = false
 	clearMsg
@@ -1207,7 +1207,7 @@ script 26 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Use the Buster!\n"
+	"Use o Atirador!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -1229,7 +1229,7 @@ script 26 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Wait for a chip"
+	"Espere por um chip"
 	select
 		default = 0
 		noDelay = false
@@ -1250,7 +1250,7 @@ script 27 mmbn4 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"What should I use?"
+	"O que eu uso?"
 	keyWait
 		any = false
 	clearMsg
@@ -1264,7 +1264,7 @@ script 27 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Use the Buster!\n"
+	"Use o Atirador!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -1286,7 +1286,7 @@ script 27 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Wait for a chip"
+	"Espere por um chip"
 	select
 		default = 0
 		noDelay = false
@@ -1308,8 +1308,8 @@ script 28 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	The enemy's changing
-	strategies! 
+	O inimigo tá trocan-
+	do de estratégia!
 	
 	"""
 	positionOptionHorizontal
@@ -1331,7 +1331,7 @@ script 28 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"No!"
+	"Não!"
 	select
 		default = 0
 		noDelay = false
@@ -1351,7 +1351,7 @@ script 29 mmbn4 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"How should we fight?\n"
+	"Como lutaremos?\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -1362,7 +1362,7 @@ script 29 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Chase the enemy!\n"
+	"Perseguir alvo!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -1373,7 +1373,7 @@ script 29 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Get out of row!"
+	"Sair da linha!"
 	select
 		default = 0
 		noDelay = false
@@ -1393,7 +1393,7 @@ script 30 mmbn4 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"What should I use?"
+	"O que eu uso?"
 	keyWait
 		any = false
 	clearMsg
@@ -1407,7 +1407,7 @@ script 30 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Use the Buster!\n"
+	"Use o Atirador!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -1429,7 +1429,7 @@ script 30 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Wait for a chip"
+	"Espere por um chip"
 	select
 		default = 0
 		noDelay = false
@@ -1450,7 +1450,7 @@ script 31 mmbn4 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"What should I use?"
+	"O que eu uso?"
 	keyWait
 		any = false
 	clearMsg
@@ -1464,7 +1464,7 @@ script 31 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Use the Buster!\n"
+	"Use o Atirador!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -1486,7 +1486,7 @@ script 31 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Wait for a chip"
+	"Espere por um chip"
 	select
 		default = 0
 		noDelay = false
@@ -1508,8 +1508,8 @@ script 32 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	The enemy's changing
-	strategies! 
+	O inimigo tá trocan-
+	do de estratégia!
 	
 	"""
 	positionOptionHorizontal
@@ -1531,7 +1531,7 @@ script 32 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"No!"
+	"Não!"
 	select
 		default = 0
 		noDelay = false
@@ -1551,7 +1551,7 @@ script 33 mmbn4 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"I await orders.\n"
+	"Ordens?\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -1562,7 +1562,7 @@ script 33 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Chase the enemy!\n"
+	"Perseguir alvo!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -1573,7 +1573,7 @@ script 33 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Get out of row!"
+	"Sair da linha!"
 	select
 		default = 0
 		noDelay = false
@@ -1593,7 +1593,7 @@ script 34 mmbn4 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"What should I equip?"
+	"O que devo equipar?"
 	keyWait
 		any = false
 	clearMsg
@@ -1607,7 +1607,7 @@ script 34 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Shield\n"
+	"Escudo\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -1629,7 +1629,7 @@ script 34 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Wait for a chip"
+	"Espere por um chip"
 	select
 		default = 0
 		noDelay = false
@@ -1650,7 +1650,7 @@ script 35 mmbn4 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"What should I equip?"
+	"O que devo equipar?"
 	keyWait
 		any = false
 	clearMsg
@@ -1664,7 +1664,7 @@ script 35 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Shield\n"
+	"Escudo\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -1686,7 +1686,7 @@ script 35 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Wait for a chip"
+	"Espere por um chip"
 	select
 		default = 0
 		noDelay = false
@@ -1708,8 +1708,8 @@ script 36 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Enemy is changing
-	strategies! 
+	O inimigo trocou
+	de estratégia!
 	
 	"""
 	positionOptionHorizontal
@@ -1731,7 +1731,7 @@ script 36 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"No!"
+	"Não!"
 	select
 		default = 0
 		noDelay = false
@@ -1751,7 +1751,7 @@ script 37 mmbn4 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"What should we do?\n"
+	"O que faremos?\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -1762,7 +1762,7 @@ script 37 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Chase the enemy!\n"
+	"Perseguir alvo!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -1773,7 +1773,7 @@ script 37 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Get out of row!"
+	"Sair da linha!"
 	select
 		default = 0
 		noDelay = false
@@ -1793,7 +1793,7 @@ script 38 mmbn4 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"What shall I use?"
+	"O que devo usar?"
 	keyWait
 		any = false
 	clearMsg
@@ -1807,7 +1807,7 @@ script 38 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Use the Buster!\n"
+	"Use o Atirador!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -1818,7 +1818,7 @@ script 38 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Shield\n"
+	"Escudo\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -1829,7 +1829,7 @@ script 38 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Wait for a chip"
+	"Espere por um chip"
 	select
 		default = 0
 		noDelay = false
@@ -1850,7 +1850,7 @@ script 39 mmbn4 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"What shall I use?"
+	"O que devo usar?"
 	keyWait
 		any = false
 	clearMsg
@@ -1864,7 +1864,7 @@ script 39 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Use the Buster!\n"
+	"Use o Atirador!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -1875,7 +1875,7 @@ script 39 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Shield\n"
+	"Escudo\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -1886,7 +1886,7 @@ script 39 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Wait for a chip"
+	"Espere por um chip"
 	select
 		default = 0
 		noDelay = false
@@ -1908,8 +1908,8 @@ script 40 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	The enemy's changing
-	strategies! 
+	O inimigo tá trocan-
+	do de estratégia!
 	
 	"""
 	positionOptionHorizontal
@@ -1931,7 +1931,7 @@ script 40 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"No!"
+	"Não!"
 	select
 		default = 0
 		noDelay = false
@@ -1951,7 +1951,7 @@ script 41 mmbn4 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"What should we do?\n"
+	"O que faremos?\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -1962,7 +1962,7 @@ script 41 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Chase the enemy!\n"
+	"Perseguir alvo!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -1973,7 +1973,7 @@ script 41 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Get out of row!"
+	"Sair da linha!"
 	select
 		default = 0
 		noDelay = false
@@ -1993,7 +1993,7 @@ script 42 mmbn4 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"What should I equip?"
+	"O que devo equipar?"
 	keyWait
 		any = false
 	clearMsg
@@ -2007,7 +2007,7 @@ script 42 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Use the Buster!\n"
+	"Use o Atirador!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -2029,7 +2029,7 @@ script 42 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Wait for a chip"
+	"Espere por um chip"
 	select
 		default = 0
 		noDelay = false
@@ -2050,7 +2050,7 @@ script 43 mmbn4 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"What should I equip?"
+	"O que devo equipar?"
 	keyWait
 		any = false
 	clearMsg
@@ -2064,7 +2064,7 @@ script 43 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Use the Buster!\n"
+	"Use o Atirador!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -2086,7 +2086,7 @@ script 43 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Wait for a chip"
+	"Espere por um chip"
 	select
 		default = 0
 		noDelay = false
@@ -2108,8 +2108,8 @@ script 44 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	THE ENEMY'S CHANGING
-	STRATEGIES.
+	O INIMIGO TROCOU DE
+	ESTRATÉGIA.
 	
 	"""
 	positionOptionHorizontal
@@ -2131,7 +2131,7 @@ script 44 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"No!"
+	"Não!"
 	select
 		default = 0
 		noDelay = false
@@ -2151,7 +2151,7 @@ script 45 mmbn4 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"WHAT SHOULD WE DO?\n"
+	"O QUE FAZEMOS?\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -2162,7 +2162,7 @@ script 45 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Chase the enemy!\n"
+	"Perseguir alvo!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -2173,7 +2173,7 @@ script 45 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Get out of row!"
+	"Sair da linha!"
 	select
 		default = 0
 		noDelay = false
@@ -2193,7 +2193,7 @@ script 46 mmbn4 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"WHAT SHOULD I EQUIP?"
+	"O QUE DEVO EQUIPAR?"
 	keyWait
 		any = false
 	clearMsg
@@ -2207,7 +2207,7 @@ script 46 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Use the Buster!\n"
+	"Use o Atirador!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -2229,7 +2229,7 @@ script 46 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Wait for a chip"
+	"Espere por um chip"
 	select
 		default = 0
 		noDelay = false
@@ -2250,7 +2250,7 @@ script 47 mmbn4 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"WHAT SHOULD I EQUIP?"
+	"O QUE DEVO EQUIPAR?"
 	keyWait
 		any = false
 	clearMsg
@@ -2264,7 +2264,7 @@ script 47 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Use the Buster!\n"
+	"Use o Atirador!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -2286,7 +2286,7 @@ script 47 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Wait for a chip"
+	"Espere por um chip"
 	select
 		default = 0
 		noDelay = false
@@ -2308,8 +2308,8 @@ script 48 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	The enemy's changing
-	strategies! 
+	O inimigo tá trocan-
+	do de estratégia!
 	
 	"""
 	positionOptionHorizontal
@@ -2331,7 +2331,7 @@ script 48 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"No!"
+	"Não!"
 	select
 		default = 0
 		noDelay = false
@@ -2351,7 +2351,7 @@ script 49 mmbn4 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"What should we do?\n"
+	"O que faremos?\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -2362,7 +2362,7 @@ script 49 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Chase the enemy!\n"
+	"Perseguir alvo!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -2373,7 +2373,7 @@ script 49 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Get out of row!"
+	"Sair da linha!"
 	select
 		default = 0
 		noDelay = false
@@ -2393,7 +2393,7 @@ script 50 mmbn4 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"What should I equip?"
+	"O que devo equipar?"
 	keyWait
 		any = false
 	clearMsg
@@ -2407,7 +2407,7 @@ script 50 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Use the Buster!\n"
+	"Use o Atirador!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -2429,7 +2429,7 @@ script 50 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Wait for a chip"
+	"Espere por um chip"
 	select
 		default = 0
 		noDelay = false
@@ -2450,7 +2450,7 @@ script 51 mmbn4 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"What should I equip?"
+	"O que devo equipar?"
 	keyWait
 		any = false
 	clearMsg
@@ -2464,7 +2464,7 @@ script 51 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Use the Buster!\n"
+	"Use o Atirador!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -2486,7 +2486,7 @@ script 51 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Wait for a chip"
+	"Espere por um chip"
 	select
 		default = 0
 		noDelay = false
@@ -2508,8 +2508,8 @@ script 52 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	The enemy's changing
-	strategies! 
+	O inimigo tá trocan-
+	do de estratégia!
 	
 	"""
 	positionOptionHorizontal
@@ -2531,7 +2531,7 @@ script 52 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"No!"
+	"Não!"
 	select
 		default = 0
 		noDelay = false
@@ -2551,7 +2551,7 @@ script 53 mmbn4 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"What shall we do?\n"
+	"O que faremos?\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -2562,7 +2562,7 @@ script 53 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Chase the enemy!\n"
+	"Perseguir alvo!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -2573,7 +2573,7 @@ script 53 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Get out of row!"
+	"Sair da linha!"
 	select
 		default = 0
 		noDelay = false
@@ -2593,7 +2593,7 @@ script 54 mmbn4 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"What should I equip?"
+	"O que devo equipar?"
 	keyWait
 		any = false
 	clearMsg
@@ -2607,7 +2607,7 @@ script 54 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Use the Buster!\n"
+	"Use o Atirador!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -2629,7 +2629,7 @@ script 54 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Wait for a chip"
+	"Espere por um chip"
 	select
 		default = 0
 		noDelay = false
@@ -2650,7 +2650,7 @@ script 55 mmbn4 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"What should I equip?"
+	"O que devo equipar?"
 	keyWait
 		any = false
 	clearMsg
@@ -2664,7 +2664,7 @@ script 55 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Use the Buster!\n"
+	"Use o Atirador!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -2686,7 +2686,7 @@ script 55 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Wait for a chip"
+	"Espere por um chip"
 	select
 		default = 0
 		noDelay = false
@@ -2710,8 +2710,8 @@ script 56 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! This is no time
-	for us to run away!
+	Lan! Não é hora pra
+	fugir!
 	"""
 	keyWait
 		any = false
@@ -2722,8 +2722,9 @@ script 57 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's do it,Chaud!
-	Let's save ProtoMan!
+	Vamos lá,Chaud!
+	Vamos salvar o
+	ProtoMan!
 	"""
 	keyWait
 		any = false

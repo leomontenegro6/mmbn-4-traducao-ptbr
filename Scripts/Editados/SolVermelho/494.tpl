@@ -45,8 +45,9 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Não é hora da gente
-	ficar com medinho!
+	Mas não é hora da
+	gente ficar com
+	medo!
 	"""
 	keyWait
 		any = false
@@ -110,7 +111,7 @@ script 4 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Vamos  continuar!!"
+	"Vamos continuar!!"
 	keyWait
 		any = false
 	end

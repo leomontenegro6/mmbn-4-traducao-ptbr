@@ -8,8 +8,8 @@ script 0 mmbn4 {
 		palette = 1
 	controlLock
 	"""
-	Back to the previous
-	chapter.
+	Voltando ao
+	capítulo anterior.
 	"""
 	wait
 		frames = 120

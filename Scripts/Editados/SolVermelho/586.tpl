@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"W-well?!"
+	"E-e aí?!"
 	keyWait
 		any = false
 	clearMsg
@@ -16,18 +16,18 @@ script 1 mmbn4 {
 	soundDisableTextSFX
 	soundPlay
 		track = 214
-	"Beep beep beep⋯"
+	"Bip Bip Bip..."
 	wait
 		frames = 10
 	soundPlay
 		track = 215
-	"Ping!!"
+	"Pim!!"
 	wait
 		frames = 60
 	"\n"
 	soundPlay
 		track = 216
-	"Ka-chink!"
+	"Turu-ri!"
 	wait
 		frames = 7
 	soundEnableTextSFX
@@ -40,7 +40,7 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = OldMan
-	"I removed it!"
+	"Removi!"
 	keyWait
 		any = false
 	clearMsg
@@ -50,13 +50,13 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"We did it!"
+	"Aê!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now we can restore
-	the folder!!
+	Agora a gente pode
+	restaurar a pasta!!
 	"""
 	keyWait
 		any = false
@@ -68,9 +68,9 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = OldMan
 	"""
-	⋯Young man,
-	will you be battling
-	SparkMan today?
+	... Meu jovem,seu
+	oponente hoje será
+	o SparkMan?
 	"""
 	keyWait
 		any = false
@@ -81,7 +81,7 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"How did you know?!"
+	"Como o senhor\nsabia?!"
 	keyWait
 		any = false
 	clearMsg
@@ -91,13 +91,14 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = OldMan
-	"⋯Just an inkling."
+	"... Intuição."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do me a favor⋯
-	Beat his socks off!
+	Só me faça um
+	favor... e dê uma
+	bela surra nele!
 	"""
 	keyWait
 		any = false
@@ -108,7 +109,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"⋯Huh?"
+	"... Hã?"
 	keyWait
 		any = false
 	clearMsg
@@ -119,9 +120,9 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan,
-	we should get back
-	to the arena soon!
+	Lan,melhor a gente
+	voltar logo pra
+	arena!
 	"""
 	keyWait
 		any = false
@@ -137,31 +138,31 @@ script 9 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Oh,I almost forgot⋯
-	I was able to free
-	the locked folder,
+	Ah,lembrando: eu
+	liberei a pasta
+	bloqueada,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but the one equipped
-	now is "
+	mas a que você tem
+	equipada agora é a
+	"
 	"""
 	printFolderName
 		buffer = 0
 		entry = 2
 	"""
-	",
-	so you'll have to
+	",então,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	reequip the original
-	one before your
-	match.
+	você precisa re-
+	equipar a sua origi-
+	nal antes da luta.
 	"""
 	keyWait
 		any = false
@@ -173,8 +174,8 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Gotcha!
-	Thanks,mister!
+	Beleza!
+	Valeu,moço!
 	"""
 	keyWait
 		any = false

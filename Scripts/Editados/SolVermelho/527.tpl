@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What's this?
-	Whoever put this up
-	has no taste.
+	O que é isso? Quem
+	botou isso aí tem
+	muito mau gosto.
 	"""
 	keyWait
 		any = false
@@ -17,7 +17,7 @@ script 0 mmbn4 {
 }
 script 1 mmbn4 {
 	mugshotHide
-	"No taste? How rude!"
+	"Mau gosto!\nQue grosseria!"
 	keyWait
 		any = false
 	clearMsg
@@ -36,7 +36,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"It sp-sp-spoke!"
+	"E-e-ele falou!"
 	keyWait
 		any = false
 	clearMsg
@@ -49,8 +49,8 @@ script 4 mmbn4 {
 		jumpIfBlueMoon = 22
 	mugshotHide
 	"""
-	Are you a Red Sun
-	contestant?
+	Você é um competidor
+	do Sol Vermelho?
 	"""
 	keyWait
 		any = false
@@ -61,7 +61,7 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Well y-yes⋯"
+	"B-bem,sou..."
 	keyWait
 		any = false
 	clearMsg
@@ -71,8 +71,9 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotHide
 	"""
-	Are you sure you're
-	telling the truth?
+	Está certo de que
+	está dizendo a
+	verdade?
 	"""
 	keyWait
 		any = false
@@ -83,7 +84,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Y-yes⋯"
+	"E-estou..."
 	keyWait
 		any = false
 	clearMsg
@@ -93,16 +94,17 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotHide
 	"""
-	Well then,put your
-	hand into my mouth⋯
+	Pois bem,então.
+	Insira sua mão na
+	minha boca...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you're not being
-	truthful,I'll bite
-	it off.
+	Se estiver mentindo,
+	eu a arrancarei
+	fora.
 	"""
 	keyWait
 		any = false
@@ -114,9 +116,9 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Bite it off⋯? No way
-	am I putting my hand
-	in there!
+	Arrancar...? Nunca
+	que eu vou botar a
+	minha mão aí!
 	"""
 	keyWait
 		any = false
@@ -127,15 +129,16 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotHide
 	"""
-	Well then you must
-	not be a contestant.
+	Bem,então você
+	não deve ser um
+	competidor.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You should leave
-	right away.
+	É melhor ir logo
+	embora.
 	"""
 	keyWait
 		any = false
@@ -147,16 +150,15 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan,you're gonna
-	have to put your
-	hand in.
+	Lan,você vai ter
+	que botar a mão lá.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Otherwise,no
-	tournament for us⋯
+	Senão,não tem
+	torneio pra gente...
 	"""
 	keyWait
 		any = false
@@ -167,9 +169,9 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	mugshotHide
 	"""
-	Listen to that Navi.
-	So,are you going to
-	leave or compete?
+	Escute o seu Navi.
+	E então,vai embora
+	ou vai competir?
 	"""
 	keyWait
 		any = false
@@ -181,9 +183,9 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	⋯⋯Aaaah! I'll do it.
-	I'll put my hand in!
-	I'm not lying!
+	... Aaaah! Tá bom.
+	Eu boto a minha mão!
+	Não tô mentindo!
 	"""
 	keyWait
 		any = false
@@ -203,15 +205,15 @@ script 14 mmbn4 {
 script 15 mmbn4 {
 	mugshotHide
 	"""
-	What's wrong⋯
-	Getting cold feet?
+	O que foi...?
+	Está se acovardando?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Or have you
-	something to hide?
+	Ou tem alguma coisa
+	a esconder?
 	"""
 	keyWait
 		any = false
@@ -231,7 +233,7 @@ script 16 mmbn4 {
 	"."
 	waitSkip
 		frames = 30
-	"\nAaah! Here I go!"
+	"\nAaah! Lá vai!"
 	keyWait
 		any = false
 	end
@@ -239,23 +241,24 @@ script 16 mmbn4 {
 script 17 mmbn4 {
 	msgOpen
 	"""
-	Fingerprint: OK⋯
-	DNA: OK⋯
+	Digitais: Confere.
+	DNA: Confere.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Confirmed as Lan
-	of Electopia⋯
+	Confirmado:
+	Lan Hikari,
+	de Ni-Hon...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now,Lan,stand in
-	front of the
-	tournament board.
+	Agora,Lan,fique
+	em frente ao quadro
+	do torneio.
 	"""
 	keyWait
 		any = false
@@ -265,7 +268,7 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yes⋯we're clear!"
+	"Certo... A gente\npassou!"
 	keyWait
 		any = false
 	end
@@ -273,9 +276,8 @@ script 18 mmbn4 {
 script 19 mmbn4 {
 	msgOpen
 	"""
-	I said go to the
-	tournament board.
-	Do it quickly!
+	Mandei ir ao quadro
+	do torneio. Vá logo!
 	"""
 	keyWait
 		any = false
@@ -287,8 +289,8 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Ah,the pairings for
-	the tournament!
+	Ah,as lutas do
+	torneio!
 	"""
 	keyWait
 		any = false
@@ -297,9 +299,9 @@ script 20 mmbn4 {
 script 21 mmbn4 {
 	msgOpen
 	"""
-	I can now announce
-	the pairings. Study
-	them carefully!
+	Agora anunciarei as
+	duplas. Observe-as
+	com atenção!
 	"""
 	keyWait
 		any = false
@@ -308,8 +310,8 @@ script 21 mmbn4 {
 script 22 mmbn4 {
 	mugshotHide
 	"""
-	Are you a Blue Moon
-	contestant?
+	Você é um competidor
+	do Lua Azul?
 	"""
 	keyWait
 		any = false

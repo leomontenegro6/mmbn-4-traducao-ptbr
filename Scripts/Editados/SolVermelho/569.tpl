@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,I deleted the
-	viruses. How's it
-	look back there?
+	Pronto,Lan,vírus
+	deletados. Como tão
+	as coisas aí?
 	"""
 	keyWait
 		any = false
@@ -18,14 +18,14 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Hold on⋯"
+	"Pera aí..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hm? It doesn't work.
-	That's weird. This
-	goes likes that,so⋯
+	Hm? Ainda não liga.
+	Que estranho. Era
+	pra ser assim,e...
 	"""
 	keyWait
 		any = false
@@ -37,8 +37,9 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = HotDogLady
 	"""
-	Must be completely
-	broken this time.
+	Acho que quebrou
+	por completo desta
+	vez.
 	"""
 	keyWait
 		any = false
@@ -50,8 +51,8 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	So that viruses
-	wasn't the problem?
+	Então,os vírus não
+	eram o problema?
 	"""
 	keyWait
 		any = false
@@ -63,16 +64,16 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	All I know is Match
-	seems to be the only
-	one who can fix it.
+	Só sei que só o
+	Match pode conser-
+	tar,ao que parece.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Miss,I'll go find
-	Match for you.
+	Moça,eu vou achar
+	o Match pra você.
 	"""
 	keyWait
 		any = false
@@ -84,9 +85,9 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = HotDogLady
 	"""
-	Thanks! Once it's
-	fixed,I'll give you
-	one on the house!
+	Obrigada! Depois que
+	consertar,faço um de
+	graça pra você!
 	"""
 	keyWait
 		any = false
@@ -98,8 +99,8 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Great!
-	Let's go find
+	Legal!
+	Vamos lá achar o
 	Match!
 	"""
 	keyWait
@@ -111,7 +112,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Roger!"
+	"Certo!"
 	keyWait
 		any = false
 	end

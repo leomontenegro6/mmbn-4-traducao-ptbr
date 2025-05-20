@@ -563,8 +563,8 @@ script 131 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Quem detém poder não
-	pode ser tão
+	Quem detém poder
+	não pode ser tão
 	relaxado assim...
 	"""
 	keyWait
@@ -625,14 +625,15 @@ script 133 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Acho que é melhor
-	assim,mesmo...
+	Mas acho que é
+	melhor assim,
+	mesmo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Não consigo conter
+	Não conseguia conter
 	este desejo de agir
 	com selvageria...
 	"""

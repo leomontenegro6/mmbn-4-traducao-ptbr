@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yes! We've found 4
-	pieces of "KeyData".
-	Now,carefully⋯
+	Boa! Achamos as 4
+	partes dos Dados-
+	Chave. Agora...
 	"""
 	keyWait
 		any = false
@@ -19,8 +19,8 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Let's get out of
-	here,Lan!
+	Vamos dar o fora
+	daqui,Lan!
 	"""
 	keyWait
 		any = false
@@ -31,9 +31,9 @@ script 2 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	⋯OK,it sounds like
-	there's no-one
-	outside.
+	... Tá,parece que
+	não tem ninguém lá
+	fora.
 	"""
 	keyWait
 		any = false
@@ -42,8 +42,8 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	msgOpen
 	"""
-	Lan used:
-	"KeyData"!
+	Lan usou:
+	"Dados-Chave"!
 	"""
 	keyWait
 		any = false
@@ -54,12 +54,12 @@ script 3 mmbn4 {
 	soundDisableTextSFX
 	soundPlay
 		track = 387
-	"Beep!"
+	"Bip!"
 	wait
 		frames = 30
 	soundPlay
 		track = 216
-	" Clank!"
+	" Tch-clan!"
 	wait
 		frames = 7
 	keyWait
@@ -72,11 +72,11 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"OK,it's open⋯"
+	"Beleza,abriu..."
 	keyWait
 		any = false
 	clearMsg
-	"Let's go for it⋯"
+	"Vamos nessa..."
 	keyWait
 		any = false
 	clearMsg
@@ -86,7 +86,7 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = BlondMan
-	"Dat's far enough⋯"
+	"Daí você não\npassa..."
 	keyWait
 		any = false
 	clearMsg
@@ -108,15 +108,15 @@ script 7 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It's that criminal
-	who kidnapped me!!
+	É o bandido que me
+	sequestrou!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	W-What are you going
-	to do to me!
+	O-o que você vai
+	fazer comigo?!
 	"""
 	keyWait
 		any = false
@@ -128,23 +128,23 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = BlondMan
 	"""
-	Enough a dat
-	chatterin',kid!
+	Chega de lero-lero,
+	moleque!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Listen,I'm kinda
-	sorry for hittin'
-	yous.
+	Olha,desculpa te
+	bater.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I had a reason for
-	kidnapping yah.
+	Mas eu tinha um
+	motivo pra te
+	sequestrar.
 	"""
 	keyWait
 		any = false
@@ -155,8 +155,8 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotHide
 	"""
-	Leave the rest of
-	the talking to me.
+	Pode deixar que eu
+	explico o resto.
 	"""
 	keyWait
 		any = false
@@ -167,8 +167,9 @@ script 10 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Mr.Bonds!!
-	W-What's going on?
+	Sr. Bonds!!
+	O-o que tá
+	acontecendo?
 	"""
 	keyWait
 		any = false
@@ -180,16 +181,16 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = BlackMan
 	"""
-	I set all of this
-	up,Lan.
+	Fui eu quem armou
+	isto tudo,Lan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It was a test to see
-	if you really are a
-	first-class battler.
+	Era um teste pra ver
+	se você era mesmo um
+	Lutador de primeira.
 	"""
 	keyWait
 		any = false
@@ -200,7 +201,7 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"A test?"
+	"Um teste?"
 	keyWait
 		any = false
 	clearMsg
@@ -214,16 +215,16 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = BlackMan
 	"""
-	As expected,you
-	passed the test.
+	Como esperado,
+	você passou.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You qualify to take
-	part in the Red
-	Sun Tournament.
+	Está qualificado pra
+	participar do Tor-
+	neio Sol Vermelho.
 	"""
 	keyWait
 		any = false
@@ -235,8 +236,9 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Qualify to⋯So this
-	was like a prelim?
+	Qualificado pro...
+	Então isto aqui foi
+	tipo,preliminares?
 	"""
 	keyWait
 		any = false
@@ -248,30 +250,29 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = BlackMan
 	"""
-	Simply put,yes,I
-	suppose so.
+	Em termos simples...
+	É,acho que foi.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Tournament starts
-	tomorrow in the
-	Colosseum.
+	O torneio começa
+	amanhã,no Coliseu.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You should rest here
-	until then.
+	É melhor você
+	descansar até lá.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We won't disturb you
-	anymore.
+	Não vamos mais te
+	perturbar.
 	"""
 	keyWait
 		any = false
@@ -281,7 +282,7 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = BlondMan
 	msgOpen
-	"Good luck to yah."
+	"Boa sorte aí."
 	keyWait
 		any = false
 	end
@@ -291,16 +292,16 @@ script 17 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Woo⋯I thought that
-	we were done for
-	just then.
+	Ufa... Eu achei que
+	a gente ia morrer.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And all the time it
-	was just a prelim!
+	E eram só as
+	preliminares
+	desde o começo!
 	"""
 	keyWait
 		any = false
@@ -315,23 +316,24 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It WAS a bit over
-	the top,though⋯
+	Realmente
+	exageraram,viu...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yes,but if our
-	skills had let us
-	down back then,
+	Mas acho que se a
+	gente não tivesse
+	mostrado habilidade,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	we probably wouldn't
-	survive in Red Sun.
+	provavelmente não
+	iríamos muito longe
+	no Sol Vermelho.
 	"""
 	keyWait
 		any = false
@@ -343,16 +345,16 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Battlers from all
-	over the world,
-	right⋯
+	Lutadores de todo
+	o mundo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,let's really
-	go for it tomorrow!
+	MegaMan,amanhã a
+	gente vai botar
+	pra quebrar!
 	"""
 	keyWait
 		any = false
@@ -363,14 +365,14 @@ script 19 mmbn4 {
 script 20 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Of course we will!"
+	"Claro,né?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But first,Lan,get
-	some sleep before
-	the tournament.
+	Mas primeiro,Lan,
+	melhor dormir um
+	pouco até o torneio.
 	"""
 	keyWait
 		any = false
@@ -381,13 +383,14 @@ script 20 mmbn4 {
 script 21 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Yawwwn⋯"
+	"Uaaahh..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're right. Today
-	has tired me out⋯
+	Tem razão. Eu tô
+	exausto depois de
+	hoje...
 	"""
 	keyWait
 		any = false
@@ -397,16 +400,16 @@ script 22 mmbn4 {
 	mugshotShow
 		mugshot = BlackMan
 	"""
-	As expected,you
-	passed the test.
+	Como esperado,
+	você passou.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You qualify to take
-	part in the Blue
-	Moon Tournament.
+	Está qualificado pra
+	participar do
+	Torneio Lua Azul.
 	"""
 	keyWait
 		any = false
@@ -418,23 +421,24 @@ script 23 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It WAS a bit over
-	the top,though⋯
+	Realmente
+	exageraram,viu...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yes,but if our
-	skills had let us
-	down back then,
+	Mas acho que se a
+	gente não tivesse
+	mostrado habilidade,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	we wouldn't survive
-	in Blue Moon.
+	provavelmente não
+	iríamos muito longe
+	no Lua Azul.
 	"""
 	keyWait
 		any = false

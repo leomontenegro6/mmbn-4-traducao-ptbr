@@ -1,51 +1,51 @@
 @size 48
 
 script 0 mmbn4s {
-	" UnderRes Post away    "
+	" ResUnder Postem aí    "
 	end
 }
 script 1 mmbn4s {
-	" NO NAME  Elmperor     "
+	" SEM NOME Elmperor     "
 	end
 }
 script 2 mmbn4s {
-	" NO NAME  Somebody⋯!   "
+	" SEM NOME Alguém...!   "
 	end
 }
 script 3 mmbn4s {
-	" NO NAME  RE:Somebo⋯   "
+	" SEM NOME RE:Alguém...!"
 	end
 }
 script 4 mmbn4s {
-	" NO NAME  RE:Somebo⋯   "
+	" SEM NOME RE:Alguém...!"
 	end
 }
 script 5 mmbn4s {
-	" ExNebula ShadeMan    "
+	" ExNebula ShadeMan     "
 	end
 }
 script 6 mmbn4s {
-	" NO NAME  Useles chip⋯ "
+	" SEM NOME Chip inútil  "
 	end
 }
 script 7 mmbn4s {
-	" NO NAME  RE:Useles    "
+	" SEM NOME RE:Chip inúti"
 	end
 }
 script 8 mmbn4s {
-	" NO NAME  BigDarkH⋯    "
+	" SEM NOME Buraco Negro "
 	end
 }
 script 9 mmbn4s {
-	" NO NAME  Django?!     "
+	" SEM NOME Django?!     "
 	end
 }
 script 10 mmbn4s {
-	" NO NAME  RE:Django?   "
+	" SEM NOME RE:Django?   "
 	end
 }
 script 11 mmbn4s {
-	" NO NAME  RE:Django?   "
+	" SEM NOME RE:Django?   "
 	end
 }
 script 12 mmbn4s {

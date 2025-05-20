@@ -11,36 +11,36 @@ script 0 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	OH,HI THERE MEGAMAN!
-	WOULD YOU LIKE TO
+	AH,OI,MEGAMAN!
+	GOSTARIA DE UNIR
+	A PÁGINA DO LAN
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	JOIN LAN'S HP TO
-	THIS HP WITH A
-	SYNTHETIC LINK? A
+	A ESTA COM ESTE
+	LINK SINTÉTICO?
+	UM LINK SINTÉTICO
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SYNTHETIC LINK FUSES
-	HP'S TOGETHER 
-	ALLOWING DIRECT
+	FUNDE DUAS PÁGINAS,
+	PERMITINDO PASSAGEM
+	DIRETA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PASSAGE.
-	SHALL I INSTALL A
+	QUE QUE EU INSTALE
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"SYNTHETIC LINK?"
+	"UM LINK SINTÉTICO?"
 	keyWait
 		any = false
 	clearMsg
@@ -79,7 +79,7 @@ script 0 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
-	"OH,OK⋯"
+	"AH,TÁ..."
 	keyWait
 		any = false
 	end
@@ -89,8 +89,9 @@ script 1 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	VERY WELL. HERE IS
-	THIS HP'S BANNER!
+	POIS BEM. AQUI ESTÁ
+	O BANNER DESTA
+	PÁGINA!
 	"""
 	keyWait
 		any = false
@@ -117,9 +118,8 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	VERY WELL. I SHALL
-	CONSTRUCT THE LINK
-	IMMEDIATELY!
+	CERTO. INSTALAREI O
+	LINK IMEDIATAMENTE!
 	"""
 	keyWait
 		any = false
@@ -139,8 +139,8 @@ script 2 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	USE THE BANNER TO
-	COME VISIT AGAIN!
+	USE O BANNER PARA
+	NOS VISITAR DE NOVO!
 	"""
 	keyWait
 		any = false
@@ -174,15 +174,16 @@ script 10 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	YOU'RE ENTERING THE
-	RED SUN TOURNAMENT,
+	VOCÊ VAI LUTAR NO
+	TORNEIO SOL
+	VERMELHO,NÃO É?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	RIGHT? MAYL WROTE IT
-	IN HER DIARY!
+	A MAYL ESCREVEU NO
+	DIÁRIO DELA!
 	"""
 	keyWait
 		any = false
@@ -196,16 +197,16 @@ script 11 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	ARE YOU DOING WELL
-	IN THE RED SUN
+	VOCÊ ESTÁ INDO BEM
+	NO TORNEIO SOL
+	VERMELHO?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TOURNAMENT? WHAT IS
-	THE RED SUN
-	TOURNAMENT,ANYWAY?
+	O QUE É ESSE TORNEIO
+	SOL VERMELHO,AFINAL?
 	"""
 	keyWait
 		any = false
@@ -216,30 +217,30 @@ script 12 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	YOU LOOK WORRIED,
-	MEGAMAN. PLEASE
+	PARECE PREOCUPADO,
+	MEGAMAN.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"CHEER UP! HERE,TRY"
+	"POR FAVOR,ANIME-SE!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TO IMITATE MY FACIAL
-	EXPRESSION.
+	VENHA,TENTE IMITAR
+	A MINHA EXPRESSÃO
+	FACIAL.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯WHEE!"
+	"... IÊÊÊÊ!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	DO YOU FEEL BETTER
-	ALREADY?
+	JÁ SE SENTE MELHOR?
 	"""
 	keyWait
 		any = false
@@ -250,15 +251,16 @@ script 15 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	YOU'RE ENTERING THE
-	BLUE MOON TOURNAMENT
+	VOCÊ VAI LUTAR NO
+	TORNEIO LUA AZUL,
+	NÃO É?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	RIGHT? MAYL WROTE IT
-	IN HER DIARY!
+	A MAYL ESCREVEU NO
+	DIÁRIO DELA!
 	"""
 	keyWait
 		any = false
@@ -269,16 +271,15 @@ script 16 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	ARE YOU DOING WELL
-	IN THE BLUE MOON
+	VOCÊ ESTÁ INDO BEM
+	NO TORNEIO LUA AZUL?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TOURNAMENT? WHAT IS
-	THE BLUE MOON
-	TOURNAMENT,ANYWAY?
+	O QUE É ESSE TORNEIO
+	LUA AZUL,AFINAL?
 	"""
 	keyWait
 		any = false

@@ -13,28 +13,28 @@ script 1 mmbn4 {
 		jumpIfBlueMoon = 10
 	msgOpen
 	"""
-	I am a mirror of
-	the heart⋯
+	Sou um espelho do
+	coração...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To pass beyond here,
-	dispel the darkness
-	in your heart⋯
+	Para passar,dissipe
+	as trevas no seu
+	coração...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I see all⋯"
+	"Eu tudo vejo..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A powerful soul full
-	of pain,trapped
-	in a dark heart⋯
+	Uma forte alma cheia
+	de dor,presa em um
+	coração sombrio...
 	"""
 	keyWait
 		any = false
@@ -48,28 +48,28 @@ script 2 mmbn4 {
 		jumpIfBlueMoon = 11
 	msgOpen
 	"""
-	I am a mirror of
-	the heart⋯
+	Sou um espelho do
+	coração...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To pass beyond here,
-	dispel the darkness
-	in your heart⋯
+	Para passar,dissipe
+	as trevas no seu
+	coração...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I see all⋯"
+	"Eu tudo vejo..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A fiery soul burning
-	all,but trapped
-	in a dark heart⋯
+	Uma alma flamejante,
+	mas presa em um
+	coração sombrio...
 	"""
 	keyWait
 		any = false
@@ -84,28 +84,28 @@ script 3 mmbn4 {
 		jumpIfBlueMoon = 12
 	msgOpen
 	"""
-	I am a mirror of
-	the heart⋯
+	Sou um espelho do
+	coração...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To pass beyond here,
-	dispel the darkness
-	in your heart⋯
+	Para passar,dissipe
+	as trevas no seu
+	coração...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I see all⋯"
+	"Eu tudo vejo..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A healing soul,kind
-	to all,trapped
-	in a dark heart⋯
+	Uma gentil alma da
+	cura,presa em um
+	coração sombrio...
 	"""
 	keyWait
 		any = false
@@ -120,28 +120,28 @@ script 4 mmbn4 {
 		jumpIfBlueMoon = 13
 	msgOpen
 	"""
-	I am a mirror of
-	the heart⋯
+	Sou um espelho do
+	coração...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To pass beyond here,
-	dispel the darkness
-	in your heart⋯
+	Para passar,dissipe
+	as trevas no seu
+	coração...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I see all⋯"
+	"Eu tudo vejo..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A raging whirlwind
-	of a soul,trapped
-	in a dark heart⋯
+	Uma alma como um
+	vendaval,presa em um
+	coração sombrio...
 	"""
 	keyWait
 		any = false
@@ -155,28 +155,28 @@ script 5 mmbn4 {
 		jumpIfBlueMoon = 14
 	msgOpen
 	"""
-	I am a mirror of
-	the heart⋯
+	Sou um espelho do
+	coração...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To pass beyond here,
-	dispel the darkness
-	in your heart⋯
+	Para passar,dissipe
+	as trevas no seu
+	coração...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I see all⋯"
+	"Eu tudo vejo..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A thunderous,stormy
-	soul,trapped
-	in a dark heart⋯
+	Uma alma tempestuo-
+	sa,presa em um
+	coração sombrio...
 	"""
 	keyWait
 		any = false
@@ -191,28 +191,28 @@ script 6 mmbn4 {
 		jumpIfBlueMoon = 15
 	msgOpen
 	"""
-	I am a mirror of
-	the heart⋯
+	Sou um espelho do
+	coração...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To pass beyond here,
-	dispel the darkness
-	in your heart⋯
+	Para passar,dissipe
+	as trevas no seu
+	coração...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I see all⋯"
+	"Eu tudo vejo..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A cool,calm soul
-	of a sniper,trapped
-	in a dark heart⋯
+	A alma fria de um
+	atirador,presa em um
+	coração sombrio...
 	"""
 	keyWait
 		any = false
@@ -231,9 +231,9 @@ script 7 mmbn4 {
 		jumpIfFalse = 9
 	msgOpen
 	"""
-	The mirror has lost
-	its shine. It
-	reflects nothing⋯
+	O espelho perdeu seu
+	lustre. Não reflete
+	mais nada...
 	"""
 	keyWait
 		any = false
@@ -247,8 +247,8 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	msgOpen
 	"""
-	Will you confront
-	the darkness?
+	Irá confrontar a
+	escuridão?
 	"""
 	keyWait
 		any = false
@@ -263,7 +263,7 @@ script 9 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Yes  "
+	"Sim  "
 	option
 		brackets = false
 		left = 0
@@ -272,7 +272,7 @@ script 9 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"No"
+	"Não"
 	select
 		default = 0
 		noDelay = false
@@ -286,15 +286,15 @@ script 9 mmbn4 {
 		]
 	clearMsg
 	"""
-	Very well! Let the
-	reflection show⋯
+	Pois bem! Que o
+	reflexo mostre...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯your heart's
-	darkness!
+	as trevas do seu
+	coração!
 	"""
 	keyWait
 		any = false
@@ -305,28 +305,28 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	msgOpen
 	"""
-	I am a mirror of
-	the heart⋯
+	Sou um espelho do
+	coração...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To pass beyond here,
-	dispel the darkness
-	in your heart⋯
+	Para passar,dissipe
+	as trevas no seu
+	coração...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I see all⋯"
+	"Eu tudo vejo..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A wise soul,clear
-	of mind,trapped
-	in a dark heart⋯
+	Uma alma sábia e
+	tranquila,presa em
+	um coração sombrio.
 	"""
 	keyWait
 		any = false
@@ -337,28 +337,28 @@ script 10 mmbn4 {
 script 11 mmbn4 {
 	msgOpen
 	"""
-	I am a mirror of
-	the heart⋯
+	Sou um espelho do
+	coração...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To pass beyond here,
-	dispel the darkness
-	in your heart⋯
+	Para passar,dissipe
+	as trevas no seu
+	coração...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I see all⋯"
+	"Eu tudo vejo..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A water soul washing
-	all away,trapped
-	in a dark heart⋯
+	Uma alma de água que
+	tudo leva,presa em
+	um coração sombrio.
 	"""
 	keyWait
 		any = false
@@ -369,28 +369,28 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	msgOpen
 	"""
-	I am a mirror of
-	the heart⋯
+	Sou um espelho do
+	coração...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To pass beyond here,
-	dispel the darkness
-	in your heart⋯
+	Para passar,dissipe
+	as trevas no seu
+	coração...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I see all⋯"
+	"Eu tudo vejo..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A tree soul with its
-	great roots,trapped
-	in a dark heart⋯
+	Uma alma mãe arbó-
+	rea,presa em um
+	coração sombrio...
 	"""
 	keyWait
 		any = false
@@ -401,28 +401,28 @@ script 12 mmbn4 {
 script 13 mmbn4 {
 	msgOpen
 	"""
-	I am a mirror of
-	the heart⋯
+	Sou um espelho do
+	coração...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To pass beyond here,
-	dispel the darkness
-	in your heart⋯
+	Para passar,dissipe
+	as trevas no seu
+	coração...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I see all⋯"
+	"Eu tudo vejo..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A steel soul,bowing
-	to nothing,trapped
-	in a dark heart⋯
+	Uma inabalável alma
+	de aço,presa em um
+	coração sombrio...
 	"""
 	keyWait
 		any = false
@@ -433,28 +433,28 @@ script 13 mmbn4 {
 script 14 mmbn4 {
 	msgOpen
 	"""
-	I am a mirror of
-	the heart⋯
+	Sou um espelho do
+	coração...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To pass beyond here,
-	dispel the darkness
-	in your heart⋯
+	Para passar,dissipe
+	as trevas no seu
+	coração...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I see all⋯"
+	"Eu tudo vejo..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A lonely soul,
-	trapped in a
-	dark heart⋯
+	Uma alma solitária,
+	presa em um coração
+	sombrio...
 	"""
 	keyWait
 		any = false
@@ -465,28 +465,28 @@ script 14 mmbn4 {
 script 15 mmbn4 {
 	msgOpen
 	"""
-	I am a mirror of
-	the heart⋯
+	Sou um espelho do
+	coração...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To pass beyond here,
-	dispel the darkness
-	in your heart⋯
+	Para passar,dissipe
+	as trevas no seu
+	coração...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I see all⋯"
+	"Eu tudo vejo..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A cold,bladed soul
-	slicing all to
-	pieces⋯
+	Uma fria alma de
+	lâmina,que tudo
+	dilacera...
 	"""
 	keyWait
 		any = false
@@ -497,16 +497,17 @@ script 15 mmbn4 {
 script 16 mmbn4 {
 	msgOpen
 	"""
-	Very well⋯
-	Close your eyes to
-	the darkness⋯
+	Tudo bem...
+	Feche seus olhos
+	para a escuridão...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That too is one way
-	to live.
+	Essa também é uma
+	forma válida de
+	viver.
 	"""
 	keyWait
 		any = false

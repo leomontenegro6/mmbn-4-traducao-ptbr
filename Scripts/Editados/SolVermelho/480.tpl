@@ -21,7 +21,7 @@ script 1 mmbn4 {
 	"""
 	É,e não tem nenhum
 	outro acesso pra
-	Área Parque...
+	lá...
 	"""
 	keyWait
 		any = false

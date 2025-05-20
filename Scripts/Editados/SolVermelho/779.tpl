@@ -4,21 +4,21 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"Shut up and fight!"
+	"Cala a boca e luta!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll show ya what
-	happens to fools
-	who mess with me⋯
+	Vou te mostrar o que
+	acontece com otários
+	que se metem comigo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	VirusMob!!
-	Take that!!
+	Vírus!!
+	Ataquem!!
 	"""
 	keyWait
 		any = false
@@ -28,7 +28,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Watch out,MegaMan!"
+	"Atenção,MegaMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -45,7 +45,7 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	clearMsg
@@ -56,8 +56,8 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	"""
-	Hey,you viruses!
-	Go eat him alive!
+	Vão lá,vírus!
+	Devorem ele todinho!
 	"""
 	keyWait
 		any = false

@@ -5,8 +5,8 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,that's the
-	entrance!
+	Lan,essa aí é a
+	entrada!
 	"""
 	keyWait
 		any = false
@@ -15,9 +15,9 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	msgOpen
 	"""
-	With bared fangs,
-	and glowing eyes,it
-	looks ready to jump!
+	Presas e olhos
+	medonhos. Parece
+	até que vai atacar!
 	"""
 	keyWait
 		any = false
@@ -28,16 +28,16 @@ script 2 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Lan⋯How about you
-	go in first⋯?
+	Lan... Que tal você
+	ir na frente...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Make sure everything
-	is safe⋯I'll be
-	right behind you⋯
+	Confirma que tá
+	tudo bem... Aí eu
+	vou depois...
 	"""
 	keyWait
 		any = false
@@ -52,46 +52,48 @@ script 20 mmbn4 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	This is so scary!
-	Why did I come
-	here alone⋯?!
+	Que medo! Por que
+	eu resolvi vir
+	aqui sozinho...?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A ride like this
-	is better alone⋯
+	Atrações assim são
+	melhor com
+	companhia...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯Hey,get away from
-	me!
+	... Ah! Sai de perto
+	de mim!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm trying to enjoy
-	this all alone,OK?
+	Eu tô tentando
+	desfrutar daqui
+	sozinho,falou?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're the third
-	person who's
-	bothered me today!
+	Cê é a terceira
+	pessoa que vem me
+	atazanar hoje!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If I give you this,
-	will you leave me
-	alone⋯?
+	Se eu te der isto
+	aqui,cê me deixa
+	em paz...?
 	"""
 	keyWait
 		any = false
@@ -117,16 +119,16 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = CapBoy
 	"""
-	Now I've lost the
-	thrill of the ride⋯
+	Agora eu perdi o
+	clima da atração...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hurry up and get out
-	of here! Let me get
-	the thrill back!
+	Sai logo daqui!
+	Eu vou reconstruir o
+	clima!
 	"""
 	keyWait
 		any = false
@@ -138,7 +140,7 @@ script 21 mmbn4 {
 	mugshotShow
 		mugshot = CapBoy
 	msgOpen
-	"Just leave me alone!"
+	"Me deixa em paz!"
 	keyWait
 		any = false
 	end

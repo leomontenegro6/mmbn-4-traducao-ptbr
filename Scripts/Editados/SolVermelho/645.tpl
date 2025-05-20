@@ -16,9 +16,9 @@ script 1 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Hey,it's MegaMan!
-	What're you doin'
-	here?!
+	Ah,é o MegaMan!
+	Tá fazendo o quê
+	aqui?!
 	"""
 	keyWait
 		any = false
@@ -31,16 +31,16 @@ script 2 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	What do you think?
-	Rescuing you!
+	Que que cê acha?
+	Te salvando!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We gotta hurry,or
-	they're gonna delete
-	you!
+	A gente tem que
+	correr,ou eles vão
+	te deletar!
 	"""
 	keyWait
 		any = false
@@ -53,9 +53,9 @@ script 3 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Delete?
-	Why would they
-	delete me?
+	Deletar?
+	Por que eles iam me
+	deletar?
 	"""
 	keyWait
 		any = false
@@ -66,41 +66,40 @@ script 4 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Ah I know,they'll
-	delete me,turn Riki
-	into a coward,rub
+	Ah,tendi. Eles que-
+	rem me deletar,fazer
+	o Riki virar um
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	out the boss,and
-	take over the
-	organization,right?
+	covardão,apagar a
+	chefe e assumir a
+	organização,é?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You get the picture,
-	so let's hurry up
-	and get outta here!
+	Peguei a geral.
+	Beleza,hora de dar
+	o fora daqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Soon as we do
-	something about
-	this cage⋯
+	O único problema é
+	esta jaula...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey MegaMan,can you
-	use that Buster to
-	blast this apart?
+	Aí,MegaMan,pode usar
+	o seu Atirador pra
+	destroçar ela?
 	"""
 	keyWait
 		any = false
@@ -113,9 +112,9 @@ script 5 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Are you sure it's
-	okay? You won't get
-	hurt?
+	Certeza?
+	Você não vai se
+	machucar?
 	"""
 	keyWait
 		any = false
@@ -128,17 +127,17 @@ script 6 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	I'm tough! Punch me,
-	kick me,I don't
-	feel a thing!
+	Eu sou durão!
+	Aguento soco,
+	chute,o que for!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We just gotta bust
-	through here. Don't
-	worry,go for it!
+	E a gente não tem
+	tempo. Não esquenta,
+	só vai!
 	"""
 	keyWait
 		any = false
@@ -151,8 +150,8 @@ script 7 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	All right.
-	Here I go!
+	Tudo bem.
+	Lá vai!
 	"""
 	keyWait
 		any = false
@@ -162,7 +161,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	msgOpen
-	"Yeeeoooooouch!"
+	"Aaaaaaaairgh!"
 	wait
 		frames = 100
 	keyWait
@@ -177,7 +176,7 @@ script 9 mmbn4 {
 	soundDisableTextSFX
 	soundPlay
 		track = 304
-	"*crack!*"
+	"Trec!"
 	keyWait
 		any = false
 	storeTimer
@@ -190,7 +189,7 @@ script 10 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	soundEnableTextSFX
-	"That's it!"
+	"Foi!"
 	keyWait
 		any = false
 	clearMsg
@@ -202,8 +201,8 @@ script 11 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Awesome,we can
-	jack out now!
+	Show. Agora,a gente
+	pode desconectar!
 	"""
 	keyWait
 		any = false
@@ -216,9 +215,9 @@ script 12 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Hurry up and go to
-	Riki,so he can stop
-	worrying.
+	Volta logo pro Riki,
+	pra ele parar de se
+	preocupar.
 	"""
 	keyWait
 		any = false
@@ -229,9 +228,9 @@ script 13 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Hehe,thanks man!
-	MegaMan,you're one
-	upright dude!
+	He he,valeu,cara!
+	MegaMan,cê é gente
+	fina!
 	"""
 	keyWait
 		any = false
@@ -241,8 +240,9 @@ script 14 mmbn4 {
 	mugshotHide
 	msgOpen
 	"""
-	Over here! I heard
-	something!
+	Aqui!
+	Eu ouvi alguma
+	coisa!
 	"""
 	keyWait
 		any = false
@@ -254,7 +254,7 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Oh no!"
+	"Droga!"
 	keyWait
 		any = false
 	end
@@ -264,9 +264,9 @@ script 16 mmbn4 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	You!!!
-	He let Crusher get
-	away! Get him!
+	Você!!!
+	Ele soltou o
+	Crusher! Peguem ele!
 	"""
 	keyWait
 		any = false

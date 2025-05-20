@@ -25,37 +25,38 @@ script 0 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Not even I know
-	what's going to
+	Nem eu sei ao certo
+	o que vai acontecer
+	agora,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	happen next,but one
-	thing I know for
+	mas de uma coisa eu
+	sei:
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	sure is our planet's
-	fate rests on you.
-	This is a next-
+	o destino do nosso
+	planeta está nas
+	suas mãos,filho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	generation chip
-	developed by NAXA.
+	Este é um chip de
+	próxima geração
+	criado pela NAXA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe it will help
-	you.
+	Talvez te ajude.
 	"""
 	keyWait
 		any = false
@@ -87,7 +88,7 @@ script 0 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = Dad
-	"Good luck,Lan!!"
+	"Boa sorte,Lan!!"
 	keyWait
 		any = false
 	end
@@ -97,37 +98,38 @@ script 1 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Not even I know
-	what's going to
+	Nem eu sei ao certo
+	o que vai acontecer
+	agora,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	happen next,but one
-	thing I know for
+	mas de uma coisa eu
+	sei:
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	sure is our planet's
-	fate rests on you.
-	This is a next-
+	o destino do nosso
+	planeta está nas
+	suas mãos,filho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	generation chip
-	developed by NAXA.
+	Este é um chip de
+	próxima geração
+	criado pela NAXA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe it will help
-	you.
+	Talvez te ajude.
 	"""
 	keyWait
 		any = false
@@ -159,7 +161,7 @@ script 1 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = Dad
-	"Good luck,Lan!!"
+	"Boa sorte,Lan!!"
 	keyWait
 		any = false
 	end
@@ -178,7 +180,7 @@ script 2 mmbn4 {
 		mugshot = Regal
 	msgOpen
 	"""
-	Install this in your
+	Instale isto no seu
 	PET,Lan.
 	"""
 	keyWait
@@ -207,37 +209,38 @@ script 2 mmbn4 {
 		mugshot = Regal
 	msgOpen
 	"""
-	When installed,
-	we can keep track
+	Uma vez instalado,
+	poderemos rastrear
+	onde MegaMan está.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	of where MegaMan is.
-	If something were to
+	Se algo vier a
+	acontecer com ele...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	happen to MegaMan⋯
-	we will have to come
+	teremos que bolar um
+	novo plano para
+	parar o asteroide.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	up with another plan
-	to stop the aster-
-	oid. Of course we
+	Mas,claro... a
+	última coisa que
+	queremos é que algo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	hope nothing happens
-	to him though.
+	aconteça a ele.
 	"""
 	keyWait
 		any = false
@@ -250,16 +253,16 @@ script 3 mmbn4 {
 		mugshot = Regal
 	msgOpen
 	"""
-	Now then,hurry and
-	fix each Net's chan-
-	nels around the
+	Bom,rápido,conserte
+	os canais de Rede
+	ao redor do mundo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	world. We don't have
-	much time!
+	Não nos resta muito
+	tempo!
 	"""
 	keyWait
 		any = false
@@ -275,24 +278,25 @@ script 4 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I apologize for
-	placing the burden
-	of the world's fate
+	Desculpe por colocar
+	o destino do mundo
+	nas suas costas,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	on your shoulders,
-	but we don't have
-	any other options.
+	mas não temos outra
+	opção. É vergonhoso
+	admitir,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We adults are
-	powerless!
+	mas nós,adultos,
+	estamos completamen-
+	te incapazes!
 	"""
 	keyWait
 		any = false
@@ -307,7 +311,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
 	msgOpen
-	"You can do it,Lan!"
+	"Você consegue,Lan!"
 	keyWait
 		any = false
 	end
@@ -322,15 +326,17 @@ script 6 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	The asteroid is
-	increasing in speed!
+	A velocidade do
+	asteroide está
+	aumentando!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You've got to hurry
-	and restore the Net!
+	Você precisa
+	restaurar logo a
+	Rede!
 	"""
 	keyWait
 		any = false
@@ -346,16 +352,16 @@ script 7 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	As if we didn't have
-	enough problems with
+	Já não bastava o
+	asteroide,e agora a
+	Rede foi dividida?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the asteroid,now the
-	Net's divided up?
-	What's going on?!
+	Mas o que é que
+	está acontecendo?!
 	"""
 	keyWait
 		any = false
@@ -366,8 +372,8 @@ script 8 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	I'm counting on you,
-	Lan. Still
+	Conto com você,Lan.
+	Mas,ainda assim
 	"""
 	waitSkip
 		frames = 30
@@ -382,16 +388,16 @@ script 8 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	No,that's not fair.
-	You're as much of a
-	man as I am now.
+	Não,é injusto. Você
+	e eu somos homens
+	no mesmo patamar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Lan,MegaMan,
-	Go save the world!
+	salvem o mundo!
 	"""
 	keyWait
 		any = false
@@ -402,16 +408,17 @@ script 10 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Our preparations are
-	almost ready. Hurry
+	Nossos preparativos
+	estão quase
+	concluídos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and apprehend the
-	guy that divided up
-	the Net!
+	Capturem logo o
+	sujeito que separou
+	a Rede!
 	"""
 	keyWait
 		any = false
@@ -421,13 +428,13 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Regal
 	msgOpen
-	"What are you doing?"
+	"O que você está\nfazendo?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	we don't have any
-	time! Hurry!
+	Não temos muito
+	tempo! Apresse-se!
 	"""
 	keyWait
 		any = false
@@ -438,9 +445,9 @@ script 12 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Lan,you're our only
-	hope! May luck be
-	with you!
+	Lan,você é a nossa
+	única esperança!
+	Boa sorte!
 	"""
 	keyWait
 		any = false
@@ -451,15 +458,15 @@ script 13 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Our preparations are
-	complete! Leave this
+	Nossos preparativos
+	estão concluídos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to us! You handle
-	the Net!
+	Deixe isto conosco!
+	Você cuida da Rede!
 	"""
 	keyWait
 		any = false
@@ -470,23 +477,24 @@ script 14 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	The Networks have
-	been restored,but
+	As Redes foram
+	restauradas,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so long as the
-	culprit is still on
+	mas enquanto o
+	culpado continuar
+	à solta,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the loose,it's too
-	risky to go ahead
-	with this plan⋯
+	é arriscado demais
+	seguirmos com o
+	plano...
 	"""
 	keyWait
 		any = false
@@ -497,13 +505,14 @@ script 15 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Even as we speak the
-	asteroid approaches!
+	O asteroide se
+	aproxima a cada
+	segundo que passa!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"OK,I'm scared⋯"
+	"É,eu estou com\nmedo..."
 	keyWait
 		any = false
 	end
@@ -521,16 +530,17 @@ script 30 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,Dr.Regal said he
-	had something for
-	us! 
+	Lan,o Dr.Regal disse
+	que tinha uma coisa
+	pra dar pra gente!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We should also
-	go talk to Dad too!
+	E a gente devia
+	falar com o papai
+	também!
 	"""
 	keyWait
 		any = false
@@ -541,8 +551,8 @@ script 31 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's go talk
-	to Dad!
+	Lan,vamos falar com
+	o papai!
 	"""
 	keyWait
 		any = false
@@ -553,9 +563,9 @@ script 32 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,Dr.Regal said he
-	had something for
-	us!
+	Lan,o Dr.Regal disse
+	que tinha uma coisa
+	pra dar pra gente!
 	"""
 	keyWait
 		any = false

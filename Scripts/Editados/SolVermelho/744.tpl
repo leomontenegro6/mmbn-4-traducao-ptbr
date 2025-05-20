@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	The lions've lost
-	their energy
-	somehow!
+	Os leões parecem
+	estar ficando sem
+	forças!
 	"""
 	keyWait
 		any = false

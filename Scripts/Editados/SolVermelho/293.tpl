@@ -10,17 +10,17 @@ script 0 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I can't believe Dr.
-	Regal is the leader
-	of Nebula⋯
+	Não acredito que
+	o Dr. Regal era o
+	líder da Nebula...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What will happen if
-	that asteroid is
-	hijacked?!
+	O que vai acontecer
+	se aquele asteroide
+	for tomado?!
 	"""
 	keyWait
 		any = false
@@ -36,15 +36,15 @@ script 1 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	There's no time to
-	call the Officials!
+	Não há tempo para
+	chamar os Oficiais!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan! You're our only
-	hope!
+	Lan! Você é a nossa
+	única esperança!
 	"""
 	keyWait
 		any = false
@@ -59,7 +59,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"W-we're d-doomed⋯!"
+	"E-estamos\ncondenados...!"
 	keyWait
 		any = false
 	end
@@ -73,7 +73,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"No No No No No⋯!"
+	"Não,não,não,não...!"
 	keyWait
 		any = false
 	end
@@ -83,16 +83,17 @@ script 5 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	You're the only one
-	who can change the
-	asteroid's course
+	Você é o único que
+	pode mudar a
+	trajetória do
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	now! Our lives are
-	in your hands!
+	asteroide agora!
+	As nossas vidas
+	estão nas suas mãos!
 	"""
 	keyWait
 		any = false
@@ -103,15 +104,17 @@ script 6 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	We're binding our
-	fate to yours!
+	Estamos confiando os
+	nossos destino a
+	vocês!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't know what
-	else to say but⋯
+	Eu não sei o que
+	mais eu posso
+	dizer,fora...
 	"""
 	keyWait
 		any = false
@@ -122,10 +125,10 @@ script 6 mmbn4 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
-	"Good luck!!"
+	"Boa sorte!!"
 	keyWait
 		any = false
 	end
@@ -135,16 +138,17 @@ script 7 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	I'm sorry,but
-	there's nothing we
+	Desculpe,mas não há
+	nada que possamos
+	fazer para ajudar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	can do to help you.
-	Still,we'll all be
-	rooting for you!
+	vocês. Mas estamos
+	todos torcendo por
+	vocês!
 	"""
 	keyWait
 		any = false
@@ -154,14 +158,13 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"I've made up my"
+	"Eu já me decidi!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	mind! I'm leaving
-	everything up to
-	you!
+	Vou confiar tudo a
+	vocês!
 	"""
 	keyWait
 		any = false

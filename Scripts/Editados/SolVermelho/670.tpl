@@ -5,8 +5,8 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Tamako,how are you
-	gonna test us?
+	Tamako,como que cê
+	vai testar a gente?
 	"""
 	keyWait
 		any = false
@@ -18,7 +18,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Tamako
 	msgOpen
-	"With this!"
+	"Com isto!"
 	keyWait
 		any = false
 	clearMsg
@@ -30,8 +30,8 @@ script 2 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What about this
-	rock?
+	O que tem essa
+	pedra?
 	"""
 	keyWait
 		any = false
@@ -44,15 +44,16 @@ script 3 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	Hehe,pretend this
-	rock is MetalMan.
+	He he. Finja que a
+	pedra é o MetalMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Could you break it
-	with your fist?
+	Você consegue
+	quebrá-la só com
+	os punhos?
 	"""
 	keyWait
 		any = false
@@ -65,13 +66,13 @@ script 4 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	This rock? With my
-	fist?
+	Essa pedra?
+	Só na mão?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Of course not!"
+	"Claro que não!"
 	keyWait
 		any = false
 	clearMsg
@@ -83,9 +84,9 @@ script 5 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	If I think of this
-	rock as MegaMan,I
-	can break it!
+	Bom,se EU vir ela
+	como o MegaMan,eu
+	quebro ela fácil!
 	"""
 	keyWait
 		any = false
@@ -98,9 +99,9 @@ script 6 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Even if you did
-	break it,you'd hurt
-	yourself!
+	Mas,mesmo se
+	quebrar,vai se
+	machucar,não?
 	"""
 	keyWait
 		any = false
@@ -112,7 +113,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Tamako
 	msgOpen
-	"Watch me!"
+	"Observe!"
 	keyWait
 		any = false
 	soundStopBGM
@@ -123,17 +124,17 @@ script 8 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	Concentrate on the
-	spirit⋯
+	Concentrar o
+	espírito...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hah!"
+	"Rá!"
 	keyWait
 		any = false
 	clearMsg
-	"Heeyah!"
+	"Iiá!"
 	keyWait
 		any = false
 	end
@@ -143,15 +144,16 @@ script 9 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	Ouch!!!
-	Hmm,guess not.
+	Ai!!!
+	Hmm,acho que não
+	rolou.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But this made some-
-	thing really clear.
+	Mas isso deixou uma
+	coisa bem clara.
 	"""
 	keyWait
 		any = false
@@ -164,8 +166,7 @@ script 10 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	W-what did it make
-	clear?
+	O-o quê?
 	"""
 	keyWait
 		any = false
@@ -178,9 +179,9 @@ script 11 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	Well,now I know
-	that I'm gonna beat
-	you.
+	Bom,agora,eu sei
+	como vou fazer pra
+	vencer vocês.
 	"""
 	keyWait
 		any = false
@@ -192,7 +193,7 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wha'?! Why's that?"
+	"Hã?! Por quê?"
 	keyWait
 		any = false
 	clearMsg
@@ -204,39 +205,40 @@ script 13 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	I punched this rock
-	like it was MegaMan.
+	Eu soquei esta pedra
+	como se fosse o
+	MegaMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I didn't give up,
-	even though I knew
-	I couldn't break it.
+	E não desisti,mesmo
+	sabendo que não
+	poderia quebrá-la.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You didn't even try
-	to punch it.
+	Já você,nem tentou
+	socá-la.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wanted to use this
-	rock to test your
-	fighting spirit.
+	A pedra era pra
+	testar o seu
+	espírito de luta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The way you are now,
-	you don't have the
-	spirit to fight us.
+	Do jeito que está
+	agora,não tem espí-
+	rito pra nos vencer.
 	"""
 	keyWait
 		any = false
@@ -260,24 +262,24 @@ script 15 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	I don't want to
-	fight you,the way
-	you are now.
+	Eu não quero lutar
+	com você do jeito
+	que está agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll tell you about
-	a good place.
+	Vou te indicar um
+	lugar legal.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go there with Mega-
-	Man and work on
-	your spirit!
+	Vá lá com o
+	MegaMan e aprimore
+	o seu espírito!
 	"""
 	keyWait
 		any = false
@@ -295,7 +297,7 @@ script 16 mmbn4 {
 		track = 115
 	"""
 	Lan adquiriu:
-	"GateData"!!
+	"DadoPrtã"!!
 	"""
 	keyWait
 		any = false
@@ -311,32 +313,33 @@ script 17 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	This key will get
-	you in to see my
-	master.
+	Com essa chave,você
+	vai poder conhecer o
+	meu mestre.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Take this to Town4,
-	and you'll attain a
+	Leve ela pra Vila 4
+	e irá conquistar um
+	espírito de luta
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	fighting spirit that
-	is strong enough to
-	smash a rock.
+	forte o bastante
+	pra esmagar uma
+	rocha.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Once my master
-	approves,come back
-	and I'll be here.
+	Depois que meu mes-
+	tre te aprovar,volte
+	aqui. Estarei aqui.
 	"""
 	keyWait
 		any = false
@@ -347,15 +350,16 @@ script 18 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What do you want
-	to do,MegaMan?
+	O que cê acha,
+	MegaMan?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I dunno,she seemed
-	kinda pushy to me.
+	Porque eu não sei...
+	Ela pareceu que for-
+	çou essa na gente.
 	"""
 	keyWait
 		any = false
@@ -368,17 +372,17 @@ script 19 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Well,yeah,but she
-	definitely has the
-	fighting spirit.
+	Bom,é,mas ela com
+	certeza tem espírito
+	de luta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll need to fix
-	our attitude if we
-	want a chance.
+	Temos que ajeitar a
+	a nossa atitude se
+	quisermos vencer.
 	"""
 	keyWait
 		any = false
@@ -390,7 +394,7 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah⋯I guess so."
+	"É... Acho que sim."
 	keyWait
 		any = false
 	clearMsg
@@ -402,9 +406,9 @@ script 21 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Shall we go do our
-	best? To Tamako's
-	master's place?
+	Bom,vamos pegar no
+	pesado,então? Com o
+	mestre da Tamako?
 	"""
 	keyWait
 		any = false
@@ -417,17 +421,16 @@ script 22 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Okay! I can't just
-	ignore a challenge
-	like that!
+	Beleza! Eu não posso
+	simplesmente ignorar
+	um desafio desses!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's go get
-	ourselves some
-	fighting spirit!
+	Bora lá conquistar
+	espírito de luta!
 	"""
 	keyWait
 		any = false

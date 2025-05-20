@@ -5,17 +5,17 @@ script 0 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Welcome to the
-	"Halberd Princess"
-	Comp! Prepare to
+	Bem-vindo à rede da
+	"Princesa Alabarda"!
+	Prepare-se para um
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	enjoy a relaxing
-	river cruise! Shall
-	we depart?
+	relaxante passeio
+	no rio! Pronto
+	para partir?
 	"""
 	keyWait
 		any = false
@@ -60,7 +60,7 @@ script 1 mmbn4 {
 	msgOpen
 	"""
 	OK!
-	All aboard!
+	Todos a bordo!
 	"""
 	keyWait
 		any = false
@@ -73,8 +73,8 @@ script 2 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Let me know when
-	you're ready!
+	Avise-me quando
+	estiver pronto!
 	"""
 	keyWait
 		any = false
@@ -84,7 +84,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Shall we depart?"
+	"Partir?"
 	keyWait
 		any = false
 	clearMsg
@@ -99,7 +99,7 @@ script 11 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Yes  "
+	"Sim "
 	option
 		brackets = false
 		left = 0
@@ -108,7 +108,7 @@ script 11 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"No!"
+	"Não!"
 	select
 		default = 0
 		noDelay = false
@@ -128,7 +128,7 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Shall we depart?"
+	"Partir?"
 	keyWait
 		any = false
 	clearMsg
@@ -143,7 +143,7 @@ script 14 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Yes  "
+	"Sim "
 	option
 		brackets = false
 		left = 0
@@ -152,7 +152,7 @@ script 14 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"No!"
+	"Não!"
 	select
 		default = 0
 		noDelay = false
@@ -169,7 +169,7 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Shall we depart?"
+	"Partir?"
 	keyWait
 		any = false
 	clearMsg
@@ -184,7 +184,7 @@ script 15 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Yes  "
+	"Sim "
 	option
 		brackets = false
 		left = 0
@@ -193,7 +193,7 @@ script 15 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"No!"
+	"Não!"
 	select
 		default = 0
 		noDelay = false
@@ -214,7 +214,7 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Final stop!"
+	"Última parada!"
 	keyWait
 		any = false
 	end

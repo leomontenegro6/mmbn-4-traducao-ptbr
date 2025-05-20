@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	⋯And it's done.
-	Looks like the Navi
-	ghosts are all gone.
+	... Terminado. Acho
+	que todos os Navis
+	fantasma se foram.
 	"""
 	keyWait
 		any = false
@@ -20,7 +20,7 @@ script 1 mmbn4 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"*beep beep beep*"
+	"Bip Bip Bip"
 	wait
 		frames = 10
 	keyWait
@@ -35,8 +35,8 @@ script 2 mmbn4 {
 		mugshot = MegaMan
 	"""
 	Lan!
-	The match is about
-	to begin!
+	A luta tá pra
+	começar!
 	"""
 	keyWait
 		any = false
@@ -47,15 +47,15 @@ script 3 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	All right,Yuko is
-	waiting for us!
+	Beleza. A Yuko tá
+	esperando a gente!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To the DenDome!
-	MegaMan!
+	Pro DenDomo!
+	Vamos,MegaMan!
 	"""
 	keyWait
 		any = false
@@ -66,7 +66,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Roger!"
+	"Vamos!"
 	keyWait
 		any = false
 	clearMsg
@@ -76,7 +76,7 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = BusinessMan
-	"Lan⋯"
+	"Lan..."
 	keyWait
 		any = false
 	end
@@ -86,16 +86,16 @@ script 6 mmbn4 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Thank you for taking
-	care of my daughter,
-	Yuko.
+	Obrigado por ajudar
+	a minha filha.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please give her an
-	excellent battle.
+	Por favor,mostre à
+	Yuko uma batalha
+	maravilhosa.
 	"""
 	keyWait
 		any = false
@@ -107,9 +107,9 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Huh?
-	Um,sure!
-	Of course!
+	Hã?
+	Er... tá!
+	Claro!
 	"""
 	keyWait
 		any = false

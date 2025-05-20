@@ -5,8 +5,9 @@ script 0 mmbn4 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Clink-clank-clunk⋯
-	That should do it.
+	Clinc Clanc Clunk...
+	Pronto,isso deve
+	resolver.
 	"""
 	keyWait
 		any = false
@@ -16,14 +17,14 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	msgOpen
-	"It's fixed."
+	"Consertada."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This time,I put in a
-	wicked one. It won't
-	break easily now.
+	Fiz um serviço
+	completo desta vez.
+	Ela não quebra mais.
 	"""
 	keyWait
 		any = false
@@ -35,16 +36,17 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = HotDogLady
 	"""
-	Thank you! You've
-	been nothing but
-	kind to me.
+	Obrigada! Você tem
+	sido tão bom pra
+	mim.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll repay the favor
-	someday.
+	Eu juro que vou
+	recompensar o favor
+	um dia.
 	"""
 	keyWait
 		any = false
@@ -56,9 +58,9 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	"""
-	Forget about it.
-	Just keep making me
-	tasty hotdogs.
+	Que nada. É só con-
+	tinuar me fazendo
+	cachorros-quentes.
 	"""
 	keyWait
 		any = false
@@ -69,11 +71,11 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = HotDogLady
-	"Mr.Match⋯"
+	"Sr. Match..."
 	keyWait
 		any = false
 	clearMsg
-	"I'll do my best!"
+	"Eu vou me empenhar!"
 	keyWait
 		any = false
 	end
@@ -83,9 +85,9 @@ script 5 mmbn4 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	You deleted the
-	viruses that was in
-	here,didn't you?
+	Você deletou os
+	vírus que tavam
+	aqui,não foi?
 	"""
 	keyWait
 		any = false
@@ -96,7 +98,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Yeah,so what?"
+	"Deletei. O que tem?"
 	keyWait
 		any = false
 	clearMsg
@@ -107,23 +109,24 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	"""
-	Idiot,it was what
-	started the fire for
-	the hotdog fryer.
+	Idiota. Eram elem
+	que acendiam o fogo
+	da fritadeira.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Viruses can come in
-	handy sometimes,but
+	Vírus podem ser bem
+	práticos às vezes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you guys just delete
-	them all the time.
+	Mas vocês só querem
+	saber de deletar
+	eles o tempo todo.
 	"""
 	keyWait
 		any = false
@@ -136,8 +139,8 @@ script 8 mmbn4 {
 		mugshot = Lan
 	"""
 	Errr...
-	But it's not a good
-	idea to use viruses.
+	M-mas não é uma boa
+	ideia usar vírus.
 	"""
 	keyWait
 		any = false
@@ -150,22 +153,23 @@ script 9 mmbn4 {
 		mugshot = HotDogLady
 	msgOpen
 	"""
-	You're right,
-	Mr.Match.
+	Eu acho que você tem
+	razão,Sr. Match.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Deleting viruses on
-	sight is wrong.
+	Deletar vírus sem
+	mais nem menos é
+	errado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's a place for
-	everything,right?!
+	Existe um lugar pra
+	tudo,não é?!
 	"""
 	keyWait
 		any = false
@@ -177,8 +181,8 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	"""
-	You could say that.
-	Got that,Lan?
+	Concordo plenamente.
+	E você,Lan?
 	"""
 	keyWait
 		any = false
@@ -189,7 +193,7 @@ script 10 mmbn4 {
 script 11 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Grrr⋯"
+	"Grrr..."
 	keyWait
 		any = false
 	clearMsg
@@ -200,16 +204,17 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	"""
-	Well,it's about time
-	for the match.
-	I'm outta here.
+	Bom,está quase na
+	hora da luta.
+	Estou de saída.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't disappoint me.
-	Heh heh heh⋯
+	Não vá me
+	decepcionar.
+	He he he...
 	"""
 	keyWait
 		any = false
@@ -223,16 +228,16 @@ script 13 mmbn4 {
 		mugshot = HotDogLady
 	msgOpen
 	"""
-	What was he talking
-	about?
+	Do que ele estava
+	falando?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Are you two in the
-	Den Battle
-	Tournament?
+	Vocês dois estão no
+	Torneio de Batalha
+	Den?
 	"""
 	keyWait
 		any = false
@@ -244,14 +249,14 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Yep,that's right.
-	I'm up against
-	Match next.
+	Aham. E a próxima
+	luta vai ser entre
+	nós dois.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"You didn't know?"
+	"Você não sabia?"
 	keyWait
 		any = false
 	clearMsg
@@ -262,15 +267,15 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = HotDogLady
 	"""
-	No,I didn't.
-	The tournament,huh⋯
+	Não,nem imaginava.
+	O torneio,é...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mr.Match should've
-	told me.
+	O Sr. Match devia
+	ter me contado.
 	"""
 	keyWait
 		any = false
@@ -282,15 +287,17 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Oh,I gotta go,too!
-	And I didn't even
+	Ah,eu também preciso
+	ir logo! Poxa,nem
+	deu pra comer um
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	get to try a hot-
-	dog⋯See ya!
+	cachorro-quente...
+	Nngh...
+	Enfim,tchau!
 	"""
 	keyWait
 		any = false
@@ -302,8 +309,9 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = HotDogLady
 	"""
-	Sorry about that.
-	My treat next time!
+	Sinto muito por
+	isso. O próximo sai
+	por conta da casa!
 	"""
 	keyWait
 		any = false
@@ -318,8 +326,9 @@ script 18 mmbn4 {
 		mugshot = HotDogLady
 	msgOpen
 	"""
-	I know how to thank
-	Mr.Match. Tee-hee⋯
+	Já sei como
+	agradecer ao
+	Sr. Match. Hi hi...
 	"""
 	keyWait
 		any = false
@@ -330,15 +339,9 @@ script 19 mmbn4 {
 		mugshot = HotDogLady
 	msgOpen
 	"""
-	What was he talking
-	about? Are you two
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	in the City Battle
-	Tournament?
+	Vocês dois estão no
+	Torneio de Batalha
+	da Cidade?
 	"""
 	keyWait
 		any = false

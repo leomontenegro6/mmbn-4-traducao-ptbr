@@ -177,8 +177,8 @@ script 11 mmbn4 {
 	clearMsg
 	"""
 	Até nosso próximo
-	encontro,meus
-	apetitosos amigos!
+	encontro,meu
+	apetitoso amigo!
 	"""
 	keyWait
 		any = false

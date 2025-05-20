@@ -6,30 +6,29 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	msgOpen
-	"So you're MegaMan⋯"
+	"Então você é o\nMegaMan..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I trust you've
-	brought the Dark-
-	Chip?
+	Trouxe o Chip das
+	Trevas?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Who are you?!"
+	"Quem é você?!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviPurple
 	"""
-	Why should I answer
-	a Navi who's about
-	to be deleted⋯?
+	Eu não vou responder
+	pra um Navi que tá
+	pra ser deletado...!
 	"""
 	keyWait
 		any = false
@@ -56,8 +55,8 @@ script 10 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Oh,no! I'm lost
-	again!
+	Essa não!
+	Me perdi de novo!
 	"""
 	keyWait
 		any = false
@@ -73,17 +72,17 @@ script 11 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE OTHER DAY,TWO
-	INTRUDERS WERE SEEN
-	IN THIS AREA!
+	UM DIA DESTES,DOIS
+	INTRUSOS FORAM AVIS-
+	TADOS NESTA ÁREA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	LOOKS LIKE WE NEED
-	TO IMPROVE ON
-	SECURITY!
+	PARECE QUE PRECISA-
+	MOS REFORÇAR A
+	SEGURANÇA!
 	"""
 	keyWait
 		any = false
@@ -94,9 +93,9 @@ script 15 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I'm afraid that if
-	I don't jack out,
-	I'll never get out!
+	Tenho medo de ficar
+	preso aqui se não
+	desconectar agora!
 	"""
 	keyWait
 		any = false
@@ -107,24 +106,24 @@ script 16 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	A TOYROBO RUNNING
-	CRAZY?!
+	TEM UM ROBÔ-
+	BRINQUEDO FORA
+	DE CONTROLE?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THERE'S NO WAY TO
-	LOOK INTO THAT FROM
-	THE INTERNET!
+	NÃO DÁ PARA RESOLVER
+	ISSO DAQUI,DA REDE!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SOMEONE WILL HAVE TO
-	JACK IN DIRECTLY TO
-	STOP IT!
+	ALGUÉM TERÁ QUE SE
+	CONECTAR DIRETAMENTE
+	NELE PARA PARÁ-LO!
 	"""
 	keyWait
 		any = false
@@ -139,53 +138,53 @@ script 30 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	What's with this
-	point thing?!
+	O que é essa
+	coisa pontuda?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm only worth 3
-	points?!
+	Eu só valho 3
+	pontos?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey,you! Check this
-	out!
+	Ei,você! Saca só!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Some Navi gave this
-	to me⋯Something
-	about a tournament⋯?
+	Um Navi aí me deu
+	isto aqui. Tem a ver
+	com um torneio...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Can you believe the
-	nerve of that guy?
+	Dá pra acreditar na
+	petulância do
+	cavalo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THREE points? I'm
-	worth at least a
-	HUNDRED!
+	TRÊS pontos?
+	Eu valho,no mínimo,
+	CEM!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That makes me so
-	mad⋯Here,get these
-	away from me⋯
+	Isso me deixa fulo
+	da vida... Toma,
+	tira eles daqui...
 	"""
 	keyWait
 		any = false
@@ -211,8 +210,8 @@ script 30 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviPink
 	"""
-	How rude!!
-	Sheesh!
+	A ousadia!!
+	Affe!
 	"""
 	keyWait
 		any = false
@@ -225,9 +224,9 @@ script 31 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Just get those
-	points far away from
-	here!
+	Tira logo esses
+	pontos de perto de
+	mim!
 	"""
 	keyWait
 		any = false
@@ -247,14 +246,14 @@ script 50 mmbn4 {
 	mugshotShow
 		mugshot = PurpleNavi
 	msgOpen
-	"HICCUP!"
+	"HIC!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yep,this is my
-	favorite drink of
-	all⋯
+	É,esta aqui é a
+	minha bebida favo-
+	rita do muuundo...
 	"""
 	keyWait
 		any = false
@@ -268,19 +267,19 @@ script 51 mmbn4 {
 	mugshotShow
 		mugshot = PurpleNavi
 	msgOpen
-	"HICCUP!"
+	"HIC!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So good!
-	So,so good!
+	Delícia!
+	Ô,coisa boa!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Powerful stuff,
+	É potente,este
 	"
 	"""
 	printItem
@@ -291,9 +290,8 @@ script 51 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	The more you drink
-	the better it
-	tastes!
+	Quanto mais cê bebe,
+	melhor fica o sabor!
 	"""
 	keyWait
 		any = false
@@ -307,14 +305,14 @@ script 51 mmbn4 {
 	"."
 	waitSkip
 		frames = 30
-	"Huh?"
+	" Hã?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Whatcha' want,kid?
-	Don't tell me you
-	want some of this⋯
+	Quer o quê,garoto?
+	Não vai dizer que
+	quer também...
 	"""
 	keyWait
 		any = false
@@ -337,25 +335,25 @@ script 51 mmbn4 {
 	"."
 	waitSkip
 		frames = 30
-	"\n⋯Ya do,huh?"
+	"\n... Cê quer,né?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,I'se got plenty
-	at home,so I reckon
-	I could spare one⋯
+	Bom,eu tenho um mon-
+	te lá em casa,então
+	posso ceder um...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯But not fer free!"
+	"... mas,de graça,\nnão!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey,I know! You got
-	a "
+	Ah,já sei! Cê tem um
+	"
 	"""
 	printChip
 		buffer = 0
@@ -364,23 +362,23 @@ script 51 mmbn4 {
 	printCode
 		buffer = 0
 		code = L
-	"\"?"
+	"\" aí?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If'ns ya do,I reckon
-	I could trade this
+	Se tiver,eu troco
+	por este
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 93
-	"\"⋯"
+	"\"..."
 	keyWait
 		any = false
 	clearMsg
-	"Whatcha'say?"
+	"Que tal?"
 	keyWait
 		any = false
 	clearMsg
@@ -404,7 +402,7 @@ script 51 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"No!"
+	"Não!"
 	select
 		default = 0
 		noDelay = false
@@ -420,9 +418,9 @@ script 51 mmbn4 {
 	mugshotShow
 		mugshot = PurpleNavi
 	"""
-	Well never mind,Huh?
-	then! I'll just
-	drink it all myself!
+	Então,esquece,né?
+	Eu bebo tudo
+	sooooo-zinho!
 	"""
 	keyWait
 		any = false
@@ -442,8 +440,8 @@ script 52 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Wha'? You got one?!
-	Well gosh darn,a
+	Quê? Cê tem um?!
+	Oxe,que legal,um
 	"
 	"""
 	printChip
@@ -458,8 +456,8 @@ script 52 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	A'right,a'right!
-	Let's trade!
+	Xuxu beleza!
+	Bora trocar!
 	"""
 	keyWait
 		any = false
@@ -490,9 +488,9 @@ script 52 mmbn4 {
 	mugshotShow
 		mugshot = PurpleNavi
 	"""
-	Whoever yer gonna
-	give that to,they'll
-	be mighty happy!
+	A pessoa que for
+	receber isso aí vai
+	ficar tão "filiz"!
 	"""
 	keyWait
 		any = false
@@ -502,14 +500,14 @@ script 53 mmbn4 {
 	mugshotShow
 		mugshot = PurpleNavi
 	msgOpen
-	"HICCUP!"
+	"HIC!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You again,huh? So,
-	you wanna trade
-	a "
+	É você de novo?
+	E aí,quer trocar
+	um "
 	"""
 	printChip
 		buffer = 0
@@ -523,7 +521,7 @@ script 53 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	for this
+	por este
 	"
 	"""
 	printItem
@@ -544,7 +542,7 @@ script 53 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Yeah  "
+	"Aham  "
 	option
 		brackets = false
 		left = 0
@@ -553,7 +551,7 @@ script 53 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Nope"
+	"Não"
 	select
 		default = 0
 		noDelay = false
@@ -578,8 +576,8 @@ script 54 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Hey! You ain't got
-	a "
+	Aí! Cê não tem um
+	"
 	"""
 	printChip
 		buffer = 0
@@ -593,14 +591,14 @@ script 54 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	You sure it ain't
-	buried in yer
-	folder⋯? HICCUP!
+	Certeza que não tá
+	aí na sua Pes...
+	er,Pasta? HIC!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"No chip,no trade!"
+	"Sem chip,sem troca!"
 	keyWait
 		any = false
 	end
@@ -610,14 +608,14 @@ script 55 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Guess I'll just have
-	to go back to
-	drinkin' it meself!
+	Acho que eu vou ter
+	que voltar a beber
+	sozinho!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"HICCUP!"
+	"HIC!"
 	keyWait
 		any = false
 	end
@@ -635,7 +633,7 @@ script 61 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Now,back to the Pan!"
+	"Aproxime-se da\nPanela!"
 	keyWait
 		any = false
 	end
@@ -654,40 +652,39 @@ script 64 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	The owner of that
-	food store is so
-	stubborn⋯
+	O dono daquela loja
+	é tão teimoso...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You never know what
-	he's going to do
-	to strangers⋯
+	Nunca dá pra saber
+	o que ele vai fazer
+	com estranhos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But all of the
-	ingredients he sells
-	are just fabulous!
+	Mas os ingredientes
+	que ele vende são
+	fabulosos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hear that he's in
-	the Park Area,
-	somewhere⋯
+	Parece que ele está
+	em algum canto da
+	Área Parque...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Be careful as you
-	go!
+	Só tome cuidado se
+	for lá!
 	"""
 	keyWait
 		any = false
@@ -698,9 +695,9 @@ script 65 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I hope you win!
-	Make the best curry
-	every!
+	Espero que vença!
+	Faça o melhor curry
+	do mundo!
 	"""
 	keyWait
 		any = false
@@ -711,9 +708,9 @@ script 70 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	COLLECTING POINTS
-	REQUIRES SPEED AND
-	CONCENTRATION!
+	COLETAR PONTOS
+	REQUER VELOCIDADE
+	E CONCENTRAÇÃO!
 	"""
 	keyWait
 		any = false
@@ -724,25 +721,25 @@ script 71 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Hee hee hee⋯
-	Look at them all,
-	looking for points!
+	He he he...
+	Olha só eles,
+	procurando pontos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm the one who
-	decided where to
-	hide points here!
+	Fui eu quem decidiu
+	esconder pontos
+	aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So it feels good to
-	see everyone looking
-	so hard for them!
+	É tão divertido ver
+	todo mundo ralando
+	tanto pra achá-los!
 	"""
 	keyWait
 		any = false
@@ -753,22 +750,22 @@ script 80 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	SO BEING GOOD AT
-	BATTLING IS NOT
-	ENOUGH⋯
+	ENTÃO,SER BOM DE
+	LUTA NÃO É O
+	BASTANTE...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯AND THAT'S WHY THE
-	PRELIMS ARE BASED ON
-	LOOKING FOR POINTS!
+	E POR ISSO AS PRELI-
+	MINARES SE BASEIAM
+	EM REUNIR PONTOS!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I GET IT NOW!"
+	"ENTENDI,AGORA!"
 	keyWait
 		any = false
 	end
@@ -778,23 +775,23 @@ script 81 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	So you made it past
-	the prelims?
+	Então,você passou
+	nas preliminares?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How do you feel
-	about your next
-	battle?
+	Como acha que será
+	sua próxima luta?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You don't look like
-	a very good battler⋯
+	Você não parece um
+	NetLutador muito
+	bom...
 	"""
 	keyWait
 		any = false
@@ -830,16 +827,16 @@ script 90 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THESE TOURNAMENTS
-	ARE SO EXCITING!
+	ESSES TORNEIOS SÃO
+	TÃO EMOCIONANTES!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NAVI-TO-NAVI,A PURE
-	SLUGFEST UNTIL ONE
-	DROPS! SO COOL!
+	NAVI VS. NAVI,UMA
+	PANCADARIA ATÉ UM
+	CAIR! É TÃO LEGAL!
 	"""
 	keyWait
 		any = false
@@ -875,24 +872,23 @@ script 91 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	So the first match
-	is coming up⋯
+	Então,a primeira
+	luta tá chegando...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You look like a
-	weak battler though,
-	don't you⋯
+	Mas você parece ser
+	um NetLutador tão
+	fraquinho...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,just try not
-	to embarrass
-	yourself⋯
+	Bom,só tenta não
+	passar vergonha...
 	"""
 	keyWait
 		any = false
@@ -903,15 +899,15 @@ script 100 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	BATTLING NAVIS LOOK
-	SO COOL!
+	OS NAVIS LUTADORES
+	SÃO TÃO LEGAIS!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I WISH I COULD BE
-	AS COOL AS THEY ARE!
+	EU QUERIA SER TÃO
+	LEGAL QUANTO ELES!
 	"""
 	keyWait
 		any = false
@@ -922,17 +918,17 @@ script 101 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	So you made it past
-	the Round 1? Hm⋯
-	That's surprising⋯
+	Então,você passou na
+	primeira rodada?
+	Hm... Que surpresa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You sure look like
-	you'd lose⋯Er,no,
-	never mind⋯
+	Parecia tanto que
+	você ia perd...
+	Er,deixa pra lá...
 	"""
 	keyWait
 		any = false
@@ -943,17 +939,16 @@ script 110 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'M HOPING TO GET
-	INTO THE NEXT
-	TOURNAMENT!
+	ESPERO PODER ENTRAR
+	NO PRÓXIMO TORNEIO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'LL SHOW THEM JUST
-	WHAT A NAVI CAN DO
-	IF HE TRIES!
+	VOU MOSTRAR PRA ELES
+	DO QUE UM PROG É
+	CAPAZ!
 	"""
 	keyWait
 		any = false
@@ -963,21 +958,20 @@ script 111 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Just as I predicted!"
+	"Foi como eu previ!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I knew that you'd
-	make it to the
-	finals!
+	Eu sabia que você ia
+	chegar na final!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now,go out and win
-	that tournament!
+	Bom,agora vai lá e
+	vence esse torneio!
 	"""
 	keyWait
 		any = false
@@ -992,17 +986,17 @@ script 120 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	ARE YOU LOOKING FOR
-	SOMEONE? OR A NAVI
-	PERHAPS?
+	ESTÁ PROCURANDO POR
+	ALGUÉM? UM NAVI,
+	TALVEZ?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MAYBE YOU NEED TO
-	FIND SOME MORE
-	INFORMATION FIRST⋯?
+	TALVEZ VOCÊ DEVESSE
+	REUNIR INFORMAÇÕES
+	PRIMEIRO...?
 	"""
 	keyWait
 		any = false
@@ -1017,25 +1011,25 @@ script 121 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	A Navi,taken by the
-	Mafia? I don't know
-	anything about that⋯
+	Um Navi,levado pela
+	Máfia? Não sei disso
+	aí,não...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You need to find
-	either that Navi or
-	the Mafia boss⋯
+	Você precisa achar
+	ou esse Navi,ou a
+	chefona da Máfia...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Come back when you
-	have made some more
-	progress⋯
+	Volte quando tiver
+	feito mais
+	progresso...
 	"""
 	keyWait
 		any = false
@@ -1046,17 +1040,17 @@ script 128 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	A BUNCH OF SCARY
-	NAVIS CAME AND
-	CHASED ME AWAY!
+	UM MONTE DE NAVIS
+	SINISTROS VIERAM E
+	ME AFUGENTARAM!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	JUST WHO DO THEY
-	THINK THEY ARE??
-	SHEESH!
+	QUEM ELES PENSAM
+	QUE SÃO?!
+	EU,HEIN!
 	"""
 	keyWait
 		any = false
@@ -1067,21 +1061,22 @@ script 129 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Just who were those
-	Black Navis??
+	Mas quem eram
+	aqueles Navis
+	Pretos?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They just yelled
-	"Out of the way!",
-	and chased me off!
+	Eles só gritaram
+	"Sai do caminho!"
+	e me empurraram!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"How rude!"
+	"Grossos!"
 	keyWait
 		any = false
 	end
@@ -1091,16 +1086,17 @@ script 130 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHAT AN AMAZING
-	WIND! IT BLEW ME ALL
-	OVER THE PLACE!
+	QUE VENTO INCRÍVEL!
+	ELE ME ASSOPROU PRA
+	LÁ E PRA CÁ!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯WELL,THAT PART WAS
-	KINDA' FUN,I GUESS⋯
+	... BOM,ATÉ QUE FOI
+	MEIO DIVERTIDO SER
+	SOPRADO...
 	"""
 	keyWait
 		any = false
@@ -1111,16 +1107,16 @@ script 131 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I've never seen a
-	wind like that!
+	Eu nunca vi um
+	vento desses antes!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯And who could enjoy
-	being blown around
-	like a leaf?
+	... E quem que ia
+	gostar de ser
+	assoprado por aí?!
 	"""
 	keyWait
 		any = false
@@ -1131,15 +1127,15 @@ script 140 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHAT CAUSED THAT
-	FIRE??
+	O QUE CAUSOU AQUELE
+	INCÊNDIO?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT ALMOST MADE ME
-	INTO A MR.ROAST!
+	EU QUASE VIREI
+	UM "TORROG"!
 	"""
 	keyWait
 		any = false
@@ -1150,16 +1146,16 @@ script 141 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I was so scared when
-	those fires started
-	popping up!
+	Eu fiquei com tanto
+	medo quando os in-
+	cêndios começaram!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder what could
-	have caused them⋯?
+	O que será que
+	causou eles...?
 	"""
 	keyWait
 		any = false
@@ -1170,23 +1166,24 @@ script 150 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Hello. I'm an
-	Official.
+	Olá.
+	Eu sou um Oficial.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I arrested a wanted
-	Navi in Park Area3.
+	Eu prendi um Navi
+	procurado na Área
+	Parque 3.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He was all messed
-	up⋯I wonder what
-	could have happened?
+	Ele tava todo baque-
+	ado... O que será
+	que aconteceu?
 	"""
 	keyWait
 		any = false

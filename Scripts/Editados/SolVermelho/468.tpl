@@ -43,9 +43,9 @@ script 2 mmbn4 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Agora,sigam ao
-	DenDomo para as
-	finais do torneio.
+	Agora,siga rumo ao
+	DenDomo para lutar
+	no torneio.
 	"""
 	keyWait
 		any = false
@@ -81,8 +81,8 @@ script 3 mmbn4 {
 	clearMsg
 	"""
 	MegaMan,bora dar
-	tudo da gente nas
-	finais do torneio!
+	tudo da gente no
+	torneio!
 	"""
 	keyWait
 		any = false

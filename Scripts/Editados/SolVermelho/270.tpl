@@ -10,16 +10,17 @@ script 0 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	This costume was
-	a big hit the other
-	day,so I brought
+	Esta fantasia fez
+	muito sucesso
+	naquele dia,então
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	some friends! Why's
-	the park so empty?
+	eu trouxe uns ami-
+	gos! Mas por que o
+	parque tá tão vazio?
 	"""
 	keyWait
 		any = false
@@ -35,8 +36,8 @@ script 1 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Ow! Ow!
-	This is hot⋯!
+	Ai! Ai!
+	Quente...!
 	"""
 	keyWait
 		any = false
@@ -47,8 +48,8 @@ script 2 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,this is the
-	entrance gate!
+	Lan,esta aqui é
+	a entrada!
 	"""
 	keyWait
 		any = false
@@ -64,9 +65,9 @@ script 3 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	If I wait here long
-	enough,maybe Mami
-	will come back⋯
+	Se eu ficar esperan-
+	do aqui,talvez 
+	a Mami volte...
 	"""
 	keyWait
 		any = false
@@ -81,7 +82,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = CapBoy
 	msgOpen
-	"Whoa! Navis! Navis!"
+	"Olha! Navis! Navis!"
 	keyWait
 		any = false
 	end
@@ -96,23 +97,25 @@ script 5 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	AFTER WEARING THIS
-	COSTUME FOR AWHILE I
+	DEPOIS DE USAR ESTA
+	FANTASIA POR TANTO
+	TEMPO,ESTOU
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	START TO FEEL LIKE A
-	REAL MR.PROG⋯
-	OHHH⋯
+	COMEÇANDO A ME
+	SENTIR COMO UM
+	PROG DE VERDADE...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I LONG TO RETURN TO
-	THE CYBERWORLD⋯
+	OOHHHH... QUERO
+	TANTO VOLTAR PARA
+	O CYBER-MUNDO...
 	"""
 	keyWait
 		any = false
@@ -126,17 +129,17 @@ script 10 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	Oh,I get it! The
-	Red Sun Tournament
-	is being broadcast
+	Ah,já entendi! O
+	Torneio Sol Vermelho
+	tá sendo transmitido
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	today! I bet
-	everyone's glued to
-	their TVs!
+	hoje! Aposto que tá
+	todo mundo grudado
+	na TV!
 	"""
 	keyWait
 		any = false
@@ -147,16 +150,16 @@ script 11 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Gasp⋯gasp⋯gasp⋯
-	The hole to breath
+	Arf... Arf...
+	O buraco para
+	respirar nesta
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	through in this
-	costume isn't big
-	enough⋯
+	fantasia precisava
+	ser maior...
 	"""
 	keyWait
 		any = false
@@ -166,7 +169,7 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"I AM A MR.PROG!"
+	"EU SOU UM PROG!"
 	keyWait
 		any = false
 	end
@@ -175,13 +178,14 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = Man
 	msgOpen
-	"Sniff! Sniff!"
+	"Snif! Snif!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I smell Mami! She's
-	got to be close!
+	Tô sentindo o
+	cheiro da Mami!
+	Ela tá por perto!
 	"""
 	keyWait
 		any = false
@@ -192,14 +196,14 @@ script 14 mmbn4 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	The Mr.Prog looks
-	real! It's even
-	floating!
+	O Prog parece tão
+	real! Tá até
+	flutuando!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Way cool!"
+	"Que trilegal!"
 	keyWait
 		any = false
 	end
@@ -209,17 +213,17 @@ script 15 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	Oh,I get it! The
-	Blue Moon Tournament
-	is being broadcast
+	Ah,já entendi! O
+	Torneio Lua Azul tá
+	sendo transmitido
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	today! I bet
-	everyone's glued to
-	their TVs!
+	hoje! Aposto que tá
+	todo mundo grudado
+	na TV!
 	"""
 	keyWait
 		any = false
@@ -228,22 +232,25 @@ script 15 mmbn4 {
 script 20 mmbn4 {
 	msgOpen
 	"""
-	Castillo's popular
-	character,Wizardog.
-	He may look like a
+	Parece um cachorro,
+	mas,na verdade,é um
+	mago!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	dog,but he's really
-	a master wizard!
-	You can jack-in for
+	É o popular persona-
+	gem do Castillo,o
+	MagoCão!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"maintenance."
+	"""
+	Possui uma entrada
+	para manutenção.
+	"""
 	keyWait
 		any = false
 	end
@@ -251,23 +258,24 @@ script 20 mmbn4 {
 script 21 mmbn4 {
 	msgOpen
 	"""
-	Castillo's popular
-	character,the Hal-
+	Ela é linda,mas
+	quando fica zangada,
+	brande seu machadão!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	berd Princess! She
-	may look cute,but
-	don't get her mad!
+	É a popular persona-
+	gem do Castillo,a
+	Princesa Alabarda!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can jack-in for
-	maintenance.
+	Possui entrada
+	para manutenção.
 	"""
 	keyWait
 		any = false
@@ -283,16 +291,17 @@ script 25 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	My friend collapsed.
-	He said his air hole
-	wasn't large enough.
+	Meu amigo desmaiou.
+	O buraco pra ele
+	respirar era
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just give him some
-	time. He'll be fine.
+	pequeno demais.
+	É só dar um tempo,
+	ele já vai melhorar.
 	"""
 	keyWait
 		any = false
@@ -307,19 +316,19 @@ script 26 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviPink
 	msgOpen
-	"Gasp!⋯Gasp!⋯"
+	"Arrf! ... Aaaarf!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I-I'm alright⋯
-	I'll be fine after I
-	rest for a minute⋯
+	E-eu tô bem...
+	Só preciso descansar
+	um pouquinho...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Gasp!⋯Gasp!⋯"
+	"Aarf! ... Aaaarf!"
 	keyWait
 		any = false
 	end
@@ -339,16 +348,17 @@ script 27 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	OH DEAR! HUMANS TAKE
-	SO LONG TO REPAIR⋯
+	NOSSA! HUMANOS
+	DEMORAM TANTO PARA
+	SEREM REPARADOS...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WE CAN RECOVER
-	WITH JUST A LITTLE
-	DATA MAINTENANCE!
+	NÓS,PROGS,SARAMOS
+	COM UM POUQUINHO
+	DE MANUTENÇÃO!
 	"""
 	keyWait
 		any = false
@@ -369,9 +379,9 @@ script 28 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	There it is! I feel
-	Mami's aura over
-	this way!
+	Por ali! Tô sentindo
+	a aura da Mami
+	naquela direção!
 	"""
 	keyWait
 		any = false
@@ -392,8 +402,8 @@ script 29 mmbn4 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	Oh heavens! The red
-	Navi passed out!
+	Credo! O Navi
+	vermelho desmaiou!
 	"""
 	keyWait
 		any = false
@@ -404,9 +414,9 @@ script 35 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	My friend's passed
-	out. Maybe I'll go
-	see what's on TV⋯
+	Meu amigo desmaiou.
+	Acho que vou
+	assistir TV...
 	"""
 	keyWait
 		any = false
@@ -417,13 +427,14 @@ script 36 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	I-I can see endless
-	fields of flowers!
+	E-estou vendo uma
+	luz no fim do
+	túnel!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Grandma,is that you?"
+	"Vovó,é você?"
 	keyWait
 		any = false
 	end
@@ -433,8 +444,9 @@ script 37 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	HOW CAN I GET BACK
-	TO THE CYBERWORLD?
+	COMO EU FAÇO PARA
+	VOLTAR AO MUNDO
+	CIBERNÉTICO?
 	"""
 	keyWait
 		any = false
@@ -445,9 +457,9 @@ script 38 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	B-but what if I do
-	find Mami? Will she
-	even talk to me?
+	Mas o que faço após
+	achar a Mami? Ela
+	VAI falar comigo?
 	"""
 	keyWait
 		any = false
@@ -458,8 +470,9 @@ script 39 mmbn4 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	That red Navi
-	doesn't look well!
+	O Navi vermelho
+	parece que tá
+	passando mal.
 	"""
 	keyWait
 		any = false
@@ -470,20 +483,18 @@ script 45 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	Huh? What am I doing
-	here? I can't recall
+	Hm? O que eu tô
+	fazendo aqui? Não
+	consigo me lembrar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the past few hours!
-	Hey,where did my two
+	das últimas horas!
+	Ué? Pra onde foram
+	os meus dois amigos?
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"friends go?!"
 	keyWait
 		any = false
 	end
@@ -493,24 +504,24 @@ script 46 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	No,I can't go any
-	farther. Even if I
+	Não,não posso ir lá.
+	Mesmo se eu
+	encontrasse a Mami
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	met Mami at the
-	bottom of the stairs
-	I haven't changed
+	após descer as
+	escadas,eu não
+	mudei o bastante
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	enough for her to
-	want to take me
-	back!
+	para ela me querer
+	de volta!
 	"""
 	keyWait
 		any = false
@@ -521,15 +532,15 @@ script 47 mmbn4 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	Mr.Prog was left
-	behind!
+	O Prog foi deixado
+	pra trás!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ahahahaha!
-	I crack me up!
+	Ha ha ha ha!
+	Ai,que engraçado!
 	"""
 	keyWait
 		any = false
@@ -545,15 +556,17 @@ script 50 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Visitors have clear-
-	ly stopped coming. I
+	Claramente,os
+	visitantes pararam
+	de vir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	wonder how we can
-	draw them back?
+	O que será que
+	podemos fazer para
+	atrai-los de volta?
 	"""
 	keyWait
 		any = false
@@ -568,14 +581,13 @@ script 51 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
 	msgOpen
-	"The last time I came"
+	"Da última vez que\neu vim,um incidente\nme impediu de"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	an incident stopped
-	me from having fun,
-	but not this time!
+	curtir,mas,
+	desta vez,não!
 	"""
 	keyWait
 		any = false
@@ -591,9 +603,9 @@ script 52 mmbn4 {
 		mugshot = Woman
 	msgOpen
 	"""
-	My girl kept pester-
-	ing me to bring her
-	back here,so I did!
+	A minha filha implo-
+	rou pra voltar aqui,
+	então,trouxe ela!
 	"""
 	keyWait
 		any = false
@@ -608,11 +620,11 @@ script 53 mmbn4 {
 	mugshotShow
 		mugshot = PigtailsGirl
 	msgOpen
-	"Dog! Dog!"
+	"Cachorrinho!\nCachorrinho!"
 	keyWait
 		any = false
 	clearMsg
-	"Yippee! Yippee!"
+	"Ebaaa! Eeebaaa!"
 	keyWait
 		any = false
 	end
@@ -622,9 +634,9 @@ script 55 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	If we had another
-	tournament,maybe
-	people would come⋯
+	Talvez as pessoas
+	viessem se fizésse-
+	mos outro torneio...
 	"""
 	keyWait
 		any = false
@@ -634,11 +646,11 @@ script 56 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
 	msgOpen
-	"Heh! Heh! Heh!"
+	"He! He! He!"
 	keyWait
 		any = false
 	clearMsg
-	"This is fun!"
+	"Ah,que divertido!"
 	keyWait
 		any = false
 	end
@@ -648,8 +660,8 @@ script 57 mmbn4 {
 		mugshot = Woman
 	msgOpen
 	"""
-	Let's see,where to
-	next⋯?
+	Tá,aonde nós vamos
+	agora...?
 	"""
 	keyWait
 		any = false
@@ -659,11 +671,11 @@ script 58 mmbn4 {
 	mugshotShow
 		mugshot = PigtailsGirl
 	msgOpen
-	"I wanna go to the"
+	"Eu quero ir no\ncastelo!"
 	keyWait
 		any = false
 	clearMsg
-	"castle! The castle!"
+	"Castelo! Castelo!"
 	keyWait
 		any = false
 	end
@@ -673,21 +685,22 @@ script 60 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Sorry,but the park
-	is temporarily
-	closed today.
+	Desculpe,mas o
+	parque está fechado
+	hoje.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We can't afford to
-	close it,but the 
+	Não estamos em
+	condições de
+	fechá-lo, 
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Officials made us⋯"
+	"mas foi uma ordem\ndos Oficiais..."
 	keyWait
 		any = false
 	end

@@ -9,7 +9,7 @@ script 0 mmbn4 {
 	"""
 	Um dia após o
 	ataque de ShadeMan
-	nos Navis...
+	aos Navis...
 	"""
 	keyWait
 		any = false
@@ -111,7 +111,7 @@ script 5 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	E dormi demais!
+	Eu dormi demais!
 	Será que vai dar
 	tempo?
 	"""

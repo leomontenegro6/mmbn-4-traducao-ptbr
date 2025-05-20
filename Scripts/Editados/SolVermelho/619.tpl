@@ -5,22 +5,22 @@ script 0 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	At last! Everyone,
-	the competitors are
-	finally here!
+	Chegou a hora! Ami-
+	gos,os competidores
+	finalmente chegaram!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	First,we have the
-	grade school Net-
-	Battler!
+	Primeiro NetLutador:
+	O craque do ensino
+	fundamental...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Lan!"
+	"Lan Hikari!"
 	keyWait
 		any = false
 	end
@@ -29,14 +29,14 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"And his opponent!"
+	"E enfrentando ele..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	She's young,but
-	she's got the skill!
-	Please welcome Yuko!
+	Pode ser nova,mas
+	não lhe falta poder!
+	Com vocês... Yuko!
 	"""
 	keyWait
 		any = false
@@ -46,11 +46,11 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"Huh?"
+	"Hã?"
 	keyWait
 		any = false
 	clearMsg
-	"Yuko⋯"
+	"Er,Yuko...?"
 	keyWait
 		any = false
 	end
@@ -60,8 +60,8 @@ script 3 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Wha'?!
-	How did you⋯?!
+	Ué?!
+	Como você...?!
 	"""
 	keyWait
 		any = false
@@ -73,8 +73,8 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Yuko
 	"""
-	Teehee!
-	It's time,Lan.
+	Hi hi!
+	Tá na hora,Lan.
 	"""
 	keyWait
 		any = false
@@ -86,16 +86,16 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Another totally
-	unpredictable
-	entrance.
+	De novo,uma entrada
+	que me pegou de
+	surpresa...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I won't go easy on
-	you,Yuko!
+	Bom,eu não vou pegar
+	leve,não,Yuko!
 	"""
 	keyWait
 		any = false
@@ -106,7 +106,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = Yuko
-	"Of course not!"
+	"Muito certo!"
 	keyWait
 		any = false
 	end
@@ -116,15 +116,15 @@ script 7 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	All right,let's
-	get this battle
-	started!
+	Pois bem,então,
+	vamos começar a
+	luta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan
+	Lan Hikari
 	Vs.
 	Yuko
 	"""
@@ -155,15 +155,15 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Yuko
 	"""
-	This must be my
-	last battle⋯
+	Esta vai ser minha
+	última luta...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here I go!
-	Ponta!
+	Aqui vou eu!
+	Vamos,Ponta!
 	"""
 	keyWait
 		any = false

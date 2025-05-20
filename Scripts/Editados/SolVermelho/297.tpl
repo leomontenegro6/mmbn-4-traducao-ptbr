@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	LIFE IS PRETTY
-	PEACEFUL HERE,
-	LATELY⋯
+	A VIDA TEM ESTADO
+	BEM PACÍFICA POR
+	AQUI...
 	"""
 	keyWait
 		any = false

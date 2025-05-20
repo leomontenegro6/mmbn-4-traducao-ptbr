@@ -5,9 +5,8 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Okay,
-	so we're outside.
-	Now what?
+	Bom,saímos.
+	E agora?
 	"""
 	keyWait
 		any = false
@@ -19,8 +18,8 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	We'd better not go
-	too far,right?
+	Melhor a gente não
+	ir longe demais,né?
 	"""
 	keyWait
 		any = false
@@ -32,8 +31,8 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Yeah,let's hang out
-	around here.
+	É,vamos só andar
+	por aqui.
 	"""
 	keyWait
 		any = false
@@ -45,21 +44,21 @@ script 3 mmbn4 {
 	msgOpen
 	"""
 	Arrrrgh!
-	Ouch!
+	Ai!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think I just broke
-	my shoulder bone!
+	Eu acho que eu
+	quebrei o ombro!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't even hold my
-	fork!
+	Não consigo nem
+	pegar um garfo!
 	"""
 	keyWait
 		any = false
@@ -70,7 +69,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = Riki
-	"Hey,are you okay?"
+	"Ei,você tá bem?"
 	keyWait
 		any = false
 	end
@@ -80,17 +79,16 @@ script 5 mmbn4 {
 		mugshot = Riki
 	msgOpen
 	"""
-	No,your shoulder's
-	been smashed to
-	pieces!
+	Eita! O seu ombro
+	tá em farelos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You won't be able to
-	use your right arm
-	ever again!
+	Nunca mais cê vai
+	conseguir usar o
+	braço direito!
 	"""
 	keyWait
 		any = false
@@ -101,31 +99,31 @@ script 6 mmbn4 {
 		mugshot = Riki
 	msgOpen
 	"""
-	Hey you! You crushed
-	my little brother's
-	shoulder!
+	Aí,guri! Cê
+	esmagou o ombro do
+	meu irmãozinho!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He was gonna be a
-	pro baseball player,
-	too!
+	E ele queria tanto
+	ser jogador profis-
+	sional de beisebol!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You ruined his
-	dream!
+	Cê arruinou o sonho
+	dele!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How're you gonna
-	repay him?!
+	Como pretende pagar
+	por isso?!
 	"""
 	keyWait
 		any = false
@@ -137,9 +135,9 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Repay him?
-	But he crashed
-	into me!
+	Pagar? Mas foi ele
+	que esbarrou em
+	mim!
 	"""
 	keyWait
 		any = false
@@ -150,29 +148,29 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = Riki
-	"Yeah,so?!"
+	"Tá,e daí?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He'd be okay if you
-	weren't walking
-	around here!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	First off,you'll
-	have to pay for his
-	medical expenses⋯
+	Ele teria ficado bem
+	se você não estives-
+	se andando aí!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How much should we
-	make him pay?
+	Primeiro,cê vai ter
+	que pagar as contas
+	médicas dele...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Quanto a gente faz
+	ele pagar?
 	"""
 	keyWait
 		any = false
@@ -183,14 +181,14 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
-	"100 million Zennys!"
+	"100 milhões de\nZennys!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That'd be how much
-	I would make with my
-	pro contract.
+	Essa é a grana que
+	eu faria com o con-
+	trato de beisebol.
 	"""
 	keyWait
 		any = false
@@ -202,9 +200,9 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Riki
 	"""
-	Do you really think
-	a grade school stu-
-	dent has that much?
+	Ah,irmão! Acha mesmo
+	que uma criança te-
+	ria essa grana toda?
 	"""
 	keyWait
 		any = false
@@ -216,8 +214,8 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
 	"""
-	Okay,then 100
-	thousand Zennys!
+	Tá bom,então:
+	100 mil Zennys!
 	"""
 	keyWait
 		any = false
@@ -228,18 +226,17 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	mugshotShow
 		mugshot = Riki
-	"Sounds about right."
+	"É,tá razoável."
 	keyWait
 		any = false
 	clearMsg
-	"All right then,"
+	"Beleza,então:"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you gotta pay us
-	100 thousand
-	Zennys!
+	passa logo pra cá.
+	100 mil Zennys!
 	"""
 	keyWait
 		any = false
@@ -251,8 +248,9 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	How could I possibly
-	pay you that much?!
+	Até parece que eu
+	teria esse dinheiro
+	todo!
 	"""
 	keyWait
 		any = false
@@ -263,14 +261,14 @@ script 13 mmbn4 {
 script 14 mmbn4 {
 	mugshotShow
 		mugshot = Riki
-	"You can't?"
+	"Não vai pagar?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	All right,you'll
-	have to suffer a
-	little instead!
+	Beleza. Vai ter que
+	sofrer um pouquinho,
+	então!
 	"""
 	keyWait
 		any = false
@@ -282,14 +280,14 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
 	"""
-	Hey Bro,don't you
-	mean "suffer a whole
-	lot"?
+	Não,mano...
+	Ele vai é
+	"sofrer um POUCÃO"!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Muwahahahaa!"
+	"Ah ha ha ha ha!"
 	keyWait
 		any = false
 	end
@@ -299,8 +297,8 @@ script 16 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hey,I didn't do
-	anything!
+	Ei,mas eu não fiz
+	nada!
 	"""
 	keyWait
 		any = false
@@ -312,16 +310,16 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = Riki
 	"""
-	You can pay us in
-	installments if you
-	want,I don't care.
+	Cê pode pagar par-
+	celado,se quiser.
+	Por mim,de boa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just hurry up and
-	cough up the cash!
+	Mas fala logo que
+	vai pagar!
 	"""
 	keyWait
 		any = false
@@ -331,14 +329,14 @@ script 17 mmbn4 {
 }
 script 18 mmbn4 {
 	mugshotHide
-	"Knock it off!"
+	"Calem a boca!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What kind of adult
-	are you,bullying a
-	kid like that?!
+	Que tipo de adultos
+	ficam ameaçando uma
+	criancinha assim?!
 	"""
 	keyWait
 		any = false
@@ -349,7 +347,7 @@ script 18 mmbn4 {
 script 19 mmbn4 {
 	mugshotShow
 		mugshot = Riki
-	"Who said that?!"
+	"Quem foi que falou\nisso?!"
 	keyWait
 		any = false
 	end
@@ -357,7 +355,7 @@ script 19 mmbn4 {
 script 20 mmbn4 {
 	mugshotHide
 	msgOpen
-	"Right here!!!"
+	"Aqui,ó!!!"
 	keyWait
 		any = false
 	end
@@ -367,14 +365,14 @@ script 21 mmbn4 {
 		mugshot = Tetsu
 	msgOpen
 	"""
-	You wanna mess with
-	them,you'll have to
-	mess with me first!
+	Se vão insistir,vão
+	ter que se resolver
+	comigo primeiro!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Yahhhh!!!"
+	"Iáááá!!!"
 	keyWait
 		any = false
 	end
@@ -384,8 +382,9 @@ script 22 mmbn4 {
 		mugshot = Riki
 	msgOpen
 	"""
-	No!!!
-	Who is this guy?!
+	Urgh!!!
+	Q-quem é esse
+	sujeito?!
 	"""
 	keyWait
 		any = false
@@ -397,9 +396,9 @@ script 23 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
 	"""
-	You won't get off so
-	easy next time!
-	Don't you forget it!
+	Da próxima vez,
+	cê não escapa!
+	Isto vai ter troco!
 	"""
 	keyWait
 		any = false
@@ -412,14 +411,14 @@ script 24 mmbn4 {
 		mugshot = Tetsu
 	msgOpen
 	"""
-	Any time you want
-	a rematch,I'm ready
-	for you!
+	Tô sempre pronto
+	pra brigar,quando
+	vocês quiserem!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'll be right here!"
+	"Estarei bem aqui!"
 	keyWait
 		any = false
 	end
@@ -428,7 +427,7 @@ script 25 mmbn4 {
 	mugshotShow
 		mugshot = Tetsu
 	msgOpen
-	"Are you okay?"
+	"Você tá bem?"
 	keyWait
 		any = false
 	clearMsg
@@ -438,14 +437,14 @@ script 25 mmbn4 {
 script 26 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Yes,thank you."
+	"Tô. Obrigado."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Tetsu may look
-	scary,but you're
-	actually a nice guy.
+	Você dá um pouco de
+	medo,mas,na verdade,
+	é bem gente fina.
 	"""
 	keyWait
 		any = false
@@ -456,29 +455,30 @@ script 26 mmbn4 {
 script 27 mmbn4 {
 	mugshotShow
 		mugshot = Tetsu
-	"Peh!"
+	"Tsé!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hate guys like
-	that!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I do love to fight,
-	though!
-	Muwahahahaa!
+	Eu só odeio
+	sujeitinhos como
+	aquele!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But make no mistake,
-	I won't go easy on
-	you in our battle!
+	E também adoro
+	brigar,admito!
+	Ha ha ha ha!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Mas não se engane:
+	eu não vou pegar
+	leve na nossa luta!
 	"""
 	keyWait
 		any = false
@@ -489,7 +489,7 @@ script 27 mmbn4 {
 script 28 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"No problem!"
+	"Eu faço é questão!"
 	keyWait
 		any = false
 	clearMsg
@@ -500,9 +500,9 @@ script 29 mmbn4 {
 	mugshotShow
 		mugshot = Tetsu
 	"""
-	Okay,I'm gonna head
-	over to ElecTown to
-	adjust my Navi.
+	Beleza,então. Vou
+	lá na EletroVila
+	ajustar o meu Navi.
 	"""
 	keyWait
 		any = false

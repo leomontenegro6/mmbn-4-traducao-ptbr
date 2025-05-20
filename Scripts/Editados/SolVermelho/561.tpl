@@ -14,8 +14,7 @@ script 1 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Dex,
-	What's wrong?
+	Dex? O que foi?
 	"""
 	keyWait
 		any = false
@@ -26,13 +25,13 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = Dex
-	"Huff,huff⋯"
+	"Uff,uff..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Have you seen
-	Chisao around?!
+	Cê viu o Chisao por
+	aí?!
 	"""
 	keyWait
 		any = false
@@ -44,8 +43,8 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Not around here.
-	Maybe⋯
+	Por aqui,não.
+	Não vai dizer que...
 	"""
 	keyWait
 		any = false
@@ -56,21 +55,22 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = Dex
-	"He's disappeared!"
+	"Ele sumiu!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I thought he'd be
-	around here,but⋯
+	Eu achei que ele
+	estaria por aqui,
+	mas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You don't think he's
-	been kidnapped?!
-	
+	Cê não acha que ele
+	foi sequestrado,
+	acha?! 
 	"""
 	mugshotAnimation
 		animation = 1
@@ -85,8 +85,8 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Chill,Dex.
-	That's not⋯
+	Calma,Dex.
+	Não deve ser...
 	"""
 	keyWait
 		any = false
@@ -100,7 +100,7 @@ script 6 mmbn4 {
 		value = 3
 	mugshotHide
 	soundDisableTextSFX
-	"Beep beep beep!"
+	"Bip Bip Bip!"
 	keyWait
 		any = false
 	end
@@ -109,23 +109,23 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,you got mail!"
+	"Lan,chegou e-mail!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's from⋯
-	an anonymous sender!
-	I'm gonna read it!
+	É de... um remetente
+	anônimo!
+	Eu vou ler aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"I have Chisao.\n If you want him"
+	"\"Estou com o Chisao.\n Se o quiser de\n volta,"
 	keyWait
 		any = false
 	clearMsg
-	" back,accept\n my challenge.\""
+	" aceite o meu\n desafio.\""
 	keyWait
 		any = false
 	clearMsg
@@ -136,8 +136,8 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Dex
 	"""
-	So he was
-	kidnapped?!
+	Então ele FOI
+	sequestrado?!
 	"""
 	keyWait
 		any = false
@@ -145,15 +145,15 @@ script 8 mmbn4 {
 	soundPlayBGM
 		track = 11
 	"""
-	This is terrible⋯
-	My luck's run out⋯
+	Ah,não... Não
+	acredito que isso
+	foi acontecer...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Chisao,
-	where are you!!
+	Chisao,cadê vocêêê?!
 	"""
 	keyWait
 		any = false
@@ -164,19 +164,19 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"I'll read some more."
+	"Continuando o\ne-mail..."
 	keyWait
 		any = false
 	clearMsg
-	"\"I've prepared\n several clues that"
+	"\"Preparei várias\n pistas que apontam \n minha localização."
 	keyWait
 		any = false
 	clearMsg
-	" lead to my location.\n Use them to find me.\n If you fail⋯"
+	" Use-as para me.\n encontrar.\n Se falhar..."
 	keyWait
 		any = false
 	clearMsg
-	" Chisao forfeits\n his life.\""
+	" O Chisao perde a\n vida.\""
 	keyWait
 		any = false
 	end
@@ -185,21 +185,21 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Forfeits his life?!"
+	"Perde a vida?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan! Where are
-	the clue the kid-
-	napper mentioned?!
+	MegaMan! Qual é essa
+	tal pista do
+	sequestrador?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Whoever did this is
-	gonna pay!
+	O sujeito que fez
+	isso vai pagar caro!
 	"""
 	keyWait
 		any = false
@@ -212,18 +212,18 @@ script 11 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Relax,Dex!
-	The mail also says,
-	"There is one
+	Calma,Dex!
+	O e-mail também diz:
+	"Só há uma condição:
 	"""
 	keyWait
 		any = false
 	clearMsg
-	" condition: only Lan\n can accept this\n challenge."
+	" somente Lan pode\n aceitar o desafio.\n Se mais alguém"
 	keyWait
 		any = false
 	clearMsg
-	" If anyone else\n interferes,the\n hostage dies.\""
+	" interferir,o refém\n morre.\""
 	keyWait
 		any = false
 	clearMsg
@@ -233,7 +233,7 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"What,me?!"
+	"O quê? Eu?!"
 	keyWait
 		any = false
 	end
@@ -243,20 +243,22 @@ script 13 mmbn4 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Lan! Ya gotta help!!
-	Save Chisao!
+	Lan! Cê tem que me
+	ajudar!!
+	Salva o Chisao!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If something were to
-	happen to him,I⋯
+	Se alguma coisa
+	acontecer com ele,
+	eu...!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Please help!"
+	"Por favor!"
 	keyWait
 		any = false
 	clearMsg
@@ -267,16 +269,16 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	For the last time,
-	chill,Dex!
-	I'm gonna find him!
+	Dex,pela última vez:
+	calma! Eu vou
+	encontrar ele!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Freaking out just
-	makes things worse.
+	Entrar em pânico só
+	piora as coisas.
 	"""
 	keyWait
 		any = false
@@ -288,7 +290,7 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"S-sorry⋯"
+	"F-foi mal..."
 	keyWait
 		any = false
 	end
@@ -298,8 +300,7 @@ script 16 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,
-	read the rest.
+	MegaMan,lê o resto.
 	"""
 	keyWait
 		any = false
@@ -310,23 +311,23 @@ script 16 mmbn4 {
 script 17 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"OK! It says,"
+	"Tá bom! Tá escrito:"
 	keyWait
 		any = false
 	clearMsg
-	"\"Here is the first\n clue:"
+	"\"Eis a primeira\n pista:"
 	keyWait
 		any = false
 	clearMsg
-	" OMIQR\n LANUE\n DNSA!"
+	" VHÁPÇ\n EONRA\n LLAA!"
 	keyWait
 		any = false
 	clearMsg
-	" Top to bottom."
+	" De cima a baixo."
 	keyWait
 		any = false
 	clearMsg
-	" If you can figure\n this out,the way\n will be revealed⋯\""
+	" Se conseguir deci-\n frá-la,o caminho\n será revelado...\""
 	keyWait
 		any = false
 	end
@@ -336,16 +337,17 @@ script 18 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OMIQR
-	LANUE
-	DNSA!
+	VHÁPÇ
+	EONRA
+	LLAA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And top to bottom?
-	What does that mean?
+	E "cima a baixo"?
+	O que isso quer
+	dizer?
 	"""
 	keyWait
 		any = false
@@ -357,8 +359,9 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = Dex
 	"""
-	Don't talk like that
-	Lan! Please help!
+	Não fala assim,
+	Lan! Por favor,
+	ajuda!
 	"""
 	keyWait
 		any = false
@@ -369,13 +372,14 @@ script 19 mmbn4 {
 script 20 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Don't worry! I will!"
+	"Relaxa! Eu vou!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I gotta figure
-	out the clue first.
+	Mas,primeiro,eu
+	tenho que decifrar
+	essa pista.
 	"""
 	keyWait
 		any = false

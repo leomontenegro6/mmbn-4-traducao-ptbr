@@ -6,7 +6,7 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	MegaMan,
-	You OK?!
+	você tá bem?!
 	"""
 	keyWait
 		any = false
@@ -17,21 +17,21 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Yeah,I'm fine!!"
+	"Tô,sim!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Only a diabolical
-	mind would plant
-	virus-riddled data.
+	Só uma mente muito
+	diabólica para plan-
+	tar vírus em dados.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder if
-	Chisao's OK?
+	Será que o Chisao
+	tá bem?
 	"""
 	keyWait
 		any = false
@@ -42,7 +42,7 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"I'm worried too⋯"
+	"Eu também tô\npreocupado..."
 	keyWait
 		any = false
 	clearMsg
@@ -55,7 +55,7 @@ script 3 mmbn4 {
 		value = 2
 	mugshotHide
 	soundDisableTextSFX
-	"Briiiiing!"
+	"Trrrrriiimmm!"
 	keyWait
 		any = false
 	waitOWVar
@@ -70,8 +70,9 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Phone! Don't tell me
-	it's the kidnapper?!
+	É uma ligação!
+	Será que é o
+	sequestrador?!
 	"""
 	keyWait
 		any = false
@@ -82,9 +83,8 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotHide
 	"""
-	GREETINGS. HOW DID
-	YOU LIKE MY LITTLE
-	PRESENT?
+	SAUDAÇÕES. GOSTOU
+	DO MEU PRESENTINHO?
 	"""
 	keyWait
 		any = false
@@ -96,15 +96,16 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	He's using a voice-
-	altering device.
+	Ele tá usando um
+	aparelho para mudar
+	a voz.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	For all we know,
-	"he" may be a "she"!
+	Nem dá pra saber se
+	é "ele" ou "ela"!
 	"""
 	keyWait
 		any = false
@@ -116,8 +117,8 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Why you!
-	Let Chisao go!
+	Ora,seu...!
+	Liberta o Chisao!
 	"""
 	keyWait
 		any = false
@@ -128,38 +129,38 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotHide
 	"""
-	I WILL IF YOU
-	COMPLETE THE CHAL-
-	LANGE I'VE GIVE YOU.
+	SÓ SE VOCÊ VENCER O
+	DESAFIO QUE TENHO
+	PARA VOCÊ.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'VE PLACED NUMBER
-	DATA FROM 1 TO 5
-	ACROSS THE INTERNET.
+	PLANTEI DADOS DE
+	NÚMEROS,DE 1 A 5,
+	PELA REDE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	EACH PIECE OF
-	DATA IS GUARDED
-	BY EVIL NAVIS.
+	CADA UM DELES É
+	VIGIADO POR NAVIS
+	MALIGNOS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	FIND THEM,GET ALL
-	THE NUMBER DATA,
-	THEN COME TO THE
+	ENCONTRE-OS,ADQUIRA
+	TODOS OS DADOS DE
+	NÚMEROS,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"FRONT OF THE TOWER."
+	"E DEPOIS VÁ PARA\nA FRENTE DA TORRE."
 	keyWait
 		any = false
 	clearMsg
@@ -170,8 +171,8 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Then you'll let
-	Chisao go,right!
+	Aí você vai soltar o
+	Chisao,né?!
 	"""
 	keyWait
 		any = false
@@ -181,33 +182,34 @@ script 9 mmbn4 {
 }
 script 10 mmbn4 {
 	mugshotHide
-	"YOU HAVE MY WORD."
+	"DOU MINHA PALAVRA."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BY THE WAY,THE NAVIS
-	GUARDING THE NUMBER
-	DATA THINK THAT IT'S
+	POR SINAL,OS NAVIS
+	GUARDANDO OS DADOS
+	ACHAM QUE ELES SÃO
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	QUITE VALUABLE,SO
-	THEY WON'T GIVE IT
+	EXTREMAMENTE
+	VALIOSOS,ENTÃO
+	NÃO IRÃO ABRIR MÃO
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"UP EASILY."
+	"DELES FACILMENTE."
 	keyWait
 		any = false
 	clearMsg
 	soundPlay
 		track = 209
 	soundDisableTextSFX
-	"Click!!"
+	"Clic!!"
 	wait
 		frames = 11
 	soundEnableTextSFX
@@ -222,15 +224,14 @@ script 11 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! Let's get to
-	the Internet!
+	Lan! Vamos pra Rede!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We can't afford to
-	waste any time!
+	A gente não tem
+	tempo a perder!
 	"""
 	keyWait
 		any = false
@@ -241,7 +242,7 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"OK,let's go!!"
+	"É! Vamos lá!!"
 	keyWait
 		any = false
 	end

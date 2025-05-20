@@ -4,14 +4,14 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Bass
 	msgOpen
-	"Heh heh heh⋯"
+	"He he he..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your DarkSoul has
-	given me a clue how
-	to boost my power.
+	Sua AlmaSomb me deu
+	uma pista de como
+	aumentar meu poder.
 	"""
 	keyWait
 		any = false
@@ -22,7 +22,7 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Boost your power?"
+	"Aumentar o seu\npoder?"
 	keyWait
 		any = false
 	clearMsg
@@ -33,22 +33,23 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Bass
 	"""
-	I shall immerse my-
-	self in even deeper
+	Irei me mergulhar
+	por completo em
+	trevas ainda mais
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	darkness to obtain
-	further power.
+	escuras para obter
+	mais poder.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Absolute power that
-	is invincible!
+	Um poder absoluto...
+	e invencível!
 	"""
 	keyWait
 		any = false
@@ -60,8 +61,8 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	You're gonna get
-	even more powerful?!
+	Você vai ficar ainda
+	mais forte?!
 	"""
 	keyWait
 		any = false
@@ -73,8 +74,9 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Bass
 	"""
-	Heh heh heh⋯To even
-	darker depths⋯
+	He he he... Para
+	profundezas ainda
+	mais obscuras...
 	"""
 	keyWait
 		any = false
@@ -86,7 +88,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"W-wait!!"
+	"E-espera!!"
 	keyWait
 		any = false
 	end
@@ -95,13 +97,13 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"⋯Even darker depths."
+	"... Profundezas\nainda mais obscuras."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I shall become
-	even more powerful.
+	Para se tornar ainda
+	mais forte...
 	"""
 	keyWait
 		any = false
@@ -113,16 +115,16 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I wonder if we'll be
-	strong enough to
-	deal with him?
+	Será que a gente vai
+	ser forte o bastante
+	pra vencer ele?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We've stirred up
-	a hornets' nest.
+	A gente cutucou um
+	belo de um vespeiro.
 	"""
 	keyWait
 		any = false
@@ -133,7 +135,7 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Yep."
+	"É."
 	keyWait
 		any = false
 	end

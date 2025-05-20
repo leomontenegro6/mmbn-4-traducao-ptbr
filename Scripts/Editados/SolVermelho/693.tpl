@@ -25,17 +25,16 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	That tree was your
-	doing,wasn't it
-	WoodMan?
+	Essas árvores foram
+	obra sua,não foram?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're helping the
-	Navi that fooled
-	Sal's friends?!
+	Você tá ajudando o
+	Navi que enganou os
+	amigos da Sal?!
 	"""
 	keyWait
 		any = false
@@ -53,9 +52,9 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Why?
-	Why would you make
-	Sal sad like that?!
+	Por quê? Por que
+	você magoaria a Sal
+	desse jeito?!
 	"""
 	keyWait
 		any = false
@@ -67,15 +66,16 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = WoodMan
 	"""
-	I'm doing this for
-	Sal!
+	Eu tô fazendo isto
+	PELA Sal!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	She'll understand
-	later,I know it!
+	Sei que,no fim de
+	tudo,ela vai
+	entender!
 	"""
 	keyWait
 		any = false
@@ -86,14 +86,14 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"No,she won't!"
+	"Não vai,não!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WoodMan,you're
-	participating in a
-	crime!
+	WoodMan,você tá
+	participando de
+	um crime!
 	"""
 	keyWait
 		any = false
@@ -117,24 +117,25 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Sal was crying,she
-	was so worried about
-	you!
+	A Sal tava chorando.
+	Ela tava muito
+	preocupada com você!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And you're here
-	aiding a criminal?!
+	E você tá aqui,
+	sendo cúmplice de
+	um criminoso?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No matter what the
-	results are,she
-	won't be happy!
+	Não importa o
+	resultado. Ela não
+	vai ficar feliz!
 	"""
 	keyWait
 		any = false
@@ -145,8 +146,8 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotHide
 	"""
-	What're you chatting
-	about?!
+	Que conversinha é
+	essa aí?!
 	"""
 	keyWait
 		any = false
@@ -158,16 +159,16 @@ script 8 mmbn4 {
 	msgOpen
 	"""
 	WoodMan!
-	Get rid of those
-	intruders,now!
+	Livre-se desse
+	intruso,agora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't you want to
-	protect the nature
-	that Sal loves?!
+	Não quer proteger a
+	natureza que a Sal
+	tanto ama?!
 	"""
 	keyWait
 		any = false
@@ -187,24 +188,24 @@ script 9 mmbn4 {
 	mugshotAnimation
 		animation = 2
 	"""
-	You're right.
-	What I was doing was
-	just the same as
+	Tem razão. Eu estava
+	fazendo basicamente
+	a mesma coisa que
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	what those guys who
-	destroy nature for
-	money do!
+	aqueles que destroem
+	a natureza em prol de
+	dinheiro!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	soundPlayBGM
 		track = 13
-	"I'm sorry!"
+	"Eu sinto muito!"
 	keyWait
 		any = false
 	clearMsg
@@ -216,22 +217,23 @@ script 10 mmbn4 {
 		mugshot = OfficialNavi
 	"""
 	WoodMan!!!
-	You dare betray me?!
+	Como ousa me trair?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"You'll pay for this!"
+	"Você vai pagar caro\npor isso!"
 	keyWait
 		any = false
 	clearMsg
-	"I'll blow both of"
+	"Eu vou explodir\nvocês dois"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you up with my
-	special Cyberbombs!
+	com as minhas
+	CyberBombas
+	especiais!
 	"""
 	keyWait
 		any = false
@@ -242,7 +244,7 @@ script 10 mmbn4 {
 script 11 mmbn4 {
 	mugshotShow
 		mugshot = WoodMan
-	"Argh!"
+	"Hupf!"
 	keyWait
 		any = false
 	end
@@ -251,7 +253,7 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"*kaboom!*"
+	"Aaaahhh!"
 	keyWait
 		any = false
 	end
@@ -265,9 +267,9 @@ script 13 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Let's go!
-	The match is gonna
-	start soon!
+	Vamos logo!
+	A luta tá pra
+	começar!
 	"""
 	keyWait
 		any = false
@@ -279,15 +281,15 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = WoodMan
 	"""
-	You're right,let's
-	both do our best.
+	Sim. Vamos lutar com
+	tudo,você e eu.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll go to Sal
-	first!
+	Mas,primeiro,eu vou
+	voltar pra Sal!
 	"""
 	keyWait
 		any = false

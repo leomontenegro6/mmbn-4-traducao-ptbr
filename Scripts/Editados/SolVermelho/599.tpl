@@ -3,7 +3,7 @@
 script 0 mmbn4 {
 	msgOpen
 	soundDisableTextSFX
-	"*beeboobeeboo!!!*"
+	"Bi-Bo-Bi-Biiii!!!"
 	keyWait
 		any = false
 	end
@@ -13,8 +13,8 @@ script 1 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Huh? What's that
-	sound?
+	Hã? Que barulho foi
+	esse?
 	"""
 	keyWait
 		any = false
@@ -24,13 +24,14 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Shuko
 	msgOpen
-	"I did it!"
+	"Consegui!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't believe I
-	succeeded.
+	Eu não acredito
+	que eu consegui
+	mesmo.
 	"""
 	keyWait
 		any = false
@@ -42,8 +43,8 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = AquaMan
 	"""
-	Shuko,hurry up and
-	push it! *woosh*
+	Shuko,rápido,aperta!
+	Xuá!
 	"""
 	keyWait
 		any = false
@@ -55,9 +56,9 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Shuko
 	"""
-	Okay,okay.
-	Umm⋯Let's see,
-	which one to choose⋯
+	Tá bom.
+	Er... Deixa eu ver
+	qual eu escolho...
 	"""
 	keyWait
 		any = false
@@ -77,8 +78,8 @@ script 6 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Excuse me Miss,are
-	you all right?
+	Com licença...
+	você tá bem?
 	"""
 	keyWait
 		any = false
@@ -90,9 +91,9 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Shuko
 	"""
-	Not again. I seem to
-	be destined for
-	unhappiness.
+	De novo,não... Acho
+	que estou destinada
+	à infelicidade.
 	"""
 	keyWait
 		any = false
@@ -104,9 +105,9 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = AquaMan
 	"""
-	It's because you
-	didn't press the
-	button fast enough.
+	Foi porque você não
+	apertou o botão
+	rápido o bastante.
 	"""
 	keyWait
 		any = false
@@ -117,47 +118,47 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotShow
 		mugshot = Shuko
-	"No,that's not all."
+	"Não,não foi só isso."
 	keyWait
 		any = false
 	clearMsg
 	soundPlayBGM
 		track = 12
 	"""
-	This morning I hit
-	my little finger on
-	the corner of my
+	Hoje de manhã,eu
+	bati o dedinho do
+	meu pé no armário,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	dresser,a stray dog
-	chased me after work
-	last night,and it's
+	um cachorro correu
+	atrás de mim ontem
+	depois do trabalho
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	my fault that we're
-	poor and my parents
-	are both dead.
+	e é culpa minha
+	sermos pobres e meus
+	pais terem morrido.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll grow old with-
-	out knowing what
-	happiness is like.
+	Eu vou ficar velhi-
+	nha sem nunca conhe-
+	cer a felicidade.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm such an
-	unfortunate girl!
+	Ah,que garota
+	azarada eu sou!
 	"""
 	keyWait
 		any = false
@@ -168,7 +169,7 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Er⋯umm⋯"
+	"Er... Hum..."
 	keyWait
 		any = false
 	end
@@ -178,22 +179,22 @@ script 11 mmbn4 {
 		mugshot = Shuko
 	msgOpen
 	"""
-	It's true. I was
-	born beneath an
-	unlucky star.
+	É verdade. Eu nasci
+	sob uma estrela do
+	infortúnio.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If I can win,
-	maybe I can change
-	my life around.
+	Talvez,se eu vencer,
+	eu possa mudar o
+	rumo da minha vida.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"But⋯"
+	"Mas..."
 	keyWait
 		any = false
 	clearMsg
@@ -204,29 +205,30 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = AquaMan
 	"""
-	Shuko,you worry too
-	much. *woosh woosh*
+	Shuko,você se
+	preocupa demais,
+	xuá,xuá.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wasn't going to
-	say anything,
+	Eu não ia falar
+	nada,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but Atsu and Ty are
-	both here today.
+	mas o Atsu e o Tai
+	vieram hoje.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So you better do
-	your best! *woosh*
+	Então,dê o seu
+	melhor lá! Xuá.
 	"""
 	keyWait
 		any = false
@@ -236,11 +238,11 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = Shuko
 	msgOpen
-	"Atsu and Ty?"
+	"O Atsu e o Tai?"
 	keyWait
 		any = false
 	clearMsg
-	"Where are they?!"
+	"Cadê eles?!"
 	keyWait
 		any = false
 	clearMsg
@@ -251,9 +253,9 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = AquaMan
 	"""
-	They must be in
-	front of the Dome
-	by now!
+	Devem estar na
+	frente do Domo
+	agora! Xuá.
 	"""
 	keyWait
 		any = false
@@ -265,9 +267,8 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Shuko
 	"""
-	In front of the
-	Dome? Let's go,
-	AquaMan!
+	Na frente do Domo?
+	Vamos lá,AquaMan!
 	"""
 	keyWait
 		any = false
@@ -277,7 +278,7 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = Shuko
 	msgOpen
-	"Oops,pardon me."
+	"Opa,desculpa."
 	keyWait
 		any = false
 	clearMsg
@@ -288,7 +289,7 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Ah,er⋯"
+	"Ah,er..."
 	keyWait
 		any = false
 	end
@@ -297,7 +298,7 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What an odd girl."
+	"Que moça estranha."
 	keyWait
 		any = false
 	clearMsg
@@ -308,8 +309,8 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Hey,she mentioned
-	"AquaMan".
+	Aí,ela falou
+	"AquaMan",não foi?
 	
 	"""
 	keyWait
@@ -322,16 +323,17 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	So I guess she's our
-	opponent?
+	Então,acho que ela
+	é a nossa próxima
+	oponente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't know how we
-	should deal with
-	her.
+	Nem imagino como a
+	gente vai lidar com
+	ela.
 	"""
 	keyWait
 		any = false
@@ -342,14 +344,14 @@ script 20 mmbn4 {
 script 21 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Good point."
+	"Pois é."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Anyway,Lan,let's
-	go outside and kill
-	some time.
+	Enfim,Lan,bora sair
+	um pouco pra passar
+	o tempo.
 	"""
 	keyWait
 		any = false
@@ -360,7 +362,7 @@ script 21 mmbn4 {
 script 22 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Yeah,let's go."
+	"É,vamos."
 	keyWait
 		any = false
 	end

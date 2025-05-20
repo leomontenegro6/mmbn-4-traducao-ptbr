@@ -5,8 +5,8 @@ script 0 mmbn4 {
 		mugshot = OldWomanAlt
 	msgOpen
 	"""
-	So where's Riki's
-	Navi?
+	Onde está o Navi do
+	Riki?
 	"""
 	keyWait
 		any = false
@@ -19,16 +19,16 @@ script 1 mmbn4 {
 		mugshot = ShadyGuy
 	msgOpen
 	"""
-	It's locked up in
-	the park.
+	Preso na Área
+	Parque.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've rounded up some
-	boys to stand guard.
-	No one can get in.
+	Mandei alguns homens
+	ficarem de guarda.
+	Ninguém entra.
 	"""
 	keyWait
 		any = false
@@ -40,7 +40,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = OldWomanAlt
 	msgOpen
-	"Make sure of it!"
+	"Garanta que não\nentrem mesmo!"
 	keyWait
 		any = false
 	clearMsg
@@ -51,7 +51,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
 	msgOpen
-	"Okay!"
+	"Sim,senhora!"
 	keyWait
 		any = false
 	end
@@ -61,9 +61,9 @@ script 4 mmbn4 {
 		mugshot = ShadyGuy
 	msgOpen
 	"""
-	You won't be able to
-	boss us around long,
-	old lady! Hehehe⋯
+	Não vai mais mandar
+	na gente por muito
+	tempo,velhota! He!
 	"""
 	keyWait
 		any = false

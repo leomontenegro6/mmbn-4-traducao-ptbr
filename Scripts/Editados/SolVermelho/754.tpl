@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Whoa!!"
+	"Caramba!!"
 	keyWait
 		any = false
 	end
@@ -14,8 +14,9 @@ script 1 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What's going on?!
-	It totally dried up!
+	O que tá rolando
+	aqui?!
+	Ele secou total!
 	"""
 	keyWait
 		any = false
@@ -27,8 +28,9 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = BlackWoman
 	"""
-	The river⋯
-	Our life's blood⋯
+	O rio...
+	O sangue do nosso
+	modo de vida...
 	"""
 	keyWait
 		any = false
@@ -40,8 +42,9 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = BlackMan
 	"""
-	We can't survive
-	like this.
+	Não há como
+	sobrevivermos
+	assim.
 	"""
 	keyWait
 		any = false
@@ -52,21 +55,22 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = Man
-	"Calm down,people."
+	"Gente,calma."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Someone must jack
-	into the WaterGod
+	É só alguém se
+	conectar no Deus
+	da Água e consertar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and fix the River
-	Management System.
-	That should work!
+	o Sistema de Geren-
+	ciamento do Rio.
+	Vai dar bom!
 	"""
 	keyWait
 		any = false
@@ -77,22 +81,25 @@ script 5 mmbn4 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Who'd agree to such
-	a dangerous task?!
+	Quem aceitaria uma
+	tarefa perigosa
+	dessas?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Within the WaterGod
-	is an endless laby-
+	O interior do Deus
+	da Água é um
+	labirinto
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	rinth from which
-	no one returns.
+	interminável do qual
+	ninguém jamais
+	volta.
 	"""
 	keyWait
 		any = false
@@ -103,7 +110,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = Man
-	"Oh boy⋯"
+	"Urgh..."
 	keyWait
 		any = false
 	clearMsg
@@ -113,13 +120,13 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotHide
 	"""
-	Hey,what about this
-	year's Champion?
+	Ei,que tal o Campeão
+	deste ano?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"We should send him."
+	"Devíamos enviar ele."
 	keyWait
 		any = false
 	end
@@ -128,13 +135,13 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Man
 	msgOpen
-	"The Champion?"
+	"O Campeão?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Who is it this year,
-	anyway?
+	Quem foi que venceu
+	este ano,mesmo?
 	"""
 	keyWait
 		any = false
@@ -146,8 +153,7 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = BlackKid
 	"""
-	It's that Electopian
-	over there.
+	O ni-honense aí.
 	"""
 	keyWait
 		any = false
@@ -158,7 +164,7 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = Man
-	"Huh?!"
+	"Hã?!"
 	keyWait
 		any = false
 	end
@@ -167,7 +173,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Man
 	msgOpen
-	"Really?"
+	"É mesmo?"
 	keyWait
 		any = false
 	clearMsg
@@ -177,7 +183,7 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Yep. It's me⋯"
+	"É. Fui eu..."
 	keyWait
 		any = false
 	clearMsg
@@ -188,8 +194,9 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = Man
 	"""
-	Please! You gotta
-	fix the System!
+	Por favor! Você
+	tem que consertar
+	o Sistema!
 	"""
 	keyWait
 		any = false
@@ -199,7 +206,7 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Do I have a choice?"
+	"Bom,não é como se eu\ntivesse escolha!"
 	keyWait
 		any = false
 	clearMsg
@@ -210,9 +217,9 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Man
 	"""
-	Don't worry. The
-	WaterGod's power
-	will protect you!
+	Relaxe. O poder do
+	Deus da Água vai te
+	proteger!
 	"""
 	keyWait
 		any = false
@@ -224,8 +231,8 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = BlackKid
 	"""
-	We're history with-
-	out the river.
+	Sem o rio,vamos
+	todos morrer.
 	"""
 	keyWait
 		any = false
@@ -236,19 +243,18 @@ script 16 mmbn4 {
 script 17 mmbn4 {
 	mugshotShow
 		mugshot = Man
-	"Paulie's right."
+	"O Paulie tá certo."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Our village depends
-	on the river's water
-	for its livelihood.
+	A nossa vila depende
+	da água do rio.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Please!!"
+	"Por favor!!"
 	keyWait
 		any = false
 	clearMsg
@@ -259,8 +265,9 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	How could I say no
-	after hearing that?
+	Como eu ia recusar
+	depois de ouvir
+	isso?
 	"""
 	keyWait
 		any = false
@@ -271,7 +278,7 @@ script 18 mmbn4 {
 script 19 mmbn4 {
 	mugshotShow
 		mugshot = Man
-	"Then you'll do it?!"
+	"Então você aceita?!"
 	keyWait
 		any = false
 	clearMsg
@@ -282,15 +289,17 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I'll do it to save
-	your village.
+	Claro. Vou encarar
+	essa pra salvar a
+	vila de vocês.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Should I jack into
-	that big statue?
+	É só eu me conectar
+	naquela estátua
+	grandona?
 	"""
 	keyWait
 		any = false
@@ -301,14 +310,14 @@ script 20 mmbn4 {
 script 21 mmbn4 {
 	mugshotShow
 		mugshot = Man
-	"Hold on⋯"
+	"Calma..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	First you must go
-	get the program for
-	fixing the WaterGod.
+	Primeiro,precisa do
+	programa para con-
+	sertar o DeusÁgua.
 	"""
 	keyWait
 		any = false
@@ -319,7 +328,7 @@ script 21 mmbn4 {
 script 22 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Where would that be?"
+	"E onde eu acho ele?"
 	keyWait
 		any = false
 	clearMsg
@@ -330,34 +339,34 @@ script 23 mmbn4 {
 	mugshotShow
 		mugshot = Man
 	"""
-	The NetFricaArea of
-	the Internet.
+	Na Área Affriq da
+	Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To get the
-	program "
+	Para pegar o item
+	"
 	"""
 	printItem
 		buffer = 0
 		item = 118
 	"""
 	",
-	you need a key,
+	é preciso uma chave,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	wisdom,and strength.
-	I already have the
+	sabedoria e força.
+	A chave eu já tenho.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"key,so here it is.\n"
+	"Tome.\n"
 	keyWait
 		any = false
 	clearMsg
@@ -393,29 +402,31 @@ script 25 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	You must provide the
-	wisdom and strength.
+	A sabedoria e a
+	força,é com você.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Within the WaterGod
-	is a labyrinth.
+	Dentro do Deus
+	da Água há um
+	labirinto.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Remain calm and
-	proceed slowly.
+	Mantenha a calma
+	e atravesse-o aos
+	poucos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're counting on
-	you,young Champion.
+	Contamos com você,
+	jovem Campeão.
 	"""
 	keyWait
 		any = false

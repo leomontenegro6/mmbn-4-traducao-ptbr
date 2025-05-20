@@ -11,9 +11,9 @@ script 130 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Hey! The panels on
-	the floor here are
-	raised up a bit!
+	Ah! Os quadros do
+	chão aqui estão
+	meio elevados!
 	"""
 	keyWait
 		any = false
@@ -21,9 +21,9 @@ script 130 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	It looks like my
-	memory was correct⋯
-	MegaMan,look under!
+	Se não me falha a
+	memória... MegaMan,
+	confira embaixo!
 	"""
 	keyWait
 		any = false
@@ -40,10 +40,10 @@ script 130 mmbn4 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
-	"Got it!"
+	"Peguei!"
 	keyWait
 		any = false
 	clearMsg
@@ -69,15 +69,15 @@ script 130 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	MegaMan,open the
-	door and go on!
+	MegaMan,abra a
+	porta e prossiga!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Roger!"
+	"Certo!"
 	keyWait
 		any = false
 	flagSet
@@ -96,14 +96,14 @@ script 220 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I'm a Netdealer.
-	I can't believe that
-	I opened shop here⋯
+	Sou um NetVendedor.
+	Não acredito que
+	vim vender aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Wanna see my wares?\n"
+	"Quer ver meu acervo?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -114,7 +114,7 @@ script 220 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Sure  "
+	"Tá  "
 	option
 		brackets = false
 		left = 0
@@ -123,7 +123,7 @@ script 220 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Nah"
+	"Não"
 	select
 		default = 0
 		noDelay = false
@@ -140,7 +140,7 @@ script 220 mmbn4 {
 }
 script 221 mmbn4 {
 	clearMsg
-	"Come again⋯"
+	"Volte sempre..."
 	keyWait
 		any = false
 	end
@@ -149,7 +149,7 @@ script 222 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"I'm out of stock!"
+	"Estou sem nada!"
 	keyWait
 		any = false
 	end

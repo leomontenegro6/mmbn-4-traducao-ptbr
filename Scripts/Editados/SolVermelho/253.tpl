@@ -25,7 +25,7 @@ script 0 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Take that!
+	Toma isso!
 	AreaGraaaaab!
 	WideSwrrrrrd!
 	"""
@@ -57,7 +57,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = OrangeShirtBoy
 	msgOpen
-	"What⋯?!"
+	"Quê...?!"
 	keyWait
 		any = false
 	clearMsg
@@ -73,11 +73,11 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = BlueShirtBoy
 	msgOpen
-	"Oooops! Recovery!!"
+	"Oooopa! Recov!!"
 	keyWait
 		any = false
 	clearMsg
-	"Whew,that was close⋯"
+	"Ufa,essa foi por\npouco..."
 	keyWait
 		any = false
 	end
@@ -87,7 +87,7 @@ script 6 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Take this!
+	Toma isso!
 	Cannooon!!
 	"""
 	keyWait
@@ -102,7 +102,7 @@ script 10 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"⋯and⋯Sword!!"
+	"... e... Sword!!"
 	keyWait
 		any = false
 	end
@@ -112,15 +112,14 @@ script 11 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Yikes! I've been
-	hit!
+	Putz! Fui atingido!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Time for my secret
-	weapon⋯
+	Hora da minha arma
+	secreta...
 	"""
 	keyWait
 		any = false
@@ -131,8 +130,9 @@ script 15 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Now's my chance!
-	Take this! HeatShot!
+	Essa é a minha
+	chance! Toma isso!
+	HeatShot!
 	"""
 	keyWait
 		any = false
@@ -143,15 +143,16 @@ script 16 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Here we go⋯
+	Lá vai...
 	Guard!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is it!
-	Perfect timing⋯!
+	Boa!
+	Defendi na hora
+	certa!
 	"""
 	keyWait
 		any = false
@@ -162,15 +163,16 @@ script 20 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	I⋯I lost?!
-	No way!
+	Eu... Eu perdi?!
+	Mentira!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wasn't expecting
-	a P.A. there⋯
+	Eu não esperava
+	mesmo um Programa
+	Avançado...
 	"""
 	keyWait
 		any = false
@@ -180,13 +182,13 @@ script 21 mmbn4 {
 	mugshotShow
 		mugshot = OrangeShirtBoy
 	msgOpen
-	"Heh heh⋯I win!"
+	"He he... Venci!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How do you like my
-	P.A.,huh?
+	E aí,gostou do meu
+	Programa Avançado?
 	"""
 	keyWait
 		any = false
@@ -206,15 +208,15 @@ script 25 mmbn4 {
 	mugshotShow
 		mugshot = BlueShirtBoy
 	msgOpen
-	"Let's play again!"
+	"Bora lutar de novo!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = OrangeShirtBoy
 	"""
-	You're just going
-	to lose again⋯
+	Ah,você só vai
+	perder de novo...
 	"""
 	keyWait
 		any = false
@@ -235,15 +237,15 @@ script 26 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Well,if you insist⋯
-	Let's go again!
+	Bom,se cê insiste...
+	Bora de novo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But for real,
-	this time!
+	Mas,desta vez,
+	é pra valer!
 	"""
 	keyWait
 		any = false
@@ -254,23 +256,22 @@ script 30 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	You'd better not
-	be so sure of
-	yourself⋯
+	Não vai ficando
+	convencido,não...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = OrangeShirtBoy
-	"Hah!"
+	"Ha!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sure of my
-	skills,sucker⋯
-	Let's go!
+	Eu me garanto,
+	otário...
+	Vamos lá!
 	"""
 	keyWait
 		any = false
@@ -280,20 +281,20 @@ script 31 mmbn4 {
 	mugshotShow
 		mugshot = OrangeShirtBoy
 	msgOpen
-	"Muwahahaha!"
+	"Uahahahaha!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll get all of your
-	chips!
+	Eu vou tirar todos
+	os seus chips!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = BlueShirtBoy
-	"You wish!"
+	"Até parece!"
 	keyWait
 		any = false
 	end
@@ -303,15 +304,15 @@ script 35 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Ahahahaha!
-	I win!
+	Ha ha ha ha!
+	Ganhei!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thanks for the
-	rare chip,chump!
+	Valeu pelo chip
+	raro,mané!
 	"""
 	keyWait
 		any = false
@@ -319,22 +320,22 @@ script 35 mmbn4 {
 	mugshotShow
 		mugshot = OrangeShirtBoy
 	"""
-	Th⋯That's not fair!
-	Where did you get
-	such a strong chip?!
+	N... Não é justo!
+	Onde cê conseguiu um
+	chip forte desses?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = BlueShirtBoy
-	"Ahahaha!"
+	"Ah ha ha ha!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Strategy,man⋯
-	Strategy!
+	Estratégia,cara...
+	Estratégia!
 	"""
 	keyWait
 		any = false
@@ -345,9 +346,9 @@ script 36 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Why I oughta'⋯
-	Gimme my rare chip
-	back!
+	Ora,seu...!
+	Devolve o meu chip
+	raro!
 	"""
 	keyWait
 		any = false
@@ -355,9 +356,9 @@ script 36 mmbn4 {
 	mugshotShow
 		mugshot = BlueShirtBoy
 	"""
-	No way,dude! It's
-	in my PET now,so
-	it's mine!
+	Nem vem,cara! Ele tá
+	no meu PET agora,
+	então,é meu!
 	"""
 	keyWait
 		any = false
@@ -368,21 +369,22 @@ script 50 mmbn4 {
 		mugshot = Sal
 	msgOpen
 	"""
-	I think I'll go back
-	to those two⋯
+	Acho que eu vou
+	voltar pra aqueles
+	dois...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	While there's still
-	hope,you have to do
-	what you can⋯
+	Enquanto houver es-
+	perança,devemos
+	fazer o que der...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Right,Lan?"
+	"Né,Lan?"
 	keyWait
 		any = false
 	end

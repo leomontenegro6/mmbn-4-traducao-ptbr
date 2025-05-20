@@ -5,13 +5,13 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	The igniter
-	stopped!
+	O dispositivo
+	parou!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"So far,so good."
+	"Bom..."
 	keyWait
 		any = false
 	end

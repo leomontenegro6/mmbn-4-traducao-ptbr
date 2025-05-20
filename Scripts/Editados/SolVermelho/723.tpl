@@ -5,17 +5,17 @@ script 0 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Please forgive the
-	long delay,
-	everyone.
+	Pedimos desculpas
+	pelo longo atraso,
+	meus amigos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	First,it's Raoul,
-	the Netopian
-	representative!
+	Primeiro,
+	representando a
+	Ameropa: Raoul!
 	"""
 	keyWait
 		any = false
@@ -26,8 +26,9 @@ script 1 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	And from Electopia,
-	Lan!
+	E representando
+	Ni-Hon:
+	Lan Hikari!
 	"""
 	keyWait
 		any = false
@@ -38,15 +39,17 @@ script 2 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Thanks again for
-	helping us,Raoul.
+	Obrigado de novo
+	por ajudar a gente,
+	Raoul.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But there'll be no
-	holding back,okay!
+	Mas a gente não vai
+	pegar leve hoje não,
+	viu?!
 	"""
 	keyWait
 		any = false
@@ -57,14 +60,14 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = Raoul
-	"Of course not."
+	"Nem esperaria isso."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thank you for help
-	me save the pride of
-	my tribe.
+	Agradeço por me aju-
+	dar a salvar o orgu-
+	lho da minha tribo.
 	"""
 	keyWait
 		any = false
@@ -74,14 +77,14 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
 	msgOpen
-	"Let's begin!"
+	"Começando!"
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Raoul
 	Vs.
-	Lan!
+	Lan Hikari!
 	"""
 	keyWait
 		any = false
@@ -109,13 +112,14 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = Raoul
-	"Go,ThunderMan!"
+	"Vá,ThunderMan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Shower him with
-	raging thunderbolts!
+	Cubra-o de
+	relâmpagos
+	avassaladores!
 	"""
 	keyWait
 		any = false

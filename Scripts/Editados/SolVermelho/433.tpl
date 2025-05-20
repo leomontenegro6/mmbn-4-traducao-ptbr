@@ -15,16 +15,16 @@ script 0 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Beyond here is the
-	darkest place on the
-	Net⋯the Undernet!
+	Além daqui fica a
+	parte mais sombria
+	da Rede: a Undernet!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Of course,you can't
-	get in without a
+	Mas,claro,não dá
+	para entrar sem um
 	"
 	"""
 	printItem
@@ -35,29 +35,29 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	If you're sure that
-	you want to go in⋯
+	Se quiser mesmo
+	entrar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'll have to find
-	the mysterious
-	Slider Master
+	terá que achar o
+	misterioso Mestre
+	Desliza em algum
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	somewhere in this
-	area. He's made most
-	of the "
+	ponto desta área.
+	Ele fez quase todos
+	os "
 	"""
 	printItem
 		buffer = 0
 		item = 79
-	"\"!"
+	"\"s!"
 	keyWait
 		any = false
 	flagSet
@@ -69,17 +69,17 @@ script 1 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	The Slider Master?
-	I've heard rumors
-	about him,but⋯
+	O Mestre Desliza?
+	Já ouvi boatos
+	sobre ele,mas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've never seen
-	anyone that could be
-	him⋯
+	nunca vi ninguém
+	que pudesse ser
+	ele...
 	"""
 	keyWait
 		any = false
@@ -90,23 +90,24 @@ script 2 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	So you intend to go
-	into the Undernet?
+	Você pretende entrar
+	na Undernet?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wouldn't be so
-	hasty if I were you⋯
+	Eu não teria tanta
+	pressa se fosse
+	você...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Even a cat doesn't
-	have enough lives to
-	last long in there!
+	Nem um gato tem vi-
+	das o bastante pra
+	durar muito lá!
 	"""
 	keyWait
 		any = false
@@ -132,33 +133,33 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = NaviGirlOrange
 	msgOpen
-	"The Slider Master?"
+	"O Mestre Desliza?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh,you must mean my
-	Gramps!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	But he was deleted
-	by a virus at the
-	end of last year⋯
+	Ah,o vovô!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I could make one,if
-	I had the parts!
+	Er,ele foi deletado
+	por vírus no final
+	do ano passado...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'll need 3 parts⋯"
+	"""
+	Mas eu posso fazer
+	um,se tiver as
+	peças!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Vou precisar de três\npeças..."
 	keyWait
 		any = false
 	clearMsg
@@ -185,56 +186,55 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	I guess that should
-	do it⋯
+	Acho que isso
+	bastaria...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My Gramps used
-	to make his own
-	parts⋯
+	O meu avô costumava
+	fazer suas próprias
+	peças...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I think that
-	they're only on the
-	black market,now⋯
+	Mas acho que,agora,
+	só dá pra achar elas
+	no mercado negro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can find black
-	market dealers
-	lurking on the Net⋯
+	Dá pra achar esses
+	mercadores escondi-
+	dos pela Rede...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know that there's
-	one in the YumLand
-	Area⋯
+	Eu sei que tem um na
+	Área Saborya.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh,and I think there
-	may be two in your
-	country's net!
+	Ah,e eu acho que
+	tem dois deles na
+	Rede do seu país!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Anyway,if you can
-	get the parts,I'll
-	be glad to make it.
+	Enfim,se arranjar as
+	peças,eu faço um pra
+	você,com prazer.
 	"""
 	keyWait
 		any = false
@@ -250,7 +250,7 @@ script 3 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Here!  "
+	"Toma!  "
 	option
 		brackets = false
 		left = 0
@@ -259,7 +259,7 @@ script 3 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Never mind"
+	"Esquece"
 	select
 		default = 0
 		noDelay = false
@@ -274,7 +274,7 @@ script 3 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = NaviGirlOrange
-	"I see⋯"
+	"Entendo..."
 	keyWait
 		any = false
 	end
@@ -302,24 +302,24 @@ script 4 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	Yeah,that's the 3
-	parts I need!
+	Isso! São as 3 peças
+	de que eu precisava.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here we go! Lessee,
-	stick this in here⋯
+	Vamos lá! Vejamos.
+	Eu boto isto aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯and that in there⋯"
+	"... e isto ali..."
 	keyWait
 		any = false
 	clearMsg
-	"that's it! Finished!"
+	"Pronto! Terminei!"
 	keyWait
 		any = false
 	clearMsg
@@ -354,23 +354,23 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = NaviGirlOrange
 	"""
-	Be careful with that
-	thing,now!
+	Cuidado com essa
+	coisa aí,viu?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No,no⋯You don't
-	have to pay me.
+	Não,não... Não
+	precisa me pagar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Unlike my Gramps,
-	I just make those
-	for fun.
+	Diferente do meu
+	avô,eu faço isso
+	por diversão.
 	"""
 	keyWait
 		any = false
@@ -380,7 +380,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = NaviGirlOrange
 	msgOpen
-	"Enjoy the\n"
+	"Aproveite o\n"
 	printItem
 		buffer = 0
 		item = 79
@@ -394,9 +394,9 @@ script 6 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	I'm so bored⋯
-	I wish I had more
-	parts⋯
+	Que tédio...
+	Se,ao menos,eu ti-
+	vesse mais peças...
 	"""
 	keyWait
 		any = false
@@ -407,35 +407,35 @@ script 7 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	You don't have all
-	the parts! I can't
-	make one with that!
+	Você não achou todas
+	as peças! Não dá pra
+	fazer só com essas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you don't have
-	all 3 parts,I can't
-	make it. I need:
+	Vou repetir as
+	peças de que eu
+	preciso:
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"A \""
+	"Uma \""
 	printItem
 		buffer = 0
 		item = 108
 	"""
 	",
-	a "
+	uma "
 	"""
 	printItem
 		buffer = 0
 		item = 109
 	"""
-	",
-	and a "
+	"
+	e uma "
 	"""
 	printItem
 		buffer = 0
@@ -445,33 +445,32 @@ script 7 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	The quickest way to
-	get the parts will
-	be to find dealers⋯
+	O melhor jeito para
+	comprá-las é achando
+	mercadores...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can find black
-	market dealers
-	lurking on the Net⋯
+	Mercadores do merca-
+	do negro se escondem
+	pela Rede...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know that there's
-	one in the YumLand
-	Area⋯
+	Sei que tem um na
+	Área Saborya.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh,and I think there
-	may be two in your
-	country's net!
+	Ah,e acho que tem
+	uns dois na Rede
+	do seu país!
 	"""
 	keyWait
 		any = false
@@ -482,8 +481,7 @@ script 8 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	You want me to make
-	you a
+	Quer que eu faça um
 	"
 	"""
 	printItem
@@ -494,9 +492,9 @@ script 8 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Anyway,if you can
-	get the parts,I'll
-	be glad to make it.
+	Bom,se me trouxer as
+	peças,faço pra você
+	com prazer.
 	"""
 	keyWait
 		any = false
@@ -512,7 +510,7 @@ script 8 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Here!  "
+	"Toma!  "
 	option
 		brackets = false
 		left = 0
@@ -521,7 +519,7 @@ script 8 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Never mind"
+	"Esquece"
 	select
 		default = 0
 		noDelay = false
@@ -536,7 +534,7 @@ script 8 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = NaviGirlOrange
-	"That's too bad⋯"
+	"Que pena..."
 	keyWait
 		any = false
 	end
@@ -556,16 +554,15 @@ script 10 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Are you a Navi from
-	the Sharo Space
-	Center?
+	Você é um Navi do
+	Centro Espacial de
+	Sharo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You have the P-code,
-	right?
+	Tem o código-P,né?
 	"""
 	keyWait
 		any = false
@@ -606,8 +603,8 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	All right,just use
-	this one⋯
+	Tá bom,é só usar
+	este aqui...
 	"""
 	keyWait
 		any = false
@@ -633,7 +630,7 @@ script 10 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviYellow
-	"Now don't forget it!"
+	"Não vá perder esse\ntambém!"
 	keyWait
 		any = false
 	end
@@ -642,7 +639,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Well,OK then⋯"
+	"Bom,tudo bem,\nentão..."
 	keyWait
 		any = false
 	flagSet
@@ -654,15 +651,15 @@ script 12 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	So you ARE a Space
-	Center Navi?
+	Você É um Navi do
+	Centro Espacial,né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You have the P-code,
-	right?
+	E está com o
+	código-P aí,né?
 	"""
 	keyWait
 		any = false
@@ -703,8 +700,8 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	All right,just use
-	this one⋯
+	Tá bom,é só usar
+	este aqui...
 	"""
 	keyWait
 		any = false
@@ -730,7 +727,7 @@ script 12 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviYellow
-	"Now don't forget it!"
+	"Não vá perder esse\ntambém!"
 	keyWait
 		any = false
 	end
@@ -739,25 +736,26 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Who am I?"
+	"Quem eu sou?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I used to work at
-	the Space Center!
+	Sou um
+	ex-funcionário
+	do Centro Espacial!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But now I just
-	putter around⋯
+	Mas,agora,só fico de
+	bobeira por aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Wahahaha!"
+	"Ha ha ha ha!"
 	keyWait
 		any = false
 	end
@@ -766,7 +764,7 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"I see⋯"
+	"Sei..."
 	keyWait
 		any = false
 	end
@@ -794,14 +792,17 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Hmmm⋯"
+	"""
+	Hmmm... Não sei se
+	eu conseguiria
+	destruir o
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm not sure if I
-	could destroy that
-	cutoff device⋯
+	dispositivo
+	separador.
 	"""
 	keyWait
 		any = false
@@ -812,16 +813,17 @@ script 21 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	What? YOU destroyed
-	the cutoff device?!
+	O quê? VOCÊ destruiu
+	o dispositivo
+	separador?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯So you're MegaMan!
-	You're just as good
-	as I'd heard⋯
+	... Então,você é o
+	MegaMan! É tão bom
+	quanto dizem...
 	"""
 	keyWait
 		any = false
@@ -832,17 +834,17 @@ script 25 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	The criminal who set
-	the device is still
-	on the loose.
+	O criminoso que ar-
+	mou o dispositivo
+	ainda está à solta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We have to catch him
-	before he tries
-	something else!
+	Temos que pegá-lo
+	antes que ele faça
+	outra coisa!
 	"""
 	keyWait
 		any = false
@@ -853,16 +855,17 @@ script 30 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I was contacted by
-	the Sharo Space
-	Center.
+	Fui contatado pelo
+	Centro Espacial de
+	Sharo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You have to get back
-	to NAXA,right away!
+	Você tem que voltar
+	pra NAXA agora
+	mesmo!
 	"""
 	keyWait
 		any = false
@@ -873,8 +876,8 @@ script 35 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	MegaMan,the world is
-	depending on you!
+	MegaMan,o mundo
+	depende de você!
 	"""
 	keyWait
 		any = false
@@ -887,9 +890,9 @@ script 150 mmbn4 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	So you're in
-	training huh? Want
-	to train with me?
+	Então,você tá
+	treinando,é? Quer
+	treinar comigo?
 	"""
 	keyWait
 		any = false
@@ -908,7 +911,7 @@ script 151 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Yes\n"
+	"Sim\n"
 	positionOptionVertical
 		width = 3
 	option
@@ -919,7 +922,7 @@ script 151 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"No\n"
+	"Não\n"
 	select
 		default = 0
 		noDelay = false
@@ -942,7 +945,7 @@ script 154 mmbn4 {
 	msgOpen
 	"""
 	Urgh! Argh!
-	Mmmph! Grrr!
+	Mmmpf! Grrr!
 	"""
 	keyWait
 		any = false
@@ -952,22 +955,21 @@ script 155 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviPink
 	msgOpen
-	"WHEEZE WHEEZE"
+	"ARF... ARF..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why is KendoMan so
-	tough,even on us
-	girls?!
+	Por que o KendoMan
+	pega tão pesado,até
+	com garotas?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WHEEZE WHEEZE
-	I can't believe
-	this!
+	ARF... ARF...
+	Não acredito nisso!
 	"""
 	keyWait
 		any = false
@@ -978,7 +980,7 @@ script 160 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! It's the
+	Lan! É o
 	"
 	"""
 	printItem
@@ -1015,14 +1017,14 @@ script 161 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	So you were looking
-	in this area too,
-	huh?
+	Então,você também
+	veio procurar nesta
+	área,é?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Not bad,not bad⋯"
+	"Nada mal.\nNada mal..."
 	keyWait
 		any = false
 	end

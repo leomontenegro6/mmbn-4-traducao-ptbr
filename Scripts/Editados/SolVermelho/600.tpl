@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = Shuko
 	msgOpen
 	"""
-	Hi Atsu,Ty. Long
-	time no see. How've
-	you been?
+	Oi,Atsu. Oi,Tai.
+	Há quanto tempo!
+	Como estão vocês?
 	"""
 	keyWait
 		any = false
@@ -19,8 +19,8 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Atsu
 	"""
-	We're doin' great!
-	Right,Ty?
+	A gente tá ótimo!
+	Né,Tai?
 	"""
 	keyWait
 		any = false
@@ -32,25 +32,24 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Ty
 	"""
-	Yep,as you can tell
-	lookin' at us!
-	How about you,Shuko?
+	Aham. É só olhar pra
+	gente! E você,Shuko?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yeah,we've been
-	wondering how you're
-	holding up.
+	A gente tava
+	preocupado com
+	como você tava.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Paying for our
-	tuition at that
-	school and all.
+	Sabe,com você
+	pagando a escola pra
+	gente e tudo mais...
 	"""
 	keyWait
 		any = false
@@ -62,9 +61,9 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Shuko
 	"""
-	Heheh,thanks,but
-	I'm doing fine,too.
-	As you can see!
+	He he. Obrigada,mas
+	eu também tô bem.
+	Dá pra ver,né?
 	"""
 	keyWait
 		any = false
@@ -76,15 +75,17 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Ty
 	"""
-	So Shuko,are you
-	still using that?
+	Então,Shuko...
+	Cê ainda tá usando
+	aquilo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That really noisy,
-	"wooshing" thing.
+	Aquela coisa
+	barulhenta cheia
+	dos "xuá"s.
 	"""
 	keyWait
 		any = false
@@ -95,7 +96,7 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = AquaMan
-	"Huh?!"
+	"Oi?!"
 	keyWait
 		any = false
 	clearMsg
@@ -106,16 +107,16 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Shuko
 	"""
-	Oh,that? Yeah,I
-	still use it.
+	Ah,aquilo? É,eu
+	ainda uso,sim.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's really noisy,
-	always makes that
-	"woosh woosh" noise.
+	É tão barulhenta,
+	com todo aquele
+	"xuá,xuá"...
 	"""
 	keyWait
 		any = false
@@ -127,32 +128,32 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Atsu
 	"""
-	Anyway,we wanted
-	to talk to you about
-	something.
+	Enfim,a gente queria
+	falar uma coisa
+	contigo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're such a good
-	sister to us,we
-	got you a new one.
+	Como você é uma irmã
+	incrível,a gente te
+	comprou uma nova.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's go have a look
-	after this tourney.
+	Vem conferir ela
+	depois do torneio.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't worry about
-	money,we both took
-	a job to save up.
+	E não esquenta com a
+	grana. A gente eco-
+	nomizou no trabalho.
 	"""
 	keyWait
 		any = false
@@ -163,22 +164,21 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = Shuko
-	"You did⋯?"
+	"Economizaram...?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thank you! I've been
-	wanting a new one
-	for a long time.
+	Obrigada! Faz tempo
+	que eu tava querendo
+	uma nova.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The one I have now
-	says "woosh" all the
-	time.
+	A que eu tenho faz
+	muito "xuá".
 	"""
 	keyWait
 		any = false
@@ -189,7 +189,7 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotShow
 		mugshot = AquaMan
-	"So?"
+	"..."
 	keyWait
 		any = false
 	clearMsg
@@ -200,9 +200,9 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Ty
 	"""
-	It's decided,then!
-	Throw it away after
-	the tournament!
+	Tá decidido,então!
+	Joga ela fora depois
+	do torneio!
 	"""
 	keyWait
 		any = false
@@ -214,9 +214,9 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = AquaMan
 	"""
-	Throw away?
-	They're gonna throw
-	me away? *woosh*
+	Jogar fora?
+	Eles vão me jogar
+	fora? Xuá...
 	"""
 	keyWait
 		any = false
@@ -228,16 +228,16 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = Shuko
 	"""
-	Throw it away,hah!
-	I can't wait!
+	Ai,mal posso esperar
+	pra jogar ela fora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Okay,I have to go
-	to the Net now.
-	Root for me,okay?
+	Tá,gente,tenho que
+	ir pra Rede agora.
+	Torçam por mim!
 	"""
 	keyWait
 		any = false
@@ -248,7 +248,7 @@ script 12 mmbn4 {
 script 13 mmbn4 {
 	mugshotShow
 		mugshot = Atsu
-	"Good luck,Sis!"
+	"Boa sorte,mana!"
 	keyWait
 		any = false
 	clearMsg
@@ -259,9 +259,9 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = Ty
 	"""
-	We'll be cheering
-	for you from the
-	stands!
+	Vamos torcer por
+	você com tudo das
+	arquibancadas!
 	"""
 	keyWait
 		any = false
@@ -272,15 +272,15 @@ script 15 mmbn4 {
 		mugshot = Ty
 	msgOpen
 	"""
-	*woosh woosh*
-	It sure is noisy⋯
+	"Xuá,xuá"...
+	Faz tanto barulho...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That dang washing
-	machine!
+	Aquela bendita
+	máquina de lavar!
 	"""
 	keyWait
 		any = false
@@ -292,9 +292,9 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = Atsu
 	"""
-	Shuko looked so
-	happy. I'm glad we
-	came today!
+	A Shuko ficou tão
+	feliz. Que bom que
+	viemos hoje!
 	"""
 	keyWait
 		any = false
@@ -307,7 +307,7 @@ script 17 mmbn4 {
 	soundDisableTextSFX
 	soundPlay
 		track = 156
-	"*beep beep beep*"
+	"Bip Bip Bip"
 	wait
 		frames = 60
 	keyWait
@@ -318,13 +318,13 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = Atsu
 	msgOpen
-	"Phone call!"
+	"Opa,uma ligação!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sis!
-	What is it?
+	Mana!
+	Que foi?
 	"""
 	keyWait
 		any = false
@@ -333,7 +333,7 @@ script 18 mmbn4 {
 		timer = 0
 		value = 5
 	soundStopBGM
-	"No!!!"
+	"Não!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -344,7 +344,7 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = Ty
 	msgOpen
-	"What's wrong?"
+	"O que foi?"
 	keyWait
 		any = false
 	clearMsg
@@ -355,24 +355,25 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = Atsu
 	"""
-	It's AquaMan! He
-	heard us talking!
+	É o AquaMan!
+	Ele ouviu a gente
+	conversando,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now he thinks we're
-	planning on throwing
-	him away!
+	e agora acha que a
+	gente pretende jogar
+	ele fora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He went off to the
-	Net,crying like a
-	baby.
+	Ele saiu correndo
+	Rede adentro,se
+	acabando de chorar.
 	"""
 	keyWait
 		any = false
@@ -383,20 +384,20 @@ script 20 mmbn4 {
 script 21 mmbn4 {
 	mugshotShow
 		mugshot = Ty
-	"He's crying?"
+	"Ele tá chorando?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh,no⋯
-	That's horrible!
+	Essa não...
+	Que péssimo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Atsu,did you bring
-	a "
+	Atsu,cê trouxe um
+	"
 	"""
 	printItem
 		buffer = 0
@@ -412,9 +413,9 @@ script 22 mmbn4 {
 	mugshotShow
 		mugshot = Atsu
 	"""
-	Yes,but if he went
-	to the Net⋯
-	The Net must be⋯
+	Trouxe,mas,se ele
+	foi pra Rede...
+	Ela deve estar...
 	"""
 	keyWait
 		any = false
@@ -427,16 +428,16 @@ script 23 mmbn4 {
 		mugshot = Ty
 	msgOpen
 	"""
-	I'll go look for
+	Eu vou atrás da
 	Shuko!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Atsu,you go look
-	for someone who can
-	help out!
+	Atsu,tenta achar
+	alguém que possa
+	ajudar!
 	"""
 	keyWait
 		any = false
@@ -447,7 +448,7 @@ script 23 mmbn4 {
 script 24 mmbn4 {
 	mugshotShow
 		mugshot = Atsu
-	"All right!"
+	"Tá bom!"
 	keyWait
 		any = false
 	end

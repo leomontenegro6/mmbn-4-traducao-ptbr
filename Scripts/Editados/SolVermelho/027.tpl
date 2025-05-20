@@ -9,24 +9,24 @@ script 0 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Jo-Jo⋯Jojo⋯
+	Jo-Jo... Jojo...
 	Jooomooon!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hi! Welcome to
-	JomonElec's HP! This
-	free BBS is open to
+	Olá! Bem-vindos à
+	Página da Jomon!
+	Este Fórum é para
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	all our customers.
-	Please use it to
-	talk about anything!
+	todos os nossos cli-
+	entes. Usem-no à
+	vontade!
 	"""
 	keyWait
 		any = false
@@ -41,25 +41,25 @@ script 1 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Hi! I came to look
-	at refrigerators
-	with my wife today,
+	Oi! Vim ver umas
+	geladeiras com a
+	minha esposa hoje
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	when we saw some
-	brand new PETs on
-	display! The new
+	e vi ums PETs
+	novinhos na vitrine!
+	Os novos modelos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	models are wireless
-	and compact. We got
-	a matching pair!
+	são wireless e com-
+	pactos. Compramos
+	dois,um pra cada!
 	"""
 	keyWait
 		any = false
@@ -73,28 +73,30 @@ script 2 mmbn4 {
 	positionArrow
 		left = 202
 		top = 108
-	"Those new PETs are"
+	"Esses novos PETs são\nirados!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	sweet! I hear Dr.
-	Hikari himself
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	teamed up with Mr.
-	Famous to develop
-	them! Their cases
+	Ouvi dizer que o
+	próprio Dr. Hikari
+	colaborou com o
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	slide open at the
-	touch of a button!
+	Sr. Famoso para
+	desenvolvê-los!
+	Ele se abrem de um
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	jeito tão elegante,
+	só apertando um
+	botão!
 	"""
 	keyWait
 		any = false
@@ -109,29 +111,29 @@ script 3 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Hey all!
-	My girlfriend and I
-	came to buy a game
+	Fala,gente! Minha
+	namorada e eu viemos
+	comprar um jogo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	today,when I saw you
-	can jack into this
-	HP right from the
+	e foi aí que eu vi
+	que dá pra se conec-
+	tar a esta página
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"items on display!"
+	"direto dos produtos\nna vitrine!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Way cool! I'm gonna
-	try jacking into all
-	kinds of things! 
+	Que legal! Vou sair
+	me conectando em
+	tudo quanto é coisa!
 	"""
 	keyWait
 		any = false
@@ -146,31 +148,32 @@ script 4 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Hello. My boyfriend
-	dragged me along
-	with him today. He's
+	Oi. Meu namorado me
+	arrastou pra cá
+	hoje. O gênio tá
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	trying to jack into
-	everything! I'm
-	ready to go home!
+	tentando se conec-
+	tar em tudo! Eu já
+	quero é ir pra casa!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why is it men never
-	get tired of
+	Por que é que os
+	homens nunca se
+	cansam de fazer
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	shopping in
-	ElecTown?
+	compras na
+	EletroVila?
 	"""
 	keyWait
 		any = false
@@ -185,31 +188,32 @@ script 5 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	I came to buy a
-	digital camera
+	Eu vim hoje comprar
+	uma câmera digital.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	today. I'm glad this
-	HP is so close to
+	Que bom que esta
+	página fica tão
+	perto da Área Vila!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the Town Area! Now
-	I'm jacked into the
-	TV outside. I can't
+	Estou agora conecta-
+	do à TV na rua. Não
+	dá para chegar nesta
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	reach this HP from
-	the AC LCD monitor
-	up above.
+	página a partir do
+	monitor LCD publici-
+	tário lá em cima.
 	"""
 	keyWait
 		any = false
@@ -224,16 +228,17 @@ script 6 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	I come to JomonElec
-	a lot,and I always
+	Eu venho na Jomon
+	Eletrônicos direto,
+	e sempre vejo esse
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	see the same old man
-	inside. He must love
-	electronics!
+	mesmo senhorzinho
+	na loja. Ele deve
+	adorar eletrônicos!
 	"""
 	keyWait
 		any = false
@@ -248,23 +253,24 @@ script 7 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	I see that guy a lot
-	too! I think he's
+	Eu também vejo aque-
+	le tiozinho direto!
+	Ele deve ser o chefe
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	JomonElec's Chief!
-	It's nice to see the
+	da Jomon
+	Eletrônicos! É tão
+	legal ver um dono de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	top boss interacting
-	with customers like
-	that.
+	loja interagindo com
+	os fregueses assim.
 	"""
 	keyWait
 		any = false
@@ -279,41 +285,41 @@ script 8 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	The other day I got
-	a new PET and a 
-	NaviCust set,but the
+	Outro dia,comprei um
+	novo kit Navi com
+	CustNavi,mas o PET
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PET malfunctioned,so
-	when I asked Jomon
-	for a refund,they
+	deu defeito. Quando
+	eu vim trocar ele na
+	Jomon,um atendente
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	explained to me I
-	didn't place my
-	program above the
+	me explicou que eu
+	não tinha colocado
+	o programa sobre a
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Command Line! How
-	embarrassing! I
-	thought it was a
+	Linha de Comando!
+	Ai,que vergonha! Eu
+	achei que era uma
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Plus Parts! Programs
-	have to go above the
-	Command Line.
+	Peça Plus! Os pro-
+	gramas a gente bota
+	em cima da linha.
 	"""
 	keyWait
 		any = false
@@ -327,22 +333,22 @@ script 9 mmbn4 {
 	positionArrow
 		left = 202
 		top = 108
-	"I feel your pain!"
+	"Conheço bem essa\ndor!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I often mistakenly
-	place programs of
-	identical colors
+	Eu vivo colocando
+	programas da mesma
+	cor grudados um no
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	side-by-side. My
-	Navi always gets
-	mad!
+	outro por engano.
+	O meu Navi sempre
+	fica bravo comigo!
 	"""
 	keyWait
 		any = false
@@ -357,27 +363,29 @@ script 10 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	The other day I
-	installed a program
+	Outro dia,eu
+	instalei um programa
+	que um amigo me deu.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	my friend gave me.
-	My Navi didn't get
+	O meu Navi não ficou
+	nem um pouco mais
+	forte,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	stronger,but he
-	started telling
+	só começou a me
+	contar piadas!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"jokes! Weird⋯"
+	"Tão estranho..."
 	keyWait
 		any = false
 	waitHold
@@ -391,22 +399,22 @@ script 11 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	That sounds like the
-	"Humor" program. I
-	hear Mr.Famous
+	Parece ser o progra-
+	ma "Piadas". Parece
+	que foi o Sr. Famoso
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	designed it himself
-	to make conversation
-	with Navis more
+	quem criou ele,pra
+	deixar conversas
+	com Navis um pouco
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"interesting."
+	"mais interessantes."
 	keyWait
 		any = false
 	waitHold
@@ -420,20 +428,22 @@ script 12 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	JomonElec has an
-	impressive selection
+	A Jomon Eletrônicos
+	tem uma variedade
+	impressionante,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	of goods,but I'd
-	like to see some
+	mas queria que
+	vendessem mais
+	chips de NetLuta
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"more BattleChips."
+	"aqui."
 	keyWait
 		any = false
 	waitHold
@@ -447,33 +457,33 @@ script 13 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Hello! This is the
-	JomonElec BBS
-	administrator! Due
+	Olá! Aqui é o admi-
+	nistrador do Fórum
+	da JomonElet!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to our recent
-	opening,we have not
-	yet been able to
+	Como inauguramos há
+	pouco tempo,ainda
+	não começamos a
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	stock many non-
-	appliance wares. 
-	Rest assured,in the
+	vender muitas coisas
+	fora eletrodomésti-
+	cos. Mas não se
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	near future we will
-	offer a wider
-	variety of Chips!
+	preocupe: logo
+	disponibilizaremos
+	mais chips!
 	"""
 	keyWait
 		any = false
@@ -488,25 +498,25 @@ script 14 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	If you want Battle
-	Chips,Higsby's in
-	ACDC Town is the
+	Se tá atrás de
+	chips,a loja do
+	Higsby,em ACDC,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	place to go! He can
-	even order out-of-
-	stock chips now! If
+	é o que há! Ele até
+	encomenda chips in-
+	disponíveis agora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it's in your Data
-	Library,you can get
-	it at Higsby's!
+	Se você tem na
+	Coleção,a Loja do
+	Higsby te arranja!
 	"""
 	keyWait
 		any = false
@@ -521,23 +531,25 @@ script 15 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Higsby's? I've heard
-	of that place⋯The
+	Loja do Higsby?
+	Acho que já ouvi
+	falar dessa...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	owner talks funny,
-	right? Thanks a lot!
+	O dono tem esse
+	tique de fala engra-
+	çado,né? Valeu!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll have to check
-	it out and order
-	some chips!
+	Com certeza irei lá
+	encomendar uns
+	chips!
 	"""
 	keyWait
 		any = false

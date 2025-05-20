@@ -35,14 +35,14 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Still,it's hard to
-	imagine it was
-	moved⋯
+	Mas não acho que eu
+	tenha errado o
+	lugar...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"No more clues?"
+	"Não tem mais nenhuma\noutra pista?"
 	keyWait
 		any = false
 	flagSet
@@ -92,8 +92,8 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	msgOpen
 	"""
-	As flores desabro-
-	charam por completo.
+	Flores desabrochadas
+	por completo.
 	É esplêndido.
 	"""
 	keyWait
@@ -259,7 +259,8 @@ script 13 mmbn4 {
 	msgOpen
 	"""
 	Essa mesa deve ser
-	usada para reuniões.
+	usada para assuntos
+	da organização.
 	"""
 	keyWait
 		any = false
@@ -320,14 +321,14 @@ script 18 mmbn4 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	Esta porta leva às
+	Este portão leva às
 	arquibancadas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	É uma senhora porta.
+	É um senhor portão.
 	"""
 	keyWait
 		any = false
@@ -346,7 +347,7 @@ script 19 mmbn4 {
 	"""
 	... Olha só!
 	Dá para se conectar
-	nela!
+	nele!
 	"""
 	keyWait
 		any = false
@@ -360,7 +361,7 @@ script 20 mmbn4 {
 	msgOpen
 	"""
 	Tem alguma coisa
-	piscando dentre as
+	brilhando dentre as
 	latinhas.
 	"""
 	keyWait
@@ -404,8 +405,8 @@ script 22 mmbn4 {
 	msgOpen
 	"""
 	Tem alguma coisa
-	pendurada na
-	maçaneta...
+	pendurada nas
+	barras...
 	"""
 	keyWait
 		any = false

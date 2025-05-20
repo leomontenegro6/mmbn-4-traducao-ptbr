@@ -20,7 +20,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Am I hearing things?"
+	"Será que eu tô\nouvindo coisas?"
 	keyWait
 		any = false
 	end
@@ -36,7 +36,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯?"
+	"...?"
 	keyWait
 		any = false
 	clearMsg
@@ -46,7 +46,7 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Lan,I heard it too."
+	"Eu também ouvi,Lan."
 	keyWait
 		any = false
 	clearMsg
@@ -57,9 +57,9 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	What is this? How
-	freaky! Where's that
-	voice coming from?
+	Ué? Que medo! De
+	onde será que essa
+	voz tá vindo?!
 	"""
 	keyWait
 		any = false
@@ -69,7 +69,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yaaaarrgh!"
+	"Uaaaargh!"
 	keyWait
 		any = false
 	clearMsg
@@ -80,8 +80,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Yuko
 	"""
-	Heheh,did I surprise
-	you?
+	Hehe,te assustei?
 	"""
 	keyWait
 		any = false
@@ -93,8 +92,8 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	H-how did you get
-	here?
+	C-como cê chegou
+	aqui?
 	"""
 	keyWait
 		any = false
@@ -106,9 +105,9 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Yuko
 	"""
-	Hey Lan,you're
-	MegaMan's operator,
-	aren't you?
+	Lan Hikari. Você é o
+	operador de
+	MegaMan.EXE,né?
 	"""
 	keyWait
 		any = false
@@ -119,7 +118,7 @@ script 10 mmbn4 {
 script 11 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Yes,so?"
+	"Sou. Por quê?"
 	keyWait
 		any = false
 	clearMsg
@@ -130,8 +129,8 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = Yuko
 	"""
-	I'm Ponta's
-	operator,Yuko!
+	Eu sou Yuko,a
+	operadora do Ponta!
 	"""
 	keyWait
 		any = false
@@ -144,8 +143,8 @@ script 13 mmbn4 {
 		mugshot = Lan
 	"""
 	Ponta?
-	So you're our next
-	opponent?
+	Então você é a nossa
+	adversária?
 	"""
 	keyWait
 		any = false
@@ -156,26 +155,26 @@ script 13 mmbn4 {
 script 14 mmbn4 {
 	mugshotShow
 		mugshot = Yuko
-	"That's right!"
+	"Aham!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've always wanted
-	to do a NetBattle
-	with a strong,nice,
+	Eu sempre quis Net-
+	Lutar contra um Navi
+	forte,gente boa
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	handsome Navi,
-	like MegaMan!
+	e bonitão como o
+	MegaMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm so happy!"
+	"Tô tão feliz!"
 	keyWait
 		any = false
 	clearMsg
@@ -186,21 +185,21 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Um,heheh,I think
-	you may be over-
-	estimating me a bit.
+	Er,he he,acho que cê
+	tá superestimando a
+	gente um pouco.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Teehee,you're making
-	me blush!
+	Assim eu fico
+	vermelho!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Right,MegaMan?"
+	"Né,MegaMan?"
 	keyWait
 		any = false
 	clearMsg
@@ -210,13 +209,12 @@ script 15 mmbn4 {
 script 16 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Huh?"
+	"Hã?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Uh,yes.
-	Right.
+	Er,é. Isso.
 	"""
 	keyWait
 		any = false
@@ -228,14 +226,14 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = Yuko
 	"""
-	Hey Lan,do you
-	have time to spare
-	before the match?
+	Ei,Lan: você tá com
+	tempo livre até a
+	luta?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's go hang out!"
+	"Vamos brincar!"
 	keyWait
 		any = false
 	clearMsg
@@ -246,9 +244,9 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Uh,sure,I don't
-	have any plans or
-	anything. Let's go!
+	Er,pode ser. Eu não
+	tenho nenhum plano.
+	Vamos lá!
 	"""
 	keyWait
 		any = false
@@ -260,8 +258,9 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = Yuko
 	"""
-	Yea!
-	I'll be waiting!
+	Legal!
+	Vou ficar esperando
+	lá fora!
 	"""
 	keyWait
 		any = false
@@ -271,7 +270,7 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Huh?!"
+	"Ué?"
 	keyWait
 		any = false
 	end
@@ -281,9 +280,9 @@ script 21 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Is it just nerves,
-	or am I getting a
-	little tired?
+	É só nervosismo,ou
+	eu tô ficando meio
+	cansado?
 	"""
 	keyWait
 		any = false
@@ -294,7 +293,7 @@ script 21 mmbn4 {
 script 22 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Lan⋯"
+	"Lan..."
 	keyWait
 		any = false
 	end
@@ -304,8 +303,8 @@ script 23 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah?
-	What is it,MegaMan?
+	Sim?
+	Que foi,MegaMan?
 	"""
 	keyWait
 		any = false
@@ -317,24 +316,25 @@ script 24 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	How do I put this⋯
-	I dunno for sure,
+	Bem,é que...
+	Eu não sei bem como
+	explicar,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but I've got a
-	strange feeling
-	about that girl.
+	mas tô com uma sen-
+	sação estranha quan-
+	to a essa menina.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's something
-	about her that's
-	the same as me.
+	Tem alguma coisa
+	nela... que é igual
+	a mim.
 	"""
 	keyWait
 		any = false
@@ -346,8 +346,8 @@ script 25 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	The same as you?
-	What do you mean?
+	Igual a você?
+	Que papo é esse?
 	"""
 	keyWait
 		any = false
@@ -367,17 +367,17 @@ script 26 mmbn4 {
 	mugshotAnimation
 		animation = 2
 	"""
-	Never mind. Sorry
-	for talking
-	nonsense.
+	Esquece. Desculpa
+	por falar essas
+	abobrinhas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Anyway,let's go!
-	Yuko is waiting for
-	us outside!
+	Enfim,vamos lá!
+	A Yuko tá esperando
+	a gente lá fora!
 	"""
 	keyWait
 		any = false

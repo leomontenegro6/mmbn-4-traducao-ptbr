@@ -6,7 +6,7 @@ script 0 mmbn4 {
 	msgOpen
 	mugshotAnimation
 		animation = 2
-	"Gulp!!"
+	"Uck!!"
 	keyWait
 		any = false
 	end
@@ -15,7 +15,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Who's there?!"
+	"Quem tá aí?!"
 	keyWait
 		any = false
 	clearMsg
@@ -26,8 +26,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan,
-	What's wrong?!
+	Lan,o que foi?!
 	"""
 	keyWait
 		any = false
@@ -38,7 +37,7 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Yikes!!"
+	"Aahh!!"
 	keyWait
 		any = false
 	clearMsg
@@ -48,8 +47,8 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotHide
 	"""
-	Did you sense⋯
-	⋯my threat?
+	Você sentiu...
+	a minha presença?
 	"""
 	keyWait
 		any = false
@@ -60,8 +59,9 @@ script 5 mmbn4 {
 		mugshot = Raika
 	msgOpen
 	"""
-	You're sharper than
-	I expected⋯Lan.
+	É mais afiado do que
+	eu esperava...
+	Lan Hikari.
 	"""
 	keyWait
 		any = false
@@ -71,7 +71,7 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯You know who I am?"
+	"... Você sabe quem\neu sou?"
 	keyWait
 		any = false
 	clearMsg
@@ -82,8 +82,9 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Raika
 	"""
-	I'm Raika,
-	SerchMan's operator.
+	Eu sou Raika,
+	o operador do
+	SearchMan.
 	"""
 	keyWait
 		any = false
@@ -95,28 +96,28 @@ script 8 mmbn4 {
 	soundPlayAreaBGM
 	mugshotShow
 		mugshot = Lan
-	"Oh,I see."
+	"Ah,entendi."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I was surprised by
-	that threat I sensed
-	a moment ago.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	You came all this
-	way just to say hi?
+	Eu levei um susto
+	com o perigo que eu
+	senti ainda agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's make it a
-	good,all-out battle!
+	Você veio até aqui
+	só pra dar um "alô"?
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Bom,que a nossa luta
+	seja boa!
 	"""
 	keyWait
 		any = false
@@ -126,7 +127,7 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Raika
 	msgOpen
-	"What's that?"
+	"O que é isso?"
 	keyWait
 		any = false
 	clearMsg
@@ -136,13 +137,13 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"A handshake."
+	"... Um aperto de\nmão,oras!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's battle fair
-	and square!
+	Vamos ter uma luta
+	limpa!
 	"""
 	keyWait
 		any = false
@@ -154,8 +155,8 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Raika
 	"""
-	⋯I think you got
-	the wrong idea.
+	... Sinto que você
+	entendeu errado.
 	"""
 	keyWait
 		any = false
@@ -166,13 +167,14 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Whadaya mean?!"
+	"Como assim?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I just want it to be
-	fair and square⋯
+	Eu só quero que a
+	disputa seja
+	justa...
 	"""
 	keyWait
 		any = false
@@ -183,40 +185,41 @@ script 12 mmbn4 {
 script 13 mmbn4 {
 	mugshotShow
 		mugshot = Raika
-	"That's all I meant."
+	"E esse é o\nproblema."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You think a NetBat-
-	tle is a sport?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Well listen up.
-	It's war.
+	Acha que NetLuta
+	é um esporte?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A life and death
-	battle of Navis.
+	Pois preste atenção:
+	NetLuta é guerra.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do soldiers at war
-	with each other smi-
-	le and shake hands?
+	Uma batalha de
+	vida ou morte
+	entre Navis.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What a simpleton⋯"
+	"""
+	Em uma guerra,
+	soldados apertam
+	as mãos e sorriem?
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Tão simplório..."
 	keyWait
 		any = false
 	clearMsg
@@ -227,7 +230,7 @@ script 13 mmbn4 {
 script 14 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Why you⋯!"
+	"Ora,seu...!"
 	keyWait
 		any = false
 	end
@@ -236,7 +239,7 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Say it again,and⋯"
+	"Repete isso que\neu..."
 	keyWait
 		any = false
 	end
@@ -265,23 +268,23 @@ script 18 mmbn4 {
 		mugshot = Raika
 	msgOpen
 	"""
-	An enemy showing up
-	before the battle
-	means⋯
+	Um inimigo aparecen-
+	do antes da luta
+	significa...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯A declaration of
-	war!
+	... uma declaração
+	de guerra!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And the war
-	has just begun!!
+	E a guerra está só
+	começando!!
 	"""
 	keyWait
 		any = false
@@ -292,7 +295,7 @@ script 18 mmbn4 {
 script 19 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"⋯Grrr⋯"
+	"... Grrr..."
 	keyWait
 		any = false
 	clearMsg
@@ -304,7 +307,7 @@ script 20 mmbn4 {
 	soundDisableTextSFX
 	soundPlay
 		track = 156
-	"Briiiiing!"
+	"Trrrriiiimmm!"
 	wait
 		frames = 60
 	soundEnableTextSFX
@@ -316,43 +319,45 @@ script 21 mmbn4 {
 	mugshotShow
 		mugshot = Raika
 	msgOpen
-	"Raika here."
+	"Raika falando."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯Mr.President. Nice
-	to hear from you.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	⋯The crime
-	syndicate's hideout
-	has been located?
+	... Sr. Presidente.
+	É bom ouvir notícias
+	suas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's in Undernet6?
-	That's my territory.
+	... O esconderijo do
+	sindicato criminoso
+	foi localizado?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll go finish them
-	off immediately.
-	Yes sir.
+	Undernet 6?
+	É o meu território.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll fill you in
-	at SpaceCtr.
+	Acabarei com eles
+	imediatamente.
+	... Sim,senhor.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Darei mais
+	informações no
+	no Centro Espacial.
 	"""
 	keyWait
 		any = false
@@ -363,7 +368,7 @@ script 21 mmbn4 {
 script 22 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Where're you going?!"
+	"Aonde é que cê vai?!"
 	keyWait
 		any = false
 	clearMsg
@@ -374,15 +379,15 @@ script 23 mmbn4 {
 	mugshotShow
 		mugshot = Raika
 	"""
-	Mind your own
-	business.
+	Cuide da sua vida.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sweet dreams
-	till the match.
+	E continue com
+	esses seus sonhos
+	até a luta.
 	"""
 	keyWait
 		any = false
@@ -392,7 +397,7 @@ script 24 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"C-c-curse you⋯"
+	"M-m-m-maldito...!"
 	keyWait
 		any = false
 	clearMsg
@@ -403,8 +408,7 @@ script 25 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan,you mustn't
-	move!!
+	Lan,não se mexe!!
 	"""
 	keyWait
 		any = false
@@ -416,16 +420,16 @@ script 26 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	But I can't let him
-	get away with this!
-	I⋯can't⋯fight!!
+	Mas não posso deixar
+	por isso mesmo!
+	Não dá pra lutar...!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I WILL make him
-	pay for this.
+	Eu VOU fazer ele
+	pagar por isso!
 	
 	"""
 	mugshotAnimation
@@ -440,7 +444,7 @@ script 26 mmbn4 {
 script 27 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"⋯Lan."
+	"... Lan..."
 	keyWait
 		any = false
 	clearMsg
@@ -451,8 +455,9 @@ script 28 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	After him!
-	We must get Raika!
+	Atrás dele!
+	A gente tem que
+	alcançar o Raika!
 	"""
 	keyWait
 		any = false

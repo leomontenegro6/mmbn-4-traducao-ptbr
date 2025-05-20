@@ -15,48 +15,47 @@ script 40 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"Hey! It's Lan!"
+	"Ah! É o Lan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have a folder that
-	I'm supposed to give
-	to great Battlers⋯
+	Tenho uma pasta aqui
+	feita para grandes
+	NetLutadores...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"This \""
+	"Esta \""
 	printFolderName
 		buffer = 0
 		entry = 5
 	"""
 	"
-	was made by
-	Mr.Famous Battler⋯
+	foi feita pelo
+	Sr. Famoso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do you want to try
-	it out?
+	Quer experimentá-la?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you take it,it
-	overwrite your
-	current SpareFolder⋯
+	Se levá-la,ela
+	sobrescreverá sua
+	PastaExtra atual...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But if that's OK,you
-	can have this
+	Mas,se concordar,
+	pode ficar com esta
 	"
 	"""
 	printFolderName
@@ -66,7 +65,7 @@ script 40 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Do you want it?"
+	"Quer?"
 	keyWait
 		any = false
 	clearMsg
@@ -81,7 +80,7 @@ script 40 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Yes!  "
+	"Sim!  "
 	option
 		brackets = false
 		left = 0
@@ -90,7 +89,7 @@ script 40 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"No"
+	"Não"
 	select
 		default = 0
 		noDelay = false
@@ -106,15 +105,16 @@ script 40 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	Well,OK⋯
-	If you say so⋯
+	Bem,tudo bem...
+	Se você está
+	dizendo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let me know if you
-	change your mind!
+	Me avise caso mude
+	de ideia!
 	"""
 	keyWait
 		any = false
@@ -125,8 +125,8 @@ script 41 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	OK! I'll transmit
-	the folder data!
+	OK! Vou transmitir
+	os dados da pasta!
 	"""
 	keyWait
 		any = false
@@ -146,19 +146,19 @@ script 41 mmbn4 {
 		frames = 30
 	soundPlay
 		track = 297
-	"Beeeep!"
+	" Biiiip!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = SciLabYoungMan
-	"Transfer complete!"
+	"Transferência\nconcluída!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your SpareFolder
-	should now be
+	Sua PastaExtra
+	agora será a
 	"
 	"""
 	printFolderName
@@ -169,9 +169,9 @@ script 41 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	If you can master
-	that folder,
-	you're quite good!
+	Se conseguir
+	dominá-la,é porque
+	você é bom mesmo!
 	"""
 	keyWait
 		any = false
@@ -181,13 +181,13 @@ script 42 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"Hey,Lan!"
+	"Oi,Lan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Did you come to get
-	the "
+	Veio pegar a
+	"
 	"""
 	printFolderName
 		buffer = 0
@@ -197,21 +197,21 @@ script 42 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	If you take it,it'll
-	overwrite your
-	current SpareFolder⋯
+	Se a levar,ela
+	sobrescreverá sua
+	PastaExtra atual...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But if that's OK,
-	you can have it!
+	Mas,se você aceitar
+	isso,pode levá-la!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Do you want it?"
+	"Quer?"
 	keyWait
 		any = false
 	clearMsg
@@ -251,15 +251,16 @@ script 42 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	Well,OK⋯
-	If you say so⋯
+	Bem,tudo bem...
+	Se você está
+	dizendo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let me know if you
-	change your mind!
+	Me avise caso mude
+	de ideia!
 	"""
 	keyWait
 		any = false
@@ -270,9 +271,9 @@ script 43 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	⋯Mmmph⋯
-	⋯Famous⋯
-	⋯Folder⋯
+	... Mmmpf...
+	... Pasta...
+	... Famoso...
 	"""
 	keyWait
 		any = false
@@ -283,9 +284,9 @@ script 50 mmbn4 {
 		mugshot = OldManAlt
 	msgOpen
 	"""
-	Wh,wh,wh,what?!
-	Who is it?
-	What do you want??
+	O-o-o-o quê?!
+	Quem é você?
+	O que você quer?!
 	"""
 	keyWait
 		any = false

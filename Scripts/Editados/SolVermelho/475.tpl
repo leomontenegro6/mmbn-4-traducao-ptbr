@@ -233,7 +233,7 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
-	"Não vem com essa de\n\"Oi,Mayl!\"pra cima de\nmim!"
+	"Não vem com essa de\n\"Oi,Mayl!\" pra cima\nde mim!"
 	keyWait
 		any = false
 	clearMsg

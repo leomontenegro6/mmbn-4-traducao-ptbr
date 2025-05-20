@@ -5,24 +5,24 @@ script 0 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	It's time for the
-	match to start,but
-	Lan isn't here yet.
+	Já está na hora da
+	luta,mas o Lan
+	ainda não chegou.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The rules say he'll
-	be disqualified in
-	five more minutes.
+	As regras ditam que,
+	após mais 5 minutos,
+	ele será eliminado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder what
-	happened?
+	O que será que
+	aconteceu?
 	"""
 	keyWait
 		any = false
@@ -34,31 +34,32 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = ViddyNarcy
 	"""
-	I wonder if he's
-	looking for
-	something?
+	Quem sabe? Vai ver
+	ele está procurando
+	por algo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hehehe,chalk up a
-	win for me!
+	He he he,uma vitória
+	para Viddy!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Isn't this great,
+	Isso não é
+	maravilhoso,
 	VideoMan?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll be able to
-	convert you to
-	digital format soon!
+	Em breve,poderei te
+	converter a um
+	formato digital!
 	"""
 	keyWait
 		any = false
@@ -69,27 +70,27 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = VideoMan
-	"That's right!"
+	"É isso aí!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's like I'm a
-	caterpillar,about
-	to be a butterfly!
+	Sou uma lagarta
+	prestes a virar uma
+	borboleta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If I win this
-	tournament,I'll
-	be able to upgrade!
+	Se eu vencer este
+	torneio,receberei
+	um upgrade!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I bet so!"
+	"Perfeito!"
 	keyWait
 		any = false
 	clearMsg
@@ -100,37 +101,37 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = ViddyNarcy
 	"""
-	It's always the
-	start of things
-	that's important!
+	Não tem nada mais
+	importante que o
+	primeiro passo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you can go
-	digital,then nobody
-	will complain about
+	Após ir pro formato
+	digital,ninguém mais
+	irá reclamar sobre
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	quality degradation
-	anymore!
+	deterioração de
+	qualidade!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The picture quality
-	will be so amazingly
-	beautiful!
+	A qualidade de
+	imagem será
+	simplesmente divina!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Fantastic!"
+	"Fantástico!"
 	keyWait
 		any = false
 	clearMsg
@@ -140,13 +141,13 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = VideoMan
-	"Look forward to it!"
+	"Estou tão ansioso\npara isso!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm the only one who
-	can tape your
+	Eu sou o único capaz
+	de gravar as suas
 	performances!
 	"""
 	keyWait
@@ -158,19 +159,19 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = ViddyNarcy
-	"Oh,I can't wait!"
+	"Ah,mal aguento\nesperar!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's start a count-
-	down to our victory,
-	VideoMan!
+	Vamos começar uma
+	contagem regressiva
+	para nossa vitória!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Oh ho!"
+	"Ho ho!"
 	keyWait
 		any = false
 	end

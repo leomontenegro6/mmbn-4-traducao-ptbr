@@ -15,98 +15,99 @@ script 0 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Would you happen to
-	be MegaMan? We Sharo
+	Você é o MegaMan?
+	Nós,Navis de Sharo,
+	ofereceremos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Navis will give you
-	our full coopera-
-	tion. I was going to
+	cooperação total.
+	Eu ia lhe dar o
+	código desta página,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	give you the code
-	to this HP,but
-	unfortunately the
+	mas,infelizmente,o
+	Navi que estava com
+	ele foi à Undernet
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Navi carrying it
-	went to the Undernet
-	in search of Nebula.
+	procurar pela
+	Nebula.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He probably won't
-	be back for awhile.
-	If you need this
+	Deve demorar até ele
+	voltar. Se precisar
+	do código desta
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HP's code urgently,
-	you can seek him out
+	página com urgência,
+	pode ir atrás dele
+	na Undernet.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	on the Undernet.
-	He's the same type
+	Ele é do mesmo tipo
+	de Navi que eu,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	of Navi as I am,so
-	you should be able
-	to recognize him if
+	então,deverá ser
+	fácil reconhecê-lo
+	ao avistá-lo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you see him. I'm
-	sure you know this,
-	but the Undernet is
+	Imagino que já saiba
+	disso,mas a Undernet
+	é um lugar perigoso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	a dangerous place.
-	If you go there,be
+	Se você for lá,
+	vá bem preparado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	sure to go fully
-	prepared. My
-	colleague said he'll
+	O meu colega disse
+	que ia "dar um giro
+	por aí",
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"go around for a
-	spin",so he should
-	be in an area where
+	então,ele deve
+	estar em uma área
+	em que dá pra você
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"you can spin around."
+	"girar."
 	keyWait
 		any = false
 	flagSet
@@ -118,9 +119,9 @@ script 1 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	My colleague said
-	he'd be in an Under-
-	net area that spins.
+	Meu colega deve
+	estar em uma área da
+	Undernet que gira.
 	"""
 	keyWait
 		any = false
@@ -131,13 +132,14 @@ script 2 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	This planet's fate
-	depends on you.
+	O destino deste
+	planeta está nas
+	suas mãos.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Don't let us down!"
+	"Contamos com você!"
 	keyWait
 		any = false
 	end
@@ -153,9 +155,9 @@ script 3 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WOULD YOU LIKE TO
-	CREATE A LINK
-	BETWEEN OUR HPS?
+	GOSTARIA DE CRIAR
+	UM LINK ENTRE AS
+	NOSSAS PÁGINAS?
 	"""
 	keyWait
 		any = false
@@ -195,7 +197,7 @@ script 3 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
-	"OH⋯"
+	"AH..."
 	keyWait
 		any = false
 	end
@@ -205,8 +207,8 @@ script 4 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	VERY WELL. HERE IS
-	THIS HP'S BANNER!
+	MUITO BEM. EIS O
+	BANNER DESTA PÁGINA!
 	"""
 	keyWait
 		any = false
@@ -233,8 +235,8 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	I SHALL NOW CREATE
-	THE LINK!
+	AGORA,CRIAREI O
+	LINK!
 	"""
 	keyWait
 		any = false
@@ -250,15 +252,15 @@ script 5 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHEN YOU NEED TO GET
-	TO THE UNDERNET IN A
+	QUANDO PRECISAR
+	ACESSAR A UNDERNET
+	RAPIDINHO,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HURRY,JUST USE THIS
-	LINK!!
+	É SÓ USAR ESTE LINK!
 	"""
 	keyWait
 		any = false
@@ -274,15 +276,16 @@ script 10 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'M PROCESSING SOME
-	DATA FROM SPACE!
+	ESTOU PROCESSANDO
+	DADOS DO ESPAÇO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	DON'T TALK TO ME,OR
-	I'LL LOSE TRACK!
+	NÃO FALE COMIGO,
+	OU VOU ME
+	DESCONCENTRAR!
 	"""
 	keyWait
 		any = false
@@ -293,23 +296,24 @@ script 15 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	A MASSIVE QUANTITY
-	OF DATA WILL BE SENT
-	FROM THE SATELLITE.
+	UM GRANDE VOLUME DE
+	DADOS SERÁ ENVIADO
+	DO SATÉLITE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT WILL EXCEED MY
-	PROCESSING CAPACITY,
+	IRÁ EXCEDER A MINHA
+	CAPACIDADE DE
+	PROCESSAMENTO,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT I'M NOT ONE TO
-	COMPLAIN!
+	MAS EU NÃO SOU DE
+	RECLAMAR!
 	"""
 	keyWait
 		any = false

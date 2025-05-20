@@ -5,13 +5,13 @@ script 0 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Jammer's been
-	deleted!
+	O Jammer foi
+	derrotado!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Lan wins!!"
+	"Lan Hikari é o\nvencedor!!"
 	keyWait
 		any = false
 	end
@@ -20,13 +20,14 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = BlackKid
 	msgOpen
-	"Lost⋯again."
+	"Eu perdi... de novo."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's the third
-	time we lost to you.
+	Esta é a terceira
+	vez que a gente
+	perde pra você.
 	"""
 	keyWait
 		any = false
@@ -41,22 +42,23 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	⋯Huh?
-	Third time?
+	... Hã?
+	Terceira?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But we've only com-
-	peted against you
+	Mas a gente só
+	competiu com você
+	agora e durante a
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	just now and in the
-	WaterGod Quest.
+	Campanha do Deus
+	da Água.
 	"""
 	keyWait
 		any = false
@@ -68,8 +70,9 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = BlackKid
 	"""
-	You also deleted the
-	viruses I planted.
+	Você também venceu
+	os vírus que eu
+	plantei.
 	"""
 	keyWait
 		any = false
@@ -81,8 +84,8 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	What? You were the
-	one who did that?!
+	O quê? Foi você
+	quem fez aquilo?!
 	"""
 	keyWait
 		any = false
@@ -94,8 +97,8 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = BlackKid
 	"""
-	Yep. I planted
-	the viruses.
+	Foi. Eu plantei os
+	vírus.
 	"""
 	keyWait
 		any = false
@@ -106,13 +109,13 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"But why?!"
+	"Mas por quê?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You almost wiped
-	out your village.
+	Você quase matou
+	toda a sua vila!
 	"""
 	keyWait
 		any = false
@@ -124,32 +127,33 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = BlackKid
 	"""
-	I wanted everyone
-	to see how strong
-	I am.
+	Eu queria que todo
+	mundo visse o quanto
+	eu era forte.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You see,I'm the best
-	viruses buster in my
+	É que eu sou o
+	melhor caçador de
+	vírus da minha vila,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	village,but nobody
-	accepts me because
-	I'm just a kid.
+	mas ninguém me
+	reconhece porque
+	eu sou criança.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If I'd have become
-	Champion,they'd have
-	finally accepted me.
+	Se eu virasse o
+	Campeão,eles teriam
+	me aceitado enfim.
 	"""
 	keyWait
 		any = false
@@ -161,15 +165,16 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	But we took the
-	title instead⋯
+	Mas a gente tirou
+	o título de você...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And that's why you
-	planted the viruses.
+	e foi por isso que
+	você plantou os
+	vírus.
 	"""
 	keyWait
 		any = false
@@ -181,22 +186,24 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = BlackKid
 	"""
-	I didn't think you'd
-	beat those viruses.
+	Eu não achei que
+	você ia conseguir
+	vencer os vírus.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I thought no one ex-
-	cept Jammer and I
+	Eu achava que só eu
+	e o Jammer éramos
+	capazes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	could. We were sup-
-	posed be the heroes.
+	Nós íamos virar
+	heróis!
 	"""
 	keyWait
 		any = false
@@ -207,7 +214,7 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotHide
 	msgOpen
-	"The culprit was you?"
+	"VOCÊ foi o culpado?"
 	keyWait
 		any = false
 	end
@@ -217,8 +224,8 @@ script 11 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	You remember the
-	village's law,right?
+	Você se lembra das
+	leis da vila,não?
 	"""
 	keyWait
 		any = false
@@ -229,7 +236,7 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	mugshotShow
 		mugshot = BlackKid
-	"⋯Uh-oh."
+	"... Ah..."
 	keyWait
 		any = false
 	clearMsg
@@ -242,8 +249,9 @@ script 13 mmbn4 {
 	mugshotAnimation
 		animation = 2
 	"""
-	Exile for all who
-	harm the WaterGod!!
+	Exílio para todo
+	aquele que ferir
+	o Deus da Água!!
 	"""
 	keyWait
 		any = false
@@ -254,20 +262,20 @@ script 13 mmbn4 {
 script 14 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"W-w-wait a sec!"
+	"E-e-e-espera aí!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Isn't that a bit
-	drastic?! I mean,the
+	Isso não é meio
+	drástico?! Digo,sei
+	lá,o rio já voltou
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	river's back to nor-
-	mal and all⋯
+	ao normal,então...
 	"""
 	keyWait
 		any = false
@@ -278,8 +286,9 @@ script 15 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	Still,Paulie broke
-	the village law!
+	Mesmo assim,o
+	Paulie quebrou as
+	leis da vila!
 	"""
 	keyWait
 		any = false
@@ -290,28 +299,28 @@ script 15 mmbn4 {
 script 16 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"But,I was wrong."
+	"Mas... eu também\nerrei."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I shouldn't have
-	taken your village
-	festival so lightly.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I'll return the
-	title of Champion,
+	Eu não devia ter
+	levado o festival na
+	brincadeira.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so please forgive
-	him!
+	Vou devolver o
+	título de Campeão,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	então,por favor,
+	perdoem ele!
 	"""
 	keyWait
 		any = false
@@ -331,16 +340,17 @@ script 17 mmbn4 {
 	mugshotAnimation
 		animation = 2
 	"""
-	If the village sav-
-	ior feels so strong-
-	ly,we cannot refuse.
+	Se o salvador da
+	vila insiste tanto,
+	não vamos recusar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll just pretend
-	this never happened.
+	Vamos simplesmente
+	fingir que isso
+	nunca aconteceu.
 	"""
 	keyWait
 		any = false
@@ -351,8 +361,8 @@ script 18 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	Paulie,you should be
-	grateful to Lan.
+	Paulie,é bom você
+	estar grato ao Lan.
 	"""
 	keyWait
 		any = false
@@ -365,19 +375,22 @@ script 18 mmbn4 {
 script 19 mmbn4 {
 	mugshotShow
 		mugshot = BlackKid
-	"⋯I am."
+	"... Eu tô."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And I'm sorry for
-	what I've done.
-	There are others yet
+	E desculpa pelo que
+	eu fiz.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"stronger than me."
+	"""
+	Realmente,tem muita
+	gente por aí mais
+	forte que eu.
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -388,21 +401,22 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = Man
 	"""
-	Right. The world's
-	vast,and you're
+	É isso mesmo.
+	O mundo é grande,e
+	você ainda é jovem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	still so young.
-	Learn new things,
-	meet new people.
+	Aprenda coisas
+	novas,conheça
+	novas pessoas.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"But don't rush it."
+	"Não precisa ter\npressa."
 	keyWait
 		any = false
 	clearMsg
@@ -412,7 +426,7 @@ script 20 mmbn4 {
 script 21 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Oh,I almost forgot!"
+	"Ah,quase que eu\nesqueço!"
 	keyWait
 		any = false
 	end
@@ -422,8 +436,8 @@ script 22 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I'd like to ask 1
-	more favor.
+	Também quero pedir
+	mais um favor.
 	"""
 	keyWait
 		any = false
@@ -434,7 +448,7 @@ script 22 mmbn4 {
 script 23 mmbn4 {
 	mugshotShow
 		mugshot = Man
-	"Try me."
+	"Pode falar."
 	keyWait
 		any = false
 	clearMsg
@@ -445,16 +459,17 @@ script 24 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Please redo the Wa-
-	terGod Quest,this
+	Por favor,façam a
+	Campanha do Deus da
+	Água. Desta vez,sem
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	time without me.
-	After all,I resigned
-	the Champion title.
+	eu. Afinal,eu abri
+	mão do título de
+	Campeão.
 	"""
 	keyWait
 		any = false
@@ -465,7 +480,7 @@ script 24 mmbn4 {
 script 25 mmbn4 {
 	mugshotShow
 		mugshot = Man
-	"We could do that."
+	"Podemos fazer isso."
 	keyWait
 		any = false
 	clearMsg
@@ -475,7 +490,7 @@ script 25 mmbn4 {
 script 26 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Go get 'em,Paulie!"
+	"Arrasa lá,Paulie!"
 	keyWait
 		any = false
 	clearMsg
@@ -485,20 +500,21 @@ script 26 mmbn4 {
 script 27 mmbn4 {
 	mugshotShow
 		mugshot = BlackKid
-	"⋯Thanks,Lan."
+	"... Valeu,Lan."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll try hard to be-
-	come big and strong.
+	Vou treinar duro e
+	ficar bem forte.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Will you battle me
-	again once I do?
+	E quando eu ficar,
+	você luta comigo de
+	novo?
 	"""
 	keyWait
 		any = false
@@ -509,7 +525,7 @@ script 27 mmbn4 {
 script 28 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Sure,anytime!"
+	"Claro,quando quiser!"
 	keyWait
 		any = false
 	end
@@ -518,7 +534,7 @@ script 29 mmbn4 {
 	mugshotShow
 		mugshot = Man
 	msgOpen
-	"Let's go,Paulie."
+	"Vamos,Paulie."
 	keyWait
 		any = false
 	end
@@ -528,8 +544,9 @@ script 30 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	We must get back for
-	the WaterGod Quest.
+	Temos que voltar
+	para a Campanha do
+	Deus da Água.
 	"""
 	keyWait
 		any = false
@@ -549,11 +566,11 @@ script 32 mmbn4 {
 	mugshotShow
 		mugshot = BlackKid
 	msgOpen
-	"Lan,thank you!!"
+	"Lan,obrigado!!"
 	keyWait
 		any = false
 	clearMsg
-	"Yer a swell guy!!"
+	"Você é gente fina!!"
 	keyWait
 		any = false
 	end
@@ -563,8 +580,9 @@ script 33 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Here's wishing you
-	grow big and strong!
+	Espero que ele
+	cresça e fique bem
+	forte!
 	"""
 	keyWait
 		any = false
@@ -576,8 +594,7 @@ script 34 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I sure hope that
-	happens,too!
+	Somos dois!
 	"""
 	keyWait
 		any = false

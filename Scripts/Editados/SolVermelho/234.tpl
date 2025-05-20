@@ -24,8 +24,8 @@ script 0 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Lan!
-	Roll is⋯Roll is⋯
+	Lan! A Roll...
+	A Roll,ela...!
 	"""
 	keyWait
 		any = false
@@ -33,8 +33,9 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Roll is okay!
-	Leave it to us!
+	A Roll tá bem!
+	Deixa que a gente
+	vai resolver!
 	"""
 	keyWait
 		any = false
@@ -45,13 +46,13 @@ script 1 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Do you know where
-	Roll is?
+	Você sabe onde a
+	Roll tá?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I hope Roll's OK!"
+	"Tomara que ela\nesteja bem!"
 	keyWait
 		any = false
 	end
@@ -61,8 +62,8 @@ script 2 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Lan⋯
-	Save Roll.
+	Lan...
+	Salva a Roll.
 	"""
 	keyWait
 		any = false
@@ -70,15 +71,15 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I know. Just leave
-	it to us!
+	Eu sei.
+	Deixa com a gente!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll save Roll
-	for sure!
+	Eu juro que a gente
+	vai salvar a Roll!
 	"""
 	keyWait
 		any = false
@@ -89,9 +90,9 @@ script 3 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Lan,everyone is
-	in ACDCArea3!
-	Please hurry!
+	Lan,já tá todo mundo
+	na Área ACDC 3!
+	Não demora!
 	"""
 	keyWait
 		any = false
@@ -101,41 +102,41 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Lan,MegaMan⋯"
+	"Lan,MegaMan..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I want to thank
-	you for saving
-	Roll⋯
+	Muito obrigada por
+	salvarem a Roll...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If she had gotten
-	hurt,I'd⋯
+	Se ela tivesse se
+	machucado,eu...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Don't be a crybaby!"
+	"Não chora,vai!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Roll's OK! That's
-	all that matters!
+	A Roll tá bem!
+	É só isso que
+	importa!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Mayl
-	"Yeah!"
+	"É!"
 	keyWait
 		any = false
 	end
@@ -157,14 +158,14 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Thanks again,Lan!"
+	"Obrigada de novo,\nLan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're entering
-	the Den Battle
-	preliminary?
+	Você vai encarar as
+	preliminares da
+	Batalha Den?
 	"""
 	keyWait
 		any = false
@@ -178,7 +179,7 @@ script 10 mmbn4 {
 	"."
 	waitSkip
 		frames = 30
-	"Wow! Good luck!"
+	" Nossa!\nBoa sorte!"
 	keyWait
 		any = false
 	end
@@ -187,14 +188,14 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Thanks again,Lan!"
+	"Obrigada de novo,\nLan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're entering
-	the City Battle
-	preliminary?
+	Você vai encarar as
+	preliminares da
+	Batalha da Cidade?
 	"""
 	keyWait
 		any = false
@@ -208,7 +209,7 @@ script 11 mmbn4 {
 	"."
 	waitSkip
 		frames = 30
-	"Wow! Good luck!"
+	" Nossa!\nBoa sorte!"
 	keyWait
 		any = false
 	end
@@ -217,13 +218,14 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Lan,I just know"
+	"Lan,eu tenho certeza"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that you'll clear
-	the preliminary!
+	de que você vai
+	passar nas
+	preliminares!
 	"""
 	keyWait
 		any = false
@@ -234,15 +236,15 @@ script 20 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	So you're going on
-	to the next round?
+	Então você passou
+	pra próxima rodada?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Great work,Lan!
-	Good luck!
+	Mandou bem,Lan!
+	Boa sorte!
 	"""
 	keyWait
 		any = false
@@ -263,8 +265,8 @@ script 25 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Good luck in
-	the Round 1!
+	Boa sorte na
+	primeira rodada!
 	"""
 	keyWait
 		any = false
@@ -275,21 +277,21 @@ script 30 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	If I entered,I
-	wonder how far
-	I'd make it?
+	Se eu tivesse me
+	inscrito,será que
+	eu chegava longe?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What? Not far⋯?"
+	"Hã?\nVocê acha que não?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm going now!
-	I always give
-	my all!
+	Poxa,Lan!
+	Eu sempre dou tudo
+	de mim!
 	"""
 	keyWait
 		any = false
@@ -300,16 +302,15 @@ script 35 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	I wish I could
-	have entered the
-	tournament,too.
+	Queria ter entrado
+	no torneio também...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What? I was just
-	thinking aloud.
+	Hã? Ah,eu só tava
+	aqui pensando alto.
 	"""
 	keyWait
 		any = false

@@ -5,16 +5,17 @@ script 0 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I AM THE PROGRAM
-	THAT ORGANIZES
-	MAYL'S DIARY.
+	SOU O PROGRAMA
+	QUE ORGANIZA O
+	DIÁRIO DA MAYL.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT I CAN'T TELL
-	WHAT'S INSIDE!
+	"O QUE TEM ESCRITO
+	NELE"? EU NÃO POSSO
+	CONTAR!!
 	"""
 	keyWait
 		any = false

@@ -79,9 +79,9 @@ script 10 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's say good
-	morning to Mom and
-	go to the airport!
+	Vamos dar bom dia
+	pra mamãe e ir pro
+	aeroporto!
 	"""
 	keyWait
 		any = false
@@ -92,9 +92,9 @@ script 11 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Don't spend too long
-	on the Net. We have
-	a plane to catch!
+	Não demora demais
+	na Rede. A gente tem
+	que pegar um voo!
 	"""
 	keyWait
 		any = false
@@ -109,9 +109,9 @@ script 12 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I wonder what that
-	mail says. Let's
-	read it!
+	O que será que diz
+	aquele e-mail?
+	Vamos ler!
 	"""
 	keyWait
 		any = false
@@ -122,9 +122,9 @@ script 13 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's jack out and
-	see that NetBattle
-	Association guy!
+	Sai daí. Bora falar
+	com o cara da Asso-
+	ciação de NetLuta!
 	"""
 	keyWait
 		any = false
@@ -147,8 +147,8 @@ script 14 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Isn't it about time
-	we go back to see
+	Já não tá na hora da
+	gente voltar pro
 	Bonds?
 	"""
 	keyWait
@@ -160,9 +160,9 @@ script 15 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's get off the
-	Net and explore
-	Netopia!
+	Bora sair da Rede
+	e explorar a
+	Ameropa!
 	"""
 	keyWait
 		any = false
@@ -173,9 +173,9 @@ script 19 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Don't spend too long
-	on the Net. Let's
-	go to the Colosseum!
+	Não demora muito na
+	Rede. Vamos lá pro
+	Coliseu!
 	"""
 	keyWait
 		any = false
@@ -200,8 +200,9 @@ script 25 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Jack out MegaMan! We
-	have to go to NAXA!
+	Desconecta,MegaMan!
+	A gente tem que ir
+	pra NAXA!
 	"""
 	keyWait
 		any = false
@@ -212,9 +213,9 @@ script 26 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan! Let's go
-	fix the Nets around
-	the world!
+	MegaMan! Vamos con-
+	sertar as Redes
+	mundo afora!
 	"""
 	keyWait
 		any = false
@@ -225,14 +226,13 @@ script 27 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan! Let's look
-	for the Official
-	Navi
+	MegaMan! Bora atrás
+	do Navi Oficial
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"in Netopia Area!"
+	"na Área Ameropa!"
 	keyWait
 		any = false
 	end
@@ -248,8 +248,8 @@ script 28 mmbn4 {
 	msgOpen
 	"""
 	MegaMan!
-	Go catch the culprit
-	in the Park Area!
+	Pega o culpado na
+	Área Parque!
 	"""
 	keyWait
 		any = false
@@ -260,9 +260,9 @@ script 29 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	The culprit should
-	be hiding in this
-	area. Watch out!
+	O culpado deve tá
+	escondido nesta
+	área. Fica esperto!
 	"""
 	keyWait
 		any = false
@@ -290,7 +290,7 @@ script 30 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Let's go to NAXA!"
+	"Vamos pra NAXA!"
 	keyWait
 		any = false
 	end
@@ -300,9 +300,9 @@ script 31 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	There's no time to
-	goof around! Let's
-	hurry to Dad!
+	A gente não tem
+	tempo pra brincar!
+	Rápido,pro papai!
 	"""
 	keyWait
 		any = false
@@ -313,9 +313,9 @@ script 32 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Whenever your ready,
-	let's get back to
-	NAXA!
+	Quando você tiver
+	pronto,bora voltar
+	pra NAXA!
 	"""
 	keyWait
 		any = false
@@ -326,9 +326,9 @@ script 33 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan! We've got
-	to hurry to NAXA!
-	There's no time!
+	MegaMan! Vamos logo
+	pra NAXA! A gente
+	tá sem tempo!
 	"""
 	keyWait
 		any = false
@@ -339,9 +339,9 @@ script 34 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's get back to
-	NAXA and change that
-	asteroid's orbit!
+	Bora voltar pra NAXA
+	e mudar a trajetória
+	daquele asteroide!
 	"""
 	keyWait
 		any = false
@@ -370,9 +370,9 @@ script 100 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Challenge a Netopian
-	is in front of the
-	Netopia Area Shop!
+	Desafie um ameropano
+	na frente da loja na
+	Área Ameropa!
 	"""
 	keyWait
 		any = false
@@ -383,9 +383,9 @@ script 101 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's jack out and
-	find someone we can
-	count on!
+	Desconecta! Vamos
+	achar alguém em quem
+	podemos contar!
 	"""
 	keyWait
 		any = false
@@ -420,8 +420,8 @@ script 102 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We have the 4 medals
-	so let's find that
+	Pronto,4 provas.
+	Agora vamos praquele
 	
 	"""
 	printItem
@@ -437,14 +437,14 @@ script 103 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Find the 4 medals!
-	They should be in
-	Netopia Area and
+	Ache as 4 provas!
+	Devem estar na Área
+	Ameropa e na Área
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"YumLand Area!"
+	"Saborya!"
 	keyWait
 		any = false
 	end
@@ -454,14 +454,14 @@ script 104 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's take the
+	Vamos levar o
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 120
 	"""
-	" to
+	" pro
 	ThunderMan!
 	"""
 	keyWait
@@ -473,9 +473,9 @@ script 105 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Woo-hoo! Everything
-	seems A-OK! Let's go
-	to the Colosseum!
+	Legal! Parece que tá
+	tudo bem! Vamos lá
+	pro Coliseu!
 	"""
 	keyWait
 		any = false
@@ -502,15 +502,15 @@ script 110 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go get the
+	Vamos comprar as
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 98
 	"""
-	"! They're
-	in the Netopia Area!
+	"! Estão
+	na Área Ameropa!
 	"""
 	keyWait
 		any = false
@@ -525,8 +525,8 @@ script 111 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,let's read
-	that mail!
+	MegaMan,vamos ler
+	aquele e-mail!
 	"""
 	keyWait
 		any = false
@@ -537,9 +537,8 @@ script 112 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's jack out and
-	go to the
-	GoddessComp!
+	Vamos desconectar e
+	ir pro CPU Deusa!
 	"""
 	keyWait
 		any = false
@@ -550,9 +549,9 @@ script 113 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hey MegaMan,do you
-	know where a
-	spacious area is?
+	Ei,MegaMan,sabe
+	onde tem uma
+	área espaçosa?
 	"""
 	keyWait
 		any = false
@@ -564,8 +563,8 @@ script 114 mmbn4 {
 	msgOpen
 	"""
 	MegaMan!
-	Let's go to the
-	HeroComp!
+	Vamos lá pro
+	CPU Herói!
 	"""
 	keyWait
 		any = false
@@ -576,9 +575,9 @@ script 115 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go to the
-	Colosseum! We've got
-	a battle to win!
+	Bora pro Coliseu!
+	A gente tem uma luta
+	pra ganhar!
 	"""
 	keyWait
 		any = false
@@ -627,8 +626,9 @@ script 125 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,let's check
-	out YumLand Area!
+	MegaMan,vamos
+	conferir a Área
+	Saborya!
 	"""
 	keyWait
 		any = false
@@ -639,9 +639,9 @@ script 126 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Are you ok,MegaMan?
-	You⋯are MegaMan⋯
-	right?
+	Você tá bem,MegaMan?
+	Você... é o
+	MegaMan... né?
 	"""
 	keyWait
 		any = false
@@ -652,8 +652,8 @@ script 130 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	JunkMan! Go back
-	and recover MegaMan!
+	JunkMan! Volta lá e
+	recupera o MegaMan!
 	"""
 	keyWait
 		any = false
@@ -664,9 +664,9 @@ script 131 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go find that
-	big guy you said
-	you saw!
+	Vamos lá achar o
+	grandão que você
+	disse que viu!
 	"""
 	keyWait
 		any = false
@@ -677,9 +677,9 @@ script 132 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go to YumLand
-	and ask to jack into
-	the BuddhaComp!
+	Bora pra Saborya
+	pedir pra nos conec-
+	tarmos ao CPU Buda!
 	"""
 	keyWait
 		any = false
@@ -690,8 +690,8 @@ script 133 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go jack into
-	the BuddhaComp!
+	Vamos nos conectar
+	no CPU Buda!
 	"""
 	keyWait
 		any = false
@@ -702,8 +702,7 @@ script 134 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go to the
-	Colosseum!
+	Pro Coliseu!
 	"""
 	keyWait
 		any = false
@@ -714,8 +713,8 @@ script 136 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Search the garbage
-	dump,MegaMan!
+	Procura no lixão,
+	MegaMan!
 	"""
 	keyWait
 		any = false
@@ -768,9 +767,8 @@ script 145 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Jack out,MegaMan!
-	Let's go to
-	NetFrica!
+	Desconecta,MegaMan!
+	Bora pra Affriq!
 	"""
 	keyWait
 		any = false
@@ -781,9 +779,9 @@ script 147 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan! KendoMan's
-	in the NetFrica
-	Area! Let's go!
+	MegaMan! O KendoMan
+	tá na Área Affriq!
+	Bora pra lá!
 	"""
 	keyWait
 		any = false
@@ -794,9 +792,9 @@ script 149 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Our first practice
-	is in the YumLand
-	Area. Let's go!
+	O nosso primeiro
+	treino é na Área
+	Saborya. Vamos!
 	"""
 	keyWait
 		any = false
@@ -814,7 +812,7 @@ script 151 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Canseira,isso aqui!"
+	"Canseira,isto aqui!"
 	keyWait
 		any = false
 	end
@@ -824,8 +822,8 @@ script 153 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Next is the Sharo
-	Area. You can do it,
+	Agora,a Área Sharo.
+	Você consegue,
 	MegaMan!
 	"""
 	keyWait
@@ -837,9 +835,9 @@ script 155 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go back to
-	KendoMan in
-	NetFricaArea!
+	Bora voltar pro
+	KendoMan na Área
+	Affriq!
 	"""
 	keyWait
 		any = false
@@ -850,9 +848,9 @@ script 156 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Whew! I'm glad that
-	misunderstanding's
-	been cleared up!
+	Ufa! Que bom que a
+	gente esclareceu o
+	mal-entendido!
 	"""
 	keyWait
 		any = false
@@ -863,9 +861,9 @@ script 157 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Where did Mr.Famous
-	go? Maybe he went to
-	that place⋯
+	Aonde o Sr. Famoso
+	foi? Será que foi
+	pra aquele lugar...?
 	"""
 	keyWait
 		any = false
@@ -876,9 +874,9 @@ script 158 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Jack out,MegaMan!
-	We've got to fix the
-	lion statue!
+	Desconecta,MegaMan!
+	Temos que alterar
+	a estátua do leão!
 	"""
 	keyWait
 		any = false
@@ -889,9 +887,9 @@ script 159 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go face Mr.
-	Famous at the
-	Colosseum!
+	Vamos enfrentar o
+	Sr. Famoso no
+	Coliseu!
 	"""
 	keyWait
 		any = false
@@ -930,8 +928,9 @@ script 160 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Jack out,MegaMan!
-	Let's find Paulie!
+	Desconecta,MegaMan!
+	Temos que achar o
+	Paulie!
 	"""
 	keyWait
 		any = false
@@ -942,9 +941,9 @@ script 162 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Paulie told us to
-	come to the NetFrica
-	Area,right?
+	O Paulie falou pra
+	gente ir pra Área
+	Affriq,né?
 	"""
 	keyWait
 		any = false
@@ -954,16 +953,13 @@ script 163 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"""
-	Let's get that
-	"
-	"""
+	"Bora pegar aquele\n"
 	printItem
 		buffer = 0
 		item = 127
 	"""
-	"! Where is
-	it this year?
+	! Onde será
+	que está este ano?
 	"""
 	keyWait
 		any = false
@@ -974,15 +970,15 @@ script 164 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's bring the
+	Vamos levar o
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 127
 	"""
-	" to the
-	NetFricaArea!
+	" pra
+	Área Affriq!
 	"""
 	keyWait
 		any = false
@@ -997,8 +993,8 @@ script 165 mmbn4 {
 		buffer = 0
 		item = 118
 	"""
-	" is in
-	NetFricaArea!
+	" tá na
+	Área Affriq!
 	"""
 	keyWait
 		any = false
@@ -1009,9 +1005,9 @@ script 166 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Jack out MegaMan!
-	Let's go fix the
-	WaterGod!
+	Desconecta,MegaMan!
+	Bora consertar o
+	Deus da Água!
 	"""
 	keyWait
 		any = false
@@ -1022,9 +1018,9 @@ script 168 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We're out of time,
-	MegaMan! Let's get
-	to the Colosseum!
+	Estamos sem tempo,
+	MegaMan! Bora logo
+	pro Coliseu!
 	"""
 	keyWait
 		any = false
@@ -1061,8 +1057,8 @@ script 175 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan! Let's go
-	to the Netopia Area!
+	MegaMan! Vamos pra
+	Área Ameropa!
 	"""
 	keyWait
 		any = false
@@ -1073,9 +1069,9 @@ script 176 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Something natural?
-	Well,let's look
-	around and jack out.
+	Um frio natural?
+	Enfim,vamos
+	desconectar.
 	"""
 	keyWait
 		any = false
@@ -1086,9 +1082,9 @@ script 177 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Jack out,MegaMan!
-	Something's going
-	down in Sharo!
+	Desconecta,MegaMan!
+	Tem treta rolando
+	lá em Sharo!
 	"""
 	keyWait
 		any = false
@@ -1099,9 +1095,9 @@ script 178 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We don't have time
-	for the Net! We have
-	to fix the antennas!
+	Não temos tempo pra
+	Rede! Temos que con-
+	sertar as antenas!
 	"""
 	keyWait
 		any = false
@@ -1112,9 +1108,8 @@ script 181 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Jack out,MegaMan!
-	Let's go to the
-	Colosseum!
+	Desconecta,MegaMan!
+	Pro Coliseu!
 	"""
 	keyWait
 		any = false
@@ -1144,9 +1139,9 @@ script 186 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Follow Raika,Mega-
-	Man! We can't let
-	him get away!
+	Atrás do Raika,
+	MegaMan! Ele não
+	pode fugir!
 	"""
 	keyWait
 		any = false
@@ -1157,8 +1152,8 @@ script 187 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Quick,MegaMan! Get
-	over to Undernet6!
+	Rápido,MegaMan!
+	Vai pra Undernet 6!
 	"""
 	keyWait
 		any = false
@@ -1169,9 +1164,9 @@ script 188 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It may be dangerous,
-	but we've got to get
-	back to Undernet6!
+	Pode ser perigoso,
+	mas temos que voltar
+	pra Undernet 6!
 	"""
 	keyWait
 		any = false
@@ -1182,9 +1177,9 @@ script 189 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's jack out and
-	go to the Colosseum!
-	Time to face Raika!
+	Vamos desconectar e
+	ir pro Coliseu! Hora
+	de encarar o Raika!
 	"""
 	keyWait
 		any = false
@@ -1263,9 +1258,9 @@ script 195 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I'm concerned about
-	Chaud. Let's go to
-	the hotel,MegaMan!
+	Tô preocupado com o
+	Chaud. Bora lá pro
+	hotel,MegaMan!
 	"""
 	keyWait
 		any = false
@@ -1276,9 +1271,9 @@ script 196 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Search for ProtoMan,
-	MegaMan! He can't
-	have gotten far yet!
+	Procura pelo ProtoMan,
+	MegaMan! Ele não deve
+	ter ido longe!
 	"""
 	keyWait
 		any = false
@@ -1289,8 +1284,9 @@ script 197 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Go look for ProtoMan
-	in the Undernet!
+	Procura pelo
+	ProtoMan na
+	Undernet!
 	"""
 	keyWait
 		any = false
@@ -1301,8 +1297,8 @@ script 199 mmbn4 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Go back to the
-	Undernet,MegaMan!
+	Volte à Undernet,
+	MegaMan!
 	"""
 	keyWait
 		any = false
@@ -1313,8 +1309,9 @@ script 212 mmbn4 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	To Undernet5! Hang
-	in there,ProtoMan!
+	Pra Undernet 5!
+	Aguenta firme,
+	ProtoMan!
 	"""
 	keyWait
 		any = false
@@ -1325,9 +1322,9 @@ script 214 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	To the Colosseum!
-	It's time for our
-	battle with Chaud!
+	Pro Coliseu!
+	Hora da nossa luta
+	com o Chaud!
 	"""
 	keyWait
 		any = false

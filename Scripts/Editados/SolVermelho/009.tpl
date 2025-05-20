@@ -6,14 +6,14 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	Lan!
-	"
+	O "
 	"""
 	printItem
 		buffer = 0
 		item = 180
 	"""
 	"
-	just expired!
+	expirou!
 	"""
 	keyWait
 		any = false
@@ -25,14 +25,14 @@ script 1 mmbn4 {
 	msgOpen
 	"""
 	Lan!
-	"
+	O "
 	"""
 	printItem
 		buffer = 0
 		item = 178
 	"""
 	"
-	just expired!
+	expirou!
 	"""
 	keyWait
 		any = false
@@ -48,9 +48,9 @@ script 2 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,we need a
-	special vehicle to
-	cross this rail!
+	É preciso um veículo
+	especial pra atra-
+	vessar esse trilho!
 	"""
 	keyWait
 		any = false
@@ -67,9 +67,9 @@ script 3 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,we need a
-	special vehicle to
-	cross this rail!
+	É preciso um veículo
+	especial pra atra-
+	vessar esse trilho!
 	"""
 	keyWait
 		any = false
@@ -81,28 +81,28 @@ script 4 mmbn4 {
 	msgOpen
 	"""
 	Beh-BoBun!
-	(Lan,)
+	(Lan,é preciso um)
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Bobo-Beh-BuBoBuBiBa
-	(we need a)
+	(veículo especial)
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	ByoBuBuBa-BoBiBoBoBa
-	(special vehicle to)
+	(pra atravessar)
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	BiBuBoBuBiBaBiBa!
-	(cross this rail!)
+	(esse trilho!)
 	"""
 	keyWait
 		any = false
@@ -132,34 +132,34 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	It's from Chaud!
-	I'll read it!
+	É do Chaud!
+	Eu vou ler!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"I have some news⋯\n ProtoMan went into"
+	"\"Tenho notícias\n O ProtoMan entrou na\n Undernet."
 	keyWait
 		any = false
 	clearMsg
-	" the Undernet. As\n you probably know,"
+	" Como já\n deve saber,a\n entrada para a"
 	keyWait
 		any = false
 	clearMsg
-	" the entrance to the\n Undernet is in the\n back of Sharo Area."
+	" Undernet\n fica nos fundos da\n Área Sharo. Se um"
 	keyWait
 		any = false
 	clearMsg
-	" If a DarkChip is\n involved,\n then Nebula"
+	" Chip das Trevas\n está envolvido,\n então é provável"
 	keyWait
 		any = false
 	clearMsg
-	" most likely has a\n hand in this.\n Be on guard!\""
+	" que haja dedo da\n Nebula nisso. Não\n baixe a guarda!\""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's head to the
+	Vamos lá pra
 	Undernet,Lan!
 	"""
 	keyWait
@@ -178,23 +178,24 @@ script 12 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	It's from Mom!
-	I'll read it!
+	É da mamãe!
+	Vou ler ele aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Lan,there's smoke\n coming out of your\n PC!"
+	"\"Lan,tem fumaça\n saindo do seu\n computador!"
 	keyWait
 		any = false
 	clearMsg
-	" What should I do?!\""
+	" O que eu faço?!\""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh no! We have to go
-	back home!
+	Essa não! A gente
+	tem que voltar pra
+	casa!
 	"""
 	keyWait
 		any = false
@@ -202,8 +203,8 @@ script 12 mmbn4 {
 }
 script 20 mmbn4s {
 	"""
-	THANK YOU FOR PLAYING!
-	YOU COMPLETED EXE4!!
+	OBRIGADO POR JOGAR!
+	CONCLUIU O EXE4!!
 	"""
 	end
 }
@@ -227,7 +228,7 @@ script 22 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"From save point\n"
+	"Carregar salvamento\n"
 	option
 		brackets = false
 		left = 1
@@ -236,7 +237,7 @@ script 22 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Start game "
+	"Começar jogo "
 	printBuffer
 		buffer = 1
 		minLength = 0

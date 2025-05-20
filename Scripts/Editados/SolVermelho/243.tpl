@@ -10,30 +10,32 @@ script 0 mmbn4 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Lan,huh!
-	Hiya,huh!
+	Lan,é!
+	Oi,é!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I feel bad saying
-	this,huh,but I'm
-	really busy now⋯
+	Desculpa,mas,é,
+	estou meio ocupado
+	agora...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you want chips,
-	come by later,huh?
+	Se quiser comprar
+	chips,volte mais
+	tarde,é.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm interviewing
-	a job applicant.
+	Estou entrevistando
+	uma candidata a
+	balconista daqui.
 	"""
 	keyWait
 		any = false
@@ -43,13 +45,13 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Maid
 	msgOpen
-	"I'm Nanako!"
+	"Eu sou a Nanako!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm looking forward
-	to working hard!
+	Tô ansiosa pra
+	trabalhar aqui!
 	"""
 	keyWait
 		any = false
@@ -60,45 +62,45 @@ script 2 mmbn4 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	Have you tried
-	the Chip Trader?
+	Já experimentou o
+	Troca-Chips?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can insert
-	chips to exchange
+	Nele,você pode
+	inserir chips e
+	trocá-los por novos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	them for new ones.
-	If you're lucky⋯
+	Se der sorte...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You might even
-	get a rare chip!
+	pode até ganhar um
+	chip raro!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Once you insert
-	a chip you can't
-	get it back,so
+	Uma vez inseridos,
+	os chips se perdem
+	pra sempre,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	take care not to
-	put one you really
-	need in there!
+	então cuidado pra
+	não botar chips
+	queridos seus!
 	"""
 	keyWait
 		any = false
@@ -109,36 +111,39 @@ script 5 mmbn4 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	I decided to hire
-	Nanako,huh!
+	Decidi contratar a
+	Nanako,é!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	With someone like
-	her working for me,
+	Com uma funcionária
+	como ela trabalhando
+	aqui,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Higsby's future is
-	looking bright,huh!
+	o futuro da Loja do
+	Higsby está muito
+	promissor,é!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've got to explain
-	the business to her,
+	Preciso explicar as
+	operações da loja
+	pra ela,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so would you mind
-	coming back later?
+	então pode voltar
+	depois? É?
 	"""
 	keyWait
 		any = false
@@ -154,8 +159,9 @@ script 6 mmbn4 {
 		mugshot = Maid
 	msgOpen
 	"""
-	I'm hired? GREAT!
-	I'll do my best!
+	Eu fui contratada?
+	QUE DEMAIS!
+	Prometo me esforçar!
 	"""
 	keyWait
 		any = false
@@ -165,15 +171,15 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Higsby
 	msgOpen
-	"First: greetings!"
+	"Primeiramente:\ncumprimentar!"
 	keyWait
 		any = false
 	clearMsg
-	"Welcome,huh!"
+	"Bem-vindo,é!"
 	keyWait
 		any = false
 	clearMsg
-	"Yes,sir!"
+	"Sim,senhor!"
 	keyWait
 		any = false
 	end
@@ -182,37 +188,37 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Maid
 	msgOpen
-	"Welcome⋯huh?"
+	"Bem-vindo... É...?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Higsby
 	"""
-	I can't hear you!
-	Say it proudly!
+	Não tô te ouvindo!
+	Fale com orgulho!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Maid
-	"Welcome,huh!"
+	"Bem-vindo,é!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Higsby
 	"""
-	Like that,huh!
-	Once more,now,huh?
+	Isso,mais assim,é!
+	Fale de novo,é!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Maid
-	"Welcome,huh!"
+	"Bem-vindo,é!"
 	keyWait
 		any = false
 	end
@@ -226,16 +232,16 @@ script 15 mmbn4 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Using DarkChips
-	or not is all up
-	to you,Lan,huh?
+	Só cabe a você usar
+	ou não usar Chips
+	das Trevas,é.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But don't succumb
-	to the temptation!
+	Mas não vos deixeis
+	cair em tentação!
 	"""
 	keyWait
 		any = false
@@ -245,14 +251,14 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = Maid
 	msgOpen
-	"Welcome⋯huh!"
+	"Bem-vindo... é!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm still learning,
-	but I'm going to
-	do my very best!
+	Eu ainda tô apren-
+	dendo,mas vou dar
+	tudo de mim!
 	"""
 	keyWait
 		any = false
@@ -277,20 +283,21 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = Maid
 	msgOpen
-	"Welcome,huh!"
+	"Bem-vindo,é!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Higsby's out on
-	an errand now!
+	O Higsby saiu pra
+	cuidar de uns
+	afazeres!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm watching over
-	the store for him!
+	Estou cuidando da
+	loja no lugar dele!
 	"""
 	keyWait
 		any = false
@@ -300,18 +307,18 @@ script 22 mmbn4 {
 	mugshotShow
 		mugshot = Maid
 	msgOpen
-	"Welcome,huh!"
+	"Bem-vindo,é!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm really nervous
-	without Higsby here.
+	Eu fico tão nervosa
+	sem o Higsby aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Wish me luck!"
+	"Me deseje sorte!"
 	keyWait
 		any = false
 	end
@@ -321,16 +328,16 @@ script 25 mmbn4 {
 		mugshot = Maid
 	msgOpen
 	"""
-	There's this guy
-	who keeps buying
-	Guard chips from me.
+	Tem um menino que
+	não para de comprar
+	chips "Guard" aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess he really
-	likes them!
+	Ele deve ser super
+	fã desse chip,né?
 	"""
 	keyWait
 		any = false
@@ -350,14 +357,14 @@ script 27 mmbn4 {
 	mugshotShow
 		mugshot = Maid
 	msgOpen
-	"Welcome,um,huh!"
+	"Bem-vindo,er... é!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm totally new,
-	so I can't do
-	anything right!
+	Eu sou uma completa
+	novata,faço tudo
+	errado aqui!
 	"""
 	keyWait
 		any = false
@@ -368,13 +375,14 @@ script 28 mmbn4 {
 		mugshot = Maid
 	msgOpen
 	"""
-	Ahh! I forgot how
-	to use the register!
+	Ahh! Esqueci como se
+	usa a caixa
+	registradora!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Higsby⋯!"
+	"Higsbyyyy...!"
 	keyWait
 		any = false
 	end
@@ -384,13 +392,13 @@ script 29 mmbn4 {
 		mugshot = Maid
 	msgOpen
 	"""
-	Higsby⋯!
-	Come back soon⋯!
+	Higsbyyy...!
+	Volta logo...!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm in trouble!"
+	"Eu tô perdidinha!"
 	keyWait
 		any = false
 	end
@@ -417,8 +425,8 @@ script 40 mmbn4 {
 		mugshot = Maid
 	msgOpen
 	"""
-	Higsby's is in a
-	state of emergency!
+	O Higsby tá em
+	estado grave!
 	"""
 	keyWait
 		any = false
@@ -435,16 +443,17 @@ script 41 mmbn4 {
 		mugshot = Maid
 	msgOpen
 	"""
-	Please help by
-	passing out 10 or
+	Por favor,ajude-nos
+	espalhando 10 ou
+	mais dos nossos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	more of our flyers
-	on the Net!
-	We'll pay you!
+	panfletos na Rede!
+	Não se preocupe,é
+	um trabalho pago!
 	"""
 	keyWait
 		any = false
@@ -466,24 +475,25 @@ script 43 mmbn4 {
 		mugshot = Maid
 	msgOpen
 	"""
-	What?!
-	NumberMan's stuck
-	in the warehouse?
+	Quê?!
+	O NumberMan tá preso
+	no depósito?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What'll we do?!
-	I can't believe it!
+	Ai,o que a gente
+	faz?! Não acredito
+	nisso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here's the key!
-	Take it and get
-	him out! Please!
+	Tá aqui a chave!
+	Leva e tira ele de
+	lá! Por favor!
 	"""
 	keyWait
 		any = false
@@ -510,25 +520,25 @@ script 43 mmbn4 {
 	mugshotShow
 		mugshot = Maid
 	"""
-	There's a door with
-	a password in the
-	back,too.
+	Também tem uma se-
+	gunda porta depois,
+	trancada com senha.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's to trap any
-	burglars who try
-	to break in!
+	É uma armadilha pra
+	ladrões que tentarem
+	invadir!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Think hard and you
-	should be able to
-	figure it out!
+	É só usar a cabeça
+	que você chega na
+	senha!
 	"""
 	keyWait
 		any = false
@@ -539,8 +549,8 @@ script 44 mmbn4 {
 		mugshot = Maid
 	msgOpen
 	"""
-	Thanks in advance!
-	Good luck!
+	Desde já,agradeço!
+	Boa sorte!
 	"""
 	keyWait
 		any = false
@@ -551,8 +561,8 @@ script 45 mmbn4 {
 		mugshot = Maid
 	msgOpen
 	"""
-	Higsby's warehouse
-	is in Town1.
+	O armazém do Higsby
+	fica na Área Vila 1.
 	"""
 	keyWait
 		any = false

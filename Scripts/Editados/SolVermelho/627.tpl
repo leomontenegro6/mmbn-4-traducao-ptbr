@@ -5,8 +5,9 @@ script 0 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	*pant pant*
-	It's not over yet!
+	Arf... Arf...
+	Isto ainda não
+	acabou!
 	"""
 	keyWait
 		any = false
@@ -17,14 +18,14 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviBlack
-	"How does he do it?!"
+	"Como ele consegue?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's beaten 80 of my
-	100 guys and still
-	he won't shut up!
+	Ele já venceu 80 dos
+	nossos e não perde o
+	gás!
 	"""
 	keyWait
 		any = false
@@ -36,16 +37,16 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	"""
-	Hey!
-	Keep 'em comin'!
+	Ô,não ouviu?!
+	Pode mandar mais!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I won't stop until
-	I beat all your guys
-	to smithereens!
+	Eu não paro até
+	acabar com todos
+	vocês!
 	"""
 	keyWait
 		any = false
@@ -61,8 +62,8 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	I'll shut your
-	steenkin' trap!
+	Eu vou calar essa
+	sua boca!
 	"""
 	keyWait
 		any = false
@@ -81,8 +82,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Wait just one
-	minute!
+	Espera aí!
 	"""
 	keyWait
 		any = false
@@ -93,14 +93,14 @@ script 6 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Why're you sending
-	so many to fight one
-	guy?! It's not fair!
+	Por que tão mandando
+	tantos Navis pra
+	derrubar só um?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'll help you!"
+	"Isso não é justo!\nEu vou te ajudar,\nTetsu!"
 	keyWait
 		any = false
 	clearMsg
@@ -111,8 +111,9 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	"""
-	No,this is my
-	fight! Don't⋯you⋯
+	Não,esta luta é
+	minha!
+	Não... ouse...
 	"""
 	keyWait
 		any = false
@@ -126,7 +127,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Leave this to me!"
+	"Pode deixar isto\ncomigo!"
 	keyWait
 		any = false
 	clearMsg
@@ -137,8 +138,8 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	"""
-	Back⋯back off⋯
-	Just get outta here!
+	Cai... Cai fora...
+	Vaza logo daqui!
 	"""
 	keyWait
 		any = false
@@ -148,7 +149,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Now it's my turn!"
+	"Agora é a minha vez!"
 	keyWait
 		any = false
 	clearMsg
@@ -159,9 +160,9 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	"""
-	So you're gonna save
-	him? Fine! Take that
-	blue boy on next!
+	Então,cê vai salvar
+	ele? Beleza!
+	Ataquem o azulzinho!
 	"""
 	keyWait
 		any = false
@@ -169,15 +170,15 @@ script 11 mmbn4 {
 }
 script 12 mmbn4 {
 	msgOpen
-	"Yaaah!"
+	"Iáááá!"
 	keyWait
 		any = false
 	clearMsg
-	"Delete 'em!"
+	"Deleta!"
 	keyWait
 		any = false
 	clearMsg
-	"Smash 'em!"
+	"Esmaga!"
 	keyWait
 		any = false
 	clearMsg
@@ -188,11 +189,11 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"Take that!"
+	"Toma isso!"
 	keyWait
 		any = false
 	clearMsg
-	"Take your positions!"
+	"Em posições!"
 	keyWait
 		any = false
 	clearMsg
@@ -211,14 +212,14 @@ script 15 mmbn4 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Blue brat!!! Can you
-	beat my men and make
-	it this far?!
+	Ô,azulzinho! Acha
+	que vence eles
+	e chega aqui?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Yow!!!"
+	"Rá!!!"
 	keyWait
 		any = false
 	end

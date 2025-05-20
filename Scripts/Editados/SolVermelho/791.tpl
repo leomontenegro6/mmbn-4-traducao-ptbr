@@ -3,8 +3,8 @@
 script 0 mmbn4 {
 	msgOpen
 	"""
-	Excellent,O strong-
-	minded one.
+	Excelente,caro ser
+	de mente forte.
 	"""
 	keyWait
 		any = false
@@ -13,16 +13,17 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	msgOpen
 	"""
-	I am a mirror that
-	reflects truth⋯
+	Eu sou um espelho
+	que revela a
+	verdade...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The final salvation
-	for a mind enthral-
-	led by darkness.
+	A salvação final
+	para mentes mergu-
+	lhadas nas trevas.
 	"""
 	keyWait
 		any = false
@@ -34,7 +35,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Final⋯salvation⋯"
+	"Salvação... final..."
 	keyWait
 		any = false
 	clearMsg
@@ -44,25 +45,25 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotHide
 	"""
-	Only you can fight
-	the darkness within
-	yourself.
+	Somente você pode
+	confrontar as trevas
+	dentro de si.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You must fight that
-	darkness until the
-	end of your days.
+	Deve lutar contra
+	ela até o seu
+	último suspiro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you stop fight-
-	ing,you shall sink
-	into the darkness.
+	Se parar de lutar,
+	será consumido
+	pela escuridão.
 	"""
 	keyWait
 		any = false
@@ -73,7 +74,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"⋯⋯I see."
+	"...... Entendi."
 	keyWait
 		any = false
 	clearMsg
@@ -86,11 +87,11 @@ script 5 mmbn4 {
 		jumpIfTrue = 11
 		jumpIfFalse = continue
 	mugshotHide
-	"O strong-minded one⋯"
+	"Ó,ser de mente\nforte..."
 	keyWait
 		any = false
 	clearMsg
-	"I give you this."
+	"Confio isto a você."
 	keyWait
 		any = false
 	clearMsg
@@ -124,14 +125,14 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	msgOpen
 	"""
-	Come here if you
-	ever fight your own
-	darkness once again.
+	Volte aqui se quiser
+	lutar contra suas
+	trevas de novo.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Farewell."
+	"... Adeus."
 	keyWait
 		any = false
 	end
@@ -141,9 +142,9 @@ script 8 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	This is a sacred
-	place where you can
-	face your dark side.
+	Um local sagrado em
+	que se enfrenta seu
+	lado sombrio...
 	"""
 	keyWait
 		any = false
@@ -154,14 +155,14 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Face your dark side⋯"
+	"Enfrentar o lado\nsombrio..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's try not to
-	give into our
-	dark sides!
+	MegaMan,nunca vamos
+	nos render às nos-
+	sas escuridões!
 	"""
 	keyWait
 		any = false
@@ -172,14 +173,14 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"OK!!"
+	"É!!"
 	keyWait
 		any = false
 	end
 }
 script 11 mmbn4 {
 	mugshotHide
-	"O strong-minded one⋯"
+	"Ó,ser de mente\nforte..."
 	keyWait
 		any = false
 	clearMsg

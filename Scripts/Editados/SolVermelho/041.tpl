@@ -3,8 +3,8 @@
 script 0 mmbn4 {
 	msgOpen
 	"""
-	It's a Chip Trader.
-	Insert 3 BtlChips?
+	É um Troca-Chips.
+	Inserir 3 chips?
 	
 	"""
 	positionOptionHorizontal
@@ -54,9 +54,9 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan,you have less
-	than 3 chips in
-	your pack.
+	Lan,você tem menos
+	de 3 chips na
+	mochila.
 	"""
 	keyWait
 		any = false
@@ -78,7 +78,7 @@ script 2 mmbn4 {
 		mugshot = MegaMan
 	textSpeed
 		delay = 0
-	"Add these 3?\n"
+	"Usar estes 3?\n"
 	positionOptionFromCenter
 		width = 8
 	option
@@ -119,7 +119,7 @@ script 3 mmbn4 {
 	soundDisableTextSFX
 	soundPlay
 		track = 268
-	"Click-k-k-k⋯THUNK!"
+	"Clique-que... PLONC!"
 	soundEnableTextSFX
 	keyWait
 		any = false
@@ -160,7 +160,7 @@ script 3 mmbn4 {
 		left = 63
 		top = 109
 		arrowDistance = 3
-	"Try again?\n"
+	"De novo?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -209,9 +209,9 @@ script 4 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Too bad,Lan⋯you
-	have less than 3
-	chips in your pack!
+	Que pena,Lan...
+	Você tem menos de 3
+	chips na mochila!
 	"""
 	keyWait
 		any = false
@@ -223,8 +223,8 @@ script 5 mmbn4s {
 script 6 mmbn4 {
 	msgOpen
 	"""
-	Chip Trader Special.
-	Insert 10 BtlChips?
+	Troca-Chips Premium.
+	Inserir 10 chips?
 	
 	"""
 	positionOptionHorizontal
@@ -274,9 +274,9 @@ script 7 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,you have less
-	than 10 chips in
-	your pack!
+	Lan,você tem menos
+	de 10 chips na
+	mochila!
 	"""
 	keyWait
 		any = false
@@ -298,7 +298,7 @@ script 8 mmbn4 {
 		mugshot = MegaMan
 	textSpeed
 		delay = 0
-	"Add these 10?\n"
+	"Usar estes 10?\n"
 	positionOptionFromCenter
 		width = 8
 	option
@@ -339,7 +339,7 @@ script 9 mmbn4 {
 	soundDisableTextSFX
 	soundPlay
 		track = 268
-	"Click-k-k-k⋯THUNK!"
+	"Clique-que... PLONC!"
 	soundEnableTextSFX
 	keyWait
 		any = false
@@ -380,7 +380,7 @@ script 9 mmbn4 {
 		left = 63
 		top = 109
 		arrowDistance = 3
-	"Try again?\n"
+	"De novo?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -429,9 +429,9 @@ script 10 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Too bad,Lan⋯you
-	have less than 10
-	chips in your pack!
+	Que pena,Lan...
+	Você tem menos de 10
+	chips na mochila!
 	"""
 	keyWait
 		any = false
@@ -442,11 +442,11 @@ script 11 mmbn4s {
 }
 script 12 mmbn4 {
 	msgOpen
-	"A BugFrag Trader."
+	"É um Troca-FragBug."
 	keyWait
 		any = false
 	clearMsg
-	"Insert 10 BugFrags?\n"
+	"Inserir 10 FragBugs?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -491,8 +491,8 @@ script 13 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,you don't have
-	10 BugFrags!
+	Lan,você nem tem
+	10 FragBugs!
 	"""
 	keyWait
 		any = false
@@ -501,8 +501,8 @@ script 13 mmbn4 {
 script 15 mmbn4 {
 	msgOpenQuick
 	"""
-	MegaMan handed over
-	the BugFrags!
+	MegaMan abriu mão
+	dos FragBugs!
 	"""
 	keyWait
 		any = false
@@ -514,9 +514,9 @@ script 15 mmbn4 {
 	wait
 		frames = 60
 	"""
-	Chip data appeared
-	with a thunderous
-	growl!
+	Dados de chips
+	apareceram com um
+	som gutural!
 	"""
 	keyWait
 		any = false
@@ -557,7 +557,7 @@ script 15 mmbn4 {
 		left = 63
 		top = 109
 		arrowDistance = 3
-	"Try again?\n"
+	"De novo?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -603,9 +603,9 @@ script 16 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Too bad,Lan⋯
-	We don't have 10
-	BugFrags!
+	Que pena,Lan...
+	Não temos 10
+	FragBugs pra usar!
 	"""
 	keyWait
 		any = false
@@ -619,8 +619,8 @@ script 17 mmbn4 {
 script 20 mmbn4 {
 	msgOpen
 	"""
-	You don't have 3
-	chips in your pack.
+	Você tem menos de
+	3 chips na mochila.
 	"""
 	keyWait
 		any = false
@@ -630,8 +630,8 @@ script 21 mmbn4 {
 	clearMsg
 	msgOpen
 	"""
-	You don't have 3
-	chips in your pack.
+	Você tem menos de
+	3 chips na mochila.
 	"""
 	keyWait
 		any = false
@@ -640,9 +640,9 @@ script 21 mmbn4 {
 script 22 mmbn4 {
 	msgOpen
 	"""
-	You don't currently
-	have 10 chips in
-	your pack.
+	Você está com menos
+	de 10 chips na
+	mochila.
 	"""
 	keyWait
 		any = false
@@ -652,8 +652,9 @@ script 23 mmbn4 {
 	clearMsg
 	msgOpen
 	"""
-	You don't have 10
-	chips in your pack.
+	Você está com menos
+	de 10 chips na
+	mochila.
 	"""
 	keyWait
 		any = false
@@ -662,8 +663,8 @@ script 23 mmbn4 {
 script 24 mmbn4 {
 	msgOpen
 	"""
-	You don't have 10
-	BugFrags.
+	Você está com menos
+	de 10 FragBugs.
 	"""
 	keyWait
 		any = false
@@ -673,8 +674,8 @@ script 25 mmbn4 {
 	clearMsg
 	msgOpen
 	"""
-	You don't have 10
-	BugFrags.
+	Você está com menos
+	de 10 FragBugs.
 	"""
 	keyWait
 		any = false
@@ -683,9 +684,9 @@ script 25 mmbn4 {
 script 26 mmbn4 {
 	msgOpen
 	"""
-	Congratulations!
-	Here is your prize
-	for winning!
+	Meus parabéns!
+	Eis aqui seu prêmio
+	por vencer!
 	"""
 	keyWait
 		any = false
@@ -733,7 +734,7 @@ script 27 mmbn4 {
 	soundDisableTextSFX
 	soundPlay
 		track = 444
-	"Whiiiirrrr!"
+	"Trruiiiir!"
 	wait
 		frames = 80
 	soundEnableTextSFX
@@ -785,7 +786,7 @@ script 28 mmbn4 {
 		jumpIfAll = continue
 		jumpIfNone = 29
 		jumpIfSome = 29
-	"Lan got:\n"
+	"Lan adquiriu:\n"
 	printBuffer
 		buffer = 3
 		minLength = 0
@@ -803,8 +804,9 @@ script 28 mmbn4 {
 script 29 mmbn4 {
 	msgOpen
 	"""
-	You can't carry
-	anymore BugFrags.
+	Já está com a
+	quantidade máxima
+	de FragBugs.
 	"""
 	keyWait
 		any = false
@@ -817,7 +819,7 @@ script 30 mmbn4 {
 		arrowDistance = 3
 	textSpeed
 		delay = 0
-	"Add these 3?\n"
+	"Usar estes 3?\n"
 	positionOptionFromCenter
 		width = 8
 	option
@@ -859,7 +861,7 @@ script 31 mmbn4 {
 		arrowDistance = 3
 	textSpeed
 		delay = 0
-	"Add these 10?\n\n"
+	"Usar estes 10?\n\n"
 	positionOptionFromCenter
 		width = 8
 	option

@@ -87,7 +87,7 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = Roll
-	"Megaaaaa!!"
+	"Meeegaaaaa!!"
 	keyWait
 		any = false
 	clearMsg
@@ -145,7 +145,7 @@ script 9 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Não vai me impedir!"
+	"E não será você\nquem me fará\ncomeçar!"
 	keyWait
 		any = false
 	clearMsg
@@ -168,7 +168,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = ShadeMan
 	msgOpen
-	"Agora,meu raio!"
+	"Receba os meus\nraios!"
 	keyWait
 		any = false
 	clearMsg
@@ -281,9 +281,9 @@ script 17 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	O raio tá saindo da-
-	quele alto-falante!
-	Temos que pará-lo!
+	O raio tá saindo dos
+	alto-falantes!
+	Temos que pará-los!
 	"""
 	keyWait
 		any = false
@@ -300,7 +300,8 @@ script 18 mmbn4 {
 		mugshot = Lan
 	"""
 	A-aguenta aí!!
-	Eu vou fazer alguma\ncoisa!
+	Eu vou fazer alguma
+	coisa!
 	"""
 	keyWait
 		any = false

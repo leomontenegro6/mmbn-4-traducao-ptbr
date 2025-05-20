@@ -13,8 +13,9 @@ script 1 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,destroy the
-	CyberSnowman first!
+	MegaMan,destrói os
+	CyberBonecosDeNeve
+	primeiro!
 	"""
 	keyWait
 		any = false
@@ -33,8 +34,9 @@ script 4 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,destroy the
-	CyberSnowman first!
+	MegaMan,destrói os
+	CyberBonecosDeNeve
+	primeiro!
 	"""
 	keyWait
 		any = false
@@ -53,8 +55,9 @@ script 7 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,destroy the
-	CyberSnowman first!
+	MegaMan,destrói os
+	CyberBonecosDeNeve
+	primeiro!
 	"""
 	keyWait
 		any = false
@@ -65,8 +68,8 @@ script 9 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,light the
-	CyberTorch!
+	MegaMan,acende a
+	CyberTocha!
 	"""
 	keyWait
 		any = false
@@ -81,20 +84,20 @@ script 10 mmbn4 {
 		jumpIfGreater = 11
 		jumpIfLess = continue
 	msgOpen
-	"\"F - Raise a wall\n of flame.\""
+	"\"F - Ergue uma\nmuralha de fogo.\""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Wall of flame⋯"
+	"Muralha de fogo..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Probably a chip that
-	sets a vertical line
-	on fire⋯
+	Um chip que cria
+	uma coluna de fogo,
+	imagino...
 	"""
 	keyWait
 		any = false
@@ -108,8 +111,7 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	msgOpen
 	"""
-	The flames are
-	raging⋯
+	O fogo arde forte...
 	"""
 	keyWait
 		any = false

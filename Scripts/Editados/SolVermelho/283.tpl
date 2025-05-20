@@ -10,9 +10,9 @@ script 10 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	You performed
-	marvelously!
-	Bravo,bravo!
+	Você lutou
+	maravilhosamente!
+	Bravo,rapaz!
 	"""
 	keyWait
 		any = false
@@ -23,15 +23,16 @@ script 15 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Do all Electopian
-	grade school
+	Todos os alunos do
+	fundamental de
+	Ni-Hon
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	students fight as
-	well as you?
+	lutam tão bem quanto
+	você?
 	"""
 	keyWait
 		any = false

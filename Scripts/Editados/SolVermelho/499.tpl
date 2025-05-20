@@ -115,15 +115,16 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Battlers from all
-	over Electopia,huh?
+	NetLutadores de
+	toda a Ni-Hon,é?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll need to fight
-	better than ever!
+	A gente vai ter que
+	lutar com mais garra
+	do que nunca!
 	"""
 	keyWait
 		any = false
@@ -134,7 +135,7 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"We will!!"
+	"E nós vamos!!"
 	keyWait
 		any = false
 	end
@@ -143,39 +144,40 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = SciLabMan
 	"""
-	Really? Let me
-	just check.
+	Jura?
+	Deixe-me ver.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	......
-	Yes,you seem to 
-	have all 50 points.
+	É,parece que você
+	tem os 50 pontos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I expected no less
-	from the City Battle
-	Tournament champion!
+	Bem,você FOI o cam-
+	peão do Torneio de
+	Batalha da Cidade!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	However,this tourney
-	has battlers from
-	all over Electopia.
+	Contudo,este torneio
+	tem lutadores de
+	toda a Ni-Hon.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder how far
-	you'll get.
+	Quero só ver até
+	onde você vai
+	chegar.
 	"""
 	keyWait
 		any = false
@@ -188,15 +190,15 @@ script 7 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Oh yes! I have to
-	give you this.
+	Ah,sim! Tenho que
+	lhe dar isto.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a prize for
-	qualifying.
+	É um prêmio por
+	se qualificar.
 	"""
 	keyWait
 		any = false

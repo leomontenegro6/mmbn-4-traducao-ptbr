@@ -8,27 +8,32 @@ script 0 mmbn4 {
 	positionArrow
 		left = 202
 		top = 108
-	"This is the Under"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	BBS. Info here can
-	mean the difference 
-	between life and
+	Este é o UnderFórum.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	death in this
-	lawless land. Every-
-	thing's give&take,
+	As informações aqui
+	podem salvar ou
+	matar alguém nesta
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"so share your info."
+	"""
+	terra sem lei.
+	O lance aqui é
+	toma lá,dá cá,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	então,compartilhem
+	informações aí.
+	"""
 	keyWait
 		any = false
 	waitHold
@@ -42,33 +47,33 @@ script 1 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	I know a bit about
-	that lamp-shaped
-	viruses. His name's
+	Eu manjo daqueles
+	vírus que parecem
+	lâmpadas. São os
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Elmperor. He sucks
-	up the energy of
-	panels,so if you
+	Elmperors. Sugam a
+	energia dos quadros,
+	então,se fizer os
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	change his panels to
-	Normal,he'll grow
-	weak. Something that
+	quadros deles volta-
+	rem ao normal,eles
+	se enfraquecem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	breaks panels like
-	"Geddon" oughta
-	work too.
+	Também dá pra que-
+	brar eles com chips
+	tipo "Geddon".
 	"""
 	keyWait
 		any = false
@@ -83,24 +88,25 @@ script 2 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	D-does⋯an-n-nyone⋯
-	k-know wh-w-where⋯
-	S-ShadeMan is⋯?
+	A-alguém sabe...
+	o-onde o
+	S-ShadeMan está...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I-I can't⋯take⋯t-the
-	DarkChip withdrawal⋯
-	pain⋯! Hrrgghhh⋯
+	E-eu não aguento
+	mais a abstinência
+	de C-ChipTrev...!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	S-somebody⋯g-give
-	me⋯a D-D-DarkChip⋯
+	Urgh... A-alguém...
+	P-preciso de um...
+	C-Chip das Trevas...
 	"""
 	keyWait
 		any = false
@@ -119,41 +125,40 @@ script 3 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Ha! Sounds like your
-	soul's been overcome
-	with evil!
+	Rá! Parece que a sua
+	alma foi possuída
+	pelo mal!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You've probably
-	fallen out of this
-	world by now and are
+	Você deve ter caído
+	pra fora deste mundo
+	e está vagando pelas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	wandering about a
-	never-ending inferno
-	in Hades.
+	chamas infinitas
+	no Inferno.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	As for ShadeMan,
-	I hear he was
-	deleted.
+	Quanto ao ShadeMan,
+	fiquei sabendo que
+	deletaram ele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	All paths of evil
-	lead to the same
-	place.
+	Todos os caminhos do
+	mal levam ao mesmo
+	lugar.
 	"""
 	keyWait
 		any = false
@@ -168,41 +173,41 @@ script 4 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Heh heh heh⋯
-	You've been overcome
-	by evil because you
+	He he... Você foi
+	tomado pelo mal
+	porque a sua alma é
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	have a weak soul!
-	I use a DarkChip,
-	but my soul's
+	fraca! Eu uso Chips
+	das Trevas,mas a
+	minha é forte!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	strong! Still,when
-	my HPs are almost
-	gone,my DarkSoul
+	Dito isso,quando
+	meus PV tão no fim,
+	minha AlmaSomb brota
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	appears and I turn
-	into a deleting
-	machine,temporarily
+	e eu viro uma
+	máquina de deletar,
+	e perco a memória
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	losing my memory. No
-	one ever said evil
-	was easy⋯
+	temporariamente.
+	Ninguém disse que
+	o mal era fácil...
 	"""
 	keyWait
 		any = false
@@ -217,23 +222,23 @@ script 5 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	ShadeMan was
-	deleted? I bet he's
+	O ShadeMan foi
+	deletado? Aposto que
+	ele tá em algum
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	somewhere on the
-	Undernet using
+	canto da Undernet,
+	usando o poder da
+	escuridão para curar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the power of
-	darkness to
-	heal his wounds⋯
+	suas feridas...
 	"""
 	keyWait
 		any = false
@@ -248,22 +253,24 @@ script 6 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	I can't use my SP
-	chip anymore. When I
+	Não consigo mais
+	usar o meu chip SP.
+	Quando eu tento,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	try,it just starts
-	to smoke! Maybe
+	ele só fica
+	soltando fumaça!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it's because I'm
-	using a DarkChip?
+	Será que é porque
+	eu tô usando um
+	Chip das Trevas?
 	"""
 	keyWait
 		any = false
@@ -278,31 +285,31 @@ script 7 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Only Navis without
-	black bodies can use
-	SP chips,and only
+	Só Navis com corpos
+	pretos podem usar
+	chips SP,e só Navis
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Navis with black
-	bodies can use DS
-	chips. Only black
+	com corpos pretos
+	podem usar chips
+	DS. Só Navis Pretos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Navis can use the
-	5 legendary Chips of
+	podem usar os cinco
+	Chips Lendários da
+	Escuridão,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Darkness,such as
-	Hole and Static.
+	como Hole e Static.
 	"""
 	keyWait
 		any = false
@@ -317,17 +324,17 @@ script 8 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	I hear Navis whose
-	souls are ruled by
-	darkness get sucked
+	Navis cujas almas
+	são governadas pelas
+	trevas são puxados
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	into a Big DarkHole,
-	but strong-souled
-	Navis can resist⋯
+	pra um grande Buraco
+	Negro,mas Navis de
+	alma forte resistem.
 	"""
 	keyWait
 		any = false
@@ -342,21 +349,22 @@ script 9 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	I swear I saw
-	Django,the Solar
-	Boy!
+	Eu juro que vi
+	Django,o Garoto
+	Solar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What's a comic book
-	character doing in
+	O que um personagem
+	de história em
+	quadrinhos
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"the Cyberworld?"
+	"tá fazendo no\nMundo Cibernético?"
 	keyWait
 		any = false
 	waitHold
@@ -370,25 +378,25 @@ script 10 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	What?! Django's not
-	even real! You must
-	be hallucinating⋯
+	O quê?! O Django nem
+	é real! Acho que cê
+	alucionou aí...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Still,Django showing
-	up while ShadeMan's
-	sleeping⋯
+	Mas o Django apare-
+	cer justo quando o
+	ShadeMan apagou...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sounds like a story
-	in the making!
-	Heh heh heh⋯
+	Parece uma coisa
+	que entraria pra
+	história! He he...
 	"""
 	keyWait
 		any = false
@@ -403,16 +411,16 @@ script 11 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Hah! Are Django and
-	ShadeMan gonna
-	fight? I'd like to
+	Rá! O Django e o
+	ShadeMan vão brigar?
+	Essa eu queria ver!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	see that! I wonder
-	who'd win?
+	Quem será que
+	venceria?
 	"""
 	keyWait
 		any = false

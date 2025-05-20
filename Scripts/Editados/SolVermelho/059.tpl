@@ -8,9 +8,9 @@ script 1 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I'm sending a Void-
-	MegaMan! Just hang
-	on for 1 turn!
+	Tô mandando uma
+	coisa! Aguenta
+	só um turno!
 	"""
 	keyWait
 		any = false
@@ -24,7 +24,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Maybe we should run!\n"
+	"É melhor fugir?!\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -44,7 +44,7 @@ script 2 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"No!"
+	"Não!"
 	select
 		default = 0
 		noDelay = false
@@ -68,18 +68,18 @@ script 3 mmbn4 {
 	msgOpen
 	wait
 		frames = 18
-	"・"
+	"."
 	wait
 		frames = 18
-	"・"
+	"."
 	wait
 		frames = 18
-	"・"
+	". "
 	wait
 		frames = 18
 	"""
-	Okay!
-	Did it! I got away.
+	Boa!
+	Consegui fugir!
 	"""
 	keyWait
 		any = false
@@ -91,18 +91,18 @@ script 4 mmbn4 {
 	msgOpen
 	wait
 		frames = 18
-	"・"
+	"."
 	wait
 		frames = 18
-	"・"
+	"."
 	wait
 		frames = 18
-	"・"
+	". "
 	wait
 		frames = 18
 	"""
-	No,
-	I can't get away!
+	Droga,
+	não consegui fugir!
 	"""
 	keyWait
 		any = false
@@ -126,19 +126,19 @@ script 6 mmbn4s {
 	end
 }
 script 7 mmbn4s {
-	"      HP+"
+	"      PV+"
 	end
 }
 script 8 mmbn4s {
-	"     HP+"
+	"     PV+"
 	end
 }
 script 9 mmbn4s {
-	"    HP+"
+	"    PV+"
 	end
 }
 script 10 mmbn4s {
-	"    MAX HP"
+	"    PV MÁX"
 	end
 }
 script 11 mmbn4 {
@@ -146,8 +146,8 @@ script 11 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Communication error!
-	Canceling battle⋯
+	Erro de comunicação!
+	Cancelando luta...
 	"""
 	keyWait
 		any = false
@@ -159,15 +159,15 @@ script 12 mmbn4s {
 	end
 }
 script 45 mmbn4s {
-	"DOUBLE DELETE!"
+	"DELEÇÃO DUPLA!"
 	end
 }
 script 46 mmbn4s {
-	"TRIPLE DELETE!"
+	"DELEÇÃO TRIPLA!"
 	end
 }
 script 47 mmbn4s {
-	" BugFrag "
+	" FragBug "
 	end
 }
 script 48 mmbn4 {
@@ -175,9 +175,9 @@ script 48 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Communication error!
-	Canceling battle⋯
-	Error Code
+	Erro de comunicação!
+	Cancelando luta...
+	Código de erro
 	"""
 	printBuffer
 		buffer = 1
@@ -194,8 +194,8 @@ script 49 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I wish Lan were
-	here! What'll I do?
+	Que falta faz o Lan!
+	O que eu faço?
 	
 	"""
 	positionOptionHorizontal
@@ -208,7 +208,7 @@ script 49 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Run  "
+	"Fugir  "
 	option
 		brackets = false
 		left = 0
@@ -217,7 +217,7 @@ script 49 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Fight!"
+	"Lutar!"
 	select
 		default = 0
 		noDelay = false
@@ -237,18 +237,18 @@ script 50 mmbn4 {
 	msgOpen
 	wait
 		frames = 18
-	"・"
+	"."
 	wait
 		frames = 18
-	"・"
+	"."
 	wait
 		frames = 18
-	"・"
+	". "
 	wait
 		frames = 18
 	"""
-	Okay!
-	Did it! I got away.
+	Boa!
+	Consegui fugir!
 	"""
 	keyWait
 		any = false

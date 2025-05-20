@@ -4,11 +4,11 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Mami
 	msgOpen
-	"Crusher,deleted!!!"
+	"Crusher foi\nderrotado!!!"
 	keyWait
 		any = false
 	clearMsg
-	"Lan is the winner!"
+	"Lan Hikari é o\nvencedor!"
 	keyWait
 		any = false
 	end
@@ -17,7 +17,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"We did it!"
+	"Vencemos!"
 	keyWait
 		any = false
 	clearMsg
@@ -29,14 +29,14 @@ script 2 mmbn4 {
 		mugshot = Riki
 	msgOpen
 	"""
-	I lost! Now there's
-	a Navi tough enough
-	to face the Mafia!
+	Perdi! Tá aí um Navi
+	durão o bastante pra
+	encarar a Máfia!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Bwahahahahaa!"
+	"Ga ha ha ha ha!"
 	keyWait
 		any = false
 	clearMsg
@@ -48,8 +48,8 @@ script 3 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What're you gonna
-	do now?
+	O que você vai fazer
+	agora?
 	"""
 	keyWait
 		any = false
@@ -61,28 +61,28 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Riki
 	msgOpen
-	"Oh,the bakery?"
+	"Ah,a padaria?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I haven't given up
-	on my dream.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I'll go back to the
-	organization for
-	now,
+	Eu ainda não desisti
+	do meu sonho,não.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and talk things
-	over with the boss.
+	Por enquanto,eu
+	vou voltar pra
+	organização
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	e tentar conversar
+	com a chefe.
 	"""
 	keyWait
 		any = false
@@ -95,15 +95,15 @@ script 5 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	She'll understand,
-	I'm sure!
+	Certeza que ela vai
+	entender!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	She approved the
-	match,after all!
+	Afinal de contas,
+	ela aprovou a luta!
 	"""
 	keyWait
 		any = false
@@ -115,14 +115,14 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Riki
 	msgOpen
-	"Good point."
+	"Bem lembrado."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	See yah,Lan! I'm
-	more fired up than
-	I've been in years!
+	Falou,Lan! Eu não
+	fico animado assim
+	há anos!
 	"""
 	keyWait
 		any = false
@@ -133,16 +133,16 @@ script 7 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	He may look scary,
-	but he's a cheerful
-	guy.
+	A cara dele dá medo,
+	mas,na real,ele é um
+	cara bem alegre.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When he has his
-	Navi,that is.
+	Quando tá com o
+	Navi,pelo menos.
 	"""
 	keyWait
 		any = false
@@ -155,9 +155,9 @@ script 8 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I hope those two get
-	their chance to sell
-	tasty bread!
+	Espero que eles
+	consigam vender pães
+	gostosos um dia!
 	"""
 	keyWait
 		any = false

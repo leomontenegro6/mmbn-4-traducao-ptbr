@@ -5,20 +5,20 @@ script 0 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Okay,now you're
-	ready to make some
-	curry with that
+	Agora,sim,você
+	está pronto para
+	fazer curry com
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"cooking machine!"
+	"aquela máquina\nculinária!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's all I can
-	teach you!
+	Isso é tudo que eu
+	posso lhe ensinar!
 	"""
 	keyWait
 		any = false
@@ -30,7 +30,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Thank you!"
+	"Obrigado!"
 	keyWait
 		any = false
 	clearMsg
@@ -42,15 +42,16 @@ script 2 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	It's too early to
-	relax,though.
+	Ainda é cedo para
+	relaxar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We have to find some
-	ingredients next.
+	Agora,você terá
+	que encontrar
+	ingredientes.
 	"""
 	keyWait
 		any = false
@@ -62,7 +63,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Ingredients,huh?"
+	"Ingredientes?"
 	keyWait
 		any = false
 	clearMsg
@@ -73,67 +74,69 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Oh yeah!"
+	"Claro!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll need the right
-	ingredients to make
-	the curry.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Go look in the
-	Park Area.
+	É preciso os
+	ingredientes certos
+	para fazer curry.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Navi I buy
-	ingredients from
-	should be there now.
+	Procure pela
+	Área Parque.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It sells only the
-	best ingredients,
-	but both the shop
+	O Navi do qual eu
+	compro ingredientes
+	deve estar por aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	owner and that Navi
-	are really stubborn.
+	Ele só vende os me-
+	lhores ingredientes,
+	mas tanto o lojista
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't think he'll
-	just sell the
+	quanto o Navi dele
+	são extremamente
+	teimosos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ingredients right
-	away to a young
-	Navi like you,but
+	Provavelmente
+	não venderão os
+	ingredientes
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you really need
-	those ingredients if
-	you want a chance.
+	para um Navi jovem
+	como você logo de
+	cara,mas você
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	precisa muito dos
+	ingredientes dele
+	para ter uma chance.
 	"""
 	keyWait
 		any = false
@@ -145,14 +148,14 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"I'll go!"
+	"Eu vou lá!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't care what
-	the contest is,I
-	won't let Lan lose!
+	Seja lá qual disputa
+	for,eu não vou dei-
+	xar o Lan perder!
 	"""
 	keyWait
 		any = false
@@ -165,16 +168,16 @@ script 6 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	That's the spirit!
-	Good luck!
+	Esse é o espírito!
+	Boa sorte!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Come back here when
-	you've got the
-	ingredients!
+	Volte aqui quando
+	tiver adquirido os
+	ingredientes!
 	"""
 	keyWait
 		any = false

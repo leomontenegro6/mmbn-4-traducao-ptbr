@@ -5,8 +5,9 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We have to find the
-	key to this door!
+	A gente tem que
+	achar a chave dessa
+	porta!
 	"""
 	keyWait
 		any = false
@@ -22,22 +23,23 @@ script 3 mmbn4 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Whew! It's not easy
-	making beds!
+	Ufa! Arrumar as
+	camas não é mole,
+	não!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think I'll take a
-	little break.
+	Acho que vou fazer
+	uma pausa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't tell anyone
-	about this,OK?
+	Não conta pra
+	ninguém,viu?
 	"""
 	keyWait
 		any = false
@@ -48,8 +50,8 @@ script 5 mmbn4 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Um⋯you're not a
-	guest,are you?
+	Hum... Você não é
+	um hóspede,é?
 	"""
 	keyWait
 		any = false
@@ -60,23 +62,24 @@ script 5 mmbn4 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
-	"No?"
+	"Não?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Good. In that case
-	I'll stay here a bit
+	Ótimo. Nesse caso,
+	vou ficar aqui por
+	mais um tempinho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	longer. This room is
-	nice and cozy!
+	Este quarto é tão
+	aconchegante!
 	"""
 	keyWait
 		any = false
@@ -91,7 +94,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Girl
 	msgOpen
-	"Who're these people?"
+	"Quem são essas\npessoas?"
 	keyWait
 		any = false
 	end
@@ -106,17 +109,17 @@ script 11 mmbn4 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	An Official ordered
-	us indoors,so we
-	came inside! That
+	Um Oficial mandou
+	que fôssemos pra
+	dentro,então,viemos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Official's gonna
-	hear about it if I'm
-	charged a bill!
+	Se me cobrarem diá-
+	ria,aquele Oficial
+	vai ver só!
 	"""
 	keyWait
 		any = false
@@ -132,21 +135,19 @@ script 12 mmbn4 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Why did they order
-	us indoors? Is
-	something bad going
+	Por que mandaram
+	a gente entrar?
+	Vai acontecer algum
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"to happen? This"
+	"desastre? Espero que\nisso não arruine o\nmeu jantar de hoje."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	better not ruin my
-	dinner tonight.
-	I have reservations!
+	Eu fiz reserva!
 	"""
 	keyWait
 		any = false
@@ -162,9 +163,9 @@ script 13 mmbn4 {
 		mugshot = OldManAlt
 	msgOpen
 	"""
-	I don't know what's
-	happening,but I have
-	a bad feeling!
+	Eu não sei o que
+	está acontecendo,
+	mas coisa boa,não é!
 	"""
 	keyWait
 		any = false
@@ -175,9 +176,9 @@ script 15 mmbn4 {
 		mugshot = Girl
 	msgOpen
 	"""
-	How can a person
-	take a break with
-	all these people?!
+	Como uma mulher faz
+	uma pausa com tanta
+	gente aqui?!
 	"""
 	keyWait
 		any = false
@@ -187,13 +188,13 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = BlondMan
 	msgOpen
-	"How long do we have"
+	"Até quando vamos ter\nque ficar aqui?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to be here? I'm
-	getting nervous!
+	Eu tô ficando
+	nervoso!
 	"""
 	keyWait
 		any = false
@@ -204,22 +205,23 @@ script 17 mmbn4 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	It looks like we'll
-	be here awhile⋯
+	Parece que vamos
+	ficar aqui por um
+	bom tempo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I cancelled that
-	dinner of mine.
+	Eu cancelei aquele
+	meu jantar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why can't I ever get
-	a break?
+	Por que nada nunca
+	dá certo pra mim?
 	"""
 	keyWait
 		any = false
@@ -229,13 +231,14 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = OldManAlt
 	msgOpen
-	"I'm bored. Maybe"
+	"Que tédio."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	there's something
-	good on TV⋯
+	Será que tem alguma
+	coisa passando na
+	TV...?
 	"""
 	keyWait
 		any = false
@@ -246,9 +249,9 @@ script 100 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Jack me in,Lan!
-	We've got to save
-	ProtoMan!
+	Me conecta,Lan!
+	A gente tem que
+	salvar o ProtoMan!
 	"""
 	keyWait
 		any = false

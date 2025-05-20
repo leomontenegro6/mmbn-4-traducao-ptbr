@@ -13,16 +13,16 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	msgOpen
 	"""
-	Aqui fica um parque
-	de diversões,na Área
-	Castillo.
+	Por aqui fica a Área
+	Castillo,um parque
+	temático.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Ainda não está
-	aberto ao público.
+	aberta ao público.
 	"""
 	keyWait
 		any = false

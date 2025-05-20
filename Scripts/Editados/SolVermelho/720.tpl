@@ -5,15 +5,17 @@ script 0 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	Congratulations!
-	Very nice skills!
+	Parabéns!
+	Excelentes
+	habilidades!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can see why you're
-	in the tourney!
+	Dá para ver por que
+	você está no
+	torneio!
 	"""
 	keyWait
 		any = false
@@ -25,9 +27,9 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	We did it!
-	Score,Netopian
-	bread!
+	Legal!
+	Vem pra mim,
+	pão ameropano!
 	"""
 	keyWait
 		any = false
@@ -51,9 +53,8 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = NaviGirlOrange
 	"""
-	And here's your
-	ticket for Netopian
-	bread.
+	E aqui,o seu vale
+	pão ameropano.
 	"""
 	keyWait
 		any = false
@@ -62,8 +63,8 @@ script 3 mmbn4 {
 		slot = 31
 		length = 8
 	"""
-	What?! You're
-	looking rather pale.
+	O que foi?! Você
+	está tão pálido...
 	"""
 	keyWait
 		any = false
@@ -74,7 +75,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"*pant pant*"
+	"Urf... Urf..."
 	keyWait
 		any = false
 	end
@@ -85,7 +86,7 @@ script 5 mmbn4 {
 	msgOpen
 	"""
 	MegaMan?
-	What's wrong?!
+	O que foi?!
 	"""
 	keyWait
 		any = false
@@ -96,7 +97,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"I feel horrible!"
+	"Eu tô me sentindo\npéssimo!"
 	keyWait
 		any = false
 	clearMsg
@@ -107,19 +108,20 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Oh no! MegaMan's
-	losing strength!
+	Ah,não! O MegaMan
+	tá perdendo forças!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What's going on?!"
+	"O que tá\nacontecendo?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'd better jack
-	out fast,MegaMan!
+	É melhor você se
+	desconectar logo,
+	MegaMan!
 	"""
 	keyWait
 		any = false
@@ -130,23 +132,23 @@ script 8 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You were fine until
-	just now. What the
-	heck happened?
+	Você tava ótimo
+	até ainda agora.
+	O que aconteceu?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This worries me,
-	MegaMan.
+	Eu tô preocupado,
+	MegaMan...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder if someone
-	can help out?
+	Será que tem alguém
+	que possa te ajudar?
 	"""
 	keyWait
 		any = false
@@ -155,13 +157,13 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	msgOpen
 	"""
-	Hehehe⋯
-	Suffer! Suffer!
+	He he he...
+	Sofra! Sooofraaa!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Suffer,MegaMan!"
+	"Sofra,MegaMan!"
 	keyWait
 		any = false
 	end

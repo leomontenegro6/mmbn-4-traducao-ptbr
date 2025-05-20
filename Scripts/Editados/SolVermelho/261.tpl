@@ -10,8 +10,8 @@ script 2 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It isn't time for
-	your match yet!
+	Ainda não tá na hora
+	da nossa luta!
 	"""
 	keyWait
 		any = false
@@ -28,9 +28,9 @@ script 130 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Lan,have
-	you seen Mr.Match
-	by any chance?
+	Lan,por acaso você
+	viu o Sr. Match por
+	aí?
 	"""
 	keyWait
 		any = false
@@ -38,8 +38,8 @@ script 130 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Are you trying to
-	find him,too?
+	Você também tá
+	atrás dele?
 	"""
 	keyWait
 		any = false
@@ -47,9 +47,9 @@ script 130 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	Yes,I am.
-	He seems to have
-	dropped this.
+	Sim,estou. Parece
+	que ele deixou cair
+	isto aqui.
 	"""
 	keyWait
 		any = false
@@ -57,8 +57,9 @@ script 130 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I'm happy to take
-	it to him for you!
+	Se quiser,posso
+	entregar pra ele
+	por você!
 	"""
 	keyWait
 		any = false
@@ -84,7 +85,7 @@ script 130 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = SciLabYoungMan
-	"Thank you!"
+	"Obrigado!"
 	keyWait
 		any = false
 	end
@@ -94,8 +95,8 @@ script 131 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	But I wonder where
-	Mr.Match went⋯?
+	Mas aonde será que o
+	Sr. Match foi...?
 	"""
 	keyWait
 		any = false
@@ -106,8 +107,9 @@ script 240 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hey! It's the
-	igniter! It's here!
+	Ah! É o dispositivo
+	de ignição!
+	Ele tá aqui!
 	"""
 	keyWait
 		any = false

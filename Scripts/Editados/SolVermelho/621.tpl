@@ -18,22 +18,22 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Bwe've bwot bwubble!
-	(We've got trouble!)
+	Qwre pwrobremãm!
+	(Que problemão!)
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ba Bet's bunder
-	bwater!
+	Ba Brdbe btá
+	sbuberwsa!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	(The Net's under
-	water!)
+	(A Rede tá
+	submersa!)
 	"""
 	keyWait
 		any = false
@@ -41,9 +41,9 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	What?!
-	Hurry,jack out now!
-	You'll drown!
+	O quê?!
+	Rápido,desconecta!
+	Cê vai se afogar!
 	"""
 	keyWait
 		any = false
@@ -54,9 +54,9 @@ script 1 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I can't believe it!
-	The Net's completely
-	under water!
+	Que louco! A Rede
+	tá completamente
+	submersa!
 	"""
 	keyWait
 		any = false
@@ -64,16 +64,16 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	MegaMan,you've got
-	to find AquaMan!
-	Hurry!
+	MegaMan,cê tem que
+	achar o AquaMan!
+	Rápido!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Roger!"
+	"Tá!"
 	keyWait
 		any = false
 	end

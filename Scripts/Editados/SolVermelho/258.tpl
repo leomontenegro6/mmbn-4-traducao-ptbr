@@ -24,20 +24,21 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
 	msgOpen
-	"You're a contestant?"
+	"Você é um competidor?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Take the stairs to
-	the WaitingRoom.
+	Suba as espadas para
+	a Sala de Espera.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	An official will
-	meet you there.
+	Lá,um homem da
+	organização irá
+	falar com você.
 	"""
 	keyWait
 		any = false
@@ -63,9 +64,9 @@ script 1 mmbn4 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	This is my first
-	time in the DenDome.
-	It's really nice!
+	É a minha primeira
+	vez no DenDomo.
+	É bem legal!
 	"""
 	keyWait
 		any = false
@@ -91,9 +92,9 @@ script 2 mmbn4 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	Who'll battle first?
-	Who's gonna win? I
-	can hardly wait!!
+	Quem vai lutar pri-
+	meiro? Quem vai
+	vencer? Quero saber!
 	"""
 	keyWait
 		any = false
@@ -119,16 +120,16 @@ script 3 mmbn4 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	I hear Electopian
-	Net Battlers are
-	all really good.
+	Ouvi dizer que todos
+	os NetLutadores de
+	Ni-Hon são ótimos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm going to
-	watch and learn!
+	Vou aprender
+	bastante assistindo!
 	"""
 	keyWait
 		any = false
@@ -139,8 +140,8 @@ script 5 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Aim for the top!
-	Good luck!
+	Almeje o topo!
+	Boa sorte!
 	"""
 	keyWait
 		any = false
@@ -151,13 +152,14 @@ script 6 mmbn4 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	I love any kind of
-	tournament,but the
+	Eu adoro todos os
+	torneios,mas as
+	lutas deste em
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"battles here are \nreally worth seeing!"
+	"particular valem\nmesmo a pena!"
 	keyWait
 		any = false
 	end
@@ -167,8 +169,9 @@ script 7 mmbn4 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	Electopian Battlers
-	are all so good.
+	NetLutadores
+	ni-honenses são
+	todos tão bons.
 	"""
 	keyWait
 		any = false
@@ -179,9 +182,9 @@ script 8 mmbn4 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	If I'd entered the
-	tournament,I'd have
-	won for sure,dude!
+	Se eu tivesse entra-
+	do no torneio,com
+	certeza venceria!
 	"""
 	keyWait
 		any = false
@@ -192,9 +195,9 @@ script 10 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	You're pretty good!
-	Keep it up for the
-	championship!
+	Você é bom,viu?!
+	Continue nesse pique
+	no campeonato!
 	"""
 	keyWait
 		any = false
@@ -205,9 +208,9 @@ script 11 mmbn4 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	So the tournament's
-	over after the next
-	battle? Too bad⋯
+	Então,depois da pró-
+	xima luta,acaba o
+	torneio? Poxa...
 	"""
 	keyWait
 		any = false
@@ -218,9 +221,9 @@ script 12 mmbn4 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	Hey! So,you're
-	goin' to the finals!
-	You go,boy!
+	Opa! Então,você tá
+	na final?!
+	Manda ver,garoto!
 	"""
 	keyWait
 		any = false
@@ -231,9 +234,9 @@ script 13 mmbn4 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	I'm really lookin'
-	forward to seein'
-	you kick some butt!
+	Tô ansioso pra te
+	ver fazer bonito na
+	arena,rapaz!
 	"""
 	keyWait
 		any = false
@@ -244,16 +247,16 @@ script 30 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	So you're in the
-	tournament? Oh!
+	Então,você está no
+	torneio? Ah!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do you think you
-	can handle your
-	fellow competitors?
+	Acha que é páreo
+	para os demais
+	competidores?
 	"""
 	keyWait
 		any = false
@@ -268,9 +271,9 @@ script 130 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Registration's just
-	about to close now.
-	Time for a break!
+	As inscrições estão
+	para acabar. Hora
+	de uma pausa!
 	"""
 	keyWait
 		any = false
@@ -285,9 +288,9 @@ script 131 mmbn4 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	That guy Mr.Match
-	seems like a
-	seedy character⋯
+	Aquele cara,o Sr.
+	Match,parece meio
+	suspeito...
 	"""
 	keyWait
 		any = false
@@ -302,9 +305,8 @@ script 132 mmbn4 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	The lineup for the
-	rest room is so
-	long!
+	A fila pro banheiro
+	tá impossível!
 	"""
 	keyWait
 		any = false
@@ -319,9 +321,9 @@ script 133 mmbn4 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Mr.Match's FireMan
-	is a Fire Navi!
-	I can just tell!
+	O FireMan,do Sr.
+	Match,é um Navi de
+	Fogo! Eu sei que é!
 	"""
 	keyWait
 		any = false
@@ -332,9 +334,9 @@ script 135 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Something happened!
-	Everyone stay calm!
-	STAY CALM⋯!
+	Aconteceu alguma
+	coisa! Fiquem
+	calmos! CALMOS...!
 	"""
 	keyWait
 		any = false
@@ -345,8 +347,9 @@ script 136 mmbn4 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	I just knew that Mr.
-	Match was dangerous!
+	Eu SABIA que aquele
+	Sr. Match era
+	perigoso!
 	"""
 	keyWait
 		any = false
@@ -357,8 +360,8 @@ script 137 mmbn4 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	This is no time to
-	use the rest room!
+	Isto não é hora de
+	ir no banheiro!
 	"""
 	keyWait
 		any = false
@@ -369,15 +372,15 @@ script 138 mmbn4 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	This incident didn't
-	scare me a bit!
+	Esse incidente não
+	me assustou nada!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 1
-	"(Shiver,shiver!)"
+	"(Treme,treme!)"
 	keyWait
 		any = false
 	end
@@ -387,8 +390,9 @@ script 240 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	The igniter's here?
-	Let's go,MegaMan!
+	O dispositivo de
+	ignição tá aqui?
+	Vamos lá,MegaMan!
 	"""
 	keyWait
 		any = false
@@ -399,8 +403,8 @@ script 241 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Found the igniter!
-	Go for it,MegaMan!
+	Achei o dispositivo!
+	Manda ver,MegaMan!
 	"""
 	keyWait
 		any = false
@@ -411,9 +415,9 @@ script 242 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	⋯Got it!
-	He hid it in this
-	complicated place!
+	... Pronto! Argh,ele
+	escondeu num lugar
+	tão complicado!
 	"""
 	keyWait
 		any = false
@@ -424,8 +428,9 @@ script 243 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It's the igniter!
-	Go for it,MegaMan!
+	É o dispositivo de
+	ignição! Manda ver,
+	MegaMan!
 	"""
 	keyWait
 		any = false

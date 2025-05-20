@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	OK! YumLand Area and
-	ACDC 2 are now
-	connected,Lan!
+	Boa! As Áreas
+	Saborya e ACDC
+	foram reconectadas!
 	"""
 	keyWait
 		any = false

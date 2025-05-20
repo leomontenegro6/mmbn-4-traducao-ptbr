@@ -25,17 +25,16 @@ script 2 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I smacked the Navi
-	that locked you in
-	here!
+	Eu já surrei o
+	Navi que te
+	prendeu aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll save you from
-	those viruses right
-	away!
+	Calma aí,te salvo
+	desses vírus já!
 	"""
 	keyWait
 		any = false
@@ -47,13 +46,13 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Roll
 	msgOpen
-	"Mega,wait!"
+	"Mega,espera!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	These darlings
-	aren't so bad!
+	Estes fofinhos não
+	são tão ruins!
 	"""
 	keyWait
 		any = false
@@ -65,7 +64,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Huh?!"
+	"Quê?!"
 	keyWait
 		any = false
 	end
@@ -74,7 +73,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"What do you mean?"
+	"Como assim?"
 	keyWait
 		any = false
 	clearMsg
@@ -86,8 +85,9 @@ script 6 mmbn4 {
 		mugshot = Roll
 	msgOpen
 	"""
-	They like me! It's
-	totally safe!
+	Eles gostam de mim!
+	É seguro,não se
+	preocupa!
 	"""
 	keyWait
 		any = false
@@ -104,31 +104,29 @@ script 7 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	if you're okay,go
-	home to Mayl right
-	away!
+	já que você tá bem,
+	volta logo pra Mayl!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	She's worried about
-	you.
+	Ela tá preocupada
+	com você.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh yeah,and there's
-	our match,too.
+	Ah,e tem a nossa
+	luta,também.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Are you sure you
-	want to do this,
-	Roll?
+	Certeza que quer
+	fazer isso,Roll?
 	"""
 	keyWait
 		any = false
@@ -141,15 +139,14 @@ script 8 mmbn4 {
 		mugshot = Roll
 	msgOpen
 	"""
-	What are you talking
-	about?
+	Como assim?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You want me to
-	withdrawal?
+	Você quer que eu me
+	renda?
 	"""
 	keyWait
 		any = false
@@ -162,17 +159,17 @@ script 9 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	That Navi that kid-
-	napped you wasn't
-	very tough.
+	O Navi que te
+	sequestrou não era
+	lá tão forte.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd rather not
-	attack you,to be
-	honest.
+	Eu preferiria não
+	ter que te atacar,
+	pra ser sincero.
 	"""
 	keyWait
 		any = false
@@ -184,29 +181,29 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Roll
 	msgOpen
-	"*clank!*"
+	"Humpf!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I may not have
-	Mega's techniques or
-	rare chips,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	but I'm too fast to
-	lose to you!
+	Eu posso não ter a
+	sua técnica ou os
+	seus chips raros,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm not going to
-	withdraw from the
-	tournament!
+	mas sou rápida
+	demais pra você me
+	derrubar!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Eu não vou me
+	render!
 	"""
 	keyWait
 		any = false
@@ -218,7 +215,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"B-but⋯"
+	"M-mas..."
 	keyWait
 		any = false
 	clearMsg
@@ -230,16 +227,16 @@ script 12 mmbn4 {
 		mugshot = Roll
 	msgOpen
 	"""
-	I'm gonna stay here
-	a little longer. You
-	go on ahead!
+	Vou ficar aqui mais
+	um pouquinho. Pode
+	ir na frente!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thank you for saving
-	me!
+	E obrigada por me
+	salvar!
 	"""
 	keyWait
 		any = false
@@ -250,8 +247,8 @@ script 13 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,I think I made
-	her mad.
+	Lan,acho que eu
+	deixei ela zangada.
 	"""
 	keyWait
 		any = false
@@ -264,9 +261,9 @@ script 14 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I think you should
-	hold your tongue and
-	do as she said.
+	Melhor você ficar
+	quietinho e fazer
+	como ela mandou.
 	"""
 	keyWait
 		any = false
@@ -278,7 +275,7 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Y-yeah⋯"
+	"É-é..."
 	keyWait
 		any = false
 	end
@@ -288,8 +285,8 @@ script 16 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Roll,I'm gonna take
-	off now.
+	Bom,Roll,eu vou indo
+	agora.
 	"""
 	keyWait
 		any = false
@@ -300,20 +297,21 @@ script 17 mmbn4 {
 		mugshot = Roll
 	msgOpen
 	"""
-	Mega,you're so
-	rude!
+	Esse Mega é um
+	grosso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I never knew I had
-	so much power in me.
+	Eu nem imaginava que
+	tinha tanto poder
+	dentro de mim.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"That time⋯"
+	"Ainda agora..."
 	keyWait
 		any = false
 	end
@@ -323,26 +321,26 @@ script 18 mmbn4 {
 		mugshot = Roll
 	msgOpen
 	"""
-	It's no good,I
-	can't get away⋯or
-	reach Mayl⋯
+	Não adianta,eu não
+	consigo sair... ou
+	contatar a Mayl...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll have to use the
-	trick I practiced
-	for the tournament.
+	Vou ter que usar o
+	truque que eu trei-
+	nei pro torneio.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hah!!!"
+	"Iá!!!"
 	keyWait
 		any = false
 	clearMsg
-	"Roll Charm!!!"
+	"Encanto Roll!!!"
 	keyWait
 		any = false
 	end
@@ -351,21 +349,21 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = Roll
 	msgOpen
-	"It's a success!"
+	"Deu tudo certo."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My strategy's
-	working.
+	A minha estratégia
+	tá funcionando.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But first,I'll have
-	to make Mega want to
-	fight me.
+	Mas,primeiro,tenho
+	que fazer o Mega
+	querer lutar comigo.
 	"""
 	keyWait
 		any = false

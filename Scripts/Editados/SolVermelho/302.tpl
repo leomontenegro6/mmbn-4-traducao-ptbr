@@ -9,86 +9,87 @@ script 0 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Welcome to the
-	Halberd Princess
-	Cyberworld!
+	Bem-vindo ao Cyber-
+	Mundo da Princesa
+	Alabarda!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The raft that you
-	will now board⋯
+	A jangada na qual
+	você está a
+	embarcar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯will take you along
-	the story of the
-	Halberd Princess!
+	... lhe levará atra-
+	vés da história da
+	Princesa Alabarda!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	However,with the
-	ToyRobo's running
-	wild⋯
+	Contudo,com o
+	Robô-Brinquedo
+	fora de controle...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯Even I don't know
-	what may happen!
+	nem eu sei o que
+	pode acontecer!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To stop the ToyRobo,
-	you will need to
-	flip the switch
+	Para parar o Robô,
+	será preciso apertar
+	o botão
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	found deep inside
-	this area!
+	localizado mais
+	a fundo nesta área!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Stop switch
-	should have flipped
-	by itself⋯
+	A função de parar
+	devia ter se
+	ativado sozinha...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But the automatic
-	system seems to have
-	failed⋯
+	mas o sistema
+	automático parece
+	ter dado erro...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There must be
-	something wrong with
-	that switch!
+	Deve haver alguma
+	coisa errada com o
+	botão!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your journey will be
-	dangerous⋯are you
-	sure you want to go?
+	Sua jornada será
+	perigosa... Quer
+	mesmo embarcar?
 	"""
 	keyWait
 		any = false
@@ -132,9 +133,9 @@ script 1 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Ok! Then let our
-	journey of danger⋯
-	⋯begin!
+	OK! Então,que comece
+	a sua jornada...
+	do perigo!
 	"""
 	keyWait
 		any = false
@@ -147,8 +148,9 @@ script 2 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Let me know when you
-	are ready to depart!
+	Me avise quando
+	estiver pronto para
+	partir!
 	"""
 	keyWait
 		any = false
@@ -162,8 +164,8 @@ script 3 mmbn4 {
 		jumpIfOne = 10
 		jumpIfLess = continue
 	"""
-	You have found
-	story data entitled
+	Você achou dados
+	de narrativa:
 	"
 	"""
 	printStoryData
@@ -173,7 +175,7 @@ script 3 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Take it?\n"
+	"Pegar?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -220,8 +222,8 @@ script 4 mmbn4 {
 		jumpIfOne = 10
 		jumpIfLess = continue
 	"""
-	You have found
-	story data entitled
+	Você achou dados
+	de narrativa:
 	"
 	"""
 	printStoryData
@@ -231,7 +233,7 @@ script 4 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Take it?\n"
+	"Pegar?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -278,8 +280,8 @@ script 5 mmbn4 {
 		jumpIfOne = 10
 		jumpIfLess = continue
 	"""
-	You have found
-	story data entitled
+	Você achou dados
+	de narrativa:
 	"
 	"""
 	printStoryData
@@ -289,7 +291,7 @@ script 5 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Take it?\n"
+	"Pegar?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -336,8 +338,8 @@ script 6 mmbn4 {
 		jumpIfLess = continue
 	msgOpen
 	"""
-	You have found
-	story data entitled
+	Você achou dados
+	de narrativa:
 	"
 	"""
 	printStoryData
@@ -347,7 +349,7 @@ script 6 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Take it?\n"
+	"Pegar?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -394,8 +396,8 @@ script 7 mmbn4 {
 		jumpIfOne = 10
 		jumpIfLess = continue
 	"""
-	You have found
-	story data entitled
+	Você achou dados
+	de narrativa:
 	"
 	"""
 	printStoryData
@@ -405,7 +407,7 @@ script 7 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Take it?\n"
+	"Pegar?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -452,8 +454,8 @@ script 8 mmbn4 {
 		jumpIfOne = 10
 		jumpIfLess = continue
 	"""
-	You have found
-	story data entitled
+	Você achou dados
+	de narrativa:
 	"
 	"""
 	printStoryData
@@ -463,7 +465,7 @@ script 8 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Take it?\n"
+	"Pegar?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -510,8 +512,8 @@ script 9 mmbn4 {
 		jumpIfOne = 10
 		jumpIfLess = continue
 	"""
-	You have found
-	story data entitled
+	Você achou dados
+	de narrativa:
 	"
 	"""
 	printStoryData
@@ -521,7 +523,7 @@ script 9 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Take it?\n"
+	"Pegar?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -565,8 +567,9 @@ script 10 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I can't carry any
-	more story data!
+	Não posso carregar
+	mais dados de
+	narrativa!
 	"""
 	keyWait
 		any = false
@@ -585,14 +588,14 @@ script 11 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Bring the missing
-	story data for this
-	episode!
+	Traga os dados de
+	narrativa que faltam
+	a este episódio!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Be careful!"
+	"Tome cuidado!"
 	keyWait
 		any = false
 	end
@@ -602,23 +605,24 @@ script 12 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	You've brought me
-	story data!
+	Você me trouxe os
+	dados de narrativa!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Set the story data
-	into the door!
+	Insira os dados
+	de narrativa na
+	porta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you've set the
-	correct story,the
-	door will open!
+	Se tiver expressado
+	a história direito,
+	a porta se abrirá!
 	"""
 	keyWait
 		any = false
@@ -640,14 +644,14 @@ script 14 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Bring the missing
-	story data for this
-	episode!
+	Traga os dados de
+	narrativa que faltam
+	a este episódio!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Be careful!"
+	"Tome cuidado!"
 	keyWait
 		any = false
 	end
@@ -665,14 +669,14 @@ script 15 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Bring the missing
-	story data for this
-	episode!
+	Traga os dados de
+	narrativa que faltam
+	a este episódio!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Be careful!"
+	"Tome cuidado!"
 	keyWait
 		any = false
 	end
@@ -681,7 +685,7 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Do you wish to ride?"
+	"Quer embarcar?"
 	keyWait
 		any = false
 	clearMsg
@@ -727,8 +731,9 @@ script 18 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Thank you for
-	riding!
+	Obrigado por
+	experimentar o
+	passeio!
 	"""
 	keyWait
 		any = false
@@ -739,17 +744,17 @@ script 20 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Welcome to the
-	Halberd Princess
-	Cyberworld!
+	Bem-vindo ao
+	Cyber-Mundo da
+	Princesa Alabarda!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is a leisurely
-	cruise on a raft.
-	Ready to depart?
+	É uma viagem tran-
+	quila de jangada.
+	Pronto para zarpar?
 	"""
 	keyWait
 		any = false
@@ -793,8 +798,8 @@ script 21 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Ok!
-	Away we go.
+	OK!
+	Lá vamos nós!
 	"""
 	keyWait
 		any = false

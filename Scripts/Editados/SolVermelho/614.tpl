@@ -5,16 +5,16 @@ script 0 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	I'm impressed! You
-	actually found me!
+	Estou impressionado!
+	Você me achou mesmo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm done with this
-	world. Can you send
-	me to the next?
+	Cansei deste mundo.
+	Poderia me mandar
+	para o pós-vida?
 	"""
 	keyWait
 		any = false
@@ -27,7 +27,7 @@ script 1 mmbn4 {
 		mugshot = Lan
 	"""
 	MegaMan!
-	Use the CybSutra!
+	Usa o Cyber Sutra!
 	"""
 	keyWait
 		any = false
@@ -38,7 +38,7 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Roger!"
+	"Certo!"
 	keyWait
 		any = false
 	clearMsg
@@ -46,9 +46,9 @@ script 2 mmbn4 {
 		timer = 1
 		value = 1
 	"""
-	Pointer mouse click
-	click double click.
-	Is that it?!
+	Ponteiro,mouse,
+	clique,clique,clique
+	duplo. É isso?!
 	"""
 	keyWait
 		any = false
@@ -59,9 +59,9 @@ script 3 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	I've had a good
-	life,with no
-	regrets.
+	Eu tive uma boa
+	vida. Parto sem
+	arrependimentos...
 	"""
 	keyWait
 		any = false
@@ -70,8 +70,9 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	msgOpen
 	"""
-	The Navi ghost
-	dropped something.
+	O Navi fantasma
+	deixou cair alguma
+	coisa.
 	"""
 	keyWait
 		any = false

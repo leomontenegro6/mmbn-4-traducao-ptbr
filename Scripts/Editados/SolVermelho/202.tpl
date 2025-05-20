@@ -13,9 +13,9 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The true form of the
-	WaterGod⋯A River
-	Management System?!
+	A verdadeira forma
+	do Deus da Água...
+	O Sistema!
 	"""
 	keyWait
 		any = false
@@ -23,56 +23,57 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	It's h-huge⋯!
-	But now is no time
-	for being impressed!
+	É-é enorme...!
+	Mas não é hora de
+	ficar surpreso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,you must
-	purify the system!
+	MegaMan,você tem
+	que purificar o
+	sistema!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Roger!"
+	"Certo!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	Just as MegaMan
-	touched the River
-	Management System,
+	Assim que MegaMan
+	encostou no Sistema
+	de Gerenciamento,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"a virus broke out!"
+	"um vírus saltou\ndele!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	This viruses is the
-	cause of the system
-	going crazy!
+	Esses vírus são a
+	causa da pane do
+	sistema!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Come on,Lan!"
+	"Vamos,Lan!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Sure,I'm on it!"
+	"Tô pronto!"
 	keyWait
 		any = false
 	clearMsg
@@ -95,15 +96,16 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	msgOpen
 	"""
-	The River Management
-	System⋯
+	O Sistema de
+	Gerenciamento do
+	Rio...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's working fine
-	now.
+	Ele está operando
+	normalmente agora.
 	"""
 	keyWait
 		any = false

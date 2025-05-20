@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"W-What's that?!"
+	"O-o que foi?!"
 	keyWait
 		any = false
 	end
@@ -14,13 +14,14 @@ script 1 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	From under the raft⋯
-	There's⋯
+	Debaixo da
+	jangada...
+	Tem...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"A-Aaah!"
+	"A-aaah!"
 	keyWait
 		any = false
 	clearMsg
@@ -31,7 +32,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Viruses!"
+	"Vírus!"
 	keyWait
 		any = false
 	end

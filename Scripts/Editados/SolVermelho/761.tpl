@@ -4,13 +4,14 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Whoa!!"
+	"Eita!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What the?!
-	What's going on?!
+	Ué...?!
+	O que tá
+	acontecendo?!
 	"""
 	keyWait
 		any = false
@@ -23,13 +24,13 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"A blizzard?!"
+	"Uma nevasca?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But it's not even
-	snow season!
+	Mas nem é inverno
+	ainda!
 	"""
 	keyWait
 		any = false
@@ -43,7 +44,7 @@ script 2 mmbn4 {
 		value = 1
 	mugshotHide
 	soundDisableTextSFX
-	"Beep beep beep!"
+	"Bip Bip Bip!"
 	keyWait
 		any = false
 	waitOWVar
@@ -56,57 +57,58 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,you got mail!"
+	"Lan,chegou e-mail!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's from Netopia's
-	Weather Center!
-	I'll read it!
+	É do Centro Climá-
+	tico da Ameropa!
+	Eu vou ler!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"The sudden blizzard\n menacing Netopia"
+	"\"Acredita-se que a\nnevasca repentina\nque ameaça a Ameropa"
 	keyWait
 		any = false
 	clearMsg
-	" is thought to have\n been caused by a\n cold air mass from"
+	"tenha sido causada\npor uma massa de ar\nfrio advinda de"
 	keyWait
 		any = false
 	clearMsg
-	" Sharo. What caused\n the air mass to\n come to Netopia is"
+	"Sharo. Ainda não se\nsabe o que levou a\nmassa para a"
 	keyWait
 		any = false
 	clearMsg
-	" as yet unknown."
+	"Ameropa."
 	keyWait
 		any = false
 	clearMsg
-	" The Sharo Space\n Center weather"
+	"O satélite do Centro\nEspacial de Sharo\ndeveria administrar"
 	keyWait
 		any = false
 	clearMsg
-	" satellite\n purportedly manages"
+	"o clima da região,"
 	keyWait
 		any = false
 	clearMsg
-	" the region's\n weather"
-	keyWait
-		any = false
-	clearMsg
-	" but officials\n believe it may be\n malfunctioning.\""
-	keyWait
-		any = false
-	clearMsg
-	"That's it."
+	"mas autoridades\nacreditam que ele\nestá com mau"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Any ideas,
-	Lan?!
+	funcionamento."
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Fim do e-mail."
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Alguma ideia,Lan?!
 	"""
 	keyWait
 		any = false
@@ -118,13 +120,13 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Hmmm⋯Sharo⋯
-	A blizzard⋯Cold⋯
+	Hmmm... Sharo...
+	Nevasca... Frio...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯That's it!!"
+	"... É isso!!"
 	keyWait
 		any = false
 	clearMsg
@@ -134,14 +136,14 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Oh⋯"
+	"Ah..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You mean that "natu-
-	ral cold" they were
-	talking about?
+	Tá falando do "frio
+	natural" de que eles
+	tavam falando?
 	"""
 	keyWait
 		any = false
@@ -153,16 +155,15 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Right.
-	This is bad!
+	Aham.
+	Isso é péssimo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wonder if the
-	tournament will
-	be canceled?
+	Será que o torneio
+	vai ser cancelado?
 	"""
 	keyWait
 		any = false
@@ -173,7 +174,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"It's a possibility."
+	"É possível."
 	keyWait
 		any = false
 	clearMsg
@@ -183,20 +184,20 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"We gotta do some-"
+	"A gente tem que\nfazer alguma coisa!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	thing! Hmmm⋯
-	Didn't that mail say
+	Hmm...
+	O e-mail falou de um
+	Central Espacial de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	something about the
-	Sharo Space Center?
+	Sharo,não foi?
 	"""
 	keyWait
 		any = false
@@ -208,8 +209,9 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Maybe we should
-	visit Sharo?
+	Acha que a gente
+	devia ir visitar
+	Sharo?
 	"""
 	keyWait
 		any = false
@@ -221,14 +223,14 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Yeah,I couldn't bear
-	to see the tourna-
-	ment canceled!
+	Acho. Eu não aceito
+	o torneio ser
+	cancelado!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's go,MegaMan!!"
+	"Bora,MegaMan!!"
 	keyWait
 		any = false
 	end

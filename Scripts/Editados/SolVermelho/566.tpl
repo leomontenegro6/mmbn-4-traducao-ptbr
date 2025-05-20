@@ -4,11 +4,11 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"GutsMan's deleted!!"
+	"O GutsMan foi\nderrotado!!"
 	keyWait
 		any = false
 	clearMsg
-	"Lan wins!!"
+	"O vencedor é\nLan Hikari!!"
 	keyWait
 		any = false
 	end
@@ -17,7 +17,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I did it!"
+	"Aê!"
 	keyWait
 		any = false
 	end
@@ -27,8 +27,9 @@ script 2 mmbn4 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Dang yer good! You
-	beat my pants off!
+	Nossa,cê é bom
+	mesmo!
+	Acabou comigo!
 	"""
 	keyWait
 		any = false
@@ -40,8 +41,9 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	No! That was a
-	great battle!
+	Que nada,Dex!
+	Foi uma batalha
+	acirrada!
 	"""
 	keyWait
 		any = false
@@ -52,7 +54,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = Dex
-	"Sure was!"
+	"Foi mesmo!"
 	keyWait
 		any = false
 	end
@@ -61,14 +63,14 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Sorry I lost,Chisao."
+	"Desculpa eu ter\nperdido,Chisao."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wanted to show
-	you how cool I
-	was but⋯
+	Eu queria te mostrar
+	como eu era legal,
+	mas...
 	"""
 	keyWait
 		any = false
@@ -92,8 +94,8 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Dex
 	"""
-	What's wrong,Chisao?
-	You sick or what?
+	Que foi,Chisao?
+	Tá passando mal?
 	"""
 	keyWait
 		any = false
@@ -103,13 +105,14 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Chisao
 	msgOpen
-	"⋯I'm sorry!"
+	"... Desculpa!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wasn't really
-	kidnapped!
+	Eu não fui
+	sequestrado de
+	verdade!
 	"""
 	keyWait
 		any = false
@@ -120,11 +123,11 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotShow
 		mugshot = Dex
-	"You weren't?!"
+	"Não foi?!"
 	keyWait
 		any = false
 	clearMsg
-	"Whadaya mean?!"
+	"Mas como assim?!"
 	keyWait
 		any = false
 	clearMsg
@@ -134,20 +137,20 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = Chisao
-	"Ummm⋯Uhhh⋯"
+	"Humm... Er..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The kidnapping was
-	all my idea.
+	O sequestro foi
+	todo ideia minha.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I didn't want big
-	brudder to lose!
+	Eu não queria que
+	você perdesse!
 	
 	"""
 	mugshotAnimation
@@ -158,7 +161,7 @@ script 10 mmbn4 {
 	clearMsg
 	mugshotAnimation
 		animation = 2
-	"I'm sorry!"
+	"Desculpa!"
 	keyWait
 		any = false
 	clearMsg
@@ -168,19 +171,19 @@ script 10 mmbn4 {
 script 11 mmbn4 {
 	mugshotShow
 		mugshot = Dex
-	"You idiot!!"
+	"Seu boboca!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do you have any idea
-	how worried Lan and
-	I were?!
+	Tem ideia do quanto
+	o Lan e eu ficamos
+	preocupados?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Apologize to Lan!"
+	"Pede desculpas pro\nLan!"
 	keyWait
 		any = false
 	end
@@ -190,15 +193,16 @@ script 12 mmbn4 {
 		mugshot = Dex
 	msgOpen
 	"""
-	I take full respon-
-	sibility for my
+	Eu assumo toda a
+	responsabilidade
+	pelo que o meu irmão
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	brother's actions!
-	Please forgive me!
+	fez! Por favor,me
+	perdoa!
 	"""
 	keyWait
 		any = false
@@ -209,7 +213,7 @@ script 12 mmbn4 {
 script 13 mmbn4 {
 	mugshotShow
 		mugshot = Chisao
-	"I'm sorry⋯"
+	"Desculpa..."
 	keyWait
 		any = false
 	clearMsg
@@ -220,23 +224,23 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Forget about it!
-	The important thing
-	is Chisao's OK!
+	De boa! O importante
+	é que o Chisao tá
+	bem!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He was only doing it
-	for you.
+	Ele só fez isso por
+	você.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It shows how devoted
-	he is to you.
+	Só mostra o quanto
+	ele te adora.
 	"""
 	keyWait
 		any = false
@@ -255,22 +259,24 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Dex
 	"""
-	You really feel that
-	way? I owe ya.
+	Pra valer?
+	Fico te devendo essa
+	também.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't belong here
-	with the winner.
+	Eu não devia ficar
+	aqui,com o vencedor.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Losers must step
-	aside! Let's go.
+	O perdedor tem que
+	se retirar!
+	Vamos lá.
 	"""
 	keyWait
 		any = false
@@ -284,7 +290,7 @@ script 15 mmbn4 {
 script 16 mmbn4 {
 	mugshotShow
 		mugshot = Chisao
-	"OK!"
+	"Tá!"
 	keyWait
 		any = false
 	end
@@ -301,16 +307,16 @@ script 17 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Losers must step
-	aside? What a good
-	sport!
+	"O perdedor tem que
+	se retirar"... Tá aí
+	um bom perdedor!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can relate to
-	someone like that.
+	Respeito demais
+	gente assim.
 	"""
 	keyWait
 		any = false
@@ -321,20 +327,21 @@ script 17 mmbn4 {
 script 18 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Yeah!"
+	"É!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I was impressed with
-	Dex's Chivalry
+	Fiquei impressionado
+	com a nobreza do
+	Dex...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and GutsMan's gutsy
-	soul!
+	e com a alma forte
+	do GutsMan!
 	"""
 	keyWait
 		any = false
@@ -350,9 +357,9 @@ script 19 mmbn4 {
 	soundPlay
 		track = 220
 	"""
-	MegaMan's soul has
-	communed with
-	GutsMan's!!
+	A Alma do MegaMan
+	se ligou à do
+	GutsMan!!
 	"""
 	keyWait
 		any = false
@@ -366,23 +373,23 @@ script 20 mmbn4 {
 		mugshot = Dex
 	msgOpen
 	"""
-	You really feel that
-	way? I owe ya.
+	Certeza?
+	Cara,tô te devendo
+	mais essa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,we gotta get
-	going. I'm in
-	another tournament!
+	Bom,tô indo. Eu já
+	me inscrevi em
+	outro torneio!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm gonna win
-	that one!
+	Esse eu vou vencer!
 	"""
 	keyWait
 		any = false
@@ -395,7 +402,7 @@ script 20 mmbn4 {
 script 21 mmbn4 {
 	mugshotShow
 		mugshot = Chisao
-	"Yeah!"
+	"É!"
 	keyWait
 		any = false
 	end
@@ -405,8 +412,8 @@ script 22 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Wow,those guys are
-	really close.
+	Aqueles dois são bem
+	chegados mesmo.
 	"""
 	keyWait
 		any = false
@@ -418,8 +425,8 @@ script 23 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Yeah,I kinda
-	envy them.
+	É. Eu sinto até um
+	pouco de inveja.
 	"""
 	keyWait
 		any = false
@@ -431,7 +438,7 @@ script 24 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Me too⋯"
+	"Eu também..."
 	keyWait
 		any = false
 	end

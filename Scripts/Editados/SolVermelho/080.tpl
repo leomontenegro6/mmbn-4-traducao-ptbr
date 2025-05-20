@@ -31,9 +31,9 @@ script 25 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The last door on the
-	2nd floor,right?
-	Come on,let's hurry!
+	É a última porta no
+	segundo andar,né?
+	Vamos logo lá!
 	"""
 	keyWait
 		any = false
@@ -44,7 +44,7 @@ script 26 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Se conecta direta-
+	Conecte-se direta-
 	mente às Redes do
 	mundo e conserte-as!
 	"""
@@ -101,9 +101,9 @@ script 30 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Where are Dad and
-	the others? Maybe
-	someone here knows?
+	Cadê o papai e os
+	outros? Será que
+	alguém aqui sabe?
 	"""
 	keyWait
 		any = false
@@ -114,8 +114,8 @@ script 31 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's go to the
-	roof!
+	Lan,vamos pro
+	telhado!
 	"""
 	keyWait
 		any = false
@@ -152,9 +152,9 @@ script 34 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Hurry! We have to
-	change the
-	asteroid's orbit!
+	Rápido! A gente tem
+	que mudar a traje-
+	tória do asteroide!
 	"""
 	keyWait
 		any = false

@@ -5,8 +5,8 @@ script 0 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	What do you think
-	you're doing?!
+	O que tu pensa que
+	tá fazendo?!
 	"""
 	keyWait
 		any = false
@@ -19,7 +19,7 @@ script 1 mmbn4 {
 		mugshot = Lan
 	"""
 	MegaMan!
-	Use the CybSutra!
+	Usa o Cyber Sutra!
 	"""
 	keyWait
 		any = false
@@ -30,7 +30,7 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"All right,here I go!"
+	"Tá,lá vou eu!"
 	keyWait
 		any = false
 	clearMsg
@@ -38,9 +38,9 @@ script 2 mmbn4 {
 		timer = 1
 		value = 1
 	"""
-	Tab tab shift
-	function print
-	print. Is that it?!
+	Tab,tab,shift,
+	caps lock,print,
+	print. É isso?!
 	"""
 	keyWait
 		any = false
@@ -51,8 +51,8 @@ script 3 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	What're you talkin'
-	about!
+	Que baboseira é essa
+	aí?!
 	"""
 	keyWait
 		any = false
@@ -68,16 +68,16 @@ script 4 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Get outta town!
-	I wanna do some more
-	mischief!
+	Se manda!
+	Eu quero aprontar
+	mais por aí!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why don't YOU go to
-	the next world?!
+	Por que que VOCÊ
+	não vai pro além?!
 	"""
 	keyWait
 		any = false
@@ -88,17 +88,16 @@ script 5 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	All right!
-	That's the last of
-	the evil Navis!
+	Beleza! Esse foi o
+	último espirito
+	maligno!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,you can
-	jack out any time
-	now.
+	Já pode desconectar
+	agora,MegaMan.
 	"""
 	keyWait
 		any = false

@@ -15,15 +15,16 @@ script 0 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Th-this is h-high⋯
-	My legs are shaking
+	É-é tão alto...
+	As minhas pernas não
+	param de tremer!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so badly I can't
-	even move!
+	Não consigo sair do
+	lugar!
 	"""
 	keyWait
 		any = false
@@ -37,16 +38,16 @@ script 5 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	If I'd known we'd be
-	in the nosebleed
-	seats,I'd have
+	Se eu soubesse que
+	veria de um lugar
+	tão alto,teria
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	watched Red Sun on
-	TV!
+	assistido ao Sol
+	Vermelho na TV!
 	"""
 	keyWait
 		any = false
@@ -57,16 +58,16 @@ script 6 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	If I'd known we'd be
-	in the nosebleed
-	seats,I'd have
+	Se eu soubesse que
+	veria de um lugar
+	tão alto,teria
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	watched Blue Moon
-	on TV!
+	assistido ao Lua
+	Azul na TV!
 	"""
 	keyWait
 		any = false
@@ -76,21 +77,22 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = BlueShirtBoy
 	msgOpen
-	"Me? Acrophobic?"
+	"Eu? Acrofóbico?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Actually,after
-	standing here awhile
-	I've gotten used to
+	Olha,depois de ficar
+	um tempo aqui,eu até
+	comecei a me
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it. I kind of like
-	the thrill! Haha!!
+	acostumar. O medo
+	é gostoso,até!
+	Ha ha!
 	"""
 	keyWait
 		any = false
@@ -101,15 +103,15 @@ script 30 mmbn4 {
 		mugshot = Woman
 	msgOpen
 	"""
-	Oohwee! Take a look
-	at that view! Say,
+	Uau! Olha só essa
+	vista!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	where are all the
-	spectators⋯?
+	Espera,cadê todos os
+	espectadores...?
 	"""
 	keyWait
 		any = false
@@ -119,11 +121,11 @@ script 31 mmbn4 {
 	mugshotShow
 		mugshot = PigtailsGirl
 	msgOpen
-	"Wow! She looks like"
+	"Nossa!"
 	keyWait
 		any = false
 	clearMsg
-	"a princess!"
+	"Ela parece uma\nprincesa!"
 	keyWait
 		any = false
 	end

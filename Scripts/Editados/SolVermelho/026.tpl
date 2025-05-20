@@ -1,27 +1,27 @@
 @size 48
 
 script 0 mmbn4s {
-	" Admin    Welcome!     "
+	" Admin    Bem-vindos!  "
 	end
 }
 script 1 mmbn4s {
-	" Akane    What a blast "
+	" Akane    Tão divertido"
 	end
 }
 script 2 mmbn4s {
-	" Yumechan jealous!     "
+	" Yumechan Que inveja!  "
 	end
 }
 script 3 mmbn4s {
-	" Sujiko   TinMan       "
+	" Sujiko   Flandrô      "
 	end
 }
 script 4 mmbn4s {
-	" Shinya   Hlbd Prncs⋯  "
+	" Shinya   Princesa Alab"
 	end
 }
 script 5 mmbn4s {
-	" Higsby   WzDog        "
+	" Higsby   MagoCão      "
 	end
 }
 script 6 mmbn4s {
@@ -41,35 +41,35 @@ script 9 mmbn4s {
 	end
 }
 script 10 mmbn4s {
-	" Admin    Apology      "
+	" Admin    Desculpem    "
 	end
 }
 script 11 mmbn4s {
-	" Tomo     Scary!       "
+	" Tomo     Que medo!    "
 	end
 }
 script 12 mmbn4s {
-	" Mayumin  RE:Scary!    "
+	" Mayumin  RE:Que medo! "
 	end
 }
 script 13 mmbn4s {
-	" Vortex   Event?       "
+	" Vortex   Evento?      "
 	end
 }
 script 14 mmbn4s {
-	" Kanideka Tournam⋯     "
+	" Kanideka Torneio      "
 	end
 }
 script 15 mmbn4s {
-	" Fujirin  RE:Tournam⋯  "
+	" Fujirin  Torneio      "
 	end
 }
 script 16 mmbn4s {
-	" Nanase   Say⋯         "
+	" Nanase   Ei...        "
 	end
 }
 script 17 mmbn4s {
-	" Noah     RE:Say⋯      "
+	" Noah     RE:Ei...     "
 	end
 }
 script 18 mmbn4s {

@@ -4,11 +4,11 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"SparkMan,deleted!"
+	"SparkMan foi\nderrotado!"
 	keyWait
 		any = false
 	clearMsg
-	"Lan is the winner!"
+	"Lan Hikari é o\nvencedor!"
 	keyWait
 		any = false
 	clearMsg
@@ -18,9 +18,8 @@ script 0 mmbn4 {
 		timer = 1
 		value = 1
 	"""
-	We did it!
-	How do yah like
-	that!
+	Legal!
+	Toma!
 	"""
 	keyWait
 		any = false
@@ -35,32 +34,33 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Terry
 	"""
-	It's not possible!
-	How could I lose?!
+	Não pode ser!
+	Como eu pude
+	perder?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't believe my
-	robot lab has come
-	to nothing.
+	Não acredito que o
+	meu laboratório não
+	me fez vencer...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wait! This isn't my
-	fault. It's
-	SparkMan's fault!
+	Espera! A culpa não
+	é minha. Ela é toda
+	do SparkMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Teeheehee!
-	I didn't lose.
-	No sirree.
+	He he he!
+	Eu não perdi.
+	Não mesmo.
 	"""
 	keyWait
 		any = false
@@ -72,8 +72,8 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = SparkMan
 	"""
-	What?!
-	Shame on you,Terry.
+	O quê?!
+	Que vergonha,Terry.
 	"""
 	keyWait
 		any = false
@@ -85,15 +85,15 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	SparkMan fought so
-	hard for you,and
-	you blame him?!
+	O SparkMan lutou
+	duro por você,e
+	você CULPA ele?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Apologize to
+	Pede desculpas pro
 	SparkMan!
 	"""
 	keyWait
@@ -107,25 +107,25 @@ script 4 mmbn4 {
 		mugshot = Terry
 	msgOpen
 	"""
-	Silence,bourgeois
-	slime! Don't you
-	know who I am?!
+	Silêncio,seu
+	pobretão! Faz ideia
+	de quem eu sou?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Chief of
-	JomonElec is my
-	grandfather!
+	Sou o neto do dono
+	da JomonElet!
+	Terry Jomon!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	All I have to do is
-	ask my grandpa for
-	a stronger Navi⋯
+	Eu só preciso pedir
+	um Navi mais forte
+	pro meu avô,e...
 	"""
 	keyWait
 		any = false
@@ -135,7 +135,7 @@ script 4 mmbn4 {
 }
 script 5 mmbn4 {
 	mugshotHide
-	"Knock it off!"
+	"Cale a boca!"
 	keyWait
 		any = false
 	clearMsg
@@ -149,8 +149,8 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Terry
 	"""
-	That voice⋯
-	It's my grandpa!
+	Essa voz...
+	É o meu avô!
 	"""
 	keyWait
 		any = false
@@ -161,16 +161,17 @@ script 7 mmbn4 {
 		mugshot = Terry
 	msgOpen
 	"""
-	Grandfather!
-	This guy's horrible!
+	Ah,querido avô!
+	Esse menino é
+	horrível!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He thinks he can
-	mock me just because
-	he can fight well.
+	Ele acha que pode
+	zombar de mim só
+	porque luta bem.
 	"""
 	keyWait
 		any = false
@@ -182,8 +183,8 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = OldMan
 	"""
-	Is that all you
-	wanted to say?
+	Isso é tudo o que
+	você tem a dizer?
 	"""
 	keyWait
 		any = false
@@ -195,37 +196,39 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Terry
 	"""
-	That's right - you
-	said that if I win
+	Ah,é mesmo: você
+	disse que,se eu
+	vencesse o torneio,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	this tournament,
-	you'd fund my robot
-	research.
+	você financiaria a
+	minha pesquisa de
+	robótica.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I may have lost,but
-	I did my very best!
+	Eu posso ter
+	perdido,mas dei tudo
+	de mim!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"So・"
+	"Então."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"\nGimme some money!"
+	"\nDá aí uma grana!"
 	keyWait
 		any = false
 	clearMsg
@@ -235,40 +238,43 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = OldMan
-	"You⋯goofball!"
+	"Seu... palerma!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You call that your
-	very best?! I know
-	what you did!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	You cheated and left
-	it all up to your
-	Navi,then blamed
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"him when you lost!"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Looks like I must
-	have spoiled you.
+	Chama isso de "dar
+	tudo de si"?! Eu sei
+	o que você fez!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm through takin'
-	care of you!
+	Você trapaceou,
+	deixou a luta toda
+	pro seu Navi,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	e culpou ele depois
+	que perdeu!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Parece que eu te
+	mimei demais.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Cansei de cuidar de
+	você!
 	"""
 	keyWait
 		any = false
@@ -280,8 +286,8 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	So that's Terry's
-	grandpa.
+	Então,ele era o
+	avô do Terry.
 	"""
 	keyWait
 		any = false
@@ -293,17 +299,17 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = OldMan
 	"""
-	Hey,Lan! Sorry
-	about all the hassle
-	my grandson caused.
+	Lan! Desculpe pela
+	dor de cabeça que o
+	meu neto causou.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's my fault for
-	spoiling Terry all
-	this time. Sorry!
+	A culpa é minha por
+	sempre ter mimado
+	ele. Perdão!
 	"""
 	keyWait
 		any = false
@@ -314,7 +320,7 @@ script 12 mmbn4 {
 script 13 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"It's no biggy."
+	"De boa."
 	keyWait
 		any = false
 	clearMsg
@@ -325,37 +331,37 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = OldMan
 	"""
-	Terry,this goes to
-	show how corrupt
-	your character is.
+	Terry,isto só mostra
+	o quanto o seu cará-
+	ter está corrupto.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Totally corrupt!"
+	"Está completamente\ncorrupto!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Laziness will get
-	you nowhere in life,
-	remember that!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Trying to win by
-	using dirty tricks!
-	It's despicable!
+	A preguiça não te
+	leva a nada na vida.
+	Lembre-se disso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Cheaters like you
-	have no place in the
-	family!
+	Tentar vencer com
+	truques sujos...
+	Que asqueroso!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Trapaceiros como
+	você não têm lugar
+	nesta família!
 	"""
 	keyWait
 		any = false
@@ -366,17 +372,17 @@ script 15 mmbn4 {
 		mugshot = Terry
 	msgOpen
 	"""
-	What?!
-	Grandfather,no!
-	Not so fast!
+	O quê?! Vovô,não!
+	Não precisa se
+	precipitar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sorry!
-	I'll mend my ways.
-	So please,wait!!!
+	Me desculpa!
+	Eu vou tomar jeito.
+	Por favor,espera!!
 	"""
 	keyWait
 		any = false
@@ -386,19 +392,19 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = Terry
 	msgOpen
-	"I'm sorry!!!"
+	"Descuuulpaaa!!!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = OldMan
-	"Shut up!"
+	"Cala a boca!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't even think
-	about coming home!
+	E nem PENSE em
+	voltar pra casa!
 	"""
 	keyWait
 		any = false
@@ -406,8 +412,8 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = Terry
 	"""
-	You can't be
-	serious.
+	N-não pode estar
+	falando sério...!
 	"""
 	keyWait
 		any = false
@@ -416,8 +422,8 @@ script 16 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What goes around,
-	comes around.
+	Aqui se faz,
+	aqui se paga.
 	"""
 	keyWait
 		any = false
@@ -429,15 +435,17 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	That's right. You
-	reap what you sow.
+	É isso aí. A gente
+	colhe o que a gente
+	planta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'd better watch
-	our actions,too.
+	É bom a gente sempre
+	se manter na linha,
+	também.
 	"""
 	keyWait
 		any = false

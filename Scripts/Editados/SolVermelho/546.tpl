@@ -5,8 +5,9 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! That must be
-	the control system!
+	Lan! Aquele deve
+	ser o sistema de
+	controle!
 	"""
 	keyWait
 		any = false
@@ -17,8 +18,8 @@ script 1 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Wonder how we can
-	get in there?
+	Como será que eu
+	faço pra chegar lá?
 	"""
 	keyWait
 		any = false
@@ -30,8 +31,8 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Argh! And we were
-	so close⋯
+	Argh! E a gente
+	tava tão perto...!
 	"""
 	keyWait
 		any = false
@@ -46,8 +47,8 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Evil energy
-	detected⋯
+	Energia maligna
+	detectada...
 	"""
 	keyWait
 		any = false
@@ -62,8 +63,9 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Careful,MegaMan!
-	You're not alone!
+	Cuidado,MegaMan!
+	Você não tá sozinho
+	aí!
 	"""
 	keyWait
 		any = false
@@ -74,9 +76,9 @@ script 5 mmbn4 {
 		mugshot = Duo
 	msgOpen
 	"""
-	I am the OS for
-	the anti-planet
-	missile.
+	Sou o Sistema Opera-
+	cional do míssil
+	anti-planetas.
 	"""
 	keyWait
 		any = false
@@ -87,7 +89,7 @@ script 5 mmbn4 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
 	"Duo."
@@ -100,13 +102,14 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Anti-planet missile?"
+	"Míssil\nanti-planetas?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Whadaya got against
-	our planet?
+	O que é que você tem
+	contra o nosso
+	planeta?
 	"""
 	keyWait
 		any = false
@@ -117,42 +120,44 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = Duo
-	"The only command"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	in memory is to
-	judge and destroy
-	evil.
+	O único comando em
+	minha memória
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A massive amount of
-	evil's been detected
-	on your planet.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"It is you humans."
-	keyWait
-		any = false
-	clearMsg
-	"""
-	You are highly
-	intelligent,but have
-	evil in your hearts.
+	é julgar e destruir
+	o mal.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I must punish your
-	planet according to
-	my program.
+	Detectamos um volume
+	imenso de maldade no
+	seu planeta:
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"vocês,humanos."
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Seres altamente
+	inteligentes,mas com
+	maldade no coração.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Devo punir seu pla-
+	neta de acordo com
+	minha programação.
 	"""
 	keyWait
 		any = false
@@ -163,18 +168,18 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"What?!"
+	"O quê?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm not gonna let
-	you do that!
+	Eu não vou deixar
+	você fazer isso!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"This ends here!"
+	"Isso acaba aqui!"
 	keyWait
 		any = false
 	clearMsg
@@ -190,25 +195,24 @@ script 9 mmbn4 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
-	"How interesting."
+	"Interessante."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's just see how
-	powerful you really
-	are.
+	Vejamos o quão forte
+	você realmente é.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do you have the
-	power to wipe
-	out your own evil?
+	Terá a força para
+	eliminar sua própria
+	maldade?
 	"""
 	keyWait
 		any = false
@@ -218,7 +222,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Duo
 	msgOpen
-	"Boo!"
+	"Hummpf!"
 	keyWait
 		any = false
 	end
@@ -236,7 +240,7 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"MegaMan,behind you!"
+	"MegaMan,atrás de\nvocê!"
 	keyWait
 		any = false
 	end
@@ -245,7 +249,7 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Try my DarkSoul!"
+	"A minha Alma\nSombria!"
 	keyWait
 		any = false
 	clearMsg
@@ -255,11 +259,11 @@ script 13 mmbn4 {
 script 14 mmbn4 {
 	mugshotShow
 		mugshot = Duo
-	"Bring it on."
+	"Pois bem."
 	keyWait
 		any = false
 	clearMsg
-	"Show me what ya got."
+	"Mostre-me do que é\ncapaz."
 	keyWait
 		any = false
 	clearMsg
@@ -270,9 +274,9 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Listen up,MegaMan!
-	This is a battle
-	against yourself!
+	Escuta,MegaMan!
+	Vai ser uma luta
+	contra você mesmo!
 	"""
 	keyWait
 		any = false
@@ -283,7 +287,7 @@ script 15 mmbn4 {
 script 16 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"OK! Operate away!"
+	"Beleza! Me opere!"
 	keyWait
 		any = false
 	clearMsg
@@ -294,8 +298,8 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Leave it to me!
-	Here we go,MegaMan!
+	Pode deixar!
+	Bora,MegaMan!
 	"""
 	keyWait
 		any = false

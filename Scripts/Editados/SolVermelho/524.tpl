@@ -5,16 +5,16 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ah! We can jack in
-	from here!
+	Ah! Dá pra gente se
+	conectar daqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,find the 4
-	pieces of "KeyData"
-	in the Net!
+	MegaMan,encontre os
+	4 pedaços de "Dados-
+	Chave" na rede!
 	"""
 	keyWait
 		any = false
@@ -26,8 +26,8 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Roger!
-	Jack me in!
+	Beleza!
+	Me conecta!
 	"""
 	keyWait
 		any = false

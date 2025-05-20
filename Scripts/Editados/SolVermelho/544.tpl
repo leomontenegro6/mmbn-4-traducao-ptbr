@@ -5,52 +5,52 @@ script 0 mmbn4 {
 		mugshot = LaserMan
 	msgOpen
 	"""
-	D-Dr.Regal⋯
-	I-I'm⋯sorry⋯
+	D-Dr. Regal...
+	M-me perdoe...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯A-Aaaaah!!"
+	"... A-aaaaah!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I-It's⋯over⋯
-	⋯⋯everything!
+	A-acabou...
+	tudo...!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,your hate
-	for me⋯will allow
-	your DarkSoul⋯
+	MegaMan,seu ódio por
+	mim... fará com que
+	sua Alma Sombria...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯to be reborn."
+	"... renasça."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Heh heh. I can even
-	see it? Deep inside
-	your body⋯
+	He he. Posso até
+	ver. Bem fundo,no
+	seu corpo...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Your DarkSoul⋯"
+	"A sua Alma\nSombria..."
 	keyWait
 		any = false
 	clearMsg
-	"⋯Aaaah!"
+	"... Aaaah!"
 	keyWait
 		any = false
 	clearMsg
-	"Uwaaaaaaaa!"
+	"Uuaaaaaaaa!"
 	keyWait
 		any = false
 	end
@@ -61,7 +61,8 @@ script 1 mmbn4 {
 	msgOpen
 	"""
 	......
-	My DarkSoul⋯
+	A minha Alma
+	Sombria...
 	"""
 	keyWait
 		any = false

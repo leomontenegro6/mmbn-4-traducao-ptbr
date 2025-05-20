@@ -1,38 +1,38 @@
 @size 11
 
 script 0 mmbn4s {
-	"Fldr1"
+	"Past1"
 	end
 }
 script 1 mmbn4s {
-	"Fldr2"
+	"Past2"
 	end
 }
 script 2 mmbn4s {
-	"-Folder"
+	"-Pasta"
 	end
 }
 script 3 mmbn4s {
-	"XtraFldr"
+	"PastXtra"
 	end
 }
 script 4 mmbn4s {
-	"Xfolder"
+	"PastaX"
 	end
 }
 script 5 mmbn4s {
-	"MrFolder"
+	"SrPasta"
 	end
 }
 script 6 mmbn4s {
-	"-Folder"
+	"-Pasta"
 	end
 }
 script 7 mmbn4s {
-	"-Folder"
+	"-Pasta"
 	end
 }
 script 10 mmbn4s {
-	"Pack"
+	"Mchla"
 	end
 }

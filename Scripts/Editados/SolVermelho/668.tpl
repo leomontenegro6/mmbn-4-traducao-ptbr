@@ -4,11 +4,11 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Mami
 	msgOpen
-	"WindMan,deleted!"
+	"WindMan foi\nderrotado!"
 	keyWait
 		any = false
 	clearMsg
-	"And Lan has won!"
+	"Lan Hikari é o\nvencedor!"
 	keyWait
 		any = false
 	end
@@ -17,7 +17,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"We did it!"
+	"Conseguimos!"
 	keyWait
 		any = false
 	clearMsg
@@ -34,8 +34,8 @@ script 2 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	WindMan,are you
-	okay?
+	WindMan,você está
+	bem?
 	"""
 	keyWait
 		any = false
@@ -48,23 +48,24 @@ script 3 mmbn4 {
 		mugshot = WindMan
 	msgOpen
 	"""
-	*whoosh*
-	Yeah,it's no big
-	deal.
+	Fuuu...
+	Estou. Não é nada
+	grave.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You really were
-	amazing,MegaMan.
+	Você foi incrível,
+	MegaMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't believe you
-	beat my flurries!
+	Não acredito que
+	conseguiu vencer
+	minhas ventanias!
 	"""
 	keyWait
 		any = false
@@ -77,31 +78,31 @@ script 4 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	That was a fast
-	battle.
+	Foi uma luta de
+	velocidade.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If I blinked once
-	I'd have been blown
-	away in an instant.
+	Um segundo de dis-
+	tração e eu teria
+	voado pra longe.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I really related to
-	your power to blow
-	everything away!
+	Eu me senti muito
+	envolvido com o seu
+	poder de soprar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I communed with
-	your spirit!
+	Me harmonizei com o
+	seu espírito!
 	"""
 	keyWait
 		any = false
@@ -118,9 +119,9 @@ script 5 mmbn4 {
 		timer = 0
 		value = 3
 	"""
-	MegaMan's soul has
-	communed with
-	WindMan's!!
+	A Alma do MegaMan
+	se ligou à do
+	WindMan!!
 	"""
 	keyWait
 		any = false
@@ -136,9 +137,9 @@ script 6 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	And Lilly did such a
-	great job,she
-	didn't seem drunk!
+	E,Lilly,você mandou
+	bem. Nem parecia
+	que tava bêbada!
 	"""
 	keyWait
 		any = false
@@ -178,7 +179,7 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Lilly
 	msgOpen
-	"Y-yes?"
+	"S-sim...?"
 	keyWait
 		any = false
 	end
@@ -188,13 +189,13 @@ script 10 mmbn4 {
 		mugshot = Lilly
 	msgOpen
 	"""
-	Huh?! Where am I?
-	AirStadium?
+	Hã?! Onde eu estou?
+	No Estádio Suspenso?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"How did I get here?!"
+	"Como vim parar\naqui?!"
 	keyWait
 		any = false
 	clearMsg
@@ -206,15 +207,15 @@ script 11 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lilly,that stuff in
-	the gourd⋯
+	Lilly,isso aí na sua
+	garrafa...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's not water,it's
-	rice wine!
+	não é água!
+	É saquê!
 	"""
 	keyWait
 		any = false
@@ -226,14 +227,14 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = Lilly
 	msgOpen
-	"W-what?!"
+	"O-o quê?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So that's why I've
-	been losing my
-	memories!
+	Então é por isso que
+	eu venho perdendo a
+	memória!
 	"""
 	keyWait
 		any = false
@@ -246,8 +247,7 @@ script 13 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It was the rice
-	wine!
+	Foi o saquê!
 	"""
 	keyWait
 		any = false
@@ -260,9 +260,9 @@ script 14 mmbn4 {
 		mugshot = WindMan
 	msgOpen
 	"""
-	Lilly,you have yet
-	to master yourself
-	through training⋯
+	Lilly,você ainda tem
+	muito treinamento a
+	fazer...
 	"""
 	keyWait
 		any = false
@@ -274,11 +274,11 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Lilly
 	msgOpen
-	"I'm so sorry."
+	"Eu sinto muito."
 	keyWait
 		any = false
 	clearMsg
-	"But,Lan?"
+	"Mas... Lan?"
 	keyWait
 		any = false
 	clearMsg
@@ -289,7 +289,7 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yes?"
+	"Sim?"
 	keyWait
 		any = false
 	clearMsg
@@ -301,23 +301,23 @@ script 17 mmbn4 {
 		mugshot = Lilly
 	msgOpen
 	"""
-	I kind of remember
-	the battle,a little
-	bit.
+	Eu me lembro um
+	pouco da luta.
+	Só um pouquinho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It was really,
-	really fun.
+	E foi muito,mas
+	muito divertida.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Of that,I'm
-	positive.
+	Disso,eu tenho
+	certeza.
 	"""
 	keyWait
 		any = false
@@ -330,17 +330,17 @@ script 18 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hehe,the next time
-	we fight,it'll be
-	that much funner!
+	He he. Se a gente
+	lutar de novo,vai
+	ser ainda mais!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And no more drinking
-	the rice wine,even
-	by mistake!
+	E sem saquê dessa
+	vez,nem que por
+	acidente!
 	"""
 	keyWait
 		any = false
@@ -352,21 +352,22 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = Lilly
 	msgOpen
-	"Hehe,yeah."
+	"He he,é."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WindMan and I will
-	practice some more
-	and come back.
+	O WindMan e eu
+	iremos treinar mais
+	até lá.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And next time,
-	we'll beat you guys!
+	E,da próxima vez,
+	iremos derrotar
+	vocês!
 	"""
 	keyWait
 		any = false
@@ -377,17 +378,16 @@ script 20 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	She's so proper and
-	nice when she's
-	sober.
+	Ela é tão educada
+	e digna quando tá
+	sóbria...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Rice wine is a scary
-	thing,wouldn't you
-	say?
+	Álcool é um negócio
+	assustador,né?
 	"""
 	keyWait
 		any = false
@@ -400,9 +400,9 @@ script 21 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I hope we get a
-	chance to battle her
-	sober next time.
+	Espero que possamos
+	ter uma revanche só-
+	bria com ela,um dia.
 	"""
 	keyWait
 		any = false
@@ -413,8 +413,8 @@ script 22 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	WindMan,are you
-	okay?
+	WindMan,você tá
+	bem?
 	"""
 	keyWait
 		any = false
@@ -427,15 +427,15 @@ script 23 mmbn4 {
 		mugshot = WindMan
 	msgOpen
 	"""
-	Whoah⋯
-	Yeah,I'm fine.
+	Arh...
+	Sim,estou bem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That was a great
-	battle,you guys.
+	Foi uma ótima luta,
+	amigos.
 	"""
 	keyWait
 		any = false
@@ -448,9 +448,9 @@ script 24 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I wonder who'd have
-	won if Lilly wasn't
-	drunk?!
+	Quem será que teria
+	vencido se a Lilly
+	não tivesse bebido?
 	"""
 	keyWait
 		any = false
@@ -462,13 +462,13 @@ script 25 mmbn4 {
 	mugshotShow
 		mugshot = WindMan
 	msgOpen
-	"Bah!"
+	"Agh!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lilly! Hey,Lilly!
-	Sober up already!
+	Lilly! Ei,Lilly!
+	Sai desse pifão!
 	"""
 	keyWait
 		any = false

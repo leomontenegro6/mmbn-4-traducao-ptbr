@@ -1,7 +1,7 @@
 @size 83
 
 script 0 mmbn4s {
-	"Planning"
+	"Planejamento"
 	end
 }
 script 1 mmbn4s {
@@ -9,7 +9,7 @@ script 1 mmbn4s {
 	end
 }
 script 2 mmbn4s {
-	"Scenario"
+	"Cenário"
 	end
 }
 script 3 mmbn4s {
@@ -21,7 +21,7 @@ script 4 mmbn4s {
 	end
 }
 script 5 mmbn4s {
-	"Character Design"
+	"Design de Personagem"
 	end
 }
 script 6 mmbn4s {
@@ -37,7 +37,7 @@ script 8 mmbn4s {
 	end
 }
 script 9 mmbn4s {
-	"LaserMan Design"
+	"Design do LaserMan"
 	end
 }
 script 10 mmbn4s {
@@ -45,7 +45,7 @@ script 10 mmbn4s {
 	end
 }
 script 11 mmbn4s {
-	"KendoMan Design"
+	"Design do KendoMan"
 	end
 }
 script 12 mmbn4s {
@@ -53,7 +53,7 @@ script 12 mmbn4s {
 	end
 }
 script 13 mmbn4s {
-	"VideoMan Design"
+	"Design do VideoMan"
 	end
 }
 script 14 mmbn4s {
@@ -61,7 +61,7 @@ script 14 mmbn4s {
 	end
 }
 script 15 mmbn4s {
-	"Object"
+	"Objetos"
 	end
 }
 script 16 mmbn4s {
@@ -77,7 +77,7 @@ script 18 mmbn4s {
 	end
 }
 script 19 mmbn4s {
-	"Scroll"
+	"Scrolling"
 	end
 }
 script 20 mmbn4s {
@@ -93,7 +93,7 @@ script 22 mmbn4s {
 	end
 }
 script 23 mmbn4s {
-	"Program"
+	"Programação"
 	end
 }
 script 24 mmbn4s {
@@ -121,7 +121,7 @@ script 29 mmbn4s {
 	end
 }
 script 30 mmbn4s {
-	"Music"
+	"Música"
 	end
 }
 script 31 mmbn4s {
@@ -129,7 +129,7 @@ script 31 mmbn4s {
 	end
 }
 script 32 mmbn4s {
-	"Sound Effect"
+	"Efeitos Sonoros"
 	end
 }
 script 33 mmbn4s {
@@ -137,7 +137,7 @@ script 33 mmbn4s {
 	end
 }
 script 34 mmbn4s {
-	"Official Illustration"
+	"Ilustração Oficial"
 	end
 }
 script 35 mmbn4s {
@@ -145,7 +145,7 @@ script 35 mmbn4s {
 	end
 }
 script 36 mmbn4s {
-	"Jack-In Effect"
+	"Efeitos de Conexão"
 	end
 }
 script 37 mmbn4s {
@@ -153,7 +153,7 @@ script 37 mmbn4s {
 	end
 }
 script 38 mmbn4s {
-	"Manual Production"
+	"Produção do Manual"
 	end
 }
 script 39 mmbn4s {
@@ -161,7 +161,7 @@ script 39 mmbn4s {
 	end
 }
 script 40 mmbn4s {
-	"Debug Supervision"
+	"Supervisão de Debug"
 	end
 }
 script 41 mmbn4s {
@@ -169,7 +169,7 @@ script 41 mmbn4s {
 	end
 }
 script 42 mmbn4s {
-	"Special Thanks!"
+	"Agradecim. Especiais!"
 	end
 }
 script 43 mmbn4s {
@@ -233,7 +233,7 @@ script 57 mmbn4s {
 	end
 }
 script 58 mmbn4s {
-	"Translation Staff"
+	"Equipe de Tradução"
 	end
 }
 script 59 mmbn4s {
@@ -253,7 +253,7 @@ script 62 mmbn4s {
 	end
 }
 script 63 mmbn4s {
-	"Producer"
+	"Produtor"
 	end
 }
 script 64 mmbn4s {
@@ -261,7 +261,7 @@ script 64 mmbn4s {
 	end
 }
 script 65 mmbn4s {
-	"Clear Time"
+	"Tempo"
 	spacePx
 		count = 26
 	printBuffer
@@ -278,7 +278,7 @@ script 65 mmbn4s {
 	end
 }
 script 66 mmbn4s {
-	"Data Library"
+	"Coleção     "
 	spacePx
 		count = 12
 	"S  "
@@ -316,19 +316,19 @@ script 69 mmbn4s {
 	end
 }
 script 70 mmbn4s {
-	"Congratulations"
+	"Parabéns"
 	end
 }
 script 71 mmbn4s {
-	"MegaMan 15th Anniversary"
+	"MegaMan 15o. Aniversário"
 	end
 }
 script 72 mmbn4s {
-	"First Place Writing"
+	"Primeiro Lugar"
 	end
 }
 script 73 mmbn4s {
-	"Contest Winners"
+	"Vencedores do Concurso"
 	end
 }
 script 74 mmbn4s {
@@ -336,7 +336,7 @@ script 74 mmbn4s {
 	end
 }
 script 75 mmbn4s {
-	"-Tampa,Florida"
+	"-Tampa,Flórida"
 	end
 }
 script 76 mmbn4s {

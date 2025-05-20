@@ -5,21 +5,22 @@ script 0 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	And our competitors
-	are finally here!
+	Finalmente,nossos
+	competidores
+	chegaram!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	First,the shining
-	blue star of
-	NetBattle,
+	Primeiro,a estrela
+	azul reluzente das
+	NetLutas:
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Lan!"
+	"Lan Hikari!"
 	keyWait
 		any = false
 	end
@@ -29,9 +30,9 @@ script 1 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	And his opponent,
-	the toughest Net-
-	Battler around!
+	E enfrentando ele,
+	o NetLutador mais
+	durão do pedaço!
 	"""
 	keyWait
 		any = false
@@ -45,22 +46,22 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Riki
 	msgOpen
-	"Woohoo,it's time!"
+	"Rááá! Tá na hora!"
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Lan!
-	No pulling any
-	punches,got it?!
+	Nem pense em pegar
+	leve,viu?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm gonna try to
-	smash you up,so you
-	better do the same!
+	Eu pretendo te
+	esmagar feio,então,
+	faça o mesmo!
 	"""
 	keyWait
 		any = false
@@ -73,9 +74,9 @@ script 3 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Of course I'll give
-	it my all! I'm gonna
-	win this one!
+	Claro que eu vou
+	com tudo! Eu tô
+	nesta pra vencer!
 	"""
 	keyWait
 		any = false
@@ -88,15 +89,14 @@ script 4 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	And the trash talk
-	has already started!
+	E já começou a troca
+	de provocações!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Is everyone ready
-	for this?!
+	Todo mundo pronto?!
 	"""
 	keyWait
 		any = false
@@ -111,7 +111,7 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Lan
+	Lan Hikari
 	Vs.
 	Riki
 	"""
@@ -143,7 +143,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	msgOpen
-	"Here we go!"
+	"Simbora!"
 	keyWait
 		any = false
 	end

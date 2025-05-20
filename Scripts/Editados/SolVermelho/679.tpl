@@ -5,13 +5,14 @@ script 0 mmbn4 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Who do you think
-	you are?!
+	Ô,tá pensando que
+	isto aqui é a casa
+	da mãe Joana?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Get outta here!!!"
+	"Se manda!!!"
 	keyWait
 		any = false
 	end
@@ -21,8 +22,8 @@ script 1 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Oh no!
-	I'm found out!
+	Droga!
+	Eles me viram!
 	"""
 	keyWait
 		any = false
@@ -33,9 +34,9 @@ script 2 mmbn4 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Argh! Where'd you
-	come from?!
-	Get outta here!
+	Argh! De onde foi
+	que cê saiu,hein?!
+	Vaza daqui!
 	"""
 	keyWait
 		any = false

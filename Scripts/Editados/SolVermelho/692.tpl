@@ -4,20 +4,20 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"・"
+	"."
 	waitSkip
 		frames = 20
-	"・"
+	"."
 	waitSkip
 		frames = 20
-	"・"
+	"."
 	waitSkip
 		frames = 20
 	"?"
 	keyWait
 		any = false
 	clearMsg
-	"What's this?"
+	"O que é isso?"
 	keyWait
 		any = false
 	end
@@ -37,8 +37,8 @@ script 2 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,are you
-	okay?!
+	MegaMan,
+	cê tá legal?!
 	"""
 	keyWait
 		any = false
@@ -49,13 +49,14 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Yes,I'm fine."
+	"Tô,tô bem."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But a direct hit
-	would be a problem.
+	Mas seria tenso se
+	eu fosse acertado
+	diretamente.
 	"""
 	keyWait
 		any = false
@@ -67,7 +68,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	A tree⋯
+	Uma tora...
 	WoodMan?
 	"""
 	keyWait
@@ -80,9 +81,9 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	No!
-	Why would he do a
-	thing like this?
+	Não!
+	Por que ele faria
+	uma coisa dessas?!
 	"""
 	keyWait
 		any = false
@@ -94,8 +95,9 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	At any rate,look
-	out for that tree!
+	Bom,de qualquer
+	jeito,toma cuidado
+	com essas árvores!
 	"""
 	keyWait
 		any = false
@@ -106,7 +108,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Okay!"
+	"Tá bom!"
 	keyWait
 		any = false
 	end

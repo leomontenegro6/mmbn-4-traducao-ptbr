@@ -5,23 +5,24 @@ script 0 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	EVER SINCE THAT
-	TOYROBO WENT WILD⋯
+	DESDE QUE AQUELE
+	ROBÔ-BRINQUEDO
+	ENLOUQUECEU...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'VE BEEN ON PATROL
-	MORE OFTEN TO
-	TIGHTEN SECURITY!
+	EU VENHO PATRULHANDO
+	MAIS PARA AUMENTAR
+	A SEGURANÇA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	GOTTA'STOP THE BAD
-	GUYS!
+	PRECISO DETER OS
+	BANDIDOS!
 	"""
 	keyWait
 		any = false
@@ -32,17 +33,17 @@ script 1 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Hey,stop
-	interrupting our
-	date!
+	Ei,para de
+	interromper o
+	nosso encontro!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do you know how
-	long it took to get
-	a date with her⋯?
+	Tem noção do quanto
+	demorou pra eu poder
+	sair com ela...?
 	"""
 	keyWait
 		any = false
@@ -53,22 +54,22 @@ script 2 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	I love going out
-	on dates!
+	Eu adoro sair em
+	encontros!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I just love it when
-	he buys me th⋯
+	Adoooro quando ele
+	me compra co...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I mean,I just love
-	being with him!
+	Er,digo,adoro
+	estar com ele!
 	"""
 	keyWait
 		any = false
@@ -89,9 +90,8 @@ script 5 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	NO PROBLEMS HERE!
-	A PEACEFUL DAY
-	INDEED!
+	SEM PROBLEMAS AQUI!
+	É UM DIA PACÍFICO!
 	"""
 	keyWait
 		any = false
@@ -112,8 +112,9 @@ script 6 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	That was fun! Let's
-	take a rest here⋯
+	Foi tão divertido!
+	Vamos descansar
+	aqui...
 	"""
 	keyWait
 		any = false
@@ -129,16 +130,16 @@ script 7 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	There's a battle
-	chip that I want
-	so bad⋯
+	Tem esse chip que eu
+	quero tanto...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe I can get him
-	to buy it for me⋯
+	Vou ver se consigo
+	fazer ele comprar
+	pra mim...
 	"""
 	keyWait
 		any = false
@@ -149,16 +150,16 @@ script 10 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	YOU NEVER KNOW WHEN
-	THE BAD GUYS MAY
-	ATTACK⋯
+	NUNCA SE SABE QUANDO
+	BANDIDOS PODEM
+	ATACAR...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT'S A DANGEROUS
-	JOB!
+	É UM TRABALHO
+	PERIGOSO,ESTE!
 	"""
 	keyWait
 		any = false
@@ -169,17 +170,17 @@ script 11 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	My girlfriend told
-	me that she wants a
-	battle chip!
+	A minha namorada
+	disse que queria
+	um chip!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe I'll buy it
-	as a remembrance of
-	today!
+	Acho que vou comprar
+	ele,como lembrança
+	deste dia!
 	"""
 	keyWait
 		any = false
@@ -190,20 +191,20 @@ script 12 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	He said that he'll
-	buy me that chip
-	that I want!
+	Ele disse que vai
+	comprar o chip que
+	eu quero!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"(I knew he would⋯!)"
+	"(Como planejado...!)"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My boyfriend is so
-	sweet⋯!
+	O meu namoradinho é
+	um fofo...!
 	"""
 	keyWait
 		any = false
@@ -214,24 +215,23 @@ script 15 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHEW! BEING ON EDGE
-	ALL DAY MAKES YOU
-	TIRED!
+	UFA! FICAR ALERTA O
+	DIA INTEIRO CANSA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT IT'S IMPORTANT
-	THAT I KEEP AN EYE
-	OUT!
+	MAS É IMPORTANTE EU
+	SEMPRE FICAR DE
+	OLHO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU NEVER KNOW WHAT
-	MAY HAPPEN!
+	NUNCA SE SABE O QUE
+	PODE ACONTECER!
 	"""
 	keyWait
 		any = false
@@ -242,16 +242,16 @@ script 16 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	As soon as I gave
-	her the chip⋯
+	Assim que eu dei
+	o chip pra ela...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	she said she had
-	something to do,and
-	left!
+	ela disse que tinha
+	uma coisa pra fazer
+	e foi embora!
 	"""
 	keyWait
 		any = false
@@ -277,25 +277,25 @@ script 20 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHAT?! ANOTHER
-	HAPPENING ON THE
-	NET!
+	O QUÊ?! OUTRO
+	ACONTECIMENTO NA
+	REDE!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT MAY SPREAD OUT
-	TO INCLUDE THIS
-	AREA!
+	ELE PODE ACABAR SE
+	ESPALHANDO ATÉ
+	CHEGAR AQUI!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THIS IS WHEN WE
-	PATROLLERS ARE MOST
-	NEEDED!
+	É ENTÃO QUE NÓS,
+	PATRULHEIROS,SOMOS
+	MAIS NECESSÁRIOS!
 	"""
 	keyWait
 		any = false
@@ -321,16 +321,16 @@ script 21 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	You're a private
-	Navi,right?
+	Você é um Navi
+	particular,não?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're getting in
-	the way of our
-	investigation⋯
+	Está atrapalhando
+	a nossa
+	investigação...
 	"""
 	keyWait
 		any = false
@@ -342,16 +342,16 @@ script 25 mmbn4 {
 	msgOpen
 	"""
 	HMMMMMM!
-	SOMETHING SMELLS
-	FISHY HERE!
+	TEM ALGUMA COISA
+	SUSPEITA AQUI!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SOMETHING AROUND
-	HERE ISN'T RIGHT!
-	⋯BUT JUST WHERE?!
+	ALGO DE ERRADO NÃO
+	ESTÁ CERTO AQUI!
+	... MAS ONDE?!
 	"""
 	keyWait
 		any = false
@@ -362,25 +362,25 @@ script 26 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	The criminal who
-	is believed to have
-	attacked the Net
+	O criminoso que
+	cremos ter atacado
+	a Rede está em uma
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	is in one of our
-	Networks! He won't
-	come here,though⋯
+	nas nossas Redes!
+	Mas ele não virá
+	para cá...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I just have a strong
-	feeling that he
-	won't⋯
+	Minha intuição me
+	diz isso,e ela
+	nunca falha...
 	"""
 	keyWait
 		any = false
@@ -391,15 +391,15 @@ script 30 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I HEARD A HUGE
-	EXPLOSION!
+	EU OUVI UMA
+	EXPLOSÃO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WHAT COULD HAVE
-	EXPLODED⋯?
+	O QUE SERÁ QUE
+	EXPLODIU...?
 	"""
 	keyWait
 		any = false
@@ -410,25 +410,25 @@ script 31 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Wh⋯What?! The
-	criminal was in
-	Park Area1?!
+	O-o quê?! O
+	criminoso estava
+	na Área Parque 1?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't believe
-	my intuition
-	failed me!
+	Não acredito que a
+	minha intuição
+	falhou!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's quite the
-	criminal to have
-	beat my intuition!
+	Venceu a minha
+	intuição... Que
+	vilão,esse!
 	"""
 	keyWait
 		any = false
@@ -439,15 +439,15 @@ script 35 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE OFFICIALS ARE
-	ALL GOING CRAZY!
+	OS OFICIAIS ESTÃO
+	TODOS DOIDINHOS!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WHAT COULD BE GOING
-	ON?
+	O QUE SERÁ QUE ESTÁ
+	ACONTECENDO?!
 	"""
 	keyWait
 		any = false
@@ -458,17 +458,17 @@ script 36 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I guess it's true
-	that I wasn't on
-	guard enough⋯
+	Acho que é verdade
+	que eu não fiquei
+	alerta o bastante.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But why do I have
-	to be the one to
-	write the report?!
+	Mas por que EU tenho
+	que fazer o
+	relatório?!
 	"""
 	keyWait
 		any = false

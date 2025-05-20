@@ -204,9 +204,9 @@ script 20 mmbn4 {
 script 21 mmbn4 {
 	msgOpen
 	"""
-	This pot's brimming
-	with one of Mom's
-	special recipes.
+	A panela está com
+	uma receita espe-
+	cial da mãe do Lan.
 	"""
 	keyWait
 		any = false

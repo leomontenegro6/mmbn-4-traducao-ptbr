@@ -375,7 +375,7 @@ script 20 mmbn4 {
 	msgOpen
 	"""
 	Seu pai saiu em uma
-	viagem a negócios,
+	viagem de trabalho,
 	infelizmente.
 	"""
 	keyWait
@@ -440,9 +440,9 @@ script 40 mmbn4 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Tem Navis Fantasmas
-	aparecendo na Área
-	ACDC e na cidade!
+	Há Navis Fantasma
+	aparecendo nas Áreas
+	ACDC e Vila!
 	"""
 	keyWait
 		any = false
@@ -460,7 +460,7 @@ script 40 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Se nos livrássemos
+	Se nos livrarmos
 	daqueles 4 Navis
 	encrenqueiros,
 	"""
@@ -468,16 +468,16 @@ script 40 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	poderíamos pôr
-	um fim nisso!
+	poderemos pôr um fim
+	nisso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	A coitada da Yuko
-	não merecia aquilo
-	que aconteceu...
+	não merecia o que
+	aconteceu...
 	"""
 	keyWait
 		any = false
@@ -649,7 +649,7 @@ script 65 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Estarei torcendo por\nvocê!"
+	"Continuarei torcendo\npor você!"
 	keyWait
 		any = false
 	end
@@ -664,7 +664,7 @@ script 70 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Só mais uma vitória\ne você será\ncampeão!"
+	"Só mais uma vitória\ne você será campeão!"
 	keyWait
 		any = false
 	clearMsg
@@ -675,8 +675,8 @@ script 70 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Não esqueça:
-	não vá se machucar!
+	"Não esqueça:
+	não vá se machucar!"
 	"""
 	keyWait
 		any = false
@@ -703,9 +703,9 @@ script 80 mmbn4 {
 		mugshot = Mom
 	msgOpen
 	"""
-	You look busy,Lan.
-	Did you make your
-	client happy?
+	Parece ocupado,Lan.
+	E aí,deu tudo certo
+	com a visita?
 	"""
 	keyWait
 		any = false
@@ -716,16 +716,16 @@ script 81 mmbn4 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Oops! The sweets
-	I put out for the
-	customers are gone.
+	Opa! Os doces que eu
+	deixei para a visita
+	sumiram.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess I'll have
-	to make some more!
+	Acho que preciso
+	assar mais!
 	"""
 	keyWait
 		any = false

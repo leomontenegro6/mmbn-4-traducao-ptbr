@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Wonder what this is?"
+	"O que será isso aí?"
 	keyWait
 		any = false
 	clearMsg
@@ -14,8 +14,8 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	mugshotHide
 	"""
-	I am the mirror of
-	truth.
+	Eu sou o espelho da
+	verdade.
 	"""
 	keyWait
 		any = false
@@ -26,7 +26,7 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"It spoke!!"
+	"Ele falou!!"
 	keyWait
 		any = false
 	clearMsg
@@ -36,23 +36,23 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotHide
 	"""
-	I am the mirror of
-	truth.
+	Eu sou o espelho da
+	verdade.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I reveal the
-	truth hidden within.
-	Before me,lies and
+	Revelo a verdade
+	oculta no interior.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	deceit are meaning-
-	less.
+	Perante mim,mentiras
+	e falsidades são
+	insignificantes.
 	"""
 	keyWait
 		any = false
@@ -63,7 +63,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Hidden truths?"
+	"Verdade oculta?"
 	keyWait
 		any = false
 	clearMsg
@@ -75,18 +75,18 @@ script 4 mmbn4 {
 }
 script 5 mmbn4 {
 	mugshotHide
-	"I can see⋯"
+	"Estou vendo..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can see the truth
-	within your soul.
+	Vejo a verdade
+	dentro da sua alma.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"All must be exposed⋯"
+	"Tudo deve ser\nexposto..."
 	keyWait
 		any = false
 	end
@@ -102,13 +102,13 @@ script 6 mmbn4 {
 }
 script 7 mmbn4 {
 	msgOpen
-	"Let us see⋯"
+	"Vejamos..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let us see the truth
-	within your soul.
+	Vejamos a verdade
+	dentro da sua alma.
 	"""
 	keyWait
 		any = false
@@ -118,13 +118,14 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"My DarkSoul! I've"
+	"A minha Alma\nSombria!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	never felt it this
-	powerful before!
+	Eu nunca senti ela
+	tão forte assim
+	antes!
 	"""
 	keyWait
 		any = false
@@ -135,23 +136,23 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotHide
 	"""
-	The power of your
-	DarkSoul has been
+	O poder da sua
+	Alma Sombria
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	suppressed by your
-	conscience.
+	foi suprimido pela
+	sua consciência.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But now you feel
-	your pure,unrepress-
-	ed DarkSoul.
+	Mas,agora,você a
+	sente em sua forma
+	mais pura e livre.
 	"""
 	keyWait
 		any = false
@@ -163,8 +164,9 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	My pure⋯
-	DarkSoul?
+	A forma mais pura...
+	da minha Alma
+	Sombria?
 	"""
 	keyWait
 		any = false
@@ -175,30 +177,32 @@ script 10 mmbn4 {
 script 11 mmbn4 {
 	mugshotHide
 	"""
-	A DarkSoul with too
-	much power seeks to
-	take over the body.
+	Uma AlmaSomb com
+	poder demais tenta
+	possuir o corpo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Those weak of mind
-	who lose that fight
+	Os fracos de
+	espírito que perdem
+	essa luta
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	will be dominated by
-	their DarkSoul,
+	são dominados por
+	suas Almas Sombrias,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and meet a terrible
-	fate.
+	e acabam por se
+	deparar com um
+	destino terrível.
 	"""
 	keyWait
 		any = false
@@ -209,7 +213,7 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Lan,here he comes!!"
+	"Lan,lá vem!!"
 	keyWait
 		any = false
 	clearMsg
@@ -220,9 +224,9 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I can handle it.
-	No DarkSoul's gonna
-	beat me!!
+	Eu dou conta.
+	Nenhuma Alma Sombria
+	vai nos vencer!!
 	"""
 	keyWait
 		any = false
@@ -240,7 +244,7 @@ script 13 mmbn4 {
 script 14 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!!"
+	"Executar!!"
 	keyWait
 		any = false
 	end

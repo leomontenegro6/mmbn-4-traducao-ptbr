@@ -5,8 +5,9 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	O vírus tá fazendo o
-	pião enlouquecer!
+	Esse vírus tá
+	fazendo o pião
+	enlouquecer!
 	"""
 	keyWait
 		any = false
@@ -15,8 +16,8 @@ script 0 mmbn4 {
 		mugshot = Lan
 	"""
 	MegaMan! A gente tem
-	que vencer os vírus
-	e parar ele!
+	que deletar o vírus
+	e fazer isso parar!
 	"""
 	keyWait
 		any = false

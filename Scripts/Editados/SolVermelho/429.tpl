@@ -19,13 +19,13 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"HMMMM⋯"
+	"HMMMM..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I GUESS YOU AREN'T
-	SUSPICIOUS⋯
+	ACHO QUE VOCÊ NÃO É
+	SUSPEITO...
 	"""
 	keyWait
 		any = false
@@ -52,15 +52,15 @@ script 1 mmbn4 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"(STARES)"
+	"HHHMMMM..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 2
 	"""
-	WELL,I GUESS YOU
-	AREN'T SUSPICIOUS⋯
+	BOM,ACHO QUE VOCÊ
+	NÃO É SUSPEITO...
 	"""
 	keyWait
 		any = false
@@ -87,26 +87,26 @@ script 2 mmbn4 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"(STARES)"
+	"HMMM..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 2
-	"NOTHING FISHY HERE⋯"
+	"NADA SUSPEITO\nAQUI..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SORRY TO KEEP
-	STARING AT YOU⋯
+	DESCULPE POR FICAR
+	TE ENCARANDO...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THIS AREA IS UNDER
-	TIGHT SUPERVISION!
+	ESTA ÁREA ESTÁ SOB
+	SUPERVISÃO PESADA!
 	
 	"""
 	keyWait
@@ -117,18 +117,18 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"WHA?!"
+	"AH!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HEY,DON'T SNEAK UP
-	ON ME LIKE THAT!
+	EI,NÃO SE ESGUEIRE
+	ASSIM ATRÁS DE MIM!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"YOU SCARED ME!"
+	"ME DEU UM SUSTO!"
 	keyWait
 		any = false
 	end
@@ -137,11 +137,11 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"HMMMMM⋯"
+	"HMMMMM..."
 	keyWait
 		any = false
 	clearMsg
-	"YOU SEEM TO BE OK⋯"
+	"ACHO QUE VOCÊ\nPASSA..."
 	keyWait
 		any = false
 	end
@@ -152,16 +152,16 @@ script 7 mmbn4 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"(STARES)"
+	"HHHMMMM..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 2
 	"""
-	YOU'RE OK⋯
-	BEING ON GUARD IS
-	TOUGH!
+	VOCÊ PASSA...
+	UFA,FICAR ALERTA
+	CANSA!
 	"""
 	keyWait
 		any = false
@@ -173,15 +173,15 @@ script 10 mmbn4 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"(STARES)"
+	"HMMM..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 2
 	"""
-	YOU ARE⋯NOT
-	SUSPICIOUS!
+	VOCÊ... NÃO É
+	SUSPEITO!
 	"""
 	keyWait
 		any = false
@@ -193,16 +193,16 @@ script 11 mmbn4 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"(STARES)"
+	"HMMM..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 2
 	"""
-	IT'S GETTING HARD
-	TO CHECK EVERY
-	PERSON AROUND HERE⋯
+	TÁ FICANDO DIFÍCIL
+	CHECAR TODO NAVI
+	AQUI...
 	"""
 	keyWait
 		any = false
@@ -213,15 +213,15 @@ script 12 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	MY EYES HAVE
-	GOTTEN TIRED!
+	EU CANSEI A VISTA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MUST BE FROM ALL
-	THIS SQUINTING⋯
+	DEVE SER DE TANTO
+	SEMICERRAR OS
+	OLHOS...
 	"""
 	keyWait
 		any = false
@@ -232,16 +232,15 @@ script 15 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I JUST HOPE THAT
-	ALL OF THIS GUARD
-	DUTY
+	SÓ ESPERO QUE TODO
+	ESTE MONITORAMENTO
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REALLY KEEPS THE
-	BAD GUYS AWAY!
+	REALMENTE ESPANTE
+	OS BANDIDOS!
 	
 	"""
 	mugshotAnimation
@@ -256,21 +255,21 @@ script 16 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	IF THE BAD GUYS
-	SHOW UP HERE⋯
+	SE OS BANDIDOS
+	APARECEREM AQUI...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I WONDER IF WE'LL
-	REALLY BE ABLE TO
-	STOP THEM?!
+	SERÁ QUE SEREMOS
+	MESMO CAPAZES DE
+	SEGURÁ-LOS?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I WONDER⋯"
+	"NÃO SEI,NÃO..."
 	keyWait
 		any = false
 	end
@@ -280,16 +279,16 @@ script 17 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	MY EYES ARE SO
-	TIRED THAT I CAN'T
-	SEE WELL ANYMORE!
+	MINHA VISTA CANSOU
+	TANTO QUE NÃO ESTOU
+	MAIS ENXERGANDO BEM!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I NEED TO TAKE A
-	SHORT BREAK⋯
+	PRECISO FAZER UMA
+	RÁPIDA PAUSA...
 	"""
 	keyWait
 		any = false
@@ -315,17 +314,17 @@ script 20 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	IT LOOKS LIKE THE
-	OFFICIALS ARE
-	INVESTIGATING⋯
+	PARECE QUE OS
+	OFICIAIS ESTÃO
+	INVESTIGANDO...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT SECURITY SHOULD
-	BE TIGHT WITH ALL
-	OF US ON DUTY!
+	MAS A SEGURANÇA ESTÁ
+	ELEVADA COM TODOS
+	AQUI!
 	"""
 	keyWait
 		any = false
@@ -351,24 +350,25 @@ script 21 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'M ACTUALLY A
-	PARKAREA1 PROGRAM⋯
+	NA VERDADE,EU SOU
+	UM PROGRAMA DA
+	ÁREA PARQUE 1...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I WAS SENT HERE TO
-	TIGHTEN SECURITY IN
-	THIS AREA.
+	FUI ENVIADO PARA CÁ
+	PARA AUMENTAR A
+	SEGURANÇA DA ÁREA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I JUST HOPE THAT
-	THE SECURITY IN
-	PARKAREA1 IS SAFE!
+	SÓ ESPERO QUE O
+	SEGURANÇA NA ÁREA
+	PARQUE 1 ESTEJA BEM!
 	"""
 	keyWait
 		any = false
@@ -394,17 +394,17 @@ script 22 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	NO MATTER HOW GOOD
-	THE SECURITY,THERE
-	IS ALWAYS A HOLE⋯
+	POR MELHOR QUE SEJA
+	A SEGURANÇA,SEMPRE
+	HÁ UMA BRECHA...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'M LOOKING FOR
-	THOSE HOLES SO THAT
-	WE CAN PLUG THEM!
+	ESTOU PROCURANDO POR
+	ESSAS BRECHAS PARA
+	TAMPÁ-LAS!
 	"""
 	keyWait
 		any = false
@@ -415,17 +415,17 @@ script 25 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHAT?! THE CRIMINAL
-	WAS HERE IN THE
-	PARKAREA?!
+	O QUÊ?! O CRIMINOSO
+	ESTAVA AQUI,NA ÁREA
+	PARQUE?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ALL OF US ON DUTY
-	WON'T LET HIM GET
-	AWAY WITH ANYTHING!
+	COM TODOS NÓS EM
+	ATIVIDADE,ELE NÃO
+	VAI SE SAFAR!
 	"""
 	keyWait
 		any = false
@@ -436,16 +436,17 @@ script 26 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE CRIMINAL'S NAVI
-	IS IN THE PARK?!
+	O NAVI DO CRIMINOSO
+	ESTÁ NA ÁREA
+	PARQUE?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OH NO! SECURITY IN
-	PARKAREA1 IS VERY
-	LAX RIGHT NOW!
+	ESSA NÃO! A SEGURAN-
+	ÇA EM PARQUE 1 ESTÁ
+	FRACA AGORA!
 	"""
 	keyWait
 		any = false
@@ -455,29 +456,28 @@ script 27 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"DON'T TALK TO ME!"
+	"NÃO FALE COMIGO!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'M TRYING TO
-	CONCENTRATE!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	THERE'S A HOLE IN
-	SECURITY SOMEWHERE
-	AROUND HERE⋯
+	ESTOU TENTANDO ME
+	CONCENTRAR!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'M TRYING TO
-	ANALYZE WHERE IT
-	COULD BE!
+	HÁ UMA BRECHA NA
+	SEGURANÇA AQUI,EM
+	ALGUM LUGAR...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	ESTOU TENTANDO
+	DETECTAR ONDE!
 	"""
 	keyWait
 		any = false
@@ -488,25 +488,24 @@ script 30 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THERE WAS AN
-	EXPLOSION IN
-	PARKAREA1!
+	HOUVE UMA EXPLOSÃO
+	NA ÁREA PARQUE 1!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ALLOWING THAT TO
-	HAPPEN WAS ALL OUR
-	FAULT!
+	FOI CULPA NOSSA
+	PERMITIR QUE ISSO
+	ACONTECESSE!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WE CONCENTRATED TOO
-	MUCH ON GUARDING
-	THIS AREA⋯
+	NOS CONCENTRAMOS
+	DEMAIS EM PROTEGER
+	ESTA ÁREA...
 	"""
 	keyWait
 		any = false
@@ -517,9 +516,9 @@ script 31 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	ALL THIS WOULDN'T
-	HAVE HAPPENED IF
-	I HAD STAYED!
+	ISSO NÃO TERIA
+	ACONTECIDO SE EU
+	TIVESSE FICADO LÁ!
 	"""
 	keyWait
 		any = false
@@ -530,15 +529,16 @@ script 32 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE SECURITY HOLE
-	WAS IN PARKAREA1!
+	A BRECHA DE
+	SEGURANÇA ESTAVA
+	NA ÁREA PARQUE 1!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I SHOULD HAVE
-	NOTICED SOONER!
+	EU DEVIA TER
+	PERCEBIDO!
 	"""
 	keyWait
 		any = false
@@ -549,24 +549,24 @@ script 35 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I HOPE THAT WE
-	WON'T BE DELETED
-	WHEN EVERYONE FINDS
+	ESPERO QUE NÃO NOS
+	DELETEM APÓS TODOS
+	DESCOBRIREM
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OUT THAT ALL THIS
-	WAS OUR FAULT!
+	QUE TUDO ISSO FOI
+	CULPA NOSSA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REGARDLESS,WE'LL
-	KEEP ON WATCHING
-	THIS AREA FOR NOW!
+	MESMO ASSIM,
+	VIGIAREMOS ESTA ÁREA
+	AINDA MAIS AGORA!
 	"""
 	keyWait
 		any = false
@@ -577,17 +577,17 @@ script 36 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WE'RE PROGRAMS
-	CREATED TO GUARD
-	THE PARK AREA.
+	SOMOS PROGS CRIADOS
+	PARA PROTEGER A
+	ÁREA PARQUE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WE HAVE TO DO OUR
-	BEST TO PROTECT
-	THIS AREA!
+	TEMOS QUE DAR TUDO
+	DE NÓS PARA PROTEGER
+	ESTA ÁREA!
 	"""
 	keyWait
 		any = false
@@ -598,17 +598,17 @@ script 37 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I CAN'T BELIEVE
-	THAT I DIDN'T SEE
-	THAT WE HAD TOO FEW
+	NÃO ACREDITO QUE NÃO
+	PERCEBEMOS QUE TÍ-
+	NHAMOS MUITOS POUCOS
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	GUARDS IN ONE AREA,
-	AND THAT CAUSED THE
-	SECURITY HOLE!
+	GUARDAS EM UMA ÁREA,
+	E ISSO CRIOU A
+	BRECHA DE SEGURANÇA!
 	"""
 	keyWait
 		any = false
@@ -626,13 +626,13 @@ script 220 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	I'm a BugFrag
-	trader⋯
+	Sou um mercador de
+	FragBugs...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Wanna trade?\n"
+	"Quer trocar?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -643,7 +643,7 @@ script 220 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Look  "
+	"Olhar  "
 	option
 		brackets = false
 		left = 0
@@ -652,7 +652,7 @@ script 220 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Don't look"
+	"Não olhar"
 	select
 		default = 0
 		noDelay = false
@@ -669,7 +669,7 @@ script 220 mmbn4 {
 }
 script 221 mmbn4 {
 	clearMsg
-	"Come again!"
+	"Volte sempre!"
 	keyWait
 		any = false
 	end
@@ -678,7 +678,7 @@ script 222 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviPink
 	msgOpen
-	"Sorry,all sold out!"
+	"Lamento! Esgotado!"
 	keyWait
 		any = false
 	end

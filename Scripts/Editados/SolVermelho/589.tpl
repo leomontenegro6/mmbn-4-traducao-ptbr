@@ -5,8 +5,8 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Is this our first
-	fight with TopMan?
+	Então,nossa próxima
+	luta é com TopMan?
 	"""
 	keyWait
 		any = false
@@ -18,16 +18,16 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I've not heard about
-	this Navi before.
+	Eu nunca ouvi falar
+	desse Navi na vida.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's beat the prelim
-	and made it this
-	far,so be careful!
+	Mas ele chegou longe
+	no torneio. Melhor
+	tomar cuidado!
 	"""
 	keyWait
 		any = false
@@ -37,13 +37,13 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I know,I know!"
+	"Eu sei,eu sei!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's beat this guy,
-	MegaMan!
+	Vamos acabar com
+	esse cara,MegaMan!
 	"""
 	keyWait
 		any = false
@@ -54,7 +54,7 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"You got it!"
+	"Vamos sim!"
 	keyWait
 		any = false
 	end

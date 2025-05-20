@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	So,you've found me
-	at last! Hurry up
-	and send me on!
+	Então,você enfim me
+	me achou! Me faz
+	ascender logo,vai!
 	"""
 	keyWait
 		any = false
@@ -20,7 +20,7 @@ script 1 mmbn4 {
 		mugshot = Lan
 	"""
 	MegaMan!
-	Use the CybSutra!
+	Usa o Cyber Sutra!
 	"""
 	keyWait
 		any = false
@@ -31,7 +31,7 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Roger!"
+	"Certo!"
 	keyWait
 		any = false
 	clearMsg
@@ -39,9 +39,9 @@ script 2 mmbn4 {
 		timer = 1
 		value = 1
 	"""
-	Floppy M O
+	Disquete M O
 	C D D V D.
-	Is that it?!
+	É isso mesmo?!
 	"""
 	keyWait
 		any = false
@@ -52,8 +52,9 @@ script 3 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Check the middle of
-	the ACDC Town park.
+	Confira o centro do
+	parque no Bairro
+	ACDC.
 	"""
 	keyWait
 		any = false

@@ -6,9 +6,9 @@ script 0 mmbn4 {
 		jumpIfBlueMoon = 9
 	msgOpen
 	"""
-	Bem no topo das
-	escadas do Torneio
-	de Batalha Den.
+	Subindo as escadas:
+	Torneio de Batalha
+	Den.
 	"""
 	keyWait
 		any = false
@@ -114,7 +114,7 @@ script 8 mmbn4 {
 	"""
 	Alguns vieram de
 	bicicleta... e não
-	podem estacionar aí.
+	deviam deixá-las aí.
 	"""
 	keyWait
 		any = false
@@ -123,9 +123,9 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	msgOpen
 	"""
-	Bem no topo das es-
-	cadas do Torneio de
-	Batalha da Cidade.
+	Subindo as escadas:
+	Torneio de Batalha
+	da Cidade.
 	"""
 	keyWait
 		any = false
@@ -224,7 +224,7 @@ script 17 mmbn4 {
 	msgOpen
 	"""
 	Tem alguma coisa
-	sob a sela...
+	sob o banco...
 	"""
 	keyWait
 		any = false
@@ -254,7 +254,7 @@ script 18 mmbn4 {
 	"""
 	Alguns vieram de
 	bicicleta... e não
-	podem estacionar aí.
+	deviam deixá-las aí.
 	"""
 	keyWait
 		any = false

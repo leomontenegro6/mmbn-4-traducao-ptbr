@@ -19,13 +19,13 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"HELLO!"
+	"OLÁ!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE ACDC AREA IS
-	QUIET AS USUAL!
+	Á AREA ACDC ESTÁ EM
+	PAZ,COMO SEMPRE!
 	"""
 	keyWait
 		any = false
@@ -51,9 +51,9 @@ script 1 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I heard that there's
-	something cool going
-	on in the Town Area⋯
+	Ouvi dizer que tá
+	rolando uma coisa
+	legal na Área Vila.
 	"""
 	keyWait
 		any = false
@@ -82,14 +82,14 @@ script 2 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Hey,aren't you the
-	Navi won the Den
-	Battle Tournament?
+	Você não é o Navi
+	que venceu o Torneio
+	de Batalha Den?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Cooool!"
+	"Iraaaado!"
 	keyWait
 		any = false
 	end
@@ -99,18 +99,18 @@ script 3 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Hey,aren't you the
-	Navi that won the
-	City Battle
+	Você não é o Navi
+	que venceu o Torneio
+	de Batalha da?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Tournament?"
+	"Cidade?"
 	keyWait
 		any = false
 	clearMsg
-	"Cooool!"
+	"Iraaaado!"
 	keyWait
 		any = false
 	end
@@ -120,16 +120,17 @@ script 5 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	GUARDING⋯GUARDING⋯
-	NOTHING TO REPORT
-	HERE!
+	VIGIANDO...
+	VIGIANDO...
+	NADA A RELATAR!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A CREEPY-LOOKING
-	NAVI JUST RAN BY⋯
+	SÓ UM NAVI MEIO SI-
+	NISTRO QUE ACABOU DE
+	PASSAR POR AQUI...
 	"""
 	keyWait
 		any = false
@@ -140,15 +141,15 @@ script 6 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	What's wrong with
-	you⋯?
+	O que houve com
+	você...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Did something
-	happen?
+	Aconteceu alguma
+	coisa?
 	"""
 	keyWait
 		any = false
@@ -159,7 +160,7 @@ script 7 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I want to go to
+	Eu quero ir pro
 	Castillo!
 	"""
 	keyWait
@@ -171,9 +172,9 @@ script 10 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	HEE HEE,HAA HAA!
-	ANOTHER PEACEFUL
-	DAY!
+	HI HI,HA HA!
+	MAIS UM DIA
+	PACÍFICO!
 	"""
 	keyWait
 		any = false
@@ -184,22 +185,23 @@ script 11 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I heard a rumor that
-	a Castillo employee⋯
+	Ouvi um boato de que
+	um funcionário do
+	Castillo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	was recently
-	attacked in Town3!
+	foi atacado em Vila3
+	por estes dias!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Net is getting
-	so dangerous⋯
+	A Rede tá ficando
+	tão perigosa...
 	"""
 	keyWait
 		any = false
@@ -210,13 +212,13 @@ script 12 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Castillo must be so
-	much fun!
+	O Castillo deve ser
+	tão divertido!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I can't wait to go!"
+	"Mal posso esperar\npra ir!"
 	keyWait
 		any = false
 	end
@@ -225,20 +227,21 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"I'M ON MY BREAK NOW."
+	"ESTOU NA MINHA FOLGA\nAGORA."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PLEASE DON'T
-	DISTURB ME.
+	POR FAVOR,NÃO ME
+	PERTURBE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WORK IS WORK,
-	REST IS REST!
+	TRABALHO É TRABALHO,
+	E DESCANSO É
+	DESCANSO!
 	"""
 	keyWait
 		any = false
@@ -248,14 +251,14 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Another attack?"
+	"Outro ataque?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,don't look at
-	me! I'm not
-	involved!
+	Bom,não olha pra
+	mim! Eu não tô
+	envolvido!
 	"""
 	keyWait
 		any = false
@@ -266,16 +269,16 @@ script 17 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Something's going on
-	at Castillo again?
+	Tem coisa rolando
+	no Castillo de novo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Probably just
-	another event they
-	are hosting⋯
+	Devem estar sediando
+	algum outro
+	evento...
 	"""
 	keyWait
 		any = false
@@ -290,14 +293,14 @@ script 30 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I WONDER WHAT THIS
-	IS? I FOUND IT
-	LYING OVER THERE⋯
+	O QUE SERÁ QUE É
+	ISTO? ACHEI NO CHÃO
+	ALI...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"WANT IT?"
+	"VOCÊ QUER?"
 	keyWait
 		any = false
 	clearMsg
@@ -337,8 +340,8 @@ script 30 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	A POINT?
-	WHAT'S THAT?
+	UM PONTO?
+	O QUE É ISSO?
 	"""
 	keyWait
 		any = false
@@ -349,8 +352,7 @@ script 31 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	IF YOU WANT IT,IT'S
-	YOURS!
+	SE QUISER,É SEU!
 	"""
 	keyWait
 		any = false
@@ -376,9 +378,8 @@ script 31 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	ONE MAN'S TRASH IS
-	ANOTHER MAN'S
-	TREASURE,RIGHT?
+	O LIXO DE UM É O
+	TESOURO DE OUTRO,NÉ?
 	"""
 	keyWait
 		any = false
@@ -391,14 +392,14 @@ script 32 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	FIND A POINT AND
-	PICK IT UP,AND⋯ER,
-	NO,THAT'S NOT IT⋯
+	ACHAR UM PONTO E
+	PEGAR É... ER...
+	NÃO,NÃO É ISSO...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"TO EACH HIS OWN!"
+	"CADA QUAL COM SEU\nCADA QUAL!"
 	keyWait
 		any = false
 	end
@@ -408,16 +409,16 @@ script 40 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	HEY,MEGAMAN! I HEAR
-	YOU MADE IT PAST
-	THE PRELIMS!
+	OI,MEGAMAN! OUVI QUE
+	VOCÊ PASSOU NAS
+	PRELIMINARES!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	CONGRATULATIONS!
-	KEEP IT UP!
+	MEUS PARABÉNS!
+	CONTINUE ASSIM!
 	"""
 	keyWait
 		any = false
@@ -443,9 +444,9 @@ script 41 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	SO YOUR FIRST
-	OPPONENT HAS BEEN
-	DECIDED,HUH?
+	ENTÃO,O SEU PRIMEIRO
+	OPONENTE JÁ FOI
+	DECIDIDO,É?
 	"""
 	keyWait
 		any = false
@@ -461,9 +462,9 @@ script 42 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	YOU LOOK LIKE YOU'RE
-	IN TOP CONDITION!
-	GOOD LUCK!
+	PARECE QUE VOCÊ ESTÁ
+	EM EXCELENTE FORMA!
+	BOA SORTE!
 	"""
 	keyWait
 		any = false
@@ -479,16 +480,17 @@ script 43 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	SO NEXT IS THE
-	FINAL ROUND?
+	ENTÃO A PRÓXIMA
+	RODADA SERÁ A
+	ÚLTIMA?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT'S WONDERFUL THAT
-	YOU'VE MADE IT THIS
-	FAR!
+	QUE INCRÍVEL QUE
+	VOCÊ CHEGOU TÃO
+	LONGE!
 	"""
 	keyWait
 		any = false
@@ -499,8 +501,9 @@ script 44 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I WAS SO SURPRISED
-	BY THE SUDDEN BLAZE!
+	FUI PEGO TOTALMENTE
+	DE SURPRESA PELO
+	INCÊNDIO REPENTINO!
 	"""
 	keyWait
 		any = false
@@ -511,17 +514,16 @@ script 50 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Gosh! I didn't get
-	enough points to
-	qualify!
+	Poxa! Não consegui
+	reunir os pontos
+	pra me qualificar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You got all your
-	points? Gosh,I'm so
-	jealous!
+	Cê conseguiu todos
+	eles? Que inveja!
 	"""
 	keyWait
 		any = false
@@ -547,9 +549,9 @@ script 51 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	So the match is
-	almost here! I can't
-	wait to see it!
+	A luta tá quase
+	chegando! Tô louco
+	pra ver ela!
 	"""
 	keyWait
 		any = false
@@ -565,16 +567,15 @@ script 52 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	I watched your
-	match! You're really
-	good!
+	Eu vi a sua luta!
+	Cê é bom mesmo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't wait for
-	your next battle!
+	Tô ansioso pra sua
+	próxima luta!
 	"""
 	keyWait
 		any = false
@@ -590,17 +591,16 @@ script 53 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Amazing! You've made
-	it to the final
-	match!
+	Que demais!
+	Cê chegou na final!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm almost as
-	excited as if it was
-	me who was winning!
+	Tô quase tão animado
+	quanto se fosse eu
+	no páreo!
 	"""
 	keyWait
 		any = false
@@ -611,17 +611,17 @@ script 54 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Everyone scrambling
-	for those points,
-	huh⋯
+	Tá todo mundo
+	caçando esses
+	pontos,hein...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well I'm not in this
-	thing,so I don't
-	have to worry⋯
+	Bom,eu não tô
+	competindo,então
+	tanto faz pra mim...
 	"""
 	keyWait
 		any = false
@@ -632,17 +632,17 @@ script 59 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Wow! A fire on the
-	Net? How could that
-	happen?
+	Nossa! Um incêndio
+	na Rede? Como isso
+	foi acontecer?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	At least no one was
-	injured! That would
-	have been terrible!
+	Pelo menos,ninguém
+	se feriu! Evitamos
+	um desastre maior!
 	"""
 	keyWait
 		any = false

@@ -5,15 +5,16 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Next we fight
-	BurnMan⋯
+	Agora,vamos
+	enfrentar o
+	BurnMan...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	BurnMan?
-	So that means fire?
+	Um Navi de fogo?
 	"""
 	keyWait
 		any = false
@@ -26,8 +27,8 @@ script 1 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yep,that sure
-	sounds like fire.
+	Com certeza parece
+	ser,pra mim.
 	"""
 	keyWait
 		any = false
@@ -39,14 +40,14 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hmm⋯"
+	"Hmm..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Fire makes me think
-	of one person in
-	particular.
+	Fogo só me faz
+	pensar em uma
+	pessoa...
 	"""
 	keyWait
 		any = false
@@ -58,8 +59,8 @@ script 3 mmbn4 {
 	mugshotHide
 	msgOpen
 	"""
-	You mean me?
-	Lan⋯
+	Isto é,eu?
+	Lan...
 	"""
 	keyWait
 		any = false
@@ -74,8 +75,8 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Are you BurnMan's
-	operator?
+	VOCÊ é o operador
+	do BurnMan?
 	"""
 	keyWait
 		any = false
@@ -88,15 +89,15 @@ script 5 mmbn4 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Operator?
-	Oh,no,I'm not.
+	Operador?
+	Ah,não,não sou.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I came to see the
-	faces.
+	Só vim olhar pra
+	essa cara.
 	"""
 	keyWait
 		any = false
@@ -108,11 +109,11 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Faces?"
+	"Cara?"
 	keyWait
 		any = false
 	clearMsg
-	"My face?"
+	"A minha cara?"
 	keyWait
 		any = false
 	clearMsg
@@ -123,49 +124,49 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	msgOpen
-	"Of course not!"
+	"Claro que não!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Then whose?"
+	"De quem,então?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MrMatch
-	"Well,duh!"
+	"Não é óbvio?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That upstart Navi
-	who thinks he can
-	handle fire like me,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	and his operator,
-	that's who!
+	Do Navi insolente
+	que acha que pode
+	utilizar fogo como
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have an exclusive
-	monopoly on burning
-	flames,I can't have
+	eu. E do operador
+	dele também,claro!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	anyone using them
-	without a hot
-	spirit!
+	Eu tenho monopólio
+	exclusivo sobre
+	chamas. Não permito
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	que ninguém mais
+	use elas sem ter
+	um fogo na alma!
 	"""
 	keyWait
 		any = false
@@ -176,13 +177,13 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotHide
 	msgOpen
-	"Hehehe!"
+	"He he he!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're a funny old
-	guy,ain't yah!
+	Cê é um tiozinho
+	engraçado,viu?
 	"""
 	keyWait
 		any = false
@@ -193,23 +194,23 @@ script 9 mmbn4 {
 		mugshot = Atsuki
 	msgOpen
 	"""
-	I'm Atsuki,
-	BurnMan's
-	operator!
+	Eu sou Atsuki
+	Homura,operador do
+	BurnMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Nice"
+	"Mui"
 	waitSkip
 		frames = 30
-	" to"
+	"to "
 	waitSkip
 		frames = 30
-	" meet"
+	"pra"
 	waitSkip
 		frames = 30
-	" you!"
+	"zer!"
 	keyWait
 		any = false
 	end
@@ -218,22 +219,21 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	msgOpen
-	"Huh?"
+	"Hã?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My,what a showy
-	little boy you are,
-	aren't you.
+	Ah,mas que moleque
+	exibido você é...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And you handle a
-	flame Navi? I don't
-	approve.
+	E VOCÊ usa um Navi
+	de fogo? Eu não
+	aprovo isso.
 	"""
 	keyWait
 		any = false
@@ -245,29 +245,29 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Atsuki
 	msgOpen
-	"Hehehe!"
+	"He he he!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You were ranting on
-	about hot spirit
-	or something?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Old-fashioned rant-
-	ing like that gives
-	me the goose bumps!
+	Você tava falando de
+	"fogo na alma" ou
+	sei lá,né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's why I can't
-	stand old guy!
+	Esse papinho besta
+	de velho me dá
+	arrepios!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	É por isso que eu
+	não suporto tiozões!
 	"""
 	keyWait
 		any = false
@@ -278,9 +278,8 @@ script 12 mmbn4 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Who's an old guy?!
-	I dare you to say
-	that one more time!
+	Tiozão?! Repete
+	isso aí,quero ver!
 	"""
 	keyWait
 		any = false
@@ -292,29 +291,29 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = Atsuki
 	msgOpen
-	"Old guy!"
+	"Tiozão!"
 	keyWait
 		any = false
 	clearMsg
-	"O-o-old guy!"
+	"Tiiiozão!"
 	keyWait
 		any = false
 	clearMsg
-	"O-o-o-o-o-o-old guy!"
+	"T-I-O-Z-Ã-OOOO!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Whoops,that's three
-	times! That's two
-	times too many!
+	Pronto,repeti e
+	repeti TRÊS vezes.
+	Quer mais?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MrMatch
-	"You little brat⋯"
+	"Ora,seu pirralho..."
 	keyWait
 		any = false
 	end
@@ -324,8 +323,8 @@ script 14 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Wait,you guys!
-	Calm down!
+	Opa! Ei,gente!
+	Calma!
 	"""
 	keyWait
 		any = false
@@ -336,16 +335,16 @@ script 15 mmbn4 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Your spirit is too
-	chilly to handle a
-	flame Navi!
+	O seu espírito é
+	morno demais pra
+	usar Navi de fogo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I won't stand for
-	it!
+	Eu não vou permitir
+	isso,não!
 	"""
 	keyWait
 		any = false
@@ -355,37 +354,38 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = Atsuki
 	msgOpen
-	"Not true!"
+	"Cala a boca!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have a hot spirit,
-	I just keep it on
-	the inside!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I don't rant like
-	you do,but I'm
-	always hot!
+	O meu espírito É
+	quente. Eu só deixo
+	ele guardado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Want proof? I drove
-	the Fire Float in my
+	Não fico tagarelando
+	como você,mas tô
+	sempre fervendo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	town's Festival of
-	Flames 3 years
-	in a row!
+	Quer provas? Eu pi-
+	lotei o Dirigível do
+	Fogo no Festival das
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Chamas da minha
+	cidade por três
+	anos seguidos!
 	"""
 	keyWait
 		any = false
@@ -395,44 +395,44 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	msgOpen
-	"Festival of Flames?!"
+	"Festival das\nChamas?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a fire festival
-	that only the hot-
-	test guys around get
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	invited to from
-	northern Electopia!
+	O festival de fogo
+	pro qual só os mais
+	quentes são
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Only one person gets
-	to drive the float
-	each year.
+	convidados,no
+	norte de Ni-Hon?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That person is the
-	guy with the
+	Só uma pessoa pode
+	pilotar o dirigível
+	todo ano...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"hottest spirit" of
-	anyone at the
-	festival.
+	A pessoa que possui
+	o "espírito mais
+	quente"
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	de todos no
+	festival!
 	"""
 	keyWait
 		any = false
@@ -444,7 +444,7 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What the?!"
+	"O quê?!"
 	keyWait
 		any = false
 	clearMsg
@@ -455,14 +455,14 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = Atsuki
 	msgOpen
-	"You see?"
+	"Viu?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So no more of your
-	ranting about
-	hot spirit!
+	Então,para com esse
+	lero-lero sobre
+	"fogo na alma"!
 	"""
 	keyWait
 		any = false
@@ -475,23 +475,25 @@ script 20 mmbn4 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Heh,so you're not
-	just some bumpkin.
-	Very interesting.
+	He,então,você não é
+	só um caipira qual-
+	quer. Interessante.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So why don't we
-	have our Navis duke
+	Então,por que não
+	nos enfrentamos com
+	os nossos Navis
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it out and see who's
-	got the hot spirit!
+	pra ver quem tem o
+	espírito mais
+	quente?
 	"""
 	keyWait
 		any = false
@@ -504,20 +506,20 @@ script 21 mmbn4 {
 		mugshot = Atsuki
 	msgOpen
 	"""
-	We'll see who's
-	better suited to
+	Aí,a gente vê quem
+	é o mais adequado
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	operate a flame
-	Navi!
+	para operar Navis
+	de fogo!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"You got it!"
+	"Aceito!"
 	keyWait
 		any = false
 	end
@@ -527,8 +529,8 @@ script 22 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,shouldn't we
-	stop this?
+	Lan,a gente não
+	devia parar isso?
 	"""
 	keyWait
 		any = false
@@ -539,17 +541,17 @@ script 23 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It's just a battle
-	between Navis. Let
-	them have their fun.
+	É só uma NetLuta
+	normal. Deixa eles
+	brincarem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do you think Atsuki
-	will return in time
-	for our match?
+	... Acha que o
+	Atsuki volta a tempo
+	da NOSSA luta?
 	"""
 	keyWait
 		any = false
@@ -562,9 +564,9 @@ script 24 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	True,they do seem
-	to be off on their
-	own little planet.
+	Pois é,eles parecem
+	perdidos no mundinho
+	deles...
 	"""
 	keyWait
 		any = false
@@ -576,14 +578,14 @@ script 25 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Okay!"
+	"Beleza!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Um,we'll be hanging
-	out until it's time
-	for the match.
+	Er,vamos dar uma
+	volta por aí até
+	a hora da luta.
 	"""
 	keyWait
 		any = false

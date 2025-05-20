@@ -4,13 +4,14 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = NumberMan
 	msgOpen
-	"Thanks!"
+	"Obrigado!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I thought I was a
-	goner there.
+	Eu achei que fosse
+	ficar aqui pra
+	sempre.
 	"""
 	keyWait
 		any = false
@@ -22,9 +23,9 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Why were you locked
-	up inside your own
-	warehouse again?
+	Mas como você ficou
+	preso dentro do seu
+	próprio armazém?
 	"""
 	keyWait
 		any = false
@@ -35,27 +36,27 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = NumberMan
-	"It was NAM!"
+	"Foi o NAM!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Navi of that guy
-	who always laughs
-	locked me in here.
+	O Navi daquele cara
+	risonho me trancou
+	aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's no way I'll
-	let them get their
-	way now!!!
+	Nunca que eu vou
+	deixar eles se
+	safarem agora!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'll go on ahead!"
+	"Eu vou na frente!"
 	keyWait
 		any = false
 	end

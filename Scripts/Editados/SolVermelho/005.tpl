@@ -1,15 +1,15 @@
 @size 20
 
 script 0 mmbn4s {
-	"Training"
+	"Treino"
 	end
 }
 script 1 mmbn4s {
-	"Network Duel"
+	"Duelo Rede"
 	end
 }
 script 2 mmbn4s {
-	"Instructions"
+	"Instruções"
 	end
 }
 script 3 mmbn4 {
@@ -29,9 +29,9 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	1P Practice Mode.
-	Features continuous
-	battles with Navis.
+	Modo de treino solo.
+	Enfrente lutas
+	seguidas com Navis.
 	"""
 	waitHold
 }
@@ -52,9 +52,9 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	Network Duel Mode.
-	Duel it out against
-	your friends' Navis!
+	Treino de Rede.
+	Duele contra Navis
+	de amigos!
 	"""
 	waitHold
 }
@@ -75,9 +75,9 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	I,Mr.Famous,will
-	instruct you in
-	Operation Battle.
+	Eu,o Sr. Famoso,
+	lhe guiarei em uma
+	Batalha de Operação.
 	"""
 	waitHold
 }
@@ -98,8 +98,8 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	Oops! There's been
-	a connection error⋯
+	Opa! Houve um erro
+	de comunicação...
 	"""
 	keyWait
 		any = false
@@ -122,9 +122,9 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	I'm processing the
-	connection status.
-	Give me a moment⋯
+	Precessando estado
+	da conexão. Me dê
+	só um instante...
 	"""
 	waitHold
 }
@@ -143,9 +143,9 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	Congratulations! I
-	believe you're ready
-	to duel a friend!
+	Parabéns! Acho que
+	está pronto para
+	duelar com um amigo!
 	"""
 	keyWait
 		any = false
@@ -166,9 +166,9 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	Too bad⋯but don't
-	lose heart! Try
-	again!
+	Que pena... Mas
+	não se desespere!
+	Tente de novo!
 	"""
 	keyWait
 		any = false
@@ -189,15 +189,16 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	This is a one-player
-	mode! Unjack the
+	Este modo é só
+	para um jogador!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	cable before you
-	select it!
+	Desconecte o
+	cabo antes de
+	selecioná-lo!
 	"""
 	keyWait
 		any = false
@@ -218,9 +219,9 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	No Navi data has
-	been transmitted
-	yet.
+	Nenhum dado de Navi
+	foi transmitido
+	ainda.
 	"""
 	keyWait
 		any = false
@@ -243,9 +244,9 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	Your friend isn't
-	quite ready yet.
-	Hold on a sec⋯
+	Seu amigo ainda
+	não está pronto.
+	Só um instante...
 	"""
 	waitHold
 }
@@ -264,8 +265,8 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	Well done!
-	Beautiful operation!
+	Bom trabalho!
+	Que operação divina!
 	"""
 	keyWait
 		any = false
@@ -286,9 +287,9 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	Too bad⋯but don't
-	lose heart! Try
-	again!
+	Que pena... Mas
+	não se desespere!
+	Tente de novo!
 	"""
 	keyWait
 		any = false
@@ -311,9 +312,9 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	Operation Battle!
-	Insert a NaviChip &
-	transmit your Navi!
+	Luta de Operação!
+	Insira um ChipNavi e
+	transmita seu Navi!
 	"""
 	waitHold
 }
@@ -332,122 +333,129 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	Operation Battle
-	puts you in the role
-	of Operator! Send
+	Na Batalha de
+	Operação,você é
+	o Operador!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	chips to your Navi
-	and direct it as
+	Mande chips pro seu
+	Navi e dirija ele
+	enquanto ele luta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it fights! The Navi
-	will automatically
+	O Navi irá agir
+	por conta própria
+	automaticamente,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	act on its own,but
-	you can move it 
+	mas pode movê-lo pra
+	frente e pra trás
+	com os direcionais
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	forward and backward
-	with the Left/Right
-	Keys,change tactics
+	para a Esquerda e
+	Direita,alternar
+	táticas apertando
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	with the Down Key,
-	and change equipment
-	with the Up Key!
+	para Baixo e trocar
+	o equipamento aper-
+	tando para Cima!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Be careful though,
-	the Custom Gauge
-	depletes while you
+	Mas,cuidado: a Barra
+	de Customiza vai se
+	gastar enquanto você
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	communicate with
-	Navi! Send chips to
+	se comunica com o
+	Navi! Envie chips
+	para o seu Navi
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you Navi when the
-	gauge is full! The
+	quando a barra
+	estiver cheia!
+	A cor da sua barra
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	color of your full
-	gauge determines
+	cheia determina os
+	tipos de chip que
+	você pode mandar:
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	what type of chips
-	you can send:
-	Yellow=Standard
+	Amarelo=Comuns.
+	Azul=Megas.
+	Vermelho=Gigas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Blue=Mega-class
-	Red=Giga-class
-	However,you can only
+	Porém,você só pode
+	usar cada chip um
+	número seleto de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	use each chip a set
-	number of times. If
-	you take damage,your
+	vez. Se você levar
+	dano,a sua barra vai
+	se gastar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	gauge will deplete⋯
-	Navi control and
-	the Custom Gauge are
+	Controle sobre o
+	Navi e da Barra de
+	Customização são
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	essential to win!
-	Lastly is the L
-	Button. I'll let you
+	essenciais pra vitó-
+	ria! Por fim,o
+	botão "L"...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	figure its function
-	out on your own!
+	Vou deixar você
+	mesmo descobrir
+	a função dele!
 	"""
 	keyWait
 		any = false
@@ -470,15 +478,15 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	Oops! There's been
-	a connection error⋯
+	Opa! Houve um erro
+	de comunicação...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Check the Chip Gate
-	connection.
+	Confira a conexão do
+	Portão de Chips.
 	
 	"""
 	positionOptionHorizontal
@@ -531,8 +539,8 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	The Chip Gate is not
-	connected!
+	O Portão de Chips
+	não está conectado!
 	"""
 	keyWait
 		any = false
@@ -555,8 +563,8 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	Check the Chip Gate
-	connection.
+	Confira a conexão do
+	Portão de Chips.
 	
 	"""
 	positionOptionHorizontal

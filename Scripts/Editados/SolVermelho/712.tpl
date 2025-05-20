@@ -4,36 +4,37 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Mami
 	msgOpen
-	"*pant pant*"
+	"Uff... Uff..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I ran all the way
-	from MelSquar,so
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I'm a little bit
-	winded. Sorry about
-	this!
+	Eu corri lá dá
+	Praça Marchen pra
+	cá,então tô meio
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And the competitors
-	are here!
+	cansada.
+	Desculpa,gente!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	First,the grade
-	school NetBattler
-	Lan!
+	Enfim,os
+	competidores
+	estão aqui!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Primeiro,o NetLuta-
+	dor do fundamental,
+	Lan Hikari!
 	"""
 	keyWait
 		any = false
@@ -43,14 +44,14 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Mami
 	msgOpen
-	"And next,"
+	"E enfrentando ele,"
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Flave Yamakawa,
-	who wants to be the
-	next culinary star!
+	aspirante a astro
+	da culinária!
 	"""
 	keyWait
 		any = false
@@ -61,17 +62,17 @@ script 2 mmbn4 {
 		mugshot = Flave
 	msgOpen
 	"""
-	You got lucky in
-	the CookingBattle,
-	but not this time!
+	Você deu sorte na
+	Luta Culinária,
+	mas isso acabou!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My techniques are
-	better than yours,
-	I know it!
+	As minhas técnicas
+	são melhores que as
+	suas! Sei que são!
 	"""
 	keyWait
 		any = false
@@ -84,9 +85,9 @@ script 3 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	And I'll show you
-	that it takes more
-	than technique!
+	E EU vou te mostrar
+	que NetLuta é mais
+	que só técnica!
 	"""
 	keyWait
 		any = false
@@ -96,29 +97,29 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Mami
 	msgOpen
-	"All right!"
+	"Beleza!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's another fierce
-	battle to follow the
-	cooking competition!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	All right then,
-	let's start this!
+	Será uma luta feroz,
+	continuando a compe-
+	tição culinária!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan
+	Certo,então,
+	vamos começar!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Lan Hikari
 	Vs.
-	Flave Yamakawa
+	Flave Yamakawa!
 	"""
 	keyWait
 		any = false
@@ -148,7 +149,7 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Flave
 	msgOpen
-	"It's over!"
+	"Você já era!"
 	keyWait
 		any = false
 	end

@@ -5,8 +5,8 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	*pant pant*
-	It's the,umm⋯
+	Arf... Arf...
+	Aqui,as...
 	"""
 	keyWait
 		any = false
@@ -15,8 +15,8 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	msgOpen
 	"""
-	MegaMan showed the
-	"Licenses"!!
+	MegaMan mostrou as
+	"Licenças"!!
 	"""
 	keyWait
 		any = false
@@ -27,9 +27,9 @@ script 2 mmbn4 {
 		mugshot = KendoMan
 	msgOpen
 	"""
-	Oh ho,you brought
-	back all three
-	"Licenses"!
+	Oh,você trouxe
+	todas as três
+	"Licenças"!
 	"""
 	keyWait
 		any = false
@@ -41,9 +41,9 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Now I have something
-	to say to you!
-	
+	Agora,eu tenho uma
+	coisa pra falar pra
+	você! 
 	"""
 	mugshotAnimation
 		animation = 1
@@ -58,8 +58,8 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = KendoMan
 	"""
-	Sure!
-	Spit it out!
+	Claro!
+	Fale logo!
 	"""
 	keyWait
 		any = false
@@ -70,7 +70,7 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"I,umm"
+	"Eu,er"
 	waitSkip
 		frames = 30
 	"."
@@ -91,20 +91,23 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = KendoMan
 	msgOpen
-	"So you're not here"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	for training at all,
-	you're my opponent
+	Então,você não está
+	aqui para treinar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and you came to meet
-	me?
+	Na verdade,você é o
+	meu oponente e veio
+	me conhecer...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	É isso?
 	"""
 	keyWait
 		any = false
@@ -115,7 +118,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"That's correct."
+	"É,sim."
 	keyWait
 		any = false
 	clearMsg
@@ -126,22 +129,23 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = KendoMan
 	"""
-	Oh,sorry then!
-	I can be a little
-	impatient at times.
+	Ah,desculpe,então!
+	Eu sou meio impaci-
+	ente,às vezes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I lash out when I
-	see a young Navi.
+	Acabo descarregando
+	muita coisa quando
+	vejo um Navi jovem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please forgive me,
+	Por favor,perdoe-me,
 	MegaMan!
 	"""
 	keyWait
@@ -154,8 +158,8 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	So,is your training
-	always that strict?
+	Então,o seu treino é
+	sempre pesado assim?
 	"""
 	keyWait
 		any = false
@@ -166,45 +170,45 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = KendoMan
-	"Of course!"
+	"Claro!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The path of kendo is
-	life itself!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	All martial arts are
-	like that. If you
-	can follow the path
+	O caminho do kendô
+	é a vida encarnada!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	of martial arts
-	correctly,then you
-	can live correctly.
+	Todas as artes
+	marciais são. Se
+	seguir o caminho das
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mr.Famous wants to
-	use the spirit of
-	martial arts to
+	artes marciais
+	corretamente,você
+	VIVERÁ corretamente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	build character.
-	That's why it seems
-	so difficult!
+	O Sr. Famoso quer
+	usar o espírito das
+	artes marciais para
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	construir caráter.
+	Por isso parece tão
+	difícil!
 	"""
 	keyWait
 		any = false
@@ -216,17 +220,17 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I see⋯So that's
-	the point of this
-	difficult training.
+	Sei... Então o
+	treino pesado
+	tem um propósito.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I learned something
-	new today,didn't
-	you,Lan?
+	Bom,eu aprendi uma
+	coisa nova hoje.
+	E você,Lan?
 	"""
 	keyWait
 		any = false
@@ -238,9 +242,9 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Sure did,MegaMan!
-	How'd you like to
-	be his apprentice?
+	Eu também,MegaMan!
+	Ei,que tal virar
+	aprendiz dele?
 	"""
 	keyWait
 		any = false
@@ -252,15 +256,15 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = KendoMan
 	"""
-	I was thinking just
-	the same thing.
+	Eu estava pensando a
+	mesma coisa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,you show
-	promise!
+	Você é promissor,
+	MegaMan!
 	"""
 	keyWait
 		any = false
@@ -271,13 +275,13 @@ script 13 mmbn4 {
 script 14 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Really?!"
+	"É mesmo?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But,I don't think
-	so,thanks.
+	Mas... acho que
+	não,obrigado.
 	"""
 	keyWait
 		any = false
@@ -289,22 +293,22 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = KendoMan
 	"""
-	Bwahahahaha!!!
-	Just kidding!
+	Ga ha ha ha ha!!!
+	Era brincadeira!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's time to head
-	back to the
-	tournament,anyway.
+	Já é hora de voltar
+	para o torneio,de
+	qualquer forma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll see you there,
+	Vejo você lá,
 	MegaMan!
 	"""
 	keyWait
@@ -316,7 +320,7 @@ script 15 mmbn4 {
 script 16 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Okay!"
+	"É!"
 	keyWait
 		any = false
 	clearMsg
@@ -327,8 +331,8 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Okay MegaMan,let's
-	jack out!
+	Beleza,MegaMan,
+	vamos desconectar!
 	"""
 	keyWait
 		any = false
@@ -339,7 +343,7 @@ script 17 mmbn4 {
 script 18 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Gotcha!"
+	"Certo!"
 	keyWait
 		any = false
 	end

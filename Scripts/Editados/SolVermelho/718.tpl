@@ -5,15 +5,16 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So we're up against
-	ThunderMan next⋯
+	Então,o nosso
+	próximo adversário
+	é o ThunderMan...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's the Navi of
-	Raoul,from Netopia.
+	O Navi do Raoul,
+	da Ameropa.
 	"""
 	keyWait
 		any = false
@@ -25,9 +26,9 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	He looks pretty
-	tough,but he'll be a
-	great opponent.
+	Ele é bem forte.
+	Vai ser um ótimo
+	adversário.
 	"""
 	keyWait
 		any = false
@@ -38,7 +39,7 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = BlondMan
-	"Hey,you!"
+	"Ei,você!"
 	keyWait
 		any = false
 	end
@@ -48,8 +49,8 @@ script 3 mmbn4 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	Are you competing in
-	the tournament?
+	Está competindo no
+	torneio?
 	"""
 	keyWait
 		any = false
@@ -60,7 +61,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Yes,that's right!"
+	"Aham,estou!"
 	keyWait
 		any = false
 	clearMsg
@@ -70,35 +71,35 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = BlondMan
-	"Okay,okay!"
+	"Sei!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I own the Netopia
-	Cafe,in the square
-	up the stairs,right
+	Sou dono do Ameropa
+	Café,na praça que
+	fica subindo as
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	in front of the
+	escadas em frente ao
 	hotel.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm holding a little
-	event for the
+	Estou fazendo um
+	pequeno evento para
+	os competidores do
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	competitors in the
-	tournament.
+	torneio.
 	"""
 	keyWait
 		any = false
@@ -109,7 +110,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"An event?"
+	"Um evento?"
 	keyWait
 		any = false
 	clearMsg
@@ -119,22 +120,22 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = BlondMan
-	"That's right!"
+	"É isso aí!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a little test
-	of skill for those
-	in the tournament.
+	Um pequeno teste de
+	habilidade para os
+	participantes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The prize is some
-	of my famous
-	Netopian bread!
+	O prêmio: um dos
+	meus famosos pães
+	ameropanos!
 	"""
 	keyWait
 		any = false
@@ -146,8 +147,8 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Netopian bread?
-	Is it good?
+	Pão ameropano?
+	E isso é bom?
 	"""
 	keyWait
 		any = false
@@ -158,29 +159,28 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotShow
 		mugshot = BlondMan
-	"Of course it is!"
+	"Claro que é!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Some people travel
-	from all over the
-	world to eat it!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	It's crunchy on the
-	outside,and soft
+	Algumas pessoas vêm
+	do outro lado do
+	mundo para comer!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	on the inside! Goes
-	great with bacon
-	and lettuce⋯
+	É crocante por fora
+	e macio por dentro!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Cai super bem com
+	bacon e alface...
 	"""
 	keyWait
 		any = false
@@ -191,13 +191,13 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Gulp."
+	"Humm..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Where will that
-	event be held?
+	Onde vai ser o
+	evento?
 	"""
 	keyWait
 		any = false
@@ -209,35 +209,37 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = BlondMan
 	"""
-	Hehe,I can tell
-	you're into it!
+	He he,dá pra ver
+	que te deixei
+	interessado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's in front of the
-	Netopia Area shop⋯
-	in the Net!
+	Será na frente da
+	loja na Área
+	Ameropa... na Rede!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Early bird gets the
-	worm,er bread!
+	Recomendo chegar
+	cedo: o pão não
+	espera!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll go tell the
-	other contestants.
+	Vou informar os
+	demais competidores.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Goodbye!"
+	"Tchau!"
 	keyWait
 		any = false
 	end
@@ -248,16 +250,16 @@ script 12 mmbn4 {
 	msgOpen
 	"""
 	MegaMan!
-	Let's go to this
-	event!
+	Vamos lá pra esse
+	evento!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't care what it
-	is,I just want to
-	try that bread!
+	Eu topo qualquer
+	parada pra experi-
+	mentar esse pão!
 	"""
 	keyWait
 		any = false
@@ -269,9 +271,9 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	What's the point of
-	traveling unless
-	you try the food?
+	A melhor parte de
+	viajar é experimen-
+	tar a comida,né?
 	"""
 	keyWait
 		any = false
@@ -286,13 +288,13 @@ script 13 mmbn4 {
 script 14 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"I'm gonna win this!"
+	"Eu vou vencer essa!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here I come,
-	Netopian bread!
+	Pão ameropano,
+	aqui vou eu!
 	"""
 	keyWait
 		any = false
@@ -303,16 +305,16 @@ script 15 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You're a competitor,
-	too?
+	Você também é um
+	competidor?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I heard there was
-	some tasty event in
-	Netopia Area.
+	Parece que vai ter
+	um evento apetitoso
+	na Área Ameropa.
 	"""
 	keyWait
 		any = false
@@ -323,7 +325,7 @@ script 15 mmbn4 {
 script 16 mmbn4 {
 	mugshotShow
 		mugshot = OldManAlt
-	"Hey,aren't you Lan?"
+	"Ei,você é o Lan?"
 	keyWait
 		any = false
 	clearMsg
@@ -337,8 +339,9 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Yes,that's me.
-	Why do you know me?
+	Sou,sim.
+	Como o senhor sabe o
+	meu nome?
 	"""
 	keyWait
 		any = false
@@ -350,9 +353,9 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = OldManAlt
 	"""
-	Do you mind showing
-	me how strong your
-	country is?
+	Pode me mostrar o
+	quão forte o seu
+	país é?
 	"""
 	keyWait
 		any = false
@@ -365,13 +368,13 @@ script 18 mmbn4 {
 script 19 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Huh?"
+	"Hã?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What,you want to
-	NetBattle with me?
+	Que é,o senhor quer
+	NetLutar comigo?
 	"""
 	keyWait
 		any = false
@@ -382,7 +385,7 @@ script 19 mmbn4 {
 script 20 mmbn4 {
 	mugshotShow
 		mugshot = OldManAlt
-	"Yeah,that's right."
+	"Exatamente."
 	keyWait
 		any = false
 	clearMsg
@@ -393,8 +396,8 @@ script 21 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Sorry,I'm in a hurry
-	right now.
+	Desculpa,mas eu tô
+	com pressa agora.
 	"""
 	keyWait
 		any = false
@@ -406,24 +409,25 @@ script 22 mmbn4 {
 	mugshotShow
 		mugshot = OldManAlt
 	"""
-	Huh,so your people
-	can turn down a
-	challenge,huh?
+	Hm,então,o seu povo
+	é do tipo que recusa
+	desafios,é?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll have to go home
-	and tell everyone
-	what you taught me.
+	Vou pra minha terra
+	contar tudo o que
+	você me ensinou.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So you Electopians
-	are cowards,huh?
+	Que vocês,
+	ni-honenses,
+	são covardes!
 	"""
 	keyWait
 		any = false
@@ -434,20 +438,21 @@ script 22 mmbn4 {
 script 23 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"W-wait a second!"
+	"P-pera aí!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can't say that
-	about us!
+	Você não pode sair
+	falando isso da
+	gente!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll do it! I'll
-	fight you! Come on!
+	Tá bom,eu luto com
+	você! Vamos lá!
 	"""
 	keyWait
 		any = false
@@ -459,13 +464,13 @@ script 24 mmbn4 {
 	mugshotShow
 		mugshot = OldManAlt
 	"""
-	Ah,so you do have
-	some pride!
+	Ah,então você tem
+	algum orgulho!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's fight,then."
+	"Lutemos,então."
 	keyWait
 		any = false
 	clearMsg
@@ -475,14 +480,14 @@ script 24 mmbn4 {
 script 25 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Here I come,old man!"
+	"Lá vou eu,vovôzinho!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The skills of Lan
-	and MegaMan,repre-
-	senting Electopia!
+	Lan Hikari e
+	MegaMan.EXE,repre-
+	sentando Ni-Hon!
 	"""
 	keyWait
 		any = false
@@ -510,7 +515,7 @@ script 26 mmbn4 {
 script 27 mmbn4 {
 	mugshotShow
 		mugshot = OldManAlt
-	"*grin*"
+	"He..."
 	keyWait
 		any = false
 	end

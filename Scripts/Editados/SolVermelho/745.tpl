@@ -5,15 +5,16 @@ script 0 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Hey lions,I didn't
-	tell you to move!
+	Ô,leões! Eu não
+	mandei vocês saírem
+	do lugar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The hostages are
-	over there!
+	Os reféns tão ali,ó!
+	Ali!
 	"""
 	keyWait
 		any = false

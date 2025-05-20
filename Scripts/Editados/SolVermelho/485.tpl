@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,the system is
-	back on-line! What's
-	happening there?
+	Lan,o sistema tá
+	restaurado! Como tão
+	as coisas aí?
 	"""
 	keyWait
 		any = false
@@ -19,9 +19,9 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	It seems to be OK
-	here,too. Time to
-	jack out,MegaMan.
+	Parece tudo bem
+	aqui,também.
+	Desconectar,MegaMan.
 	"""
 	keyWait
 		any = false
@@ -43,8 +43,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	O que aconteceu,
-	MegaMan?
+	O que foi,MegaMan?
 	"""
 	keyWait
 		any = false
@@ -63,7 +62,7 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	foram colocados lá
+	foram colocados aqui
 	por alguém,de
 	propósito.
 	"""

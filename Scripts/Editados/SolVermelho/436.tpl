@@ -13,23 +13,23 @@ script 0 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Well,if it isn't
-	MegaMan⋯
+	Ora,ora,se não é o
+	MegaMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I didn't expect to
-	meet you in a place
-	like this⋯
+	Não esperava te
+	encontrar em um
+	lugar destes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Huh? You came to see
-	me⋯?
+	Hã? Você veio aqui
+	me ver...?
 	"""
 	keyWait
 		any = false
@@ -40,20 +40,20 @@ script 0 mmbn4 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
 	"""
-	Oh,
-	the P-code⋯
+	Ah,
+	o código-P...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sorry to bring
-	you to such a
-	dangerous place⋯
+	Lamento ter te feito
+	vir a um lugar tão
+	perigoso...
 	"""
 	keyWait
 		any = false
@@ -80,17 +80,17 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	I'm going to look
-	into Nebula activity
-	in this area a bit⋯
+	Vou investigar mais
+	a atividade da
+	Nebula nesta área.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,the future
-	of this planet
-	depends on you!
+	MegaMan,o futuro do
+	planeta depende de
+	você!
 	"""
 	keyWait
 		any = false
@@ -101,17 +101,17 @@ script 1 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Nebula may be up to
-	something really
-	big here⋯
+	A Nebula pode estar
+	planejando uma coisa
+	das grandes aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I need to stay here
-	to keep this place
-	together⋯
+	Preciso ficar aqui e
+	controlar os danos
+	ao local...
 	"""
 	keyWait
 		any = false
@@ -126,18 +126,18 @@ script 130 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Before the 5th of
-	the 9 bones・
+	Antes do quinto de
+	9 ossos.
 	"""
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"\nHere it is,Chaud!"
+	"\nTá aqui,Chaud!"
 	keyWait
 		any = false
 	clearMsg
@@ -163,15 +163,15 @@ script 130 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	OK! On to the next
-	one!
+	Certo! Agora,
+	a próxima!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Next is the corner
-	with 6 bones!
+	Ela fica no canto
+	de 6 ossos!
 	"""
 	keyWait
 		any = false
@@ -179,8 +179,8 @@ script 130 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	6 bones,right!
-	Gotcha'!
+	6 ossos. Certo!
+	Pode deixar!
 	"""
 	keyWait
 		any = false
@@ -197,9 +197,9 @@ script 131 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The corner with 6
-	bones⋯Could this be
-	it⋯?
+	O canto com 6
+	ossos...? Será que
+	é aqui...?
 	"""
 	keyWait
 		any = false
@@ -210,10 +210,10 @@ script 131 mmbn4 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
-	"Got it!"
+	"Achei!"
 	keyWait
 		any = false
 	clearMsg
@@ -238,14 +238,14 @@ script 131 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = Chaud
-	"OK,just one more!"
+	"Certo,só mais uma!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The last one is in a
-	corner of the square
-	with 2 warp points!
+	A última está no
+	canto de um painel
+	com 2 portais!
 	"""
 	keyWait
 		any = false
@@ -253,13 +253,14 @@ script 131 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	So I should look for
-	2 warp points,right?
+	Então,eu preciso
+	achar um lugar com
+	2 portais,né?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Roger!"
+	"Pode deixar!"
 	keyWait
 		any = false
 	flagSet
@@ -275,9 +276,9 @@ script 132 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Huh? The floor seems
-	a little bit
-	different here⋯
+	Hã? O chão aqui
+	parece meio
+	diferente...
 	"""
 	keyWait
 		any = false
@@ -288,10 +289,10 @@ script 132 mmbn4 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
-	"Got it!"
+	"Achei!"
 	keyWait
 		any = false
 	clearMsg
@@ -317,13 +318,13 @@ script 132 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	That's it! Now we've
-	got all the keys!
+	Pronto! Agora temos
+	todas as chaves!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hurry,MegaMan!"
+	"Rápido,MegaMan!"
 	keyWait
 		any = false
 	clearMsg

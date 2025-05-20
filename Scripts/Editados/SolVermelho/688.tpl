@@ -5,8 +5,8 @@ script 0 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	So you can't help us
-	out?
+	Então,você não vai
+	ajudar a gente?
 	"""
 	keyWait
 		any = false
@@ -17,21 +17,24 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	mugshotShow
 		mugshot = YoungWoman
-	"Sal,with your help"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	and WoodMan's,
-	the plan will
-	definitely succeed.
+	Sal,com a sua ajuda
+	e a do WoodMan,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We all share the
-	same ideal,right?
+	o plano com certeza
+	vai dar certo.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Todos partilhamos
+	dos mesmos ideais,
+	não?
 	"""
 	keyWait
 		any = false
@@ -43,32 +46,32 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Sal
 	"""
-	We all want to
-	protect the
-	environment.
+	Sim,todos nós
+	queremos proteger
+	o meio ambiente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Of course I'm
-	against the ACDC
-	development plan.
+	Claro que eu sou
+	contra o projeto
+	de reforma de ACDC.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I don't want to
-	resort to such vile
-	measures to protest.
+	Mas não quero apelar
+	pra medidas tão hor-
+	ríveis em protesto.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please,think it
-	over one more time.
+	Por favor,pensem
+	melhor.
 	"""
 	keyWait
 		any = false
@@ -80,17 +83,17 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = SciLabMan
 	"""
-	⋯How unfortunate.
-	I thought you'd
-	understand.
+	... Que pena.
+	Eu achei que você
+	entenderia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess we'll have
-	to do it by
-	ourselves.
+	Acho que vamos ter
+	que fazer tudo
+	sozinhos.
 	"""
 	keyWait
 		any = false
@@ -102,13 +105,13 @@ script 4 mmbn4 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"......"
+	"...... "
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 2
-	"What is it?"
+	"O que foi?"
 	keyWait
 		any = false
 	end
@@ -117,13 +120,13 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What's wrong,Sal?"
+	"O que tá rolando,\nSal?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Who were those
-	people?
+	Quem eram aquelas
+	pessoas?
 	"""
 	keyWait
 		any = false
@@ -143,9 +146,9 @@ script 6 mmbn4 {
 	mugshotAnimation
 		animation = 2
 	"""
-	They're protecting
-	the environment,
-	just like me.
+	Elas querem proteger
+	o meio ambiente,que
+	nem eu.
 	"""
 	keyWait
 		any = false
@@ -157,8 +160,9 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Ah,that's what they
-	were talking about.
+	Ah,então era disso
+	que cês tavam
+	falando.
 	"""
 	keyWait
 		any = false
@@ -170,24 +174,24 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Sal
 	"""
-	But lately,some odd
-	Navi has been going
-	into our homepage.
+	Mas tem entrado uns
+	Navis estranhos lá
+	na nossa página.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That Navi has been
-	radicalizing our
-	members.
+	E eles andam
+	radicalizando os
+	nossos membros.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Everyone has been
-	influenced by it.
+	Todos esses de agora
+	foram influenciados.
 	"""
 	keyWait
 		any = false
@@ -198,7 +202,7 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"And?"
+	"E...?"
 	keyWait
 		any = false
 	clearMsg
@@ -209,32 +213,32 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Sal
 	"""
-	And now,in order to
-	get them to halt the
-	ACDC development
+	E agora,para fazer
+	o governo parar com
+	o plano de reforma
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	plan,they're
-	putting Cyberbombs
-	all over the Net.
+	de ACDC,eles vão
+	plantar CyberBombas
+	por toda a Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They want to push
-	their view on
+	Eles querem forçar
+	o ponto de vista
+	deles sobre todos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	everyone by causing
-	a major panic in the
-	Net.
+	ao causar um enorme
+	pânico na Rede.
 	"""
 	keyWait
 		any = false
@@ -245,13 +249,13 @@ script 10 mmbn4 {
 script 11 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"No!"
+	"Não!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Isn't that
-	terrorism?!
+	Isso não é
+	terrorismo?!
 	"""
 	keyWait
 		any = false
@@ -262,16 +266,16 @@ script 12 mmbn4 {
 		mugshot = Sal
 	msgOpen
 	"""
-	They're so concerned
-	with nature,they've
-	lost their senses.
+	Eles prezam tanto
+	a natureza que
+	perderam o juízo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They don't listen to
-	me anymore.
+	e não me dão mais
+	ouvidos.
 	
 	"""
 	keyWait
@@ -285,12 +289,12 @@ script 13 mmbn4 {
 		mugshot = Lan
 	mugshotAnimation
 		animation = 1
-	"⋯⋯\n"
+	"......\n"
 	mugshotAnimation
 		animation = 2
 	"""
-	And so you're just
-	giving up?!
+	E você vai desistir
+	fácil assim?!
 	"""
 	keyWait
 		any = false
@@ -300,7 +304,7 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = Sal
 	msgOpen
-	"Lan!"
+	"Lan...?"
 	keyWait
 		any = false
 	clearMsg
@@ -311,27 +315,27 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	We've got to do
-	something!
+	A gente tem que
+	fazer alguma coisa!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We gotta stop them
-	somehow!
+	Temos que dar um
+	jeito de parar eles!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It'll be okay!"
+	"Tá tudo bem!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They love nature as
-	much as Sal does,
-	they'll understand!
+	Se eles amam tanto
+	a natureza quanto
+	você,vão entender!
 	"""
 	keyWait
 		any = false
@@ -350,20 +354,21 @@ script 16 mmbn4 {
 	clearMsg
 	mugshotAnimation
 		animation = 2
-	"Yeah⋯"
+	"É..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll try to change
-	their minds.
+	Vou tentar fazê-los
+	mudar de ideia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have to stop them
-	all,somehow.
+	Preciso achar um
+	jeito de pará-los,
+	haja o que houver.
 	"""
 	keyWait
 		any = false
@@ -375,8 +380,8 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan,let's help her
-	out!
+	Lan,vamos ajudar
+	ela!
 	"""
 	keyWait
 		any = false
@@ -387,7 +392,7 @@ script 17 mmbn4 {
 script 18 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Of course!"
+	"Claro!"
 	keyWait
 		any = false
 	clearMsg
@@ -397,7 +402,7 @@ script 18 mmbn4 {
 script 19 mmbn4 {
 	mugshotShow
 		mugshot = Sal
-	"Um,but⋯"
+	"Hum,mas..."
 	keyWait
 		any = false
 	clearMsg
@@ -412,25 +417,25 @@ script 20 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Don't forget you
-	have a battle with
-	me later!
+	Não esquece que você
+	tem uma luta contra
+	mim depois!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We've got to solve
-	this problem fast,
-	and hurry back!
+	Temos que resolver
+	essa treta logo pra
+	gente voltar logo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yeah,and you still
-	owe me for that
-	lunch,too!
+	Ah,e eu também tô
+	te devendo por
+	aquele almoço!
 	"""
 	keyWait
 		any = false
@@ -443,10 +448,10 @@ script 21 mmbn4 {
 		mugshot = Sal
 	mugshotAnimation
 		animation = 1
-	"⋯⋯\n"
+	"......\n"
 	mugshotAnimation
 		animation = 2
-	"Okay."
+	"Tudo bem."
 	soundFadeInBGM
 		track = 4
 		length = 8
@@ -454,24 +459,24 @@ script 21 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Lan,can you go to
-	DenDome for me?
+	Lan,poderia ir ao
+	DenDomo para mim?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Mayor is giving
-	a speech there now.
-	
+	O Prefeito está
+	fazendo um discurso
+	lá agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I bet one of them is
-	planning to try
-	something there now.
+	Aposto que um deles
+	planeja fazer alguma
+	coisa lá.
 	"""
 	keyWait
 		any = false
@@ -482,13 +487,13 @@ script 21 mmbn4 {
 script 22 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Okay!"
+	"Beleza!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's go,MegaMan!
-	To DenDome!
+	Bora,MegaMan!
+	Pro DenDomo!
 	"""
 	keyWait
 		any = false
@@ -499,7 +504,7 @@ script 22 mmbn4 {
 script 23 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Roger!"
+	"Certo!"
 	keyWait
 		any = false
 	end

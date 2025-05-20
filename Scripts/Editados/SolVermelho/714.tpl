@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Here,MegaMan! I'll
-	send over your
-	"FireBstr"!
+	Aqui,MegaMan! Vou
+	te enviar o
+	"ApgaFogo"!
 	"""
 	keyWait
 		any = false

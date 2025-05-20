@@ -5,29 +5,30 @@ script 0 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	PATROLLING!
-	PATROLLING!
+	PATRULHAR!
+	PATRULHAR!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PATROLLING'S FUN!
-	OH SO FUN!
+	PATRULHAR É TÃO...
+	TÃO DIVERTIDO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I HAVE TO CONVINCE
-	MYSELF THIS IS FUN,
+	EU PRECISO ME
+	CONVENCER DE QUE
+	É DIVERTIDO,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OR I'LL DIE OF
-	BOREDOM!
+	OU EU MORRO DE
+	TÉDIO!
 	"""
 	keyWait
 		any = false
@@ -47,7 +48,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"B-O-R-I-N-G-!"
+	"C-H-A-T-O! CHATO!"
 	keyWait
 		any = false
 	end
@@ -56,29 +57,29 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"BO-RING!"
+	"TÃÃÃÃO CHATO!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MAYBE I SHOULD THINK
-	OF SOMETHING
-	CONSTRUCTIVE TO DO
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	WHILE I PATROL⋯I
-	GOT IT!
+	ACHO QUE VOU PENSAR
+	EM UMA COISA CONS-
+	TRUTIVA PARA FAZER
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'LL WRITE A POEM!
-	POETRY ENRICHES THE
-	HEART,YOU KNOW!
+	ENQUANTO PATRULHO...
+	AH,JÁ SEI!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	EU VOU ESCREVER UM
+	POEMA! ENRIQUECE A
+	ALMA,SABE?
 	"""
 	keyWait
 		any = false
@@ -93,8 +94,8 @@ script 15 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	I'M A ROW OF 0'S
-	AND 1'S.
+	EU SOU UMA FILEIRA
+	DE 0s E 1s.
 	"""
 	keyWait
 		any = false
@@ -104,8 +105,8 @@ script 15 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	0'S AND 1'S ARE ALL
-	MY FUN!
+	0s E 1s SÃO TODA A
+	MINHA DIVERSÃO!
 	"""
 	keyWait
 		any = false
@@ -115,9 +116,9 @@ script 15 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	MY FUN IS ALSO
-	COMPRISED OF 0'S AND
-	1'S!
+	A MINHA DIVERSÃO
+	TAMBÉM É COMPOSTA
+	POR 0s E 1s!
 	"""
 	keyWait
 		any = false
@@ -131,13 +132,14 @@ script 15 mmbn4 {
 	"."
 	waitSkip
 		frames = 30
-	"WELL? WHAT DID"
+	" E AÍ?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU LIKE MY POEM? I
-	CALL IT BINARY LOVE!
+	O QUE ACHOU DO MEU
+	POEMA? SE CHAMA
+	"AMOR BINÁRIO"!
 	"""
 	keyWait
 		any = false
@@ -163,14 +165,14 @@ script 20 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	SORRY!!
-	IT WASN'T I!!
-	DON'T BLAME ME!!
+	DESCULPA!!
+	NÃO FUI EU!!
+	NÃO ME CULPE!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'VE GOT AN ALIBI!!"
+	"EU TENHO UM ÁLIBI!!"
 	keyWait
 		any = false
 	end
@@ -195,22 +197,23 @@ script 21 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	What are you talking
-	about? I just asked
+	Do que você está
+	falando?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	if you knew
-	anything,that's all!
+	Eu só perguntei se
+	você sabia de alguma
+	coisa!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
-	"IT WASN'T ME!!"
+	"NÃO FUI EU!!"
 	keyWait
 		any = false
 	end
@@ -225,9 +228,9 @@ script 22 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	The Officials are
-	swarming the place.
-	What's the deal?
+	Está cheio de
+	Oficiais aqui.
+	O que tá rolando?
 	"""
 	keyWait
 		any = false
@@ -238,23 +241,23 @@ script 25 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	TWO NAVIS WERE
-	ATTACKED IN ACDC 2!
-	I JUST SAW A SCARY
+	DOIS NAVIS FORAM
+	ATACADOS EM ACDC 2!
+	ACABO DE VER UM NAVI
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NAVI RUN TOWARDS THE
-	TOWN AREA. COULD
-	THAT BE THE
+	MEDONHO SEGUINDO
+	RUMO À ÁREA VILA.
+	SERÁ QUE ERA O
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PERPETRATOR?
+	CULPADO?
 	AAAHHHHHH!!
 	"""
 	keyWait
@@ -266,20 +269,20 @@ script 26 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	We believe the Navi
-	who cut off the Nets
+	Acreditamos que o
+	Navi que separou as
+	Redes fugiu para a
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	fled to Electopia's
-	Net! Be on the
+	Rede de Ni-Hon!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"highest alert!"
+	"Fique o mais alerta\npossível!"
 	keyWait
 		any = false
 	end
@@ -289,13 +292,13 @@ script 27 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Something bad is
-	going down. I'd
+	Tá rolando alguma
+	treta aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"better jack out⋯"
+	"Melhor eu\ndesconectar..."
 	keyWait
 		any = false
 	end
@@ -305,21 +308,22 @@ script 30 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I CUSTOMIZED MYSELF
-	WITH A POWER-UP 
-	CHIP TO BE PREPARED
+	EU ME CUSTOMIZEI COM
+	UM CHIP POTENCIALI-
+	ZADOR PARA FICAR
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	FOR THE CRIMINAL!
-	I'M BRIMMING WITH
+	PRONTO PARA O
+	CRIMINOSO! EU ESTOU
+	TRANSBORDANDO DE
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"ENERGY!! ⋯VOOOOOMM!!"
+	"ENERGIA!!\n... BUOOOM!!"
 	keyWait
 		any = false
 	end
@@ -329,16 +333,17 @@ script 31 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	We can't allow any-
-	more damage to be
+	Não podemos permitir
+	que causem ainda
+	mais estragos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	done! We must patrol
-	every inch of the
-	Net!
+	Temos de patrulhar
+	cada centímetro da
+	Rede!
 	"""
 	keyWait
 		any = false
@@ -349,27 +354,27 @@ script 35 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	COME AND GET ME,
-	VILLAIN! I'M READY!!
+	CAI DENTRO,VILÃO!
+	EU ESTOU PRONTO!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PROGRAM PUNCH!
-	PROGRAM KICK!!
+	SOCO PROG!
+	CHUTE PROG!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HI-YAH!
-	PROGRAM BEEEAAAMMM!
+	IIÁ!
+	RAAIOOOO PROOOG!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯WHERE'S MY BEAM?"
+	"... UÉ,CADÊ O RAIO?"
 	keyWait
 		any = false
 	end
@@ -379,9 +384,9 @@ script 36 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Are you a civilian
-	Navi? If so,jack out
-	immediately!
+	Você é um Navi
+	civil? Se sim,
+	desconecte-se,agora!
 	"""
 	keyWait
 		any = false

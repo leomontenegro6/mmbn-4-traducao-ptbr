@@ -4,17 +4,17 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"That was delicious!"
+	"Tava uma delícia!"
 	keyWait
 		any = false
 	clearMsg
-	"Thank you,Mom!"
+	"Obrigado,mãe!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Mom
-	"My pleasure,son!"
+	"Imagina,filho!"
 	keyWait
 		any = false
 	clearMsg
@@ -27,7 +27,7 @@ script 1 mmbn4 {
 	soundDisableTextSFX
 	soundPlay
 		track = 242
-	"*ding dong*"
+	"Dim Dom"
 	wait
 		frames = 115
 	soundEnableTextSFX
@@ -42,15 +42,14 @@ script 2 mmbn4 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Someone's at the
-	door!
+	Tem alguém na porta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"I'll get it."
+	"Deixa que eu atendo."
 	keyWait
 		any = false
 	end
@@ -60,15 +59,16 @@ script 3 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Huh?
-	Lilly,what is it?
+	Hã?
+	Oi,Lilly. O que foi?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And how did you find
-	my house?
+	E como você sabia
+	onde era a minha
+	casa?
 	"""
 	keyWait
 		any = false
@@ -81,32 +81,32 @@ script 4 mmbn4 {
 		mugshot = Lilly
 	msgOpen
 	"""
-	Umm⋯
-	I asked the
-	tournament people⋯
+	Er...
+	Eu perguntei ao
+	pessoal do torneio.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sorry for
-	bugging you.
+	Desculpe pelo
+	empecilho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've come all the
-	way from Scissor
-	Island,
+	Como você sabe,
+	eu vim de uma ilha
+	tão distante,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so you're the only
-	person I can rely
-	on.
+	e você é a única
+	pessoa em quem eu
+	posso contar.
 	"""
 	keyWait
 		any = false
@@ -118,7 +118,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What happened?"
+	"O que houve?"
 	keyWait
 		any = false
 	clearMsg
@@ -129,14 +129,14 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lilly
 	msgOpen
-	"Well⋯"
+	"Bom..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WindMan's seal has
-	come undone,and
-	he's going crazy.
+	O lacre do WindMan
+	se desfez e ele
+	enlouqueceu.
 	"""
 	keyWait
 		any = false
@@ -146,14 +146,13 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What?!"
+	"O quê?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lilly,didn't you
-	have him under your
-	control?
+	Lilly,você não tava
+	controlando ele?
 	"""
 	keyWait
 		any = false
@@ -166,46 +165,47 @@ script 8 mmbn4 {
 		mugshot = Lilly
 	msgOpen
 	"""
-	I'm the only one who
-	can undo the seal,
+	Só eu sou capaz de
+	desfazer o lacre,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so it must have been
-	me,somehow.
+	então,deve ter sido
+	eu... de alguma
+	forma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I don't remember
-	doing it.
+	Mas não me lembro
+	de fazê-lo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I found myself
-	standing alone,all
-	of a sudden.
+	Eu me vi sozinha
+	de repente,e,ao
+	virar minha atenção
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I looked at my PET,
-	and WindMan was ig-
-	noring my commands.
+	ao meu PET,o WindMan
+	estava ignorando
+	minhas ordens.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't remember a
-	thing after the
-	WaitingRoom.
+	Não me lembro
+	de nada desde a
+	Sala de Espera.
 	"""
 	keyWait
 		any = false
@@ -218,9 +218,9 @@ script 9 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You don't remember
-	me saving you in
-	MelSquar?
+	Você não lembra de
+	como eu te salvei
+	na Praça Marchen?
 	"""
 	keyWait
 		any = false
@@ -232,7 +232,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Lilly
 	msgOpen
-	"What do you mean?"
+	"O quê?"
 	keyWait
 		any = false
 	end
@@ -242,14 +242,13 @@ script 11 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Anyway,this is an
-	urgent problem,
-	right?!
+	Enfim,o problema é
+	urgente,né?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What's going on?!"
+	"O que tá rolando?!"
 	keyWait
 		any = false
 	clearMsg
@@ -260,13 +259,14 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = Lilly
 	msgOpen
-	"Well⋯"
+	"Bem..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WindMan has lost all
-	control of himself.
+	O WindMan perdeu
+	completamente o
+	controle sobre si.
 	"""
 	keyWait
 		any = false
@@ -278,7 +278,7 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"*gulp*"
+	"Glup!"
 	keyWait
 		any = false
 	clearMsg
@@ -290,16 +290,16 @@ script 14 mmbn4 {
 		mugshot = Lilly
 	msgOpen
 	"""
-	The entire park's a
-	big storm thanks to
-	WindMan.
+	Toda a tempestade na
+	Área Parque é devido
+	ao WindMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't know what to
-	do.
+	Eu não sei o que
+	fazer...
 	"""
 	keyWait
 		any = false
@@ -312,16 +312,16 @@ script 15 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Isn't there any way
-	to get control of
-	WindMan again?
+	Não tem como recupe-
+	rar o controle sobre
+	o WindMan?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So that he does what
-	you say again?
+	Sabe,pra ele voltar
+	a te ouvir?
 	"""
 	keyWait
 		any = false
@@ -334,8 +334,8 @@ script 16 mmbn4 {
 		mugshot = Lilly
 	msgOpen
 	"""
-	The only way would
-	be to blow this
+	O único jeito seria
+	tocando esta
 	"
 	"""
 	printItem
@@ -346,9 +346,9 @@ script 16 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	But the storm makes
-	it too dangerous to
-	enter the park.
+	Mas,com a tempesta-
+	de,é perigoso demais
+	entrar na Área.
 	"""
 	keyWait
 		any = false
@@ -360,7 +360,7 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"There is a way!"
+	"Então,tem um jeito!"
 	keyWait
 		any = false
 	clearMsg
@@ -371,7 +371,7 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = Lilly
 	msgOpen
-	"Huh?"
+	"Hã?"
 	keyWait
 		any = false
 	clearMsg
@@ -383,15 +383,15 @@ script 19 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A way to stop
+	Um jeito de parar o
 	WindMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I thought it was
-	hopeless!
+	Eu achava que não
+	tinha esperança!
 	"""
 	keyWait
 		any = false
@@ -404,8 +404,8 @@ script 20 mmbn4 {
 		mugshot = Lilly
 	msgOpen
 	"""
-	Lan,you can't be
-	serious.
+	Lan,não pode estar
+	falando sério.
 	"""
 	keyWait
 		any = false
@@ -418,13 +418,14 @@ script 21 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lilly,let MegaMan
-	use your "GrasFlut"!
+	Lilly,deixa o
+	MegaMan tocar a
+	sua "FlautaGr"!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Okay,MegaMan?!"
+	"Tudo bem por você,\nMegaMan?!"
 	keyWait
 		any = false
 	clearMsg
@@ -435,7 +436,7 @@ script 22 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Of course!"
+	"Claro!"
 	keyWait
 		any = false
 	clearMsg
@@ -447,33 +448,32 @@ script 23 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hurry up,Lilly! Give
-	MegaMan the
-	"GrasFlut"!
+	Rápido,Lilly! Dá
+	a "FlautaGr" pro
+	MegaMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lilly
-	"B-but⋯"
+	"M-mas..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Don't worry about me
-	and MegaMan,we can
-	handle it!
+	Não se preocupa!
+	A gente dá conta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hurry up,or we'll
-	be late for the
-	match!
+	Depressa,ou a
+	gente vai se
+	atrasar pra luta!
 	"""
 	keyWait
 		any = false
@@ -485,14 +485,14 @@ script 24 mmbn4 {
 	mugshotShow
 		mugshot = Lilly
 	msgOpen
-	"Lan⋯"
+	"Lan..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Okay,but if it
-	seems dangerous,you
-	get out of there.
+	Está bem. Mas,se
+	ficar perigoso
+	demais,saia de lá.
 	"""
 	keyWait
 		any = false
@@ -528,7 +528,7 @@ script 26 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Okay,let's go!
+	Beleza! Vambora,
 	MegaMan!
 	"""
 	keyWait
@@ -536,7 +536,7 @@ script 26 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Okay!"
+	"Vamos!"
 	keyWait
 		any = false
 	end

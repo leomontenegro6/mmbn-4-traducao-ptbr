@@ -238,8 +238,8 @@ script 30 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! Jack me into
-	the PC!
+	Lan! Me conecta no
+	computador!
 	"""
 	keyWait
 		any = false
@@ -276,7 +276,7 @@ script 35 mmbn4 {
 	"""
 	Vamos voltar pra
 	Rede! Temos que
-	pegar o Navi Preto!
+	pegar o Navi Roxo!
 	"""
 	keyWait
 		any = false
@@ -291,8 +291,9 @@ script 36 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Wasn't the Tower in
-	ElecTown Square?
+	A Torre não ficava
+	na Praça da
+	EletroVila?
 	"""
 	keyWait
 		any = false
@@ -309,9 +310,9 @@ script 37 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's find a way to
-	stop the ultrasonic
-	waves in ElecTown! 
+	Vamos achar um jeito
+	de parar as ondas
+	ultrassônicas! 
 	"""
 	keyWait
 		any = false
@@ -321,7 +322,7 @@ script 38 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Go back to ElecTown!"
+	"Volta pra\nEletroVila!"
 	keyWait
 		any = false
 	end
@@ -385,8 +386,9 @@ script 43 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's get some rest
-	for tomorrow.
+	Vamos descansar um
+	pouco,nos preparar
+	pra amanhã.
 	"""
 	keyWait
 		any = false
@@ -397,9 +399,9 @@ script 44 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's look for
-	another way to the
-	Square in ElecTown!
+	Vamos achar outro
+	jeito de chegar à
+	Praça na EletroVila!
 	"""
 	keyWait
 		any = false
@@ -422,9 +424,9 @@ script 45 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	C'mon Lan,
-	let's get over to
-	ElecTown Square!
+	Vamos,Lan! Temos
+	que ir pra Praça
+	da EletroVila!
 	"""
 	keyWait
 		any = false
@@ -448,9 +450,9 @@ script 47 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We're signed up now,
-	so let's head back
-	to the Square!
+	Pronto,inscritos.
+	Agora vamos voltar
+	pra Praça!
 	"""
 	keyWait
 		any = false
@@ -473,9 +475,9 @@ script 48 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We've finished three
-	requests. Let's go
-	back to ElecTown Sq.
+	Terminamos as 3
+	missão. Vamos pra
+	Praça da EletroVila.
 	"""
 	keyWait
 		any = false
@@ -569,8 +571,8 @@ script 132 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Vamos lá pra
-	EletroVila Plaza!
+	Vamos lá pra Praça
+	da EletroVila!
 	"""
 	keyWait
 		any = false
@@ -594,9 +596,9 @@ script 134 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's collect the
-	number data and head
-	back to ElecTown Sq!
+	Vamos coletar os da-
+	dos de números e ir
+	pra Pç. EletroVila!
 	"""
 	keyWait
 		any = false
@@ -789,9 +791,9 @@ script 161 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's give the top
-	to that elderly
-	guy! Where'd he go?
+	Vamos dar o pião
+	pra aquele senhor!
+	Onde ele se meteu?
 	"""
 	keyWait
 		any = false
@@ -860,8 +862,8 @@ script 166 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	O Navi da Chefe deve
-	estar em ACDC,né?
+	O Navi do Chefe está
+	em ACDC,né?
 	Vamos lá!
 	"""
 	keyWait
@@ -998,8 +1000,8 @@ script 177 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go to AquaMan!
-	Jack me in!
+	Vamos até o AquaMan!
+	Me conecta!
 	"""
 	keyWait
 		any = false
@@ -1345,9 +1347,9 @@ script 216 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's hurry to the
-	Town Area and help
-	NumbrMan!
+	Vamos logo pra Área
+	Vila ajudar o
+	NumberMan!
 	"""
 	keyWait
 		any = false
@@ -1407,9 +1409,9 @@ script 220 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Higsby's not back
-	yet. Let's tell
-	Nanako.
+	O Higsby ainda não
+	voltou. Vamos falar
+	pra Nanako.
 	"""
 	keyWait
 		any = false

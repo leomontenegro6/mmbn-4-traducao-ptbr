@@ -5,16 +5,16 @@ script 0 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	Almost 5 minutes
-	have passed since
-	the starting time!
+	Já se passaram quase
+	5 minutos desde o
+	início da luta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Will Lan make it on
-	time?!
+	Será que Lan chegará
+	a tempo?!
 	"""
 	keyWait
 		any = false
@@ -26,15 +26,16 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = ViddyNarcy
 	"""
-	Not a chance!
-	He'll never make it!
+	Impossível!
+	Ele nunca vai
+	chegar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How much time is
-	left,Mami?
+	Quanto tempo ainda
+	resta,cara Mami?
 	"""
 	keyWait
 		any = false
@@ -46,8 +47,8 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Mami
 	"""
-	Umm,er,lessee⋯
-	10 seconds!
+	Er,deixa eu ver...
+	10 segundos!
 	"""
 	keyWait
 		any = false
@@ -59,21 +60,20 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = ViddyNarcy
 	"""
-	Is that all!
-	How unfortunate
-	for him!
+	Só isso?!
+	Que peninha dele!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's do the count
-	down!
+	Façamos a contagem
+	regressiva!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"5⋯4⋯3⋯"
+	"5... 4... 3..."
 	keyWait
 		any = false
 	clearMsg
@@ -83,7 +83,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Hold on!"
+	"Espera!"
 	keyWait
 		any = false
 	end
@@ -93,9 +93,9 @@ script 5 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	*pant pant*
-	Miss,I'm on time,
-	aren't I?
+	Arf... Urf...
+	Moça,eu cheguei a
+	tempo,né?
 	"""
 	keyWait
 		any = false
@@ -106,7 +106,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = Mami
-	"And Lan is here!!!"
+	"E o Lan chegou!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -119,8 +119,8 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Yahoo!!!
-	Yer safe!
+	Ufa!!!
+	Deu tempo!
 	"""
 	keyWait
 		any = false
@@ -135,9 +135,9 @@ script 8 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	I'll get back at you
-	in the battle,wait
-	and see!
+	Eu vou me vingar por
+	aquilo na luta,
+	espera só!
 	"""
 	keyWait
 		any = false
@@ -149,23 +149,24 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = ViddyNarcy
 	"""
-	Whatever could you
-	be talking about!
+	Não faço ideia do
+	que está falando!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The battle could go
-	either way. You
-	might lose to us!
+	E a luta pode seguir
+	qualquer rumo. Você
+	pode perder!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And you might look
-	bad doing it,too!
+	E pode passar o
+	maior vexame
+	perdendo!
 	"""
 	keyWait
 		any = false
@@ -176,25 +177,25 @@ script 10 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	Sorry for the delay,
-	folks!
+	Desculpa o atraso,
+	gente!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's begin!"
+	"Vamos lá!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan
+	Lan Hikari
 	Vs.
 	Hidenosuke Yamashita
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine⋯"
+	"Rotina de batalha..."
 	keyWait
 		any = false
 	end
@@ -203,13 +204,16 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = ViddyNarcy
 	msgOpen
-	"No,I'm Viddy Narcy!"
+	"""
+	Não!
+	É "Viddy Narcy"!
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't you dare say
-	my real name!
+	Não OUSE usar o meu
+	nome de verdade!
 	"""
 	keyWait
 		any = false
@@ -219,12 +223,12 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = Mami
 	msgOpen
-	"My bad!"
+	"Desculpa!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan
+	Lan Hikari
 	Vs.
 	Viddy Narcy!
 	"""
@@ -255,9 +259,9 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = VideoMan
 	"""
-	Get ready for my
-	video directing
-	technique!
+	Prepare-se pra ver
+	uma direção digna
+	de prêmio!
 	"""
 	keyWait
 		any = false

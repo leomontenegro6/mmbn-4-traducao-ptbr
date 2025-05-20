@@ -5,17 +5,17 @@ script 0 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Dr.Regal,would you
-	please tell us what
-	you have in mind.
+	Dr. Regal,diga-nos
+	o que tem em mente,
+	por favor. O laser
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Dr.Hikari's laser
-	failed,so your plan
-	is all we've got!
+	do Dr. Hikari
+	falhou,então,só nos
+	resta o seu plano!
 	"""
 	keyWait
 		any = false
@@ -35,13 +35,13 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
 	msgOpen
-	"Everyone⋯"
+	"Homens..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've brought the
-	tournament winner.
+	eu trouxe o vencedor
+	do torneio.
 	"""
 	keyWait
 		any = false
@@ -51,7 +51,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
 	msgOpen
-	"Please come in."
+	"Por favor,entre."
 	keyWait
 		any = false
 	end
@@ -64,8 +64,8 @@ script 4 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	He is the Red
-	Sun champion⋯
+	Ele foi o campeão
+	do Sol Vermelho...
 	"""
 	keyWait
 		any = false
@@ -76,14 +76,14 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = Dad
-	"Lan⋯"
+	"Lan..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I heard that the
-	winner was from
-	Electopia,but⋯
+	Eu tinha ouvido
+	que o vencedor era
+	ni-honense,mas...
 	"""
 	keyWait
 		any = false
@@ -94,14 +94,13 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Dad!!"
+	"Pai!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Who would have
-	thought that we'd
-	meet here!
+	Nunca achei que ia
+	te encontrar aqui!
 	"""
 	keyWait
 		any = false
@@ -112,7 +111,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = Regal
-	"So he's your son⋯"
+	"Então,ele é o seu\nfilho..."
 	keyWait
 		any = false
 	end
@@ -121,7 +120,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"Yes,this is Lan."
+	"Sim. Esse é o Lan."
 	keyWait
 		any = false
 	clearMsg
@@ -132,16 +131,16 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Regal
 	"""
-	I see⋯You must be
-	very proud of him.
+	Entendo... Deve ter
+	muito orgulho dele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nice to meet you,
-	Lan. I'm Dr.Regal,
-	a mere scientist⋯
+	Muito prazer,Lan.
+	Sou o Dr. Regal,
+	um mero cientista...
 	"""
 	keyWait
 		any = false
@@ -152,7 +151,7 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"N-Nice to meet you⋯"
+	"P-prazer..."
 	keyWait
 		any = false
 	clearMsg
@@ -163,9 +162,9 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Regal
 	"""
-	Now let me tell you
-	why I had you
-	brought here⋯
+	Enfim,vou lhe
+	contar por que o
+	trouxemos aqui...
 	"""
 	keyWait
 		any = false
@@ -175,30 +174,30 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = Regal
 	msgOpen
-	"⋯First of all,"
+	"... Primeiramente,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the reason why we
-	searched for the
-	best NetBattlers⋯
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	We recently held two
-	global scale battle
-	tournaments,
+	o motivo para termos
+	buscado os melhores
+	NetLutadores.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and we found the two
-	greatest battlers -
-	Lan and one other.
+	Nós organizamos dois
+	torneios em escala
+	global,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	e achamos os dois
+	maiores lutadores do
+	mundo: Lan e outro.
 	"""
 	keyWait
 		any = false
@@ -210,9 +209,9 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	But what has that
-	got to do with the
-	asteroid?
+	Mas o que isso tem
+	a ver com o
+	asteroide?
 	"""
 	keyWait
 		any = false
@@ -224,18 +223,18 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = Regal
 	"""
-	Let me get straight
-	to the point.
+	Irei direto ao
+	ponto.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"That asteroid is"
+	"Aquele asteroide..."
 	keyWait
 		any = false
 	clearMsg
 	soundStopBGM
-	"man-made."
+	"é manufaturado."
 	keyWait
 		any = false
 	clearMsg
@@ -245,16 +244,16 @@ script 14 mmbn4 {
 script 15 mmbn4 {
 	mugshotShow
 		mugshot = Dad
-	"Huh,"
+	"N... "
 	waitSkip
 		frames = 30
-	"it can't be?!"
+	"não pode ser!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Someone actually
-	made that asteroid?
+	Uma PESSOA fez
+	aquele asteroide?
 	"""
 	keyWait
 		any = false
@@ -265,37 +264,38 @@ script 15 mmbn4 {
 script 16 mmbn4 {
 	mugshotShow
 		mugshot = Regal
-	"Exactly⋯"
+	"Exato..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I couldn't believe
-	it either at first,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	but signals on a
-	Cyberworld frequency
-	were detected.
+	Eu também não
+	conseguia acreditar
+	de início,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A large spherical
-	rocket may have been
-	put into space,
+	mas detectei sinais
+	de uma frequência de
+	Rede nele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and over time,space
-	dust could have
-	attached to it.
+	Um enorme foguete
+	esférico pode ter
+	sido lançado no
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	espaço e,com o tem-
+	po,poeira espacial
+	se grudou nele.
 	"""
 	keyWait
 		any = false
@@ -307,14 +307,14 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	But we've no record
-	of a spherical
-	rocket being laun⋯
+	Mas não temos regis-
+	tros de um foguete
+	esférico que...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ah! Maybe⋯"
+	"Ah! Talvez..."
 	keyWait
 		any = false
 	clearMsg
@@ -325,32 +325,31 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = Regal
 	"""
-	Yes,it's possible
-	that it was launched
-	from another planet.
+	Sim,é possível que
+	tenha sido lançado
+	de outro planeta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But its origin is
-	not of importance
-	to us now.
+	Mas sua origem não
+	importa agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We must focus on
-	changing the
-	asteroid's course.
+	Devemos nos concen-
+	trar em mudar o
+	curso do asteroide.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Returning to my
-	original topic⋯
+	De volta ao que eu
+	ia dizendo...
 	"""
 	keyWait
 		any = false
@@ -359,20 +358,21 @@ script 18 mmbn4 {
 		track = 8
 		length = 8
 	"""
-	As this asteroid is
-	not natural,
+	Como esse asteroide
+	não é natural,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it may contain a
-	Cyberworld.
+	pode até ser que ele
+	contenha um espaço
+	cibernético.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Do you see now?"
+	"Entendem agora?"
 	keyWait
 		any = false
 	clearMsg
@@ -383,17 +383,17 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = Dad
 	"""
-	If we send a Navi to
-	the asteroid,he 
-	could control it⋯
+	Se enviarmos um Navi
+	ao asteroide,ele po-
+	deria controlá-lo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯But how could we
-	send a Navi into
-	space?!
+	Mas como mandaríamos
+	um Navi para o
+	espaço?
 	"""
 	keyWait
 		any = false
@@ -405,24 +405,24 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = Regal
 	"""
-	We converted your
-	laser into a remote
-	control system.
+	Convertemos o seu
+	laser em um sistema
+	de controle remoto.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Remember,Navis are
-	program data.
+	Lembre-se: Navis são
+	dados de programas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And everyday we send
-	program data by
-	wireless means.
+	E,todo dia,nós
+	mandamos esses dados
+	via wireless.
 	"""
 	keyWait
 		any = false
@@ -434,8 +434,8 @@ script 21 mmbn4 {
 	mugshotShow
 		mugshot = Dad
 	"""
-	But this is far too
-	dangerous!
+	Mas é perigoso
+	demais!
 	"""
 	keyWait
 		any = false
@@ -447,67 +447,66 @@ script 22 mmbn4 {
 	mugshotShow
 		mugshot = Regal
 	"""
-	A mission to space
-	where anything could
-	go wrong⋯
+	Uma missão no espaço
+	onde muito pode dar
+	errado...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We could even lose
-	the Navi,
+	Seria até possível
+	perdermos o Navi,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and this planet
-	would be smashed
-	to pieces!
+	e este planeta ser
+	reduzido a detritos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	In order for this
-	mission to succeed,
+	Para esta missão ter
+	sucesso,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the most delicate
-	operating skills
-	will be crucial.
+	é necessário habili-
+	dades de operação
+	das mais delicadas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The only one who can
-	do it is you,Lan.
+	O único capaz disso
+	é você,Lan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Already,the other
-	champion is working
-	at Sharo SpaceCtr to
+	O outro campeão já
+	foi ao Centro
+	Espacial Sharo para
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	operate satellites
-	and plot the course
-	of the asteroid.
+	operar satélites e
+	planejar o curso do
+	asteroide.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Well⋯Lan⋯"
+	"Lan...?"
 	keyWait
 		any = false
 	clearMsg
@@ -517,7 +516,7 @@ script 22 mmbn4 {
 script 23 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"I-I⋯"
+	"E-eu..."
 	keyWait
 		any = false
 	clearMsg
@@ -527,7 +526,7 @@ script 23 mmbn4 {
 script 24 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"⋯Let's do it,Lan!"
+	"... Vamos,Lan!"
 	keyWait
 		any = false
 	end
@@ -537,9 +536,9 @@ script 25 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	But,MegaMan,if
-	something went wrong
-	in space⋯
+	Mas,MegaMan! Se
+	alguma coisa der
+	errado no espaço...
 	"""
 	keyWait
 		any = false
@@ -551,23 +550,24 @@ script 26 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	If we don't try,then
-	everyone is doomed.
+	Se a gente não
+	tentar,todo mundo
+	vai morrer.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And we're the only
-	ones who can do it.
+	E nós somos os
+	únicos que podem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯We'll be fine.
-	I trust you
-	completely.
+	... Vai dar tudo
+	certo. Eu confio
+	em você 110%.
 	"""
 	keyWait
 		any = false
@@ -579,8 +579,8 @@ script 27 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	⋯OK. I understand,
-	MegaMan⋯
+	... Tá bom.
+	Entendido,MegaMan...
 	"""
 	keyWait
 		any = false
@@ -590,7 +590,7 @@ script 28 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I'll do it!"
+	"Eu topo!"
 	keyWait
 		any = false
 	end
@@ -599,7 +599,7 @@ script 29 mmbn4 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"But Lan⋯"
+	"Lan..."
 	keyWait
 		any = false
 	end
@@ -609,8 +609,9 @@ script 30 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Don't worry. This is
-	a job for a Hikari!
+	Não se preocupa.
+	Isso é trabalho pra
+	um Hikari!
 	"""
 	keyWait
 		any = false
@@ -620,7 +621,7 @@ script 31 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"So,what must I do⋯"
+	"Mas,então,o que eu\ndevo fazer...?"
 	keyWait
 		any = false
 	clearMsg
@@ -631,17 +632,17 @@ script 32 mmbn4 {
 	mugshotShow
 		mugshot = Regal
 	"""
-	Tests on the Navi
-	transporter are
-	nearly completed,
+	Logo concluiremos
+	os testes do
+	transportador.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	we'll need you as
-	soon as they're
-	done.
+	Precisaremos de você
+	assim que os
+	terminarmos.
 	"""
 	keyWait
 		any = false
@@ -650,24 +651,23 @@ script 32 mmbn4 {
 script 33 mmbn4 {
 	msgOpen
 	"""
-	A message from
-	Netopia! A group
-	called Nebula has
+	Uma mensagem da
+	Ameropa! Um grupo
+	chamado "Nebula"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	hacked into the Net
-	all over the world!
+	hackeou a Rede por
+	todo o mundo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Connection to the
-	Net is no longer
-	possible.
+	Conexão à Rede se
+	tornou impossível.
 	"""
 	keyWait
 		any = false
@@ -681,9 +681,8 @@ script 34 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
 	"""
-	What are the
-	Officials doing
-	about this?!
+	O que os Oficiais
+	estão fazendo?!
 	"""
 	keyWait
 		any = false
@@ -693,14 +692,14 @@ script 34 mmbn4 {
 }
 script 35 mmbn4 {
 	mugshotHide
-	"It's no good!"
+	"Não adianta!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The communication
-	net has been torn to
-	pieces!
+	A rede de
+	comunicação foi
+	dizimada!
 	"""
 	keyWait
 		any = false
@@ -712,8 +711,8 @@ script 36 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
 	"""
-	The laser plan,maybe
-	it too was foiled by
+	Talvez a outra falha
+	também tenha sido
 	.
 	"""
 	waitSkip
@@ -721,17 +720,17 @@ script 36 mmbn4 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
-	"Nebula?!"
+	"a Nebula!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So now they're using
-	the Net to ruin our
-	next strategy⋯
+	Então,estão usando
+	a Rede para estragar
+	este plano também...
 	"""
 	keyWait
 		any = false
@@ -741,7 +740,7 @@ script 37 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I'll check it out."
+	"Eu vou lá conferir."
 	keyWait
 		any = false
 	clearMsg
@@ -753,13 +752,14 @@ script 38 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	But we need you for
-	the Navi plan.
+	Mas precisamos de
+	você para o plano
+	do Navi.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"If you were hurt⋯"
+	"Se perdêssemos\nvocê..."
 	keyWait
 		any = false
 	clearMsg
@@ -770,8 +770,8 @@ script 39 mmbn4 {
 	mugshotShow
 		mugshot = Regal
 	"""
-	OK,we'll leave it
-	to you.
+	Tudo bem,deixo com
+	você.
 	"""
 	keyWait
 		any = false
@@ -782,46 +782,45 @@ script 40 mmbn4 {
 		mugshot = Regal
 	msgOpen
 	"""
-	Show us all just how
-	skilled you are.
+	Mostre-nos o quão
+	habilidoso é.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If there's a problem
-	in the Net,our next
-	strategy cannot
+	Se há um problema
+	na Rede,nossa
+	estratégia fica
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	succeed until it's
-	resolved.
+	suspensa até ele ser
+	solucionado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Remember,the data
-	from Sharo will come
-	via the Net.
+	Lembre-se: os dados
+	de Sharo virão via
+	Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,travel around
-	the world,
+	Lan,viaje pelo mundo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and fix the Net by
-	jacking directly
-	into it.
+	e conserte a Rede,
+	conectando-se a ela
+	diretamente.
 	"""
 	keyWait
 		any = false
@@ -832,7 +831,7 @@ script 40 mmbn4 {
 script 41 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Understood!"
+	"Entendido!"
 	keyWait
 		any = false
 	clearMsg
@@ -843,35 +842,36 @@ script 42 mmbn4 {
 	mugshotShow
 		mugshot = Regal
 	"""
-	Also,I want to give
-	you something before
-	you leave.
+	E eu também quero
+	lhe dar uma coisa
+	antes de partir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll get it from you
-	later.
+	Fale comigo daqui
+	a pouco para
+	recebê-la.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm relying on you!"
+	"Conto com você!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan will take care
-	of the Net problem.
+	Lan irá cuidar do
+	problema da Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Everyone else,back
-	to your posts to
-	make ready our plan.
+	Os demais,voltem a
+	seus postos e
+	preparem-se.
 	"""
 	keyWait
 		any = false
@@ -896,7 +896,7 @@ script 42 mmbn4 {
 	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	keyWait
 		any = false
 	end
@@ -906,8 +906,8 @@ script 43 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	He is the Blue
-	Moon champion⋯
+	Ele foi o campeão
+	do Lua Azul...
 	"""
 	keyWait
 		any = false

@@ -277,7 +277,7 @@ script 21 mmbn4 {
 	msgOpen
 	"""
 	Você também está no
-	Torneio da Águia?
+	Torneio Águia?
 	"""
 	keyWait
 		any = false
@@ -670,7 +670,7 @@ script 220 mmbn4 {
 	msgOpen
 	"""
 	Posso fornecer um
-	dos meus SubChips...
+	ou dois SubChips...
 	"""
 	keyWait
 		any = false

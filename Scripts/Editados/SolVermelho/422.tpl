@@ -5,16 +5,16 @@ script 0 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS IS THE ENTRANCE
-	TO THE UNDERNET⋯
+	ESTA É A ENTRADA
+	DA UNDERNET...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU PROBABLY DON'T
-	WANT TO GO HERE⋯YOU
-	SHOULD HEAD BACK⋯
+	MELHOR VOCÊ NÃO IR
+	LÁ... POR FAVOR,
+	VOLTE...
 	"""
 	keyWait
 		any = false
@@ -42,32 +42,33 @@ script 120 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	msgOpen
-	"HICCUP!"
+	"HIC!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Whassat? You wanna
-	be my pupil?!
+	Quié? Qué ser o
+	meu pupilo,é?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"HICCUP!"
+	"HIC!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,I guess that
-	depends on how bad
-	you want it⋯
+	Ah,depende do
+	quanto que cê
+	quer iss'...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯So,did you bring
-	me what I wanted?
+	... E aí,trouxe o
+	negócio lá que eu
+	queria?
 	"""
 	keyWait
 		any = false
@@ -83,7 +84,7 @@ script 120 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Sure!  "
+	"Aham!  "
 	option
 		brackets = false
 		left = 0
@@ -92,7 +93,7 @@ script 120 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Huh?"
+	"Hã?"
 	select
 		default = 0
 		noDelay = false
@@ -108,35 +109,36 @@ script 120 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	"""
-	You idjit! You think
-	I'm gonna teach you
-	for FREE?
+	Seu burro! Achou
+	mesmo qu'eu ia
+	ensinar de GRAÇA?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"HICCUP!"
+	"HIC!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Kids these days⋯
-	Don't know no
-	respect!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Now you're ruined
-	my good mood⋯
+	Esses moleque
+	de hoje... Num
+	sabe respeitá!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go get me something
-	to drink!
+	Pô,eshtragou o
+	meu bom humô...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Traz aqui pa' mim
+	alguma coisa preu
+	beber e comer!
 	"""
 	keyWait
 		any = false
@@ -144,30 +146,29 @@ script 120 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	⋯Where could I buy
-	something like that
-	around here⋯?
+	... Onde eu acho pra
+	vender por aqui...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviBrown
-	"Idjit!"
+	"Burro!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My drinking buddies
-	are hanging out in
-	the Park Area⋯
+	Os meuzamigo da bi-
+	rita tão de bobeira
+	na Área Parque...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go get something
-	from them⋯
+	Pedh'alguma coisa
+	lá preles...
 	"""
 	keyWait
 		any = false
@@ -192,8 +193,8 @@ script 121 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Please,sir⋯
-	Take this⋯
+	Er,senhor...
+	É pra você...
 	"""
 	keyWait
 		any = false
@@ -205,17 +206,17 @@ script 121 mmbn4 {
 	itemTake
 		item = 94
 		amount = 1
-	"MegaMan gave⋯"
+	"MegaMan deu..."
 	keyWait
 		any = false
 	clearMsg
-	"⋯a \""
+	"... um \""
 	printItem
 		buffer = 0
 		item = 93
 	"""
 	"
-	and a "
+	e uma "
 	"""
 	printItem
 		buffer = 0
@@ -227,21 +228,20 @@ script 121 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	"""
-	Now THAT'S what I'm
-	talking about!
+	Ah,ESSE é o negóç'!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK⋯Now I'll teach
-	you my secret
-	techniques⋯
+	Tá... Vô te ensinar
+	as mi'as técnica
+	secreta...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ready?!"
+	"Tá pronto?!"
 	keyWait
 		any = false
 	clearMsg
@@ -256,7 +256,7 @@ script 121 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Sure!  "
+	"Tô!  "
 	option
 		brackets = false
 		left = 0
@@ -265,7 +265,7 @@ script 121 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Wait!"
+	"Espera!"
 	select
 		default = 0
 		noDelay = false
@@ -291,8 +291,8 @@ script 123 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Well,then just come
-	back when you are!
+	Bom,'ntão volta
+	quando tiver!
 	"""
 	keyWait
 		any = false
@@ -308,36 +308,36 @@ script 125 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Now you're a LYIN'
-	idjit!!
+	Cê tá MENTCHINDO,
+	seu burro!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I told you to bring
-	me something to
-	drink and snacks!
+	Eu te mandei trazer
+	unsh "comes e
+	bebes"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Did you find my
-	buddies in the Park
-	Area?
+	Num falou c'os meus
+	parças lá na Área
+	Parque,não?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My drinking buddies
-	them are there!
+	Os meuzamigo de
+	birita tão tudo lá!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Now⋯GO FIND 'EM!"
+	"Vai... 'TRÁS DELES!"
 	keyWait
 		any = false
 	end
@@ -346,14 +346,14 @@ script 126 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	msgOpen
-	"HICCUP!"
+	"HIC!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well if it ain't the
-	idjit⋯D'ja bring me
-	my drink and snack?
+	Olhaí,se num é o
+	burro... Trouxe a
+	bebida e o lanchin'?
 	"""
 	keyWait
 		any = false
@@ -369,7 +369,7 @@ script 126 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Yessir!  "
+	"Aham!  "
 	option
 		brackets = false
 		left = 0
@@ -378,7 +378,7 @@ script 126 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Um⋯"
+	"Er..."
 	select
 		default = 0
 		noDelay = false
@@ -393,22 +393,22 @@ script 126 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviBrown
-	"IDJIT!"
+	"BURRO!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Is that the way yer
-	momma raised you,
-	boy?!
+	Foi 'ssim que a
+	tua mãe tche criou,
+	foi?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I ain't gonna teach
-	you until you bring
-	it to me!
+	Eu num insino nada
+	até cê trazer os
+	negoço pra mim!
 	"""
 	keyWait
 		any = false
@@ -418,7 +418,7 @@ script 127 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	msgOpen
-	"So⋯ya' ready?"
+	"E aí... tá pronto?"
 	keyWait
 		any = false
 	clearMsg
@@ -433,7 +433,7 @@ script 127 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Sure!  "
+	"Aham!  "
 	option
 		brackets = false
 		left = 0
@@ -442,7 +442,7 @@ script 127 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Wait!"
+	"Calma!"
 	select
 		default = 0
 		noDelay = false
@@ -461,9 +461,9 @@ script 128 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Get outta' here!
-	I ain't got nuthin'
-	to teach you!
+	Some daqui! Eu num
+	tenho nada pa' te
+	insiná,não!
 	"""
 	keyWait
 		any = false
@@ -474,9 +474,9 @@ script 129 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	IDJIT!
-	Yer trainin' ain't
-	done yet!
+	SEU BURRO!
+	O seu treinamento
+	'inda num acabou!
 	"""
 	keyWait
 		any = false

@@ -5,8 +5,8 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,I found all the
-	"release videos"!
+	Lan,achei todos os
+	"vídeos finais"!
 	"""
 	keyWait
 		any = false
@@ -18,9 +18,9 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Great,try playing
-	back the data on
-	those videos!
+	Boa! Agora reproduz
+	os dados dos
+	vídeos!
 	"""
 	keyWait
 		any = false
@@ -31,13 +31,13 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Okay!"
+	"Beleza!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Playing the release
-	videos!
+	Reproduzindo os
+	vídeos finais!
 	"""
 	keyWait
 		any = false
@@ -48,7 +48,7 @@ script 3 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Did it work,
+	Funcionou,
 	MegaMan?
 	"""
 	keyWait
@@ -60,13 +60,14 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Yeah!"
+	"Aham!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm okay!
-	I'm back to normal!
+	Tá tudo bem!
+	Eu vou voltei ao
+	normal!
 	"""
 	keyWait
 		any = false
@@ -78,16 +79,16 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Great,now let's go
-	back to the castle!
+	Legal! Agora,de
+	volta ao castelo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The match will start
-	soon. We might get
-	disqualified!
+	A luta tá pra come-
+	çar. A gente pode
+	ser desqualificado!
 	"""
 	keyWait
 		any = false
@@ -98,7 +99,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Okay!"
+	"Tá bom!"
 	keyWait
 		any = false
 	end

@@ -7,9 +7,9 @@ script 0 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Order what chip,huh?
-	(L/R Button:Page)
-	(B Button: No order)
+	O que encomendar,é?
+	(E/D: Página)
+	(B: Sair)
 	"""
 	waitHold
 }
@@ -20,9 +20,9 @@ script 1 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Which one,huh?
-	(L/R Button:Page)
-	(B Button: No order)
+	Qual vai ser,é?
+	(E/D: Página)
+	(B: Sair)
 	"""
 	waitHold
 }
@@ -135,30 +135,30 @@ script 6 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	OK,I'll send this to
-	NumberMan⋯
-	NumberMan,new order!
+	Tá,vou mandar pro
+	NumberMan... Number-
+	Man,nova encomenda!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = NumberMan
-	"Transferring now!\n"
+	"Transferindo!\n"
 	wait
 		frames = 30
-	"・"
+	"."
 	wait
 		frames = 30
-	"・"
+	"."
 	wait
 		frames = 30
-	"・"
+	"."
 	wait
 		frames = 20
 	"""
-	OK
-	Transfer complete!
+	 OK!
+	Transferido!
 	"""
 	keyWait
 		any = false
@@ -195,7 +195,7 @@ script 8 mmbn4 {
 		mugshot = MegaMan
 	textSpeed
 		delay = 0
-	"Not enough Zennys⋯"
+	"Não tenho Zennys o\nbastante..."
 	keyWait
 		any = false
 	waitHold
@@ -211,8 +211,8 @@ script 9 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	I can't carry
-	any more.
+	Não posso carregar
+	mais.
 	"""
 	keyWait
 		any = false
@@ -225,9 +225,9 @@ script 10 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	We're all sold out!
-	Thank yah for yer
-	business,huh!
+	Estamos esgotados!
+	Obrigado pela
+	preferência,é!
 	"""
 	keyWait
 		any = false
@@ -309,7 +309,7 @@ script 20 mmbn4 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"\"You bought \"\n"
+	"\"Você comprou \"\n"
 	printChip
 		buffer = 1
 		chip = 0
@@ -326,7 +326,7 @@ script 21 mmbn4 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"Insufficient Zennys."
+	"Zennys\ninsuficientes."
 	keyWait
 		any = false
 	waitHold
@@ -335,7 +335,7 @@ script 22 mmbn4 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"Can't hold any more."
+	"Impossível portar\nmais."
 	keyWait
 		any = false
 	waitHold
@@ -346,17 +346,17 @@ script 24 mmbn4 {
 		mugshot = Higsby
 	textSpeed
 		delay = 0
-	"A \""
+	"Um \""
 	printChip
 		buffer = 1
 		chip = 0
-	"\",huh?"
+	"\",é?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll see if I can
-	order it⋯Hmmmm
+	Vejamos se dá pra
+	encomendar... Hmm!
 	"""
 	keyWait
 		any = false
@@ -368,17 +368,17 @@ script 25 mmbn4 {
 		mugshot = Higsby
 	textSpeed
 		delay = 0
-	"A \""
+	"Um \""
 	printChip
 		buffer = 1
 		chip = 0
-	"\",huh?"
+	"\",é?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll see if I can
-	order it⋯Hmmmm
+	Vejamos se dá pra
+	encomendar... Hmm!
 	"""
 	keyWait
 		any = false
@@ -390,22 +390,22 @@ script 26 mmbn4 {
 		mugshot = Higsby
 	textSpeed
 		delay = 0
-	"A \""
+	"Um \""
 	printChip
 		buffer = 1
 		chip = 0
-	"\",huh?"
+	"\",é?"
 	keyWait
 		any = false
 	clearMsg
-	"A \""
+	"Um \""
 	printChip
 		buffer = 1
 		chip = 0
 	"""
-	",huh?
-	I've never heard of
-	that,but I'll try⋯
+	",é?
+	Nunca ouvi falar,
+	mas vou tentar...
 	"""
 	keyWait
 		any = false
@@ -417,13 +417,13 @@ script 27 mmbn4 {
 		mugshot = Higsby
 	textSpeed
 		delay = 0
-	"I have a \""
+	"Eu tenho 1 \""
 	printCode
 		buffer = 2
 		code = A
 	"""
 	"!
-	That's 
+	Custa
 	"""
 	printBuffer
 		buffer = 3
@@ -474,9 +474,9 @@ script 28 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Ooops,sorry!
-	Don't have that in
-	stock⋯
+	Opa,desculpa!
+	Não tenho esse
+	disponível...
 	"""
 	keyWait
 		any = false
@@ -489,9 +489,9 @@ script 29 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	⋯Nope,don't see it.
-	Huh! Are you sure
-	there's such a chip?
+	... Não,não tenho.
+	É! Certeza de que
+	esse chip existe?
 	"""
 	keyWait
 		any = false

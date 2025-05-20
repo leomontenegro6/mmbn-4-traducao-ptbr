@@ -5,13 +5,13 @@ script 0 mmbn4 {
 		mugshot = Raoul
 	msgOpen
 	"""
-	I see you've got
-	the "CursDoll".
+	Vejo que conseguiu o
+	Boneco Amaldiçoado.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Put it right there."
+	"Coloque-o bem aqui."
 	keyWait
 		any = false
 	clearMsg
@@ -23,7 +23,7 @@ script 1 mmbn4 {
 		mugshot = MegaMan
 	mugshotAnimation
 		animation = 1
-	"*clack*"
+	"Tcht..."
 	keyWait
 		any = false
 	end
@@ -32,7 +32,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Raoul
 	msgOpen
-	"Now back off."
+	"Agora,afaste-se."
 	keyWait
 		any = false
 	end
@@ -42,8 +42,8 @@ script 3 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	*pant pant*
-	Ooohhh⋯
+	Arf... Arf...
+	Aaaghhh...
 	"""
 	keyWait
 		any = false
@@ -54,45 +54,45 @@ script 4 mmbn4 {
 		mugshot = Raoul
 	msgOpen
 	"""
-	And now for the
-	ceremony to lift the
-	curse!
+	Iniciaremos a
+	cerimônia para
+	retirar a maldição!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Gresply Kamuo⋯
-	Gresply Kamuo⋯
+	Grespri Kamuo...
+	Grespri Kamuo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Reside in the living
-	Protect the living
-	Oh Great Spirit!
+	Reside nos vivos!
+	Protege os vivos!
+	Ó,Grande Espírito!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Bravery,strength,
-	wisdom,kindness.
-	Bless the valiant
+	Bravura,força,
+	sabedoria,ternura.
+	Abençoe seu filho
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	one who has passed
-	the cruel trial of
-	the 4 marks!
+	velente que passou
+	nas crueis provações
+	das 4 provas!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Gresply Happinay!"
+	"Grespri Happinei!"
 	keyWait
 		any = false
 	end
@@ -111,13 +111,13 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = Raoul
-	"Thunderbolt,strike!"
+	"Trovão,ataque!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Destroy the curse
-	that afflicts him!
+	Destrua a maldição
+	que o aflinge!
 	"""
 	keyWait
 		any = false
@@ -127,7 +127,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Is the curse gone?!"
+	"A maldição passou?!"
 	keyWait
 		any = false
 	clearMsg
@@ -162,7 +162,7 @@ script 10 mmbn4 {
 		mugshot = Lan
 	"""
 	MegaMan!!!
-	Are you all right?!
+	Você tá legal?!
 	"""
 	keyWait
 		any = false
@@ -176,9 +176,9 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Yes!
-	It's like the pain
-	was just a dream!
+	Aham! É como se a
+	dor não tivesse
+	passado de um sonho!
 	"""
 	keyWait
 		any = false
@@ -190,7 +190,7 @@ script 12 mmbn4 {
 	msgOpen
 	"""
 	Raoul,ThunderMan,
-	thank you so much!
+	muito obrigado!
 	"""
 	keyWait
 		any = false
@@ -202,24 +202,25 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = Raoul
 	"""
-	No thanks needed.
-	Fighting a weakened
-	opponent is no fun.
+	Imaginem. Não há
+	graça em um adversá-
+	rio enfraquecido.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is a principle
-	of my proud tribe.
+	Esse é um princípio
+	da minha orgulhosa
+	tribo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll see you at the
-	Colosseum for our
-	fight.
+	Vejo vocês no
+	Coliseu,para a
+	nossa luta.
 	"""
 	keyWait
 		any = false
@@ -230,7 +231,7 @@ script 13 mmbn4 {
 script 14 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Okay!"
+	"Com certeza!"
 	keyWait
 		any = false
 	end

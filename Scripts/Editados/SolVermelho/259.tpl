@@ -18,9 +18,9 @@ script 0 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	I can finally rest,
-	since the Den Battle
-	Tournament is over⋯
+	Agora que o Torneio
+	de Batalha Den aca-
+	bou,posso relaxar...
 	"""
 	keyWait
 		any = false
@@ -30,14 +30,17 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
 	msgOpen
-	"I can finally rest,"
+	"""
+	Agora que o Torneio
+	de Batalha da Cidade
+	acabou,
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	since the
-	City Battle
-	Tournament is over⋯
+	eu posso
+	descansar...
 	"""
 	keyWait
 		any = false
@@ -48,24 +51,24 @@ script 5 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	I hear that a big
-	new theme park will
-	be opening soon⋯
+	Parece que vai abrir
+	um enorme parque te-
+	mático em breve...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I want to go with
-	my boyfriend!
+	Quero muito ir lá
+	com o meu namorado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess I'll have to
-	find a boyfriend,
-	first⋯
+	Mas primeiro...
+	eu preciso ARRANJAR
+	um!
 	"""
 	keyWait
 		any = false
@@ -76,15 +79,16 @@ script 10 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	You're going to
-	Castillo? On a DATE?
+	Você vai pro
+	Castillo?
+	Num ENCONTRO?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯I see⋯
-	⋯You little twerp⋯
+	... Entendo...
+	... Guri maldito...
 	"""
 	keyWait
 		any = false
@@ -99,9 +103,9 @@ script 20 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	I just found this
-	over there⋯
-	Want it?
+	Acabei de achar isto
+	aqui bem ali...
+	Cê quer?
 	"""
 	keyWait
 		any = false
@@ -127,9 +131,9 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = BlueShirtBoy
 	"""
-	I think I saw
-	another one around
-	here somewhere⋯
+	Acho que vi um outro
+	por aqui por
+	perto...
 	"""
 	keyWait
 		any = false
@@ -141,7 +145,7 @@ script 21 mmbn4 {
 	mugshotShow
 		mugshot = BlueShirtBoy
 	msgOpen
-	"I just love hiding!"
+	"Eu amo me esconder!"
 	keyWait
 		any = false
 	end
@@ -151,34 +155,34 @@ script 22 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	I hear something
-	big happened at
-	Castillo⋯
+	Parece que houve
+	alguma crise no
+	Castillo...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Hah!"
+	"... Rá!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's because nobody
-	would take me,I'll
-	bet!
+	Aposto que foi carma
+	por ninguém me levar
+	lá!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Whew! I feel a bit
-	better after letting
-	off steam like that⋯
+	Ufa! Foi bom
+	extravasar um
+	pouquinho assim...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"See 'ya!"
+	"Tchau!"
 	keyWait
 		any = false
 	end
@@ -188,9 +192,9 @@ script 30 mmbn4 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Since the Tourney's
-	over,I can take
-	these flowers,OK?
+	Já que o torneio
+	acabou,eu posso le-
+	var estas flores,né?
 	"""
 	keyWait
 		any = false
@@ -201,13 +205,13 @@ script 31 mmbn4 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	They wouldn't let
-	me take the flowers!
+	Não me deixaram
+	levar as flores!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"How cheap!"
+	"Mãos-de-vaca!"
 	keyWait
 		any = false
 	end
@@ -217,16 +221,16 @@ script 32 mmbn4 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	I hear that you're
-	in some national
-	tournament⋯?
+	Ouvi dizer que você
+	está em um torneio
+	nacional...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Show 'em what you're
-	made of,kid!
+	Brilha forte lá,
+	meu filho!
 	"""
 	keyWait
 		any = false
@@ -237,17 +241,17 @@ script 33 mmbn4 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	I saw you on TV!
-	You were great!
-	You've got it,kid!
+	Eu te vi na TV! Foi
+	incrível! Você é
+	fantástico,menino!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you win the
-	finals,give me
-	your autograph!
+	Se ganhar o torneio,
+	vê se me dá um
+	autógrafo!
 	"""
 	keyWait
 		any = false

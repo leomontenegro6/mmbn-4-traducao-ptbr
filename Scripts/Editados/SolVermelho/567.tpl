@@ -5,15 +5,15 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So FireMan's my
-	opponent.
+	Então,o meu oponente
+	é o FireMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Didn't know
-	he was here.
+	Eu nem sabia que ele
+	tava aqui.
 	"""
 	keyWait
 		any = false
@@ -24,8 +24,8 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	mugshotHide
 	"""
-	Hey,Lan.
-	Long time,no see.
+	Oi,Lan.
+	Há quanto tempo.
 	"""
 	keyWait
 		any = false
@@ -36,7 +36,7 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"That voice⋯"
+	"Essa voz..."
 	keyWait
 		any = false
 	end
@@ -57,8 +57,9 @@ script 4 mmbn4 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Heh heh⋯Yep,it's
-	me. Brace yourself!
+	He he... É,eu mesmo.
+	Está quente? Eu
+	estou fervendo!
 	"""
 	keyWait
 		any = false
@@ -69,8 +70,9 @@ script 5 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Match! What're you
-	up to now?!
+	Match! O que você
+	tá aprontando
+	agora?!
 	"""
 	keyWait
 		any = false
@@ -82,23 +84,24 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	"""
-	Heh⋯Wouldn't you
-	like to know.
+	He... Ah,me erra,
+	garoto.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But never mind that.
-	You know who's in
+	Esquece isso. Você
+	sabe quem está no
+	torneio,não é?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the tourney,right?
-	You should worry a-
-	bout FireMan,not me.
+	Devia se preocupar
+	é com o FireMan,
+	não comigo.
 	"""
 	keyWait
 		any = false
@@ -110,15 +113,15 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I don't know what
-	you're up to,
+	Eu não sei o que
+	cê tá tramando,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but I won't let you
-	get away with it!
+	mas não vou deixar
+	você se safar!
 	"""
 	keyWait
 		any = false
@@ -130,21 +133,21 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	"""
-	What a skeptical
-	little kid.
+	Ah,mas que guri mais
+	cético.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Anyway,let's make
-	this a good one for
-	the crowd's sake.
+	Enfim,vamos travar
+	uma boa luta,pelo
+	bem do público.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"See ya later."
+	"Até mais."
 	keyWait
 		any = false
 	end
@@ -154,15 +157,16 @@ script 9 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I can tell he's up
-	to no good.
+	Eu SEI que ele tá
+	aprontando alguma
+	coisa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But no way am I
-	gonna lose to him!
+	Enfim,nunca que eu
+	vou perder pra ele!
 	"""
 	keyWait
 		any = false
@@ -175,7 +179,7 @@ script 10 mmbn4 {
 	soundDisableTextSFX
 	soundPlay
 		track = 131
-	"Growl⋯"
+	"Ronc..."
 	wait
 		frames = 42
 	keyWait
@@ -188,7 +192,7 @@ script 10 mmbn4 {
 script 11 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"That your stomach?!"
+	"Esse foi o seu\nestômago?!"
 	keyWait
 		any = false
 	clearMsg
@@ -198,21 +202,22 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Guess I'm hungry."
+	"Acho que eu tô com\nfome."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,let's go get
-	a bite to eat.
+	MegaMan,bora
+	descolar alguma
+	coisa pra comer.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"An army marches on
-	its stomach",or so
-	the saying goes.
+	"Saco vazio não para
+	em pé",como diz o
+	ditado.
 	"""
 	keyWait
 		any = false
@@ -224,20 +229,21 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Hold on. I'll check
-	for a good place to
-	eat around here.
+	Espera. Vou
+	pesquisar bons
+	lugares por aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Got one!"
+	"... Achei!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's a good hot-
-	dog stand nearby!
+	Tem uma ótima barra-
+	quinha de cachorro-
+	quente aqui perto!
 	"""
 	keyWait
 		any = false
@@ -249,13 +255,12 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Sounds good
-	to me!
+	Adorei a ideia!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Vamos lá!"
+	"Simbora!"
 	keyWait
 		any = false
 	end

@@ -5,8 +5,8 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hey Sal,long time no
-	see!
+	Oi,Sal!
+	Há quanto tempo!
 	"""
 	keyWait
 		any = false
@@ -18,9 +18,9 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Sal
 	"""
-	Hey Lan,how've you
-	been? Glad you made
-	it.
+	Oi,Lan! Como tem
+	passado? Que bom
+	que pôde vir.
 	"""
 	keyWait
 		any = false
@@ -31,14 +31,14 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Me too!"
+	"Claro!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We can't go easy on
-	each other in the
-	next match,Sal.
+	Olha,não vamos nos
+	segurar na luta,viu,
+	Sal?
 	"""
 	keyWait
 		any = false
@@ -49,22 +49,22 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = Sal
-	"Of course not."
+	"Claro,né?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This will be a great
-	opportunity to let
-	lots of people know
+	Será uma ótima
+	oportunidade para
+	divulgar minhas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	over the Net about
-	my environmentalist
-	activities.
+	atividades
+	ambientalistas
+	para toda a Rede.
 	"""
 	keyWait
 		any = false
@@ -75,7 +75,7 @@ script 4 mmbn4 {
 	soundDisableTextSFX
 	soundPlay
 		track = 131
-	"*growl*"
+	"Rroonnc...."
 	wait
 		frames = 42
 	keyWait
@@ -90,10 +90,10 @@ script 5 mmbn4 {
 		mugshot = Lan
 	mugshotAnimation
 		animation = 1
-	"⋯⋯\n"
+	"......\n"
 	mugshotAnimation
 		animation = 2
-	"Dang,I'm so hungry."
+	"Nossa,que fome."
 	keyWait
 		any = false
 	clearMsg
@@ -104,17 +104,16 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Sal
 	"""
-	Hehe,want this
-	boxed lunch?
-	
+	He he. Aceita
+	esta marmita?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's hand-made,from
-	the best ingre-
-	dients.
+	É 100% caseira,feita
+	com os melhores
+	ingredientes.
 	"""
 	keyWait
 		any = false
@@ -125,13 +124,13 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Oh,thanks!"
+	"Ah,valeu!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can't fight on
-	an empty stomach!
+	Não dá pra lutar de
+	estômago vazio!
 	"""
 	keyWait
 		any = false
@@ -141,17 +140,17 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"That was delicious!"
+	"Que delícia!"
 	keyWait
 		any = false
 	clearMsg
-	"Thank you!"
+	"Obrigado!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You make the best
-	lunches,Sal!
+	A comida que você
+	faz é sem igual,Sal!
 	"""
 	keyWait
 		any = false
@@ -163,9 +162,9 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Sal
 	"""
-	They taste even
-	better when you eat
-	them outside!
+	E ficam ainda mais
+	gostosas ao ar
+	livre,né?
 	"""
 	keyWait
 		any = false
@@ -176,15 +175,15 @@ script 10 mmbn4 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	What do you think,
-	Mayor?
+	O que achou,
+	senhor prefeito?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	After seeing ACDC
-	Town?
+	Depois de ver o
+	Bairro ACDC?
 	"""
 	keyWait
 		any = false
@@ -196,39 +195,40 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = OldManAlt
 	"""
-	There's a lot of
-	wasted space.
+	Tem tanto espaço
+	desperdiçado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Like this park!
-	All these trees!
+	Como este parque!
+	Essas árvores
+	todas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If we get rid of
-	them,we can build
-	lots of buildings!
+	Se derrubarmos elas,
+	poderemos construir
+	vários prédios!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll have to change
-	this into something
-	like ElecTown.
+	Temos que transfor-
+	mar isto em algo
+	como a EletroVila.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll have to look
-	into the possibility
-	of building this up.
+	Vamos estudar a pos-
+	sibilidade de refor-
+	mar tudo isto.
 	"""
 	keyWait
 		any = false
@@ -239,7 +239,7 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	mugshotShow
 		mugshot = BusinessMan
-	"Okay!"
+	"Sim,senhor!"
 	keyWait
 		any = false
 	end
@@ -262,7 +262,7 @@ script 14 mmbn4 {
 	soundDisableTextSFX
 	soundPlay
 		track = 316
-	"*beep beep beep*"
+	"Bip Bip Bip"
 	wait
 		frames = 10
 	keyWait
@@ -276,7 +276,7 @@ script 15 mmbn4 {
 		mugshot = Lan
 	"""
 	Hmm?
-	What is it?
+	Que foi?
 	"""
 	keyWait
 		any = false
@@ -287,9 +287,9 @@ script 16 mmbn4 {
 		mugshot = Sal
 	msgOpen
 	"""
-	Oh,excuse me.
-	Looks like I've got
-	mail.
+	Ah,desculpa.
+	Parece que chegou
+	e-mail para mim.
 	"""
 	keyWait
 		any = false
@@ -312,9 +312,9 @@ script 17 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	do you know where
-	the square is in
-	ElecTown?
+	você sabe onde
+	fica a Praça da
+	EletroVila?
 	"""
 	keyWait
 		any = false
@@ -326,8 +326,8 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	It's at the very
-	back of ElecTown.
+	É bem lá no fundo
+	dela.
 	"""
 	keyWait
 		any = false
@@ -338,14 +338,14 @@ script 18 mmbn4 {
 script 19 mmbn4 {
 	mugshotShow
 		mugshot = Sal
-	"Thank you."
+	"Obrigada."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sorry,Lan,I have
-	to go. Something
-	urgent came up.
+	Desculpa,Lan,mas
+	tenho que ir. Surgiu
+	um assunto urgente.
 	"""
 	keyWait
 		any = false
@@ -356,8 +356,9 @@ script 20 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	What's wrong,Sal?
-	She look troubled.
+	O que deu na Sal?
+	Ela parecia
+	preocupada.
 	"""
 	keyWait
 		any = false
@@ -369,8 +370,8 @@ script 21 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Well,I'm worried
-	about it.
+	Bom,agora EU tô
+	preocupado,também...
 	"""
 	keyWait
 		any = false

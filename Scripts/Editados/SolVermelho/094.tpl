@@ -68,9 +68,9 @@ script 10 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Do you think this
-	CardComp is
-	scanning you⋯?
+	Acha que esse
+	CPUCartão tá te
+	escaneando...?
 	"""
 	keyWait
 		any = false
@@ -81,8 +81,8 @@ script 11 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It's not wet in
-	there,is it?
+	Não tá molhado aí
+	dentro,tá?
 	"""
 	keyWait
 		any = false
@@ -93,9 +93,9 @@ script 12 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I'll bet this place
-	gets crowded on
-	weekends!
+	Aposto que aqui fica
+	lotado nos fins de
+	semana!
 	"""
 	keyWait
 		any = false
@@ -106,20 +106,20 @@ script 13 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	This thing smells
-	really sweet from
-	out here⋯
+	Essa coisa tem um
+	cheiro super doce
+	daqui,de fora...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"How about in there?"
+	"Como é aí dentro?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"It's really strong!"
+	"É doce a ponto de\nser enjoativo!"
 	keyWait
 		any = false
 	end
@@ -212,9 +212,9 @@ script 21 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A cooking machine⋯
-	It sure must smell
-	good in there⋯
+	Uma máquina de cozi-
+	nhar... O cheiro aí
+	dentro é bom,né?
 	"""
 	keyWait
 		any = false
@@ -225,9 +225,9 @@ script 23 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I wonder if this
-	goddess doesn't
-	mind us being here?
+	Será que esta deusa
+	não se incomoda da
+	gente estar aqui?
 	"""
 	keyWait
 		any = false
@@ -238,9 +238,9 @@ script 24 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	This HeroComp
-	sorta' reminds me
-	of us! ⋯Yeah,right!
+	Este CPUHerói meio
+	que me lembra da
+	gente. Só que não!
 	"""
 	keyWait
 		any = false
@@ -251,9 +251,9 @@ script 25 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I feel peaceful just
-	being near this
-	Buddha,don't you?
+	Eu sinto paz só de
+	estar perto deste
+	Buda. E você?
 	"""
 	keyWait
 		any = false
@@ -264,9 +264,9 @@ script 26 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So this is where
-	they control the
-	weather satellite⋯
+	Então,é daqui que
+	controlam o satélite
+	do clima...
 	"""
 	keyWait
 		any = false
@@ -285,8 +285,9 @@ script 36 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's teach that
-	FootBomb a lesson!
+	Bora dar uma
+	lição naquele
+	FuteBombista!
 	"""
 	keyWait
 		any = false
@@ -305,9 +306,9 @@ script 38 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We have to beat
-	FootBomb on behalf
-	of all NetBattlers!
+	Temos que vencer no
+	FuteBomba,por todos
+	os NetLutadores!
 	"""
 	keyWait
 		any = false
@@ -332,9 +333,9 @@ script 41 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Could this Buddha be
-	the big guy you
-	saw,MegaMan?
+	Será que este Buda
+	era o grandalhão que
+	você viu,MegaMan?
 	"""
 	keyWait
 		any = false
@@ -345,8 +346,8 @@ script 42 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan! Let's go to
-	the Colosseum!
+	MegaMan! Bora lá pro
+	Coliseu!
 	"""
 	keyWait
 		any = false
@@ -389,9 +390,9 @@ script 49 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's destroy all
-	the CyberSnowmen
-	and light the torch!
+	Destrua todos os
+	CyberBonecosDeNeve
+	e acenda a tocha!
 	"""
 	keyWait
 		any = false
@@ -402,9 +403,9 @@ script 50 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	This one's fine.
-	Let's go find
-	another antenna!
+	Já terminamos
+	aqui. Vamos pra
+	próxima antena!
 	"""
 	keyWait
 		any = false
@@ -415,8 +416,8 @@ script 51 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan! Let's go to
-	the Colosseum!
+	MegaMan! Bora lá pro
+	Coliseu!
 	"""
 	keyWait
 		any = false

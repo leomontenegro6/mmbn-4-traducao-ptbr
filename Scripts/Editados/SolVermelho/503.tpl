@@ -10,8 +10,8 @@ script 0 mmbn4 {
 	color
 		palette = 1
 	"""
-	The Eagle Tournament
-	champion is⋯
+	O campeão do
+	Torneio Águia é...
 	"""
 	keyWait
 		any = false
@@ -20,8 +20,8 @@ script 0 mmbn4 {
 		width = 20
 		height = 2
 	"""
-	Lan! Still only
-	in sixth grade!
+	Lan Hikari! Ainda no
+	sexto ano!
 	"""
 	keyWait
 		any = false
@@ -37,8 +37,8 @@ script 1 mmbn4 {
 		width = 8
 		height = 2
 	"""
-	Waaaoow!
-	Yeah!!
+	Êêêêêê!
+	Legal!!
 	"""
 	wait
 		frames = 133
@@ -54,8 +54,9 @@ script 2 mmbn4 {
 		width = 20
 		height = 2
 	"""
-	We will now start
-	the awards ceremony!
+	Agora,começaremos
+	a cerimônia de
+	premiação!
 	"""
 	keyWait
 		any = false
@@ -66,9 +67,9 @@ script 3 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	Our champion,Lan,
-	will be presented
-	with a trophy!
+	O nosso campeão,Lan,
+	será presenteado
+	com um troféu!
 	"""
 	keyWait
 		any = false
@@ -81,14 +82,13 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Ah⋯It's you again."
+	"Ah...\nÉ você de novo."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're from the
-	Den Battle
-	Tournament⋯
+	O cara do Torneio
+	de Batalha Den...
 	"""
 	keyWait
 		any = false
@@ -100,39 +100,39 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = BusinessMan
 	"""
-	I'm very honored
-	that you remembered.
+	Estou honrado que
+	você se lembre.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have just become
-	Electopia NetBattle
-	Association Chief.
+	Me tornei o Chefe da
+	Associação de Net-
+	Luta de Ni-Hon.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm delighted to be
-	able to present you
-	with another trophy.
+	É um prazer poder
+	dar a você outro
+	troféu.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You are now the
-	champ of Electopia.
+	Agora,você é o
+	campeão de Ni-Hon.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We look forward to
-	even greater things!
-	Congratulations!!
+	Esperamos coisas
+	ainda maiores de
+	você! Parabéns!!
 	"""
 	keyWait
 		any = false
@@ -142,7 +142,7 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Thank you very much!"
+	"Muito obrigado!"
 	keyWait
 		any = false
 	clearMsg
@@ -176,16 +176,16 @@ script 8 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	As the champion now
-	makes his exit,
+	Nosso campeão segue
+	para a saída.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	please show your
-	appreciation one
-	more time!
+	Vamos,mostrem sua
+	admiração mais uma
+	vez!
 	"""
 	keyWait
 		any = false
@@ -199,8 +199,8 @@ script 9 mmbn4 {
 	soundPlay
 		track = 244
 	"""
-	Whooo! Whooo!
-	Yeaaaaah!
+	Urrúúú! Urrúúú!
+	Ééééé!
 	"""
 	wait
 		frames = 133
@@ -215,9 +215,9 @@ script 10 mmbn4 {
 	soundPlay
 		track = 244
 	"""
-	Yeaaaaah!
+	Ééééé!
 	Lan! Lan! Lan!
-	Aaaaa!!
+	Aaaaaaah!!
 	"""
 	wait
 		frames = 133
@@ -232,8 +232,8 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Wow! They're going
-	crazy!
+	Nossa! Eles tão indo
+	à loucura!
 	"""
 	keyWait
 		any = false
@@ -245,16 +245,15 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan,don't let it
-	get to you!
+	Lan,não vá ficar
+	com o ego inflado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You always get
-	carried away at
-	times like this!
+	Você sempre se deixa
+	levar nestas horas!
 	"""
 	keyWait
 		any = false
@@ -265,14 +264,14 @@ script 12 mmbn4 {
 script 13 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"OK,OK!"
+	"Tá bom,tá bom!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But let's enjoy it
-	until the elevator
-	comes.
+	Mas vamos aproveitar
+	até o elevador
+	chegar.
 	"""
 	keyWait
 		any = false
@@ -286,16 +285,16 @@ script 13 mmbn4 {
 script 14 mmbn4 {
 	mugshotHide
 	"""
-	Still no sign of
-	the elevator⋯
+	Nenhum sinal do
+	elevador ainda...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So MegaMan,do you
-	really think you'll
-	leave here alive?!
+	E então,MegaMan:
+	acha que vai sair
+	daqui com vida?!
 	"""
 	keyWait
 		any = false
@@ -306,7 +305,7 @@ script 14 mmbn4 {
 script 15 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"W-Who's that?!"
+	"Q-quem tá aí?!"
 	keyWait
 		any = false
 	clearMsg
@@ -316,16 +315,16 @@ script 15 mmbn4 {
 script 16 mmbn4 {
 	mugshotHide
 	"""
-	Leader of the
-	Nebula Syndicate⋯
+	O líder do Sindicato
+	Nebula...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,give me the
-	power that destroyed
-	ShadeMan⋯
+	MegaMan,entregue o
+	poder que destruiu
+	o ShadeMan...
 	"""
 	keyWait
 		any = false
@@ -333,7 +332,7 @@ script 16 mmbn4 {
 	soundDisableTextSFX
 	soundPlay
 		track = 235
-	"Bang"
+	"Bam! "
 	wait
 		frames = 30
 	soundPlay
@@ -352,8 +351,8 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = Mami
 	"""
-	Aaaaa!!
-	The Battle Machine!
+	Aaaaahh!!
+	A Máquina de Luta!
 	"""
 	keyWait
 		any = false
@@ -364,30 +363,30 @@ script 17 mmbn4 {
 script 18 mmbn4 {
 	mugshotHide
 	"""
-	Lan and MegaMan! You
-	will jack into that
-	Battle Machine!
+	Lan e MegaMan!
+	Conectem-se àquela
+	Máquina de Luta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Or else you will
-	never leave this
-	stadium!
+	Caso contrário,
+	nunca deixarão
+	este estádio!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Remember,I could so
-	easily destroy this
-	whole castle⋯
+	Lembrem-se: eu posso
+	destruir este caste-
+	lo facilmente...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hurry up!"
+	"Então,sem demora!"
 	keyWait
 		any = false
 	clearMsg
@@ -398,13 +397,13 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Not again⋯
+	De novo eles...
 	Nebula!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's go,MegaMan!!"
+	"Vamos lá,MegaMan!!"
 	keyWait
 		any = false
 	clearMsg
@@ -414,7 +413,7 @@ script 19 mmbn4 {
 script 20 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Roger!!"
+	"Vamos!!"
 	keyWait
 		any = false
 	end
@@ -424,9 +423,9 @@ script 21 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ah⋯It's you again.
-	You're from the City
-	Battle Tournament⋯
+	Ah... É você. O
+	cara do Torneio de
+	Batalha da Cidade...
 	"""
 	keyWait
 		any = false
@@ -441,8 +440,8 @@ script 22 mmbn4 {
 	color
 		palette = 1
 	"""
-	The Hawk Tournament
-	champion is⋯
+	O campeão do
+	Torneio Falcão é...
 	"""
 	keyWait
 		any = false
@@ -451,8 +450,8 @@ script 22 mmbn4 {
 		width = 20
 		height = 2
 	"""
-	Lan! Still only
-	in sixth grade!
+	Lan Hikari! Ainda no
+	sexto ano!
 	"""
 	keyWait
 		any = false

@@ -5,15 +5,15 @@ script 0 mmbn4 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	The transformation
-	is 90% complete. It
+	A transformação está
+	90% concluída. Não
+	falta muito agora...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	won't be long now!!
-	Muwahahaha!!
+	Ua ha ha ha ha!!
 	"""
 	keyWait
 		any = false
@@ -24,7 +24,7 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	mugshotShow
 		mugshot = ProtoMan
-	"Oooooohhh!!"
+	"Uuurghuaahhh!!"
 	keyWait
 		any = false
 	clearMsg
@@ -34,7 +34,7 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviBlack
-	"What's wrong?!"
+	"... Hm?!"
 	keyWait
 		any = false
 	clearMsg
@@ -53,7 +53,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Release ProtoMan!!"
+	"Solta o ProtoMan!!"
 	keyWait
 		any = false
 	clearMsg
@@ -63,14 +63,18 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviBlack
-	"Ya made it this far,"
+	"""
+	Meus parabéns por
+	chegar tão longe,
+	mas eu não vou
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but ya won't get
-	him back that easy!
-	I'm gonna delete ya!
+	devolver ele fácil
+	assim! Prepara pra
+	ser deletado!
 	"""
 	keyWait
 		any = false
@@ -82,7 +86,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"MegaMan,look out!!"
+	"MegaMan,cuidado!!"
 	keyWait
 		any = false
 	clearMsg
@@ -93,8 +97,9 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	Lan,why don't you
-	let me handle this⋯
+	Lan,por que não
+	deixa que eu cuido
+	disso...?
 	"""
 	keyWait
 		any = false

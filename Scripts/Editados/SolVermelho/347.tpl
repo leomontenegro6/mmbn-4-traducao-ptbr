@@ -16,7 +16,7 @@ script 0 mmbn4 {
 		mugshot = Lan
 	"""
 	MegaMan! A gente tem
-	que vencer os vírus
+	que deletar o vírus
 	e fazer isso parar!
 	"""
 	keyWait

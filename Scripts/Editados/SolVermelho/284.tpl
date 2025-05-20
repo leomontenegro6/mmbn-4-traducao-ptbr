@@ -15,15 +15,16 @@ script 0 mmbn4 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	This leads to holy
-	ground. Tourists
+	Este caminho leva a
+	território sagrado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	are strictly
-	prohibited.
+	Turistas são
+	estritamente
+	proibidos.
 	"""
 	keyWait
 		any = false
@@ -38,22 +39,22 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Man
 	msgOpen
-	"You're a tourist?"
+	"Você é um turista?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YumLand's history is
-	as rich as
-	Netopia's!
+	A história de
+	Saborya é tão rica
+	quanto a da Ameropa!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Every year people
-	from around the
-	world come to visit!
+	Todo ano,pessoas
+	de todo o mundo vêm
+	nos visitar!
 	"""
 	keyWait
 		any = false
@@ -72,17 +73,17 @@ script 2 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	I hear the Red Sun
-	Tournament is going
-	on in Netopia.
+	Soube que estão fa-
+	zendo o Torneio Sol
+	Vermelho na Ameropa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wish YumLand could
-	hold something like
-	that too.
+	Queria que Saborya
+	também tivesse uma
+	coisa assim.
 	"""
 	keyWait
 		any = false
@@ -98,23 +99,23 @@ script 3 mmbn4 {
 		mugshot = OldManAlt
 	msgOpen
 	"""
-	Beyond here lie
-	YumRuins dating
-	back 1500 years.
+	Além daqui ficam as
+	RuínasSabo,que têm
+	mais de 1500 anos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're so fragile
-	a committee was
+	São tão frágeis que
+	foi formado todo um
+	comitê para
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	formed to preserve
-	them.
+	preservá-las.
 	"""
 	keyWait
 		any = false
@@ -125,17 +126,17 @@ script 4 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	I hear the Blue Moon
-	Tournament is going
-	on in Netopia.
+	Soube que estão fa-
+	zendo o Torneio Lua
+	Azul na Ameropa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wish YumLand could
-	hold something like
-	that too.
+	Queria que Saborya
+	também tivesse uma
+	coisa assim.
 	"""
 	keyWait
 		any = false
@@ -146,8 +147,8 @@ script 10 mmbn4 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	I continue to pray
-	for world peace⋯
+	Continuo a rezar
+	pela paz mundial...
 	"""
 	keyWait
 		any = false
@@ -158,22 +159,23 @@ script 11 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	There's a garbage
-	repository in Yum-
+	Há um depósito de
+	lixo na Rede de
+	Saborya.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	land's Net. Old data
-	is gathered there,
+	Lá,velhos dados
+	são reunidos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	then recycled by
-	another program.
+	e,então,reciclados
+	por outro programa.
 	"""
 	keyWait
 		any = false
@@ -184,21 +186,23 @@ script 12 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	There's more excite-
-	ment in the city,but
+	Tem mais diversão
+	na cidade,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the tourists here
-	don't care about Net
-	Battles. Oh,it's so
+	mas os turistas aqui
+	não ligam pra
+	NetLutas.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"boring here!"
+	"""
+	Ah,é tão chato aqui!
+	"""
 	keyWait
 		any = false
 	end
@@ -208,25 +212,25 @@ script 13 mmbn4 {
 		mugshot = OldManAlt
 	msgOpen
 	"""
-	Funding for the
-	ruins is generated
-	by souvenir sales,
+	As ruínas são finan-
+	ciadas pelas vendas
+	de souvenirs,mas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but the more tour-
-	ists there are the
-	faster the ruins
+	quanto mais turistas
+	vêm,mais rapidamente
+	as ruínas se
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	deteriorate. I hope
-	we get more well-
-	mannered tourists⋯
+	deterioram. Rezo
+	por turistas mais
+	comportados...
 	"""
 	keyWait
 		any = false
@@ -242,8 +246,9 @@ script 20 mmbn4 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	It's not clear,but I
-	have a bad feeling⋯
+	Não é muito claro,
+	mas estou com um mau
+	pressentimento...
 	"""
 	keyWait
 		any = false
@@ -259,16 +264,15 @@ script 21 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	I went on the Net to
-	throw out some trash
-	but was chased off
+	Eu fui na Rede jogar
+	um lixo fora,e um
+	Oficial me expulsou!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	by an Official!
-	Where's the respect?
+	A falta de respeito!
 	"""
 	keyWait
 		any = false
@@ -284,20 +288,20 @@ script 22 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	There were things
-	on the Net blocking
+	Tinham umas coisas
+	na Rede me barrando
+	de acessar outras
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	me from going to
-	other areas. What
+	áreas.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"were they?"
+	"O que será que eram?"
 	keyWait
 		any = false
 	end
@@ -312,17 +316,17 @@ script 23 mmbn4 {
 		mugshot = OldManAlt
 	msgOpen
 	"""
-	Madame Jen has been
-	acting strange
-	lately⋯the way she
+	A Madame Jen tem
+	agido estranho,
+	ultimamente...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	was just before that
-	earthquake hit us
-	a few years ago⋯
+	Como agiu antes do
+	terremoto nos atin-
+	gir,há uns anos...
 	"""
 	keyWait
 		any = false
@@ -333,15 +337,16 @@ script 25 mmbn4 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	I can see a large
-	light approaching⋯
+	Sinto uma enorme
+	luz se aproximar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That light will
-	cause us calamity⋯
+	A luz trará
+	calamidade sobre
+	nós...
 	"""
 	keyWait
 		any = false
@@ -352,22 +357,25 @@ script 26 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	Madame Jen's begun
-	prophesying.
-	Everything she says
+	A Madame Jen
+	começou a dar
+	suas profecias.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	has come true.
-	I hope she
-	doesn't prophesy
+	Tudo o que ela diz
+	se torna realidade.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"anything bad⋯"
+	"""
+	Espero que ela não
+	profetize nada de
+	ruim...
+	"""
 	keyWait
 		any = false
 	end
@@ -380,21 +388,20 @@ script 27 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	You look an awful
-	lot like that kid
-	who won the Red Sun
+	Você parece o menino
+	que venceu o Torneio
+	Sol Vermelho.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Tournament⋯Maybe"
+	"... Você é ele...?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you are him⋯No!
-	What would that kid
-	be doing here?
+	Não! Por que aquele
+	menino estaria aqui?
 	"""
 	keyWait
 		any = false
@@ -405,16 +412,17 @@ script 28 mmbn4 {
 		mugshot = OldManAlt
 	msgOpen
 	"""
-	I hear Madame Jen's
-	about to announce
-	something. Whatever
+	Parece que a Madame
+	Jen está prestes a
+	anunciar algo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it is,I hope it's
-	nothing scary⋯
+	O que quer que seja,
+	tomara que não seja
+	nada medonho...
 	"""
 	keyWait
 		any = false
@@ -425,24 +433,20 @@ script 29 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	You look an awful
-	lot like that kid
-	who won the Blue
+	Você parece o menino
+	que venceu o Torneio
+	Lua Azul.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"""
-	Moon Tournament⋯
-	Maybe
-	"""
+	"... Você é ele...?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you are him⋯No!
-	What would that kid
-	be doing here?
+	Não! Por que aquele
+	menino estaria aqui?
 	"""
 	keyWait
 		any = false
@@ -453,13 +457,13 @@ script 30 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	All the grown-ups
-	went to the ruins.
+	Todos os adultos
+	foram pras ruínas.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What's happening?"
+	"O que tá\nacontecendo?"
 	keyWait
 		any = false
 	end
@@ -469,9 +473,9 @@ script 31 mmbn4 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	I wonder what that
-	big light Madame Jen
-	mentioned is?
+	O que será que é a
+	tal luz que a Madame
+	Jen mencionou?
 	"""
 	keyWait
 		any = false
@@ -490,9 +494,9 @@ script 140 mmbn4 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	The power of prayer
-	is not to be under-
-	estimated⋯
+	O poder da oração
+	não deve ser
+	subestimado...
 	"""
 	keyWait
 		any = false
@@ -508,25 +512,25 @@ script 141 mmbn4 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
 	"""
-	There's a Navi
-	who seeks to save
-	his soul? Very well.
+	Há um Navi que
+	deseja ter sua
+	alma salva?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You may jack into
-	the Buddha.
+	Pois bem. Pode se
+	conectar ao Buda.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Please proceed."
+	"Por favor,prossiga."
 	keyWait
 		any = false
 	flagSet
@@ -538,16 +542,16 @@ script 142 mmbn4 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	Solitude is diffi-
-	cult for everyone⋯
+	A solidão é difícil
+	para todos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When seeking to save
-	one's soul,Navi and
-	human are alike.
+	Navis e humanos são
+	iguais na busca pela
+	salvação da alma.
 	"""
 	keyWait
 		any = false
@@ -563,8 +567,8 @@ script 143 mmbn4 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	Entry is prohibited
-	beyond that point.
+	Entrada proibida
+	além daqui.
 	"""
 	keyWait
 		any = false
@@ -575,16 +579,16 @@ script 144 mmbn4 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Holy ground lies
-	beyond that point.
+	Além daqui fica
+	território sagrado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'll need permis-
-	sion from Madame Jen
-	to pass.
+	É necessária a
+	permissão da Madame
+	Jen para passar.
 	"""
 	keyWait
 		any = false

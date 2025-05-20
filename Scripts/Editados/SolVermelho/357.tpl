@@ -14,16 +14,15 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Roll
 	msgOpen
-	"Hey,MegaMan!"
+	"Oi,Mega!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Roll! What's all
-	this about a
-	challenge⋯?
+	Roll! Que papo é
+	esse de desafio...?
 	"""
 	keyWait
 		any = false
@@ -31,17 +30,17 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Roll
 	"""
-	I get the feeling
-	that you don't
-	respect me,
+	Eu fiquei com a sen-
+	sação de que você
+	não me respeita,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so I thought I'd
-	give you a taste of
-	just what I can do!
+	então,decidi dar
+	um gostinho do que
+	eu sou capaz!
 	"""
 	keyWait
 		any = false
@@ -49,8 +48,8 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I can't battle with
-	you here,Roll!
+	Eu não posso lutar
+	com você aqui,Roll!
 	"""
 	keyWait
 		any = false
@@ -58,49 +57,49 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Roll
 	"""
-	Who said anything
-	about battling!
+	Quem foi que falou
+	de lutar?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're going to
-	play tag!
+	A gente vai brincar
+	de pega-pega!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Ta⋯Tag⋯?!"
+	"P... pega-pega?!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Roll
 	"""
-	The rules are
-	simple!
+	As regras são
+	simples!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll run away,and
-	you try to catch me!
+	Eu fujo e você tenta
+	me pegar!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"If you can,you win!"
+	"Se conseguir,\nvocê ganha!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Simple,right?
-	Will you accept my
-	challenge?
+	Simples,né?
+	E aí,aceita o meu
+	desafio?
 	"""
 	keyWait
 		any = false
@@ -116,7 +115,7 @@ script 0 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Sure!  "
+	"Tá!  "
 	option
 		brackets = false
 		left = 0
@@ -125,7 +124,7 @@ script 0 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"No way!"
+	"Não!"
 	select
 		default = 0
 		noDelay = false
@@ -141,22 +140,21 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Roll
 	"""
-	What's wrong⋯?
-	Chicken⋯?
+	Que foi? Amarelou?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Of course you're
-	not,are you?
+	Não,você não
+	amarelaria,né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just let me know
-	when you're ready!
+	Bom,me avisa quando
+	estiver pronto!
 	"""
 	keyWait
 		any = false
@@ -175,7 +173,7 @@ script 2 mmbn4 {
 	msgOpen
 	flagSet
 		flag = 2126
-	"Gotcha'!"
+	"Peguei!"
 	keyWait
 		any = false
 	flagSet
@@ -188,7 +186,7 @@ script 3 mmbn4 {
 	msgOpen
 	flagSet
 		flag = 2126
-	"Gotcha'!"
+	"Peguei!"
 	keyWait
 		any = false
 	flagSet
@@ -200,9 +198,8 @@ script 4 mmbn4 {
 		mugshot = Roll
 	msgOpen
 	"""
-	MegaMan! Where are
-	you going?! Are you
-	running away?!
+	MegaMan! Aonde você
+	vai?! Vai fugir?!
 	"""
 	keyWait
 		any = false
@@ -212,13 +209,13 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Roll
 	msgOpen
-	"So,are you ready?"
+	"E aí,tá pronto?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK! Let's play
-	some tag!
+	OK! Hora de
+	pega-pega!
 	"""
 	keyWait
 		any = false
@@ -234,7 +231,7 @@ script 5 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Sure!  "
+	"Tá!  "
 	option
 		brackets = false
 		left = 0
@@ -243,7 +240,7 @@ script 5 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"No way!"
+	"Não!"
 	select
 		default = 0
 		noDelay = false
@@ -259,9 +256,8 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Roll
 	"""
-	You are not afraid
-	you'll lose,are you
-	MegaMan?
+	Você não tá com medo
+	de perder,tá,Mega?
 	"""
 	keyWait
 		any = false
@@ -272,24 +268,25 @@ script 10 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I release negative
-	ions into Mayl's
-	room,
+	Eu libero íons
+	negativos no quarto
+	da Mayl,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	which makes it a
-	comfortable area for
-	her to be in⋯
+	que deixa a área
+	mais confortável
+	para ela...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go,my little
-	negative ions! Fly!
+	Vão,meus pequenos
+	íons negativos!
+	Voem!
 	"""
 	keyWait
 		any = false

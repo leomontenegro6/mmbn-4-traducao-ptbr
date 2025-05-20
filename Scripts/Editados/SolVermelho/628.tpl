@@ -5,16 +5,15 @@ script 0 mmbn4 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Dang!
-	How'd you make it
-	this far?!
+	Droga!
+	Como cê conseguiu
+	passar por todos?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You worthless
-	pieces of junk!
+	Bando de lata velha!
 	"""
 	keyWait
 		any = false
@@ -25,7 +24,7 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"It's all over!"
+	"Acabou!"
 	keyWait
 		any = false
 	clearMsg
@@ -36,14 +35,14 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	"""
-	What're you talkin'
-	about?! This fight's
-	only just begun!
+	Do que cê tá
+	falando?! Esta luta
+	tá só começando!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Wha'?!"
+	"Humf!"
 	keyWait
 		any = false
 	end
@@ -53,8 +52,8 @@ script 3 mmbn4 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	I still have some
-	guys left! Come on!
+	Ainda me restam uns
+	homens! Aqui!
 	"""
 	keyWait
 		any = false
@@ -64,14 +63,14 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Reinforcements!"
+	"Reforços!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It doesn't matter
-	how many guys show
-	up!
+	... mas não importa
+	quantos caras vocês
+	mandem!
 	"""
 	keyWait
 		any = false
@@ -82,14 +81,14 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviBlack
-	"You guys!"
+	"Vão!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No matter what
-	happens,smash that
-	blue Navi to bits!
+	Despedacem esse Navi
+	azul,custe o que
+	custar!
 	"""
 	keyWait
 		any = false

@@ -6,7 +6,7 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	Django!
-	Here!!
+	Aqui!!
 	"""
 	keyWait
 		any = false
@@ -15,7 +15,7 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	msgOpen
 	"""
-	MegaMan gave:
+	MegaMan deu:
 	"
 	"""
 	printItem
@@ -32,14 +32,14 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Django
 	"""
-	I feel the Sunlight.
-	Now I can use
-	PileDriver!
+	Estou sentindo a luz
+	do Sol. Agora posso
+	usar o Bate-Estacas!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Thanks,MegaMan!"
+	"Obrigado,MegaMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -50,9 +50,9 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Otenko
 	"""
-	Hurry,Django!
-	He's gonna
-	recover soon!
+	Rápido,Django!
+	Já já ele se
+	recupera!
 	"""
 	keyWait
 		any = false
@@ -72,14 +72,14 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Otenko
 	msgOpen
-	"Can you hear me?!"
+	"Está me ouvindo?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hold your PET up to
-	the Sun when I shout
-	out!
+	Erga o seu PET para
+	o Sol quando eu
+	gritar!
 	"""
 	keyWait
 		any = false
@@ -90,7 +90,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"I'll give it a try!"
+	"Vou tentar!"
 	keyWait
 		any = false
 	clearMsg
@@ -104,8 +104,8 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Otenko
 	"""
-	Ready,Django?!
-	Here we go!
+	Pronto,Django?!
+	Vamos lá!
 	"""
 	keyWait
 		any = false
@@ -121,7 +121,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Taiyohhhhhhh⋯⋯!!"
+	"Taiyohhhhhhh...!!"
 	keyWait
 		any = false
 	end
@@ -131,16 +131,17 @@ script 9 mmbn4 {
 		mugshot = Otenko
 	msgOpen
 	"""
-	No good!!
-	The Immortal will
+	Essa não!!
+	O Imortal vai
+	escapar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	escape! Return the
-	coffin to the
-	PileDriver's center!
+	Bota o cofre de
+	novo no centro do
+	Bate-Estacas!
 	"""
 	keyWait
 		any = false
@@ -151,7 +152,7 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"You can count on me!"
+	"Deixa comigo!"
 	keyWait
 		any = false
 	end
@@ -171,14 +172,14 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Goooooo!!"
+	"Vaaaaaaai!!"
 	keyWait
 		any = false
 	end
 }
 script 13 mmbn4 {
 	msgOpen
-	"Guwohhhhhhh!"
+	"Uoooooogh!"
 	keyWait
 		any = false
 	end
@@ -192,14 +193,14 @@ script 14 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Did you really think
-	such an attack could
-	defeat us,the dark
+	Achou mesmo que um
+	ataque desses seria
+	capaz de derrotar
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"denizens?"
+	"um habitante da\nescuridão como eu?!"
 	keyWait
 		any = false
 	end
@@ -210,13 +211,13 @@ script 15 mmbn4 {
 	msgOpen
 	"""
 	Hmm?!
-	The SolarPile's
-	being repelled!
+	O Bate-Estacas está
+	sendo repelido!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"This is bad!"
+	"Ai,droga!"
 	keyWait
 		any = false
 	end
@@ -226,7 +227,8 @@ script 16 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Return to darkness,
+	Volte para a
+	escuridão,
 	ShadeMan!
 	"""
 	keyWait
@@ -237,7 +239,7 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = ShadeMan
 	msgOpen
-	"Gwah!!"
+	"Uagh!!"
 	keyWait
 		any = false
 	end
@@ -246,11 +248,11 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = Otenko
 	msgOpen
-	"He's recoiling!"
+	"Ele está cedendo!"
 	keyWait
 		any = false
 	clearMsg
-	"Now,Django!!"
+	"Agora,Django!!"
 	keyWait
 		any = false
 	clearMsg
@@ -269,19 +271,19 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = ShadeMan
 	msgOpen
-	"Guwohhhhhhhhhh!"
+	"Uooooorrrghhhh!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Forever will I arise
-	while there is dark-
-	ness in the world.
+	Enquanto houver
+	escuridão no mundo,
+	eu voltarei sempre!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Muwahahahahahaha⋯"
+	"Ua ha ha ha ha..."
 	keyWait
 		any = false
 	end
@@ -291,9 +293,9 @@ script 21 mmbn4 {
 		mugshot = Django
 	msgOpen
 	"""
-	We defeated the
-	Vampire thanks
-	to you,MegaMan!
+	Nós vencemos o
+	Vampiro graças a
+	você,MegaMan!
 	"""
 	keyWait
 		any = false
@@ -304,21 +306,21 @@ script 21 mmbn4 {
 script 22 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Don't mention it!"
+	"Imagina!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But ShadeMan said,
-	"Forever will I
+	Mas o ShadeMan disse
+	que "voltará
+	sempre"...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	arise".
-	I don't like the
-	sound of that.
+	Não gostei nada
+	daquilo.
 	"""
 	keyWait
 		any = false
@@ -330,29 +332,33 @@ script 23 mmbn4 {
 	mugshotShow
 		mugshot = Django
 	"""
-	Yeah,but SolarPile
-	did a number on him.
+	Sim,mas o Bate-
+	Estacas o danificou
+	pesadamente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now he can barely
-	use his dark power.
+	Agora,ele mal
+	consegue usar seus
+	poderes sombrios.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll defeat him a-
-	gain if he attacks!
+	Se ele atacar
+	de novo,nós o
+	derrotaremos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll keep fighting
-	while there's a Sun!
+	Vamos continuar
+	lutando... enquanto
+	houver um Sol!
 	"""
 	keyWait
 		any = false
@@ -363,7 +369,7 @@ script 23 mmbn4 {
 script 24 mmbn4 {
 	mugshotShow
 		mugshot = Otenko
-	"That's right!"
+	"É isso aí!"
 	keyWait
 		any = false
 	end
@@ -373,9 +379,9 @@ script 25 mmbn4 {
 		mugshot = Otenko
 	msgOpen
 	"""
-	Django,I sense
-	Immortals to
-	the South.
+	Django,estou
+	sentindo Imortais
+	ao Sul.
 	"""
 	keyWait
 		any = false
@@ -387,13 +393,14 @@ script 26 mmbn4 {
 	mugshotShow
 		mugshot = Django
 	"""
-	Well,MegaMan,we
-	should get going!
+	Bem,MegaMan,é
+	melhor nós irmos
+	andando!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"A new battle awaits!"
+	"Uma nova batalha\nnos espera!"
 	keyWait
 		any = false
 	clearMsg
@@ -403,7 +410,7 @@ script 26 mmbn4 {
 script 27 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"OK,let's meet again!"
+	"Tudo bem. Espero que\na gente se veja de\nnovo,um dia!"
 	keyWait
 		any = false
 	clearMsg
@@ -416,22 +423,22 @@ script 28 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = Django
-	"Yes,let's!"
+	"Com certeza vamos!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Use this if dark
-	denizens ever come
-	when we're not here.
+	Use isto caso
+	um habitante da
+	escuridão apareceça.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sure you'll find
-	it very useful in
-	battle.
+	Com certeza será
+	muito útil para
+	você em batalha.
 	"""
 	keyWait
 		any = false
@@ -472,7 +479,7 @@ script 30 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Thanks!"
+	"Obrigado!"
 	keyWait
 		any = false
 	clearMsg
@@ -483,29 +490,33 @@ script 31 mmbn4 {
 	mugshotShow
 		mugshot = Django
 	"""
-	You may once again
-	face dark denizens.
-	But you mustn't give
+	Você poderá enfren-
+	tar habitantes da
+	escuridão de novo,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"in to the darkness."
-	keyWait
-		any = false
-	clearMsg
-	"\"The Sun will rise\n tomorrow!\""
-	keyWait
-		any = false
-	clearMsg
 	"""
-	Remember that and
-	you will conquer
+	mas jamais se
+	renda às trevas.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"darkness! Goodbye!"
+	"\"O Sol vai nascer de\n novo amanhã!\""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	É só se lembrar
+	disso,que as trevas
+	jamais terão chance!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Adeus!"
 	keyWait
 		any = false
 	end
@@ -514,11 +525,11 @@ script 32 mmbn4 {
 	mugshotShow
 		mugshot = Otenko
 	msgOpen
-	"Farewell. May the"
+	"Até."
 	keyWait
 		any = false
 	clearMsg
-	"Sun be with you!"
+	"E que o Sol esteja\ncom você!"
 	keyWait
 		any = false
 	end
@@ -528,9 +539,9 @@ script 33 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I wanna see Django
-	and Master Otenko
-	again!
+	Espero poder ver o
+	Django e o Mestre
+	Otenko de novo!
 	"""
 	keyWait
 		any = false
@@ -542,8 +553,9 @@ script 34 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	We will if we don't
-	give in to darkness.
+	A gente vai,desde
+	que a gente não se
+	renda às trevas.
 	"""
 	keyWait
 		any = false
@@ -554,11 +566,11 @@ script 34 mmbn4 {
 script 35 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Yeah."
+	"É."
 	keyWait
 		any = false
 	clearMsg
-	"\"The Sun will rise\n tomorrow!\""
+	"\"O Sol vai nascer de\n novo amanhã!\""
 	keyWait
 		any = false
 	end
@@ -569,7 +581,7 @@ script 36 mmbn4 {
 		mugshot = Django
 	mugshotAnimation
 		animation = 2
-	"Right-O!"
+	"É isso aí!"
 	keyWait
 		any = false
 	clearMsg

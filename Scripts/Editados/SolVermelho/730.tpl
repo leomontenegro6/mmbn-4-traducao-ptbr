@@ -4,11 +4,11 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
 	msgOpen
-	"NormlNavi,deleted!"
+	"O NaviNorml foi\nderrotado!"
 	keyWait
 		any = false
 	clearMsg
-	"Lan wins!"
+	"Lan Hikari é o\nvencedor!"
 	keyWait
 		any = false
 	end
@@ -17,7 +17,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"We did it!"
+	"Aêê!"
 	keyWait
 		any = false
 	end
@@ -27,9 +27,9 @@ script 2 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	How's that!
-	This is the power
-	of a NetBattler!
+	Gostou?!
+	Esse é o poder de
+	um NetLutador!
 	"""
 	keyWait
 		any = false
@@ -40,20 +40,21 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
-	"It can't be true⋯"
+	"Não pode ser..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To lose here⋯
-	My dream⋯
+	Perder aqui...
+	O meu sonho...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My dream to bring
-	FootBomb back⋯
+	O meu sonho de
+	trazer o FuteBomba
+	de volta...
 	"""
 	keyWait
 		any = false
@@ -64,8 +65,8 @@ script 4 mmbn4 {
 		mugshot = ShadyGuy
 	msgOpen
 	"""
-	Why did I even
-	bother?
+	Nem sei por que eu
+	tentei...
 	"""
 	keyWait
 		any = false
@@ -76,7 +77,7 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Umm⋯"
+	"Er..."
 	keyWait
 		any = false
 	clearMsg
@@ -87,16 +88,16 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Let's leave them
-	alone.
+	Melhor deixar ele
+	em paz.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's really not
-	much a winner can
-	say to the loser.
+	Não tem muita coisa
+	pro vencedor falar
+	pro perdedor.
 	"""
 	keyWait
 		any = false
@@ -117,7 +118,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
 	msgOpen
-	"Huh? Who're you?!"
+	"Hã? Quem é você?!"
 	keyWait
 		any = false
 	clearMsg
@@ -128,17 +129,17 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = BusinessMan
 	"""
-	You may have lost,
-	but you put up an
-	impressive fight!
+	Você pode ter
+	perdido,mas lutou
+	com muita garra!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What was that you
-	were saying about
-	FootBomb earlier?
+	E o que você estava
+	falando sobre o
+	FuteBomba agora?
 	"""
 	keyWait
 		any = false
@@ -149,29 +150,30 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
-	"Uh,yeah!"
+	"Hã,é!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I joined this tour-
-	ney so that FootBomb
-	would go major.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I wanted to win and
-	use my victory to
-	promote it.
+	Eu entrei neste
+	torneio pra elevar
+	o FuteBomba.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But now look at me.
-	Laugh all you want.
+	Eu ia usar a minha
+	vitória pra promover
+	ele.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	E... este foi o
+	resultado.
+	Pode rir.
 	"""
 	keyWait
 		any = false
@@ -183,17 +185,17 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = BusinessMan
 	"""
-	I really like your
-	tough guy person-
-	ality! Actually,I
+	Gostei muito da sua
+	personalidade de
+	durão! Na verdade,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	work for a TV sta-
-	tion. How'd you like
-	to be on TV?
+	eu trabalho em uma
+	emissora. Gostaria
+	de ir pra TV?
 	"""
 	keyWait
 		any = false
@@ -204,7 +206,7 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
-	"Really? Me?!"
+	"Sério? Eu?!"
 	keyWait
 		any = false
 	clearMsg
@@ -215,32 +217,32 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = BusinessMan
 	"""
-	My station's doing
-	a show on Netopian
-	history.
+	O meu canal tem um
+	programa sobre a
+	história da Ameropa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've been looking
-	for someone to tell
-	the world about the
+	Eu estive atrás de
+	alguém pra contar a
+	história do
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	history of FootBomb,
-	but I've had no luck
-	yet.
+	FuteBomba ao mundo,
+	mas não dei sorte
+	até então.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I really need your
-	help!
+	Ou seja: eu preciso
+	muito da sua ajuda!
 	"""
 	keyWait
 		any = false
@@ -252,9 +254,9 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	All right! This'll
-	be great PR for
-	FootBomb!
+	Legal! Isso vai ser
+	ótimo pra fama do
+	FuteBomba!
 	"""
 	keyWait
 		any = false
@@ -265,8 +267,8 @@ script 15 mmbn4 {
 		mugshot = ShadyGuy
 	msgOpen
 	"""
-	Please,let me do
-	it!
+	Por favor,deixe isso
+	comigo!
 	"""
 	keyWait
 		any = false
@@ -277,13 +279,13 @@ script 15 mmbn4 {
 script 16 mmbn4 {
 	mugshotShow
 		mugshot = BusinessMan
-	"You'll do it? Great!"
+	"Você aceita?\nQue bom!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's get right down
-	to business,then!
+	Vamos direto ao
+	trabalho,então!
 	"""
 	keyWait
 		any = false
@@ -294,7 +296,7 @@ script 16 mmbn4 {
 script 17 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
-	"S-sure!"
+	"C-claro!"
 	keyWait
 		any = false
 	end
@@ -303,7 +305,7 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
 	msgOpen
-	"Hey!"
+	"Aí!"
 	keyWait
 		any = false
 	clearMsg
@@ -313,7 +315,7 @@ script 18 mmbn4 {
 script 19 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"What?"
+	"Que é?"
 	keyWait
 		any = false
 	clearMsg
@@ -333,7 +335,7 @@ script 20 mmbn4 {
 script 21 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Thanks!"
+	"Obrigado!"
 	keyWait
 		any = false
 	clearMsg
@@ -343,7 +345,7 @@ script 21 mmbn4 {
 script 22 mmbn4 {
 	mugshotShow
 		mugshot = BusinessMan
-	"Let's go."
+	"Vamos."
 	keyWait
 		any = false
 	end
@@ -352,7 +354,7 @@ script 23 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
 	msgOpen
-	"O-okay!"
+	"C-certo!"
 	keyWait
 		any = false
 	end
@@ -362,15 +364,14 @@ script 24 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	"Good luck",
-	he says!
+	"Boa sorte",
+	ele disse!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The nerve of that
-	guy!
+	Olha a ousadia!
 	"""
 	keyWait
 		any = false
@@ -382,9 +383,9 @@ script 25 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Hey,all's well that
-	ends well.
-	Isn't that right?
+	Bom,tudo está bem
+	quando acaba bem.
+	Né?
 	"""
 	keyWait
 		any = false
@@ -395,7 +396,7 @@ script 25 mmbn4 {
 script 26 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Well,yeah!"
+	"Bom... É!"
 	keyWait
 		any = false
 	end

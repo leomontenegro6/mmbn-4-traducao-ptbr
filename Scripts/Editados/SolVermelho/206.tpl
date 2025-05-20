@@ -260,8 +260,8 @@ script 4 mmbn4 {
 script 10 mmbn4 {
 	msgOpen
 	"""
-	"Documentos"
-	da Caixa do Higsby.
+	Caixa do Higsby:
+	"Documentos".
 	"""
 	keyWait
 		any = false
@@ -270,8 +270,9 @@ script 10 mmbn4 {
 script 11 mmbn4 {
 	msgOpen
 	"""
-	"Chips Não-Vendidos"
-	da Caixa do Higsby.
+	Caixa do Higsby:
+	"Chips
+	Não-Vendidos".
 	"""
 	keyWait
 		any = false
@@ -280,9 +281,9 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	msgOpen
 	"""
+	Caixa do Higsby:
 	"Dicas de Adminis-
-	 tração do Higsby"
-	da Caixa do Higsby
+	tração do Higsby".
 	"""
 	keyWait
 		any = false
@@ -291,8 +292,8 @@ script 12 mmbn4 {
 script 13 mmbn4 {
 	msgOpen
 	"""
-	"Lista de Clientes"
-	da Caixa do Higsby.
+	Caixa do Higsby:
+	"Lista de Clientes".
 	"""
 	keyWait
 		any = false
@@ -302,7 +303,7 @@ script 14 mmbn4 {
 	msgOpen
 	"""
 	Caixa do Higsby:
-	"Pedidos de Chips"
+	"Pedidos de Chips".
 	"""
 	keyWait
 		any = false
@@ -313,7 +314,7 @@ script 15 mmbn4 {
 	"""
 	Caixa do Higsby:
 	"Acessórios para
-	PETs"
+	PETs".
 	"""
 	keyWait
 		any = false
@@ -323,8 +324,8 @@ script 16 mmbn4 {
 	msgOpen
 	"""
 	Caixa do Higsby:
-	"Loja da Nanako,
-	 Diário Assistência
+	"Nanako,Diário
+	de Assistente".
 	"""
 	keyWait
 		any = false
@@ -335,7 +336,7 @@ script 17 mmbn4 {
 	"""
 	Caixa do Higsby:
 	"Chips Raros do
-	 Coração"
+	Coração".
 	"""
 	keyWait
 		any = false
@@ -345,7 +346,7 @@ script 18 mmbn4 {
 	msgOpen
 	"""
 	Caixa do Higsby:
-	"Chips em Estoque"
+	"Chips em Estoque".
 	"""
 	keyWait
 		any = false
@@ -356,7 +357,7 @@ script 19 mmbn4 {
 	"""
 	Caixa do Higsby:
 	"Álbum do Higsby
-	 e do NumberMan"
+	e do NumberMan".
 	"""
 	keyWait
 		any = false

@@ -5,8 +5,8 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It's full of
-	Mafia Navis⋯
+	Tá cheio de Navis
+	da Máfia...
 	"""
 	wait
 		frames = 120
@@ -15,9 +15,9 @@ script 0 mmbn4 {
 		timer = 1
 		value = 1
 	"""
-	We'll be in big
-	trouble if they
-	see us.
+	A gente vai estar
+	frito se virem a
+	gente.
 	"""
 	wait
 		frames = 120
@@ -33,9 +33,9 @@ script 1 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We'll have to just
-	sneak past when
-	they're not looking.
+	Vamos ter que passar
+	por eles quando não
+	estiverem olhando.
 	"""
 	wait
 		frames = 120
@@ -48,7 +48,7 @@ script 2 mmbn4 {
 		value = 3
 	mugshotHide
 	msgOpen
-	"Hey!"
+	"Ei!"
 	wait
 		frames = 120
 	clearMsg
@@ -69,29 +69,27 @@ script 4 mmbn4 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Respond!
-	Answer me!
-	Can you hear me?!
+	Responde!
+	Ei! Tá me ouvindo?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's me.
-	Is everything okay
-	over there?
+	Sou eu.
+	Tudo certo aí?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"All right⋯"
+	"Belê..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Okay,listen up.
-	We gotta dispose of
-	Crusher soon.
+	Ó,escuta: a gente
+	vai se livrar do
+	Crusher já,já.
 	"""
 	keyWait
 		any = false
@@ -103,7 +101,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"What?!"
+	"O quê?!"
 	keyWait
 		any = false
 	clearMsg
@@ -115,29 +113,29 @@ script 6 mmbn4 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Without Crusher,
-	Riki's just another
-	coward.
+	Sem o Crusher,o Riki
+	não passa de um
+	covardão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That way he'll never
-	be our boss.
+	Ele nunca vai poder
+	virar o nosso chefe
+	desse jeito.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then we get rid of
-	the old lady,and
-	we can take over.
+	Aí a gente se livra
+	da velhota e assume.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hehehe."
+	"He he he."
 	keyWait
 		any = false
 	end
@@ -147,9 +145,9 @@ script 7 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Oh no!
-	We'd better hurry up
-	and rescue Crusher!
+	Essa não! Vamos
+	logo,temos que
+	salvar o Crusher!
 	"""
 	keyWait
 		any = false

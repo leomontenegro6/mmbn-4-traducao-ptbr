@@ -5,8 +5,8 @@ script 0 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	This is the room!
-	Go inside!
+	É este o salão!
+	Entre!
 	"""
 	keyWait
 		any = false
@@ -17,8 +17,8 @@ script 1 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,you can't go in
-	without permission!
+	Lan,não pode entrar
+	aí sem permissão!
 	"""
 	keyWait
 		any = false
@@ -43,9 +43,9 @@ script 2 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	You're the world
-	champ? Please,hurry
-	inside!
+	Você que é o campeão
+	mundial? Por favor,
+	entre logo!
 	"""
 	keyWait
 		any = false
@@ -56,13 +56,12 @@ script 3 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	The Net's been
-	divided up?
+	A Rede foi separada?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"This isn't good⋯"
+	"Isso não é nada\nbom..."
 	keyWait
 		any = false
 	end
@@ -86,22 +85,24 @@ script 4 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Welcome to NAXA. You
-	must be Lan,right?
+	Bem-vindo à NAXA.
+	Você deve ser Lan
+	Hikari,não?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please hurry up the
-	stairs and into the
+	Por favor,suba logo
+	as escadas e entre
+	no salão no final.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	back room. Everyone
-	is waiting for you.
+	Estão todos
+	esperando por você.
 	"""
 	keyWait
 		any = false
@@ -112,17 +113,17 @@ script 5 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	The person who di-
-	vided up the Net is
-	still at large. If
+	A pessoa que dividiu
+	a Rede ainda está à
+	solta. Se ela não
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	he isn't caught,who
-	knows what will
-	happen next?
+	for pega,vai saber
+	o que ela vai fazer
+	a seguir?!
 	"""
 	keyWait
 		any = false
@@ -133,8 +134,9 @@ script 6 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	I hear some kind of
-	crisis is going on⋯
+	Parece que está
+	havendo algum tipo
+	de crise...
 	"""
 	keyWait
 		any = false
@@ -145,8 +147,9 @@ script 7 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	We can now receive
-	data from Sharo!
+	Agora podemos
+	receber dados de
+	Sharo!
 	"""
 	keyWait
 		any = false
@@ -163,24 +166,25 @@ script 40 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	You must be Lan! Dr.
-	Hikari and the
-	others are on the
+	Você é o Lan? O Dr.
+	Hikari e os outros
+	estão no telhado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	roof. Go up the
-	stairs,then take the
-	elevator. Oh yes,Dr.
+	Para chegar lá,
+	suba as escadas e
+	pegue o elevador.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hikari asked me to
-	give this to you.
+	Ah,e o Dr. Hikari me
+	pediu para te dar
+	isto.
 	"""
 	keyWait
 		any = false
@@ -206,7 +210,7 @@ script 40 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = Man
-	"Now hurry along!"
+	"Agora apresse-se!"
 	keyWait
 		any = false
 	end
@@ -216,9 +220,9 @@ script 41 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	I have a bad
-	feeling.
-	You'd best hurry!
+	Estou com um mau
+	pressentimento. É
+	melhor se apressar!
 	"""
 	keyWait
 		any = false
@@ -229,16 +233,17 @@ script 42 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Our plan is about to
-	be put into effect.
+	O nosso plano está
+	prestes a ser
+	executado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We can't afford to
-	just stand around
-	doing nothing!
+	Não podemos ficar
+	parados sem fazer
+	nada!
 	"""
 	keyWait
 		any = false

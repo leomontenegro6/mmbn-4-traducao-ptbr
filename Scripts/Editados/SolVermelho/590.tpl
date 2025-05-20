@@ -5,8 +5,8 @@ script 0 mmbn4 {
 		mugshot = Tensuke
 	msgOpen
 	"""
-	Here I go,Kosuke!
-	Watch this!
+	Aqui vou eu,Kosuke!
+	Veja com atenção!
 	"""
 	keyWait
 		any = false
@@ -29,7 +29,7 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = Tensuke
-	"Whoa!"
+	"Ha!"
 	keyWait
 		any = false
 	end
@@ -39,8 +39,8 @@ script 3 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It's a top,Lan.
-	How unique.
+	É um pião,né,Lan?
+	E um bem diferente.
 	"""
 	keyWait
 		any = false
@@ -52,14 +52,14 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"You got that right."
+	"Pode crer."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mom and Dad used to
-	play with tops a lot
-	when they were kids.
+	Os nossos pais brin-
+	cavam muito disso
+	quando crianças.
 	"""
 	keyWait
 		any = false
@@ -71,9 +71,9 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Tensuke
 	"""
-	How do you like
-	grandpa's special
-	CyberTop,Kosuke?!
+	E aí,Kosuke,o que
+	achou do CybrPião
+	especial do seu avô?
 	"""
 	keyWait
 		any = false
@@ -86,10 +86,10 @@ script 6 mmbn4 {
 		mugshot = Kosuke
 	mugshotAnimation
 		animation = 1
-	"⋯⋯\n"
+	"......\n"
 	mugshotAnimation
 		animation = 2
-	"How boring."
+	"Que tosco."
 	keyWait
 		any = false
 	clearMsg
@@ -113,8 +113,9 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Kosuke
 	"""
-	Tops are boring!
-	They just spin!
+	Piões são chatos!
+	Eles só ficam
+	girando!
 	"""
 	keyWait
 		any = false
@@ -125,7 +126,7 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotShow
 		mugshot = Tensuke
-	"Kosuke⋯"
+	"Kosuke..."
 	keyWait
 		any = false
 	clearMsg
@@ -136,9 +137,9 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Kosuke
 	"""
-	Grandpa,I'm sick
-	and tired of all the
-	tops all the time!
+	Vovô,eu tô cheio de
+	todos esses piões o
+	tempo todo!
 	"""
 	keyWait
 		any = false
@@ -148,7 +149,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Tensuke
 	msgOpen
-	"Humph."
+	"Humpf."
 	keyWait
 		any = false
 	end
@@ -157,7 +158,7 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Whoa!"
+	"Eita!"
 	keyWait
 		any = false
 	clearMsg
@@ -170,8 +171,8 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = Tensuke
 	"""
-	Huh?!
-	What's this?!
+	Hã?!
+	O que é isso?!
 	"""
 	keyWait
 		any = false
@@ -184,22 +185,22 @@ script 14 mmbn4 {
 		mugshot = MegaMan
 	"""
 	Lan!!!
-	This is the work of
-	a virus!
+	Isso aí é obra de um
+	vírus!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Tensuke
-	"A virus?!"
+	"Um vírus?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Argh! This is the
-	worst mistake
-	of my whole life!
+	Argh! Esse foi o
+	maior erro da minha
+	vida!
 	"""
 	keyWait
 		any = false
@@ -218,7 +219,7 @@ script 15 mmbn4 {
 		mugshot = Lan
 	"""
 	Ah!
-	Let's go,MegaMan!
+	Vamos lá,MegaMan!
 	"""
 	keyWait
 		any = false

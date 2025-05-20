@@ -10,9 +10,9 @@ script 0 mmbn4 {
 	color
 		palette = 1
 	"""
-	One week after being
-	invited to the Red
-	Sun Tournament⋯
+	Uma semana após ser
+	convidado ao Torneio
+	Sol Vermelho...
 	"""
 	keyWait
 		any = false
@@ -21,9 +21,9 @@ script 0 mmbn4 {
 		width = 19
 		height = 3
 	"""
-	Mom has given her
-	permission and Lan
-	is ready to depart⋯
+	Lan recebeu permis-
+	são da mãe e estava
+	pronto para partir.
 	"""
 	keyWait
 		any = false
@@ -37,17 +37,16 @@ script 1 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,I've been
-	looking forward to
-	today so much!
+	Eu tava tão ansioso
+	pra hoje,MegaMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yup,Red Sun
-	Tournament will
-	start at last!!
+	O Torneio Sol
+	Vermelho finalmente
+	vai começar!!
 	"""
 	keyWait
 		any = false
@@ -59,21 +58,21 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	But relax,or you'll
-	be exhausted when we
-	get to Netopia.
+	Mas relaxa,ou estará
+	exausto quando che-
+	garmos na Ameropa.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ready to leave?"
+	"E aí,pronto pra ir?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We should try to get
-	to the airport a
-	little early!
+	É melhor a gente
+	chegar cedo no
+	aeroporto!
 	"""
 	keyWait
 		any = false
@@ -85,13 +84,13 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Let's go! Netopia,
-	here we come!!
+	Vamos lá! Ameropa,
+	tamos chegando!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's hit the road!"
+	"Pé na estrada!"
 	keyWait
 		any = false
 	end
@@ -103,9 +102,9 @@ script 4 mmbn4 {
 	color
 		palette = 1
 	"""
-	One week after being
-	invited to the Blue
-	Moon Tournament⋯
+	Uma semana após ser
+	convidado ao Torneio
+	Lua Azul...
 	"""
 	keyWait
 		any = false
@@ -114,9 +113,9 @@ script 4 mmbn4 {
 		width = 19
 		height = 3
 	"""
-	Mom has given her
-	permission and Lan
-	is ready to depart⋯
+	Lan recebeu permis-
+	são da mãe e estava
+	pronto para partir.
 	"""
 	keyWait
 		any = false
@@ -127,17 +126,16 @@ script 5 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,I've been
-	looking forward to
-	today so much!
+	Eu tava tão ansioso
+	pra hoje,MegaMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yup,Blue Moon
-	Tournament will
-	start at last!!
+	O Torneio Lua
+	Azul finalmente
+	vai começar!!
 	"""
 	keyWait
 		any = false

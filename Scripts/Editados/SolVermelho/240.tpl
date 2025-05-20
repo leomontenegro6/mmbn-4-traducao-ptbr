@@ -23,23 +23,24 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	......
-	Look what happened
-	to my lovely Glide!
+	...... Olha só o que
+	aconteceu com o meu
+	querido Glide!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That Black Navi!
-	I'll get him!!
+	Ai,aquele Navi
+	Roxo! Ele vai se
+	ver comigo!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I hope Roll
-	is okay⋯
+	Mas tomara que a
+	Roll esteja bem...
 	"""
 	keyWait
 		any = false
@@ -50,15 +51,16 @@ script 1 mmbn4 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Do you know where
-	Roll is?
+	Sabe onde a Roll
+	está?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan! Roll is
-	in your hands!
+	Lan! O destino da
+	Roll tá nas suas
+	mãos!
 	"""
 	keyWait
 		any = false
@@ -69,17 +71,17 @@ script 2 mmbn4 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Lan!
-	Please,find Roll
-	and save her!
+	Lan! Por favor,
+	encontra a Roll e
+	salva ela!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Glide and GutsMan
-	are hurt. You're
-	the only hope!
+	O Glide e o GutsMan
+	estão feridos. Está
+	nas suas mãos!
 	"""
 	keyWait
 		any = false
@@ -89,13 +91,14 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"Oh,it's Lan!"
+	"Ah,oi,Lan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You should jack
-	into the Net,too.
+	Você devia se
+	conectar logo na
+	Rede,também.
 	"""
 	keyWait
 		any = false
@@ -106,39 +109,39 @@ script 5 mmbn4 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Did Roll make
-	it back safely?
+	A Roll voltou em
+	segurança?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Did you get that
-	Black Navi?
+	E você surrou aquele
+	Navi Roxo?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"He got away?!"
+	"Ele fugiu?!"
 	keyWait
 		any = false
 	clearMsg
-	"No!"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	So that dangerous
-	thing is still on
-	the loose?!
-	"""
+	"Essa não!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That means we can't
-	let our guard down
-	on the net.
+	Então aquela coisa
+	perigosa ainda tá à
+	solta?!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	É,vamos ter que
+	ficar espertos na
+	Rede...
 	"""
 	keyWait
 		any = false
@@ -162,21 +165,22 @@ script 10 mmbn4 {
 		mugshot = Yai
 	msgOpen
 	"""
-	They're going to
-	hold a Den Battle
-	Tournament.
+	Estão organizando um
+	tal Torneio de
+	Batalha Den.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It'll determine
-	who's best here⋯
+	É pra determinar
+	quem é o melhor
+	NetLutador daqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"But it's tiny."
+	"mas é tão\npequenininho."
 	keyWait
 		any = false
 	end
@@ -186,21 +190,22 @@ script 11 mmbn4 {
 		mugshot = Yai
 	msgOpen
 	"""
-	They're going to
-	hold a City
-	Battle Tournament.
+	Estão organizando um
+	tal Torneio de
+	Batalha da Cidade.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It'll determine
-	who's best here⋯
+	É pra determinar
+	quem é o melhor
+	NetLutador daqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"But it's tiny."
+	"mas é tão\npequenininho."
 	keyWait
 		any = false
 	end
@@ -226,28 +231,29 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"Hmm⋯"
+	"Hmm..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're entering the
-	preliminary?
-	Well,good luck!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I'd win for sure
-	if I entered,but
+	Você vai competir
+	nas preliminares?
+	Bom,boa sorte!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've decided to
-	sit out this time.
+	Com certeza eu
+	venceria se me
+	inscrevesse,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	mas resolvi ficar de
+	fora desta vez.
 	"""
 	keyWait
 		any = false
@@ -258,14 +264,14 @@ script 16 mmbn4 {
 		mugshot = Yai
 	msgOpen
 	"""
-	L-L-Lan⋯
-	T-There's a b-bug
-	in my room⋯!
+	L-L-Lan...
+	T-tem um inseto no
+	meu quarto...!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"DO SOMETHING!"
+	"FAZ ALGUMA COISA!"
 	keyWait
 		any = false
 	end
@@ -275,8 +281,8 @@ script 17 mmbn4 {
 		mugshot = Yai
 	msgOpen
 	"""
-	D-did you get it?
-	Just take it away!
+	P-pegou ele?
+	Tira logo ele daqui!
 	"""
 	keyWait
 		any = false
@@ -287,15 +293,14 @@ script 18 mmbn4 {
 		mugshot = Yai
 	msgOpen
 	"""
-	I just can't
-	stand bugs.
+	Eu não suporto
+	insetos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I get freaked out
-	just remembering!
+	Surto só de lembrar!
 	"""
 	keyWait
 		any = false
@@ -319,24 +324,29 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
+	"Hmm..."
+	keyWait
+		any = false
+	clearMsg
 	"""
-	You're entering the
-	preliminary?
-	Well,good luck!
+	Você vai competir
+	nas preliminares?
+	Bom,boa sorte!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd win for sure
-	if I entered,but
+	Com certeza eu
+	venceria se me
+	inscrevesse,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've decided to
-	sit out this time.
+	mas resolvi ficar de
+	fora desta vez.
 	"""
 	keyWait
 		any = false
@@ -346,20 +356,21 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"Wow! You won?"
+	"Uau! Você venceu?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't want you
-	getting hurt,OK?
+	Bom,não vai se
+	machucar,viu?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll just sit back
-	and watch you!
+	Vou ficar assistindo
+	e torcendo por
+	vocês!
 	"""
 	keyWait
 		any = false
@@ -380,16 +391,17 @@ script 25 mmbn4 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Next stop,Round 1!
-	Good luck!
+	Próxima parada:
+	primeira rodada!
+	Boa sorte!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll be watching
-	the broadcast on
-	my PET.
+	Vou assistir à
+	transmissão do meu
+	PET.
 	"""
 	keyWait
 		any = false
@@ -400,17 +412,16 @@ script 30 mmbn4 {
 		mugshot = Yai
 	msgOpen
 	"""
-	You're doing great!
-	For someone as good
-	as you,
+	Você tá arrasando!
+	Pra um lutador bom
+	como você,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the tournament
-	should be an easy
-	win!
+	esse torneio vai ser
+	mamão com açúcar!
 	"""
 	keyWait
 		any = false
@@ -421,13 +432,13 @@ script 35 mmbn4 {
 		mugshot = Yai
 	msgOpen
 	"""
-	I knew you'd make
-	it to the finals!
+	Eu sabia que você
+	chegaria às finais!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I just knew it!"
+	"Sa-bi-a!"
 	keyWait
 		any = false
 	end

@@ -4,31 +4,30 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"COME ON IN! JOMONEL-"
+	"BEM-VINDO! A JOMON\nELETRÔNICOS FORNECE\nMERCADORIAS DE ALTA"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	EC OFFERS TOP-QUALI-
-	TY MERCHANDISE AT
-	REASONABLE PRICES!!
+	QUALIDADE POR
+	PRECINHOS CAMADARAS!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"・"
+	"."
 	waitSkip
 		frames = 20
-	"・"
+	"."
 	waitSkip
 		frames = 20
-	"・"
+	". "
 	waitSkip
 		frames = 20
 	"""
-	WHEW.
-	THIS IS ALL I DO.
-	THE NEW GUY IS HARD!
+	UFA.
+	É SÓ ISSO QUE FAÇO.
+	SER NOVATO É DUREZA!
 	"""
 	keyWait
 		any = false
@@ -39,8 +38,9 @@ script 21 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	LOUDER! YOU HAVE TO
-	ATTRACT CUSTOMERS!
+	MAIS ALTO! É PRA
+	ATRAIR OS CLIENTES,
+	NÃO ENTEDIAR ELES!
 	"""
 	keyWait
 		any = false
