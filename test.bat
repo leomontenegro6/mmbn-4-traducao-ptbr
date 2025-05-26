@@ -2,7 +2,7 @@
 
 :: Lendo variáveis de ambiente no .env
 FOR /F "eol=# tokens=*" %%i IN (%~dp0.env) DO SET %%i
-SET CURRENTDIR="%cd%"
+SET CURRENTDIR=%cd%
 
 set version=Sol Vermelho
 IF "%1" == "la" SET version=Lua Azul
