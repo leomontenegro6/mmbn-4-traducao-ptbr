@@ -32,11 +32,11 @@ logo_tela_titulo:
     .align
 
 nomes_tela_titulo1:
-    .incbin "Graficos/Recomprimidos/Nomes tela-titulo 1 sol vermelho.gba"
+    .incbin "Graficos/Recomprimidos/Nomes tela-titulo 1.gba"
     .align
 
 nomes_tela_titulo2:
-    .incbin "Graficos/Recomprimidos/Nomes tela-titulo 2 sol vermelho.gba"
+    .incbin "Graficos/Recomprimidos/Nomes tela-titulo 2.gba"
     .align
 
 .close
