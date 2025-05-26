@@ -1,0 +1,3 @@
+- Mesclar scripts de ambas as versões, mantendo separados apenas os que estão diferentes
+- Editar fonte de diálogos, para negritar o ponto final
+- Editar menu exibido ao apertar Start

@@ -19,6 +19,9 @@ copy ".\Graficos\Editados\Nomes tela-titulo 1.gba" ".\Graficos\Recomprimidos\"
 del ".\Graficos\Recomprimidos\Nomes tela-titulo 2.gba"
 copy ".\Graficos\Editados\Nomes tela-titulo 2.gba" ".\Graficos\Recomprimidos\"
 .\Ferramentas\lzss.exe -evn ".\Graficos\Recomprimidos\Nomes tela-titulo 2.gba"
+del ".\Graficos\Recomprimidos\Nomes tela-titulo 3.gba"
+copy ".\Graficos\Editados\Nomes tela-titulo 3.gba" ".\Graficos\Recomprimidos\"
+.\Ferramentas\lzss.exe -evn ".\Graficos\Recomprimidos\Nomes tela-titulo 3.gba"
 
 ::echo Graficos de backgrounds
 ::cd ".\Ferramentas\bg-graphic-unpacker\"

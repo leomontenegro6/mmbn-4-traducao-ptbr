@@ -4,11 +4,15 @@
 .open "Mega Man Battle Network 4 - Lua Azul (BR).gba", 0x08000000
 
 ; Gráficos descomprimidos, em seus respectivos offsets.
-; Fonte dos textos acentuada (sem VWF, usada em alguns menus)
+; Fontes dos textos acentuadas (sem VWF)
 .org 0x08694D44
     .incbin "Graficos/Editados/Fonte textos.gba"
 .org 0x086C7744
     .incbin "Graficos/Editados/Fonte textos sombra.gba"
+
+; Fonte grande negritada, usadas em diversos menus e telas.
+.org 0x0868DD44
+    .incbin "Graficos/Editados/Fonte grande.gba"
 
 ; Nome "Licenciado pela Nintendo", antes da tela-título.
 .org 0x086AD704
@@ -18,10 +22,12 @@
 ; Catalogando ponteiros dos gráficos.
 .org 0x08025960
     .dw logo_tela_titulo
-.org 0x0802597c
+.org 0x08025950
     .dw nomes_tela_titulo1
-.org 0x08025980
+.org 0x0802597c
     .dw nomes_tela_titulo2
+.org 0x08025980
+    .dw nomes_tela_titulo3
 
 ; Inserindo gráficos no final da rom
 .orga filesize("Mega Man Battle Network 4 - Lua Azul (BR).gba")
@@ -37,6 +43,10 @@ nomes_tela_titulo1:
 
 nomes_tela_titulo2:
     .incbin "Graficos/Recomprimidos/Nomes tela-titulo 2.gba"
+    .align
+
+nomes_tela_titulo3:
+    .incbin "Graficos/Recomprimidos/Nomes tela-titulo 3.gba"
     .align
 
 .close

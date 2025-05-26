@@ -209,7 +209,7 @@ script 20 mmbn4s {
 	end
 }
 script 21 mmbn4s {
-	"PRESS START"
+	"Aperte★♥♦♣t"
 	end
 }
 script 22 mmbn4 {
