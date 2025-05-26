@@ -10,6 +10,10 @@
 .org 0x086C7744
     .incbin "Graficos/Editados/Fonte textos sombra.gba"
 
+; Nome "Licenciado pela Nintendo", antes da tela-título.
+.org 0x086AD704
+    .incbin "Graficos/Editados/Licenciado pela Nintendo.gba"
+
 ; Gráficos inseridos no final da rom, em sua maioria comprimidos.
 ; Catalogando ponteiros dos gráficos.
 .org 0x08025960

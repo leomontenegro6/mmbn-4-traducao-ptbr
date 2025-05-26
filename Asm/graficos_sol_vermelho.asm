@@ -10,6 +10,10 @@
 .org 0x086C7C50
     .incbin "Graficos/Editados/Fonte textos sombra.gba"
 
+; Nome "Licenciado pela Nintendo", antes da tela-título.
+.org 0x086ADBC0
+    .incbin "Graficos/Editados/Licenciado pela Nintendo.gba"
+
 ; Editando tilemap da tela-título
 .org 0x087F3EB4
     .incbin "Graficos/Editados/Logo tela-titulo sol vermelho (tm).gba"

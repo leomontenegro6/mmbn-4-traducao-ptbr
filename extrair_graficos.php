@@ -2,6 +2,7 @@
 $graficos = [
     (object)['nome' => 'Fonte textos', 'offset' => '0x694F5C', 'tiles' => '1x1323'],
     (object)['nome' => 'Fonte textos sombra', 'offset' => '0x6C7C50', 'tiles' => '16x20'],
+    (object)['nome' => 'Licenciado pela Nintendo', 'offset' => '0x6ADBC0', 'tiles' => '1x14'],
 ];
 
 foreach($graficos as $g) {
