@@ -1,3 +1,4 @@
-- Mesclar scripts de ambas as versões, mantendo separados apenas os que estão diferentes
+- Rodar script para busca de textos em inglês
+- Rodar script de spellchecking
 - Editar fonte de diálogos, para negritar o ponto final
 - Editar menu exibido ao apertar Start

@@ -6,3 +6,7 @@
 /*.sa2
 /*.zip
 .env
+/Scripts/*.tpl
+executar_languagetool.bat
+Revisao
+vendor
