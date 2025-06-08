@@ -1,4 +1,5 @@
 - Rodar script para busca de textos em inglês
 - Rodar script de spellchecking
-- Editar fonte de diálogos, para negritar o ponto final
 - Editar menu exibido ao apertar Start
+- Gráficos de cenários pra editar:
+  - PC do LAN: "Welcome" debaixo da plataforma
