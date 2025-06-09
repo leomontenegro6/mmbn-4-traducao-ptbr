@@ -7,9 +7,9 @@ script 0 mmbn4 {
 	color
 		palette = 1
 	"""
-	As MegaMan fought
-	for his life,NAXA
-	told the world about
+	Enquanto MegaMan
+	lutava por sua vida,
+	a NAXA informou ao
 	"""
 	keyWait
 		any = false
@@ -18,9 +18,9 @@ script 0 mmbn4 {
 		width = 19
 		height = 3
 	"""
-	the incoming aste-
-	roid and MegaMan's
-	heroic effort.
+	mundo sobre o aste-
+	roide e as ações
+	heróicas do Navi.
 	"""
 	keyWait
 		any = false
@@ -29,19 +29,20 @@ script 0 mmbn4 {
 		width = 19
 		height = 3
 	"""
-	With only 1 hour to
-	impact,the sudden
-	announcement caused
+	Faltando somente
+	uma hora para o
+	impacto,o anúncio
 	"""
 	keyWait
 		any = false
 	clearMsg
 	positionTextCenter
-		width = 11
+		width = 10
 		height = 2
 	"""
-	mass panic.
-	・・・・・・
+	repentino causou
+	pânico geral.
+	......
 	"""
 	keyWait
 		any = false
@@ -52,9 +53,9 @@ script 1 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Oh no!
-	That asteroid's
-	gonna kill us all!
+	Não!
+	O asteroide vai
+	matar a gente!
 	"""
 	keyWait
 		any = false
@@ -66,20 +67,14 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Man
 	"""
-	This place isn't
-	gonna protect us
+	Este lugar não vai
+	nos proteger de uma
+	queda de asteroide.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"""
-	from an asteroid
-	strike.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"We're history."
+	"Vamos morrer..."
 	keyWait
 		any = false
 	end
@@ -89,17 +84,17 @@ script 3 mmbn4 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	MegaMan's giving it
-	his best shot,but
-	what can 1 Navi do?
+	O MegaMan está lutan-
+	do,mas o que só um
+	Navi pode fazer?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Had I known about
-	this,I'd have mar-
-	ried long ago.
+	Se eu soubesse
+	disso,teria me
+	casado faz tempo.
 	"""
 	keyWait
 		any = false
@@ -112,9 +107,9 @@ script 4 mmbn4 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	This is terrible.
-	What're the
-	Officials doing?!
+	Que horror.
+	O que os Oficiais
+	estão fazendo?!
 	"""
 	keyWait
 		any = false
@@ -126,7 +121,7 @@ script 5 mmbn4 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	clearMsg
@@ -138,16 +133,17 @@ script 6 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	All you think about
-	are yourselves!
+	Vocês todos só
+	pensam em vocês
+	mesmos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	At this very moment,
-	MegaMan's out there
-	risking his life!
+	Agora mesmo,o
+	MegaMan tá lá,
+	arriscando a vida!
 	"""
 	keyWait
 		any = false
@@ -158,9 +154,9 @@ script 7 mmbn4 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Well,it's not like
-	we could do anything
-	about it⋯
+	Bom,não é como se
+	pudéssemos fazer
+	algo a respeito...
 	"""
 	keyWait
 		any = false
@@ -172,15 +168,16 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Man
 	"""
-	All we can do is
-	sit here and wait
+	Só o que podemos
+	fazer é ficar aqui
+	e esperar pela
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	for the asteroid
-	to strike!
+	chegada do
+	asteroide!
 	"""
 	keyWait
 		any = false
@@ -192,15 +189,16 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = YoungWoman
 	"""
-	MegaMan's just
-	some kid's Navi.
+	O MegaMan é só o
+	Navi de uma criança
+	qualquer.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What're the chances
-	of him helping us?
+	Quais são as chances
+	de ele nos salvar?
 	"""
 	keyWait
 		any = false
@@ -211,9 +209,9 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotHide
 	"""
-	We're most likely
-	doomed,but we can't
-	give up hope.
+	O nosso fim é prová-
+	vel,mas não podemos
+	perder a esperança.
 	"""
 	keyWait
 		any = false
@@ -223,7 +221,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Miss Sal!"
+	"Srta. Sal!"
 	keyWait
 		any = false
 	end
@@ -233,38 +231,39 @@ script 12 mmbn4 {
 		mugshot = Sal
 	msgOpen
 	"""
-	MegaMan's struggling
-	for his life inside
-	the asteroid.
+	O MegaMan está ar-
+	riscando a vida den-
+	tro do asteroide.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yet you guys have
-	given up all hope?
+	E,mesmo assim,vocês
+	optam por perder as
+	esperanças?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nothing good comes
-	of despair.
+	O desespero não leva
+	a nada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We mustn't give up
-	hope while MegaMan's
-	still fighting back.
+	Não podemos nos dar
+	por vencidos enquan-
+	to ele está lutando.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Isn't there some-
-	thing we can do?
+	Não há nada que
+	nós possamos fazer?
 	"""
 	keyWait
 		any = false
@@ -276,8 +275,9 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = Yai
 	"""
-	Yeah,we gotta help
-	MegaMan somehow!!
+	É,a gente tem que
+	achar um jeito de
+	ajudar o MegaMan!!
 	"""
 	keyWait
 		any = false
@@ -287,7 +287,7 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = Sal
 	msgOpen
-	"Heh,heh. Good idea."
+	"Hi hi.\nSim,excelente ideia."
 	keyWait
 		any = false
 	end
@@ -297,14 +297,18 @@ script 15 mmbn4 {
 		mugshot = Sal
 	msgOpen
 	"""
-	Even if our voices
-	don't reach MegaMan,
-	he might sense our
+	Mesmo que as nossas
+	vozes não possam
+	alcançar o MegaMan,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"support,somehow."
+	"""
+	talvez,de algum jei-
+	to,ele consiga sen-
+	tir o nosso apoio.
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -318,7 +322,7 @@ script 16 mmbn4 {
 		mugshot = Dex
 	mugshotAnimation
 		animation = 1
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	clearMsg
@@ -329,7 +333,7 @@ script 16 mmbn4 {
 		animation = 2
 	"""
 	ME-GA-MAN!!
-	GO FOR IT!!
+	VAI NESSA!!
 	"""
 	keyWait
 		any = false
@@ -345,7 +349,7 @@ script 17 mmbn4 {
 		value = 20
 	"""
 	MEGAMAN!!
-	YOU-CAN-DO-IT!
+	VOCÊ CONSEGUE!
 	"""
 	keyWait
 		any = false
@@ -368,7 +372,7 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = Sal
 	msgOpen
-	"Heh heh heh."
+	"... Hi."
 	keyWait
 		any = false
 	end
@@ -377,21 +381,25 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = Sal
 	msgOpen
-	"What're you guys"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	gonna do? I'm gonna
-	root for MegaMan.
+	E então,o que VOCÊS
+	vão fazer?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's the only
-	one who can
-	save our planet.
+	Porque eu vou
+	torcer com tudo
+	pelo MegaMan.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Ele é o único que
+	pode salvar o
+	nosso planeta.
 	"""
 	keyWait
 		any = false
@@ -437,7 +445,7 @@ script 23 mmbn4 {
 	storeTimer
 		timer = 0
 		value = 31
-	"YOU-CAN-DO-IT!"
+	"VAAAII!"
 	keyWait
 		any = false
 	clearMsg
@@ -450,7 +458,7 @@ script 24 mmbn4 {
 	storeTimer
 		timer = 0
 		value = 32
-	"DON'T-GIVE-UUUUUUP!!"
+	"NÃO DESIIIISTEEEE!!"
 	keyWait
 		any = false
 	clearMsg

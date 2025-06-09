@@ -255,8 +255,8 @@ script 10 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	We're all sold out.
-	Thank you so much!
+	Está tudo esgotado.
+	Muito obrigado!
 	"""
 	keyWait
 		any = false

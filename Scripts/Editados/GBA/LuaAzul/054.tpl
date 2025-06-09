@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	DublSoul requires
-	the sacrifice of a
-	compatible chip.
+	A DuplAlma requer
+	o sacrifício de um
+	chip compatível.
 	"""
 	keyWait
 		any = false
@@ -19,8 +19,8 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Sacrifice? Does that
-	mean you lose it?
+	Sacrifício?
+	Então eu perco ele?
 	"""
 	keyWait
 		any = false
@@ -32,25 +32,25 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Dad
 	"""
-	Correct. Right now,
-	MegaMan can unite
-	with AquaSoul.
+	Exato. Agora,o
+	MegaMan pode se
+	unir à AlmaAqua.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So,by sacrificing an
-	[bracket1]Aqua[bracket2] chip,he can
-	use DublSoul.
+	Logo,ao sacrificar
+	um chip de Água,ele
+	ativa a DuplAlma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here's how to do it.
-	First,select an
-	[bracket1]Aqua[bracket2] chip.
+	Vou mostrar como se
+	faz. Selecione um
+	chip de Água.
 	"""
 	keyWait
 		any = false
@@ -61,8 +61,8 @@ script 3 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Next,select the
-	Unite command.
+	Agora,selecione
+	o comando "Unir".
 	"""
 	keyWait
 		any = false
@@ -72,7 +72,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"Try it,Lan."
+	"Experimenta,Lan."
 	keyWait
 		any = false
 	end
@@ -82,8 +82,9 @@ script 5 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Let's practice by
-	selecting "Bubbler".
+	Só para praticar,
+	selecione o
+	"Bubbler".
 	"""
 	keyWait
 		any = false
@@ -94,9 +95,9 @@ script 6 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	No,select "Bubbler".
-	Cancel,and then
-	select again.
+	Não,selecione o
+	"Bubbler". Cancele
+	e tente de novo.
 	"""
 	keyWait
 		any = false
@@ -107,8 +108,9 @@ script 7 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Lan,you forgot the
-	Unite command.
+	Lan,você esqueceu
+	de usar o comando
+	"Unir".
 	"""
 	keyWait
 		any = false
@@ -119,8 +121,8 @@ script 8 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Lan,there's no need
-	to cancel.
+	Lan,não precisa
+	cancelar.
 	"""
 	keyWait
 		any = false
@@ -131,8 +133,8 @@ script 9 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	No need to run away.
-	Let's continue.
+	Não precisa fugir.
+	Vamos seguir.
 	"""
 	keyWait
 		any = false
@@ -143,39 +145,39 @@ script 10 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	See? That's how a
-	DublChip is made.
-	Selecting OK will
+	Viu? É assim que se
+	faz uma DuplAlma.
+	Apertar "OK" agora
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	now automatically
-	activate DublSoul.
-	AquaSoul has x2 Atk
+	ativará a DuplAlma
+	automaticamente. A
+	AlmaAqua tem ataque
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	when using a PwrAtk
-	with an [bracket1]Aqua[bracket2] chip.
-	And PwrAtk's with
+	dobrado ao carregar
+	o ataque com um chip
+	de Água.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the B Button will
-	become AquaShots!
+	E o MegaTiro
+	carregado vira
+	um AquaShot!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's give it try,
-	Lan!
+	Experimente,Lan!
 	"""
 	keyWait
 		any = false
@@ -186,46 +188,46 @@ script 11 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	That's DublSoul.
-	Mastering it will
-	make you stronger.
+	Isso é a DuplAlma.
+	Se dominá-la,você
+	ficará mais forte.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	However,there are a
-	few restrictions
-	on uniting.
+	Contudo,essa
+	união tem algumas
+	restrições.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	First,you can't
-	sacrifice regular
-	chips.
+	Em primeiro lugar,
+	não se pode sacrifi-
+	car Chips Padrão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Second,you can only
-	unite once with the
-	same soul in battle.
+	Segundo: só uma
+	união com a mesma
+	alma por batalha.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Third,DublSoul only
-	lasts for 3 turns.
-	Consider this before
+	E terceiro: a
+	DuplAlma só dura
+	três turnos.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"you use DublSoul."
+	"Lembre-se bem disso\nantes de usar a\nDuplAlma."
 	keyWait
 		any = false
 	end
@@ -234,7 +236,7 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"No need to cancel."
+	"Não precisa\ncancelar."
 	keyWait
 		any = false
 	end

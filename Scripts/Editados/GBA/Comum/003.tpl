@@ -2793,7 +2793,7 @@ script 166 mmbn4 {
 		top = 128
 	mugshotShow
 		mugshot = MegaMan
-	"Run"
+	"Fugir"
 	keyWait
 		any = false
 	waitHold

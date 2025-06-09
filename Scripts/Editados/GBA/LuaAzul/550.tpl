@@ -6,7 +6,11 @@ script 0 mmbn4 {
 		height = 1
 	color
 		palette = 1
-	"Meanwhile,led"
+	"""
+	Enquanto isso,
+	liderados pelos
+	NetLutadores do
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -14,9 +18,9 @@ script 0 mmbn4 {
 		width = 19
 		height = 3
 	"""
-	by the NetBattlers
-	at the tournament,
-	the shouts from all
+	torneio,os gritos de
+	todo o mundo são
+	dirigidos ao
 	"""
 	keyWait
 		any = false
@@ -25,8 +29,7 @@ script 0 mmbn4 {
 		width = 19
 		height = 2
 	"""
-	over the world were
-	conveyed to MegaMan.
+	MegaMan.
 	"""
 	keyWait
 		any = false
@@ -35,8 +38,8 @@ script 0 mmbn4 {
 		width = 12
 		height = 2
 	"""
-	Netopia
-	ColosseumAve
+	Avenida do Coliseu
+	da Ameropa...
 	"""
 	keyWait
 		any = false
@@ -48,7 +51,7 @@ script 1 mmbn4 {
 	msgOpen
 	"""
 	MEGAMAN!!
-	FIGHT,FIGHT!!
+	LUTA! LUTA!!
 	"""
 	keyWait
 		any = false
@@ -58,7 +61,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = BlondMan
 	msgOpen
-	"DON'T LET US DOWN!!"
+	"A GENTE CONTA COM\nVOCÊ!!"
 	keyWait
 		any = false
 	end
@@ -76,7 +79,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = OldWoman
 	msgOpen
-	"YOU CAN DO IT!!"
+	"VOCÊ CONSEGUE!!"
 	keyWait
 		any = false
 	clearMsg
@@ -88,30 +91,29 @@ script 5 mmbn4 {
 		mugshot = ShadyGuy
 	msgOpen
 	"""
-	Hey,guys!
-	That Navi MegaMan
-	is gonna win!
+	Aê,cambada! Aquele
+	Navi,o MegaMan,
+	vai vencer sim!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He was amazing when
-	I saw him at the
-	tournament!
+	Ele mandou muito
+	bem lá no torneio!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I really believe
-	he'll be able to
-	save us!
+	Eu tenho certeza de
+	que ele vai conse-
+	guir salvar a gente!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"WE BELIEVE,MEGAMAN!!"
+	"A GENTE ACREDITA EM\nVOCÊ,MEGAMAN!!"
 	keyWait
 		any = false
 	end

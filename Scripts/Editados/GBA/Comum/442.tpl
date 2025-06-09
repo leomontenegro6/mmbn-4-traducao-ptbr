@@ -2,7 +2,7 @@
 
 script 254 mmbn4 {
 	msgOpen
-	"False."
+	"Falso."
 	keyWait
 		any = false
 	end

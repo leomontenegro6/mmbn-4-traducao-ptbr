@@ -1,0 +1,6 @@
+{
+    "require": {
+        "patrickschur/language-detection": "^5.3",
+        "tigitz/php-spellchecker": "^0.8.0"
+    }
+}

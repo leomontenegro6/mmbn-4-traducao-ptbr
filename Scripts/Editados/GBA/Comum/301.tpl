@@ -5,8 +5,8 @@ script 0 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	ALL SYSTEMS ARE
-	CHECKING OUT FINE⋯
+	TODOS OS SISTEMAS
+	ESTÃO OPERACIONAIS.
 	"""
 	keyWait
 		any = false

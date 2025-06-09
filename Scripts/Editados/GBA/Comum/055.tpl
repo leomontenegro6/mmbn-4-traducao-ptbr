@@ -2196,9 +2196,9 @@ script 157 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Rushing
-	causes an
-	explosion
+	Avança e
+	causa
+	explosão
 	"""
 	keyWait
 		any = true

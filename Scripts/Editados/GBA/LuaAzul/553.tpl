@@ -6,7 +6,7 @@ script 0 mmbn4 {
 		height = 1
 	color
 		palette = 1
-	"Sharo"
+	"Sharo..."
 	keyWait
 		any = false
 	end
@@ -15,30 +15,31 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Chillski
 	msgOpen
-	"Nooo!!"
+	"Nããão!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	An asteroid strike
-	would make this
+	Um astroide desses,
+	ao cair na Terra,
+	deixaria o planeta
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"planet way too hot!!"
+	"quente demais!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I couldn't
-	stand that!
+	E isso eu não
+	posso aceitar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SAVE US,
+	SALVE-NOS,
 	MEGAMAN!!
 	"""
 	keyWait
@@ -51,15 +52,15 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = BlondMan
 	"""
-	Sharo's a cold coun-
-	try,but our
-	hearts are on fire!!
+	Sharo pode ser um
+	país frio,mas nossos
+	corações ardem!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HANG IN THERE,
+	CONTAMOS COM VOCÊ,
 	MEGAMAN!!
 	"""
 	keyWait
@@ -72,7 +73,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	THREE CHEERS FOR
+	TRÊS VIVAS PARA O
 	MEGAMAN!
 	"""
 	keyWait
@@ -84,7 +85,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = YoungWoman
-	"MR.MEGAMAN!"
+	"SR. MEGAMAN!"
 	keyWait
 		any = false
 	clearMsg
@@ -95,7 +96,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
 	"""
-	YEEEHHH!
+	ÉÉÉÉ!
 	MEGA-MANNN!
 	"""
 	keyWait

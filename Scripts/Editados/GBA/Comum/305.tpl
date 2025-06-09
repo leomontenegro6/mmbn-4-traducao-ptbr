@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Welcome to the
-	"MagoCão" Comp!
-	Shall we depart?
+	Bem-vindo ao compu-
+	tador do "MagoCão"!
+	Partir?
 	"""
 	keyWait
 		any = false

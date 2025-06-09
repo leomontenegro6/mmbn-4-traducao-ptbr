@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"There's no-one here⋯"
+	"Não tem ningúem\naqui..."
 	keyWait
 		any = false
 	clearMsg
@@ -15,13 +15,13 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Stay alert,
+	Fica esperto,
 	MegaMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯What's up,MegaMan?"
+	"... Que foi,MegaMan?"
 	keyWait
 		any = false
 	clearMsg
@@ -32,9 +32,9 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I can feel a strange
-	buzzing deep inside
-	my body⋯
+	Tô sentindo uma
+	vibração estranha
+	no meu corpo...
 	"""
 	keyWait
 		any = false
@@ -46,9 +46,9 @@ script 3 mmbn4 {
 	soundStopBGM
 	mugshotHide
 	"""
-	That's just your
-	body resonating with
-	my dark power.
+	É o seu corpo resso-
+	ando com os meus
+	poderes das trevas.
 	"""
 	keyWait
 		any = false
@@ -59,11 +59,11 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"A Nebula Navi?!"
+	"Um Navi da Nebula?!"
 	keyWait
 		any = false
 	clearMsg
-	"Something's coming!!"
+	"Tem alguma coisa\nvindo!!"
 	keyWait
 		any = false
 	end
@@ -72,14 +72,14 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = LaserMan
 	msgOpen
-	"I am LaserMan⋯"
+	"Eu sou LaserMan..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The mighty leader
-	Navi from the dark
-	world⋯
+	O todo-poderoso
+	Navi líder do mundo
+	das trevas...
 	"""
 	keyWait
 		any = false
@@ -93,8 +93,8 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Mighty⋯
-	Leader Navi?!
+	Todo-poderoso...
+	Navi líder?!
 	"""
 	keyWait
 		any = false
@@ -106,25 +106,25 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = LaserMan
 	"""
-	MegaMan,together we
-	can make the dark
-	world complete!
+	MegaMan,juntos,
+	podemos tornar aque-
+	le mundo completo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	With your power,you
-	were able to destroy
-	our mighty ShadeMan⋯
+	Com o seu poder,você
+	destruiu o nosso
+	poderoso ShadeMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It would be such a
-	shame to have to
-	delete you.
+	Seria uma grande
+	pena ter de
+	deletá-lo.
 	"""
 	keyWait
 		any = false
@@ -136,8 +136,9 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I will never join
-	your evil ranks!
+	Eu nunca vou me
+	juntar a bandidos
+	como vocês!
 	"""
 	keyWait
 		any = false
@@ -149,31 +150,33 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = LaserMan
 	"""
-	The hate in your
-	eyes convinces me of
-	your potential!
+	O ódio no seu olhar
+	me convence do seu
+	potencial!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know that we may
-	seem evil to you.
+	Sei que podemos
+	parecer malignos
+	para você.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But we know that
-	our cause is just
-	and honorable.
+	Mas nós sabemos que
+	a nossa causa é
+	justa e nobre.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's hypocrites like
-	you that are evil!
+	São hipócritas como
+	você quem são
+	malignos!
 	"""
 	keyWait
 		any = false
@@ -184,7 +187,7 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"What did you say!"
+	"Como é que é?!"
 	keyWait
 		any = false
 	clearMsg
@@ -195,16 +198,17 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = LaserMan
 	"""
-	We aim to completely
-	destroy this
-	worthless world,
+	Nós visamos destru-
+	ir por completo
+	este mundo inútil,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and to return it to
-	how it should be⋯
+	e fazê-lo voltar ao
+	estado que devia
+	ter...
 	"""
 	keyWait
 		any = false
@@ -216,8 +220,9 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	How it should be⋯
-	You mean "evil"?
+	O estado...?
+	Quer dizer,
+	"maligno"?
 	"""
 	keyWait
 		any = false
@@ -228,40 +233,43 @@ script 12 mmbn4 {
 script 13 mmbn4 {
 	mugshotShow
 		mugshot = LaserMan
-	"But of course⋯"
+	"Mas é claro..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can see evil deep
-	inside of you⋯
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Easily brandishing
-	BattleChip weapons⋯
+	Eu enxergo a maldade
+	lá no âmago do seu
+	ser...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And instinctively
-	destroying viruses
-	after viruses⋯
+	Brandindo com
+	facilidade armas,
+	os "chips"...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The blood-thirst
-	that drives you is⋯
+	E instintivamente
+	destruindo vírus
+	após vírus...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"A DarkSoul!!"
+	"""
+	A sede de sangue
+	que te move.
+	Ela é...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"uma Alma Sombria!!"
 	keyWait
 		any = false
 	clearMsg
@@ -271,7 +279,7 @@ script 13 mmbn4 {
 script 14 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"D-Dark⋯S-Soul⋯"
+	"A-Alma...\nS-Sombria..."
 	keyWait
 		any = false
 	clearMsg
@@ -281,13 +289,13 @@ script 14 mmbn4 {
 script 15 mmbn4 {
 	mugshotShow
 		mugshot = AquaMan
-	"Drip,drip,drop!!"
+	"Xuá,xuá,xuá!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,I've come
-	to help you!
+	MegaMan,eu vim te
+	ajudar!
 	"""
 	keyWait
 		any = false
@@ -299,7 +307,8 @@ script 16 mmbn4 {
 	msgOpen
 	"""
 	AquaMan!
-	How'd you get here?
+	Como você veio parar
+	aqui?
 	"""
 	keyWait
 		any = false
@@ -311,15 +320,16 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = AquaMan
 	"""
-	I flowed along the
-	castle's Cyberworld!
+	Eu entrei no Cyber-
+	Mundo do castelo e
+	fui com a maré!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll fight together
-	side by side!
+	A gente vai lutar ao
+	seu lado,MegaMan!!
 	"""
 	keyWait
 		any = false
@@ -330,30 +340,30 @@ script 18 mmbn4 {
 		mugshot = LaserMan
 	msgOpen
 	"""
-	I'm touched by your
-	loyalty⋯But what a
-	perfect opportunity!
+	Sua lealdade é como-
+	vente. Mas que opor-
+	tunidade perfeita!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,I'll show
-	you the DarkSoul
-	hidden inside you!
+	MegaMan,vou mostrar
+	a Alma Sombria que
+	se esconde em você!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The dark strength
-	for which loyalty
-	is no match!!
+	A força obscura con-
+	tra a qual lealdade
+	não é párea!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Embody DarkSoul!!"
+	"Incorpore a\nAlma Sombria!!"
 	keyWait
 		any = false
 	end
@@ -383,13 +393,14 @@ script 21 mmbn4 {
 	mugshotShow
 		mugshot = LaserMan
 	"""
-	Ha ha ha⋯It's
-	coming,it's coming⋯
+	Ha ha ha...
+	Está vindo...
+	Está vindo!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"MegaMan's DarkSoul!"
+	"A Alma Sombria de\nMegaMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -402,7 +413,7 @@ script 22 mmbn4 {
 	mugshotShow
 		mugshot = AquaMan
 	msgOpen
-	"Two⋯MegaMans?!"
+	"Dois... MegaMans?!"
 	keyWait
 		any = false
 	clearMsg
@@ -413,8 +424,9 @@ script 23 mmbn4 {
 	mugshotShow
 		mugshot = LaserMan
 	"""
-	This is your evil
-	power,your DarkSoul!
+	Esse é o seu poder
+	maligno.
+	Sua Alma Sombria!
 	"""
 	keyWait
 		any = false
@@ -424,7 +436,7 @@ script 24 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"M-My DarkSoul?!"
+	"M-minha Alma\nSombria?!"
 	keyWait
 		any = false
 	clearMsg
@@ -434,14 +446,14 @@ script 24 mmbn4 {
 script 25 mmbn4 {
 	mugshotShow
 		mugshot = LaserMan
-	"Go DarkSoul!"
+	"Vá,Alma Sombria!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Throw down MegaMan
-	and slice up his
-	loyal pup!!
+	Destrua MegaMan com
+	as mãos do amiguinho
+	leal dele!
 	"""
 	keyWait
 		any = false
@@ -451,11 +463,11 @@ script 26 mmbn4 {
 	mugshotShow
 		mugshot = AquaMan
 	msgOpen
-	"Hooooooaaaah!"
+	"Iuuuáááá!"
 	keyWait
 		any = false
 	clearMsg
-	"Wh-wh-whuuuu!"
+	"X-x-xxuuu!"
 	keyWait
 		any = false
 	end
@@ -466,7 +478,7 @@ script 27 mmbn4 {
 	msgOpen
 	"""
 	AquaMan!!
-	Are you OK!
+	Você tá legal?!
 	"""
 	keyWait
 		any = false
@@ -477,8 +489,9 @@ script 28 mmbn4 {
 		mugshot = AquaMan
 	msgOpen
 	"""
-	⋯MegaMan⋯Prepare to
-	be deleted!!
+	... MegaMan...
+	Prepare-se pra ser
+	deletado!!
 	"""
 	keyWait
 		any = false
@@ -490,8 +503,9 @@ script 29 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	AquaMan! It's
-	me,MegaMan! It's me!
+	AquaMan!
+	Sou eu,o MegaMan!
+	Sou eu!
 	"""
 	keyWait
 		any = false
@@ -503,17 +517,17 @@ script 30 mmbn4 {
 	mugshotShow
 		mugshot = LaserMan
 	"""
-	Foolish boy! AquaMan
-	is now under your
-	DarkSoul's control.
+	Tolo! O AquaMan está
+	sob o controle da
+	sua Alma Sombria.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now AquaMan! Fight
-	the way you were
-	born to!
+	Vá,AquaMan! Lute,
+	como você nasceu
+	para fazer!
 	"""
 	keyWait
 		any = false
@@ -524,7 +538,7 @@ script 30 mmbn4 {
 script 31 mmbn4 {
 	mugshotShow
 		mugshot = AquaMan
-	"Splaaaaaa!!"
+	"Xuááááá!!"
 	keyWait
 		any = false
 	clearMsg
@@ -536,7 +550,7 @@ script 32 mmbn4 {
 		mugshot = MegaMan
 	"""
 	AquaMan!
-	Snap out of it!
+	Sai dessa!
 	"""
 	keyWait
 		any = false

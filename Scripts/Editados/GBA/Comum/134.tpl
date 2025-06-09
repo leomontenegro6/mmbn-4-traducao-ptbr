@@ -305,8 +305,8 @@ script 15 mmbn4 {
 script 16 mmbn4 {
 	msgOpen
 	"""
-	The folk craft of
-	Sharo⋯
+	Um artesanato
+	cultural de Sharo...
 	"""
 	keyWait
 		any = false

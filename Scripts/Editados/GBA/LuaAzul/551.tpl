@@ -6,7 +6,7 @@ script 0 mmbn4 {
 		height = 1
 	color
 		palette = 1
-	"YumLand"
+	"Saborya..."
 	keyWait
 		any = false
 	end
@@ -16,16 +16,15 @@ script 1 mmbn4 {
 		mugshot = OldManAlt
 	msgOpen
 	"""
-	There's no
-	better Navi
-	than MegaMan.
+	Nenhum Navi pode
+	com o MegaMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You must have
-	faith in him!
+	Vocês têm que
+	ter fé nele!
 	"""
 	keyWait
 		any = false
@@ -37,7 +36,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = SciLabMan
 	"""
-	KEEP IT UP,
+	AGUENTA FIRME,
 	ME-GA-MAN!!
 	"""
 	keyWait
@@ -59,7 +58,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = CapBoy
-	"MEGAMAN,GO FOR IT!!"
+	"MEGAMAN,VAI LÁ!!"
 	keyWait
 		any = false
 	clearMsg
@@ -69,7 +68,7 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = OldWoman
-	"DON'T GIVE UP!!"
+	"NÃO DESISTA!!"
 	keyWait
 		any = false
 	end

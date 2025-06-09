@@ -26,16 +26,17 @@ script 11 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I KEEP THE COLD
-	DRINKS ICE-ICE-ICE
-	COLD,BABY!
+	EU MANTENHO AS BEBI-
+	DAS GELADAS ESTUPI-
+	DAMENTE GELADAS!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WHEW!
-	ICE,ICE,BABY!
+	UFA!
+	ESTUPIDAMENTE,
+	BURRAMENTE GELADAS!
 	"""
 	keyWait
 		any = false
