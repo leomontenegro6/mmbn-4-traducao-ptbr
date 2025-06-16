@@ -1276,7 +1276,7 @@ script 24 mmbn4 {
 	clearMsg
 	"""
 	Pode só dar uma
-	massagenzinha nos
+	massageadinha nos
 	meus ombros?
 	"""
 	keyWait
@@ -1304,16 +1304,16 @@ script 25 mmbn4 {
 	msgOpen
 	"""
 	Ah,coisa boa. Agora
-	não tenho que ir
-	naquele quiroprata!
+	não tenho que ir na-
+	quele quiropraxista!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Pseudomedicina,
-	tchau! Tome,um
-	agradozinho!
+	Adeus,
+	pseudomedicina!
+	Tome,um agradozinho!
 	"""
 	keyWait
 		any = false

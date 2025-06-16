@@ -498,7 +498,7 @@ script 59 mmbn4 {
 	msgOpen
 	"""
 	Brincar de pega-
-	pega com a Roll?
+	-pega com a Roll?
 	Bom... Tá,né...?
 	"""
 	keyWait

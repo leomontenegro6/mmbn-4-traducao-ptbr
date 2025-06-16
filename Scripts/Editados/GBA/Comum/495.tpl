@@ -20,7 +20,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas então,como a
+	Mas,então,como a
 	gente vai parar o
 	Robô?
 	"""
@@ -451,8 +451,8 @@ script 24 mmbn4 {
 		mugshot = ShadeMan
 	"""
 	Insolente! Prepare-
-	se para se juntar às
-	trevas! Hye-hyeee!!
+	-se para se juntar
+	às trevas! Hyeeee!!
 	"""
 	keyWait
 		any = false

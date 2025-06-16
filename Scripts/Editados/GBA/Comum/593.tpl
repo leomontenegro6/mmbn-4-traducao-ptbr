@@ -243,7 +243,7 @@ script 10 mmbn4 {
 	clearMsg
 	"""
 	Você terá que achá-
-	los e responder às
+	-los e responder às
 	perguntas deles.
 	"""
 	keyWait

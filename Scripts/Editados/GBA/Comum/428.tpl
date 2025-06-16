@@ -486,7 +486,7 @@ script 50 mmbn4 {
 	"""
 	QUEM É O MELHOR?
 	QUEM MOSTRA SUOR?
-	TÓRNEIO ÁGUIA!
+	TORNEIO ÁGUIA!
 	"""
 	keyWait
 		any = false
@@ -659,7 +659,7 @@ script 63 mmbn4 {
 	"""
 	Você está atrás
 	de quê? Um Navi?
-	Um human?
+	Um humano?
 	"""
 	keyWait
 		any = false
@@ -917,7 +917,7 @@ script 80 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	Á ÁREA PAAAARQUE!
+	A ÁREA PAAAARQUE!
 	QUEIMA,QUEIMA!
 	"""
 	keyWait
@@ -1303,7 +1303,7 @@ script 115 mmbn4 {
 	msgOpen
 	"""
 	E AGORA,UM ROBÔ-
-	BRINQUEDO À SOLTA?
+	-BRINQUEDO À SOLTA?
 	O QUE ESTÁ HAVENDO?!
 	"""
 	keyWait

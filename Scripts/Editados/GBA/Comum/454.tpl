@@ -351,7 +351,7 @@ script 16 mmbn4 {
 	"""
 	O meu namorado se
 	vira no encontro sem
-	eu!
+	mim!
 	"""
 	keyWait
 		any = false

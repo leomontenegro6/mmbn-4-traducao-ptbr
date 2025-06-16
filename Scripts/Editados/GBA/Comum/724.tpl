@@ -45,7 +45,7 @@ script 3 mmbn4 {
 	clearMsg
 	"""
 	Sem contra-
-	argumentos. Foi
+	-argumentos. Foi
 	uma luta justa.
 	"""
 	keyWait

@@ -64,7 +64,7 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	ACESSO NÃO-
+	ACESSO NÃO
 	AUTORIZADO. ATIVANDO
 	SISTEMA DE DEFESA!
 	"""

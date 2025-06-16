@@ -262,7 +262,7 @@ script 16 mmbn4 {
 	"""
 	Ah,por mais que
 	você fale "por
-	favor"....
+	favor"...
 	"""
 	keyWait
 		any = false

@@ -457,8 +457,8 @@ script 102 mmbn4 {
 	msgOpen
 	"""
 	Pronto,4 provas.
-	Agora vamos praquele
-	"
+	Agora vamos pra
+	aquele "
 	"""
 	printItem
 		buffer = 0

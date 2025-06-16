@@ -142,7 +142,7 @@ script 12 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"desastre? Espero que\nisso não arruine o\nmeu jantar de hoje."
+	"desastre? Espero que\nisso não arruíne o\nmeu jantar de hoje."
 	keyWait
 		any = false
 	clearMsg

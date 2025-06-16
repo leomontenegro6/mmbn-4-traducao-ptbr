@@ -93,7 +93,7 @@ script 2 mmbn4 {
 	"""
 	Selecione "PorUm" na
 	janela superior-
-	direita
+	-direita
 	"""
 	keyWait
 		any = false

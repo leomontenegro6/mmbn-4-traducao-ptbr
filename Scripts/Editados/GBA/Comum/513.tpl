@@ -505,16 +505,16 @@ script 12 mmbn4 {
 	clearMsg
 	"""
 	Mas com seus poderes
-	poderes especiais
-	retirados,seus
+	especiais retirados,
+	seus instintos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	instintos naturais
-	animais voltaram em
-	um piscar de olhos!
+	naturais animais
+	voltaram em um
+	piscar de olhos!
 	"""
 	keyWait
 		any = false

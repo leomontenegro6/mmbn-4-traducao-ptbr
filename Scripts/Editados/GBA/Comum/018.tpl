@@ -257,7 +257,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Higsby
 	"""
-	Hã... ur.. gh...
+	Hã... ur... gh...
 	E... eu tô bem...
 	É!
 	"""
@@ -502,7 +502,7 @@ script 13 mmbn4 {
 	"""
 	E todos os
 	astronautas deram
-	a mesma resposa.
+	a mesma resposta.
 	"""
 	keyWait
 		any = false
@@ -880,9 +880,9 @@ script 31 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Sabe.. Eu tô ficando
-	cansado do meu
-	penteado.
+	Sabe... Eu tô
+	ficando cansado do
+	meu penteado.
 	"""
 	keyWait
 		any = false

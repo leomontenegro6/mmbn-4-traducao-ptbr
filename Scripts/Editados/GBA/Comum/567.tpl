@@ -243,7 +243,7 @@ script 13 mmbn4 {
 	"""
 	Tem uma ótima barra-
 	quinha de cachorro-
-	quente aqui perto!
+	-quente aqui perto!
 	"""
 	keyWait
 		any = false

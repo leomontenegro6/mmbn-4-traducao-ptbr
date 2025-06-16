@@ -330,7 +330,7 @@ script 15 mmbn4 {
 	clearMsg
 	"""
 	Aprimorar os poderes
-	do Navi em si,de
+	do Navi em si,de-
 	certo,é importante!
 	"""
 	keyWait
@@ -380,7 +380,7 @@ script 17 mmbn4 {
 	"""
 	Essa é a chave pra
 	uma deleção bem-
-	sucedida!
+	-sucedida!
 	"""
 	keyWait
 		any = false

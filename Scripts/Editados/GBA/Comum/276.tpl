@@ -342,7 +342,7 @@ script 20 mmbn4 {
 	"""
 	O engraçado,porém
 	triste,Guerreiro
-	de Aço....
+	de Aço...
 	"""
 	keyWait
 		any = false

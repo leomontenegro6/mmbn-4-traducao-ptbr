@@ -62,7 +62,7 @@ script 2 mmbn4 {
 	"""
 	A taxa de sucesso é
 	postada aqui,não
-	em PETs ou paineis.
+	em PETs ou painéis.
 	"""
 	keyWait
 		any = false

@@ -90,7 +90,7 @@ script 4 mmbn4 {
 	clearMsg
 	"""
 	Será que ele tá com
-	com vírus?
+	vírus?
 	"""
 	keyWait
 		any = false

@@ -34,7 +34,7 @@ script 0 mmbn4 {
 	clearMsg
 	"""
 	Mas devemos
-	perserverar!
+	perseverar!
 	A-a-a-atchim!
 	"""
 	keyWait

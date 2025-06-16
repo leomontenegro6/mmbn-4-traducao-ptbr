@@ -10,7 +10,7 @@ script 20 mmbn4 {
 	clearMsg
 	"""
 	QUALIDADE POR
-	PRECINHOS CAMADARAS!
+	PRECINHOS CAMARADAS!
 	"""
 	keyWait
 		any = false

@@ -7,7 +7,7 @@ script 10 mmbn4 {
 	"""
 	FAZ MAL PARA A SAÚDE
 	BEBER ÁGUA NÃO-
-	PURIFICADA.
+	-PURIFICADA.
 	"""
 	keyWait
 		any = false

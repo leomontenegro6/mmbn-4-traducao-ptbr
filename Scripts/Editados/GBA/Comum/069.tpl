@@ -956,7 +956,7 @@ script 170 mmbn4 {
 	"""
 	Videntes...
 	Besteira! Vem,
-	vamos dar uma sáida.
+	vamos dar uma saída.
 	"""
 	keyWait
 		any = false

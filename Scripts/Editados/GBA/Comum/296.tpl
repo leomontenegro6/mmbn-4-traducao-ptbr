@@ -376,8 +376,8 @@ script 130 mmbn4 {
 	msgOpen
 	"""
 	Ainda estou ajeitan-
-	tando os estragos
-	de ontem. Ufa!
+	do os estragos de
+	ontem. Ufa!
 	"""
 	keyWait
 		any = false

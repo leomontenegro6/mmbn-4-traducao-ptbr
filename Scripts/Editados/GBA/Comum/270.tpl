@@ -566,7 +566,7 @@ script 50 mmbn4 {
 	"""
 	O que será que
 	podemos fazer para
-	atrai-los de volta?
+	atraí-los de volta?
 	"""
 	keyWait
 		any = false
@@ -695,7 +695,7 @@ script 60 mmbn4 {
 	"""
 	Não estamos em
 	condições de
-	fechá-lo, 
+	fechá-lo,
 	"""
 	keyWait
 		any = false

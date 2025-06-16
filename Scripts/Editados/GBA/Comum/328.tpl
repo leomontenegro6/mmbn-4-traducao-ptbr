@@ -667,7 +667,7 @@ script 26 mmbn4 {
 	"""
 	imagem com esse tor-
 	neio,depois do negó-
-	cio dos RobôBrinq...
+	cio dos RobôBrnq...
 	"""
 	keyWait
 		any = false

@@ -169,7 +169,7 @@ script 6 mmbn4 {
 	"""
 	Pensei que,talvez,
 	vocês pudessem fazê-
-	lo enxergar isso.
+	-lo enxergar isso.
 	"""
 	keyWait
 		any = false

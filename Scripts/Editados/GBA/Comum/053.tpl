@@ -231,9 +231,9 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Para usar chips com
-	ataque duplo,Contra-
-	Ataque várias vezes.
+	Para atacar com dano
+	duplo,Contra-Ataque
+	várias vezes.
 	"""
 	keyWait
 		any = false
@@ -320,7 +320,7 @@ script 12 mmbn4 {
 		mugshot = Lan
 	"""
 	Valeu,pai! Contra-
-	Ataque e Sincronia
+	-Ataque e Sincronia
 	Total... Que demais!
 	"""
 	keyWait

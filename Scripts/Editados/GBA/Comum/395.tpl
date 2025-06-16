@@ -67,7 +67,7 @@ script 133 mmbn4 {
 script 134 mmbn4 {
 	msgOpen
 	"""
-	O que será que tr
+	O que será que
 	trouxe esses Navis
 	aqui?
 	"""

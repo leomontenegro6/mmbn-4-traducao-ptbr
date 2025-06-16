@@ -60,7 +60,7 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Tem outros tipo de
+	Tem outros tipos de
 	lixo dentro,também.
 	O que não é legal.
 	"""

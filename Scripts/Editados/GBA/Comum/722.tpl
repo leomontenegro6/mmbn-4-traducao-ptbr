@@ -85,8 +85,8 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	velente que passou
-	nas crueis provações
+	valente que passou
+	nas cruéis provações
 	das 4 provas!
 	"""
 	keyWait
@@ -117,7 +117,7 @@ script 6 mmbn4 {
 	clearMsg
 	"""
 	Destrua a maldição
-	que o aflinge!
+	que o aflige!
 	"""
 	keyWait
 		any = false

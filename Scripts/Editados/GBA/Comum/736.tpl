@@ -202,8 +202,8 @@ script 10 mmbn4 {
 	clearMsg
 	"""
 	eu te fiz.
-	Mas.. você me deixou
-	feliz.
+	Mas... você me
+	deixou feliz.
 	"""
 	keyWait
 		any = false

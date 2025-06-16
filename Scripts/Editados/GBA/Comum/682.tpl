@@ -66,8 +66,7 @@ script 4 mmbn4 {
 	clearMsg
 	"""
 	Tá tudo bem!
-	Eu vou voltei ao
-	normal!
+	Eu voltei ao normal!
 	"""
 	keyWait
 		any = false

@@ -135,7 +135,7 @@ script 4 mmbn4 {
 	"""
 	Você já foi na
 	Ameropa? Que viagem
-	rápido!
+	rápida!
 	"""
 	keyWait
 		any = false

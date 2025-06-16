@@ -35,7 +35,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	QUE QUE EU INSTALE
+	QUER QUE EU INSTALE
 	"""
 	keyWait
 		any = false

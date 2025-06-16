@@ -36,7 +36,7 @@ script 1 mmbn4 {
 	"""
 	E ele também usou
 	gás de sono para
-	não inteferirmos!
+	não interferirmos!
 	"""
 	keyWait
 		any = false
@@ -287,7 +287,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	Mas só destrui-los
+	Mas só destruí-los
 	"""
 	keyWait
 		any = false

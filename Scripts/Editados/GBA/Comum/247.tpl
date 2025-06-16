@@ -543,7 +543,7 @@ script 72 mmbn4 {
 	msgOpen
 	"""
 	Quer a pasta do
-	seguidor, a
+	seguidor,a
 	"
 	"""
 	printFolderName

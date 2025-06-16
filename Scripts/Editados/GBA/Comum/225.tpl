@@ -47,7 +47,7 @@ script 0 mmbn4 {
 		mugshot = Dex
 	"""
 	Fechou! A Mayl e a
-	Yau também vão.
+	Yai também vão.
 	"""
 	keyWait
 		any = false
@@ -149,7 +149,7 @@ script 3 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"O Sisteam Padrão"
+	"O Sistema Padrão"
 	keyWait
 		any = false
 	clearMsg

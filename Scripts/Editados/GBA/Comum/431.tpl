@@ -545,7 +545,7 @@ script 16 mmbn4 {
 	"""
 	Quem é aquele Navi
 	esquisito que anda
-	zanzand por aqui?
+	zanzando por aqui?
 	"""
 	keyWait
 		any = false

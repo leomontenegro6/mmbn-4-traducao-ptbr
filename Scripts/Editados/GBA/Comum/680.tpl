@@ -151,7 +151,7 @@ script 11 mmbn4 {
 	"""
 	Ah,e eu estou além
 	da barreira de
-	genêro.
+	gênero.
 	"""
 	keyWait
 		any = false

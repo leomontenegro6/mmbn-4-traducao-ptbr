@@ -72,7 +72,7 @@ script 3 mmbn4 {
 	"""
 	Bom trabalho. O
 	parque abrirá daqui
-	três dias!
+	a três dias!
 	"""
 	keyWait
 		any = false

@@ -171,7 +171,7 @@ script 12 mmbn4 {
 	clearMsg
 	soundPlay
 		track = 386
-	"Vruuuuuum...."
+	"Vruuuuuum..."
 	wait
 		frames = 66
 	keyWait

@@ -787,7 +787,7 @@ script 101 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	msgOpen
-	"UFF... UFF...."
+	"UFF... UFF..."
 	keyWait
 		any = false
 	clearMsg

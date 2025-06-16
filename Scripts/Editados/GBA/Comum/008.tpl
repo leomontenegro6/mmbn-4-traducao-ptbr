@@ -879,7 +879,7 @@ script 16 mmbn4 {
 	clearMsg
 	"""
 	à sua frente,e o
-	aperte repeditamente
+	aperte repetidamente
 	para disparar a
 	"""
 	keyWait
@@ -947,7 +947,7 @@ script 17 mmbn4 {
 	clearMsg
 	"""
 	de usar chips de
-	[bracket1]Fire[bracket2],você lança
+	[bracket1]Fogo[bracket2],você lança
 	um FireArm.
 	"""
 	keyWait
@@ -1335,7 +1335,7 @@ script 22 mmbn4 {
 	"""
 	Segure e solte "A"
 	ao usar um chip de
-	[bracket1]Aqua[bracket2] para dobrar
+	[bracket1]Água[bracket2] para dobrar
 	"""
 	keyWait
 		any = false
@@ -1460,7 +1460,7 @@ script 24 mmbn4 {
 	"""
 	Chips de [bracket1]Mdra[bracket2],
 	como Boomer1,servem
-	de sacríficio para a
+	de sacrifício para a
 	"""
 	keyWait
 		any = false
@@ -1475,7 +1475,7 @@ script 24 mmbn4 {
 	clearMsg
 	"""
 	A grama cura PV,
-	mas golpes de [bracket1]Fire[bracket2]
+	mas golpes de [bracket1]Fogo[bracket2]
 	causam dano dobrado.
 	"""
 	keyWait
@@ -1508,7 +1508,7 @@ script 24 mmbn4 {
 	"""
 	selecionados em
 	seguida. Combine is-
-	so com chips [bracket1]None[bracket2]
+	so com chips [bracket1]Nada[bracket2]
 	"""
 	keyWait
 		any = false
@@ -1564,7 +1564,7 @@ script 25 mmbn4 {
 	"""
 	Chips de quebra
 	como AirHoc1 servem
-	de sacríficio para a
+	de sacrifício para a
 	"""
 	keyWait
 		any = false
@@ -1694,7 +1694,7 @@ script 27 mmbn4 {
 	"""
 	Chips de espada,
 	como WideSwrd,são
-	os sacríficios pra
+	os sacrifícios pra
 	"""
 	keyWait
 		any = false

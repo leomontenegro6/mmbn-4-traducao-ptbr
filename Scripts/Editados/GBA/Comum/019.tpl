@@ -596,9 +596,9 @@ script 14 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	divertido. É tipo
-	montar quebra-
-	cabeça! Vou instalar
+	divertido. Tipo mon-
+	tar quebra-cabeça!
+	Vou instalar
 	"""
 	keyWait
 		any = false
@@ -947,7 +947,7 @@ script 22 mmbn4 {
 	clearMsg
 	"""
 	E adivinha só quem é
-	o arqui-rival dele?
+	o arquirrival dele?
 	Aham! Eu! Dex!
 	"""
 	keyWait

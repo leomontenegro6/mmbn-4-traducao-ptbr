@@ -101,7 +101,7 @@ script 3 mmbn4 {
 	"""
 	Você não é o Navi
 	que venceu o Torneio
-	de Batalha da?
+	de Batalha da
 	"""
 	keyWait
 		any = false

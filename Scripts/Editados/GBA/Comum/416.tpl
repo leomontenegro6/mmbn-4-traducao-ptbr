@@ -14,7 +14,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	É meio desoladada,
+	É meio desolada,
 	mas tem um
 	NetVendedor.
 	"""
@@ -294,7 +294,7 @@ script 36 mmbn4 {
 	"""
 	As preliminares
 	estão quase
-	temrinando.
+	terminando.
 	"""
 	keyWait
 		any = false

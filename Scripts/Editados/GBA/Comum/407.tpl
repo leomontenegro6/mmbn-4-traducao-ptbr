@@ -1012,7 +1012,7 @@ script 224 mmbn4 {
 	msgOpen
 	"""
 	Aqui lá me deu
-	arrepior. Ah,vai!
+	arrepios. Ah,vai!
 	É só ignorar!
 	"""
 	keyWait

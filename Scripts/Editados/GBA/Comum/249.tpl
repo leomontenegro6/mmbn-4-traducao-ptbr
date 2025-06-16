@@ -823,7 +823,7 @@ script 39 mmbn4 {
 	msgOpen
 	"""
 	Fala aí,"brother!"
-	Oe meus ouvidos e
+	Os meus ouvidos e
 	cabeça tão doendo!
 	"""
 	keyWait

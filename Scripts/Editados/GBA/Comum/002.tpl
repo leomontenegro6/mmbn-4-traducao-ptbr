@@ -4378,7 +4378,7 @@ script 242 mmbn4 {
 	"""
 	Só 2 Navis do
 	mesmo tipo
-	poden entrar.
+	podem entrar.
 	"""
 	keyWait
 		any = false

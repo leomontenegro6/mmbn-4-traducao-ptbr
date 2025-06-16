@@ -39,7 +39,7 @@ script 2 mmbn4 {
 	clearMsg
 	"""
 	Você supõe que eles
-	adoram uma pimenta
+	adorem uma pimenta
 	aqui...
 	"""
 	keyWait

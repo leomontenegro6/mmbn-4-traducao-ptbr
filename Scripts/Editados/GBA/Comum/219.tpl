@@ -112,7 +112,7 @@ script 2 mmbn4 {
 	msgOpen
 	"""
 	Chaud,tem uma
-	porta auqi também!
+	porta aqui também!
 	"""
 	keyWait
 		any = false

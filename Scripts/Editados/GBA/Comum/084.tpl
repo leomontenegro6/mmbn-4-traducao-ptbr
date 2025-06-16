@@ -53,8 +53,8 @@ script 11 mmbn4 {
 	msgOpen
 	"""
 	MegaMan! Desconecta
-	e bora pro
-	PraçaCentrl!
+	e bora pra Praça
+	Central!
 	"""
 	keyWait
 		any = false
@@ -89,7 +89,7 @@ script 13 mmbn4 {
 	msgOpen
 	"""
 	MegaMan,desconecta!
-	Outro RobôBrinq
+	Outro RobôBrnq
 	saiu de controle!
 	"""
 	keyWait

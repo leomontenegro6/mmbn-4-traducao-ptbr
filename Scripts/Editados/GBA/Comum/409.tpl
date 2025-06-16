@@ -249,7 +249,7 @@ script 32 mmbn4 {
 	"""
 	mas é recomendado
 	que fiquemos todos
-	alertas.
+	alerta.
 	"""
 	keyWait
 		any = false

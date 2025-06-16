@@ -209,7 +209,7 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	dele,o MagoMacaco, 
+	dele,o MagoMacaco,
 	pra salvar a cidade
 	do feiticeiro do
 	"""
@@ -300,7 +300,7 @@ script 8 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	A arma dele, a Gun-
+	A arma dele,a Gun-
 	DelSol,agora está a
 	venda como um chip.
 	"""
@@ -391,7 +391,7 @@ script 11 mmbn4 {
 		top = 108
 	"""
 	Eu tava no parque
-	quando os RobôBrinq
+	quando os RobôBrnq
 	endoidou.
 	"""
 	keyWait

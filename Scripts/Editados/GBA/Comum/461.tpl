@@ -223,7 +223,7 @@ script 15 mmbn4 {
 	clearMsg
 	"""
 	Normalmente,eu te
-	deleteria em um
+	deletaria em um
 	piscar de olhos,
 	"""
 	keyWait

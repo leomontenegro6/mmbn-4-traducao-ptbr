@@ -380,7 +380,7 @@ script 10 mmbn4 {
 	"""
 	O quê?! O Django nem
 	é real! Acho que cê
-	alucionou aí...
+	alucinou aí...
 	"""
 	keyWait
 		any = false

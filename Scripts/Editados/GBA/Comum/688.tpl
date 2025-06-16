@@ -174,7 +174,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Sal
 	"""
-	Mas tem entrado uns
+	Mas têm entrado uns
 	Navis estranhos lá
 	na nossa página.
 	"""

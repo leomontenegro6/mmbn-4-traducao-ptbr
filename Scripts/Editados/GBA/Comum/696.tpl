@@ -187,7 +187,7 @@ script 9 mmbn4 {
 	"""
 	É tão legal isso de
 	arriscar tudo por
-	uma coisa epecífica
+	uma coisa específica
 	"""
 	keyWait
 		any = false

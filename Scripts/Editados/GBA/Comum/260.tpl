@@ -210,8 +210,8 @@ script 30 mmbn4 {
 	clearMsg
 	"""
 	Ele me venceu antes
-	antes mesmo de eu
-	mandar um chip!
+	mesmo de eu mandar
+	um chip!
 	"""
 	keyWait
 		any = false

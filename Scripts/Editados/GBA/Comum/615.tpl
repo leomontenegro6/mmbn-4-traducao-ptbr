@@ -40,7 +40,7 @@ script 2 mmbn4 {
 		value = 1
 	"""
 	Disco rígido,disco
-	rídigo,pen drive,
+	rígido,pen drive,
 	carregando. É isso?!
 	"""
 	keyWait

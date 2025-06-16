@@ -69,7 +69,7 @@ script 4 mmbn4 {
 	"""
 	A gente tava
 	treinando NetLuta
-	na Área Parque
+	na Área Parque,
 	"""
 	keyWait
 		any = false

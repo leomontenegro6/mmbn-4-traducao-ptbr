@@ -50,7 +50,7 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	msgOpen
 	"""
-	Tem algo brilhnando
+	Tem algo brilhando
 	na água. As pessoas
 	jogam moedas aqui.
 	"""
@@ -58,7 +58,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Marece ser algum
+	Parece ser algum
 	tipo de superstição.
 	"""
 	keyWait

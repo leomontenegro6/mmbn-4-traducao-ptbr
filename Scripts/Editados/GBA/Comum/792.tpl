@@ -333,7 +333,7 @@ script 23 mmbn4 {
 		mugshot = Django
 	"""
 	Sim,mas o Bate-
-	Estacas o danificou
+	-Estacas o danificou
 	pesadamente.
 	"""
 	keyWait
@@ -381,7 +381,7 @@ script 25 mmbn4 {
 	"""
 	Django,estou
 	sentindo Imortais
-	ao Sul.
+	ao sul.
 	"""
 	keyWait
 		any = false
@@ -430,7 +430,7 @@ script 28 mmbn4 {
 	"""
 	Use isto caso
 	um habitante da
-	escuridão apareceça.
+	escuridão apareça.
 	"""
 	keyWait
 		any = false

@@ -31,7 +31,7 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	O dono da Loja do
-	Higsby e um expert
+	Higsby é um expert
 	em chips!
 	"""
 	keyWait

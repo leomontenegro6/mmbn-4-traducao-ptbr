@@ -636,9 +636,9 @@ script 39 mmbn4 {
 		mugshot = Regal
 	msgOpen
 	"""
-	Já até sinto o chei-
-	da erradicação da
-	Terra!
+	Já até sinto o
+	cheiro da erradica-
+	ção da Terra!
 	"""
 	keyWait
 		any = false

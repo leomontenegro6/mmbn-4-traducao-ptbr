@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Então,você enfim me
+	Então,você enfim
 	me achou! Me faz
 	ascender logo,vai!
 	"""

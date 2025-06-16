@@ -143,7 +143,7 @@ script 132 mmbn4 {
 	msgOpen
 	"""
 	Ei! Tem alguma coisa
-	brilando aqui no
+	brilhando aqui no
 	chão!
 	"""
 	keyWait

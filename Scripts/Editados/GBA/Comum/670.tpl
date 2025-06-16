@@ -380,7 +380,7 @@ script 19 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Temos que ajeitar a
+	Temos que ajeitar
 	a nossa atitude se
 	quisermos vencer.
 	"""

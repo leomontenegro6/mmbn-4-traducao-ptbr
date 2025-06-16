@@ -184,7 +184,7 @@ script 5 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	" de suas ações\n crueis na guerra\n de outrora."
+	" de suas ações\n cruéis na guerra\n de outrora."
 	keyWait
 		any = false
 	clearMsg

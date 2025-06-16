@@ -523,7 +523,7 @@ script 243 mmbn4 {
 		item = 108
 	"""
 	".
-	for 2000 Zennys?
+	por 2000 Zennys?
 	"""
 	keyWait
 		any = false

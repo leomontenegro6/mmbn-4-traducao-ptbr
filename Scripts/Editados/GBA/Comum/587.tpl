@@ -97,7 +97,7 @@ script 4 mmbn4 {
 	"""
 	Acho que cê queria
 	muito vencer,mesmo
-	que trapacendo!
+	que trapaceando!
 	"""
 	keyWait
 		any = false

@@ -1,5 +1,7 @@
-- Rodar script para busca de textos em inglês
-- Rodar script de spellchecking
+- Preparar lançamento da versão beta
 - Editar menu exibido ao apertar Start
 - Gráficos de cenários pra editar:
   - PC do LAN: "Welcome" debaixo da plataforma
+  - ACDC: Higsby's, pra tirar o apóstrofe
+  - Loja do Higsby: Editas placas do cenário (Sale, New, Welcome, etc)
+  - EletroVila: Placas de "New" e "30% off"

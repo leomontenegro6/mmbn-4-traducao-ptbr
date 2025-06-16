@@ -37,7 +37,7 @@ script 2 mmbn4 {
 	clearMsg
 	"""
 	A gravidade já está
-	puxando o míssíl
+	puxando o míssil
 	para o seu planeta.
 	"""
 	keyWait

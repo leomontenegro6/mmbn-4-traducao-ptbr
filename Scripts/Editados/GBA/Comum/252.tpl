@@ -1607,7 +1607,7 @@ script 36 mmbn4 {
 	"""
 	Então,posso pedir
 	que você tire os
-	virus do meu PET?
+	vírus do meu PET?
 	"""
 	keyWait
 		any = false

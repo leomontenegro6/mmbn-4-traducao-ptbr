@@ -471,7 +471,7 @@ script 26 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Eu tô TÃO, tão
+	Eu tô TÃO,tão
 	decepcionado...
 	"""
 	keyWait

@@ -294,7 +294,7 @@ script 12 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	A esculturas da Ame-
+	Esculturas da Ame-
 	ropa são todas tão
 	lindas. É impossível
 	"""

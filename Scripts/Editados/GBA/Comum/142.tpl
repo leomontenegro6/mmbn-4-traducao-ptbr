@@ -102,7 +102,7 @@ script 12 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	"****"	,e ficara
+	"****",e ficara
 	cuidadosa com a
 	própria aparência...
 	"""

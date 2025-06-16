@@ -207,7 +207,7 @@ script 14 mmbn4 {
 		mugshot = MrFamous
 	"""
 	Eu tenho viajado
-	arduosamente por
+	arduamente por
 	todo o mundo,
 	"""
 	keyWait

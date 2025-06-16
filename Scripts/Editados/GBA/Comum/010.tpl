@@ -596,7 +596,7 @@ script 25 mmbn4 {
 		mugshot = MegaMan
 	"""
 	Cartão de membro pra
-	Associaçao de NetLu-
+	Associação de NetLu-
 	ta dos velhinhos.
 	"""
 	waitHold
@@ -1848,7 +1848,7 @@ script 82 mmbn4 {
 		mugshot = MegaMan
 	"""
 	Um cyber-sutra para
-	exorcisar Navis
+	exorcizar Navis
 	fantasma!
 	"""
 	waitHold
@@ -2254,7 +2254,7 @@ script 100 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Tranmissor. Com ele,
+	Transmissor. Com ele
 	você me detecta,
 	até no mundo real.
 	"""

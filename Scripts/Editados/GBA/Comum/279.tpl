@@ -243,7 +243,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = OldManAlt
 	msgOpen
-	"Abrindo, e..."
+	"Abrindo,e..."
 	keyWait
 		any = false
 	clearMsg
@@ -1341,7 +1341,7 @@ script 42 mmbn4 {
 	msgOpen
 	"""
 	Ei,você!
-	A luta já já rolou?
+	A luta já rolou?
 	"""
 	keyWait
 		any = false

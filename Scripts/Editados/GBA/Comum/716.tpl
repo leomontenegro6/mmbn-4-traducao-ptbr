@@ -151,7 +151,7 @@ script 10 mmbn4 {
 	"""
 	Certo,enviarei os
 	os ingredientes-
-	dados!
+	-dados!
 	"""
 	keyWait
 		any = false

@@ -79,7 +79,7 @@ script 4 mmbn4 {
 	"""
 	Porém,Oficiais de
 	Ameropa não têm
-	jusrisdição para
+	jurisdição para
 	"""
 	keyWait
 		any = false

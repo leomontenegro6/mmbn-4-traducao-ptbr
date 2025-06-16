@@ -132,7 +132,7 @@ script 5 mmbn4 {
 	msgOpen
 	"""
 	Poxa,não pode fazer
-	esse microondas por
+	esse micro-ondas por
 	um preço menor?
 	"""
 	keyWait
@@ -237,7 +237,7 @@ script 15 mmbn4 {
 	msgOpen
 	"""
 	Eu preciso comprar
-	ua lava-louças pra
+	uma lava-louças pra
 	poder ter um
 	"""
 	keyWait
@@ -258,7 +258,7 @@ script 16 mmbn4 {
 	"""
 	Aham! Eu diminuo o
 	preço do micro-
-	ondas com prazer
+	-ondas com prazer
 	"""
 	keyWait
 		any = false

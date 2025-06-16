@@ -105,7 +105,7 @@ script 6 mmbn4 {
 	msgOpen
 	"""
 	Estamos confiando os
-	nossos destino a
+	nossos destinos a
 	vocês!
 	"""
 	keyWait

@@ -75,7 +75,7 @@ script 4 mmbn4 {
 	soundDisableTextSFX
 	soundPlay
 		track = 131
-	"Rroonnc...."
+	"Rroonnc..."
 	wait
 		frames = 42
 	keyWait

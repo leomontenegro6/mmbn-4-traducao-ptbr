@@ -176,7 +176,7 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	"""
-	He he he.. O meu
+	He he he... O meu
 	plano está prestes
 	a começar.
 	"""

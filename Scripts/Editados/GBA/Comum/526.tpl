@@ -49,7 +49,7 @@ script 2 mmbn4 {
 		mugshot = MegaMan
 	"""
 	Beleza,Lan.
-	Vamos pro Coliseum!
+	Vamos pro Coliseu!
 	"""
 	keyWait
 		any = false

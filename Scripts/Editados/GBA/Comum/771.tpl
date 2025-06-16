@@ -127,7 +127,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = SearchMan
-	"Entendido.."
+	"Entendido..."
 	keyWait
 		any = false
 	end

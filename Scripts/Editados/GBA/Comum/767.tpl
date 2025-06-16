@@ -357,7 +357,7 @@ script 21 mmbn4 {
 	"""
 	Darei mais
 	informações no
-	no Centro Espacial.
+	Centro Espacial.
 	"""
 	keyWait
 		any = false

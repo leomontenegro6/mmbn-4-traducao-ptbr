@@ -19,7 +19,7 @@ script 0 mmbn4 {
 	clearMsg
 	"""
 	ESTA PÁGINA NÃO TEM
-	LINKS, NO MOMENTO.
+	LINKS,NO MOMENTO.
 	"""
 	keyWait
 		any = false

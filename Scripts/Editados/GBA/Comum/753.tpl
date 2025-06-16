@@ -52,7 +52,7 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	a força e habilida-
-	dades excepcionais
+	des excepcionais
 	dele!
 	"""
 	keyWait

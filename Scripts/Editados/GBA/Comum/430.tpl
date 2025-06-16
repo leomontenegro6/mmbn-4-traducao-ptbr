@@ -305,7 +305,7 @@ script 30 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Tem um despositivo
+	Tem um dispositivo
 	aí barrando a estra-
 	da pra Ni-Hon...
 	"""

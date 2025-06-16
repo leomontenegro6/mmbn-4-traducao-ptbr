@@ -992,7 +992,7 @@ script 85 mmbn4 {
 	"""
 	Forte
 	ataque
-	de imã!
+	de ímã!
 	"""
 	keyWait
 		any = true
@@ -1006,7 +1006,7 @@ script 86 mmbn4 {
 	"""
 	Forte
 	ataque
-	de imã!
+	de ímã!
 	"""
 	keyWait
 		any = true
@@ -1020,7 +1020,7 @@ script 87 mmbn4 {
 	"""
 	Forte
 	ataque
-	de imã!
+	de ímã!
 	"""
 	keyWait
 		any = true

@@ -841,7 +841,7 @@ script 60 mmbn4 {
 		delay = 0
 	"""
 	Contra-
-	ataca
+	-ataca
 	alvo
 	"""
 	keyWait
@@ -855,7 +855,7 @@ script 61 mmbn4 {
 		delay = 0
 	"""
 	Contra-
-	ataca
+	-ataca
 	alvo
 	"""
 	keyWait
@@ -869,7 +869,7 @@ script 62 mmbn4 {
 		delay = 0
 	"""
 	Contra-
-	ataca
+	-ataca
 	alvo
 	"""
 	keyWait
@@ -2823,8 +2823,8 @@ script 202 mmbn4 {
 		delay = 0
 	"""
 	ChipMal!
-	Ataque=
-	PV prdido
+	Ataque=PV
+	perdido
 	"""
 	keyWait
 		any = true

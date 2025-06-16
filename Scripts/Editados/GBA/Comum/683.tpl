@@ -148,7 +148,7 @@ script 4 mmbn4 {
 	"""
 	Eu sou o único capaz
 	de gravar as suas
-	performances!
+	produções!
 	"""
 	keyWait
 		any = false

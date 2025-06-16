@@ -84,7 +84,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	msgOpen
 	"""
-	Todas as casa
+	Todas as casas
 	têm telhados
 	triangulares,
 	"""

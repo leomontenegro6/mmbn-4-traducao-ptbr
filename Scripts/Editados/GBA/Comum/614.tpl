@@ -84,7 +84,7 @@ script 4 mmbn4 {
 		track = 115
 	"""
 	MegaMan recebeu:
-	1 "BugFrag"!!
+	1 "FragBug"!!
 	"""
 	keyWait
 		any = false

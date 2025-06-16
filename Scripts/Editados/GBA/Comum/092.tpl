@@ -106,7 +106,7 @@ script 6 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	alto-falantes de
+	Alto-falantes de
 	qualidade devem ter
 	bons programas.
 	"""

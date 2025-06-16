@@ -119,8 +119,8 @@ script 8 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Olha só toda o
-	tamanho desta fila.
+	Olha só o tamanhão
+	dessa fila.
 	"""
 	keyWait
 		any = false

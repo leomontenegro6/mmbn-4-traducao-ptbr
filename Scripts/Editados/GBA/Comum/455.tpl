@@ -174,7 +174,7 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	De certo irei devo-
+	Decerto irei devo-
 	rar você também,
 	uma outra hora.
 	"""

@@ -510,7 +510,7 @@ script 42 mmbn4 {
 	msgOpen
 	"""
 	Então,o pessoal
-	esquisitd era da...
+	esquisito era da...
 	"""
 	keyWait
 		any = false
@@ -839,7 +839,7 @@ script 71 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Mais uma vitóra e
+	Mais uma vitória e
 	você é declarado
 	o #1 de Ni-Hon?
 	"""

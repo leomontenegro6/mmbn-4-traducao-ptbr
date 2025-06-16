@@ -486,7 +486,7 @@ script 22 mmbn4 {
 	clearMsg
 	"""
 	e um fantasma com
-	certeza revelerá
+	certeza revelará
 	sua presença.
 	"""
 	keyWait

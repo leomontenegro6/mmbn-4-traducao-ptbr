@@ -212,7 +212,7 @@ script 20 mmbn4 {
 	"""
 	O engraçado,porém
 	triste,Guerreiro
-	de Aço....
+	de Aço...
 	"""
 	keyWait
 		any = false
@@ -457,7 +457,7 @@ script 32 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Vi um RobôBrinq
+	Vi um RobôBrnq
 	entrando na
 	Mansão do Vampiro.
 	"""

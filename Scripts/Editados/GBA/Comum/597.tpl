@@ -63,7 +63,7 @@ script 4 mmbn4 {
 	clearMsg
 	"""
 	Mas não tenho
-	arrepentimentos,
+	arrependimentos,
 	não!
 	"""
 	keyWait

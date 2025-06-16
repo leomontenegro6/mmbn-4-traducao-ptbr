@@ -133,7 +133,7 @@ script 10 mmbn4 {
 	". "
 	waitSkip
 		frames = 30
-	"a NAXA?!"
+	"A NAXA?!"
 	keyWait
 		any = false
 	clearMsg

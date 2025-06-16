@@ -519,7 +519,7 @@ script 130 mmbn4 {
 		mugshot = HeelNaviPurple
 	"""
 	Como ousais postar-
-	se ante mim antes
+	-se ante mim antes
 	de preparar-se?
 	"""
 	keyWait
@@ -853,7 +853,7 @@ script 131 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Crépes\n"
+	"Crepes\n"
 	positionOptionVertical
 		width = 10
 	option
@@ -998,7 +998,7 @@ script 134 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Tu haveis mostrado
+	Tu hás mostrado
 	a mim tuas
 	habilidades!
 	"""

@@ -6,7 +6,7 @@ script 10 mmbn4 {
 	msgOpen
 	"""
 	NOSSOS CACHORROS-
-	QUENTES SÃO OS
+	-QUENTES SÃO OS
 	MAIS SAUDÁVEIS!
 	"""
 	keyWait

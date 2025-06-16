@@ -11,7 +11,7 @@ script 0 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	BEM-VINDO À PAGINA
+	BEM-VINDO À PÁGINA
 	DA YAI! NO MOMENTO,
 	A PÁGINA NÃO TEM
 	"""

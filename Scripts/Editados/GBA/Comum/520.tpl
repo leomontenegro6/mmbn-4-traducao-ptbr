@@ -242,7 +242,7 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	Aham. Daqui uma
+	Aham. Daqui a uma
 	semana,durante o
 	feriado escolar.
 	"""

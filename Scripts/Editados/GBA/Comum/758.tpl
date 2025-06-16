@@ -467,7 +467,7 @@ script 24 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	eu. Afinal,eu abri
+	mim. Afinal,eu abri
 	mão do título de
 	Campeão.
 	"""

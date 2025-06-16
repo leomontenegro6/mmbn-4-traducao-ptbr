@@ -565,7 +565,7 @@ script 135 mmbn4 {
 	msgOpen
 	"""
 	CADÊ AS GAROTAS-PROG
-	QUE ME PROMETARAM?
+	QUE ME PROMETERAM?
 	POXA...
 	"""
 	keyWait
@@ -635,7 +635,7 @@ script 160 mmbn4 {
 	"""
 	Está distribuindo
 	panfletos num lugar
-	sinisto destes?
+	sinistro destes?
 	"""
 	keyWait
 		any = false

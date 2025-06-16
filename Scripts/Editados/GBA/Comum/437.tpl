@@ -217,7 +217,7 @@ script 130 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Para destrui-los
+	Para destruí-los
 	por completo...
 	"""
 	keyWait

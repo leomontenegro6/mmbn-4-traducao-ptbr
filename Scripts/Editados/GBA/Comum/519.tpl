@@ -465,8 +465,8 @@ script 27 mmbn4 {
 		mugshot = Dad
 	"""
 	Suspeito que tenha
-	sido um Navi mal
-	intencionado...
+	sido um Navi mal-
+	-intencionado...
 	"""
 	keyWait
 		any = false

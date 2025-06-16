@@ -49,7 +49,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	e vi ums PETs
+	e vi uns PETs
 	novinhos na vitrine!
 	Os novos modelos
 	"""
