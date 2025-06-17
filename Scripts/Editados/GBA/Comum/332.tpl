@@ -258,7 +258,7 @@ script 16 mmbn4 {
 	"""
 	Aham! Eu diminuo o
 	preço do micro-
-	-ondas com prazer
+	ondas com prazer
 	"""
 	keyWait
 		any = false

@@ -117,7 +117,7 @@ script 10 mmbn4 {
 	"""
 	B+Esq=
 	Contra-
-	-ataque.
+	ataque.
 	"""
 	waitHold
 	end

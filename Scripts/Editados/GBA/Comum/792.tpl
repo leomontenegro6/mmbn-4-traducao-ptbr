@@ -333,7 +333,7 @@ script 23 mmbn4 {
 		mugshot = Django
 	"""
 	Sim,mas o Bate-
-	-Estacas o danificou
+	Estacas o danificou
 	pesadamente.
 	"""
 	keyWait

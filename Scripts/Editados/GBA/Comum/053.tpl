@@ -320,7 +320,7 @@ script 12 mmbn4 {
 		mugshot = Lan
 	"""
 	Valeu,pai! Contra-
-	-Ataque e Sincronia
+	Ataque e Sincronia
 	Total... Que demais!
 	"""
 	keyWait

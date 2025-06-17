@@ -1303,7 +1303,7 @@ script 115 mmbn4 {
 	msgOpen
 	"""
 	E AGORA,UM ROBÔ-
-	-BRINQUEDO À SOLTA?
+	BRINQUEDO À SOLTA?
 	O QUE ESTÁ HAVENDO?!
 	"""
 	keyWait

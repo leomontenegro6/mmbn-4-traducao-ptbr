@@ -519,7 +519,7 @@ script 130 mmbn4 {
 		mugshot = HeelNaviPurple
 	"""
 	Como ousais postar-
-	-se ante mim antes
+	se ante mim antes
 	de preparar-se?
 	"""
 	keyWait

@@ -932,7 +932,7 @@ script 120 mmbn4 {
 	msgOpen
 	"""
 	Lan,temos que detê-
-	-lo! O fogo vai se
+	lo! O fogo vai se
 	espalhar mais!
 	"""
 	keyWait

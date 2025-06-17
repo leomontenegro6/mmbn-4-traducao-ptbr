@@ -451,7 +451,7 @@ script 24 mmbn4 {
 		mugshot = ShadeMan
 	"""
 	Insolente! Prepare-
-	-se para se juntar
+	se para se juntar
 	às trevas! Hyeeee!!
 	"""
 	keyWait

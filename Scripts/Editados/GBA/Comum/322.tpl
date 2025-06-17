@@ -380,7 +380,7 @@ script 17 mmbn4 {
 	"""
 	Essa é a chave pra
 	uma deleção bem-
-	-sucedida!
+	sucedida!
 	"""
 	keyWait
 		any = false

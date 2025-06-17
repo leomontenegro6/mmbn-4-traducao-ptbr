@@ -107,7 +107,7 @@ script 16 mmbn4 {
 	msgOpen
 	"""
 	TEM UM ROBÔ-
-	-BRINQUEDO FORA
+	BRINQUEDO FORA
 	DE CONTROLE?!
 	"""
 	keyWait

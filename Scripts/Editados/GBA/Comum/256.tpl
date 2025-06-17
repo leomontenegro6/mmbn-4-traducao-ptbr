@@ -397,7 +397,7 @@ script 22 mmbn4 {
 	msgOpen
 	"""
 	Estes cachorros-
-	-quentes são tão
+	quentes são tão
 	gostosos!
 	"""
 	keyWait

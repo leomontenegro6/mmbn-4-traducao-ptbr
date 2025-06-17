@@ -420,6 +420,7 @@ script 102 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
+	"""
 	Pronto,4 provas.
 	Agora vamos pra
 	aquele 

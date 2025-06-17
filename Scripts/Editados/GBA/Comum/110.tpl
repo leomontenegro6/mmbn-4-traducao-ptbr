@@ -7,7 +7,7 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	Tem doces não-
-	-totalmente-comidos
+	totalmente-comidos
 	espalhados aqui.
 	"""
 	keyWait

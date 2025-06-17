@@ -358,7 +358,7 @@ script 16 mmbn4 {
 	clearMsg
 	"""
 	mas você pode fazê-
-	-lo ir pra frente
+	lo ir pra frente
 	e pra trás com os
 	"""
 	keyWait

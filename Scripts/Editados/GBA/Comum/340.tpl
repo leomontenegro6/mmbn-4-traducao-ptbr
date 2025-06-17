@@ -67,7 +67,7 @@ script 160 mmbn4 {
 	msgOpen
 	"""
 	Eu AMO cachorro-
-	-quente! Estou
+	quente! Estou
 	visitando diversas
 	"""
 	keyWait

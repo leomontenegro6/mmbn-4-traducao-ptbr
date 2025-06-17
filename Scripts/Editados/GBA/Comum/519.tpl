@@ -466,7 +466,7 @@ script 27 mmbn4 {
 	"""
 	Suspeito que tenha
 	sido um Navi mal-
-	-intencionado...
+	intencionado...
 	"""
 	keyWait
 		any = false
