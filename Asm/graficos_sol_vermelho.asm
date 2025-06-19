@@ -4,7 +4,9 @@
 .open "Mega Man Battle Network 4 - Sol Vermelho (BR).gba", 0x08000000
 
 ; Gráficos descomprimidos, em seus respectivos offsets.
-; Fontes dos textos acentuadas (sem VWF)
+; Fontes dos textos acentuadas.
+.org 0x080515E0
+    .incbin "Graficos/Editados/Fonte textos (VWF).gba"
 .org 0x08694F5C
     .incbin "Graficos/Editados/Fonte textos.gba"
 .org 0x086C7C50

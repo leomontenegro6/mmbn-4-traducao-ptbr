@@ -1,0 +1,5 @@
+A fonte VWF, no Red Sun, tá no offset 0x0515E0
+
+Offset relativo da letra 'A': 0x98
+Offset relativo dos caracteres de pontuação: 0x100
+Offset relativo dos caracteres acentuados: 0x200
