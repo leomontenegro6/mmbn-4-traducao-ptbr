@@ -20,6 +20,12 @@
 .org 0x086AD704
     .incbin "Graficos/Editados/Licenciado pela Nintendo.gba"
 
+; Menu PET, exibido ao apertar start.
+.org 0x086EB5BC
+    .incbin "Graficos/Editados/Menu PET 1.gba"
+.org 0x086EC6FC
+    .incbin "Graficos/Editados/Menu PET 2.gba"
+
 ; Gráficos inseridos no final da rom, em sua maioria comprimidos.
 ; Catalogando ponteiros dos gráficos.
 .org 0x08025960

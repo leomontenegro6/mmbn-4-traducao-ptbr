@@ -3,7 +3,7 @@
 
 .open "Mega Man Battle Network 4 - Sol Vermelho (BR).gba", 0x08000000
 
-; Gráficos descomprimidos, em seus respectivos offsets.
+; Gráficos e tilemaps descomprimidos, em seus respectivos offsets.
 ; Fontes dos textos acentuadas.
 .org 0x080515E0
     .incbin "Graficos/Editados/Fonte textos (VWF).gba"
@@ -20,9 +20,15 @@
 .org 0x086ADBC0
     .incbin "Graficos/Editados/Licenciado pela Nintendo.gba"
 
-; Editando tilemap da tela-título
+; Tilemap da tela-título
 .org 0x087F3EB4
     .incbin "Graficos/Editados/Logo tela-titulo sol vermelho (tm).gba"
+
+; Menu PET, exibido ao apertar start.
+.org 0x086EBAC8
+    .incbin "Graficos/Editados/Menu PET 1.gba"
+.org 0x086ECC08
+    .incbin "Graficos/Editados/Menu PET 2.gba"
 
 ; Gráficos inseridos no final da rom, em sua maioria comprimidos.
 ; Catalogando ponteiros dos gráficos.

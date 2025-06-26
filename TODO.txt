@@ -1,7 +1,16 @@
 - Preparar lançamento da versão beta
 - Editar menu exibido ao apertar Start
+  - Menu PET (Editado)
+  - Menu Pasta
+  - Menu SubChips
+  - Menu Coleção
+  - Menu MegaMan
+  - Menu E-mail
+  - Menu Itens
+  - Menu Rede
+  - Menu Salvar
 - Gráficos de cenários pra editar:
-  - PC do LAN: "Welcome" debaixo da plataforma
-  - ACDC: Higsby's, pra tirar o apóstrofe
-  - Loja do Higsby: Editas placas do cenário (Sale, New, Welcome, etc)
+  - PC do LAN: "Welcome" debaixo da plataforma (Editado)
+  - ACDC: Higsby's, pra tirar o apóstrofe (Editado)
+  - Loja do Higsby: Editas placas do cenário (Editado)
   - EletroVila: Placas de "New" e "30% off"
