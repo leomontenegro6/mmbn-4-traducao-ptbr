@@ -5,8 +5,8 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Caramba! Que
-	"predião"!
+	Caramba!
+	Que "predião"!
 	É a tal loja?
 	"""
 	keyWait

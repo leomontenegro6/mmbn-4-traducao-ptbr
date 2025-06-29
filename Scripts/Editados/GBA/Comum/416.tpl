@@ -859,8 +859,9 @@ script 240 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Sou um negociador de
-	produtos de Saborya.
+	Sou uma negociadora
+	de produtos de
+	Saborya.
 	"""
 	keyWait
 		any = false
@@ -940,7 +941,7 @@ script 241 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviPink
 	msgOpen
-	"Opa,obrigado!"
+	"Opa,obrigada!"
 	keyWait
 		any = false
 	clearMsg
@@ -966,15 +967,15 @@ script 241 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviPink
 	"""
-	Eu adquiri isso aí
-	lá em Sharo.
+	Eu adquiri isso
+	aí lá em Sharo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Pode ser útil pra
-	você,um dia!
+	Pode ser útil
+	pra você,um dia!
 	"""
 	keyWait
 		any = false

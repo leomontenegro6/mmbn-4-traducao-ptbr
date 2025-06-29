@@ -196,7 +196,7 @@ script 13 mmbn4 {
 	"""
 	Um Ponto de Batalha.
 	As preliminares do
-	Torneio Água
+	Torneio Águia
 	"""
 	keyWait
 		any = false

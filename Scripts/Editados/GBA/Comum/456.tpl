@@ -226,8 +226,8 @@ script 15 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	GutsMan. Glide.
-	Eu assumo daqui!
+	GutsMan,Glide,
+	eu assumo daqui!
 	"""
 	keyWait
 		any = false

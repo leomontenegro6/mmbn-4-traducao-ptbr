@@ -246,8 +246,8 @@ script 12 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	você só responde com
-	"Hm"s e "Hã"s.
+	você só responde
+	com "hm" e "hã".
 	"""
 	keyWait
 		any = false

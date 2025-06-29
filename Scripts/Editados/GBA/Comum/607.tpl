@@ -105,8 +105,8 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Yuko
 	"""
-	Lan Hikari. Você é o
-	operador de
+	Lan Hikari. Você
+	é o operador do
 	MegaMan.EXE,né?
 	"""
 	keyWait

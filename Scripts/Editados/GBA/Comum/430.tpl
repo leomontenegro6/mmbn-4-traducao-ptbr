@@ -22,8 +22,8 @@ script 0 mmbn4 {
 	clearMsg
 	"""
 	Não parece,mas eu
-	um Lutador fortão
-	na minha terra!
+	sou um Lutador for-
+	tão na minha terra!
 	"""
 	keyWait
 		any = false
@@ -68,8 +68,8 @@ script 2 mmbn4 {
 	clearMsg
 	"""
 	Não parece,mas eu
-	um Lutador fortão
-	na minha terra!
+	sou um Lutador for-
+	tão na minha terra!
 	"""
 	keyWait
 		any = false

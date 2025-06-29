@@ -119,7 +119,7 @@ script 6 mmbn4 {
 	clearMsg
 	"""
 	A nossa única opção
-	e nos conectarmos do
+	é nos conectarmos do
 	mundo real!
 	"""
 	keyWait

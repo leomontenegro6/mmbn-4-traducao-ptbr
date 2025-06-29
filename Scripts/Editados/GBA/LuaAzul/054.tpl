@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	A DuplAlma requer
+	A UniAlma requer
 	o sacrifício de um
 	chip compatível.
 	"""
@@ -42,7 +42,7 @@ script 2 mmbn4 {
 	"""
 	Logo,ao sacrificar
 	um chip de Água,ele
-	ativa a DuplAlma.
+	ativa a UniAlma.
 	"""
 	keyWait
 		any = false
@@ -146,14 +146,14 @@ script 10 mmbn4 {
 	msgOpen
 	"""
 	Viu? É assim que se
-	faz uma DuplAlma.
+	faz uma UniAlma.
 	Apertar "OK" agora
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ativará a DuplAlma
+	ativará a UniAlma
 	automaticamente. A
 	AlmaAqua tem ataque
 	"""
@@ -188,7 +188,7 @@ script 11 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Isso é a DuplAlma.
+	Isso é a UniAlma.
 	Se dominá-la,você
 	ficará mais forte.
 	"""
@@ -220,14 +220,14 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E terceiro: a
-	DuplAlma só dura
+	E terceiro: a União
+	de Alma só dura
 	três turnos.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Lembre-se bem disso\nantes de usar a\nDuplAlma."
+	"Lembre-se bem disso\nantes de usar a\nUnião de Alma."
 	keyWait
 		any = false
 	end

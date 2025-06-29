@@ -28,7 +28,7 @@ script 1 mmbn4 {
 	"""
 	O grande buraco ne-
 	gro leva à "Terra
-	Vazia",o mundo da
+	Negra",o mundo da
 	"""
 	keyWait
 		any = false
@@ -110,7 +110,7 @@ script 2 mmbn4 {
 	"""
 	Agora pode ser
 	possível entrar na
-	"Terra Vazia"!
+	"Terra Negra"!
 	"""
 	keyWait
 		any = false

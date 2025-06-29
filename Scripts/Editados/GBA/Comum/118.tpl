@@ -135,8 +135,8 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	msgOpen
 	"""
-	Lixo
-	não-incinerável.
+	Lixo não
+	incinerável.
 	"""
 	keyWait
 		any = false
@@ -201,8 +201,8 @@ script 8 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Cuidar bem de seus
-	pertences
+	Cuidar bem de
+	seus pertences
 	importantes é vital.
 	"""
 	keyWait

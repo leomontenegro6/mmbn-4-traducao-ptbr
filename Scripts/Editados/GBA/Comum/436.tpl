@@ -126,8 +126,8 @@ script 130 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Antes do quinto de
-	9 ossos.
+	Em frente ao quinto
+	de 9 ossos.
 	"""
 	waitSkip
 		frames = 30

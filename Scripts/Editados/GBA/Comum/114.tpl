@@ -114,8 +114,8 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	É lá que fica a
-	área de
+	É lá que fica
+	a área de
 	computadores...
 	"""
 	keyWait

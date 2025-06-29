@@ -156,8 +156,8 @@ script 24 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Parece que a Mayl
-	quer falar alguma
+	Parece que as meninas
+	querem falar alguma
 	coisa.
 	"""
 	keyWait

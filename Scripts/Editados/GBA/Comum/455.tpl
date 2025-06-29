@@ -33,8 +33,8 @@ script 2 mmbn4 {
 	msgOpen
 	"""
 	Foi você que atacou
-	estes Navis caídos
-	todos?!
+	todos estes Navis
+	caídos?!
 	"""
 	keyWait
 		any = false

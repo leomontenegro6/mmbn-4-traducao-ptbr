@@ -317,7 +317,7 @@ script 8 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Peça Plus! Os pro-
+	Peça Próton! Os pro-
 	gramas a gente bota
 	em cima da linha.
 	"""

@@ -16,7 +16,7 @@ script 1 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	Vocês venceram essa.
+	A vitória é nossa.
 	"""
 	keyWait
 		any = false

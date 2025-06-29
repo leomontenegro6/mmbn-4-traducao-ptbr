@@ -44,7 +44,7 @@ script 0 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Dupla Alma!"
+	"União de Alma!"
 	keyWait
 		any = false
 	clearMsg
@@ -2145,7 +2145,7 @@ script 50 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Águia,para determi-
+	Falcão,para determi-
 	nar quem é o NetLu-
 	tador mais forte de
 	"""

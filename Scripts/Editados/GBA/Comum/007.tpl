@@ -9,7 +9,7 @@ script 1 mmbn4s {
 	end
 }
 script 2 mmbn4s {
-	"DuplAlma"
+	"UniAlma"
 	end
 }
 script 3 mmbn4s {
@@ -61,7 +61,7 @@ script 14 mmbn4s {
 	end
 }
 script 15 mmbn4s {
-	"ENBA"
+	"ANLN"
 	end
 }
 script 16 mmbn4s {

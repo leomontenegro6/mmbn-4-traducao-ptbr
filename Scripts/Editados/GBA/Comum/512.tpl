@@ -18,7 +18,7 @@ script 1 mmbn4 {
 	msgOpen
 	"""
 	Viagem terminada.
-	Cuidando onde pisa!
+	Cuidado onde pisa!
 	"""
 	keyWait
 		any = false

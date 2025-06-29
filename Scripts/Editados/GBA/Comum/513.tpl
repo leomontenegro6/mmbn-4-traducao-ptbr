@@ -1365,7 +1365,7 @@ script 26 mmbn4 {
 	"""
 	Django ergueu a
 	GunDelSol e soltou
-	e um grito!!
+	um grito!!
 	"""
 	keyWait
 		any = false

@@ -13,7 +13,7 @@ script 2 mmbn4s {
 	end
 }
 script 3 mmbn4s {
-	"TIME UP!"
+	"FIM DE TEMPO!"
 	end
 }
 script 4 mmbn4s {
@@ -57,11 +57,11 @@ script 13 mmbn4s {
 	end
 }
 script 14 mmbn4s {
-	" COUNTER HIT! "
+	" CONTRAGOLPE! "
 	end
 }
 script 15 mmbn4s {
-	"LEFT "
+	"RESTA "
 	printBuffer
 		buffer = 0
 		minLength = 2
@@ -71,6 +71,6 @@ script 15 mmbn4s {
 	end
 }
 script 16 mmbn4s {
-	"LEFT  0 "
+	"RESTA  0 "
 	end
 }

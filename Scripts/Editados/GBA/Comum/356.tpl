@@ -21,9 +21,8 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	ESTOU TÃO OCUPADO
-	QUE NEM CUIDO DE
-	TUDO SOZINHO!!
+	É COISA DEMAIS PARA
+	EU FAZER SOZINHO!!
 	"""
 	keyWait
 		any = false

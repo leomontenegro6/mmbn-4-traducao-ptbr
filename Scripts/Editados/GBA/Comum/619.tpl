@@ -106,7 +106,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = Yuko
-	"Muito certo!"
+	"E nem deve!"
 	keyWait
 		any = false
 	end

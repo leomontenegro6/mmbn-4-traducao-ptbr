@@ -1368,7 +1368,7 @@ script 220 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Sou um mercador de
+	Sou uma mercadora de
 	FragBugs...
 	"""
 	keyWait

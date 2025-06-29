@@ -327,7 +327,7 @@ script 203 mmbn4 {
 	clearMsg
 	"""
 	Ele é para estar no
-	canto direito de u,
+	canto direito de um
 	quadro nessa área.
 	"""
 	keyWait

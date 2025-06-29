@@ -476,11 +476,11 @@ script 157 mmbn4s {
 	end
 }
 script 158 mmbn4s {
-	"_TerraVazia1■"
+	"_TerraNegra1■"
 	end
 }
 script 159 mmbn4s {
-	"_TerraVazia2■"
+	"_TerraNegra2■"
 	end
 }
 script 240 mmbn4s {

@@ -41,7 +41,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Comer eu um lugar
+	Comer em um lugar
 	chique assim é tão
 	"Ameropa"!
 	"""
@@ -86,7 +86,7 @@ script 3 mmbn4 {
 }
 script 4 mmbn4 {
 	msgOpen
-	"O que loja é essa?"
+	"Que loja é essa?"
 	keyWait
 		any = false
 	clearMsg

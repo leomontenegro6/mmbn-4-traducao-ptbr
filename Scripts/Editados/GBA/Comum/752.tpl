@@ -59,7 +59,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviPink
-	"Eu não vou me dar\npor vencido!"
+	"Eu não vou me dar\npor vencida!"
 	keyWait
 		any = false
 	end

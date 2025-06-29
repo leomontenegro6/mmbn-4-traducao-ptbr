@@ -680,7 +680,7 @@ script 64 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	O Torneio Águia,é?
+	O Torneio Falcão,é?
 	"""
 	keyWait
 		any = false

@@ -651,7 +651,7 @@ script 18 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Obrigado por
+	Obrigada por
 	experimentar o
 	passeio!
 	"""

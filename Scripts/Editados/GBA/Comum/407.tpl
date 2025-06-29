@@ -1011,7 +1011,7 @@ script 224 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Aqui lá me deu
+	Aquilo lá me deu
 	arrepios. Ah,vai!
 	É só ignorar!
 	"""

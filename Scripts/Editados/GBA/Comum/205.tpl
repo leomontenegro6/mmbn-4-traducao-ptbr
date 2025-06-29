@@ -72,14 +72,14 @@ script 3 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Mostre o \""
+	"\"Mostre o "
 	printItem
 		buffer = 0
 		item = 8
 	"""
-	".
+	.
 	Caso contrário,
-	não poderá passar.
+	não poderá passar."
 	"""
 	keyWait
 		any = false

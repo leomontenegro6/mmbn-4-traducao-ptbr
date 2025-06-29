@@ -285,7 +285,7 @@ script 7 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Só Navis com corpos
+	Só Navis sem corpos
 	pretos podem usar
 	chips SP,e só Navis
 	"""

@@ -315,7 +315,7 @@ script 21 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Eu não dou pra
+	Eu não sirvo pra
 	ataques especiais.
 	"""
 	keyWait

@@ -166,8 +166,8 @@ script 30 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Dá pra acreditar na
-	petulância do
+	Dá pra acreditar
+	na petulância do
 	cavalo?
 	"""
 	keyWait
@@ -182,7 +182,7 @@ script 30 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Isso me deixa fulo
+	Isso me deixa fula
 	da vida... Toma,
 	tira eles daqui...
 	"""
@@ -225,8 +225,8 @@ script 31 mmbn4 {
 	msgOpen
 	"""
 	Tira logo esses
-	pontos de perto de
-	mim!
+	pontos de perto
+	de mim!
 	"""
 	keyWait
 		any = false

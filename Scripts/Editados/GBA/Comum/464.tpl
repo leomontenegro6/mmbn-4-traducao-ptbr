@@ -293,16 +293,16 @@ script 17 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ouvi dizer que os
-	egos deles
+	Ouvi dizer que
+	os egos deles
 	apodrecem,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	o que acaba levando
-	eles à...
+	o que acaba
+	levando eles à...
 	destruição.
 	"""
 	keyWait

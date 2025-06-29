@@ -688,7 +688,7 @@ script 36 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Eita. Fui dizimado
+	Eita. Fui dizimada
 	nas preliminares.
 	"""
 	keyWait

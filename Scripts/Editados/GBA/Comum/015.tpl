@@ -280,7 +280,7 @@ script 21 mmbn4 {
 	"""
 	possuem são conheci-
 	dos como "Peças
-	Plus". Essas não
+	Próton". Essas não
 	"""
 	keyWait
 		any = false
@@ -307,7 +307,7 @@ script 22 mmbn4 {
 	msgOpen
 	"""
 	O "Ataq+1" é uma
-	Peça Plus,então,
+	Peça Próton,então,
 	lembre-se de não
 	"""
 	keyWait
@@ -439,7 +439,7 @@ script 31 mmbn4 {
 	msgOpen
 	"""
 	Como "Rapidz+1" é
-	uma Peça Plus,não
+	uma Peça Próton,não
 	deve ser colocado
 	"""
 	keyWait

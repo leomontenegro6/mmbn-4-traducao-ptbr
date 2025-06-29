@@ -79,9 +79,9 @@ script 7 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Barreira
-	ligada no
-	começo.
+	Começa
+	luta c/
+	barreira.
 	"""
 	waitHold
 	end

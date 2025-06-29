@@ -69,7 +69,7 @@ script 4 mmbn4 {
 	"""
 	A pelúcia favorita
 	da Mayl... A cor é
-	diferente da da Yai.
+	diferente do da Yai.
 	"""
 	keyWait
 		any = false
@@ -129,7 +129,7 @@ script 6 mmbn4 {
 	"""
 	A pelúcia favorita
 	da Mayl... A cor é
-	diferente da da Yai.
+	diferente do da Yai.
 	"""
 	keyWait
 		any = false

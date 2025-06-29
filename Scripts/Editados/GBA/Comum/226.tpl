@@ -100,7 +100,7 @@ script 4 mmbn4 {
 	msgOpen
 	"""
 	Lan! O alarme da sua
-	Casinha de Cachorro
+	casinha de cachorro
 	tá uivando!
 	"""
 	keyWait

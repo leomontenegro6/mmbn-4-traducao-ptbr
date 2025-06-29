@@ -8,7 +8,7 @@ script 0 mmbn4 {
 		delay = 0
 	"""
 	O que encomendar,é?
-	(E/D: Página)
+	(L/R: Página)
 	(B: Sair)
 	"""
 	waitHold
@@ -21,7 +21,7 @@ script 1 mmbn4 {
 		delay = 0
 	"""
 	Qual vai ser,é?
-	(E/D: Página)
+	(L/R: Página)
 	(B: Sair)
 	"""
 	waitHold

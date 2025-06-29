@@ -611,8 +611,8 @@ script 22 mmbn4 {
 	msgOpen
 	"""
 	Ouvi dizer que 
-	Torneio Água será
-	no Castillo!
+	o Torneio Águia
+	será no Castillo!
 	"""
 	keyWait
 		any = false
@@ -623,7 +623,7 @@ script 23 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Ouvi dizer que 
+	Ouvi dizer que o
 	Torneio Falcão será
 	no Castillo!
 	"""

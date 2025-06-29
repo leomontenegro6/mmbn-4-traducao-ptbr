@@ -109,7 +109,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	"""
-	Idiota. Eram elem
+	Idiota. Eram eles
 	que acendiam o fogo
 	da fritadeira.
 	"""

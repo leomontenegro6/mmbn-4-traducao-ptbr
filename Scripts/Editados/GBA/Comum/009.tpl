@@ -202,10 +202,7 @@ script 12 mmbn4 {
 	end
 }
 script 20 mmbn4s {
-	"""
-	OBRIGADO POR JOGAR!
-	CONCLUIU O EXE4!!
-	"""
+    "      ZEROU O MMBN4!\n   OBRIGADO POR JOGAR!"
 	end
 }
 script 21 mmbn4s {

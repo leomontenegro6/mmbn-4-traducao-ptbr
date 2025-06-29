@@ -235,8 +235,8 @@ script 11 mmbn4 {
 	clearMsg
 	"""
 	E,por sinal?
-	A GENTE vai é que
-	vai vencer!
+	A GENTE é que vai
+	vencer!
 	"""
 	keyWait
 		any = false
@@ -338,7 +338,7 @@ script 16 mmbn4 {
 	clearMsg
 	"""
 	Rolava em todo canto
-	antigamente,mas por
+	antigamente,mas,por
 	ser perigoso demais,
 	"""
 	keyWait

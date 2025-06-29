@@ -64,7 +64,7 @@ script 2 mmbn4 {
 	"""
 	Vai todo mundo ficar
 	besta com a ação
-	intensidade dele!
+	intensa dele!
 	"""
 	keyWait
 		any = false

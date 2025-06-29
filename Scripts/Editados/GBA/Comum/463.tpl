@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = ShadeMan
 	msgOpen
 	"""
-	O que houve com...
-	meus poderes...?
-	Hye... hye...!
+	Ué,que fim levou
+	todo aquele seu
+	vigor? Hye hyeee!
 	"""
 	keyWait
 		any = false

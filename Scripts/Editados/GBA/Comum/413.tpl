@@ -198,7 +198,7 @@ script 15 mmbn4 {
 	clearMsg
 	"""
 	ESTAREI TORCENDO
-	PRO VOCÊ!
+	POR VOCÊ!
 	"""
 	keyWait
 		any = false
@@ -234,7 +234,7 @@ script 17 mmbn4 {
 	clearMsg
 	"""
 	ESTAREI TORCENDO
-	PRO VOCÊ!
+	POR VOCÊ!
 	"""
 	keyWait
 		any = false

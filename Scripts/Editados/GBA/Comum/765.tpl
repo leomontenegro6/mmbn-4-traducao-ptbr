@@ -151,7 +151,8 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ô,vontade de te dar\num chute!!
+	Ô,vontade de te dar
+	um chute!!
 	"""
 	keyWait
 		any = false

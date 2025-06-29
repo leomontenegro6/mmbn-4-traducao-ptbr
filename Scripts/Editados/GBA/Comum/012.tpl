@@ -29,7 +29,7 @@ script 6 mmbn4s {
 	end
 }
 script 7 mmbn4s {
-	"BarrVloz"
+	"BarrInic"
 	end
 }
 script 8 mmbn4s {

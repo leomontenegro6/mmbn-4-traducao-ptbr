@@ -24,14 +24,11 @@ script 0 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"""
-	Já sei: tem
-	"
-	"""
+	"Já sei: tem\n"
 	printItem
 		buffer = 0
 		item = 3
-	"\"s,né?"
+	"s,né?"
 	keyWait
 		any = false
 	clearMsg

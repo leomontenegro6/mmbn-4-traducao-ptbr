@@ -618,7 +618,7 @@ script 44 mmbn4 {
 		delay = 0
 	"""
 	Quebra
-	3o. qdro
+	3o.qdro
 	à frente
 	"""
 	keyWait
@@ -1498,8 +1498,7 @@ script 107 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Cura
-	10PV
+	Cura 10PV
 	"""
 	keyWait
 		any = true
@@ -1511,8 +1510,7 @@ script 108 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Cura
-	30PV
+	Cura 30PV
 	"""
 	keyWait
 		any = true
@@ -1524,8 +1522,7 @@ script 109 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Cura
-	50PV
+	Cura 50PV
 	"""
 	keyWait
 		any = true
@@ -1537,8 +1534,7 @@ script 110 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Cura
-	80PV
+	Cura 80PV
 	"""
 	keyWait
 		any = true
@@ -1958,9 +1954,9 @@ script 140 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Ataque
-	de fogo.
-	Te fere
+	Protege
+	de golpe
+	de Fogo
 	"""
 	keyWait
 		any = true
@@ -1972,9 +1968,9 @@ script 141 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Ataque
-	de água.
-	Te fere
+	Protege
+	de golpe
+	de Água
 	"""
 	keyWait
 		any = true
@@ -1986,9 +1982,9 @@ script 142 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Ataque
-	elétrico.
-	Te fere
+	Protege
+	de golpe
+	Elétrico
 	"""
 	keyWait
 		any = true
@@ -2000,9 +1996,9 @@ script 143 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Ataque de
-	madeira.
-	Te fere
+	Protege
+	de golpe
+	de Mdra
 	"""
 	keyWait
 		any = true
@@ -2030,7 +2026,7 @@ script 145 mmbn4 {
 	"""
 	Armadilha
 	que atira
-	shurikens
+	shuriken
 	"""
 	keyWait
 		any = true
@@ -2072,7 +2068,7 @@ script 148 mmbn4 {
 	"""
 	Copia
 	dano em
-	2o. alvo
+	2o.alvo
 	"""
 	keyWait
 		any = true
@@ -2865,8 +2861,8 @@ script 205 mmbn4 {
 		delay = 0
 	"""
 	+30 para
-	chip
-	selecionado
+	chip se-
+	lecionado
 	"""
 	keyWait
 		any = true
@@ -3049,7 +3045,7 @@ script 218 mmbn4 {
 		delay = 0
 	"""
 	Espada
-	Reploid
+	Reploide
 	corta 3x
 	"""
 	keyWait

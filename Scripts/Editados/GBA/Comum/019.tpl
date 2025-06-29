@@ -641,7 +641,7 @@ script 15 mmbn4 {
 	clearMsg
 	"""
 	Comprei lá um Escudo
-	e uma BarrVelz pra
+	e uma BarrInic pra
 	me defender das
 	"""
 	keyWait
@@ -848,8 +848,8 @@ script 19 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	ele reaparece na
-	Tela de
+	ele reaparece
+	na Tela de
 	Customização!
 	"""
 	keyWait
@@ -1027,8 +1027,8 @@ script 24 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Baixo/Inferior
-	Direito/Direita
+	Baixo/Inferior-
+	direito/Direita
 	pra LongSwrd.
 	"""
 	keyWait
@@ -1115,8 +1115,8 @@ script 27 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Eu tava num Duelo de
-	Rede outro dia
+	Eu tava num Duelo
+	de Rede outro dia
 	quando apareceu um
 	"""
 	keyWait

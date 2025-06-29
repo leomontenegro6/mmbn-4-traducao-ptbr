@@ -29,7 +29,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Suba as espadas para
+	Suba as escadas para
 	a Sala de Espera.
 	"""
 	keyWait

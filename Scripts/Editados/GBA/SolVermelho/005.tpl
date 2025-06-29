@@ -486,7 +486,7 @@ script 17 mmbn4 {
 	clearMsg
 	"""
 	Confira a conexão do
-	Portão de Chips.
+	Chip Gate.
 	
 	"""
 	positionOptionHorizontal
@@ -539,7 +539,7 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	O Portão de Chips
+	O Chip Gate
 	não está conectado!
 	"""
 	keyWait
@@ -564,7 +564,7 @@ script 19 mmbn4 {
 		mugshot = MrFamous
 	"""
 	Confira a conexão do
-	Portão de Chips.
+	Chip Gate.
 	
 	"""
 	positionOptionHorizontal

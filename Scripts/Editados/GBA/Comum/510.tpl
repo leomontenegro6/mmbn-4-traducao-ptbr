@@ -26,7 +26,7 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	Parece que estamos
-	sendo observado...
+	sendo observados...
 	"""
 	keyWait
 		any = false

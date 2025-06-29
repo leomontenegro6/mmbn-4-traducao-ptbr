@@ -246,9 +246,9 @@ script 13 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Brandindo com
-	facilidade armas,
-	os "chips"...
+	Brandindo,com
+	facilidade,armas.
+	Os "chips"...
 	"""
 	keyWait
 		any = false

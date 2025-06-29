@@ -364,7 +364,7 @@ script 26 mmbn4 {
 	msgOpen
 	"""
 	"Nunca perder a
-	'ispeança"!'"
+	'ispeança!'"
 	Tá!
 	"""
 	keyWait

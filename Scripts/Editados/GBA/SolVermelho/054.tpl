@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	A DuplAlma requer
+	A UniAlma requer
 	o sacrifício de um
 	chip compatível.
 	"""
@@ -155,7 +155,7 @@ script 10 mmbn4 {
 	msgOpen
 	"""
 	Viu? É assim que se
-	faz uma DuplAlma.
+	faz uma UniAlma.
 	Apertar "OK" agora
 	"""
 	keyWait
@@ -163,7 +163,7 @@ script 10 mmbn4 {
 	clearMsg
 	"""
 	vai ativar a
-	DuplAlma automatica-
+	UniAlma automatica-
 	mente. A AlmaGuts dá
 	"""
 	keyWait
@@ -206,7 +206,7 @@ script 11 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Isso é a DuplAlma.
+	Isso é a UniAlma.
 	Se dominá-la,você
 	ficará mais forte.
 	"""
@@ -238,14 +238,14 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E terceiro: a
-	DuplAlma só dura
+	E terceiro: a União
+	de Alma só dura
 	três turnos.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Lembre-se bem disso\nantes de usar a\nDuplAlma."
+	"Lembre-se bem disso\nantes de usá-la."
 	keyWait
 		any = false
 	end

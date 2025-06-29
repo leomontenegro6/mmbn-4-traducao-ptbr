@@ -111,13 +111,17 @@ script 8 mmbn4 {
 	msgOpen
 	"""
 	Lan,chegou e-mail!
-	É da sua mãe!
+	É da sua mãe.
 	Vou ler ele aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Lan,você tem visita.\n Venha para casa."
+	"""
+	"Lan,você tem
+	visita.
+	Venha para casa."
+	"""
 	keyWait
 		any = false
 	clearMsg

@@ -152,8 +152,8 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	msgOpen
 	"""
-	A nossa Casinha de
-	Cachorro... Temos
+	A nossa casinha de
+	cachorro... Temos
 	ela há muitos anos.
 	"""
 	keyWait

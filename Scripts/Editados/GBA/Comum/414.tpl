@@ -512,7 +512,7 @@ script 54 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Eu estava entediado,
+	Eu estava entediada,
 	então decidi confe-
 	rir aquele torneio.
 	"""

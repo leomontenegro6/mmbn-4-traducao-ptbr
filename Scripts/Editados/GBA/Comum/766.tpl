@@ -121,8 +121,8 @@ script 6 mmbn4 {
 		mugshot = Lan
 	"""
 	Não adianta ficar
-	estressando com
-	isso agora!
+	se estressando
+	com isso agora!
 	"""
 	keyWait
 		any = false

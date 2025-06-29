@@ -95,7 +95,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Esse é o Ataque\ndele."
+	"Esse é o ataque\ndele."
 	keyWait
 		any = false
 	end

@@ -249,7 +249,7 @@ script 16 mmbn4 {
 		mugshot = Lan
 	"""
 	Como assim,
-	"conversar"?!"
+	"conversar"?!
 	"""
 	keyWait
 		any = false

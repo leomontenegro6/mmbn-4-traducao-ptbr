@@ -2087,7 +2087,7 @@ script 124 mmbn4s {
 	end
 }
 script 125 mmbn4s {
-	"Segredo"
+	"Secreto"
 	end
 }
 script 126 mmbn4 {

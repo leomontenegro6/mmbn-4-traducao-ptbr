@@ -3009,7 +3009,7 @@ script 133 mmbn4 {
 	"""
 	No CustNavi,use "L"
 	e "R" para girar
-	pelas verdes de
+	peças verdes de
 	"""
 	keyWait
 		any = false
