@@ -77,7 +77,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	msgOpen
 	"""
-	Ai,esses olhinhos! A
+	Ai, esses olhinhos! A
 	estátua de esquilo é
 	um símbolo de ACDC.
 	"""
@@ -113,7 +113,7 @@ script 5 mmbn4 {
 		mugshot = Lan
 	"""
 	Será que...?
-	É! É,sim!
+	É! É, sim!
 	"""
 	keyWait
 		any = false
@@ -181,7 +181,7 @@ script 8 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	mas,na verdade,é um
+	mas, na verdade, é um
 	sistema anti-crimes.
 	"""
 	keyWait
@@ -189,7 +189,7 @@ script 8 mmbn4 {
 	clearMsg
 	"""
 	Tem entrada de
-	conexão,para fazer
+	conexão, para fazer
 	manutenção.
 	"""
 	keyWait

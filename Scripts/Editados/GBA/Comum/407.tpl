@@ -144,7 +144,7 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	ou pela Rede,ou se
+	ou pela Rede, ou se
 	conectando do mundo
 	real.
 	"""
@@ -173,7 +173,7 @@ script 4 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Ah,é mesmo!"
+	"Ah, é mesmo!"
 	keyWait
 		any = false
 	clearMsg
@@ -359,7 +359,7 @@ script 21 mmbn4 {
 	"""
 	entrar no torneio.
 	Vou ficar só na
-	torcida,mesmo!
+	torcida, mesmo!
 	"""
 	keyWait
 		any = false
@@ -397,7 +397,7 @@ script 25 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	De todo modo,a vila
+	De todo modo, a vila
 	não fica na Rede em
 	si.
 	"""
@@ -413,7 +413,7 @@ script 25 mmbn4 {
 	clearMsg
 	"""
 	Mas eles se mudam o
-	tempo todo,então não
+	tempo todo, então não
 	sei exatamente qual.
 	"""
 	keyWait
@@ -430,28 +430,28 @@ script 25 mmbn4 {
 	"""
 	Acho que eu falei
 	com ele... na
-	Área Vila,é.
+	Área Vila, é.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Ele é meio tímido,
-	então,vai ter que
+	então, vai ter que
 	suar pra achar ele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ah,e ele tem a mania
+	Ah, e ele tem a mania
 	de sempre mentir pra
 	Navis desconhecidos.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Bom,boa sorte pra\nvocê!"
+	"Bom, boa sorte pra\nvocê!"
 	keyWait
 		any = false
 	flagSet
@@ -524,7 +524,7 @@ script 29 mmbn4 {
 	mugshotShow
 		mugshot = PurpleNavi
 	msgOpen
-	"Ungh,ungh..."
+	"Ungh, ungh..."
 	keyWait
 		any = false
 	clearMsg
@@ -538,7 +538,7 @@ script 30 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	AI,AI...
+	AI, AI...
 	TALVEZ EU PRECISE
 	DE UMAS FÉRIAS.
 	"""
@@ -551,8 +551,8 @@ script 31 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Ei,você tá no
-	torneio,né?
+	Ei, você tá no
+	torneio, né?
 	"""
 	keyWait
 		any = false
@@ -579,7 +579,7 @@ script 140 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	(Aí,você não pode
+	(Aí, você não pode
 	entrar aí assim!)
 	"""
 	keyWait
@@ -707,7 +707,7 @@ script 162 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	ENTÃO,A LOJA DO
+	ENTÃO, A LOJA DO
 	HIGSBY NÃO VENDE
 	SÓ CHIPS!
 	"""
@@ -730,7 +730,7 @@ script 163 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Ah,cê tá ajudando
+	Ah, cê tá ajudando
 	o Higsby?
 	Eu levo um.
 	"""
@@ -771,7 +771,7 @@ script 164 mmbn4 {
 	msgOpen
 	"""
 	Hmm. Com chips
-	fortes,eu teria mais
+	fortes, eu teria mais
 	chance nas lutas...
 	"""
 	keyWait
@@ -821,7 +821,7 @@ script 166 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Mas,pensando bem,"
+	"Mas, pensando bem,"
 	keyWait
 		any = false
 	clearMsg
@@ -834,8 +834,8 @@ script 166 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Então,tô de ótimo
-	humor,pra variar.
+	Então, tô de ótimo
+	humor, pra variar.
 	Dá um aqui!
 	"""
 	keyWait
@@ -886,7 +886,7 @@ script 168 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Ô louco,tem uns
+	Ô louco, tem uns
 	chips bem raros aí!
 	Preciso ir lá ver!
 	"""
@@ -1012,7 +1012,7 @@ script 224 mmbn4 {
 	msgOpen
 	"""
 	Aquilo lá me deu
-	arrepios. Ah,vai!
+	arrepios. Ah, vai!
 	É só ignorar!
 	"""
 	keyWait
@@ -1073,7 +1073,7 @@ script 225 mmbn4 {
 	clearMsg
 	"""
 	Não vi nenhum Navi
-	Fantasma,não!
+	Fantasma, não!
 	Não senhor!
 	"""
 	keyWait
@@ -1082,7 +1082,7 @@ script 225 mmbn4 {
 	"""
 	E-enfim! De volta
 	ao trabalho!
-	Cof,cof! Ca-ham!
+	Cof, cof! Ca-ham!
 	"""
 	keyWait
 		any = false

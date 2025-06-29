@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	E aí,MegaMan?
+	E aí, MegaMan?
 	"""
 	keyWait
 		any = false
@@ -17,7 +17,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Tá trancada,e eu
+	Tá trancada, e eu
 	não tô vendo o
 	NumberMan.
 	"""
@@ -48,7 +48,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Que foi,MegaMan?"
+	"Que foi, MegaMan?"
 	keyWait
 		any = false
 	clearMsg
@@ -103,12 +103,12 @@ script 8 mmbn4 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	MegaMan,é você?!
+	MegaMan, é você?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ah,e em boa hora!"
+	"Ah, e em boa hora!"
 	keyWait
 		any = false
 	clearMsg

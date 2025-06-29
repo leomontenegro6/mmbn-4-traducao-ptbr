@@ -46,7 +46,7 @@ script 132 mmbn4 {
 	msgOpen
 	"""
 	Os olhos dele estão
-	esbugalhados,mas
+	esbugalhados, mas
 	não mostram vida...
 	"""
 	keyWait

@@ -14,7 +14,7 @@ script 0 mmbn4 {
 	"Conectar!!"
 	wait
 		frames = 10
-	"\nMegaMan.EXE,\ntransmissão!"
+	"\nMegaMan.EXE, \ntransmissão!"
 	wait
 		frames = 30
 	controlUnlock
@@ -93,7 +93,7 @@ script 12 mmbn4 {
 	msgOpen
 	"""
 	Deixa pra conectar
-	depois,Lan! A mamãe
+	depois, Lan! A mamãe
 	tá em apuros!
 	"""
 	keyWait
@@ -116,7 +116,7 @@ script 13 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,veja a sua caixa
+	Lan, veja a sua caixa
 	de entrada de
 	e-mails!
 	"""
@@ -175,7 +175,7 @@ script 16 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,primeiro a gente
+	Lan, primeiro a gente
 	tem que achar o
 	"
 	"""

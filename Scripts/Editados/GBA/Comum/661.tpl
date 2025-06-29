@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Lilly,você tá legal?"
+	"Lilly, você tá legal?"
 	keyWait
 		any = false
 	clearMsg
@@ -41,7 +41,7 @@ script 3 mmbn4 {
 		timer = 1
 		value = 1
 	"""
-	É,eu tô bem!
+	É, eu tô bem!
 	Não foi nada!
 	Nadinha!
 	"""
@@ -50,7 +50,7 @@ script 3 mmbn4 {
 	clearMsg
 	"""
 	Brigada por me
-	salvar,Lan.
+	salvar, Lan.
 	"""
 	keyWait
 		any = false
@@ -66,12 +66,12 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"He he,de nada!"
+	"He he, de nada!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Bom,eu tenho que ir
+	Bom, eu tenho que ir
 	agora.
 	"""
 	keyWait

@@ -20,7 +20,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ainda assim,é meio
+	Ainda assim, é meio
 	grande demais para
 	eu cuidar de tudo
 	"""
@@ -50,7 +50,7 @@ script 5 mmbn4 {
 	msgOpen
 	"""
 	Por mais que eu lim-
-	pe,parece que o tra-
+	pe, parece que o tra-
 	balho nunca termina!
 	"""
 	keyWait
@@ -86,7 +86,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = OldManAlt
 	msgOpen
-	"Opa,oi,menin'."
+	"Opa, oi, menin'."
 	keyWait
 		any = false
 	clearMsg
@@ -136,7 +136,7 @@ script 16 mmbn4 {
 	"""
 	eu era conhecido
 	como "Tempestade de
-	Areia",por causa da
+	Areia", por causa da
 	"""
 	keyWait
 		any = false
@@ -173,7 +173,7 @@ script 20 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	ajuda dele! E,sabe,
+	ajuda dele! E, sabe,
 	ele é tão familiar.
 	Hmmm...
 	"""
@@ -198,7 +198,7 @@ script 21 mmbn4 {
 	"""
 	Pegar na vassoura
 	reanima os meus
-	ossos,menin'!
+	ossos, menin'!
 	"""
 	keyWait
 		any = false
@@ -291,7 +291,7 @@ script 30 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Ele é incrível,\nsimples assim!"
+	"Ele é incrível, \nsimples assim!"
 	keyWait
 		any = false
 	end
@@ -303,12 +303,12 @@ script 31 mmbn4 {
 	"""
 	Num vô ensinar pra
 	minha aprendiz
-	nenhum truque,não.
+	nenhum truque, não.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Truque nem é pra\naprender,mesmo!"
+	"Truque nem é pra\naprender, mesmo!"
 	keyWait
 		any = false
 	clearMsg
@@ -340,7 +340,7 @@ script 40 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"Ora,ora,se não é o\nLan!"
+	"Ora, ora, se não é o\nLan!"
 	keyWait
 		any = false
 	clearMsg
@@ -383,7 +383,7 @@ script 40 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E aí,quer esta
+	E aí, quer esta
 	"
 	"""
 	printFolderName
@@ -429,7 +429,7 @@ script 40 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	Ah. Bom,não vou te
+	Ah. Bom, não vou te
 	forçar.
 	"""
 	keyWait
@@ -482,7 +482,7 @@ script 41 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Agora,\""
+	"Agora, \""
 	printFolderName
 		buffer = 0
 		entry = 5
@@ -495,7 +495,7 @@ script 41 mmbn4 {
 	clearMsg
 	"""
 	Ela pode ser
-	poderosa,se você
+	poderosa, se você
 	souber como usá-la!
 	"""
 	keyWait
@@ -506,7 +506,7 @@ script 42 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"Ah,Lan!"
+	"Ah, Lan!"
 	keyWait
 		any = false
 	clearMsg
@@ -524,7 +524,7 @@ script 42 mmbn4 {
 	"""
 	a sua PastaExtra
 	atual. Se aceitar
-	isso,ela é sua!
+	isso, ela é sua!
 	"""
 	keyWait
 		any = false
@@ -572,7 +572,7 @@ script 42 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	Ah. Bom,não vou te
+	Ah. Bom, não vou te
 	forçar.
 	"""
 	keyWait

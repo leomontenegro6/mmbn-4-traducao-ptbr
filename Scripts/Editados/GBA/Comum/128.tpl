@@ -13,14 +13,14 @@ script 1 mmbn4 {
 	msgOpen
 	"""
 	O banheiro tem de
-	tudo,incluindo
+	tudo, incluindo
 	banheira e chuveiro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mas,dada a situação,
+	Mas, dada a situação,
 	você não pode
 	relaxar aqui.
 	"""
@@ -45,7 +45,7 @@ script 2 mmbn4 {
 	"""
 	Mas é bem mais caro
 	que fora do hotel,
-	então,cuidado.
+	então, cuidado.
 	"""
 	keyWait
 		any = false
@@ -60,7 +60,7 @@ script 3 mmbn4 {
 	"""
 	É feita pra
 	ameropanos,
-	então,é enorme.
+	então, é enorme.
 	"""
 	keyWait
 		any = false
@@ -84,7 +84,7 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Leve,porém rígida.
+	Leve, porém rígida.
 	Útil para todo o
 	tipo de coisa.
 	"""
@@ -103,7 +103,7 @@ script 6 mmbn4 {
 	clearMsg
 	"""
 	Assim fica fácil
-	dormir,mesmo num
+	dormir, mesmo num
 	lugar desconhecido.
 	"""
 	keyWait
@@ -120,8 +120,8 @@ script 7 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	mas,olhando de
-	perto,ela só está
+	mas, olhando de
+	perto, ela só está
 	enfiada na parede.
 	"""
 	keyWait

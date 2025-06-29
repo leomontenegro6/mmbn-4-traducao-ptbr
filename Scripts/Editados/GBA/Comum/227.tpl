@@ -14,7 +14,7 @@ script 0 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Oi,Lan! Pra onde
+	Oi, Lan! Pra onde
 	você tá indo?
 	"""
 	keyWait
@@ -57,7 +57,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,ei: o que foi
+	Mas, ei: o que foi
 	aquilo depois da
 	premiação?
 	"""
@@ -84,7 +84,7 @@ script 2 mmbn4 {
 	clearMsg
 	"""
 	Queria ir pra um
-	lugar legal,mas
+	lugar legal, mas
 	cadê o dinheiro...
 	"""
 	keyWait
@@ -113,7 +113,7 @@ script 3 mmbn4 {
 	clearMsg
 	"""
 	o Torneio Sol
-	Vermelho,será
+	Vermelho, será
 	realizado na
 	"""
 	keyWait
@@ -146,15 +146,15 @@ script 5 mmbn4 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Você pode viajar,ida
-	e volta,daqui pra
+	Você pode viajar, ida
+	e volta, daqui pra
 	Ameropa de graça?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	É,acredito muito!
+	É, acredito muito!
 	"""
 	keyWait
 		any = false
@@ -201,7 +201,7 @@ script 7 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,ei: o que foi
+	Mas, ei: o que foi
 	aquilo depois da
 	premiação?
 	"""
@@ -219,7 +219,7 @@ script 10 mmbn4 {
 	"""
 	O quê?! Cê vai par-
 	ticipar do Torneio
-	Sol Vermelho,Lan?!
+	Sol Vermelho, Lan?!
 	"""
 	keyWait
 		any = false
@@ -301,7 +301,7 @@ script 14 mmbn4 {
 	"""
 	O quê?! Cê vai par-
 	ticipar do Torneio
-	Lua Azul,Lan?!
+	Lua Azul, Lan?!
 	"""
 	keyWait
 		any = false
@@ -402,7 +402,7 @@ script 23 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Nossa,competindo no
+	Nossa, competindo no
 	palco mundial...
 	"""
 	keyWait
@@ -443,7 +443,7 @@ script 31 mmbn4 {
 	clearMsg
 	"""
 	É sério?!
-	QUE LOUCO,CARA!!
+	QUE LOUCO, CARA!!
 	"""
 	keyWait
 		any = false
@@ -480,7 +480,7 @@ script 32 mmbn4 {
 	"""
 	Nossa! Quer saber?
 	Acho que eu vou
-	participar,também!
+	participar, também!
 	"""
 	keyWait
 		any = false
@@ -516,7 +516,7 @@ script 34 mmbn4 {
 	clearMsg
 	"""
 	É sério?!
-	QUE LOUCO,CARA!!
+	QUE LOUCO, CARA!!
 	"""
 	keyWait
 		any = false
@@ -544,7 +544,7 @@ script 40 mmbn4 {
 	msgOpen
 	"""
 	Se você vencer a
-	próxima luta,será
+	próxima luta, será
 	o campeão do mundo!
 	"""
 	keyWait
@@ -629,7 +629,7 @@ script 45 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Aí,é o herói de
+	Aí, é o herói de
 	ACDC! Quando foi
 	que cê voltou?
 	"""
@@ -719,7 +719,7 @@ script 48 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	embora,dizendo
+	embora, dizendo
 	que eu tava
 	atrapalhando...
 	"""
@@ -739,7 +739,7 @@ script 50 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Aí,herói!
+	Aí, herói!
 	Pra que a pressa?
 	"""
 	keyWait
@@ -752,13 +752,13 @@ script 51 mmbn4 {
 	msgOpen
 	"""
 	Ouvi dizer que o
-	Sindicato é,tipo,
+	Sindicato é, tipo,
 	pura crueldade!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Medo,medo!"
+	"Medo, medo!"
 	keyWait
 		any = false
 	end
@@ -769,7 +769,7 @@ script 52 mmbn4 {
 	msgOpen
 	"""
 	Se você é o campeão
-	mundial,então talvez
+	mundial, então talvez
 	eu também tenha
 	"""
 	keyWait
@@ -777,7 +777,7 @@ script 52 mmbn4 {
 	clearMsg
 	"""
 	esperança!
-	... Er,sem querer
+	... Er, sem querer
 	ofender!
 	"""
 	keyWait
@@ -790,7 +790,7 @@ script 53 mmbn4 {
 	msgOpen
 	"""
 	Arrgh! A Rede voltou
-	ao normal,e os
+	ao normal, e os
 	Oficiais ainda me
 	"""
 	keyWait
@@ -874,7 +874,7 @@ script 100 mmbn4 {
 		mugshot = OldWomanAlt
 	msgOpen
 	"""
-	Ei,menino... Quer
+	Ei, menino... Quer
 	uma "
 	"""
 	printFolderName
@@ -886,13 +886,13 @@ script 100 mmbn4 {
 	clearMsg
 	"""
 	Não é a melhor pasta
-	do mundo,mas...
+	do mundo, mas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	às vezes,usar uma
+	às vezes, usar uma
 	pasta fraca é um bom
 	jeito de treinar!
 	"""
@@ -966,7 +966,7 @@ script 101 mmbn4 {
 	mugshotShow
 		mugshot = OldWomanAlt
 	msgOpen
-	"Certo,então..."
+	"Certo, então..."
 	keyWait
 		any = false
 	clearMsg
@@ -1010,7 +1010,7 @@ script 101 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Agora,sua PastaExtra
+	Agora, sua PastaExtra
 	é a "
 	"""
 	printFolderName
@@ -1033,7 +1033,7 @@ script 102 mmbn4 {
 	mugshotShow
 		mugshot = OldWomanAlt
 	msgOpen
-	"Certo,então..."
+	"Certo, então..."
 	keyWait
 		any = false
 	clearMsg
@@ -1077,7 +1077,7 @@ script 102 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Agora,sua PastaExtra
+	Agora, sua PastaExtra
 	é a "
 	"""
 	printFolderName
@@ -1095,7 +1095,7 @@ script 103 mmbn4 {
 	mugshotShow
 		mugshot = OldWomanAlt
 	msgOpen
-	"Certo,então..."
+	"Certo, então..."
 	keyWait
 		any = false
 	clearMsg
@@ -1139,7 +1139,7 @@ script 103 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Agora,sua PastaExtra
+	Agora, sua PastaExtra
 	é a "
 	"""
 	printFolderName
@@ -1166,7 +1166,7 @@ script 104 mmbn4 {
 		entry = 2
 	"""
 	"?
-	Pode ficar,desde que
+	Pode ficar, desde que
 	"""
 	keyWait
 		any = false
@@ -1215,7 +1215,7 @@ script 104 mmbn4 {
 	mugshotShow
 		mugshot = OldWomanAlt
 	"""
-	Se mudar de ideia,é
+	Se mudar de ideia, é
 	só falar comigo...
 	"""
 	keyWait
@@ -1274,7 +1274,7 @@ script 220 mmbn4 {
 }
 script 221 mmbn4 {
 	clearMsg
-	"\"Quem se prepara,\n não tem com o que\n se preocupar.\""
+	"\"Quem se prepara, \n não tem com o que\n se preocupar.\""
 	keyWait
 		any = false
 	clearMsg

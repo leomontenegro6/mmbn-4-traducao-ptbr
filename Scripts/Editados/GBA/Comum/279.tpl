@@ -13,7 +13,7 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ah,com licença...
+	Ah, com licença...
 	"""
 	keyWait
 		any = false
@@ -27,12 +27,12 @@ script 0 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = BlackMan
-	"Ah,você deve ser o\nLan!"
+	"Ah, você deve ser o\nLan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sim,o meu nome é
+	Sim, o meu nome é
 	Bonds! Muito prazer,
 	senhor!
 	"""
@@ -49,7 +49,7 @@ script 0 mmbn4 {
 	clearMsg
 	"""
 	Ainda está cedo para
-	o check-in,então,
+	o check-in, então,
 	por que não dá uma
 	"""
 	keyWait
@@ -62,7 +62,7 @@ script 0 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Ah,sim"
+	"Ah, sim"
 	waitSkip
 		frames = 30
 	"."
@@ -143,7 +143,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = OldManAlt
 	msgOpen
-	"Ei,turista!"
+	"Ei, turista!"
 	keyWait
 		any = false
 	clearMsg
@@ -224,7 +224,7 @@ script 3 mmbn4 {
 	"""
 	Aproveite o resto
 	da sua estadia na
-	Ameropa,turista!
+	Ameropa, turista!
 	"""
 	keyWait
 		any = false
@@ -243,7 +243,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = OldManAlt
 	msgOpen
-	"Abrindo,e..."
+	"Abrindo, e..."
 	keyWait
 		any = false
 	clearMsg
@@ -316,9 +316,9 @@ script 7 mmbn4 {
 		mugshot = OldManAlt
 	msgOpen
 	"""
-	Agora,conecte o
+	Agora, conecte o
 	seu PET a esta
-	Caixa Oxe,e...
+	Caixa Oxe, e...
 	"""
 	keyWait
 		any = false
@@ -371,7 +371,7 @@ script 8 mmbn4 {
 	clearMsg
 	"""
 	Essas caixas são
-	pura Ameropa,sabia?
+	pura Ameropa, sabia?
 	"""
 	keyWait
 		any = false
@@ -416,7 +416,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = OldManAlt
 	"""
-	Ah,você não sabe o
+	Ah, você não sabe o
 	que tá perdendo!
 	"""
 	keyWait
@@ -474,7 +474,7 @@ script 9 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Não,valeu"
+	"Não, valeu"
 	select
 		default = 0
 		noDelay = false
@@ -849,7 +849,7 @@ script 16 mmbn4 {
 	clearMsg
 	mugshotAnimation
 		animation = 1
-	"(Estou tendo zero\nlucro,mas pelo menos\nele tá satisfeito!)"
+	"(Estou tendo zero\nlucro, mas pelo menos\nele tá satisfeito!)"
 	keyWait
 		any = false
 	clearMsg
@@ -968,7 +968,7 @@ script 18 mmbn4 {
 	clearMsg
 	mugshotAnimation
 		animation = 1
-	"(Saí no prejuízo,\nmas pelo menos ga-\nnhei a negociação!)"
+	"(Saí no prejuízo, \nmas pelo menos ga-\nnhei a negociação!)"
 	keyWait
 		any = false
 	clearMsg
@@ -1023,7 +1023,7 @@ script 19 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mais barato,eu não
+	Mais barato, eu não
 	faço!
 	"""
 	keyWait
@@ -1253,7 +1253,7 @@ script 33 mmbn4 {
 	"""
 	mas eu não dou a
 	mínima! Nós,
-	ameropanos,não
+	ameropanos, não
 	"""
 	keyWait
 		any = false
@@ -1340,7 +1340,7 @@ script 42 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Ei,você!
+	Ei, você!
 	A luta já rolou?
 	"""
 	keyWait
@@ -1357,7 +1357,7 @@ script 42 mmbn4 {
 		frames = 30
 	"""
 	 Ainda não?
-	Bom,boa sorte!
+	Bom, boa sorte!
 	"""
 	keyWait
 		any = false
@@ -1405,7 +1405,7 @@ script 51 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	torneio,menos virão
+	torneio, menos virão
 	ver a loja!
 	"""
 	keyWait
@@ -1418,7 +1418,7 @@ script 52 mmbn4 {
 	msgOpen
 	"""
 	NetLutas são do
-	caramba,cara!
+	caramba, cara!
 	"""
 	keyWait
 		any = false
@@ -1435,7 +1435,7 @@ script 53 mmbn4 {
 	mugshotShow
 		mugshot = BlondMan
 	msgOpen
-	"E aí,rapaz!"
+	"E aí, rapaz!"
 	keyWait
 		any = false
 	clearMsg
@@ -1455,13 +1455,13 @@ script 60 mmbn4 {
 	"""
 	O meu PET foi modi-
 	ficado e virou uma
-	Caixa Oxe,cheia de
+	Caixa Oxe, cheia de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	vírus! E agora,o meu
+	vírus! E agora, o meu
 	Navi desapareceu!
 	Aonde ele foi?!
 	"""
@@ -1475,7 +1475,7 @@ script 61 mmbn4 {
 	msgOpen
 	"""
 	Quando o torneio
-	acabar,todos os
+	acabar, todos os
 	espectadores vão
 	"""
 	keyWait
@@ -1495,7 +1495,7 @@ script 62 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Ei,você!
+	Ei, você!
 	Cê chegou na final?
 	Maneiro!
 	"""
@@ -1524,7 +1524,7 @@ script 63 mmbn4 {
 	clearMsg
 	"""
 	Não vá pegar leve
-	com o oponente,viu?
+	com o oponente, viu?
 	"""
 	keyWait
 		any = false
@@ -1553,7 +1553,7 @@ script 70 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Aliás,pra onde você
+	Aliás, pra onde você
 	foi depois de
 	vencer?
 	"""
@@ -1573,7 +1573,7 @@ script 70 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Ah,tanto faz!"
+	"Ah, tanto faz!"
 	keyWait
 		any = false
 	end
@@ -1653,7 +1653,7 @@ script 75 mmbn4 {
 	msgOpen
 	"""
 	Acabei de tentar
-	entrar na Rede,mas
+	entrar na Rede, mas
 	fui expulso por um
 	"""
 	keyWait
@@ -1743,7 +1743,7 @@ script 81 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	na Rede,mas um
+	na Rede, mas um
 	Oficial me expulsou!
 	"""
 	keyWait
@@ -1752,7 +1752,7 @@ script 81 mmbn4 {
 	"""
 	Acho que eu vou
 	ter que usar o
-	telefone,mesmo...
+	telefone, mesmo...
 	"""
 	keyWait
 		any = false
@@ -1801,9 +1801,9 @@ script 85 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Que é,vai chover
+	Que é, vai chover
 	meteoro em cima da
-	gente,por acaso?
+	gente, por acaso?
 	"""
 	keyWait
 		any = false
@@ -1819,7 +1819,7 @@ script 86 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Civis,não saiam de
+	Civis, não saiam de
 	suas casas! Eu não
 	sei por quê,
 	"""
@@ -1868,15 +1868,15 @@ script 91 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,se um asteroide
-	nos atingisse,não
+	Mas, se um asteroide
+	nos atingisse, não
 	importaria onde
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	fiquemos! Mas,é,
+	fiquemos! Mas, é,
 	acho que ainda é
 	melhor que as
 	"""
@@ -1896,7 +1896,7 @@ script 140 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,a gente tem que
+	Lan, a gente tem que
 	ir pra Rede e parar
 	o ColdMan!
 	"""

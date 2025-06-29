@@ -27,7 +27,7 @@ script 0 mmbn4 {
 	"""
 	título de Campeão
 	Mundial! O aluno de
-	Ni-Hon,do sexto ano:
+	Ni-Hon, do sexto ano:
 	"""
 	keyWait
 		any = false
@@ -37,7 +37,7 @@ script 0 mmbn4 {
 		height = 2
 	"""
 	Lan Hikari e seu
-	Navi,MegaMan.EXE!!
+	Navi, MegaMan.EXE!!
 	"""
 	keyWait
 		any = false
@@ -77,7 +77,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
 	"""
-	Certo,irei aí agora
+	Certo, irei aí agora
 	mesmo.
 	"""
 	keyWait
@@ -102,7 +102,7 @@ script 5 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Sim,esta mulher é a
+	Sim, esta mulher é a
 	nossa chefe.
 	"""
 	keyWait
@@ -122,7 +122,7 @@ script 6 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Ah,chefe!
+	Ah, chefe!
 	Estamos aqui!!
 	"""
 	keyWait
@@ -178,7 +178,7 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Por favor,suba!
+	Por favor, suba!
 	Explicaremos o
 	resto depois!!
 	"""
@@ -210,7 +210,7 @@ script 12 mmbn4 {
 		mugshot = Scientist
 	"""
 	Não temos tempo!
-	Suba logo,depressa!
+	Suba logo, depressa!
 	"""
 	keyWait
 		any = false
@@ -237,7 +237,7 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"Pode ir,chefe!"
+	"Pode ir, chefe!"
 	keyWait
 		any = false
 	clearMsg
@@ -261,7 +261,7 @@ script 15 mmbn4 {
 script 16 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"A-ah,ough,aaaoo..."
+	"A-ah, ough, aaaoo..."
 	keyWait
 		any = false
 	end

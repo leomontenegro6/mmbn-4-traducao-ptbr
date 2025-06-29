@@ -15,7 +15,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	UM DIA DESSES,O DEX
+	UM DIA DESSES, O DEX
 	ME MANDOU CRIAR UM
 	LINK SINTÉTICO
 	"""
@@ -72,7 +72,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	PODERIA,POR FAVOR,
+	PODERIA, POR FAVOR,
 	RECONSIDERAR?
 	"""
 	keyWait
@@ -88,9 +88,9 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	AGORA,O DEX NÃO VAI
+	AGORA, O DEX NÃO VAI
 	SE ZANGAR COMIGO!
-	TOME,O BANNER!
+	TOME, O BANNER!
 	"""
 	keyWait
 		any = false
@@ -117,7 +117,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	AGORA,INSTALAREI
+	AGORA, INSTALAREI
 	O LINK...
 	"""
 	keyWait
@@ -249,7 +249,7 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviPink
 	msgOpen
-	"Ah,entendo!"
+	"Ah, entendo!"
 	keyWait
 		any = false
 	end
@@ -280,7 +280,7 @@ script 16 mmbn4 {
 	msgOpen
 	"""
 	O administrador des-
-	ta página,o GutsMan,
+	ta página, o GutsMan,
 	talvez? Ele é forte.
 	"""
 	keyWait
@@ -294,7 +294,7 @@ script 17 mmbn4 {
 	"""
 	Que papo é esse?!
 	O campeão de Ni-Hon,
-	o MegaMan,mora aqui,
+	o MegaMan, mora aqui,
 	"""
 	keyWait
 		any = false
@@ -313,7 +313,7 @@ script 20 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Tá bom,chega dessa
+	Tá bom, chega dessa
 	discussão.
 	"""
 	keyWait

@@ -200,7 +200,7 @@ script 25 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Desconecta,MegaMan!
+	Desconecta, MegaMan!
 	A gente tem que ir
 	pra NAXA!
 	"""
@@ -284,7 +284,7 @@ script 31 mmbn4 {
 	"""
 	A gente não tem
 	tempo pra brincar!
-	Rápido,pro papai!
+	Rápido, pro papai!
 	"""
 	keyWait
 		any = false
@@ -296,7 +296,7 @@ script 32 mmbn4 {
 	msgOpen
 	"""
 	Quando você tiver
-	pronto,bora voltar
+	pronto, bora voltar
 	pra NAXA!
 	"""
 	keyWait
@@ -403,7 +403,7 @@ script 102 mmbn4 {
 	msgOpen
 	"""
 	"""
-	Pronto,4 provas.
+	Pronto, 4 provas.
 	Agora vamos pra
 	aquele 
 	"""
@@ -508,7 +508,7 @@ script 111 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,vamos ler
+	MegaMan, vamos ler
 	aquele e-mail!
 	"""
 	keyWait
@@ -532,7 +532,7 @@ script 113 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ei,MegaMan,sabe
+	Ei, MegaMan, sabe
 	onde tem uma
 	área espaçosa?
 	"""
@@ -609,7 +609,7 @@ script 125 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,vamos
+	MegaMan, vamos
 	conferir a Área
 	Saborya!
 	"""
@@ -622,7 +622,7 @@ script 126 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Você tá bem,MegaMan?
+	Você tá bem, MegaMan?
 	Você... é o
 	MegaMan... né?
 	"""
@@ -750,7 +750,7 @@ script 145 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Desconecta,MegaMan!
+	Desconecta, MegaMan!
 	Bora pra Affriq!
 	"""
 	keyWait
@@ -795,7 +795,7 @@ script 151 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Canseira,isto aqui!"
+	"Canseira, isto aqui!"
 	keyWait
 		any = false
 	end
@@ -805,7 +805,7 @@ script 153 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Agora,a Área Sharo.
+	Agora, a Área Sharo.
 	Você consegue,
 	MegaMan!
 	"""
@@ -857,7 +857,7 @@ script 158 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Desconecta,MegaMan!
+	Desconecta, MegaMan!
 	Temos que alterar
 	a estátua do leão!
 	"""
@@ -911,7 +911,7 @@ script 160 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Desconecta,MegaMan!
+	Desconecta, MegaMan!
 	Temos que achar o
 	Paulie!
 	"""
@@ -926,7 +926,7 @@ script 162 mmbn4 {
 	"""
 	O Paulie falou pra
 	gente ir pra Área
-	Affriq,né?
+	Affriq, né?
 	"""
 	keyWait
 		any = false
@@ -988,7 +988,7 @@ script 166 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Desconecta,MegaMan!
+	Desconecta, MegaMan!
 	Bora consertar o
 	Deus da Água!
 	"""
@@ -1053,7 +1053,7 @@ script 176 mmbn4 {
 	msgOpen
 	"""
 	Um frio natural?
-	Enfim,vamos
+	Enfim, vamos
 	desconectar.
 	"""
 	keyWait
@@ -1065,7 +1065,7 @@ script 177 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Desconecta,MegaMan!
+	Desconecta, MegaMan!
 	Tem treta rolando
 	lá em Sharo!
 	"""
@@ -1091,7 +1091,7 @@ script 181 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Desconecta,MegaMan!
+	Desconecta, MegaMan!
 	Pro Coliseu!
 	"""
 	keyWait
@@ -1135,7 +1135,7 @@ script 187 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Rápido,MegaMan!
+	Rápido, MegaMan!
 	Vai pra Undernet 6!
 	"""
 	keyWait
@@ -1243,7 +1243,7 @@ script 195 mmbn4 {
 	"""
 	Tô preocupado com o
 	Chaud. Bora lá pro
-	hotel,MegaMan!
+	hotel, MegaMan!
 	"""
 	keyWait
 		any = false

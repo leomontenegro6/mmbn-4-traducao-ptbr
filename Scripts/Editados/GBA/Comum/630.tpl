@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = Tetsu
 	msgOpen
 	"""
-	Vamos,Lan!
+	Vamos, Lan!
 	Aperta o passo!
 	"""
 	keyWait

@@ -13,7 +13,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"AquaMan,você tá\nbem?!"
+	"AquaMan, você tá\nbem?!"
 	keyWait
 		any = false
 	clearMsg
@@ -132,7 +132,7 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = LaserMan
 	"""
-	Hm,vejo a maldade
+	Hm, vejo a maldade
 	brilhando no seu
 	olhar.
 	"""
@@ -155,8 +155,8 @@ script 9 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,se insistir em
-	resistir,seu destino
+	Mas, se insistir em
+	resistir, seu destino
 	será a deleção!
 	"""
 	keyWait
@@ -195,7 +195,7 @@ script 12 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"... Ah,não! AquaMan!"
+	"... Ah, não! AquaMan!"
 	keyWait
 		any = false
 	end
@@ -216,7 +216,7 @@ script 14 mmbn4 {
 		mugshot = AquaMan
 	"""
 	A-aquele Navi...
-	Foi embora,né...?
+	Foi embora, né...?
 	"""
 	keyWait
 		any = false
@@ -283,7 +283,7 @@ script 18 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	hora,e pode ferir
+	hora, e pode ferir
 	qualquer um...
 	"""
 	keyWait
@@ -297,7 +297,7 @@ script 19 mmbn4 {
 		mugshot = Lan
 	"""
 	......
-	Relaxa,MegaMan!
+	Relaxa, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -319,7 +319,7 @@ script 19 mmbn4 {
 	clearMsg
 	"""
 	Quando lutamos como
-	um só,nenhuma Alma
+	um só, nenhuma Alma
 	Sombria tem chance!
 	"""
 	keyWait

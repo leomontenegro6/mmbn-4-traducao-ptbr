@@ -7,7 +7,7 @@ script 0 mmbn4 {
 	"""
 	Tem um distúrbio
 	magnético enorme aí!
-	Cuidado,MegaMan!
+	Cuidado, MegaMan!
 	"""
 	keyWait
 		any = false

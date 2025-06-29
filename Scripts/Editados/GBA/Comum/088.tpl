@@ -160,7 +160,7 @@ script 14 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	... Er,como se chega
+	... Er, como se chega
 	na Área Parque?
 	"""
 	keyWait
@@ -286,7 +286,7 @@ script 23 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,vamos
+	MegaMan, vamos
 	voltar!
 	A Mayl tá esperando!
 	"""
@@ -345,7 +345,7 @@ script 30 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,volta!
+	MegaMan, volta!
 	A gente não tem
 	tempo pra isso!
 	"""
@@ -358,7 +358,7 @@ script 31 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,desconecta!
+	MegaMan, desconecta!
 	Temos que ir pra
 	Mansão do Vampiro!
 	"""
@@ -401,8 +401,8 @@ script 41 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,quando tiver
-	pronto,vamos pra
+	MegaMan, quando tiver
+	pronto, vamos pra
 	Sala de Espera!
 	"""
 	keyWait
@@ -484,7 +484,7 @@ script 59 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Pega-pega,é? Bom,
+	Pega-pega, é? Bom,
 	acho que não temos
 	muita escolha...
 	"""
@@ -660,7 +660,7 @@ script 70 mmbn4 {
 	"""
 	O que tá rolando na
 	Praça Marchen?
-	MegaMan,desconecta!
+	MegaMan, desconecta!
 	"""
 	keyWait
 		any = false
@@ -712,7 +712,7 @@ script 75 mmbn4 {
 	"""
 	A Lilly deve estar
 	na arena! Vamos
-	pra lá,MegaMan!
+	pra lá, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -760,7 +760,7 @@ script 81 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,vamos lá
+	MegaMan, vamos lá
 	falar com o mestre
 	da Tamako!
 	"""
@@ -785,7 +785,7 @@ script 82 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Pronto,comes e
+	Pronto, comes e
 	bebes... Agora ele
 	ensina a gente?
 	"""
@@ -811,7 +811,7 @@ script 84 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,a gente tem
+	MegaMan, a gente tem
 	que voltar pro nosso
 	treinamento!
 	"""
@@ -873,7 +873,7 @@ script 90 mmbn4 {
 	"""
 	A entrada pra uma
 	área movimentada?
-	Ah,já sei...!
+	Ah, já sei...!
 	"""
 	keyWait
 		any = false
@@ -884,7 +884,7 @@ script 91 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,encontra
+	MegaMan, encontra
 	aqueles vídeos!
 	Mas toma cuidado!
 	"""
@@ -897,7 +897,7 @@ script 92 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Desconecta,rápido!
+	Desconecta, rápido!
 	A gente vai se
 	atrasar pra luta!
 	"""
@@ -938,7 +938,7 @@ script 100 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,vamos falar
+	MegaMan, vamos falar
 	com a Sal!
 	"""
 	keyWait
@@ -963,7 +963,7 @@ script 102 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,a gente tem
+	MegaMan, a gente tem
 	que correr pro
 	DenDomo!
 	"""
@@ -985,7 +985,7 @@ script 104 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,procura pelo
+	MegaMan, procura pelo
 	WoodMan!
 	"""
 	keyWait
@@ -1073,7 +1073,7 @@ script 111 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Aguenta aí,MegaMan!
+	Aguenta aí, MegaMan!
 	Já tô chegando!
 	"""
 	keyWait
@@ -1200,7 +1200,7 @@ script 122 mmbn4 {
 	msgOpen
 	"""
 	Mestre-Cuca Mestre?
-	Rá! ... Mas,é,bora
+	Rá! ... Mas, é, bora
 	pra Área Parque!
 	"""
 	keyWait

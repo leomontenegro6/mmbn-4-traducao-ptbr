@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Ah,então vocês
+	Ah, então vocês
 	arranjaram um
 	"
 	"""
@@ -86,11 +86,11 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = Mom
-	"Ah,já consertou?!"
+	"Ah, já consertou?!"
 	keyWait
 		any = false
 	clearMsg
-	"Com o Yuichiro,não\ntem pra ninguém!"
+	"Com o Yuichiro, não\ntem pra ninguém!"
 	keyWait
 		any = false
 	clearMsg
@@ -103,7 +103,7 @@ script 6 mmbn4 {
 	playerAnimateScene
 		animation = 26
 	"""
-	Credo,nem parece que
+	Credo, nem parece que
 	foi a gente que com-
 	prou o "
 	"""
@@ -124,7 +124,7 @@ script 7 mmbn4 {
 	"""
 	O elogio devia era
 	vir pra gente. Não
-	acha,MegaMan?!
+	acha, MegaMan?!
 	"""
 	keyWait
 		any = false
@@ -135,7 +135,7 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Ha ha,talvez!"
+	"Ha ha, talvez!"
 	keyWait
 		any = false
 	clearMsg
@@ -191,7 +191,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Mom
 	"""
-	Eu sei,eu sei.
+	Eu sei, eu sei.
 	Não vai demorar.
 	"""
 	keyWait
@@ -221,7 +221,7 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Nossa,tava bom\ndemais!!"
+	"Nossa, tava bom\ndemais!!"
 	keyWait
 		any = false
 	clearMsg
@@ -249,7 +249,7 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = Dad
 	"""
-	E aí,Lan?
+	E aí, Lan?
 	Já tá pronto pra ir?
 	"""
 	keyWait
@@ -273,8 +273,8 @@ script 16 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	OK,vamos indo.
-	Até já,querida.
+	OK, vamos indo.
+	Até já, querida.
 	"""
 	keyWait
 		any = false
@@ -285,7 +285,7 @@ script 16 mmbn4 {
 script 17 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Tchau,mãe."
+	"Tchau, mãe."
 	keyWait
 		any = false
 	clearMsg

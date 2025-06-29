@@ -324,7 +324,7 @@ script 16 mmbn4 {
 	msgOpen
 	"""
 	Caixa do Higsby:
-	"Nanako,Diário
+	"Nanako, Diário
 	de Assistente".
 	"""
 	keyWait

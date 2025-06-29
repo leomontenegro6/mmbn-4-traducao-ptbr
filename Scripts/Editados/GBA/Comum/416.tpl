@@ -9,7 +9,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Além daqui,fica a\nÁrea Vila 3."
+	"Além daqui, fica a\nÁrea Vila 3."
 	keyWait
 		any = false
 	clearMsg
@@ -28,14 +28,14 @@ script 5 mmbn4 {
 	msgOpen
 	"""
 	Todo mundo sempre
-	pergunta,mas,não,
+	pergunta, mas, não,
 	não sou um Oficial.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Na verdade,eu sou
+	Na verdade, eu sou
 	um delinquente
 	sangue bom total!
 	"""
@@ -229,7 +229,7 @@ script 20 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"PATRULHANDO,\nPATRULHANDO!"
+	"PATRULHANDO, \nPATRULHANDO!"
 	keyWait
 		any = false
 	end
@@ -276,7 +276,7 @@ script 35 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	ENTÃO,VOCÊ PASSOU
+	ENTÃO, VOCÊ PASSOU
 	NAS PRELIMINARES!
 	"""
 	keyWait
@@ -338,8 +338,8 @@ script 130 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ó,ele né barato,
-	não,pelo que me
+	Ó, ele né barato,
+	não, pelo que me
 	disseram aí.
 	"""
 	keyWait
@@ -348,14 +348,14 @@ script 130 mmbn4 {
 	"""
 	Não dá pra eu sair
 	dando ele de graça
-	pra qualquer um,né?
+	pra qualquer um, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Rola uma troca?
-	Tipo,cê me dando um
+	Tipo, cê me dando um
 	"
 	"""
 	printChip
@@ -433,7 +433,7 @@ script 131 mmbn4 {
 	msgOpen
 	"""
 	Opa! Cê tem um?
-	Beleza,vou levar
+	Beleza, vou levar
 	ele então!
 	"""
 	keyWait
@@ -498,13 +498,13 @@ script 132 mmbn4 {
 	clearMsg
 	"""
 	Será que num tá
-	na tua pasta,não?
+	na tua pasta, não?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sem chip,sem troca,
+	Sem chip, sem troca,
 	amigão!
 	"""
 	keyWait
@@ -576,7 +576,7 @@ script 133 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviPurple
-	"Então,o \""
+	"Então, o \""
 	printItem
 		buffer = 0
 		item = 15
@@ -595,7 +595,7 @@ script 134 mmbn4 {
 	"""
 	He he he!
 	Prazer fazer negócio
-	contigo,amigo!
+	contigo, amigo!
 	"""
 	keyWait
 		any = false
@@ -617,7 +617,7 @@ script 141 mmbn4 {
 	"""
 	As crianças de hoje
 	lutam com tanta
-	garra,não é mesmo?
+	garra, não é mesmo?
 	"""
 	keyWait
 		any = false
@@ -666,7 +666,7 @@ script 160 mmbn4 {
 	"""
 	Distribuindo
 	panfletos? Dá tanto
-	trabalho isso,né?
+	trabalho isso, né?
 	"""
 	keyWait
 		any = false
@@ -706,7 +706,7 @@ script 161 mmbn4 {
 	"""
 	Eu perdi no
 	torneio...
-	Nossa,estou exausto!
+	Nossa, estou exausto!
 	"""
 	keyWait
 		any = false
@@ -771,7 +771,7 @@ script 163 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = NaviGirlOrange
-	"Vou conferir ela,sim!"
+	"Vou conferir ela, sim!"
 	keyWait
 		any = false
 	flagSet
@@ -796,8 +796,8 @@ script 165 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	Então,é a "Loja do
-	Higsby",e fica em
+	Então, é a "Loja do
+	Higsby", e fica em
 	ACDC...
 	"""
 	keyWait
@@ -834,7 +834,7 @@ script 181 mmbn4 {
 	msgOpen
 	"""
 	MAS O QUE FOI AQUELA
-	ENCHENTE,AFINAL?
+	ENCHENTE, AFINAL?
 	"""
 	keyWait
 		any = false
@@ -874,7 +874,7 @@ script 240 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Olha. Eu contraba-- \ner,importei--"
+	"Olha. Eu contraba-- \ner, importei--"
 	keyWait
 		any = false
 	clearMsg
@@ -941,7 +941,7 @@ script 241 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviPink
 	msgOpen
-	"Opa,obrigada!"
+	"Opa, obrigada!"
 	keyWait
 		any = false
 	clearMsg
@@ -975,7 +975,7 @@ script 241 mmbn4 {
 	clearMsg
 	"""
 	Pode ser útil
-	pra você,um dia!
+	pra você, um dia!
 	"""
 	keyWait
 		any = false
@@ -994,7 +994,7 @@ script 242 mmbn4 {
 	"""
 	Eu não faço fiado.
 	O vendedor também
-	tem que comer,oras.
+	tem que comer, oras.
 	"""
 	keyWait
 		any = false

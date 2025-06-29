@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Pronto,desativamos
+	Pronto, desativamos
 	este dispositivo!
 	"""
 	keyWait

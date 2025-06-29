@@ -20,7 +20,7 @@ script 1 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	É,mas não podemos
+	É, mas não podemos
 	baixar a guarda.
 	"""
 	keyWait
@@ -28,7 +28,7 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	Pra ele ter chegado
-	longe assim,deve ser
+	longe assim, deve ser
 	habilidoso.
 	"""
 	keyWait
@@ -45,7 +45,7 @@ script 2 mmbn4 {
 	clearMsg
 	"""
 	Não é um Navi de
-	luta,então acho que
+	luta, então acho que
 	vai ser moleza.
 	"""
 	keyWait
@@ -168,7 +168,7 @@ script 9 mmbn4 {
 		mugshot = Flave
 	msgOpen
 	"""
-	Ah,sim,ainda não
+	Ah, sim, ainda não
 	me apresentei!
 	"""
 	keyWait
@@ -176,7 +176,7 @@ script 9 mmbn4 {
 	clearMsg
 	"""
 	Eu sou Flave
-	Yamakawa,seu
+	Yamakawa, seu
 	próximo oponente...
 	"""
 	keyWait
@@ -196,7 +196,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Um chef,é?"
+	"Um chef, é?"
 	keyWait
 		any = false
 	clearMsg
@@ -220,7 +220,7 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E,por sinal,as fun-
+	E, por sinal, as fun-
 	ções do meu Navi
 	são customizadas!
 	"""
@@ -276,7 +276,7 @@ script 14 mmbn4 {
 	"""
 	O papo de culinária
 	tendo a ver com
-	funções de Navi,né?
+	funções de Navi, né?
 	"""
 	keyWait
 		any = false
@@ -289,7 +289,7 @@ script 14 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Tá bom,vamos lá,
+	Tá bom, vamos lá,
 	MegaMan! Hora de
 	achar o Flave!
 	"""

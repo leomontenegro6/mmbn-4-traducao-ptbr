@@ -14,8 +14,8 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,você não vai
-	pra cama agora,vai?
+	Lan, você não vai
+	pra cama agora, vai?
 	"""
 	keyWait
 		any = false
@@ -113,7 +113,7 @@ script 6 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"\"Você foi avisado,\nLan. Podemos fazer\nmuito pior."
+	"\"Você foi avisado, \nLan. Podemos fazer\nmuito pior."
 	keyWait
 		any = false
 	clearMsg
@@ -148,7 +148,7 @@ script 8 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"\" Você foi avisado,\n Lan. Podemos fazer\n muito pior."
+	"\" Você foi avisado, \n Lan. Podemos fazer\n muito pior."
 	keyWait
 		any = false
 	clearMsg
@@ -168,7 +168,7 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	No topo,ele guarda
+	No topo, ele guarda
 	o primeiro chip que
 	ganhou na vida.
 	"""
@@ -286,7 +286,7 @@ script 22 mmbn4 {
 	"""
 	Isso vai sobrescre-
 	ver os dados
-	antigos,tá?
+	antigos, tá?
 	"""
 	keyWait
 		any = false
@@ -346,7 +346,7 @@ script 24 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Boa noite,Lan!"
+	"Boa noite, Lan!"
 	keyWait
 		any = false
 	end

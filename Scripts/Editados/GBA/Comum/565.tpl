@@ -37,7 +37,7 @@ script 1 mmbn4 {
 	msgOpen
 	"""
 	Pera só mais um
-	pouco,gente! Eu sei
+	pouco, gente! Eu sei
 	que o Lan vem!
 	"""
 	keyWait
@@ -62,7 +62,7 @@ script 3 mmbn4 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Ah,vai! Se cê des-
+	Ah, vai! Se cê des-
 	qualificar o Lan,
 	eu tô fora também!
 	"""
@@ -101,7 +101,7 @@ script 4 mmbn4 {
 	". "
 	waitSkip
 		frames = 30
-	"Tudo bem,então."
+	"Tudo bem, então."
 	keyWait
 		any = false
 	clearMsg
@@ -144,12 +144,12 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Desculpa a demora,\nDex!"
+	"Desculpa a demora, \nDex!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mas,como dá pra ver,
+	Mas, como dá pra ver,
 	o Chisao tá bem.
 	"""
 	keyWait
@@ -160,7 +160,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Tudo bem,vai lá!"
+	"Tudo bem, vai lá!"
 	keyWait
 		any = false
 	end
@@ -195,7 +195,7 @@ script 11 mmbn4 {
 		mugshot = Dex
 	"""
 	Eu só tô feliz que
-	você tá bem,Chisao.
+	você tá bem, Chisao.
 	"""
 	keyWait
 		any = false
@@ -206,7 +206,7 @@ script 12 mmbn4 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Lan,eu nem sei como
+	Lan, eu nem sei como
 	te agradecer.
 	"""
 	keyWait
@@ -230,7 +230,7 @@ script 13 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Além disso,você
+	Além disso, você
 	segurou a luta pra
 	mim! Valeu!
 	"""
@@ -315,7 +315,7 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"Vamos lá,gente!"
+	"Vamos lá, gente!"
 	keyWait
 		any = false
 	clearMsg

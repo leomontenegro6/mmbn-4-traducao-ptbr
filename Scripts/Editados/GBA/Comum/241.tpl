@@ -15,7 +15,7 @@ script 0 mmbn4 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Desculpa,não posso
+	Desculpa, não posso
 	perder tempo com
 	você...
 	"""
@@ -39,7 +39,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Bem,mas acho que
+	Bem, mas acho que
 	isso não significa
 	nada pra você...
 	"""
@@ -102,7 +102,7 @@ script 15 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ah,eu fui lá na
+	Ah, eu fui lá na
 	pré-abertura...
 	"""
 	keyWait
@@ -116,7 +116,7 @@ script 15 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Bem,acho que eu não
+	Bem, acho que eu não
 	devia me gabar...
 	É deselegante...
 	"""
@@ -141,7 +141,7 @@ script 18 mmbn4 {
 	"""
 	Os melhores lutado-
 	res de Ni-Hon vão
-	estar lá,né?
+	estar lá, né?
 	"""
 	keyWait
 		any = false
@@ -168,7 +168,7 @@ script 19 mmbn4 {
 	"""
 	Os melhores lutado-
 	res de Ni-Hon vão
-	estar lá,né?
+	estar lá, né?
 	"""
 	keyWait
 		any = false
@@ -217,7 +217,7 @@ script 25 mmbn4 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Então,você venceu a
+	Então, você venceu a
 	primeira rodada?
 	"""
 	keyWait

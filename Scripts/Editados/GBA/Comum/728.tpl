@@ -13,7 +13,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	É... é,um pesadelo!
+	É... é, um pesadelo!
 	Ha ha...
 	Ha ha ha ha ha!
 	"""
@@ -27,7 +27,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
 	"""
-	Ah,não,o meu Navi
+	Ah, não, o meu Navi
 	surtou!
 	"""
 	keyWait
@@ -109,7 +109,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Aí,rapaz! Levanta!"
+	"Aí, rapaz! Levanta!"
 	keyWait
 		any = false
 	clearMsg
@@ -124,7 +124,7 @@ script 7 mmbn4 {
 	"""
 	Que foi?
 	Você ainda tem gás
-	pra jogar,não tem?!
+	pra jogar, não tem?!
 	"""
 	keyWait
 		any = false
@@ -169,7 +169,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	He,NetLutadores não
+	He, NetLutadores não
 	são de nada!!!
 	"""
 	keyWait
@@ -189,7 +189,7 @@ script 9 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	He,você não sabe
+	He, você não sabe
 	mesmo quando
 	desistir.
 	"""

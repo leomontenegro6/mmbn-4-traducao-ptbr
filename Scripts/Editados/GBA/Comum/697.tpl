@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Agora,vamos
+	Agora, vamos
 	enfrentar o
 	BurnMan...
 	"""
@@ -28,7 +28,7 @@ script 1 mmbn4 {
 	msgOpen
 	"""
 	Com certeza parece
-	ser,pra mim.
+	ser, pra mim.
 	"""
 	keyWait
 		any = false
@@ -59,7 +59,7 @@ script 3 mmbn4 {
 	mugshotHide
 	msgOpen
 	"""
-	Isto é,eu?
+	Isto é, eu?
 	Lan...
 	"""
 	keyWait
@@ -90,7 +90,7 @@ script 5 mmbn4 {
 	msgOpen
 	"""
 	Operador?
-	Ah,não,não sou.
+	Ah, não, não sou.
 	"""
 	keyWait
 		any = false
@@ -130,7 +130,7 @@ script 7 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"De quem,então?"
+	"De quem, então?"
 	keyWait
 		any = false
 	clearMsg
@@ -150,7 +150,7 @@ script 7 mmbn4 {
 	clearMsg
 	"""
 	eu. E do operador
-	dele também,claro!
+	dele também, claro!
 	"""
 	keyWait
 		any = false
@@ -183,7 +183,7 @@ script 8 mmbn4 {
 	clearMsg
 	"""
 	Cê é um tiozinho
-	engraçado,viu?
+	engraçado, viu?
 	"""
 	keyWait
 		any = false
@@ -195,7 +195,7 @@ script 9 mmbn4 {
 	msgOpen
 	"""
 	Eu sou Atsuki
-	Homura,operador do
+	Homura, operador do
 	BurnMan!
 	"""
 	keyWait
@@ -224,7 +224,7 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ah,mas que moleque
+	Ah, mas que moleque
 	exibido você é...
 	"""
 	keyWait
@@ -252,7 +252,7 @@ script 11 mmbn4 {
 	"""
 	Você tava falando de
 	"fogo na alma" ou
-	sei lá,né?
+	sei lá, né?
 	"""
 	keyWait
 		any = false
@@ -279,7 +279,7 @@ script 12 mmbn4 {
 	msgOpen
 	"""
 	Tiozão?! Repete
-	isso aí,quero ver!
+	isso aí, quero ver!
 	"""
 	keyWait
 		any = false
@@ -304,7 +304,7 @@ script 13 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Pronto,repeti e
+	Pronto, repeti e
 	repeti TRÊS vezes.
 	Quer mais?
 	"""
@@ -313,7 +313,7 @@ script 13 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = MrMatch
-	"Ora,seu pirralho..."
+	"Ora, seu pirralho..."
 	keyWait
 		any = false
 	end
@@ -323,7 +323,7 @@ script 14 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Opa! Ei,gente!
+	Opa! Ei, gente!
 	Calma!
 	"""
 	keyWait
@@ -344,7 +344,7 @@ script 15 mmbn4 {
 	clearMsg
 	"""
 	Eu não vou permitir
-	isso,não!
+	isso, não!
 	"""
 	keyWait
 		any = false
@@ -368,7 +368,7 @@ script 16 mmbn4 {
 	clearMsg
 	"""
 	Não fico tagarelando
-	como você,mas tô
+	como você, mas tô
 	sempre fervendo!
 	"""
 	keyWait
@@ -408,7 +408,7 @@ script 17 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	convidados,no
+	convidados, no
 	norte de Ni-Hon?!
 	"""
 	keyWait
@@ -460,7 +460,7 @@ script 19 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Então,para com esse
+	Então, para com esse
 	lero-lero sobre
 	"fogo na alma"!
 	"""
@@ -475,7 +475,7 @@ script 20 mmbn4 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	He,então,você não é
+	He, então, você não é
 	só um caipira qual-
 	quer. Interessante.
 	"""
@@ -483,7 +483,7 @@ script 20 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Então,por que não
+	Então, por que não
 	nos enfrentamos com
 	os nossos Navis
 	"""
@@ -506,7 +506,7 @@ script 21 mmbn4 {
 		mugshot = Atsuki
 	msgOpen
 	"""
-	Aí,a gente vê quem
+	Aí, a gente vê quem
 	é o mais adequado
 	"""
 	keyWait
@@ -529,7 +529,7 @@ script 22 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,a gente não
+	Lan, a gente não
 	devia parar isso?
 	"""
 	keyWait
@@ -564,7 +564,7 @@ script 24 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Pois é,eles parecem
+	Pois é, eles parecem
 	perdidos no mundinho
 	deles...
 	"""
@@ -583,7 +583,7 @@ script 25 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Er,vamos dar uma
+	Er, vamos dar uma
 	volta por aí até
 	a hora da luta.
 	"""

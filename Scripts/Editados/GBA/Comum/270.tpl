@@ -12,7 +12,7 @@ script 0 mmbn4 {
 	"""
 	Esta fantasia fez
 	muito sucesso
-	naquele dia,então
+	naquele dia, então
 	"""
 	keyWait
 		any = false
@@ -48,7 +48,7 @@ script 2 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,esta aqui é
+	Lan, esta aqui é
 	a entrada!
 	"""
 	keyWait
@@ -66,7 +66,7 @@ script 3 mmbn4 {
 	msgOpen
 	"""
 	Se eu ficar esperan-
-	do aqui,talvez 
+	do aqui, talvez 
 	a Mami volte...
 	"""
 	keyWait
@@ -99,7 +99,7 @@ script 5 mmbn4 {
 	"""
 	DEPOIS DE USAR ESTA
 	FANTASIA POR TANTO
-	TEMPO,ESTOU
+	TEMPO, ESTOU
 	"""
 	keyWait
 		any = false
@@ -129,7 +129,7 @@ script 10 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	Ah,já entendi! O
+	Ah, já entendi! O
 	Torneio Sol Vermelho
 	tá sendo transmitido
 	"""
@@ -213,7 +213,7 @@ script 15 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	Ah,já entendi! O
+	Ah, já entendi! O
 	Torneio Lua Azul tá
 	sendo transmitido
 	"""
@@ -233,7 +233,7 @@ script 20 mmbn4 {
 	msgOpen
 	"""
 	Parece um cachorro,
-	mas,na verdade,é um
+	mas, na verdade, é um
 	mago!
 	"""
 	keyWait
@@ -241,7 +241,7 @@ script 20 mmbn4 {
 	clearMsg
 	"""
 	É o popular persona-
-	gem do Castillo,o
+	gem do Castillo, o
 	MagoCão!
 	"""
 	keyWait
@@ -258,7 +258,7 @@ script 20 mmbn4 {
 script 21 mmbn4 {
 	msgOpen
 	"""
-	Ela é linda,mas
+	Ela é linda, mas
 	quando fica zangada,
 	brande seu machadão!
 	"""
@@ -267,7 +267,7 @@ script 21 mmbn4 {
 	clearMsg
 	"""
 	É a popular persona-
-	gem do Castillo,a
+	gem do Castillo, a
 	Princesa Alabarda!
 	"""
 	keyWait
@@ -356,7 +356,7 @@ script 27 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	NÓS,PROGS,SARAMOS
+	NÓS, PROGS, SARAMOS
 	COM UM POUQUINHO
 	DE MANUTENÇÃO!
 	"""
@@ -434,7 +434,7 @@ script 36 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Vovó,é você?"
+	"Vovó, é você?"
 	keyWait
 		any = false
 	end
@@ -504,7 +504,7 @@ script 46 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	Não,não posso ir lá.
+	Não, não posso ir lá.
 	Mesmo se eu
 	encontrasse a Mami
 	"""
@@ -513,7 +513,7 @@ script 46 mmbn4 {
 	clearMsg
 	"""
 	após descer as
-	escadas,eu não
+	escadas, eu não
 	mudei o bastante
 	"""
 	keyWait
@@ -540,7 +540,7 @@ script 47 mmbn4 {
 	clearMsg
 	"""
 	Ha ha ha ha!
-	Ai,que engraçado!
+	Ai, que engraçado!
 	"""
 	keyWait
 		any = false
@@ -556,7 +556,7 @@ script 50 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Claramente,os
+	Claramente, os
 	visitantes pararam
 	de vir.
 	"""
@@ -581,13 +581,13 @@ script 51 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
 	msgOpen
-	"Da última vez que\neu vim,um incidente\nme impediu de"
+	"Da última vez que\neu vim, um incidente\nme impediu de"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	curtir,mas,
-	desta vez,não!
+	curtir, mas,
+	desta vez, não!
 	"""
 	keyWait
 		any = false
@@ -605,7 +605,7 @@ script 52 mmbn4 {
 	"""
 	A minha filha implo-
 	rou pra voltar aqui,
-	então,trouxe ela!
+	então, trouxe ela!
 	"""
 	keyWait
 		any = false
@@ -650,7 +650,7 @@ script 56 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Ah,que divertido!"
+	"Ah, que divertido!"
 	keyWait
 		any = false
 	end
@@ -660,7 +660,7 @@ script 57 mmbn4 {
 		mugshot = Woman
 	msgOpen
 	"""
-	Tá,aonde nós vamos
+	Tá, aonde nós vamos
 	agora...?
 	"""
 	keyWait
@@ -685,7 +685,7 @@ script 60 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Desculpe,mas o
+	Desculpe, mas o
 	parque está fechado
 	hoje.
 	"""

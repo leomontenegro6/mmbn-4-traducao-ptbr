@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	Sua atenção,por
+	Sua atenção, por
 	favor?!
 	Uma salva de palmas
 	"""
@@ -105,8 +105,8 @@ script 6 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lilly,você tá...
-	bêbada,por acaso?
+	Lilly, você tá...
+	bêbada, por acaso?
 	"""
 	keyWait
 		any = false
@@ -128,7 +128,7 @@ script 7 mmbn4 {
 	msgOpen
 	"""
 	Acho que a Lilly
-	estava bêbada,que
+	estava bêbada, que
 	nem está agora.
 	"""
 	keyWait
@@ -141,7 +141,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = WindMan
 	msgOpen
-	"Desculpe,MegaMan."
+	"Desculpe, MegaMan."
 	keyWait
 		any = false
 	clearMsg
@@ -243,7 +243,7 @@ script 13 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"lutemos,MegaMan!"
+	"lutemos, MegaMan!"
 	keyWait
 		any = false
 	end

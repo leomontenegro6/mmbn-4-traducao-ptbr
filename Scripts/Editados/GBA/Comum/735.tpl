@@ -13,7 +13,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Primeiro,represen-
+	Primeiro, represen-
 	tando Ni-Hon:
 	Lan Hikari!
 	"""
@@ -26,7 +26,7 @@ script 1 mmbn4 {
 		mugshot = JunkMan
 	msgOpen
 	"""
-	Então,você apareceu,
+	Então, você apareceu,
 	MegaMan! Vamos
 	começar a luta já!
 	"""
@@ -43,7 +43,7 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Pera,cadê o seu
+	Pera, cadê o seu
 	operador?
 	"""
 	keyWait
@@ -57,7 +57,7 @@ script 3 mmbn4 {
 		mugshot = JunkMan
 	"""
 	Eu já disse: nasci
-	no ferro-velho,e
+	no ferro-velho, e
 	ninguém sabia sobre
 	"""
 	keyWait
@@ -91,7 +91,7 @@ script 4 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	JunkMan,eu quero te
+	JunkMan, eu quero te
 	falar uma coisa an-
 	tes da gente lutar.
 	"""
@@ -152,7 +152,7 @@ script 6 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	primeiro,você tem
+	primeiro, você tem
 	que ser gentil
 	consigo mesmo.
 	"""

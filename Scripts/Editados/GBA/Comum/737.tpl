@@ -18,7 +18,7 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Não,Lan,"
+	"Não, Lan,"
 	keyWait
 		any = false
 	clearMsg
@@ -54,7 +54,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Bom,eu não sei.
+	Bom, eu não sei.
 	"""
 	keyWait
 		any = false
@@ -95,7 +95,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Não,eu também ouvi!"
+	"Não, eu também ouvi!"
 	keyWait
 		any = false
 	end
@@ -260,7 +260,7 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Caramba,Sr. Famoso.
+	Caramba, Sr. Famoso.
 	Que história!
 	"""
 	keyWait
@@ -275,14 +275,14 @@ script 16 mmbn4 {
 	"""
 	Não é realmente
 	permitido pelas
-	regras,mas eles
+	regras, mas eles
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	estão contando comi-
-	go. Logo,lutarei pe-
+	go. Logo, lutarei pe-
 	la Affriq desta vez.
 	"""
 	keyWait
@@ -304,7 +304,7 @@ script 17 mmbn4 {
 	clearMsg
 	"""
 	Que tipo de Navi é o
-	KendoMan,afinal de
+	KendoMan, afinal de
 	contas?
 	"""
 	keyWait
@@ -332,7 +332,7 @@ script 18 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Logo,trouxe um Navi
+	Logo, trouxe um Navi
 	que é um treinador
 	casca-grossa desta
 	"""
@@ -340,7 +340,7 @@ script 18 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	vez,para instruir
+	vez, para instruir
 	alguns jovens.
 	"""
 	keyWait
@@ -383,8 +383,8 @@ script 20 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ei,se quiser ir dar
-	um oi,é só ir à
+	Ei, se quiser ir dar
+	um oi, é só ir à
 	Affriq!
 	"""
 	keyWait
@@ -399,7 +399,7 @@ script 20 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Se for lá,fale com o
+	Se for lá, fale com o
 	líder da organização
 	dos jovens.
 	"""
@@ -412,7 +412,7 @@ script 21 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	O que acha,MegaMan?
+	O que acha, MegaMan?
 	"""
 	keyWait
 		any = false
@@ -432,7 +432,7 @@ script 22 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Além disso,eu também
+	Além disso, eu também
 	quero conhecer esse
 	KendoMan.
 	"""
@@ -446,7 +446,7 @@ script 23 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	É,eu também.
+	É, eu também.
 	Vamos pra Affriq!
 	"""
 	keyWait
@@ -458,7 +458,7 @@ script 24 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Sr. Famoso,eu vou
+	Sr. Famoso, eu vou
 	dar uma passada na
 	Affriq!
 	"""
@@ -527,7 +527,7 @@ script 28 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Então,o Sr. Famoso
+	Então, o Sr. Famoso
 	estava na Affriq...
 	"""
 	keyWait
@@ -543,7 +543,7 @@ script 29 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Que foi,Sr. Famoso?
+	Que foi, Sr. Famoso?
 	"""
 	keyWait
 		any = false
@@ -573,7 +573,7 @@ script 31 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Beleza. Bom,até
+	Beleza. Bom, até
 	depois!
 	"""
 	keyWait

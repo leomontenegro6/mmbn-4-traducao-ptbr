@@ -7,7 +7,7 @@ script 0 mmbn4 {
 	"""
 	AquaMan?
 	"Aqua"... Então
-	ele usa água,né?
+	ele usa água, né?
 	"""
 	keyWait
 		any = false
@@ -23,7 +23,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ainda assim,me
+	Ainda assim, me
 	pergunto que tipo
 	de Navi ele é.
 	"""
@@ -54,7 +54,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan,chegou e-mail.
+	Lan, chegou e-mail.
 	Eu vou ler aqui!
 	"""
 	keyWait
@@ -105,7 +105,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Relaxa,essas
+	Relaxa, essas
 	previsões são
 	sempre balela.
 	"""

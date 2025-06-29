@@ -19,7 +19,7 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,acabou o nosso
+	Lan, acabou o nosso
 	tempo. Reinicia o
 	sistema sonar!
 	"""
@@ -54,7 +54,7 @@ script 2 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,acabou o nosso
+	Lan, acabou o nosso
 	tempo. Reinicia o
 	sistema sonar!
 	"""

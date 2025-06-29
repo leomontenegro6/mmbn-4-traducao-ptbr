@@ -40,7 +40,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Caramba,Mayl!"
+	"Caramba, Mayl!"
 	keyWait
 		any = false
 	clearMsg
@@ -68,9 +68,9 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,ainda assim,por
+	Mas, ainda assim, por
 	que cê decidiu com-
-	petir assim,do nada?
+	petir assim, do nada?
 	"""
 	keyWait
 		any = false
@@ -124,12 +124,12 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Roll
 	msgOpen
-	"É,eu tô bem."
+	"É, eu tô bem."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nossa,Mega!
+	Nossa, Mega!
 	Você acabou comigo!
 	"""
 	keyWait
@@ -155,7 +155,7 @@ script 7 mmbn4 {
 	msgOpen
 	"""
 	E eu senti a sua
-	força calorosa,Roll.
+	força calorosa, Roll.
 	"""
 	keyWait
 		any = false
@@ -221,9 +221,9 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	E-er,he he,não!
-	Digo,não foi o que
-	eu quis dizer,he he.
+	E-er, he he, não!
+	Digo, não foi o que
+	eu quis dizer, he he.
 	"""
 	keyWait
 		any = false
@@ -270,7 +270,7 @@ script 10 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = Roll
-	"Hi hi,não esquenta!"
+	"Hi hi, não esquenta!"
 	keyWait
 		any = false
 	clearMsg
@@ -290,14 +290,14 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Pessoalmente,eu
+	Pessoalmente, eu
 	queria que a
 	menina vencesse.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Que pena,Mayl!"
+	"Que pena, Mayl!"
 	keyWait
 		any = false
 	clearMsg
@@ -351,7 +351,7 @@ script 15 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Lan,a gente ainda
+	Lan, a gente ainda
 	vai treinar mais e
 	ficar mais fortes.
 	"""
@@ -365,7 +365,7 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Ah,cê quer revanche?"
+	"Ah, cê quer revanche?"
 	keyWait
 		any = false
 	clearMsg
@@ -388,7 +388,7 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Vamos,Yai!"
+	"Vamos, Yai!"
 	keyWait
 		any = false
 	end
@@ -413,7 +413,7 @@ script 20 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Não,ela não me
+	Não, ela não me
 	conta.
 	"""
 	keyWait
@@ -502,7 +502,7 @@ script 24 mmbn4 {
 	msgOpen
 	"""
 	Hm...
-	Entendi,agora.
+	Entendi, agora.
 	"""
 	keyWait
 		any = false
@@ -515,8 +515,8 @@ script 25 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Bom,de qualquer
-	jeito,a Roll tava
+	Bom, de qualquer
+	jeito, a Roll tava
 	forte mesmo!
 	"""
 	keyWait

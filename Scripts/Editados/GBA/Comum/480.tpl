@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,a Área Parque
+	Lan, a Área Parque
 	fica passando esta
 	porta!
 	"""
@@ -19,7 +19,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	É,e não tem nenhum
+	É, e não tem nenhum
 	outro acesso pra
 	lá...
 	"""
@@ -27,7 +27,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	MegaMan,não tem
+	MegaMan, não tem
 	nenhum jeito de
 	abrir ela?
 	"""
@@ -60,7 +60,7 @@ script 4 mmbn4 {
 	mugshotHide
 	"""
 	À frente fica a Área
-	Castillo,território
+	Castillo, território
 	do parque temático.
 	"""
 	keyWait
@@ -74,7 +74,7 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Funcionário,insira
+	Funcionário, insira
 	seu código de
 	funcionário.
 	"""
@@ -101,7 +101,7 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	... Bom,não temos
+	... Bom, não temos
 	muita escolha,
 	então...
 	"""

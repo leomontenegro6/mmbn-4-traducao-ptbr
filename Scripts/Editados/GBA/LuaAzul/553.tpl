@@ -53,7 +53,7 @@ script 2 mmbn4 {
 		mugshot = BlondMan
 	"""
 	Sharo pode ser um
-	país frio,mas nossos
+	país frio, mas nossos
 	corações ardem!!
 	"""
 	keyWait

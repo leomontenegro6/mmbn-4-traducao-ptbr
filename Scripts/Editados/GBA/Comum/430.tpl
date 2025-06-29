@@ -21,7 +21,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Não parece,mas eu
+	Não parece, mas eu
 	sou um Lutador for-
 	tão na minha terra!
 	"""
@@ -39,8 +39,8 @@ script 1 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Então,o torneio é
-	amanhã,é?
+	Então, o torneio é
+	amanhã, é?
 	"""
 	keyWait
 		any = false
@@ -67,7 +67,7 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Não parece,mas eu
+	Não parece, mas eu
 	sou um Lutador for-
 	tão na minha terra!
 	"""
@@ -164,7 +164,7 @@ script 15 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	então,eu tenho que
+	então, eu tenho que
 	conseguir...!
 	"""
 	keyWait
@@ -181,7 +181,7 @@ script 16 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Então,as lutas estão
+	Então, as lutas estão
 	pra começar...
 	"""
 	keyWait
@@ -265,8 +265,8 @@ script 25 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ah,é! Você chegou
-	nas finais,né?
+	Ah, é! Você chegou
+	nas finais, né?
 	"""
 	keyWait
 		any = false
@@ -410,7 +410,7 @@ script 35 mmbn4 {
 	clearMsg
 	"""
 	Você gosta de
-	perigo,hein?
+	perigo, hein?
 	"""
 	keyWait
 		any = false
@@ -448,7 +448,7 @@ script 36 mmbn4 {
 	"""
 	Todos os Navis
 	particulares devem
-	desconectar,já!
+	desconectar, já!
 	"""
 	keyWait
 		any = false
@@ -523,7 +523,7 @@ script 120 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	então,eu tenho que
+	então, eu tenho que
 	conseguir...!
 	"""
 	keyWait
@@ -661,7 +661,7 @@ script 145 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"E eu estou tão,\nmas tão ocupado..."
+	"E eu estou tão, \nmas tão ocupado..."
 	keyWait
 		any = false
 	clearMsg
@@ -692,7 +692,7 @@ script 145 mmbn4 {
 	clearMsg
 	"""
 	Você está ocupado
-	com o torneio,não
+	com o torneio, não
 	está?
 	"""
 	keyWait
@@ -710,7 +710,7 @@ script 145 mmbn4 {
 	waitSkip
 		frames = 30
 	"""
-	Ah,tudo bem.
+	Ah, tudo bem.
 	Por que não?
 	"""
 	keyWait
@@ -783,8 +783,8 @@ script 150 mmbn4 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	Então,você está
-	treinando,é? Quer
+	Então, você está
+	treinando, é? Quer
 	treinar comigo?
 	"""
 	keyWait
@@ -850,7 +850,7 @@ script 153 mmbn4 {
 	msgOpen
 	"""
 	Você tem que mirar
-	no meu braço,rosto
+	no meu braço, rosto
 	ou corpo.
 	"""
 	keyWait
@@ -876,7 +876,7 @@ script 153 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Se acertar,minha
+	Se acertar, minha
 	barra de energia
 	irá diminuir.
 	"""
@@ -932,7 +932,7 @@ script 153 mmbn4 {
 	clearMsg
 	"""
 	Se deixar uma parte
-	descoberta,eu também
+	descoberta, eu também
 	vou atacar você!
 	"""
 	keyWait
@@ -954,7 +954,7 @@ script 153 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E então,entendeu as
+	E então, entendeu as
 	regras?
 	"""
 	keyWait
@@ -1016,7 +1016,7 @@ script 240 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	He he... Aí,garoto,
+	He he... Aí, garoto,
 	quer comprar uns
 	dados-lixo?
 	"""
@@ -1052,7 +1052,7 @@ script 240 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Normalmente,sairia
+	Normalmente, sairia
 	por 50000 Zennys...
 	"""
 	keyWait
@@ -1100,7 +1100,7 @@ script 240 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviPurple
-	"Tá falando sério,\ngaroto?"
+	"Tá falando sério, \ngaroto?"
 	keyWait
 		any = false
 	end
@@ -1115,7 +1115,7 @@ script 241 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Boa,garoto!
+	Boa, garoto!
 	Fez uma sábia
 	decisão...
 	"""
@@ -1145,7 +1145,7 @@ script 241 mmbn4 {
 		mugshot = HeelNaviPurple
 	"""
 	Isso aí é super
-	raro,então,vê se
+	raro, então, vê se
 	cuida bem dela!
 	"""
 	keyWait
@@ -1159,7 +1159,7 @@ script 242 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Desculpa,garoto.
+	Desculpa, garoto.
 	Cê não tem a grana
 	necessária!
 	"""
@@ -1193,7 +1193,7 @@ script 243 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Claro que quer,né?
+	Claro que quer, né?
 	Não vai achar por um
 	preço melhor!
 	"""
@@ -1238,7 +1238,7 @@ script 243 mmbn4 {
 	"""
 	O quêêê?! Não
 	gostou do que eu tô
-	oferecendo,não?!
+	oferecendo, não?!
 	"""
 	keyWait
 		any = false

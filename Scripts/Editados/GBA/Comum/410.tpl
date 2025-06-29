@@ -67,7 +67,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Esse é caro,viu?!
+	Esse é caro, viu?!
 	Custa 500 Zennys.
 	"""
 	keyWait
@@ -131,7 +131,7 @@ script 1 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Puxa,obrigado!
+	Puxa, obrigado!
 	Isso ajuda muito
 	mesmo!
 	"""
@@ -147,7 +147,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Vamos,leve o
+	Vamos, leve o
 	"
 	"""
 	printItem
@@ -237,7 +237,7 @@ script 10 mmbn4 {
 	clearMsg
 	"""
 	Em algum ponto da
-	Rede,há uma loja de
+	Rede, há uma loja de
 	troca de FragBugs.
 	"""
 	keyWait
@@ -266,7 +266,7 @@ script 11 mmbn4 {
 	clearMsg
 	"""
 	DEVIDO A UM DEFEITO
-	DE CONEXÃO,A ÁREA
+	DE CONEXÃO, A ÁREA
 	FOI BARRADA.
 	"""
 	keyWait
@@ -331,7 +331,7 @@ script 14 mmbn4 {
 	msgOpen
 	"""
 	Agradeço o sentimen-
-	to,mas você não tem
+	to, mas você não tem
 	o dinheiro!
 	"""
 	keyWait
@@ -377,7 +377,7 @@ script 17 mmbn4 {
 	"""
 	TEM UM NAVI SINISTRO
 	MAIS ADIANTE!
-	FOGE,MENINO!
+	FOGE, MENINO!
 	"""
 	keyWait
 		any = false
@@ -442,7 +442,7 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = PurpleNavi
 	"""
-	Entendo. Bom,estou
+	Entendo. Bom, estou
 	aqui caso mude de
 	ideia.
 	"""
@@ -456,7 +456,7 @@ script 20 mmbn4 {
 	msgOpen
 	"""
 	Vários Navis foram
-	atacados,mas os
+	atacados, mas os
 	Progs estão bem!
 	"""
 	keyWait
@@ -596,7 +596,7 @@ script 26 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,francamente,
+	Mas, francamente,
 	eu não acho que
 	vá vencer...!
 	"""
@@ -617,7 +617,7 @@ script 27 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,francamente,
+	Mas, francamente,
 	eu não acho que
 	vá vencer...!
 	"""
@@ -755,7 +755,7 @@ script 130 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Que é,moleque?
+	Que é, moleque?
 	Hã? Tu quer o meu
 	"
 	"""
@@ -767,9 +767,9 @@ script 130 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Tá,pode ser...
+	Tá, pode ser...
 	Mas não vou dar de
-	mão beijada,não.
+	mão beijada, não.
 	"""
 	keyWait
 		any = false
@@ -823,7 +823,7 @@ script 130 mmbn4 {
 	"""
 	Então este papo aqui
 	acabou.
-	Vaza,guri!
+	Vaza, guri!
 	"""
 	keyWait
 		any = false
@@ -872,7 +872,7 @@ script 131 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviPurple
-	"Valeu aí,garoto!"
+	"Valeu aí, garoto!"
 	keyWait
 		any = false
 	end
@@ -882,21 +882,21 @@ script 132 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Ué,não tem grana
-	pra pagar,não?
+	Ué, não tem grana
+	pra pagar, não?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ah,tu quer é tentar
+	Ah, tu quer é tentar
 	me convencer a te
-	dar de graça,né?
+	dar de graça, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ô,danado!"
+	"Ô, danado!"
 	keyWait
 		any = false
 	end
@@ -959,7 +959,7 @@ script 133 mmbn4 {
 	"""
 	Então este papo aqui
 	acabou.
-	Vaza,guri!
+	Vaza, guri!
 	"""
 	keyWait
 		any = false
@@ -971,7 +971,7 @@ script 134 mmbn4 {
 	msgOpen
 	"""
 	Que é agora? Não
-	tenho mais nada,não.
+	tenho mais nada, não.
 	Xispa daqui.
 	"""
 	keyWait
@@ -1045,7 +1045,7 @@ script 161 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Ai,ai. Queria tanto
+	Ai, ai. Queria tanto
 	poder papear com uma
 	gatinha...
 	"""

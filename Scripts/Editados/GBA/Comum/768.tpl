@@ -24,7 +24,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"Raika,está na\nescuta?"
+	"Raika, está na\nescuta?"
 	keyWait
 		any = false
 	clearMsg
@@ -108,7 +108,7 @@ script 6 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Certo,agora você
+	Certo, agora você
 	terá que ir até o
 	local.
 	"""
@@ -116,7 +116,7 @@ script 6 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Aqui,uma cópia
+	Aqui, uma cópia
 	da chave do
 	esconderijo.
 	"""
@@ -183,7 +183,7 @@ script 10 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Com isso,eu vou
+	Com isso, eu vou
 	poder testar aquele
 	Raika...
 	"""

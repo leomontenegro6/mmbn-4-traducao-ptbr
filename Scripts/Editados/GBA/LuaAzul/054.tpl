@@ -32,7 +32,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Dad
 	"""
-	Exato. Agora,o
+	Exato. Agora, o
 	MegaMan pode se
 	unir à AlmaAqua.
 	"""
@@ -40,8 +40,8 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Logo,ao sacrificar
-	um chip de Água,ele
+	Logo, ao sacrificar
+	um chip de Água, ele
 	ativa a UniAlma.
 	"""
 	keyWait
@@ -61,7 +61,7 @@ script 3 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Agora,selecione
+	Agora, selecione
 	o comando "Unir".
 	"""
 	keyWait
@@ -72,7 +72,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"Experimenta,Lan."
+	"Experimenta, Lan."
 	keyWait
 		any = false
 	end
@@ -95,7 +95,7 @@ script 6 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Não,selecione o
+	Não, selecione o
 	"Bubbler". Cancele
 	e tente de novo.
 	"""
@@ -108,7 +108,7 @@ script 7 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Lan,você esqueceu
+	Lan, você esqueceu
 	de usar o comando
 	"Unir".
 	"""
@@ -121,7 +121,7 @@ script 8 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Lan,não precisa
+	Lan, não precisa
 	cancelar.
 	"""
 	keyWait
@@ -177,7 +177,7 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Experimente,Lan!
+	Experimente, Lan!
 	"""
 	keyWait
 		any = false
@@ -189,14 +189,14 @@ script 11 mmbn4 {
 	msgOpen
 	"""
 	Isso é a UniAlma.
-	Se dominá-la,você
+	Se dominá-la, você
 	ficará mais forte.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Contudo,essa
+	Contudo, essa
 	união tem algumas
 	restrições.
 	"""

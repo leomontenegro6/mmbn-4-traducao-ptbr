@@ -39,8 +39,8 @@ script 2 mmbn4 {
 		timer = 1
 		value = 1
 	"""
-	H T T P,ponto e
-	vírgula,travessão,
+	H T T P, ponto e
+	vírgula, travessão,
 	travessão. É isso?!
 	"""
 	keyWait
@@ -52,7 +52,7 @@ script 3 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Fique com isto,meu
+	Fique com isto, meu
 	jovem!
 	"""
 	keyWait

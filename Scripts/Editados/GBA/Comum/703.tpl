@@ -51,7 +51,7 @@ script 3 mmbn4 {
 	clearMsg
 	"""
 	Viu só como você
-	é tolo,pirralho?!
+	é tolo, pirralho?!
 	"""
 	keyWait
 		any = false
@@ -62,7 +62,7 @@ script 4 mmbn4 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Aqui,ó,nas
+	Aqui, ó, nas
 	arquibancadas!
 	"""
 	keyWait
@@ -151,7 +151,7 @@ script 8 mmbn4 {
 	"""
 	Não me faça rir!
 	Cê tá de
-	brincadeira,né?!
+	brincadeira, né?!
 	"""
 	keyWait
 		any = false
@@ -181,7 +181,7 @@ script 9 mmbn4 {
 	clearMsg
 	"""
 	BurnMan!
-	Vai,demole todas
+	Vai, demole todas
 	essas máquinas!
 	"""
 	keyWait
@@ -251,7 +251,7 @@ script 14 mmbn4 {
 	msgOpen
 	"""
 	Ter um espírito fla-
-	mejante é legal,mas
+	mejante é legal, mas
 	isso já é demais.
 	"""
 	keyWait

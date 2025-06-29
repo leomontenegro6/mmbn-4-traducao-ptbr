@@ -13,14 +13,14 @@ script 10 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	AÍ,GAROTO! CÊ TÁ
+	AÍ, GAROTO! CÊ TÁ
 	NAQUELE TORNEIO LÁ?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ENTÃO,VOCÊ TÁ ATRÁS
+	ENTÃO, VOCÊ TÁ ATRÁS
 	DE PONTOS DE
 	LUTA...?
 	"""
@@ -86,7 +86,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	AH,VAI...
+	AH, VAI...
 	VAI SER LEGAL!
 	"""
 	keyWait
@@ -175,7 +175,7 @@ script 12 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	VOCÊ É BOM,HEIN?
+	VOCÊ É BOM, HEIN?
 	TREINA MUITO PRA SER
 	ASSIM?
 	"""
@@ -183,8 +183,8 @@ script 12 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	BOM,PROMESSA É
-	DÍVIDA,NÉ...?
+	BOM, PROMESSA É
+	DÍVIDA, NÉ...?
 	TOMA AÍ!
 	"""
 	keyWait
@@ -219,7 +219,7 @@ script 12 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	NA REAL,É UM TANTO
+	NA REAL, É UM TANTO
 	SOLITÁRIO...
 	"""
 	keyWait
@@ -336,8 +336,8 @@ script 15 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	CERTO,HORA DE JOGAR
-	PEDRA,PAPEL E
+	CERTO, HORA DE JOGAR
+	PEDRA, PAPEL E
 	TESOURA A SÉRIO!
 	"""
 	keyWait
@@ -548,7 +548,7 @@ script 131 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Então,foi isso que
+	Então, foi isso que
 	a Sal disse...
 	"""
 	keyWait
@@ -557,7 +557,7 @@ script 131 mmbn4 {
 	"""
 	Eu entendo o estilo
 	dela de ouvir o
-	coração,mas...
+	coração, mas...
 	"""
 	keyWait
 		any = false
@@ -642,7 +642,7 @@ script 133 mmbn4 {
 	clearMsg
 	"""
 	Acho que parte de
-	mim,lá no fundo,
+	mim, lá no fundo,
 	estava esperando...
 	"""
 	keyWait

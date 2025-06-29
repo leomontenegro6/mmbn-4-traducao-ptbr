@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"Sal,eu sinto muito."
+	"Sal, eu sinto muito."
 	keyWait
 		any = false
 	clearMsg
@@ -41,7 +41,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = YoungWoman
 	"""
-	Por favor,diz que
+	Por favor, diz que
 	vai continuar sendo
 	a nossa líder.
 	"""
@@ -71,7 +71,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = Sal
-	"Er,sou."
+	"Er, sou."
 	keyWait
 		any = false
 	clearMsg
@@ -97,7 +97,7 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Sal,você é a melhor
+	Sal, você é a melhor
 	líder que um grupo
 	poderia querer.
 	"""
@@ -112,13 +112,13 @@ script 6 mmbn4 {
 		mugshot = SciLabMan
 	"""
 	A luta está pra
-	começar,Sal.
+	começar, Sal.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Todos nós,os 1500
+	Todos nós, os 1500
 	membros da organi-
 	zação de proteção
 	"""
@@ -126,7 +126,7 @@ script 6 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	ambiental,queremos
+	ambiental, queremos
 	ver você fazer
 	bonito lá na arena!
 	"""
@@ -148,7 +148,7 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Caramba,Sal!"
+	"Caramba, Sal!"
 	keyWait
 		any = false
 	clearMsg
@@ -175,7 +175,7 @@ script 10 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Vamos,Lan!"
+	"Vamos, Lan!"
 	keyWait
 		any = false
 	clearMsg

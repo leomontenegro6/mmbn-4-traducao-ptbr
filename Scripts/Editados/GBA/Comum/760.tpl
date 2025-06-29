@@ -44,7 +44,7 @@ script 3 mmbn4 {
 	"""
 	E? O que você
 	tem para tratar
-	comigo,xuou?
+	comigo, xuou?
 	"""
 	keyWait
 		any = false
@@ -64,7 +64,7 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Então,daria para
+	Então, daria para
 	você parar com isso?
 	"""
 	keyWait
@@ -81,9 +81,9 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Então,você quer que
+	Então, você quer que
 	eu pare de esfriar a
-	Rede,é?
+	Rede, é?
 	"""
 	keyWait
 		any = false
@@ -94,7 +94,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Er,é..."
+	"Er, é..."
 	keyWait
 		any = false
 	clearMsg
@@ -142,7 +142,7 @@ script 8 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Agora,eu voltarei a
+	Agora, eu voltarei a
 	Sharo e trarei o
 	frio natural de lá!
 	"""
@@ -156,7 +156,7 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = ColdMan
 	"""
-	... Xuou,xuou!
+	... Xuou, xuou!
 	Viva! Frio natural!
 	"""
 	keyWait
@@ -173,7 +173,7 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Rápido,acaba logo
+	Rápido, acaba logo
 	com esse frio!
 	"""
 	keyWait
@@ -205,7 +205,7 @@ script 12 mmbn4 {
 	clearMsg
 	"""
 	Eu sei.
-	Paciência,rapaz!
+	Paciência, rapaz!
 	"""
 	keyWait
 		any = false
@@ -215,7 +215,7 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = ColdMan
 	msgOpen
-	"Bonecos de neve,\nsumam!!"
+	"Bonecos de neve, \nsumam!!"
 	keyWait
 		any = false
 	end
@@ -247,7 +247,7 @@ script 15 mmbn4 {
 	msgOpen
 	"""
 	Isso pareceu meio
-	fácil demais,né?
+	fácil demais, né?
 	"""
 	keyWait
 		any = false
@@ -263,7 +263,7 @@ script 16 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ufa. Mas,pelo menos,
+	Ufa. Mas, pelo menos,
 	esquentou um pouco.
 	"""
 	keyWait
@@ -278,7 +278,7 @@ script 17 mmbn4 {
 	"""
 	Que papo todo foi
 	aquele de "frio
-	natural",afinal?
+	natural", afinal?
 	"""
 	keyWait
 		any = false
@@ -302,7 +302,7 @@ script 18 mmbn4 {
 script 19 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Não sei não,hein..."
+	"Não sei não, hein..."
 	keyWait
 		any = false
 	clearMsg

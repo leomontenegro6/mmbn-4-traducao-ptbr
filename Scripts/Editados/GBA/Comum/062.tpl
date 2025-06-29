@@ -60,7 +60,7 @@ script 3 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Nosso lar,o Bairro
+	Nosso lar, o Bairro
 	ACDC. Preciso mesmo
 	descrever ele?
 	"""
@@ -133,7 +133,7 @@ script 7 mmbn4 {
 		delay = 0
 	"""
 	O Aeroporto Den.
-	O mundo,a só um
+	O mundo, a só um
 	voo de distância!
 	"""
 	waitHold
@@ -146,8 +146,8 @@ script 8 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Ah,vai! Esse é o
-	nosso país,Ni-Hon!
+	Ah, vai! Esse é o
+	nosso país, Ni-Hon!
 	"""
 	waitHold
 }

@@ -6,7 +6,7 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	Os eventos são
-	divertidos,mas a
+	divertidos, mas a
 	limpeza não é...
 	"""
 	keyWait
@@ -52,7 +52,7 @@ script 2 mmbn4 {
 		mugshot = Woman
 	msgOpen
 	"""
-	Ops,parece que
+	Ops, parece que
 	alguém perdeu um
 	chip aqui...
 	"""
@@ -73,7 +73,7 @@ script 3 mmbn4 {
 		mugshot = Woman
 	msgOpen
 	"""
-	Bem,finalmente
+	Bem, finalmente
 	terminei aqui...
 	"""
 	keyWait
@@ -109,7 +109,7 @@ script 10 mmbn4 {
 	clearMsg
 	"""
 	Você é um menino
-	medonho,sabia?
+	medonho, sabia?
 	"""
 	keyWait
 		any = false
@@ -120,7 +120,7 @@ script 11 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	... Bem,vou ignorar
+	... Bem, vou ignorar
 	desta vez. Só vá
 	embora...
 	"""
@@ -128,7 +128,7 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Na verdade,eu não
+	Na verdade, eu não
 	gosto nada do
 	prefeito...
 	"""
@@ -136,7 +136,7 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Então,achei engra-
+	Então, achei engra-
 	çado quando você
 	interrompeu ele!
 	"""

@@ -7,7 +7,7 @@ script 0 mmbn4 {
 	"""
 	Parece que este
 	dispositivo foi
-	desligado,também!
+	desligado, também!
 	"""
 	keyWait
 		any = false

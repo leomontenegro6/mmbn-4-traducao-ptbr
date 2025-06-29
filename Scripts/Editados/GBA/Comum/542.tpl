@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"MegaMan,você tá bem?"
+	"MegaMan, você tá bem?"
 	keyWait
 		any = false
 	clearMsg
@@ -28,7 +28,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Ótimo. Agora,vamos
+	Ótimo. Agora, vamos
 	atrás do Navi do
 	Rega!!
 	"""

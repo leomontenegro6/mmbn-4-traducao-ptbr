@@ -101,13 +101,13 @@ script 6 mmbn4 {
 	". "
 	waitSkip
 		frames = 30
-	"Hmmm,talvez\nnão..."
+	"Hmmm, talvez\nnão..."
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Eu ia começar
-	bolando um nome,mas
+	bolando um nome, mas
 	também é difícil!
 	"""
 	keyWait
@@ -136,7 +136,7 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	DESCULPE,MAS NÃO
+	DESCULPE, MAS NÃO
 	TENHO INTERESSE
 	NISSO.
 	"""
@@ -170,7 +170,7 @@ script 11 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Não,também não é\nisso!!"
+	"Não, também não é\nisso!!"
 	keyWait
 		any = false
 	end
@@ -184,7 +184,7 @@ script 12 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	DESCULPE,MAS NÃO
+	DESCULPE, MAS NÃO
 	TENHO INTERESSE
 	NISSO.
 	"""
@@ -282,7 +282,7 @@ script 20 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	PARA SER FRANCO,EU
+	PARA SER FRANCO, EU
 	QUERIA MUITO IR
 	CONFERIR O
 	"""
@@ -328,7 +328,7 @@ script 21 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Acho que vou só\nviver em paz,\nmesmo..."
+	"Acho que vou só\nviver em paz, \nmesmo..."
 	keyWait
 		any = false
 	end
@@ -339,7 +339,7 @@ script 22 mmbn4 {
 	msgOpen
 	"""
 	NÃO IMPORTA AONDE
-	EU VÁ,SEMPRE ACABO
+	EU VÁ, SEMPRE ACABO
 	VOLTANDO AQUI.
 	"""
 	keyWait
@@ -359,7 +359,7 @@ script 23 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	PARA SER FRANCO,EU
+	PARA SER FRANCO, EU
 	QUERIA MUITO IR
 	CONFERIR O
 	"""
@@ -492,7 +492,7 @@ script 40 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	CRIME,ENTÃO NI-HON
+	CRIME, ENTÃO NI-HON
 	TAMBÉM NÃO ESTARIA
 	A SALVO.
 	"""
@@ -538,7 +538,7 @@ script 45 mmbn4 {
 	clearMsg
 	"""
 	SERIA MELHOR VOCÊ
-	DESCONECTAR,TAMBÉM.
+	DESCONECTAR, TAMBÉM.
 	"""
 	keyWait
 		any = false

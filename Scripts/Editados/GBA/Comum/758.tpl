@@ -152,7 +152,7 @@ script 7 mmbn4 {
 	clearMsg
 	"""
 	Se eu virasse o
-	Campeão,eles teriam
+	Campeão, eles teriam
 	me aceitado enfim.
 	"""
 	keyWait
@@ -225,7 +225,7 @@ script 11 mmbn4 {
 	msgOpen
 	"""
 	Você se lembra das
-	leis da vila,não?
+	leis da vila, não?
 	"""
 	keyWait
 		any = false
@@ -268,14 +268,14 @@ script 14 mmbn4 {
 	clearMsg
 	"""
 	Isso não é meio
-	drástico?! Digo,sei
-	lá,o rio já voltou
+	drástico?! Digo, sei
+	lá, o rio já voltou
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ao normal,então...
+	ao normal, então...
 	"""
 	keyWait
 		any = false
@@ -286,7 +286,7 @@ script 15 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	Mesmo assim,o
+	Mesmo assim, o
 	Paulie quebrou as
 	leis da vila!
 	"""
@@ -319,7 +319,7 @@ script 16 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	então,por favor,
+	então, por favor,
 	perdoem ele!
 	"""
 	keyWait
@@ -361,7 +361,7 @@ script 18 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	Paulie,é bom você
+	Paulie, é bom você
 	estar grato ao Lan.
 	"""
 	keyWait
@@ -387,7 +387,7 @@ script 19 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Realmente,tem muita
+	Realmente, tem muita
 	gente por aí mais
 	forte que eu.
 	"""
@@ -402,7 +402,7 @@ script 20 mmbn4 {
 		mugshot = Man
 	"""
 	É isso mesmo.
-	O mundo é grande,e
+	O mundo é grande, e
 	você ainda é jovem.
 	"""
 	keyWait
@@ -410,7 +410,7 @@ script 20 mmbn4 {
 	clearMsg
 	"""
 	Aprenda coisas
-	novas,conheça
+	novas, conheça
 	novas pessoas.
 	"""
 	keyWait
@@ -426,7 +426,7 @@ script 20 mmbn4 {
 script 21 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Ah,quase que eu\nesqueço!"
+	"Ah, quase que eu\nesqueço!"
 	keyWait
 		any = false
 	end
@@ -459,15 +459,15 @@ script 24 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Por favor,façam a
+	Por favor, façam a
 	Campanha do Deus da
-	Água. Desta vez,sem
+	Água. Desta vez, sem
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	mim. Afinal,eu abri
+	mim. Afinal, eu abri
 	mão do título de
 	Campeão.
 	"""
@@ -490,7 +490,7 @@ script 25 mmbn4 {
 script 26 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Arrasa lá,Paulie!"
+	"Arrasa lá, Paulie!"
 	keyWait
 		any = false
 	clearMsg
@@ -500,7 +500,7 @@ script 26 mmbn4 {
 script 27 mmbn4 {
 	mugshotShow
 		mugshot = BlackKid
-	"... Valeu,Lan."
+	"... Valeu, Lan."
 	keyWait
 		any = false
 	clearMsg
@@ -525,7 +525,7 @@ script 27 mmbn4 {
 script 28 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Claro,quando quiser!"
+	"Claro, quando quiser!"
 	keyWait
 		any = false
 	end
@@ -534,7 +534,7 @@ script 29 mmbn4 {
 	mugshotShow
 		mugshot = Man
 	msgOpen
-	"Vamos,Paulie."
+	"Vamos, Paulie."
 	keyWait
 		any = false
 	end
@@ -566,7 +566,7 @@ script 32 mmbn4 {
 	mugshotShow
 		mugshot = BlackKid
 	msgOpen
-	"Lan,obrigado!!"
+	"Lan, obrigado!!"
 	keyWait
 		any = false
 	clearMsg

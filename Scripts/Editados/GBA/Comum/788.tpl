@@ -237,7 +237,7 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,lá vem ele!!"
+	"Lan, lá vem ele!!"
 	keyWait
 		any = false
 	clearMsg

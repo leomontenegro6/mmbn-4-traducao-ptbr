@@ -42,7 +42,7 @@ script 2 mmbn4 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Divirta-se,e cuidado
+	Divirta-se, e cuidado
 	com o trânsito!
 	"""
 	keyWait
@@ -167,7 +167,7 @@ script 25 mmbn4 {
 	"""
 	então eu vou cuidar
 	da nossa casa até
-	você voltar,filho.
+	você voltar, filho.
 	"""
 	keyWait
 		any = false
@@ -198,7 +198,7 @@ script 30 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Vá lá,Lan.\nMe encha de orgulho!"
+	"Vá lá, Lan.\nMe encha de orgulho!"
 	keyWait
 		any = false
 	end
@@ -209,7 +209,7 @@ script 35 mmbn4 {
 	msgOpen
 	"""
 	Vou ficar aqui até
-	você voltar,filho.
+	você voltar, filho.
 	"""
 	keyWait
 		any = false

@@ -49,7 +49,7 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Na verdade,eu
+	Na verdade, eu
 	devia era estar
 	te agradecendo.
 	"""
@@ -75,7 +75,7 @@ script 4 mmbn4 {
 	"""
 	He he... Cê quer
 	liberar esse poder
-	sombrio aí,hein?!
+	sombrio aí, hein?!
 	"""
 	keyWait
 		any = false
@@ -136,7 +136,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	msgOpen
-	"Notícias,senhor!"
+	"Notícias, senhor!"
 	keyWait
 		any = false
 	clearMsg
@@ -149,7 +149,7 @@ script 8 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Logo,o MegaMan deve
+	Logo, o MegaMan deve
 	estar vasculhando o
 	Mundo Cibernético.
 	"""
@@ -179,7 +179,7 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
-	"Sim,senhor."
+	"Sim, senhor."
 	keyWait
 		any = false
 	clearMsg

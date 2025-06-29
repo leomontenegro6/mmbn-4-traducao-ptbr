@@ -112,7 +112,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = Raoul
-	"Vá,ThunderMan!"
+	"Vá, ThunderMan!"
 	keyWait
 		any = false
 	clearMsg

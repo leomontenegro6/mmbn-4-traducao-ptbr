@@ -16,7 +16,7 @@ script 1 mmbn4 {
 		mugshot = Lilly
 	msgOpen
 	"""
-	Lan,obrigada por
+	Lan, obrigada por
 	me ajudar com o
 	WindMan!
 	"""
@@ -35,7 +35,7 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Toma,a sua
+	Toma, a sua
 	"
 	"""
 	printItem
@@ -50,7 +50,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lilly
 	msgOpen
-	"Ah,sim."
+	"Ah, sim."
 	keyWait
 		any = false
 	clearMsg
@@ -77,7 +77,7 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Vamos lá,vamos nos
+	Vamos lá, vamos nos
 	divertir!
 	"""
 	keyWait
@@ -118,7 +118,7 @@ script 7 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ah,toda esta
+	Ah, toda esta
 	preocupação
 	me deu sede.
 	"""
@@ -176,7 +176,7 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Enfim,vamos logo
+	Enfim, vamos logo
 	lá pro torneio!
 	"""
 	keyWait

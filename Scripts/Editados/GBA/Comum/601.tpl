@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = AquaMan
 	msgOpen
-	"Xuá,xuá,xuá..."
+	"Xuá, xuá, xuá..."
 	keyWait
 		any = false
 	clearMsg
@@ -64,7 +64,7 @@ script 4 mmbn4 {
 	clearMsg
 	"""
 	Mentira! Xuá! Depois
-	do torneio,eles vão
+	do torneio, eles vão
 	me jogar fora!
 	"""
 	keyWait
@@ -88,14 +88,14 @@ script 6 mmbn4 {
 		mugshot = AquaMan
 	"""
 	Não quero ouvir!
-	Xuá,xuá!
+	Xuá, xuá!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Eu sou barulhento
-	demais,xuá! Sou
+	demais, xuá! Sou
 	um Navi indesejado!
 	"""
 	keyWait
@@ -103,7 +103,7 @@ script 6 mmbn4 {
 	clearMsg
 	"""
 	Me deixa em paz!
-	Xuá,xuá,xuá...
+	Xuá, xuá, xuá...
 	"""
 	keyWait
 		any = false
@@ -129,7 +129,7 @@ script 8 mmbn4 {
 	"""
 	Mas que Navi
 	teimoso! Vamos atrás
-	dele,MegaMan!
+	dele, MegaMan!
 	"""
 	keyWait
 		any = false

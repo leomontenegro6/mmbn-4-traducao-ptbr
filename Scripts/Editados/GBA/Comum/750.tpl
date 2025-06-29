@@ -27,7 +27,7 @@ script 2 mmbn4 {
 	msgOpen
 	"""
 	Agh! Que explosão!
-	Mas,ainda assim,
+	Mas, ainda assim,
 	eu vou te vencer!
 	"""
 	keyWait

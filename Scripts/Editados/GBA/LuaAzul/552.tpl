@@ -48,7 +48,7 @@ script 3 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"VAMOS,MEGAMAN!!"
+	"VAMOS, MEGAMAN!!"
 	keyWait
 		any = false
 	clearMsg
@@ -60,7 +60,7 @@ script 4 mmbn4 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	Não temam,amigos.
+	Não temam, amigos.
 	O MegaMan não irá
 	nos decepcionar!
 	"""

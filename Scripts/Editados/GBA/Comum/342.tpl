@@ -13,8 +13,8 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	CARNE KOSHER,PÃO
-	NATURAL,VERDURAS
+	CARNE KOSHER, PÃO
+	NATURAL, VERDURAS
 	FRESCAS! HUMM!
 	"""
 	keyWait

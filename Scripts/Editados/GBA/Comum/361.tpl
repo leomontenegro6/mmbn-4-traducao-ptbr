@@ -5,7 +5,7 @@ script 10 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	OLÁ,MEGAMAN!
+	OLÁ, MEGAMAN!
 	BOA TARDE!
 	"""
 	keyWait

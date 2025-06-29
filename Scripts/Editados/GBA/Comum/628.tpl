@@ -87,7 +87,7 @@ script 5 mmbn4 {
 	clearMsg
 	"""
 	Despedacem esse Navi
-	azul,custe o que
+	azul, custe o que
 	custar!
 	"""
 	keyWait

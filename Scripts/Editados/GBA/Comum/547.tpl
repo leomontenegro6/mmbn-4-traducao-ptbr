@@ -14,7 +14,7 @@ script 1 mmbn4 {
 		mugshot = Duo
 	msgOpen
 	"""
-	Então,você foi capaz
+	Então, você foi capaz
 	de vencer o mal
 	interior...
 	"""
@@ -26,7 +26,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Contudo,só o que fez
+	Contudo, só o que fez
 	foi reprimir a sua
 	maldade.
 	"""
@@ -35,7 +35,7 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	Ela se foi por ora,
-	mas,um dia,muito
+	mas, um dia, muito
 	provavelmente ela
 	"""
 	keyWait
@@ -46,7 +46,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Em suma,vocês não
+	Em suma, vocês não
 	são capazes de
 	vencer o mal.
 	"""
@@ -181,7 +181,7 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Duo
 	msgOpen
-	"Duo,forma de\nbatalha!"
+	"Duo, forma de\nbatalha!"
 	keyWait
 		any = false
 	end
@@ -208,7 +208,7 @@ script 11 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Vamos,MegaMan!!"
+	"Vamos, MegaMan!!"
 	keyWait
 		any = false
 	clearMsg

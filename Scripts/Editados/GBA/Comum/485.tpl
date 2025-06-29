@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,o sistema tá
+	Lan, o sistema tá
 	restaurado! Como tão
 	as coisas aí?
 	"""
@@ -20,8 +20,8 @@ script 1 mmbn4 {
 		mugshot = Lan
 	"""
 	Parece tudo bem
-	aqui,também.
-	Desconectar,MegaMan.
+	aqui, também.
+	Desconectar, MegaMan.
 	"""
 	keyWait
 		any = false
@@ -43,7 +43,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	O que foi,MegaMan?
+	O que foi, MegaMan?
 	"""
 	keyWait
 		any = false
@@ -63,7 +63,7 @@ script 4 mmbn4 {
 	clearMsg
 	"""
 	foram colocados aqui
-	por alguém,de
+	por alguém, de
 	propósito.
 	"""
 	keyWait

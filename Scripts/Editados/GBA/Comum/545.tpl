@@ -43,7 +43,7 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ele,com certeza,
+	Ele, com certeza,
 	obteria sucesso.
 	"""
 	keyWait
@@ -94,7 +94,7 @@ script 4 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,vai pra sala
+	MegaMan, vai pra sala
 	de controle!
 	"""
 	keyWait
@@ -115,7 +115,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Beleza,Lan,eu vou\nlá!"
+	"Beleza, Lan, eu vou\nlá!"
 	keyWait
 		any = false
 	end

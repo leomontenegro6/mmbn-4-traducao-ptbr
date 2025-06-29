@@ -38,7 +38,7 @@ script 2 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Er,aquela era a
+	Er, aquela era a
 	Mayl... né?
 	"""
 	keyWait
@@ -46,7 +46,7 @@ script 2 mmbn4 {
 	clearMsg
 	"""
 	Se ela foi na fren-
-	te,eu vou ter que
+	te, eu vou ter que
 	terminar sozinho.
 	"""
 	keyWait
@@ -60,7 +60,7 @@ script 3 mmbn4 {
 		mugshot = MegaMan
 	"""
 	Pois é. Não vai
-	ficar com medo,Lan.
+	ficar com medo, Lan.
 	"""
 	keyWait
 		any = false

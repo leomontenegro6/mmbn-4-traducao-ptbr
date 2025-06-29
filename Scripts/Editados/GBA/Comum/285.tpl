@@ -52,7 +52,7 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	Só de olhar para
-	ele,a minha coluna
+	ele, a minha coluna
 	para de doer!
 	"""
 	keyWait
@@ -81,7 +81,7 @@ script 3 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Na verdade,esta
+	Na verdade, esta
 	estátua é bem
 	recente.
 	"""
@@ -134,7 +134,7 @@ script 7 mmbn4 {
 	msgOpen
 	"""
 	Quero voltar aqui
-	ano que vem,também!
+	ano que vem, também!
 	"""
 	keyWait
 		any = false
@@ -182,7 +182,7 @@ script 11 mmbn4 {
 	clearMsg
 	"""
 	... O que é essa tal
-	de "Rede",mesmo?
+	de "Rede", mesmo?
 	"""
 	keyWait
 		any = false
@@ -199,7 +199,7 @@ script 12 mmbn4 {
 	msgOpen
 	"""
 	O Buda é legal e
-	tal,mas eu quero
+	tal, mas eu quero
 	mais curtição!
 	"""
 	keyWait
@@ -231,7 +231,7 @@ script 15 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Enfim,claramente,
+	Enfim, claramente,
 	algo ruim está para
 	acontecer!
 	"""
@@ -276,7 +276,7 @@ script 17 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	... Ah,é ver uma
+	... Ah, é ver uma
 	coisa que vai
 	acontecer no futuro!
 	"""
@@ -299,8 +299,8 @@ script 20 mmbn4 {
 	msgOpen
 	"""
 	Tudo que a profeta
-	diz se realiza,né?
-	Então,uma grande luz
+	diz se realiza, né?
+	Então, uma grande luz
 	"""
 	keyWait
 		any = false
@@ -438,7 +438,7 @@ script 30 mmbn4 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Ah,não... Eu volto
+	Ah, não... Eu volto
 	pra Ni-Hon ou fico
 	aqui?
 	"""
@@ -568,7 +568,7 @@ script 141 mmbn4 {
 	"""
 	Por que a cara de
 	enterro? Se está
-	para baixo,sugiro
+	para baixo, sugiro
 	"""
 	keyWait
 		any = false
@@ -686,7 +686,7 @@ script 220 mmbn4 {
 }
 script 221 mmbn4 {
 	clearMsg
-	"\"Quem se prepara,\n não tem com o que\n se preocupar.\""
+	"\"Quem se prepara, \n não tem com o que\n se preocupar.\""
 	keyWait
 		any = false
 	clearMsg

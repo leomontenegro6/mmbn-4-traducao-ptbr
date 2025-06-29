@@ -17,7 +17,7 @@ script 1 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,não pode entrar
+	Lan, não pode entrar
 	aí sem permissão!
 	"""
 	keyWait
@@ -87,13 +87,13 @@ script 4 mmbn4 {
 	"""
 	Bem-vindo à NAXA.
 	Você deve ser Lan
-	Hikari,não?
+	Hikari, não?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Por favor,suba logo
+	Por favor, suba logo
 	as escadas e entre
 	no salão no final.
 	"""
@@ -121,7 +121,7 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	for pega,vai saber
+	for pega, vai saber
 	o que ela vai fazer
 	a seguir?!
 	"""
@@ -182,7 +182,7 @@ script 40 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ah,e o Dr. Hikari me
+	Ah, e o Dr. Hikari me
 	pediu para te dar
 	isto.
 	"""

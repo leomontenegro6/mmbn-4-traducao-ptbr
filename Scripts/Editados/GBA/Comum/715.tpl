@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,o ApgaFogo
+	MegaMan, o ApgaFogo
 	tá pronto?
 	"""
 	keyWait
@@ -17,7 +17,7 @@ script 1 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,usa o
+	MegaMan, usa o
 	"ApgaFogo" nas
 	chamas!
 	"""

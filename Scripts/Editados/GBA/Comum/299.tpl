@@ -17,7 +17,7 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	O NAVI MORCEGO ESTÁ
-	LOGO ADIANTE,MAS...
+	LOGO ADIANTE, MAS...
 	"""
 	keyWait
 		any = false
@@ -28,7 +28,7 @@ script 0 mmbn4 {
 	printItem
 		buffer = 0
 		item = 3
-	"s,né?"
+	"s, né?"
 	keyWait
 		any = false
 	clearMsg
@@ -59,7 +59,7 @@ script 0 mmbn4 {
 		mugshot = MrProgGreen
 	"""
 	É MESMO?
-	BOM,NESSE CASO,
+	BOM, NESSE CASO,
 	LEVE ISTO!
 	"""
 	keyWait
@@ -160,7 +160,7 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	AHH! OBRIGADO!
-	É,AÍ MESMO.
+	É, AÍ MESMO.
 	"""
 	keyWait
 		any = false
@@ -209,7 +209,7 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	OS "CYBER MORCEGOS"
-	SE FORAM,TODOS ELES!
+	SE FORAM, TODOS ELES!
 	"""
 	keyWait
 		any = false
@@ -433,7 +433,7 @@ script 130 mmbn4 {
 	msgOpen
 	"""
 	OLÁ! VOCÊ É AQUELE
-	NAVI AZUL,NÃO É?
+	NAVI AZUL, NÃO É?
 	"""
 	keyWait
 		any = false
@@ -550,7 +550,7 @@ script 134 mmbn4 {
 	"""
 	DISSERAM QUE EU
 	FICARIA MAIS ALTO
-	SE VIESSE,MAS...!
+	SE VIESSE, MAS...!
 	"""
 	keyWait
 		any = false
@@ -589,7 +589,7 @@ script 140 mmbn4 {
 	"""
 	GLUP! Ouviu isso?
 	Tem alguma coisa
-	aqui,com a gente!
+	aqui, com a gente!
 	"""
 	keyWait
 		any = false
@@ -638,7 +638,7 @@ script 160 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Olha,admiro a sua
+	Olha, admiro a sua
 	dedicação!
 	Vou pegar um!
 	"""
@@ -662,7 +662,7 @@ script 160 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = OfficialNavi
-	"Boa sorte,garoto!"
+	"Boa sorte, garoto!"
 	keyWait
 		any = false
 	flagSet
@@ -710,7 +710,7 @@ script 163 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Bom,obrigado por
+	Bom, obrigado por
 	vir longe assim
 	para distribuir
 	"""
@@ -768,7 +768,7 @@ script 165 mmbn4 {
 	msgOpen
 	"""
 	Esse Navi do pan-
-	fleto,o NumberMan,
+	fleto, o NumberMan,
 	é tão cafona...
 	"""
 	keyWait

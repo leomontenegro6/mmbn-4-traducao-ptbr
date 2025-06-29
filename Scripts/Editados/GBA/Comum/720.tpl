@@ -53,7 +53,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = NaviGirlOrange
 	"""
-	E aqui,o seu vale
+	E aqui, o seu vale
 	pão ameropano.
 	"""
 	keyWait
@@ -108,7 +108,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Ah,não! O MegaMan
+	Ah, não! O MegaMan
 	tá perdendo forças!
 	"""
 	keyWait
@@ -163,7 +163,7 @@ script 9 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Sofra,MegaMan!"
+	"Sofra, MegaMan!"
 	keyWait
 		any = false
 	end

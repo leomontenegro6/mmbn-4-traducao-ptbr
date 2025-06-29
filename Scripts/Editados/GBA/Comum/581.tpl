@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ha ha,bandidos
+	Ha ha, bandidos
 	bestas! Parece que
 	vocês perderam!
 	"""
@@ -26,7 +26,7 @@ script 1 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"He,só eu que não\nfui."
+	"He, só eu que não\nfui."
 	keyWait
 		any = false
 	clearMsg
@@ -58,7 +58,7 @@ script 2 mmbn4 {
 		value = 1
 	mugshotShow
 		mugshot = Lan
-	"Na verdade,dá."
+	"Na verdade, dá."
 	keyWait
 		any = false
 	clearMsg
@@ -77,14 +77,14 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	"""
-	Er,não foi isso que
+	Er, não foi isso que
 	eu quis dizer.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Enfim,chama lá os
+	Enfim, chama lá os
 	Oficiais. Eu não
 	vou resistir.
 	"""
@@ -99,7 +99,7 @@ script 4 mmbn4 {
 		mugshot = Lan
 	"""
 	Que papo é esse?
-	Vai,se prepara logo!
+	Vai, se prepara logo!
 	"""
 	keyWait
 		any = false
@@ -151,7 +151,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = HotDogLady
-	"Sr. Match,lute!"
+	"Sr. Match, lute!"
 	keyWait
 		any = false
 	clearMsg
@@ -183,7 +183,7 @@ script 9 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ei,juiz,vamos logo!
+	Ei, juiz, vamos logo!
 	"""
 	keyWait
 		any = false
@@ -205,7 +205,7 @@ script 11 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Match,somos só
+	Match, somos só
 	você e eu agora!
 	Homem contra homem!
 	"""
@@ -218,7 +218,7 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
-	"He. Lan,você é..."
+	"He. Lan, você é..."
 	keyWait
 		any = false
 	clearMsg
@@ -236,7 +236,7 @@ script 12 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Vamos,Lan! Mostre
+	Vamos, Lan! Mostre
 	uma luta digna desta
 	multidão!
 	"""

@@ -9,7 +9,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Então,você usou...
+	Então, você usou...
 	seus... poderes das
 	trevas...
 	"""
@@ -145,7 +145,7 @@ script 6 mmbn4 {
 	"""
 	Relaxa. A gente
 	usou o Chip das
-	Trevas,sim,
+	Trevas, sim,
 	"""
 	keyWait
 		any = false
@@ -163,7 +163,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Bom,é..."
+	"Bom, é..."
 	keyWait
 		any = false
 	clearMsg

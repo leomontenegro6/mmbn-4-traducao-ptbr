@@ -18,7 +18,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,na verdade! Ela
+	Mas, na verdade! Ela
 	foi feita para ser
 	conectável!
 	"""
@@ -27,7 +27,7 @@ script 0 mmbn4 {
 	clearMsg
 	"""
 	Foi feita para pare-
-	cer quebrada,mas é
+	cer quebrada, mas é
 	novinha em folha.
 	"""
 	keyWait
@@ -60,7 +60,7 @@ script 2 mmbn4 {
 	clearMsg
 	"""
 	É cheia de gente da
-	Ameropa,então,não
+	Ameropa, então, não
 	pode entrar sozinho.
 	"""
 	keyWait
@@ -77,7 +77,7 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Algumas delas,você
+	Algumas delas, você
 	nunca viu na vida.
 	"""
 	keyWait
@@ -92,7 +92,7 @@ script 4 mmbn4 {
 	clearMsg
 	"""
 	Está escuro demais
-	para ver,mas parece
+	para ver, mas parece
 	haver clientes...
 	"""
 	keyWait

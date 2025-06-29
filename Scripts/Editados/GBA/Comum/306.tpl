@@ -17,7 +17,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Como bem sabe,o
+	Como bem sabe, o
 	Flandrô está fora
 	de controle!
 	"""
@@ -26,7 +26,7 @@ script 0 mmbn4 {
 	clearMsg
 	"""
 	Nem imagino o que
-	acontecerá,mas está
+	acontecerá, mas está
 	pronto para partir?
 	"""
 	keyWait

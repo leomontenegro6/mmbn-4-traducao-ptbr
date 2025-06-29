@@ -13,7 +13,7 @@ script 130 mmbn4 {
 script 131 mmbn4 {
 	msgOpen
 	"""
-	Provavelmente,não
+	Provavelmente, não
 	havia como esses
 	Navis fugirem.
 	"""

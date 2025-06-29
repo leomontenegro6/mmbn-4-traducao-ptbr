@@ -138,7 +138,7 @@ script 7 mmbn4 {
 	clearMsg
 	"""
 	Esse Navi parece
-	sinistro,mas ele
+	sinistro, mas ele
 	é engraçado!
 	"""
 	keyWait
@@ -149,7 +149,7 @@ script 7 mmbn4 {
 	"""
 	Coméquié?!
 	Qual é a graça
-	em mim,hein?!
+	em mim, hein?!
 	"""
 	keyWait
 		any = false
@@ -207,7 +207,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan,parece que tá
+	Lan, parece que tá
 	rolando alguma
 	coisa aqui...
 	"""
@@ -273,14 +273,14 @@ script 7 mmbn4 {
 		mugshot = HeelNaviPurple
 	"""
 	Eu sei como eu tô
-	agora,mas eu sou é
+	agora, mas eu sou é
 	um cara mau!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Um dia,esse povo da
+	Um dia, esse povo da
 	Nebula me forçou a
 	instalar um negócio.
 	"""
@@ -288,7 +288,7 @@ script 7 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Desde então,eu
+	Desde então, eu
 	fico falando essas
 	esquisitices!
 	"""
@@ -307,7 +307,7 @@ script 7 mmbn4 {
 		mugshot = MegaMan
 	"""
 	O que você quer
-	fazer,Lan?
+	fazer, Lan?
 	"""
 	keyWait
 		any = false
@@ -324,7 +324,7 @@ script 7 mmbn4 {
 	clearMsg
 	"""
 	Se a gente consertar
-	ele,vai saber o que
+	ele, vai saber o que
 	ele vai fazer!
 	"""
 	keyWait
@@ -387,7 +387,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	"""
-	Tá,tá! Agora vão
+	Tá, tá! Agora vão
 	logo e trambolhem
 	o trambooo-lho!
 	"""
@@ -397,8 +397,8 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	É,eu sei...
-	Vai lá,MegaMan!
+	É, eu sei...
+	Vai lá, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -431,7 +431,7 @@ script 7 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Valeu,garoto!
+	Valeu, garoto!
 	Te devo uma!
 	"""
 	keyWait
@@ -483,7 +483,7 @@ script 8 mmbn4 {
 	"""
 	Eu fico de olho
 	nesta área pra
-	você,belê?
+	você, belê?
 	"""
 	keyWait
 		any = false
@@ -535,7 +535,7 @@ script 11 mmbn4 {
 	clearMsg
 	"""
 	Esse Prog não tá
-	bem,não!
+	bem, não!
 	"""
 	keyWait
 		any = false
@@ -618,7 +618,7 @@ script 21 mmbn4 {
 	msgOpen
 	"""
 	Tinha um até pouco
-	tempo atrás,mas tá
+	tempo atrás, mas tá
 	na manutenção...
 	"""
 	keyWait
@@ -631,7 +631,7 @@ script 25 mmbn4 {
 	msgOpen
 	"""
 	Sem Progs por
-	perto,os crimes
+	perto, os crimes
 	aumentam...
 	"""
 	keyWait
@@ -668,7 +668,7 @@ script 30 mmbn4 {
 	clearMsg
 	"""
 	Esses tempos que
-	vivemos,viu?
+	vivemos, viu?
 	"""
 	keyWait
 		any = false
@@ -682,7 +682,7 @@ script 30 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	mas,ao mesmo tempo,
+	mas, ao mesmo tempo,
 	facilitou crimes!
 	"""
 	keyWait
@@ -817,7 +817,7 @@ script 240 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Fala,rapaz! Tenho
+	Fala, rapaz! Tenho
 	uns dados ótimos
 	aqui!
 	"""
@@ -839,7 +839,7 @@ script 240 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	É de Sharo,lááá no
+	É de Sharo, lááá no
 	norte...
 	"""
 	keyWait
@@ -886,7 +886,7 @@ script 240 mmbn4 {
 		mugshot = NormalNaviYellow
 	"""
 	Só dá pra achar
-	isto aqui,viu...
+	isto aqui, viu...
 	"""
 	keyWait
 		any = false
@@ -927,7 +927,7 @@ script 241 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	Isso aí é forte,viu?
+	Isso aí é forte, viu?
 	Com certeza vai vir
 	a calhar!
 	"""
@@ -957,7 +957,7 @@ script 242 mmbn4 {
 	clearMsg
 	"""
 	Da próxima vier que
-	vier aqui,traga mais
+	vier aqui, traga mais
 	dinheiro!
 	"""
 	keyWait
@@ -973,7 +973,7 @@ script 243 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E aí,quer comprar
+	E aí, quer comprar
 	o "
 	"""
 	printItem
@@ -1022,7 +1022,7 @@ script 243 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	Ah,que pena...
+	Ah, que pena...
 	"""
 	keyWait
 		any = false

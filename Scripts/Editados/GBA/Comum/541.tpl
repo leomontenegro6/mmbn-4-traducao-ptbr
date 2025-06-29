@@ -17,7 +17,7 @@ script 1 mmbn4 {
 		mugshot = Regal
 	msgOpen
 	"""
-	Agora,nos
+	Agora, nos
 	prepararemos para
 	enviar o Navi.
 	"""
@@ -32,7 +32,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	então,por favor,
+	então, por favor,
 	mantenham distância
 	da plataforma.
 	"""
@@ -59,7 +59,7 @@ script 3 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Amigos,vamos descer
+	Amigos, vamos descer
 	e deixar o trabalho
 	com o Dr. Regal.
 	"""
@@ -98,7 +98,7 @@ script 6 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Por favor,desça."
+	"Por favor, desça."
 	keyWait
 		any = false
 	clearMsg
@@ -159,7 +159,7 @@ script 9 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E,agora,a transmis-
+	E, agora, a transmis-
 	são do SEU Navi
 	para o asteroide.
 	"""
@@ -199,7 +199,7 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Dr. Regal,líder do
+	Dr. Regal, líder do
 	Sindicato do Chip
 	das Trevas,
 	"""
@@ -313,7 +313,7 @@ script 18 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Então,o MegaMan\nestá vivo!"
+	"Então, o MegaMan\nestá vivo!"
 	keyWait
 		any = false
 	clearMsg
@@ -454,13 +454,13 @@ script 29 mmbn4 {
 script 30 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Tô,sim!!"
+	"Tô, sim!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Ah!!
-	Pai,atrás de você!!
+	Pai, atrás de você!!
 	"""
 	keyWait
 		any = false
@@ -507,7 +507,7 @@ script 34 mmbn4 {
 	msgOpen
 	"""
 	Meus caros amigos,
-	serei eu,Regal,
+	serei eu, Regal,
 	"""
 	keyWait
 		any = false
@@ -567,7 +567,7 @@ script 36 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	então,serei
+	então, serei
 	conhecido como
 	Mestre do Mundo!
 	"""
@@ -594,8 +594,8 @@ script 36 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Agora,realizarei a
-	nossa real ambição,o
+	Agora, realizarei a
+	nossa real ambição, o
 	Plano da Escuridão!
 	"""
 	keyWait
@@ -607,7 +607,7 @@ script 37 mmbn4 {
 		mugshot = Regal
 	msgOpen
 	"""
-	Vá,LaserMan!
+	Vá, LaserMan!
 	Tome controle do
 	asteroide.
 	"""
@@ -617,7 +617,7 @@ script 37 mmbn4 {
 	"... Conectar!!"
 	wait
 		frames = 10
-	"\nLaserMan.EXE,\ntransmissão!"
+	"\nLaserMan.EXE, \ntransmissão!"
 	keyWait
 		any = false
 	end
@@ -683,7 +683,7 @@ script 42 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan,a carta!
+	Lan, a carta!
 	A carta do papai!
 	"""
 	keyWait
@@ -702,7 +702,7 @@ script 42 mmbn4 {
 script 43 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Ah,verdade!"
+	"Ah, verdade!"
 	keyWait
 		any = false
 	end
@@ -794,7 +794,7 @@ script 49 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Vamos lá,MegaMan!
+	Vamos lá, MegaMan!
 	Tá pronto?!
 	"""
 	keyWait
@@ -810,7 +810,7 @@ script 50 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Vamos nessa,Lan!"
+	"Vamos nessa, Lan!"
 	keyWait
 		any = false
 	clearMsg
@@ -827,7 +827,7 @@ script 51 mmbn4 {
 	"Conectar!!"
 	wait
 		frames = 10
-	"\nMegaMan.EXE,\ntransmissão!"
+	"\nMegaMan.EXE, \ntransmissão!"
 	wait
 		frames = 30
 	controlUnlock

@@ -20,14 +20,14 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas comigo,tá tudo
+	Mas comigo, tá tudo
 	normal até agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Tá,a Torre tá bem
+	Tá, a Torre tá bem
 	ali.
 	"""
 	keyWait
@@ -38,7 +38,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,espera!"
+	"Lan, espera!"
 	keyWait
 		any = false
 	clearMsg
@@ -49,7 +49,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Que foi,MegaMan?
+	Que foi, MegaMan?
 	"""
 	keyWait
 		any = false
@@ -86,7 +86,7 @@ script 4 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Urh,pera aí..."
+	"Urh, pera aí..."
 	keyWait
 		any = false
 	end
@@ -146,7 +146,7 @@ script 8 mmbn4 {
 	"""
 	Esse som!
 	Que som é esse?!
-	Aaaai,minha cabeça!
+	Aaaai, minha cabeça!
 	"""
 	keyWait
 		any = false
@@ -164,14 +164,14 @@ script 9 mmbn4 {
 	"""
 	Era isso. Ele tava
 	mexendo nas minhas
-	ondas,também!
+	ondas, também!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Mas isso não importa
-	agora. Lan,a gente
+	agora. Lan, a gente
 	tem que fugir!
 	"""
 	keyWait
@@ -204,7 +204,7 @@ script 10 mmbn4 {
 script 11 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Rápido,Lan!"
+	"Rápido, Lan!"
 	keyWait
 		any = false
 	end

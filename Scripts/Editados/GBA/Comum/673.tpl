@@ -20,8 +20,8 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Para começar,Lan
-	Hikari,o NetLutador
+	Para começar, Lan
+	Hikari, o NetLutador
 	do fundamental!
 	"""
 	keyWait
@@ -38,7 +38,7 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	a NetLutadora Tamako
-	Shiraizumi,também
+	Shiraizumi, também
 	entrou na arena!!
 	"""
 	keyWait
@@ -136,7 +136,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = MetalMan
 	msgOpen
-	"Rujam,meus punhos!"
+	"Rujam, meus punhos!"
 	keyWait
 		any = false
 	end

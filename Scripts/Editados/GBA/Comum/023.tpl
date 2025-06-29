@@ -11,7 +11,7 @@ script 0 mmbn4 {
 	"""
 	Bem-vindos ao
 	Hotel Ameropa!
-	Sou Anna,a gerente.
+	Sou Anna, a gerente.
 	"""
 	keyWait
 		any = false
@@ -41,7 +41,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	visitantes,então,
+	visitantes, então,
 	fiquem à vontade
 	para postar!
 	"""
@@ -131,7 +131,7 @@ script 2 mmbn4 {
 	clearMsg
 	"""
 	você. Eles são vírus
-	de Madeira,então,
+	de Madeira, então,
 	use chips de Fogo!
 	"""
 	keyWait
@@ -155,14 +155,14 @@ script 3 mmbn4 {
 	clearMsg
 	"""
 	Sharo é uma terra
-	congelada,com qua-
+	congelada, com qua-
 	dros de gelo na Rede
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	também,então tente
+	também, então tente
 	usar um Repair como
 	Chip Padrão.
 	"""
@@ -179,7 +179,7 @@ script 3 mmbn4 {
 	clearMsg
 	"""
 	são coisa séria,
-	então,não fique na
+	então, não fique na
 	mesma linha que
 	"""
 	keyWait
@@ -187,7 +187,7 @@ script 3 mmbn4 {
 	clearMsg
 	"""
 	eles! Se quer uma
-	recomendação,use
+	recomendação, use
 	chips que atacam
 	"""
 	keyWait
@@ -264,7 +264,7 @@ script 5 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	E,por fim...
+	E, por fim...
 	Viagem pela
 	Área Ameropa!
 	"""
@@ -281,7 +281,7 @@ script 5 mmbn4 {
 	clearMsg
 	"""
 	A Rede da Ameropa é
-	bem cuidada,o que
+	bem cuidada, o que
 	facilita movimento
 	"""
 	keyWait
@@ -304,7 +304,7 @@ script 5 mmbn4 {
 	clearMsg
 	"""
 	A lã espessa deles
-	não sai! Aaah,eles
+	não sai! Aaah, eles
 	me dão tanta raiva!
 	"""
 	keyWait
@@ -312,15 +312,15 @@ script 5 mmbn4 {
 	clearMsg
 	"""
 	O jeito é usar um
-	tiro carregado,e
-	depois,um chip de
+	tiro carregado, e
+	depois, um chip de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	ataque!
-	Bom,isso conclui a
+	Bom, isso conclui a
 	aula.
 	"""
 	keyWait
@@ -328,7 +328,7 @@ script 5 mmbn4 {
 	clearMsg
 	"""
 	Viajar é muito
-	divertido,mas só
+	divertido, mas só
 	se você ficar
 	"""
 	keyWait
@@ -352,7 +352,7 @@ script 6 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Oi,gente! Abri uma
+	Oi, gente! Abri uma
 	loja de chips no
 	sul da Ameropa!
 	"""
@@ -399,9 +399,9 @@ script 7 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Fala! Koetsu,o
-	viajante,na área!
-	"Hole",é?
+	Fala! Koetsu, o
+	viajante, na área!
+	"Hole", é?
 	"""
 	keyWait
 		any = false
@@ -464,7 +464,7 @@ script 8 mmbn4 {
 	clearMsg
 	"""
 	deles terminam com
-	"DS". Enfim,parece
+	"DS". Enfim, parece
 	que eles só podem
 	"""
 	keyWait
@@ -509,7 +509,7 @@ script 10 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Aqui é Anna,a
+	Aqui é Anna, a
 	gerente do hotel.
 	Outro hóspede estava
 	"""

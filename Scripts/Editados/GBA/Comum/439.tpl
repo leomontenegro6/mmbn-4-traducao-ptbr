@@ -28,7 +28,7 @@ script 1 mmbn4 {
 	"""
 	O grande buraco ne-
 	gro leva à "Terra
-	Negra",o mundo da
+	Negra", o mundo da
 	"""
 	keyWait
 		any = false
@@ -36,7 +36,7 @@ script 1 mmbn4 {
 	"""
 	escuridão. Ela
 	expele poder
-	sombrio,impedindo
+	sombrio, impedindo
 	"""
 	keyWait
 		any = false
@@ -51,7 +51,7 @@ script 1 mmbn4 {
 	"""
 	Somente o escolhido,
 	que porta 5 Chips do
-	Mal,pode entrar...
+	Mal, pode entrar...
 	"""
 	keyWait
 		any = false
@@ -59,7 +59,7 @@ script 1 mmbn4 {
 	"""
 	Desde que a estátua
 	apareceu em Undernet
-	5,o poder das trevas
+	5, o poder das trevas
 	"""
 	keyWait
 		any = false
@@ -74,7 +74,7 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	Se a estátua não
-	for destruída,então
+	for destruída, então
 	nem possuir os cinco
 	"""
 	keyWait
@@ -100,7 +100,7 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Então,a estátua em
+	Então, a estátua em
 	Undernet 5 se
 	foi...?
 	"""
@@ -239,7 +239,7 @@ script 11 mmbn4 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Então,cê vai comprar
+	Então, cê vai comprar
 	por 10000 Zennys?
 	"""
 	keyWait
@@ -281,7 +281,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	"""
-	Bom negócio,hein,
+	Bom negócio, hein,
 	garoto? Ha ha ha!
 	"""
 	keyWait
@@ -312,7 +312,7 @@ script 13 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Cê quer ele,né?
+	Cê quer ele, né?
 	O brilhante como
 	o sol...
 	"""
@@ -320,7 +320,7 @@ script 13 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	10000 Zennys,e
+	10000 Zennys, e
 	não faço desconto!
 	"""
 	keyWait
@@ -379,7 +379,7 @@ script 14 mmbn4 {
 	msgOpen
 	"""
 	Que bom negócio,
-	hein,garoto?
+	hein, garoto?
 	Ha ha ha ha!
 	"""
 	keyWait
@@ -391,7 +391,7 @@ script 150 mmbn4 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Quem é você,criança?
+	Quem é você, criança?
 	Como veio parar
 	aqui?!
 	"""
@@ -520,7 +520,7 @@ script 222 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Desculpe,acabou a
+	Desculpe, acabou a
 	minha mercadoria...
 	"""
 	keyWait

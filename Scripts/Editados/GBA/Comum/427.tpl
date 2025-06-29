@@ -33,7 +33,7 @@ script 1 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Ei,para de
+	Ei, para de
 	interromper o
 	nosso encontro!
 	"""
@@ -68,7 +68,7 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Er,digo,adoro
+	Er, digo, adoro
 	estar com ele!
 	"""
 	keyWait
@@ -159,7 +159,7 @@ script 10 mmbn4 {
 	clearMsg
 	"""
 	É UM TRABALHO
-	PERIGOSO,ESTE!
+	PERIGOSO, ESTE!
 	"""
 	keyWait
 		any = false
@@ -179,7 +179,7 @@ script 11 mmbn4 {
 	clearMsg
 	"""
 	Acho que vou comprar
-	ele,como lembrança
+	ele, como lembrança
 	deste dia!
 	"""
 	keyWait
@@ -294,7 +294,7 @@ script 20 mmbn4 {
 	clearMsg
 	"""
 	É ENTÃO QUE NÓS,
-	PATRULHEIROS,SOMOS
+	PATRULHEIROS, SOMOS
 	MAIS NECESSÁRIOS!
 	"""
 	keyWait
@@ -322,7 +322,7 @@ script 21 mmbn4 {
 	msgOpen
 	"""
 	Você é um Navi
-	particular,não?
+	particular, não?
 	"""
 	keyWait
 		any = false
@@ -379,7 +379,7 @@ script 26 mmbn4 {
 	clearMsg
 	"""
 	Minha intuição me
-	diz isso,e ela
+	diz isso, e ela
 	nunca falha...
 	"""
 	keyWait
@@ -428,7 +428,7 @@ script 31 mmbn4 {
 	"""
 	Venceu a minha
 	intuição... Que
-	vilão,esse!
+	vilão, esse!
 	"""
 	keyWait
 		any = false

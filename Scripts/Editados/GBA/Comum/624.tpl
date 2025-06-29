@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Então,esse é o
+	Então, esse é o
 	nosso oponente...
 	"""
 	keyWait
@@ -39,7 +39,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Bom,ele parece bem
+	Bom, ele parece bem
 	ardiloso.
 	"""
 	keyWait
@@ -94,7 +94,7 @@ script 4 mmbn4 {
 	clearMsg
 	"""
 	Ele pode parecer
-	mau,mas tem um
+	mau, mas tem um
 	coração de ouro!
 	"""
 	keyWait
@@ -109,7 +109,7 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Bom,até depois!
+	Bom, até depois!
 	"""
 	keyWait
 		any = false
@@ -128,7 +128,7 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Bem intenso,ele.
+	Bem intenso, ele.
 	A gente vai ter que
 	lutar com tudo!
 	"""
@@ -141,12 +141,12 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Eu tô mais que\npronto,Lan!"
+	"Eu tô mais que\npronto, Lan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mas,por enquanto,
+	Mas, por enquanto,
 	vamos dar uma volta
 	lá fora.
 	"""

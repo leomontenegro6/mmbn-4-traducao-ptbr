@@ -32,7 +32,7 @@ script 25 mmbn4 {
 	msgOpen
 	"""
 	É a última porta no
-	segundo andar,né?
+	segundo andar, né?
 	Vamos logo lá!
 	"""
 	keyWait
@@ -57,7 +57,7 @@ script 27 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,bora falar com
+	Lan, bora falar com
 	o Navi Oficial na
 	Área Ameropa!
 	"""
@@ -114,7 +114,7 @@ script 31 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,vamos pro
+	Lan, vamos pro
 	telhado!
 	"""
 	keyWait
@@ -128,7 +128,7 @@ script 32 mmbn4 {
 	"""
 	Quando tiver pronto,
 	bora voltar pra
-	NAXA,Lan!
+	NAXA, Lan!
 	"""
 	keyWait
 		any = false

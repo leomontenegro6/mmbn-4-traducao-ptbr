@@ -9,7 +9,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Aqui,um agrado pelo
+	Aqui, um agrado pelo
 	seu trabalho árduo!
 	"""
 	keyWait
@@ -28,7 +28,7 @@ script 0 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"então,aqui está!"
+	"então, aqui está!"
 	keyWait
 		any = false
 	clearMsg
@@ -102,7 +102,7 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Amanhã,esta loja
+	Amanhã, esta loja
 	vai estar vendendo
 	altas escovas!
 	"""
@@ -143,7 +143,7 @@ script 6 mmbn4 {
 	"""
 	Por que o Higsby
 	tá demorando tanto
-	pra voltar,hein?
+	pra voltar, hein?
 	"""
 	keyWait
 		any = false
@@ -156,7 +156,7 @@ script 7 mmbn4 {
 		mugshot = Maid
 	"""
 	Hã?!
-	Nossa,verdade,ele
+	Nossa, verdade, ele
 	saiu faz tempo.
 	"""
 	keyWait
@@ -165,7 +165,7 @@ script 7 mmbn4 {
 	"""
 	Ele só tinha ido pro
 	armazém do Higsby na
-	Área Vila,não?
+	Área Vila, não?
 	"""
 	keyWait
 		any = false

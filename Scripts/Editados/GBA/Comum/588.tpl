@@ -73,7 +73,7 @@ script 2 mmbn4 {
 		mugshot = SparkMan
 	"""
 	O quê?!
-	Que vergonha,Terry.
+	Que vergonha, Terry.
 	"""
 	keyWait
 		any = false
@@ -86,7 +86,7 @@ script 3 mmbn4 {
 		mugshot = Lan
 	"""
 	O SparkMan lutou
-	duro por você,e
+	duro por você, e
 	você CULPA ele?!
 	"""
 	keyWait
@@ -107,7 +107,7 @@ script 4 mmbn4 {
 		mugshot = Terry
 	msgOpen
 	"""
-	Silêncio,seu
+	Silêncio, seu
 	pobretão! Faz ideia
 	de quem eu sou?!
 	"""
@@ -125,7 +125,7 @@ script 4 mmbn4 {
 	"""
 	Eu só preciso pedir
 	um Navi mais forte
-	pro meu avô,e...
+	pro meu avô, e...
 	"""
 	keyWait
 		any = false
@@ -161,7 +161,7 @@ script 7 mmbn4 {
 		mugshot = Terry
 	msgOpen
 	"""
-	Ah,querido avô!
+	Ah, querido avô!
 	Esse menino é
 	horrível!
 	"""
@@ -196,8 +196,8 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Terry
 	"""
-	Ah,é mesmo: você
-	disse que,se eu
+	Ah, é mesmo: você
+	disse que, se eu
 	vencesse o torneio,
 	"""
 	keyWait
@@ -213,7 +213,7 @@ script 9 mmbn4 {
 	clearMsg
 	"""
 	Eu posso ter
-	perdido,mas dei tudo
+	perdido, mas dei tudo
 	de mim!
 	"""
 	keyWait
@@ -286,7 +286,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Então,ele era o
+	Então, ele era o
 	avô do Terry.
 	"""
 	keyWait
@@ -331,7 +331,7 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = OldMan
 	"""
-	Terry,isto só mostra
+	Terry, isto só mostra
 	o quanto o seu cará-
 	ter está corrupto.
 	"""
@@ -372,7 +372,7 @@ script 15 mmbn4 {
 		mugshot = Terry
 	msgOpen
 	"""
-	O quê?! Vovô,não!
+	O quê?! Vovô, não!
 	Não precisa se
 	precipitar!
 	"""
@@ -382,7 +382,7 @@ script 15 mmbn4 {
 	"""
 	Me desculpa!
 	Eu vou tomar jeito.
-	Por favor,espera!!
+	Por favor, espera!!
 	"""
 	keyWait
 		any = false

@@ -106,7 +106,7 @@ script 7 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ah,entendi. Ela é
+	Ah, entendi. Ela é
 	amiguinha sua.
 	"""
 	keyWait
@@ -138,14 +138,14 @@ script 9 mmbn4 {
 		mugshot = ShadeMan
 	"""
 	Interromperam minha
-	sobremesa,então eu
+	sobremesa, então eu
 	os botei pra dormir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Inclusive,hora de
+	Inclusive, hora de
 	voltar a ela!
 	"""
 	keyWait
@@ -168,7 +168,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = ShadeMan
 	"""
-	Lamento,mas não
+	Lamento, mas não
 	aguento comer mais
 	nada hoje.
 	"""
@@ -177,7 +177,7 @@ script 11 mmbn4 {
 	clearMsg
 	"""
 	Até nosso próximo
-	encontro,meu
+	encontro, meu
 	apetitoso amigo!
 	"""
 	keyWait
@@ -226,7 +226,7 @@ script 15 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	GutsMan,Glide,
+	GutsMan, Glide,
 	eu assumo daqui!
 	"""
 	keyWait
@@ -246,9 +246,9 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = GutsMan
 	"""
-	Foi mal,MegaMan...
+	Foi mal, MegaMan...
 	A Roll agora tá nas
-	suas mãos,guts.
+	suas mãos, guts.
 	"""
 	keyWait
 		any = false
@@ -260,8 +260,8 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = Glide
 	"""
-	Obrigado,MegaMan...
-	Por favor,tome
+	Obrigado, MegaMan...
+	Por favor, tome
 	muito cuidado...
 	"""
 	keyWait

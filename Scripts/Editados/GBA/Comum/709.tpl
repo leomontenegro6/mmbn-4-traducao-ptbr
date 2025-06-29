@@ -20,7 +20,7 @@ script 1 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Bom,e você pode nos
+	Bom, e você pode nos
 	contar agora?
 	"""
 	keyWait
@@ -28,7 +28,7 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	A identidade do seu
-	operador,esse "Mes-
+	operador, esse "Mes-
 	tre Cuca-Mestre"?
 	"""
 	keyWait
@@ -91,14 +91,14 @@ script 4 mmbn4 {
 	msgOpen
 	"""
 	Flave é um mestre na
-	culinária,e não só
+	culinária, e não só
 	com curry.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mas,infelizmente,
+	Mas, infelizmente,
 	aquele jovem ainda
 	não entende
 	"""
@@ -167,7 +167,7 @@ script 6 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Pensei que,talvez,
+	Pensei que, talvez,
 	vocês pudessem fazê-
 	lo enxergar isso.
 	"""
@@ -224,7 +224,7 @@ script 9 mmbn4 {
 	msgOpen
 	"""
 	Certo! Obrigado por
-	tudo,Mestre-Cuca
+	tudo, Mestre-Cuca
 	Mestre!
 	"""
 	keyWait

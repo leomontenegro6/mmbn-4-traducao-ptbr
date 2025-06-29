@@ -7,7 +7,7 @@ script 0 mmbn4 {
 	"""
 	Vamos começar a
 	Campanha do Deus
-	da Água,o ritual
+	da Água, o ritual
 	"""
 	keyWait
 		any = false
@@ -26,7 +26,7 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
-	"Este ano,eu levo!"
+	"Este ano, eu levo!"
 	keyWait
 		any = false
 	clearMsg
@@ -91,7 +91,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	msgOpen
-	"Cê é o MegaMan,né?"
+	"Cê é o MegaMan, né?"
 	keyWait
 		any = false
 	end
@@ -107,7 +107,7 @@ script 8 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Ah,você deve ser..."
+	"Ah, você deve ser..."
 	keyWait
 		any = false
 	clearMsg
@@ -138,7 +138,7 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Ah,eu quero,se não\ntiver problema."
+	"Ah, eu quero, se não\ntiver problema."
 	keyWait
 		any = false
 	clearMsg
@@ -148,7 +148,7 @@ script 10 mmbn4 {
 script 11 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
-	"Por mim,de boa."
+	"Por mim, de boa."
 	keyWait
 		any = false
 	end
@@ -157,7 +157,7 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	msgOpen
-	"Aí,gente!"
+	"Aí, gente!"
 	keyWait
 		any = false
 	end
@@ -218,8 +218,8 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Bom,a gente já tá
-	aqui,né? Então,não
+	Bom, a gente já tá
+	aqui, né? Então, não
 	custa nada!
 	"""
 	keyWait
@@ -238,7 +238,7 @@ script 17 mmbn4 {
 	"""
 	Nós soltamos o
 	Ídolo do Deus da
-	Água e,depois,
+	Água e, depois,
 	"""
 	keyWait
 		any = false
@@ -246,7 +246,7 @@ script 17 mmbn4 {
 	"""
 	tentamos achá-lo.
 	Para se tornar Cam-
-	peão,deve-se trazer
+	peão, deve-se trazer
 	"""
 	keyWait
 		any = false
@@ -285,7 +285,7 @@ script 18 mmbn4 {
 		mugshot = MegaMan
 	"""
 	Entendi.
-	Lan,vamos lá!
+	Lan, vamos lá!
 	"""
 	keyWait
 		any = false
@@ -331,7 +331,7 @@ script 21 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ano passado,ele foi
+	Ano passado, ele foi
 	parar na Área Sharo.
 	"""
 	keyWait
@@ -364,7 +364,7 @@ script 24 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Boa sorte,gente!"
+	"Boa sorte, gente!"
 	keyWait
 		any = false
 	end
@@ -374,7 +374,7 @@ script 25 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Rápido,MegaMan!
+	Rápido, MegaMan!
 	Vamos ficar pra
 	trás!
 	"""

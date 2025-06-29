@@ -31,7 +31,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	MegaMan,você tem
+	MegaMan, você tem
 	que purificar o
 	sistema!
 	"""
@@ -67,7 +67,7 @@ script 0 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Vamos,Lan!"
+	"Vamos, Lan!"
 	keyWait
 		any = false
 	clearMsg

@@ -46,8 +46,8 @@ script 2 mmbn4 {
 		timer = 1
 		value = 1
 	"""
-	Ponteiro,mouse,
-	clique,clique,clique
+	Ponteiro, mouse,
+	clique, clique, clique
 	duplo. É isso?!
 	"""
 	keyWait

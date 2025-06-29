@@ -6,7 +6,7 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	Uma batalha contra o
-	Navi do Dex,o
+	Navi do Dex, o
 	GutsMan!
 	"""
 	keyWait
@@ -14,7 +14,7 @@ script 0 mmbn4 {
 	clearMsg
 	"""
 	A gente não pode
-	perder essa,MegaMan!
+	perder essa, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -26,7 +26,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	E não vamos,Lan!
+	E não vamos, Lan!
 	"""
 	keyWait
 		any = false
@@ -36,7 +36,7 @@ script 2 mmbn4 {
 	msgOpen
 	"""
 	Acho que não vai ser
-	fácil assim,não,
+	fácil assim, não,
 	hein!
 	"""
 	keyWait
@@ -57,7 +57,7 @@ script 4 mmbn4 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Foi mal,mas eu vou
+	Foi mal, mas eu vou
 	acabar contigo dessa
 	vez!
 	"""
@@ -97,7 +97,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Dex
 	"""
-	Aí,Chisao!
+	Aí, Chisao!
 	Cumprimenta o Lan,
 	não seja grosso!
 	"""
@@ -152,7 +152,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Chisao
 	"""
-	Ô,não fica se
+	Ô, não fica se
 	"fegindo" de amigo,
 	não!
 	"""
@@ -182,8 +182,8 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Dex
 	"""
-	Ô,Chisao,pode ficar
-	quietinho,um
+	Ô, Chisao, pode ficar
+	quietinho, um
 	pouquinho?
 	"""
 	keyWait
@@ -240,8 +240,8 @@ script 14 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,ó: eu não vou
-	perder,não.
+	Mas, ó: eu não vou
+	perder, não.
 	"""
 	keyWait
 		any = false
@@ -261,7 +261,7 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Bom,eu também não
+	Bom, eu também não
 	vou pegar leve!
 	"""
 	keyWait
@@ -281,8 +281,8 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = Dex
 	"""
-	É. Bom,melhor eu ir
-	me preparar,então.
+	É. Bom, melhor eu ir
+	me preparar, então.
 	"""
 	keyWait
 		any = false
@@ -297,7 +297,7 @@ script 17 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Então,é por causa do
+	Então, é por causa do
 	Chisao que o Dex
 	não pode perder.
 	"""
@@ -305,7 +305,7 @@ script 17 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,mesmo assim,a
+	Mas, mesmo assim, a
 	gente vai lutar com
 	tudo!
 	"""

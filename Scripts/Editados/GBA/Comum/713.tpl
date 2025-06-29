@@ -88,7 +88,7 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E pra isso,é preciso
+	E pra isso, é preciso
 	ternura e afeto!
 	"""
 	keyWait
@@ -96,7 +96,7 @@ script 5 mmbn4 {
 	clearMsg
 	"""
 	O Mestre-Cuca
-	Mestre,que me
+	Mestre, que me
 	ensinou a cozinhar,
 	"""
 	keyWait
@@ -226,7 +226,7 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ei,Lan,acha que,
+	Ei, Lan, acha que,
 	se eu aprender a
 	cozinhar com afeto,
 	"""
@@ -269,7 +269,7 @@ script 13 mmbn4 {
 	msgOpen
 	"""
 	He he!
-	Obrigado,Lan!
+	Obrigado, Lan!
 	"""
 	keyWait
 		any = false

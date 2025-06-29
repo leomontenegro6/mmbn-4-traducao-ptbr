@@ -46,7 +46,7 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Eu também ouvi,Lan."
+	"Eu também ouvi, Lan."
 	keyWait
 		any = false
 	clearMsg
@@ -80,7 +80,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Yuko
 	"""
-	Hehe,te assustei?
+	Hehe, te assustei?
 	"""
 	keyWait
 		any = false
@@ -107,7 +107,7 @@ script 10 mmbn4 {
 	"""
 	Lan Hikari. Você
 	é o operador do
-	MegaMan.EXE,né?
+	MegaMan.EXE, né?
 	"""
 	keyWait
 		any = false
@@ -129,7 +129,7 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = Yuko
 	"""
-	Eu sou Yuko,a
+	Eu sou Yuko, a
 	operadora do Ponta!
 	"""
 	keyWait
@@ -162,7 +162,7 @@ script 14 mmbn4 {
 	"""
 	Eu sempre quis Net-
 	Lutar contra um Navi
-	forte,gente boa
+	forte, gente boa
 	"""
 	keyWait
 		any = false
@@ -185,7 +185,7 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Er,he he,acho que cê
+	Er, he he, acho que cê
 	tá superestimando a
 	gente um pouco.
 	"""
@@ -199,7 +199,7 @@ script 15 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Né,MegaMan?"
+	"Né, MegaMan?"
 	keyWait
 		any = false
 	clearMsg
@@ -214,7 +214,7 @@ script 16 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Er,é. Isso.
+	Er, é. Isso.
 	"""
 	keyWait
 		any = false
@@ -226,7 +226,7 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = Yuko
 	"""
-	Ei,Lan: você tá com
+	Ei, Lan: você tá com
 	tempo livre até a
 	luta?
 	"""
@@ -244,7 +244,7 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Er,pode ser. Eu não
+	Er, pode ser. Eu não
 	tenho nenhum plano.
 	Vamos lá!
 	"""
@@ -280,7 +280,7 @@ script 21 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	É só nervosismo,ou
+	É só nervosismo, ou
 	eu tô ficando meio
 	cansado?
 	"""
@@ -304,7 +304,7 @@ script 23 mmbn4 {
 	msgOpen
 	"""
 	Sim?
-	Que foi,MegaMan?
+	Que foi, MegaMan?
 	"""
 	keyWait
 		any = false
@@ -316,7 +316,7 @@ script 24 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Bem,é que...
+	Bem, é que...
 	Eu não sei bem como
 	explicar,
 	"""
@@ -375,7 +375,7 @@ script 26 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Enfim,vamos lá!
+	Enfim, vamos lá!
 	A Yuko tá esperando
 	a gente lá fora!
 	"""

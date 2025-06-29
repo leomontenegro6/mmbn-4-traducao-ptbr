@@ -42,7 +42,7 @@ script 0 mmbn4 {
 	"""
 	o destino do nosso
 	planeta está nas
-	suas mãos,filho.
+	suas mãos, filho.
 	"""
 	keyWait
 		any = false
@@ -88,7 +88,7 @@ script 0 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = Dad
-	"Boa sorte,Lan!!"
+	"Boa sorte, Lan!!"
 	keyWait
 		any = false
 	end
@@ -115,7 +115,7 @@ script 1 mmbn4 {
 	"""
 	o destino do nosso
 	planeta está nas
-	suas mãos,filho.
+	suas mãos, filho.
 	"""
 	keyWait
 		any = false
@@ -161,7 +161,7 @@ script 1 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = Dad
-	"Boa sorte,Lan!!"
+	"Boa sorte, Lan!!"
 	keyWait
 		any = false
 	end
@@ -181,7 +181,7 @@ script 2 mmbn4 {
 	msgOpen
 	"""
 	Instale isto no seu
-	PET,Lan.
+	PET, Lan.
 	"""
 	keyWait
 		any = false
@@ -232,7 +232,7 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,claro... a
+	Mas, claro... a
 	última coisa que
 	queremos é que algo
 	"""
@@ -253,7 +253,7 @@ script 3 mmbn4 {
 		mugshot = Regal
 	msgOpen
 	"""
-	Bom,rápido,conserte
+	Bom, rápido, conserte
 	os canais de Rede
 	ao redor do mundo.
 	"""
@@ -294,7 +294,7 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	mas nós,adultos,
+	mas nós, adultos,
 	estamos completamen-
 	te incapazes!
 	"""
@@ -311,7 +311,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
 	msgOpen
-	"Você consegue,Lan!"
+	"Você consegue, Lan!"
 	keyWait
 		any = false
 	end
@@ -353,7 +353,7 @@ script 7 mmbn4 {
 	msgOpen
 	"""
 	Já não bastava o
-	asteroide,e agora a
+	asteroide, e agora a
 	Rede foi dividida?
 	"""
 	keyWait
@@ -372,8 +372,8 @@ script 8 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Conto com você,Lan.
-	Mas,ainda assim
+	Conto com você, Lan.
+	Mas, ainda assim
 	"""
 	waitSkip
 		frames = 30
@@ -388,7 +388,7 @@ script 8 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Não,é injusto. Você
+	Não, é injusto. Você
 	e eu somos homens
 	no mesmo patamar.
 	"""
@@ -396,7 +396,7 @@ script 8 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Lan,MegaMan,
+	Lan, MegaMan,
 	salvem o mundo!
 	"""
 	keyWait
@@ -445,7 +445,7 @@ script 12 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Lan,você é a nossa
+	Lan, você é a nossa
 	única esperança!
 	Boa sorte!
 	"""
@@ -512,7 +512,7 @@ script 15 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"É,eu estou com\nmedo..."
+	"É, eu estou com\nmedo..."
 	keyWait
 		any = false
 	end
@@ -530,7 +530,7 @@ script 30 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,o Dr.Regal disse
+	Lan, o Dr.Regal disse
 	que tinha uma coisa
 	pra dar pra gente!
 	"""
@@ -551,7 +551,7 @@ script 31 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,vamos falar com
+	Lan, vamos falar com
 	o papai!
 	"""
 	keyWait
@@ -563,7 +563,7 @@ script 32 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,o Dr.Regal disse
+	Lan, o Dr.Regal disse
 	que tinha uma coisa
 	pra dar pra gente!
 	"""

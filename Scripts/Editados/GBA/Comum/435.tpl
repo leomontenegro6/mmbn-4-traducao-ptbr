@@ -65,7 +65,7 @@ script 1 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Ah,mas eu pego ele!"
+	"Ah, mas eu pego ele!"
 	keyWait
 		any = false
 	end
@@ -78,7 +78,7 @@ script 130 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Chaud,aqui está!"
+	"Chaud, aqui está!"
 	keyWait
 		any = false
 	clearMsg
@@ -104,7 +104,7 @@ script 130 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	OK! Agora,para o
+	OK! Agora, para o
 	próximo! Acho que
 	estava...
 	"""

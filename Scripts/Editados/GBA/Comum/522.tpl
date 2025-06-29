@@ -5,18 +5,18 @@ script 0 mmbn4 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Oi,Lan! Gostou do
+	Oi, Lan! Gostou do
 	tour pessoal?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Legal,né?!"
+	"Legal, né?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Agora,vou lhe levar
+	Agora, vou lhe levar
 	ao seu hotel.
 	"""
 	keyWait
@@ -52,7 +52,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Depressa,Lan.
+	Depressa, Lan.
 	Melhor a gente ir
 	com o Sr. Bonds.
 	"""
@@ -61,7 +61,7 @@ script 3 mmbn4 {
 	clearMsg
 	"""
 	Você não quer se
-	perder,né?
+	perder, né?
 	"""
 	keyWait
 		any = false
@@ -71,7 +71,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"É,eu sei."
+	"É, eu sei."
 	keyWait
 		any = false
 	clearMsg
@@ -99,7 +99,7 @@ script 7 mmbn4 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	Aí,moleque!
+	Aí, moleque!
 	Hora de cê tirar
 	uma sonequinha!
 	"""
@@ -112,7 +112,7 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Ah,o-o quê?!"
+	"Ah, o-o quê?!"
 	keyWait
 		any = false
 	end

@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Roll
 	msgOpen
-	"Uau,Mega!"
+	"Uau, Mega!"
 	keyWait
 		any = false
 	clearMsg
@@ -43,7 +43,7 @@ script 2 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Talvez,mas é preciso
+	Talvez, mas é preciso
 	mais que só veloci-
 	dade pra vencer.
 	"""
@@ -57,12 +57,12 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Roll
 	msgOpen
-	"He,veremos."
+	"He, veremos."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Enfim,já tá na hora
+	Enfim, já tá na hora
 	de ir pro castelo.
 	"""
 	keyWait
@@ -81,7 +81,7 @@ script 4 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,tem alguma
+	Lan, tem alguma
 	coisa diferente na
 	Roll hoje.
 	"""
@@ -90,7 +90,7 @@ script 4 mmbn4 {
 	clearMsg
 	"""
 	Vamos lá pro
-	castelo,também!
+	castelo, também!
 	"""
 	keyWait
 		any = false

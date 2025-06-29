@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,achei todos os
+	Lan, achei todos os
 	"vídeos finais"!
 	"""
 	keyWait
@@ -78,7 +78,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Legal! Agora,de
+	Legal! Agora, de
 	volta ao castelo!
 	"""
 	keyWait

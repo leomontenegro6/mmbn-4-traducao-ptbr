@@ -30,12 +30,12 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Claro,toma aqui."
+	"Claro, toma aqui."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,descansa
+	MegaMan, descansa
 	um pouquinho.
 	"""
 	keyWait
@@ -83,14 +83,14 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Terry
 	"""
-	Ah,n-nada,não.
+	Ah, n-nada, não.
 	Nada mesmo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	E-enfim,deixa eu dar
+	E-enfim, deixa eu dar
 	uma olhada nele.
 	"""
 	keyWait
@@ -148,7 +148,7 @@ script 8 mmbn4 {
 	"""
 	Tava bem gasto
 	depois de tanto uso,
-	mas,agora,tá bem.
+	mas, agora, tá bem.
 	"""
 	keyWait
 		any = false
@@ -188,12 +188,12 @@ script 10 mmbn4 {
 	"""
 	A nossa oferta era
 	pra lutadores do
-	torneio,então...
+	torneio, então...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"É,enfim..."
+	"É, enfim..."
 	keyWait
 		any = false
 	clearMsg
@@ -206,8 +206,8 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	O-olha,eu tô super
-	ocupado,então,me dá
+	O-olha, eu tô super
+	ocupado, então, me dá
 	licença!
 	"""
 	keyWait
@@ -220,7 +220,7 @@ script 11 mmbn4 {
 	msgOpen
 	"""
 	Carinha esquisito.
-	Opa,ele deixou cair
+	Opa, ele deixou cair
 	alguma coisa.
 	"""
 	keyWait
@@ -266,7 +266,7 @@ script 13 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ah,é! MegaMan,
+	Ah, é! MegaMan,
 	como você tá se
 	sentindo?!
 	"""
@@ -282,7 +282,7 @@ script 14 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Espera! Ah,não!!"
+	"Espera! Ah, não!!"
 	keyWait
 		any = false
 	clearMsg
@@ -372,7 +372,7 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	É,não dá pra entrar-
+	É, não dá pra entrar-
 	mos no torneio com
 	uma pasta bloqueada.
 	"""
@@ -389,7 +389,7 @@ script 19 mmbn4 {
 	clearMsg
 	"""
 	... Quem era aquele
-	cara,afinal?!
+	cara, afinal?!
 	"""
 	keyWait
 		any = false

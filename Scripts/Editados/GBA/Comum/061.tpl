@@ -66,7 +66,7 @@ script 6 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,a gente tem que
+	Lan, a gente tem que
 	parar este pião!
 	"""
 	keyWait
@@ -81,7 +81,7 @@ script 7 mmbn4 {
 	msgOpen
 	"""
 	Aonde você vai?
-	Tentando fugir,é?
+	Tentando fugir, é?
 	"""
 	keyWait
 		any = false
@@ -134,7 +134,7 @@ script 11 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Se desconectarmos,o
+	Se desconectarmos, o
 	fogo se espalha!
 	Você QUER isso?
 	"""

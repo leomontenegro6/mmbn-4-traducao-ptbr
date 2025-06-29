@@ -43,7 +43,7 @@ script 2 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ah,mas só dá pra
+	Ah, mas só dá pra
 	usar dois chips se
 	forem iguais...
 	"""
@@ -57,7 +57,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Sério,Lan?!
+	Sério, Lan?!
 	Já esqueceu?
 	Olha aqui!
 	"""
@@ -70,7 +70,7 @@ script 4 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ah,é! Nossa,tinha
+	Ah, é! Nossa, tinha
 	esquecido total!
 	"""
 	keyWait
@@ -146,8 +146,8 @@ script 5 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Isso,AreaGrab!
-	OK,agora,pega a
+	Isso, AreaGrab!
+	OK, agora, pega a
 	WideSwrd!
 	"""
 	keyWait
@@ -159,7 +159,7 @@ script 6 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,seleciona o
+	Lan, seleciona o
 	AreaGrab primeiro!
 	Cancele com "B".
 	"""
@@ -185,7 +185,7 @@ script 8 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Primeiro,o
+	Primeiro, o
 	AreaGrab! Aperta
 	"B" se já tiver
 	"""
@@ -202,7 +202,7 @@ script 9 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,você errou a
+	Lan, você errou a
 	ordem.
 	"""
 	keyWait
@@ -235,7 +235,7 @@ script 11 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,não precisa
+	Lan, não precisa
 	cancelar!
 	"""
 	keyWait
@@ -247,7 +247,7 @@ script 12 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,não tem por que
+	Lan, não tem por que
 	cancelar! Os chips,
 	rápido!
 	"""
@@ -260,7 +260,7 @@ script 13 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Desta vez,mande
+	Desta vez, mande
 	a WideSwrd junto
 	com o AreaGrab.
 	"""
@@ -273,7 +273,7 @@ script 14 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Não foge,não!
+	Não foge, não!
 	A gente tem que
 	consertar o fogão!
 	"""
@@ -349,7 +349,7 @@ script 17 mmbn4 {
 	clearMsg
 	"""
 	Esse é um ataque
-	forte,mas lembre-se:
+	forte, mas lembre-se:
 	"""
 	keyWait
 		any = false
@@ -362,7 +362,7 @@ script 17 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Bom,vamos lá!"
+	"Bom, vamos lá!"
 	keyWait
 		any = false
 	end

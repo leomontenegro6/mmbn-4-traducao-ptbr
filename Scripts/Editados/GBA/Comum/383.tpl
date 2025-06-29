@@ -103,7 +103,7 @@ script 11 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	COM ESTA ANTENA,EU
+	COM ESTA ANTENA, EU
 	POSSO ME COMUNICAR
 	COM O SATÉLITE DO
 	"""

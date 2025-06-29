@@ -58,7 +58,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = CapBoy
-	"MEGAMAN,VAI LÁ!!"
+	"MEGAMAN, VAI LÁ!!"
 	keyWait
 		any = false
 	clearMsg

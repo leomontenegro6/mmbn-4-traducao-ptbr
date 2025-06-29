@@ -39,7 +39,7 @@ script 3 mmbn4 {
 	clearMsg
 	"""
 	Não conta pra
-	ninguém,viu?
+	ninguém, viu?
 	"""
 	keyWait
 		any = false
@@ -51,7 +51,7 @@ script 5 mmbn4 {
 	msgOpen
 	"""
 	Hum... Você não é
-	um hóspede,é?
+	um hóspede, é?
 	"""
 	keyWait
 		any = false
@@ -111,14 +111,14 @@ script 11 mmbn4 {
 	"""
 	Um Oficial mandou
 	que fôssemos pra
-	dentro,então,viemos!
+	dentro, então, viemos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Se me cobrarem diá-
-	ria,aquele Oficial
+	ria, aquele Oficial
 	vai ver só!
 	"""
 	keyWait
@@ -165,7 +165,7 @@ script 13 mmbn4 {
 	"""
 	Eu não sei o que
 	está acontecendo,
-	mas coisa boa,não é!
+	mas coisa boa, não é!
 	"""
 	keyWait
 		any = false
@@ -249,7 +249,7 @@ script 100 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Me conecta,Lan!
+	Me conecta, Lan!
 	A gente tem que
 	salvar o ProtoMan!
 	"""

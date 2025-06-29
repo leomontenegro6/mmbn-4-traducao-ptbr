@@ -123,7 +123,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Foi mal,Lan..."
+	"Foi mal, Lan..."
 	keyWait
 		any = false
 	clearMsg
@@ -187,7 +187,7 @@ script 15 mmbn4 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Aí,Lan! Vai encarar
+	Aí, Lan! Vai encarar
 	as preliminares do
 	Torneio Águia?
 	"""
@@ -199,7 +199,7 @@ script 15 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Não,eu vou ficar
+	Não, eu vou ficar
 	fora dessa...
 	"""
 	keyWait
@@ -254,7 +254,7 @@ script 17 mmbn4 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Aí,Lan! Vai encarar
+	Aí, Lan! Vai encarar
 	as preliminares do
 	Torneio Falcão?
 	"""
@@ -266,7 +266,7 @@ script 17 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Não,eu vou ficar
+	Não, eu vou ficar
 	fora dessa...
 	"""
 	keyWait
@@ -300,13 +300,13 @@ script 20 mmbn4 {
 	"""
 	Aê! Cê passou nas
 	preliminares!
-	Boa,rival!
+	Boa, rival!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Boa sorte,Lan!
+	Boa sorte, Lan!
 	Tô torcendo por
 	você!
 	"""
@@ -377,7 +377,7 @@ script 30 mmbn4 {
 	msgOpen
 	"""
 	Parece que cê ainda
-	tá no páreo,hein,
+	tá no páreo, hein,
 	Lan?
 	"""
 	keyWait
@@ -431,7 +431,7 @@ script 36 mmbn4 {
 	mugshotShow
 		mugshot = Chisao
 	msgOpen
-	"\"O que vence é\n força bruta,\n não truques!\""
+	"\"O que vence é\n força bruta, \n não truques!\""
 	keyWait
 		any = false
 	clearMsg

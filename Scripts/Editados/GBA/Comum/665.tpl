@@ -28,7 +28,7 @@ script 2 mmbn4 {
 	msgOpen
 	"""
 	MegaMan!
-	Rápido,toca a
+	Rápido, toca a
 	"
 	"""
 	printItem
@@ -82,7 +82,7 @@ script 6 mmbn4 {
 	clearMsg
 	"""
 	O lacre se rompeu de
-	repente,e então...
+	repente, e então...
 	"""
 	keyWait
 		any = false
@@ -144,8 +144,8 @@ script 9 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Obrigado,MegaMan.
-	E você também,Lan.
+	Obrigado, MegaMan.
+	E você também, Lan.
 	"""
 	keyWait
 		any = false
@@ -191,7 +191,7 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	MegaMan,espero por
+	MegaMan, espero por
 	você no local do
 	torneio.
 	"""
@@ -204,7 +204,7 @@ script 12 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Beleza,MegaMan,é
+	Beleza, MegaMan, é
 	melhor a gente ir
 	também!
 	"""

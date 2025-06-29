@@ -75,7 +75,7 @@ script 4 mmbn4 {
 	clearMsg
 	"""
 	Da próxima vez que
-	a gente lutar,eu
+	a gente lutar, eu
 	acabo com você!
 	"""
 	keyWait
@@ -88,7 +88,7 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	He he,mal posso
+	He he, mal posso
 	esperar!
 	"""
 	keyWait
@@ -112,7 +112,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = OldMan
 	msgOpen
-	"Bom trabalho,\nTensuke!"
+	"Bom trabalho, \nTensuke!"
 	keyWait
 		any = false
 	clearMsg
@@ -195,8 +195,8 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = TopMan
 	"""
-	Ah,he he he!
-	Para,vai me deixar
+	Ah, he he he!
+	Para, vai me deixar
 	vermelho!
 	"""
 	keyWait
@@ -209,7 +209,7 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = Kosuke
 	msgOpen
-	"Então,vovô..."
+	"Então, vovô..."
 	keyWait
 		any = false
 	clearMsg
@@ -233,8 +233,8 @@ script 17 mmbn4 {
 	clearMsg
 	"""
 	Você pode ter
-	perdido,mas que
-	luta,hein!
+	perdido, mas que
+	luta, hein!
 	"""
 	keyWait
 		any = false
@@ -246,7 +246,7 @@ script 18 mmbn4 {
 	msgOpen
 	"""
 	Quero agradecer a
-	você,também.
+	você, também.
 	"""
 	keyWait
 		any = false
@@ -327,7 +327,7 @@ script 22 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"\"Depois da\n tempestade,a\n bonança.\""
+	"\"Depois da\n tempestade, a\n bonança.\""
 	keyWait
 		any = false
 	clearMsg
@@ -403,7 +403,7 @@ script 26 mmbn4 {
 script 27 mmbn4 {
 	mugshotShow
 		mugshot = Tensuke
-	"Ah,é?!"
+	"Ah, é?!"
 	keyWait
 		any = false
 	clearMsg
@@ -413,7 +413,7 @@ script 27 mmbn4 {
 script 28 mmbn4 {
 	mugshotShow
 		mugshot = TensukesBrother
-	"Ah,é?!"
+	"Ah, é?!"
 	keyWait
 		any = false
 	end
@@ -438,7 +438,7 @@ script 30 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Bom,pelo menos eles
+	Bom, pelo menos eles
 	têm saúde.
 	"""
 	keyWait

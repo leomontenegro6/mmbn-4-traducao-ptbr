@@ -5,7 +5,7 @@ script 2 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,aonde você vai?!
+	Lan, aonde você vai?!
 	A gente tem que
 	apagar o incêndio!
 	"""
@@ -18,7 +18,7 @@ script 10 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,eu vou iniciar o
+	Lan, eu vou iniciar o
 	Customizador de
 	Navi!
 	"""
@@ -63,7 +63,7 @@ script 32 mmbn4 {
 	"""
 	A mamãe disse que o
 	suspeito mexeu no
-	seu computador,né?
+	seu computador, né?
 	"""
 	keyWait
 		any = false
@@ -74,7 +74,7 @@ script 40 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,vamos ler
+	Lan, vamos ler
 	aquele e-mail!
 	"""
 	keyWait

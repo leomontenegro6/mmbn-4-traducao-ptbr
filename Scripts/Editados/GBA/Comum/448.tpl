@@ -18,7 +18,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	NÃO,ESTOU BEM.
+	NÃO, ESTOU BEM.
 	MUITO OBRIGADO.
 	"""
 	keyWait
@@ -84,7 +84,7 @@ script 5 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Ai,e agora...?"
+	"Ai, e agora...?"
 	keyWait
 		any = false
 	clearMsg
@@ -95,7 +95,7 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Ah,não! Pai,não
+	Ah, não! Pai, não
 	tem nada que você
 	possa fazer?
 	"""
@@ -151,7 +151,7 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan,eu acho que dá
+	Lan, eu acho que dá
 	pra comprar de um
 	Navi na Rede!
 	"""
@@ -181,7 +181,7 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ah,é mesmo. Papai,
+	Ah, é mesmo. Papai,
 	eu vou precisar de
 	dinheiro!
 	"""
@@ -196,13 +196,13 @@ script 11 mmbn4 {
 		mugshot = Dad
 	"""
 	Ha ha ha.
-	Eu sei,eu sei.
+	Eu sei, eu sei.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mas,primeiro,você
+	Mas, primeiro, você
 	vai ter que desco-
 	nectar o MegaMan.
 	"""
@@ -217,7 +217,7 @@ script 12 mmbn4 {
 		mugshot = Lan
 	"""
 	OK!
-	MegaMan,desconectar!
+	MegaMan, desconectar!
 	"""
 	keyWait
 		any = false
@@ -234,7 +234,7 @@ script 13 mmbn4 {
 	clearMsg
 	"""
 	Aguenta só um
-	pouquinho,tá,Prog?
+	pouquinho, tá, Prog?
 	"""
 	keyWait
 		any = false

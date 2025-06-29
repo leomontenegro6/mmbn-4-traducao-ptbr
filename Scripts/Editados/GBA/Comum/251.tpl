@@ -13,7 +13,7 @@ script 0 mmbn4 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Opa! Sou eu,o chefe
+	Opa! Sou eu, o chefe
 	da Associação de
 	NetLuta de Ni-Hon!
 	"""
@@ -22,7 +22,7 @@ script 0 mmbn4 {
 	clearMsg
 	"""
 	Boa sorte no Torneio
-	Sol Vermelho,Lan!
+	Sol Vermelho, Lan!
 	"""
 	keyWait
 		any = false
@@ -33,7 +33,7 @@ script 1 mmbn4 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Opa! Sou eu,o chefe
+	Opa! Sou eu, o chefe
 	da Associação de
 	NetLuta de Ni-Hon!
 	"""
@@ -42,7 +42,7 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	Boa sorte no Torneio
-	Lua Azul,Lan!
+	Lua Azul, Lan!
 	"""
 	keyWait
 		any = false
@@ -76,7 +76,7 @@ script 10 mmbn4 {
 	msgOpen
 	"""
 	Não vá perder na
-	primeira luta,Lan!
+	primeira luta, Lan!
 	"""
 	keyWait
 		any = false
@@ -98,7 +98,7 @@ script 15 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Continue assim,Lan!\nVocê consegue!!"
+	"Continue assim, Lan!\nVocê consegue!!"
 	keyWait
 		any = false
 	end
@@ -108,7 +108,7 @@ script 20 mmbn4 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Lan,vença!
+	Lan, vença!
 	Por Ni-Hon!
 	"""
 	keyWait
@@ -228,7 +228,7 @@ script 30 mmbn4 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Aí,Lan! Você vem
+	Aí, Lan! Você vem
 	muito aqui?
 	"""
 	keyWait
@@ -295,7 +295,7 @@ script 36 mmbn4 {
 	clearMsg
 	"""
 	meu país! Isso aí
-	é racismo,cara!
+	é racismo, cara!
 	Racismo!
 	"""
 	keyWait

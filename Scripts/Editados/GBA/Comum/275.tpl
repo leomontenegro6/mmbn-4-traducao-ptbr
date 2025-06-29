@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,aí é a saída!"
+	"Lan, aí é a saída!"
 	keyWait
 		any = false
 	end
@@ -14,7 +14,7 @@ script 1 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,não pode largar
+	Lan, não pode largar
 	a Mayl assim!
 	"""
 	keyWait
@@ -48,7 +48,7 @@ script 3 mmbn4 {
 	"""
 	A alabarda foi
 	guardada. Tudo está
-	em segurança,agora.
+	em segurança, agora.
 	"""
 	keyWait
 		any = false
@@ -79,7 +79,7 @@ script 6 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Bom,acho que é uma
+	Bom, acho que é uma
 	boa hora pra tomar
 	sorvete e relaxar...
 	"""
@@ -105,7 +105,7 @@ script 8 mmbn4 {
 		mugshot = OldWomanAlt
 	msgOpen
 	"""
-	Mas,querido,nós
+	Mas, querido, nós
 	acabamos de comer!
 	"""
 	keyWait
@@ -210,8 +210,8 @@ script 18 mmbn4 {
 script 20 mmbn4 {
 	msgOpen
 	"""
-	O engraçado,porém
-	triste,Guerreiro
+	O engraçado, porém
+	triste, Guerreiro
 	de Aço...
 	"""
 	keyWait
@@ -219,7 +219,7 @@ script 20 mmbn4 {
 	clearMsg
 	"""
 	O popular personagem
-	do Castillo,o
+	do Castillo, o
 	Flandrô...
 	"""
 	keyWait
@@ -237,15 +237,15 @@ script 20 mmbn4 {
 script 21 mmbn4 {
 	msgOpen
 	"""
-	Um Vampiro,vivendo
-	na escuridão,sendo
+	Um Vampiro, vivendo
+	na escuridão, sendo
 	caçado por
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Django,o Garoto
+	Django, o Garoto
 	Solar!
 	"""
 	keyWait
@@ -289,7 +289,7 @@ script 25 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Lan,cuidado!"
+	"Lan, cuidado!"
 	keyWait
 		any = false
 	end
@@ -345,15 +345,15 @@ script 30 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Consegue,sim...
+	Consegue, sim...
 	Seus sentidos são
-	bem aguçados,rapaz.
+	bem aguçados, rapaz.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Na verdade,eu sou
+	Na verdade, eu sou
 	uma fada!
 	"""
 	keyWait
@@ -407,22 +407,22 @@ script 30 mmbn4 {
 	mugshotShow
 		mugshot = OldManAlt
 	"""
-	E aí,acredita em
+	E aí, acredita em
 	mim AGORA?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Bom,se não
-	acredita,devolve
+	... Bom, se não
+	acredita, devolve
 	aqui esses pontos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Ah,você
+	... Ah, você
 	acredita?
 	Ótimo!
 	"""
@@ -437,7 +437,7 @@ script 31 mmbn4 {
 		mugshot = OldManAlt
 	msgOpen
 	"""
-	Na verdade,eu sou o
+	Na verdade, eu sou o
 	rei das fadas!
 	"""
 	keyWait
@@ -464,7 +464,7 @@ script 32 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Lan,toma cuidado!"
+	"Lan, toma cuidado!"
 	keyWait
 		any = false
 	end
@@ -516,7 +516,7 @@ script 40 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,aonde você vai?!
+	Lan, aonde você vai?!
 	A gente tem que
 	ajudar a Lilly!
 	"""
@@ -533,7 +533,7 @@ script 41 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	... Hã? Não,não é
+	... Hã? Não, não é
 	nada! Nadinha
 	mesmo!
 	"""
@@ -541,7 +541,7 @@ script 41 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Vai,me salva logo!
+	Vai, me salva logo!
 	"""
 	keyWait
 		any = false
@@ -567,7 +567,7 @@ script 43 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	Ah,parece que você
+	Ah, parece que você
 	terminou o seu
 	treinamento!
 	"""
@@ -583,7 +583,7 @@ script 43 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Bem,vejamos o que
+	Bem, vejamos o que
 	você aprendeu...
 	"""
 	keyWait
@@ -695,8 +695,8 @@ script 53 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	... Mas,por algum
-	motivo,eu quero ir
+	... Mas, por algum
+	motivo, eu quero ir
 	de novo!
 	"""
 	keyWait
@@ -733,7 +733,7 @@ script 55 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Depois,fui aterrori-
+	Depois, fui aterrori-
 	zado pelo Dracky
 	enlouquecido...
 	"""
@@ -755,7 +755,7 @@ script 60 mmbn4 {
 	msgOpen
 	"""
 	Ele tem medo de
-	tudo,e mesmo assim,
+	tudo, e mesmo assim,
 	quer entrar lá...
 	"""
 	keyWait
@@ -775,7 +775,7 @@ script 61 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Chega,vai...! Vamos
+	Chega, vai...! Vamos
 	lá ver a luta...!
 	"""
 	keyWait
@@ -791,7 +791,7 @@ script 62 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E aí,já chega,né?
+	E aí, já chega, né?
 	Podemos ir ver a
 	luta agora?
 	"""
@@ -813,7 +813,7 @@ script 63 mmbn4 {
 	"""
 	Ele não desiste...
 	Vou ver a final
-	sozinho,então...
+	sozinho, então...
 	"""
 	keyWait
 		any = false
@@ -931,7 +931,7 @@ script 220 mmbn4 {
 }
 script 221 mmbn4 {
 	clearMsg
-	"\"Quem se prepara,\n não tem com o que\n se preocupar.\""
+	"\"Quem se prepara, \n não tem com o que\n se preocupar.\""
 	keyWait
 		any = false
 	clearMsg

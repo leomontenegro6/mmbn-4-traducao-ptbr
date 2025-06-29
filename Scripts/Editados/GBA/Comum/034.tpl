@@ -237,7 +237,7 @@ script 10 mmbn4 {
 	"""
 	Estamos esgotados!
 	Obrigado pela
-	preferência,é!
+	preferência, é!
 	"""
 	keyWait
 		any = false

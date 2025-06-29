@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Ora,ora...!
+	Ora, ora...!
 	Você concluiu as
 	três missões!
 	"""
@@ -31,7 +31,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Conseguimos,MegaMan.
+	Conseguimos, MegaMan.
 	Entramos no torneio!
 	"""
 	keyWait
@@ -43,7 +43,7 @@ script 2 mmbn4 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Agora,siga rumo ao
+	Agora, siga rumo ao
 	DenDomo para lutar
 	no torneio.
 	"""
@@ -59,7 +59,7 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Uma vez lá,siga as
+	Uma vez lá, siga as
 	instruções dadas
 	pelo nosso pessoal.
 	"""
@@ -80,7 +80,7 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	MegaMan,bora dar
+	MegaMan, bora dar
 	tudo da gente no
 	torneio!
 	"""
@@ -93,7 +93,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Claro,né?!"
+	"Claro, né?!"
 	keyWait
 		any = false
 	end

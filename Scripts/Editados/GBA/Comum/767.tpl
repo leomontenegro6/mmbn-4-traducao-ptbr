@@ -26,7 +26,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan,o que foi?!
+	Lan, o que foi?!
 	"""
 	keyWait
 		any = false
@@ -96,7 +96,7 @@ script 8 mmbn4 {
 	soundPlayAreaBGM
 	mugshotShow
 		mugshot = Lan
-	"Ah,entendi."
+	"Ah, entendi."
 	keyWait
 		any = false
 	clearMsg
@@ -116,7 +116,7 @@ script 8 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Bom,que a nossa luta
+	Bom, que a nossa luta
 	seja boa!
 	"""
 	keyWait
@@ -137,7 +137,7 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"... Um aperto de\nmão,oras!"
+	"... Um aperto de\nmão, oras!"
 	keyWait
 		any = false
 	clearMsg
@@ -230,7 +230,7 @@ script 13 mmbn4 {
 script 14 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Ora,seu...!"
+	"Ora, seu...!"
 	keyWait
 		any = false
 	end
@@ -349,7 +349,7 @@ script 21 mmbn4 {
 	"""
 	Acabarei com eles
 	imediatamente.
-	... Sim,senhor.
+	... Sim, senhor.
 	"""
 	keyWait
 		any = false
@@ -408,7 +408,7 @@ script 25 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan,não se mexe!!
+	Lan, não se mexe!!
 	"""
 	keyWait
 		any = false

@@ -13,7 +13,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Primeiramente,o
+	Primeiramente, o
 	NetLutador Genial:
 	Terry!!
 	"""
@@ -51,7 +51,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	A seguir,apresento
+	A seguir, apresento
 	o NetLutador do
 	fundamental:
 	"""
@@ -71,7 +71,7 @@ script 3 mmbn4 {
 	msgOpen
 	"""
 	He he he!
-	Pega leve comigo,tá?
+	Pega leve comigo, tá?
 	"""
 	keyWait
 		any = false
@@ -82,7 +82,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Aí,você é aquele...!"
+	"Aí, você é aquele...!"
 	keyWait
 		any = false
 	clearMsg
@@ -96,7 +96,7 @@ script 4 mmbn4 {
 	clearMsg
 	"""
 	Acho que cê queria
-	muito vencer,mesmo
+	muito vencer, mesmo
 	que trapaceando!
 	"""
 	keyWait
@@ -117,14 +117,14 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,sim,vencer é
+	Mas, sim, vencer é
 	tudo o que importa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Pelo menos,foi o
+	Pelo menos, foi o
 	que eu ouvi falar.
 	He he!
 	"""
@@ -133,7 +133,7 @@ script 5 mmbn4 {
 	clearMsg
 	"""
 	Agora para de
-	enrolar,menino
+	enrolar, menino
 	da Pasta Ruim!
 	"""
 	keyWait
@@ -146,15 +146,15 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Ah,eu já me livrei
+	Ah, eu já me livrei
 	daquela pasta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Agora,eu não vou
-	pegar leve,não
+	Agora, eu não vou
+	pegar leve, não
 	senhor!
 	"""
 	keyWait
@@ -196,7 +196,7 @@ script 8 mmbn4 {
 	clearMsg
 	"""
 	Se lutarmos como
-	sempre,é impossível
+	sempre, é impossível
 	a gente perder!
 	"""
 	keyWait
@@ -223,11 +223,11 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotShow
 		mugshot = Terry
-	"Ah,não enche,tá?"
+	"Ah, não enche, tá?"
 	keyWait
 		any = false
 	clearMsg
-	"Eu sou um\nespecialista em\nrobótica,não Navis!"
+	"Eu sou um\nespecialista em\nrobótica, não Navis!"
 	keyWait
 		any = false
 	clearMsg

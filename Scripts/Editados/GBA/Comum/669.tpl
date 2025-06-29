@@ -43,7 +43,7 @@ script 3 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ah,o MetalMan! Então
+	Ah, o MetalMan! Então
 	a gente vai ter que
 	lutar com tudo!
 	"""
@@ -97,12 +97,12 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Tamako
 	msgOpen
-	"He,é mesmo?"
+	"He, é mesmo?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Então,deixa eu te
+	Então, deixa eu te
 	testar antes da
 	luta!
 	"""
@@ -132,7 +132,7 @@ script 8 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	É,ali na Praça
+	É, ali na Praça
 	Marchen.
 	Só vem comigo.
 	"""
@@ -146,7 +146,7 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Er,tá bom..."
+	"Er, tá bom..."
 	keyWait
 		any = false
 	end

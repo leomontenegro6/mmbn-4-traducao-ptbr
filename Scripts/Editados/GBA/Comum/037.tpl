@@ -7,7 +7,7 @@ script 0 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Posso ajudar,é?
+	Posso ajudar, é?
 	(R: Descrição)
 	(B: Sair)
 	"""
@@ -20,7 +20,7 @@ script 1 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	O que quer,é?
+	O que quer, é?
 	(R: Descrição)
 	(B: Sair)
 	"""
@@ -76,7 +76,7 @@ script 3 mmbn4 {
 		mugshot = Higsby
 	textSpeed
 		delay = 0
-	"Volte sempre,é!!"
+	"Volte sempre, é!!"
 	waitHold
 }
 script 4 mmbn4 {
@@ -257,7 +257,7 @@ script 10 mmbn4 {
 	"""
 	Estamos esgotados!
 	Obrigado pela
-	preferência,é!
+	preferência, é!
 	"""
 	keyWait
 		any = false

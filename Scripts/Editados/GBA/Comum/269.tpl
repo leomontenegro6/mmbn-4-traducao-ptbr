@@ -42,8 +42,8 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	"""
-	É claro,né? Nestes
-	lugares,TEM que ter
+	É claro, né? Nestes
+	lugares, TEM que ter
 	sorvete!
 	"""
 	keyWait
@@ -51,7 +51,7 @@ script 0 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Ah... Tem,é?"
+	"Ah... Tem, é?"
 	keyWait
 		any = false
 	clearMsg
@@ -59,7 +59,7 @@ script 0 mmbn4 {
 		mugshot = Mayl
 	"""
 	Claro que tem!
-	Bom,arranja um pra
+	Bom, arranja um pra
 	mim...?
 	"""
 	keyWait
@@ -81,7 +81,7 @@ script 0 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"(Num encontro,você\ntem que cuidar desse\ntipo de coisa!)"
+	"(Num encontro, você\ntem que cuidar desse\ntipo de coisa!)"
 	keyWait
 		any = false
 	clearMsg
@@ -91,7 +91,7 @@ script 0 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"(Afe... Esse negócio\nde encontro é um\nsaco,viu?)"
+	"(Afe... Esse negócio\nde encontro é um\nsaco, viu?)"
 	keyWait
 		any = false
 	flagSet
@@ -152,7 +152,7 @@ script 5 mmbn4 {
 	clearMsg
 	"""
 	Ele mostra as presas
-	e grosna,como se
+	e grosna, como se
 	fosse atacar!
 	"""
 	keyWait
@@ -178,7 +178,7 @@ script 7 mmbn4 {
 	msgOpen
 	"""
 	É o Guerreiro de
-	Aço,Flandrô!
+	Aço, Flandrô!
 	"""
 	keyWait
 		any = false
@@ -212,7 +212,7 @@ script 9 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Hi hi,tô me
+	Hi hi, tô me
 	divertindo tanto!
 	"""
 	keyWait
@@ -265,7 +265,7 @@ script 12 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Por favor,entre no
+	Por favor, entre no
 	castelo!
 	"""
 	keyWait
@@ -281,7 +281,7 @@ script 15 mmbn4 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Ah,você me achou!
+	Ah, você me achou!
 	Achei que ninguém
 	ia me achar aqui...
 	"""
@@ -316,7 +316,7 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = YoungWoman
 	"""
-	Na verdade,sou da
+	Na verdade, sou da
 	organização do tor-
 	neio! Meio-período.
 	"""
@@ -333,7 +333,7 @@ script 16 mmbn4 {
 	"""
 	Boa sorte! Tem um
 	monte de rivais
-	aqui,viu?
+	aqui, viu?
 	"""
 	keyWait
 		any = false
@@ -343,7 +343,7 @@ script 20 mmbn4 {
 	msgOpen
 	"""
 	Parece um cachorro,
-	mas,na verdade,é um
+	mas, na verdade, é um
 	mago!
 	"""
 	keyWait
@@ -351,7 +351,7 @@ script 20 mmbn4 {
 	clearMsg
 	"""
 	É o popular persona-
-	gem do Castillo,o
+	gem do Castillo, o
 	MagoCão...
 	"""
 	keyWait
@@ -368,7 +368,7 @@ script 20 mmbn4 {
 script 21 mmbn4 {
 	msgOpen
 	"""
-	Ela é linda,mas
+	Ela é linda, mas
 	quando fica zangada,
 	brande seu machadão!
 	"""
@@ -377,7 +377,7 @@ script 21 mmbn4 {
 	clearMsg
 	"""
 	É a popular persona-
-	gem do Castillo,a
+	gem do Castillo, a
 	Princesa Alabarda!
 	"""
 	keyWait
@@ -420,7 +420,7 @@ script 25 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,infelizmente,
+	Mas, infelizmente,
 	perdemos contato com
 	ela.
 	"""
@@ -487,7 +487,7 @@ script 28 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Bom,eu vim de longe!
+	Bom, eu vim de longe!
 	Espero que eles
 	consertem logo!
 	"""
@@ -578,7 +578,7 @@ script 32 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Como assim,não
+	Como assim, não
 	podemos ir nos
 	brinquedos?!
 	"""
@@ -677,7 +677,7 @@ script 45 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Então,as atrações
+	Então, as atrações
 	voltaram a
 	funcionar...
 	"""
@@ -702,7 +702,7 @@ script 50 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Pessoal,calma!
+	Pessoal, calma!
 	"""
 	keyWait
 		any = false
@@ -857,7 +857,7 @@ script 60 mmbn4 {
 	msgOpen
 	"""
 	Tem outro ali!
-	Alguém,salve-nos!
+	Alguém, salve-nos!
 	"""
 	keyWait
 		any = false
@@ -1105,7 +1105,7 @@ script 84 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
 	msgOpen
-	"Quê que cê quer,\ngaroto?"
+	"Quê que cê quer, \ngaroto?"
 	keyWait
 		any = false
 	clearMsg
@@ -1178,7 +1178,7 @@ script 120 mmbn4 {
 	msgOpen
 	"""
 	Depois de ouvir à
-	Sal,acho que ela
+	Sal, acho que ela
 	está certa...
 	"""
 	keyWait
@@ -1255,7 +1255,7 @@ script 124 mmbn4 {
 	mugshotShow
 		mugshot = YoungWoman
 	msgOpen
-	"Desculpa,Sal..."
+	"Desculpa, Sal..."
 	keyWait
 		any = false
 	clearMsg
@@ -1273,7 +1273,7 @@ script 125 mmbn4 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Não chora,Sal...
+	Não chora, Sal...
 	Com certeza o
 	WoodMan tá bem...
 	"""
@@ -1305,7 +1305,7 @@ script 127 mmbn4 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Desculpa,mas acho
+	Desculpa, mas acho
 	que vou torcer pra
 	Sal...
 	"""
@@ -1406,13 +1406,13 @@ script 141 mmbn4 {
 	"""
 	Que tal a fantasia?
 	Tô igualzinha a um
-	Navi,né?!
+	Navi, né?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Dito isso,ela É
+	Dito isso, ela É
 	meio quente...
 	"""
 	keyWait
@@ -1489,7 +1489,7 @@ script 143 mmbn4 {
 	clearMsg
 	"""
 	Ah! Você chegou nas
-	finais,né?
+	finais, né?
 	"""
 	keyWait
 		any = false
@@ -1549,7 +1549,7 @@ script 151 mmbn4 {
 		mugshot = OldManAlt
 	msgOpen
 	"""
-	Calma,menino...
+	Calma, menino...
 	As atrações não vão
 	sair do lugar...
 	"""
@@ -1565,7 +1565,7 @@ script 151 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	ESSA,sim,parece
+	ESSA, sim, parece
 	sinistra!
 	"""
 	keyWait
@@ -1651,7 +1651,7 @@ script 162 mmbn4 {
 	"""
 	Mas fiquei com pena
 	do Flandrô!
-	Força,Flandrô!
+	Força, Flandrô!
 	"""
 	keyWait
 		any = false
@@ -1705,14 +1705,14 @@ script 171 mmbn4 {
 	mugshotShow
 		mugshot = Man
 	msgOpen
-	"Sortudo,você..."
+	"Sortudo, você..."
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Ela vai gritar o
 	seu nome ao te
-	apresentar,não é?
+	apresentar, não é?
 	"""
 	keyWait
 		any = false
@@ -1720,7 +1720,7 @@ script 171 mmbn4 {
 	"""
 	Quem dera eu fosse
 	bom assim na Net-
-	Luta... Ah,Mami!
+	Luta... Ah, Mami!
 	"""
 	keyWait
 		any = false
@@ -1840,7 +1840,7 @@ script 180 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ah,não! Essa fumaça
+	Ah, não! Essa fumaça
 	vai entrar na minha
 	fantasia!
 	"""
@@ -1976,7 +1976,7 @@ script 192 mmbn4 {
 	clearMsg
 	"""
 	Então vai logo
-	salvar ela,Lan!
+	salvar ela, Lan!
 	"""
 	keyWait
 		any = false

@@ -70,7 +70,7 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Primeiro,terá que
+	Primeiro, terá que
 	mostrar sua habili-
 	dade e dedicação!
 	"""
@@ -154,7 +154,7 @@ script 12 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Vocês,da cidade,têm
+	Vocês, da cidade, têm
 	uma Rede arretada
 	aqui!
 	"""
@@ -194,7 +194,7 @@ script 21 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Agora,hora de
+	Agora, hora de
 	escrever sobre o
 	torneio!
 	"""
@@ -208,7 +208,7 @@ script 22 mmbn4 {
 	msgOpen
 	"""
 	Ocês da cidade são
-	tão agitado,hein?
+	tão agitado, hein?
 	"""
 	keyWait
 		any = false
@@ -335,8 +335,8 @@ script 32 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Então,ocês tão com
-	um torneio aqui,é?
+	Então, ocês tão com
+	um torneio aqui, é?
 	"""
 	keyWait
 		any = false
@@ -520,13 +520,13 @@ script 51 mmbn4 {
 	clearMsg
 	"""
 	E eu tô de olho em
-	você,sabia?
+	você, sabia?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Se vencer,por favor,
+	Se vencer, por favor,
 	me dá uma
 	entrevista!
 	"""
@@ -547,7 +547,7 @@ script 52 mmbn4 {
 	clearMsg
 	"""
 	Se tu vencer de
-	novo,vai ser
+	novo, vai ser
 	"campião"!
 	"""
 	keyWait
@@ -616,7 +616,7 @@ script 61 mmbn4 {
 	clearMsg
 	"""
 	Volte aqui quando se
-	decidir,e eu darei
+	decidir, e eu darei
 	mais informações...
 	"""
 	keyWait
@@ -754,7 +754,7 @@ script 67 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Tirei uma foto,mas
+	Tirei uma foto, mas
 	não sei se vai
 	render matéria...
 	"""
@@ -771,7 +771,7 @@ script 68 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Tá atrás do quê,ô?
+	Tá atrás do quê, ô?
 	"""
 	keyWait
 		any = false
@@ -844,7 +844,7 @@ script 71 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	... Bom,não é bem um
+	... Bom, não é bem um
 	furo...
 	"""
 	keyWait
@@ -857,7 +857,7 @@ script 72 mmbn4 {
 	msgOpen
 	"""
 	Foi uma tempestade
-	bem forte,mas é
+	bem forte, mas é
 	notícia? Não...
 	"""
 	keyWait
@@ -878,7 +878,7 @@ script 73 mmbn4 {
 	msgOpen
 	"""
 	Que tempestade
-	louca,né?
+	louca, né?
 	"""
 	keyWait
 		any = false
@@ -906,7 +906,7 @@ script 74 mmbn4 {
 	clearMsg
 	"""
 	mas nunca vi nada
-	assim,não!
+	assim, não!
 	"""
 	keyWait
 		any = false
@@ -918,7 +918,7 @@ script 80 mmbn4 {
 	msgOpen
 	"""
 	A ÁREA PAAAARQUE!
-	QUEIMA,QUEIMA!
+	QUEIMA, QUEIMA!
 	"""
 	keyWait
 		any = false
@@ -940,7 +940,7 @@ script 81 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	... Não,também não
+	... Não, também não
 	renderia uma boa
 	história...
 	"""
@@ -953,7 +953,7 @@ script 82 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	De repente,tudo
+	De repente, tudo
 	pegou fogo!
 	"""
 	keyWait
@@ -1014,7 +1014,7 @@ script 90 mmbn4 {
 	msgOpen
 	"""
 	Sei que pode não
-	parecer,mas eu sou
+	parecer, mas eu sou
 	um Oficial...
 	"""
 	keyWait
@@ -1065,7 +1065,7 @@ script 91 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	"""
-	Entendi! Então,o
+	Entendi! Então, o
 	ataque do WoodMan...
 	"""
 	keyWait
@@ -1100,7 +1100,7 @@ script 91 mmbn4 {
 		mugshot = HeelNaviPurple
 	"""
 	O WoodMan nos ajudou
-	mesmo,né...?
+	mesmo, né...?
 	"""
 	keyWait
 		any = false
@@ -1233,7 +1233,7 @@ script 107 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,mais importante:
+	Mas, mais importante:
 	temos que recuperar
 	as atrações!
 	"""
@@ -1302,7 +1302,7 @@ script 115 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	E AGORA,UM ROBÔ-
+	E AGORA, UM ROBÔ-
 	BRINQUEDO À SOLTA?
 	O QUE ESTÁ HAVENDO?!
 	"""

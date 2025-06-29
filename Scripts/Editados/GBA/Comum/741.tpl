@@ -147,7 +147,7 @@ script 6 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	expulsei,antes que
+	expulsei, antes que
 	fosse tarde demais.
 	"""
 	keyWait
@@ -187,7 +187,7 @@ script 7 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Então,hoje,eu
+	Então, hoje, eu
 	finalmente terei
 	a minha vingança!
 	"""
@@ -308,7 +308,7 @@ script 16 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Então,eu decido se
+	Então, eu decido se
 	os reféns vivem ou
 	morrem!
 	"""
@@ -330,7 +330,7 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"Ei,reféns!"
+	"Ei, reféns!"
 	keyWait
 		any = false
 	clearMsg
@@ -435,7 +435,7 @@ script 25 mmbn4 {
 	"""
 	É. Ele tá contro-
 	lando os leões da
-	estátua de leão,né?
+	estátua de leão, né?
 	"""
 	keyWait
 		any = false
@@ -472,14 +472,14 @@ script 27 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Vamos lá,enquanto
+	Vamos lá, enquanto
 	ele ainda tá falando
 	com eles!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Bora,MegaMan!"
+	"Bora, MegaMan!"
 	keyWait
 		any = false
 	clearMsg

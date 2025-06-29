@@ -36,8 +36,8 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	"""
-	OK,Lan! Agora que
-	tomamos sorvete,va-
+	OK, Lan! Agora que
+	tomamos sorvete, va-
 	mos nos brinquedos!!
 	"""
 	keyWait
@@ -53,7 +53,7 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Vem,Lan!
+	Vem, Lan!
 	Vem logo!
 	"""
 	keyWait
@@ -65,7 +65,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Tá bom,tá bom!"
+	"Tá bom, tá bom!"
 	keyWait
 		any = false
 	end
@@ -75,7 +75,7 @@ script 5 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Ah,olha só isso!
+	Ah, olha só isso!
 	Acho que eu vou
 	comprar pra Yai!
 	"""
@@ -88,9 +88,9 @@ script 6 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Ah,e olha este bone-
+	Ah, e olha este bone-
 	quinho aqui. Não é
-	um amor,Lan?
+	um amor, Lan?
 	"""
 	keyWait
 		any = false
@@ -101,7 +101,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"... Er,aham!"
+	"... Er, aham!"
 	keyWait
 		any = false
 	clearMsg
@@ -132,9 +132,9 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	"""
-	Bom,é o primeiro
+	Bom, é o primeiro
 	parque temático de
-	DenCity,né?
+	DenCity, né?
 	"""
 	keyWait
 		any = false
@@ -258,7 +258,7 @@ script 17 mmbn4 {
 	mugshotAnimation
 		animation = 2
 	"""
-	Agora,o próximo!
+	Agora, o próximo!
 	"""
 	keyWait
 		any = false
@@ -413,12 +413,12 @@ script 27 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	"""
-	"Marchen",Lan!
+	"Marchen", Lan!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"É,vamos pra lá!"
+	"É, vamos pra lá!"
 	keyWait
 		any = false
 	end

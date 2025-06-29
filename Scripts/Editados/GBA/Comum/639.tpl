@@ -6,7 +6,7 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	Chegou a hora! Ami-
-	gos,os competidores
+	gos, os competidores
 	finalmente chegaram!
 	"""
 	keyWait
@@ -14,7 +14,7 @@ script 0 mmbn4 {
 	clearMsg
 	"""
 	Primeiro NetLutador:
-	Lan Hikari,do ensino
+	Lan Hikari, do ensino
 	fundamental!
 	"""
 	keyWait
@@ -46,7 +46,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Boa sorte,Higsby!"
+	"Boa sorte, Higsby!"
 	keyWait
 		any = false
 	clearMsg
@@ -57,7 +57,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Higsby
 	"""
-	He he,Lan... Se
+	He he, Lan... Se
 	tava esperando uma
 	vitória fácil,
 	"""
@@ -75,7 +75,7 @@ script 3 mmbn4 {
 	"""
 	Eu não fico só de
 	bobeira na minha
-	loja,não,viu?!
+	loja, não, viu?!
 	"""
 	keyWait
 		any = false

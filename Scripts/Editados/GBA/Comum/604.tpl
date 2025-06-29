@@ -13,7 +13,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Para começar,a Net-
+	Para começar, a Net-
 	Lutadora pobretona:
 	Shuko Kido!
 	"""
@@ -36,7 +36,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	A seguir,apresento
+	A seguir, apresento
 	o NetLutador do
 	fundamental:
 	"""
@@ -69,7 +69,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Ah! He he,não
+	Ah! He he, não
 	esquenta com isso!
 	"""
 	keyWait
@@ -77,7 +77,7 @@ script 4 mmbn4 {
 	clearMsg
 	"""
 	Nem pense em pegar
-	leve na luta,viu?!
+	leve na luta, viu?!
 	"""
 	keyWait
 		any = false
@@ -97,7 +97,7 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Neste torneio,eu
+	Neste torneio, eu
 	vou mudar de vida!
 	"""
 	keyWait
@@ -123,7 +123,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Boa sorte,AquaMan!"
+	"Boa sorte, AquaMan!"
 	keyWait
 		any = false
 	clearMsg

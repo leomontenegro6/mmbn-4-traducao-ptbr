@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = ShadeMan
 	msgOpen
 	"""
-	Ué,que fim levou
+	Ué, que fim levou
 	todo aquele seu
 	vigor? Hye hyeee!
 	"""
@@ -42,7 +42,7 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotHide
 	"""
-	Então,foi você!
+	Então, foi você!
 	Você deletou todos
 	aqueles Navis...
 	"""
@@ -106,7 +106,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = ProtoMan
-	"Sim,senhor!"
+	"Sim, senhor!"
 	keyWait
 		any = false
 	end
@@ -126,7 +126,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = ProtoMan
 	"""
-	MegaMan,deixe o
+	MegaMan, deixe o
 	resto comigo.
 	"""
 	keyWait
@@ -151,7 +151,7 @@ script 9 mmbn4 {
 	clearMsg
 	"""
 	Apesar de ser só uma
-	criança,as habili-
+	criança, as habili-
 	dades desse
 	"""
 	keyWait
@@ -172,7 +172,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = ProtoMan
 	"""
-	Escute aqui,seu
+	Escute aqui, seu
 	crápula! Liberte a
 	refém e renda-se!
 	"""
@@ -273,7 +273,7 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = ProtoMan
 	"""
-	Sim,senhor!
+	Sim, senhor!
 	Peço perdão,
 	senhor Chaud!
 	"""
@@ -286,7 +286,7 @@ script 17 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Roll,você tá bem?
+	Roll, você tá bem?
 	Se machucou?
 	"""
 	keyWait
@@ -311,7 +311,7 @@ script 18 mmbn4 {
 	clearMsg
 	"""
 	Nunca duvidei de
-	você,nem por um
+	você, nem por um
 	instante!
 	"""
 	keyWait
@@ -322,8 +322,8 @@ script 18 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ah,e obrigada a você
-	também,Lan!
+	Ah, e obrigada a você
+	também, Lan!
 	"""
 	keyWait
 		any = false
@@ -336,7 +336,7 @@ script 19 mmbn4 {
 		mugshot = Lan
 	"""
 	Puxa... Eu fui
-	lembrado,pra variar.
+	lembrado, pra variar.
 	Que alegria.
 	"""
 	keyWait
@@ -344,7 +344,7 @@ script 19 mmbn4 {
 	clearMsg
 	"""
 	Eu suei tanto quanto
-	o MegaMan,sabia?!
+	o MegaMan, sabia?!
 	"""
 	keyWait
 		any = false
@@ -355,7 +355,7 @@ script 19 mmbn4 {
 script 20 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Relaxa,Lan."
+	"Relaxa, Lan."
 	keyWait
 		any = false
 	clearMsg
@@ -367,7 +367,7 @@ script 20 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Roll,melhor desco-
+	Roll, melhor desco-
 	nectar e avisar pra
 	Mayl que cê tá bem!
 	"""
@@ -405,7 +405,7 @@ script 22 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Ah,isto aqui?"
+	"Ah, isto aqui?"
 	keyWait
 		any = false
 	clearMsg
@@ -470,7 +470,7 @@ script 25 mmbn4 {
 		mugshot = MegaMan
 	"""
 	Bora mostrar esse
-	chip pro Higsby,Lan.
+	chip pro Higsby, Lan.
 	"""
 	keyWait
 		any = false
@@ -492,7 +492,7 @@ script 26 mmbn4 {
 	"""
 	Boa ideia. Vamos
 	voltar pro Bairro
-	ACDC,então.
+	ACDC, então.
 	"""
 	keyWait
 		any = false

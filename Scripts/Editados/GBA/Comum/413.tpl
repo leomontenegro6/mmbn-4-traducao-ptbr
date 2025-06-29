@@ -27,7 +27,7 @@ script 0 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"É VERDADE,ISSO?"
+	"É VERDADE, ISSO?"
 	keyWait
 		any = false
 	end
@@ -64,7 +64,7 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	Estão gravando um
-	filme,por acaso?
+	filme, por acaso?
 	Foi tão realista!
 	"""
 	keyWait
@@ -108,7 +108,7 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Então,o Navi Roxo\nque eu tinha visto"
+	"Então, o Navi Roxo\nque eu tinha visto"
 	keyWait
 		any = false
 	clearMsg
@@ -215,7 +215,7 @@ script 16 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"é até difícil de\nacreditar,este\nclima de festa todo!"
+	"é até difícil de\nacreditar, este\nclima de festa todo!"
 	keyWait
 		any = false
 	end
@@ -245,13 +245,13 @@ script 20 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	ENTÃO,VOCÊ CONSEGUIU
+	ENTÃO, VOCÊ CONSEGUIU
 	ENTRAR NO TORNEIO?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"BEM,BOA SORTE!"
+	"BEM, BOA SORTE!"
 	keyWait
 		any = false
 	end
@@ -265,7 +265,7 @@ script 21 mmbn4 {
 	msgOpen
 	"""
 	O Torneio de Batalha
-	Den é no DenDomo,né?
+	Den é no DenDomo, né?
 	"""
 	keyWait
 		any = false
@@ -278,7 +278,7 @@ script 22 mmbn4 {
 	"""
 	O Torneio de Batalha
 	da Cidade é no
-	DenDomo,né?
+	DenDomo, né?
 	"""
 	keyWait
 		any = false
@@ -380,7 +380,7 @@ script 36 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Então,você passou na
+	Então, você passou na
 	primeira rodada!
 	Eu vi!
 	"""
@@ -444,12 +444,12 @@ script 130 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	msgOpen
-	"Ho,ho,ho!"
+	"Ho, ho, ho!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Então,vós quereis
+	Então, vós quereis
 	meu "
 	"""
 	printItem
@@ -530,7 +530,7 @@ script 131 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	msgOpen
-	"Pois bem,então!"
+	"Pois bem, então!"
 	keyWait
 		any = false
 	clearMsg
@@ -918,7 +918,7 @@ script 131 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviPurple
-	"Nada mal,\njovem aprendiz!"
+	"Nada mal, \njovem aprendiz!"
 	keyWait
 		any = false
 	end
@@ -1020,8 +1020,8 @@ script 141 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Bom trabalho,rapaz!
-	Vou indo,agora!
+	Bom trabalho, rapaz!
+	Vou indo, agora!
 	"""
 	keyWait
 		any = false
@@ -1113,7 +1113,7 @@ script 162 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E,sabe,às vezes,
+	E, sabe, às vezes,
 	me dá vontade de
 	gastar! Gastar!
 	"""

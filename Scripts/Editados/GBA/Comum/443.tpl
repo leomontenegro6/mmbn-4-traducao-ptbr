@@ -47,7 +47,7 @@ script 0 mmbn4 {
 		width = 17
 		height = 3
 	"""
-	Apesar disso,o
+	Apesar disso, o
 	mundo desfruta de
 	tempos de paz...
 	"""
@@ -59,7 +59,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"Que tédio,viu..."
+	"Que tédio, viu..."
 	keyWait
 		any = false
 	clearMsg
@@ -78,12 +78,12 @@ script 1 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Ai,ai..."
+	"Ai, ai..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mesmo aqui,no
+	Mesmo aqui, no
 	Observatório
 	espacial da NAXA,
 	"""
@@ -94,7 +94,7 @@ script 1 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Pra mim,pelo menos,\né..."
+	"Pra mim, pelo menos, \né..."
 	keyWait
 		any = false
 	clearMsg
@@ -107,13 +107,13 @@ script 2 mmbn4 {
 	"""
 	Então a vida na NAXA
 	não é o que você
-	esperava,hein?
+	esperava, hein?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Olha,não estamos
+	Olha, não estamos
 	aqui para fazer
 	descobertas.
 	"""
@@ -143,8 +143,8 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	É,eu sei. Mas é
-	que,às vezes,eu
+	É, eu sei. Mas é
+	que, às vezes, eu
 	me pego pensando... 
 	"""
 	keyWait
@@ -180,9 +180,9 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	Então,você quer
+	Então, você quer
 	descobrir alguma
-	coisa,é?
+	coisa, é?
 	"""
 	keyWait
 		any = false
@@ -220,7 +220,7 @@ script 5 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Ai,ai..."
+	"Ai, ai..."
 	keyWait
 		any = false
 	clearMsg
@@ -283,7 +283,7 @@ script 9 mmbn4 {
 		mugshot = Scientist
 	"""
 	......
-	Certo,certo,de
+	Certo, certo, de
 	volta ao trabalho!
 	"""
 	keyWait
@@ -309,7 +309,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"É,até eu."
+	"É, até eu."
 	keyWait
 		any = false
 	clearMsg
@@ -324,7 +324,7 @@ script 11 mmbn4 {
 	"""
 	Mas já deu! Chega
 	de lero-lero!
-	Trabalho,já!
+	Trabalho, já!
 	"""
 	keyWait
 		any = false
@@ -369,8 +369,8 @@ script 14 mmbn4 {
 		timer = 0
 		value = 13
 	"""
-	Ué,o que é isso...?
-	Olha aqui,olha...
+	Ué, o que é isso...?
+	Olha aqui, olha...
 	"""
 	keyWait
 		any = false
@@ -385,7 +385,7 @@ script 15 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Se for piadinha,\nvocê me paga."
+	"Se for piadinha, \nvocê me paga."
 	keyWait
 		any = false
 	clearMsg
@@ -409,7 +409,7 @@ script 17 mmbn4 {
 	msgOpen
 	"""
 	Santo Deus!
-	Chefe! Ei,chefe!
+	Chefe! Ei, chefe!
 	"""
 	keyWait
 		any = false
@@ -451,7 +451,7 @@ script 19 mmbn4 {
 	"""
 	I-impacto...
 	Ele não vai nos
-	atingir,vai?!
+	atingir, vai?!
 	"""
 	keyWait
 		any = false
@@ -500,7 +500,7 @@ script 22 mmbn4 {
 		timer = 0
 		value = 20
 	"""
-	Senão,a Terra está
+	Senão, a Terra está
 	condenada!
 	"""
 	keyWait
@@ -527,7 +527,7 @@ script 22 mmbn4 {
 script 23 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
-	"S-sim,senhora!!"
+	"S-sim, senhora!!"
 	keyWait
 		any = false
 	end

@@ -43,7 +43,7 @@ script 2 mmbn4 {
 	msgOpen
 	"""
 	Para chegar em ACDC
-	3,é só seguir a
+	3, é só seguir a
 	rua principal.
 	"""
 	keyWait
@@ -143,7 +143,7 @@ script 15 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	ALGUÉM,CHAME UM
+	ALGUÉM, CHAME UM
 	OFICIAL!!
 	AIIIN!!
 	"""
@@ -157,7 +157,7 @@ script 20 mmbn4 {
 	msgOpen
 	"""
 	OS OFICIAIS ESTÃO
-	INVESTIGANDO,ENTÃO
+	INVESTIGANDO, ENTÃO
 	ESTOU MAIS CALMO...
 	"""
 	keyWait
@@ -171,7 +171,7 @@ script 21 mmbn4 {
 	"""
 	Está atrapalhando
 	a investigação!
-	Afaste-se,por favor!
+	Afaste-se, por favor!
 	"""
 	keyWait
 		any = false
@@ -286,7 +286,7 @@ script 26 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Mais pra baixo,\nimpossível!"
+	"Mais pra baixo, \nimpossível!"
 	keyWait
 		any = false
 	end
@@ -342,7 +342,7 @@ script 27 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Mais pra baixo,\nimpossível!"
+	"Mais pra baixo, \nimpossível!"
 	keyWait
 		any = false
 	end
@@ -354,7 +354,7 @@ script 30 mmbn4 {
 	"""
 	VOCÊ ESTÁ NAS
 	PRELIMINARES? PUXA!
-	BOA SORTE,ENTÃO!
+	BOA SORTE, ENTÃO!
 	"""
 	keyWait
 		any = false
@@ -379,7 +379,7 @@ script 31 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Bom,aquele lugar
+	Bom, aquele lugar
 	é a única área
 	natural daqui...
 	"""
@@ -475,7 +475,7 @@ script 45 mmbn4 {
 	clearMsg
 	"""
 	MAS ISSO ATRAI
-	NETCRIMES,ENTÃO,
+	NETCRIMES, ENTÃO,
 	CUIDADO!
 	"""
 	keyWait
@@ -542,7 +542,7 @@ script 130 mmbn4 {
 	clearMsg
 	"""
 	Eu fiz mó grana nas
-	cyber-corridas,então
+	cyber-corridas, então
 	tô de bom humor.
 	"""
 	keyWait
@@ -603,7 +603,7 @@ script 140 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Ah,é você...
+	Ah, é você...
 	Pode só ouvir um
 	pouquinho?
 	"""
@@ -631,7 +631,7 @@ script 140 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Olha,sem ofensa,
+	Olha, sem ofensa,
 	mas gostaria que
 	você fosse embora.
 	"""
@@ -660,7 +660,7 @@ script 142 mmbn4 {
 	msgOpen
 	"""
 	Se Tensuke e o Chefe
-	se encontrarem,have-
+	se encontrarem, have-
 	rá uma briga feia!
 	"""
 	keyWait
@@ -668,7 +668,7 @@ script 142 mmbn4 {
 	clearMsg
 	"""
 	Mas eles são assim
-	mesmo. Então,nem
+	mesmo. Então, nem
 	esquenta com isso.
 	"""
 	keyWait
@@ -692,7 +692,7 @@ script 151 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"AGORA,MAS NÃO VI\nNINGUÉM!"
+	"AGORA, MAS NÃO VI\nNINGUÉM!"
 	keyWait
 		any = false
 	clearMsg
@@ -760,7 +760,7 @@ script 160 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	Ah,é da Loja do
+	Ah, é da Loja do
 	Higsby! Faz tempo
 	que eu não vou lá.
 	"""
@@ -816,7 +816,7 @@ script 163 mmbn4 {
 	msgOpen
 	"""
 	É UM PANFLETO?
-	BOM TRABALHO,JOVEM.
+	BOM TRABALHO, JOVEM.
 	EU FICO COM UM.
 	"""
 	keyWait
@@ -842,7 +842,7 @@ script 163 mmbn4 {
 	"""
 	EI... VOCÊ NÃO ESTÁ
 	NO TORNEIO?
-	ESTÁ,NÃO ESTÁ?
+	ESTÁ, NÃO ESTÁ?
 	"""
 	keyWait
 		any = false

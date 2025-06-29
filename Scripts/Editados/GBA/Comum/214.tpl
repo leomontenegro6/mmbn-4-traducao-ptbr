@@ -168,7 +168,7 @@ script 5 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Infelizmente,meu
+	Infelizmente, meu
 	estoque esgotou...
 	"""
 	keyWait
@@ -195,11 +195,11 @@ script 6 mmbn4 {
 }
 script 7 mmbn4 {
 	msgOpen
-	"Na placa,está\nescrito:"
+	"Na placa, está\nescrito:"
 	keyWait
 		any = false
 	clearMsg
-	"\"Se abre para os\n valentes,sábios\n fortes e gentis.\""
+	"\"Se abre para os\n valentes, sábios\n fortes e gentis.\""
 	keyWait
 		any = false
 	end

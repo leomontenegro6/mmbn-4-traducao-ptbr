@@ -72,7 +72,7 @@ script 10 mmbn4 {
 	msgOpen
 	"""
 	As chamas azuis são
-	fortes,então,não se
+	fortes, então, não se
 	apagam facilmente.
 	"""
 	keyWait
@@ -80,7 +80,7 @@ script 10 mmbn4 {
 	clearMsg
 	"""
 	Se ficar ao lado
-	dele,dá para sentir
+	dele, dá para sentir
 	todo o seu calor.
 	"""
 	keyWait

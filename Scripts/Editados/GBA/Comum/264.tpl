@@ -106,9 +106,9 @@ script 131 mmbn4 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Por favor,desligue
+	Por favor, desligue
 	os dispositivos de
-	ignição,Lan!
+	ignição, Lan!
 	"""
 	keyWait
 		any = false
@@ -145,7 +145,7 @@ script 250 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	OK,Lan,vamos começar
+	OK, Lan, vamos começar
 	o seu treinamento!
 	"""
 	keyWait
@@ -156,7 +156,7 @@ script 251 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"De novo,MegaMan!"
+	"De novo, MegaMan!"
 	keyWait
 		any = false
 	end

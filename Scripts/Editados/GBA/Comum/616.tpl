@@ -39,8 +39,8 @@ script 2 mmbn4 {
 		timer = 1
 		value = 1
 	"""
-	Inserir,remover,
-	instalar,desinsta-
+	Inserir, remover,
+	instalar, desinsta-
 	lar. É isso mesmo?!
 	"""
 	keyWait
@@ -69,7 +69,7 @@ script 4 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Ô,quem que é tu?!
+	Ô, quem que é tu?!
 	Como tu consegue me
 	ver?!
 	"""
@@ -106,7 +106,7 @@ script 5 mmbn4 {
 	clearMsg
 	"""
 	Já pode desconectar
-	agora,MegaMan.
+	agora, MegaMan.
 	"""
 	keyWait
 		any = false

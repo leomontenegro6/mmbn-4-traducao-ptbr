@@ -13,7 +13,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Toma cuidado,\nMegaMan!"
+	"Toma cuidado, \nMegaMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -56,7 +56,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Lan,tá na escuta?"
+	"Lan, tá na escuta?"
 	keyWait
 		any = false
 	clearMsg
@@ -66,7 +66,7 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Aham,tô te ouvindo\ndireitinho."
+	"Aham, tô te ouvindo\ndireitinho."
 	keyWait
 		any = false
 	clearMsg
@@ -93,7 +93,7 @@ script 6 mmbn4 {
 	clearMsg
 	"""
 	Se vocês forem
-	sozinhos,não terão
+	sozinhos, não terão
 	chance!
 	"""
 	keyWait
@@ -105,7 +105,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Tá,e o que a gente\nfaz,então?"
+	"Tá, e o que a gente\nfaz, então?"
 	keyWait
 		any = false
 	clearMsg
@@ -183,7 +183,7 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	Escute,MegaMan.
+	Escute, MegaMan.
 	Com certeza há uma
 	armadilha adiante.
 	"""
@@ -215,7 +215,7 @@ script 14 mmbn4 {
 		mugshot = Chaud
 	"""
 	Vai ser uma missão
-	difícil,mas dê o seu
+	difícil, mas dê o seu
 	melhor.
 	"""
 	keyWait
@@ -223,7 +223,7 @@ script 14 mmbn4 {
 	clearMsg
 	"""
 	Quando precisar de
-	informações,use "L"
+	informações, use "L"
 	para falar comigo.
 	"""
 	keyWait
@@ -241,13 +241,13 @@ script 15 mmbn4 {
 	clearMsg
 	"""
 	Com você com a
-	gente,as nossas
+	gente, as nossas
 	chances dobram!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Aguenta aí,ProtoMan!"
+	"Aguenta aí, ProtoMan!"
 	keyWait
 		any = false
 	end

@@ -39,7 +39,7 @@ script 1 mmbn4 {
 	"""
 	Quer essas dicas pra
 	conquistar o seu
-	neto,é?!
+	neto, é?!
 	"""
 	keyWait
 		any = false
@@ -85,7 +85,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Enfim,a gente tem
+	Enfim, a gente tem
 	que parar eles!
 	"""
 	keyWait
@@ -110,7 +110,7 @@ script 5 mmbn4 {
 	"""
 	Se gruda na sua pipa
 	e se empina pra
-	outro lugar,vai!
+	outro lugar, vai!
 	"""
 	keyWait
 		any = false
@@ -138,7 +138,7 @@ script 6 mmbn4 {
 	clearMsg
 	"""
 	Se gosta tanto de
-	girar,gira pra
+	girar, gira pra
 	longe daqui!
 	"""
 	keyWait
@@ -151,13 +151,13 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Ei! Calma,gente!
+	Ei! Calma, gente!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ah,é mesmo!
+	Ah, é mesmo!
 	Tensuke!
 	"""
 	keyWait
@@ -203,7 +203,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Tensuke
 	msgOpen
-	"Ah,é?! É?!"
+	"Ah, é?! É?!"
 	keyWait
 		any = false
 	end
@@ -212,7 +212,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = TensukesBrother
 	msgOpen
-	"É?! Ah,é?!"
+	"É?! Ah, é?!"
 	keyWait
 		any = false
 	end
@@ -221,7 +221,7 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Ah,nãããão!!!"
+	"Ah, nãããão!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -233,7 +233,7 @@ script 12 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Gente,calma!
+	Gente, calma!
 	Relaxa aí!
 	"""
 	keyWait
@@ -245,7 +245,7 @@ script 12 mmbn4 {
 script 13 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Lan,você consegue!"
+	"Lan, você consegue!"
 	keyWait
 		any = false
 	clearMsg
@@ -256,8 +256,8 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = TensukesBrother
 	"""
-	Ai! Ah,se vai apelar
-	pra isso,então leva
+	Ai! Ah, se vai apelar
+	pra isso, então leva
 	logo!
 	"""
 	keyWait
@@ -284,7 +284,7 @@ script 16 mmbn4 {
 	msgOpen
 	"""
 	Se perder mesmo com
-	isso aí,eu vou te
+	isso aí, eu vou te
 	zombar pra sempre!
 	"""
 	keyWait
@@ -296,7 +296,7 @@ script 16 mmbn4 {
 script 17 mmbn4 {
 	mugshotShow
 		mugshot = Tensuke
-	"He,até parece!"
+	"He, até parece!"
 	keyWait
 		any = false
 	clearMsg
@@ -315,7 +315,7 @@ script 18 mmbn4 {
 	msgOpen
 	"""
 	Vitória? Perder?
-	Pera,o que tá
+	Pera, o que tá
 	acontecendo aqui?
 	"""
 	keyWait
@@ -353,7 +353,7 @@ script 20 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Lan,a luta tá pra
+	Lan, a luta tá pra
 	começar!
 	"""
 	keyWait
@@ -367,7 +367,7 @@ script 21 mmbn4 {
 		mugshot = Lan
 	"""
 	Argh!
-	Eita,nós!
+	Eita, nós!
 	"""
 	keyWait
 		any = false

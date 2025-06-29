@@ -60,7 +60,7 @@ script 4 mmbn4 {
 		mugshot = BlackKid
 	msgOpen
 	"""
-	FORÇA,MEGAMAN!
+	FORÇA, MEGAMAN!
 	EU ACREDITO EM
 	VOCÊ!
 	"""

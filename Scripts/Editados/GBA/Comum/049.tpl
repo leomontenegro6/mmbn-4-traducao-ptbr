@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Vamos fugir,Lan!\n"
+	"Vamos fugir, Lan!\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -2722,7 +2722,7 @@ script 57 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Vamos lá,Chaud!
+	Vamos lá, Chaud!
 	Vamos salvar o
 	ProtoMan!
 	"""

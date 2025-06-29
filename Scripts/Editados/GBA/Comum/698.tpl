@@ -79,7 +79,7 @@ script 4 mmbn4 {
 	msgOpen
 	"""
 	Aqueles dois são
-	impossíveis,viu?!
+	impossíveis, viu?!
 	E eu aqui achando
 	"""
 	keyWait
@@ -145,7 +145,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Ah,não!"
+	"Ah, não!"
 	keyWait
 		any = false
 	clearMsg
@@ -219,7 +219,7 @@ script 12 mmbn4 {
 	"""
 	Tá bom! Mas se ficar
 	perigoso demais,
-	desconecta,viu?!
+	desconecta, viu?!
 	"""
 	keyWait
 		any = false
@@ -241,7 +241,7 @@ script 14 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hmm,alguém que
+	Hmm, alguém que
 	possa ajudar nesta
 	situação...!
 	"""

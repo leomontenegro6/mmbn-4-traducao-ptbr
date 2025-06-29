@@ -91,7 +91,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = Roll
-	"Mega,você conseguiu!"
+	"Mega, você conseguiu!"
 	keyWait
 		any = false
 	end
@@ -116,7 +116,7 @@ script 6 mmbn4 {
 	clearMsg
 	"""
 	já pegamos o que a
-	Mayl queria,então,
+	Mayl queria, então,
 	bora desconectar.
 	"""
 	keyWait
@@ -132,7 +132,7 @@ script 7 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Você também vai,\nRoll?"
+	"Você também vai, \nRoll?"
 	keyWait
 		any = false
 	clearMsg
@@ -165,7 +165,7 @@ script 9 mmbn4 {
 	waitSkip
 		frames = 30
 	"""
-	nossa,as
+	nossa, as
 	habilidades dele dão
 	até medo...
 	"""

@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Ô,leões! Eu não
+	Ô, leões! Eu não
 	mandei vocês saírem
 	do lugar!
 	"""
@@ -13,7 +13,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Os reféns tão ali,ó!
+	Os reféns tão ali, ó!
 	Ali!
 	"""
 	keyWait

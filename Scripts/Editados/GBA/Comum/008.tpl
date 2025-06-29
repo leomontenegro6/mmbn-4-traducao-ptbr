@@ -118,7 +118,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	interferir,o refém
+	interferir, o refém
 	morre. Eis a
 	primeira pista:
 	"""
@@ -208,7 +208,7 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	hoje,em frente ao
+	hoje, em frente ao
 	DenDomo. Por favor,
 	experimentem o nosso
 	"""
@@ -293,8 +293,8 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Convidamos você,Lan
-	Hikari,a participar.
+	Convidamos você, Lan
+	Hikari, a participar.
 	"""
 	keyWait
 		any = false
@@ -321,7 +321,7 @@ script 6 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	Lan,você tem visita.
+	Lan, você tem visita.
 	Venha para casa.
 	"""
 	keyWait
@@ -350,7 +350,7 @@ script 7 mmbn4 {
 	clearMsg
 	"""
 	Após chegar na
-	Ameropa,siga rumo
+	Ameropa, siga rumo
 	à margem do rio,
 	"""
 	keyWait
@@ -391,7 +391,7 @@ script 8 mmbn4 {
 		top = 139
 	"""
 	Valeu pela ajuda,
-	Lan,mas não vá
+	Lan, mas não vá
 	esperando que eu
 	"""
 	keyWait
@@ -491,7 +491,7 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ah,e eu estou
+	Ah, e eu estou
 	vendendo sanduíches
 	no Parque ACDC.
 	"""
@@ -519,7 +519,7 @@ script 11 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	Lan,como foi lá no
+	Lan, como foi lá no
 	estádio? Você se
 	machucou? Eu
 	"""
@@ -536,21 +536,21 @@ script 11 mmbn4 {
 	clearMsg
 	"""
 	o WoodMan pra Área
-	Parque,perdi contato
+	Parque, perdi contato
 	com ele!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ah,não sei o que
+	Ah, não sei o que
 	fazer...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,pode me ajudar?
+	Lan, pode me ajudar?
 	Estou no Castillo
 	agora.
 	"""
@@ -596,7 +596,7 @@ script 12 mmbn4 {
 	clearMsg
 	"""
 	Você lembra como se
-	usa,né?
+	usa, né?
 	"""
 	keyWait
 		any = false
@@ -641,7 +641,7 @@ script 12 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	praticar. Ah,e você
+	praticar. Ah, e você
 	pode ter que trocar
 	de pasta dependendo
 	"""
@@ -650,7 +650,7 @@ script 12 mmbn4 {
 	clearMsg
 	"""
 	do que instalar,
-	então,vou mandar
+	então, vou mandar
 	isto também.
 	"""
 	keyWait
@@ -736,7 +736,7 @@ script 13 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	Lan,tem fumaça
+	Lan, tem fumaça
 	saindo do seu
 	computador!
 	"""
@@ -772,7 +772,7 @@ script 14 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Então,conecte-se no
+	Então, conecte-se no
 	computador da Deusa
 	"""
 	keyWait
@@ -808,7 +808,7 @@ script 15 mmbn4 {
 	"""
 	Você parece estar
 	num aperto... Se
-	quiser,posso te
+	quiser, posso te
 	"""
 	keyWait
 		any = false
@@ -847,8 +847,8 @@ script 16 mmbn4 {
 		top = 139
 	"""
 	Chips de destruição
-	de quadros,como o
-	CrakOut,servem como
+	de quadros, como o
+	CrakOut, servem como
 	"""
 	keyWait
 		any = false
@@ -878,7 +878,7 @@ script 16 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	à sua frente,e o
+	à sua frente, e o
 	aperte repetidamente
 	para disparar a
 	"""
@@ -922,7 +922,7 @@ script 17 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Com a união,o ele-
+	Com a união, o ele-
 	mento do MegaMan
 	vira [bracket1]Fogo[bracket2],
 	"""
@@ -930,7 +930,7 @@ script 17 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	então,ele leva dano
+	então, ele leva dano
 	dobrado de ataques
 	de [bracket1]Água[bracket2].
 	"""
@@ -939,7 +939,7 @@ script 17 mmbn4 {
 	clearMsg
 	"""
 	Alguns quadros viram
-	grama,e ao segurar e
+	grama, e ao segurar e
 	soltar "A" na hora
 	"""
 	keyWait
@@ -947,7 +947,7 @@ script 17 mmbn4 {
 	clearMsg
 	"""
 	de usar chips de
-	[bracket1]Fogo[bracket2],você lança
+	[bracket1]Fogo[bracket2], você lança
 	um FireArm.
 	"""
 	keyWait
@@ -996,7 +996,7 @@ script 18 mmbn4 {
 	clearMsg
 	"""
 	solte "B" pra atirar
-	uma RollArrow,que
+	uma RollArrow, que
 	destrói chips do
 	"""
 	keyWait
@@ -1059,8 +1059,8 @@ script 19 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	Chips de Vento,como
-	AirShot,servem de
+	Chips de Vento, como
+	AirShot, servem de
 	sacrifício para a
 	"""
 	keyWait
@@ -1083,9 +1083,9 @@ script 19 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	e buracos,e assopra
+	e buracos, e assopra
 	vento na área
-	inimiga,facilitando
+	inimiga, facilitando
 	"""
 	keyWait
 		any = false
@@ -1107,7 +1107,7 @@ script 19 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	com um AirShot,e
+	com um AirShot, e
 	segure e solte "B"
 	pra jogar os alvos
 	"""
@@ -1144,8 +1144,8 @@ script 20 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	Chips [bracket1]Elét[bracket2],como
-	Thunder1,servem como 
+	Chips [bracket1]Elét[bracket2], como
+	Thunder1, servem como 
 	sacrifícios para a
 	"""
 	keyWait
@@ -1153,14 +1153,14 @@ script 20 mmbn4 {
 	clearMsg
 	"""
 	ThunAlma. Durante a
-	união,o elemento de
+	união, o elemento de
 	MegaMan se torna
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	[bracket1]Elét[bracket2],então ele
+	[bracket1]Elét[bracket2], então ele
 	leva dano dobrado de
 	golpes de [bracket1]Mdra[bracket2].
 	"""
@@ -1168,7 +1168,7 @@ script 20 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Porém,chips [bracket1]Elét[bracket2]
+	Porém, chips [bracket1]Elét[bracket2]
 	e de [bracket1]Nada[bracket2] causam
 	paralisia!
 	"""
@@ -1217,7 +1217,7 @@ script 21 mmbn4 {
 		top = 139
 	"""
 	Chips do tipo invi-
-	síveis,como Invis,
+	síveis, como Invis,
 	são os sacrifícios
 	"""
 	keyWait
@@ -1225,7 +1225,7 @@ script 21 mmbn4 {
 	clearMsg
 	"""
 	para a SrchAlma.
-	Com ela,você cancela
+	Com ela, você cancela
 	estados invisíveis e
 	"""
 	keyWait
@@ -1240,7 +1240,7 @@ script 21 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	ScopeGun,que pode
+	ScopeGun, que pode
 	atacar de qualquer
 	lugar do campo.
 	"""
@@ -1293,8 +1293,8 @@ script 22 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	Chips de [bracket1]Água[bracket2],como
-	Bubbler,servem como
+	Chips de [bracket1]Água[bracket2], como
+	Bubbler, servem como
 	sacrifícios pra
 	"""
 	keyWait
@@ -1319,7 +1319,7 @@ script 22 mmbn4 {
 	"""
 	Segure e solte "B"
 	para disparar o
-	AquaShot,que cria
+	AquaShot, que cria
 	"""
 	keyWait
 		any = false
@@ -1341,7 +1341,7 @@ script 22 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	o dano,exceto com
+	o dano, exceto com
 	chips que "param o
 	tempo". Encha sua
 	"""
@@ -1382,7 +1382,7 @@ script 23 mmbn4 {
 		top = 139
 	"""
 	Chips de reforço,
-	como Atk+10,são os
+	como Atk+10, são os
 	sacrifícios para a
 	"""
 	keyWait
@@ -1459,7 +1459,7 @@ script 24 mmbn4 {
 		top = 139
 	"""
 	Chips de [bracket1]Mdra[bracket2],
-	como Boomer1,servem
+	como Boomer1, servem
 	de sacrifício para a
 	"""
 	keyWait
@@ -1578,7 +1578,7 @@ script 25 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	BrakBust,perfurando
+	BrakBust, perfurando
 	defesas. Segure e
 	solte "B" para 
 	"""
@@ -1603,7 +1603,7 @@ script 25 mmbn4 {
 	clearMsg
 	"""
 	você segura e solta
-	"A",menos os chips
+	"A", menos os chips
 	que "param o tempo".
 	"""
 	keyWait
@@ -1632,7 +1632,7 @@ script 26 mmbn4 {
 		top = 139
 	"""
 	Chips ornamentais,
-	como,RockCube,servem
+	como, RockCube, servem
 	como sacrifícios
 	"""
 	keyWait
@@ -1640,7 +1640,7 @@ script 26 mmbn4 {
 	clearMsg
 	"""
 	para a JunkAlma. Na
-	união,MegaMan deixa
+	união, MegaMan deixa
 	seus inimigos
 	"""
 	keyWait
@@ -1693,7 +1693,7 @@ script 27 mmbn4 {
 		top = 139
 	"""
 	Chips de espada,
-	como WideSwrd,são
+	como WideSwrd, são
 	os sacrifícios pra
 	"""
 	keyWait
@@ -1785,7 +1785,7 @@ script 28 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	envolvido,então é
+	envolvido, então é
 	provável que haja
 	dedo da Nebula
 	"""
@@ -1846,7 +1846,7 @@ script 29 mmbn4 {
 	clearMsg
 	"""
 	administrar o clima
-	da região,mas
+	da região, mas
 	autoridades
 	"""
 	keyWait
@@ -1875,7 +1875,7 @@ script 30 mmbn4 {
 		top = 139
 	"""
 	Encontra a Roll!
-	Toma,isto aqui pode
+	Toma, isto aqui pode
 	ajudar!
 	"""
 	keyWait
@@ -1926,7 +1926,7 @@ script 31 mmbn4 {
 	clearMsg
 	"""
 	Sabia que cê era
-	capaz,Lan!
+	capaz, Lan!
 	"""
 	keyWait
 		any = false
@@ -2145,7 +2145,7 @@ script 50 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Falcão,para determi-
+	Falcão, para determi-
 	nar quem é o NetLu-
 	tador mais forte de
 	"""

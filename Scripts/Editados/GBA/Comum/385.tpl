@@ -7,15 +7,15 @@ script 10 mmbn4 {
 	"""
 	O QUE ACHOU? UMA
 	DEUSA MÍSTICA DE
-	RESPONSA,NÉ?
+	RESPONSA, NÉ?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	GRAÇAS A MIM,ESTA
+	GRAÇAS A MIM, ESTA
 	ESTÁTUA ACENDE À
-	NOITE,E FICA AINDA
+	NOITE, E FICA AINDA
 	"""
 	keyWait
 		any = false
@@ -39,7 +39,7 @@ script 130 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Então,cê veio,é?"
+	"Então, cê veio, é?"
 	keyWait
 		any = false
 	clearMsg
@@ -117,7 +117,7 @@ script 130 mmbn4 {
 	clearMsg
 	"""
 	Se ainda não tá
-	pronto,não vem
+	pronto, não vem
 	encher o saco!
 	"""
 	keyWait
@@ -150,7 +150,7 @@ script 132 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	OK,escuta aqui,mané!
+	OK, escuta aqui, mané!
 	Vou dar as regras do
 	FuteBomba.
 	"""
@@ -195,7 +195,7 @@ script 132 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Como atacante,use os
+	Como atacante, use os
 	direcionais para
 	escolher
 	"""
@@ -225,8 +225,8 @@ script 132 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Se a bola entra,ela
-	explode,ferindo o
+	Se a bola entra, ela
+	explode, ferindo o
 	goleiro.
 	"""
 	keyWait
@@ -316,7 +316,7 @@ script 132 mmbn4 {
 	clearMsg
 	"""
 	Se ainda não tá
-	pronto,não vem
+	pronto, não vem
 	encher o saco!
 	"""
 	keyWait

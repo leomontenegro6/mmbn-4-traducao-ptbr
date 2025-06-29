@@ -22,7 +22,7 @@ script 0 mmbn4 {
 	"""
 	A Undernet é cheia
 	de Navis sinistros.
-	Cuidado aí,MegaMan!
+	Cuidado aí, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -46,7 +46,7 @@ script 1 mmbn4 {
 		frames = 30
 	"""
 	.
-	Cuidado aí,MegaMan!
+	Cuidado aí, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -67,7 +67,7 @@ script 185 mmbn4 {
 	"""
 	A Undernet é cheia
 	de Navis sinistros.
-	Cuidado aí,MegaMan!
+	Cuidado aí, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -80,7 +80,7 @@ script 187 mmbn4 {
 	"""
 	O esconderijo em que
 	o SearchMan foi fica
-	nesta área,né?
+	nesta área, né?
 	"""
 	keyWait
 		any = false
@@ -96,7 +96,7 @@ script 188 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,vai pra
+	MegaMan, vai pra
 	Undernet 6!
 	Mas cuidado!
 	"""
@@ -195,7 +195,7 @@ script 195 mmbn4 {
 	"""
 	Tô preocupado com o
 	Chaud. Bora lá pro
-	hotel,MegaMan!
+	hotel, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -282,7 +282,7 @@ script 201 mmbn4 {
 	msgOpen
 	"""
 	Abra a porta e
-	entre,MegaMan.
+	entre, MegaMan.
 	"""
 	keyWait
 		any = false
@@ -299,7 +299,7 @@ script 202 mmbn4 {
 	"""
 	Deve haver armadi-
 	lhas no caminho,
-	então,cuidado.
+	então, cuidado.
 	"""
 	keyWait
 		any = false
@@ -315,7 +315,7 @@ script 203 mmbn4 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Primeiro,ache o
+	Primeiro, ache o
 	"
 	"""
 	printItem
@@ -522,7 +522,7 @@ script 213 mmbn4 {
 	msgOpen
 	"""
 	O ProtoMan está
-	perto,logo à
+	perto, logo à
 	frente. Rápido.
 	"""
 	keyWait

@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	ColdMan,o
+	ColdMan, o
 	representante de
 	Sharo...
 	"""
@@ -18,13 +18,13 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Sharo,é...?"
+	"Sharo, é...?"
 	keyWait
 		any = false
 	clearMsg
 	"""
 	É aquele país gelado
-	ao norte,né?
+	ao norte, né?
 	"""
 	keyWait
 		any = false
@@ -50,7 +50,7 @@ script 3 mmbn4 {
 	"""
 	Achei que teriam
 	pelo menos ar condi-
-	cionado,mas não!!
+	cionado, mas não!!
 	"""
 	keyWait
 		any = false
@@ -64,7 +64,7 @@ script 3 mmbn4 {
 	clearMsg
 	"""
 	Se eles não vão
-	ligar,então ligo eu!
+	ligar, então ligo eu!
 	"""
 	keyWait
 		any = false
@@ -94,7 +94,7 @@ script 5 mmbn4 {
 		mugshot = MegaMan
 	"""
 	É só um sujeito
-	calorento,eu acho...
+	calorento, eu acho...
 	"""
 	keyWait
 		any = false
@@ -116,7 +116,7 @@ script 6 mmbn4 {
 	clearMsg
 	mugshotAnimation
 		animation = 2
-	"Sou só eu,ou deu uma\nesfriada?"
+	"Sou só eu, ou deu uma\nesfriada?"
 	keyWait
 		any = false
 	clearMsg
@@ -134,7 +134,7 @@ script 7 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	! Lan,a temperatura
+	! Lan, a temperatura
 	da sala tá caindo
 	rápido!
 	"""
@@ -158,7 +158,7 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Que foi,moço?"
+	"Que foi, moço?"
 	keyWait
 		any = false
 	clearMsg
@@ -169,7 +169,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	Ah,Lan Hikari! Como
+	Ah, Lan Hikari! Como
 	estou feliz em ver
 	você!!
 	"""
@@ -194,7 +194,7 @@ script 12 mmbn4 {
 		mugshot = Scientist
 	"""
 	O seu oponente,
-	ColdMan,está gerando
+	ColdMan, está gerando
 	inúmeros bonecos de
 	"""
 	keyWait
@@ -202,7 +202,7 @@ script 12 mmbn4 {
 	clearMsg
 	"""
 	neve na Área Ameropa
-	da Rede,e isso está
+	da Rede, e isso está
 	causando uma forte
 	"""
 	keyWait
@@ -225,7 +225,7 @@ script 13 mmbn4 {
 	"""
 	Então foi por isso
 	que ficou frio
-	assim,de repente.
+	assim, de repente.
 	"""
 	keyWait
 		any = false
@@ -246,7 +246,7 @@ script 14 mmbn4 {
 		mugshot = Scientist
 	"""
 	Queríamos tentar
-	dialogar com ele,mas
+	dialogar com ele, mas
 	estamos todos
 	"""
 	keyWait
@@ -254,7 +254,7 @@ script 14 mmbn4 {
 	clearMsg
 	"""
 	intimidados pelo
-	Navi dele,o ColdMan.
+	Navi dele, o ColdMan.
 	Parece tão forte.
 	"""
 	keyWait
@@ -275,7 +275,7 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Então,quer que nós
+	Então, quer que nós
 	impeçamos ele de
 	congelar a Rede...
 	"""
@@ -295,12 +295,12 @@ script 16 mmbn4 {
 	"""
 	Devíamos era fazer
 	isso nós mesmos,
-	claro,mas...
+	claro, mas...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Enfim,o que me diz?"
+	"Enfim, o que me diz?"
 	keyWait
 		any = false
 	end
@@ -309,7 +309,7 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"E aí,MegaMan?"
+	"E aí, MegaMan?"
 	keyWait
 		any = false
 	clearMsg
@@ -324,7 +324,7 @@ script 18 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Nesse ritmo,vamos
+	Nesse ritmo, vamos
 	todos virar picolé.
 	"""
 	keyWait
@@ -358,7 +358,7 @@ script 19 mmbn4 {
 script 20 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
-	"Então,você aceita?"
+	"Então, você aceita?"
 	keyWait
 		any = false
 	end
@@ -391,7 +391,7 @@ script 22 mmbn4 {
 	clearMsg
 	"""
 	Contamos com vocês.
-	Por favor,vão logo!
+	Por favor, vão logo!
 	"""
 	keyWait
 		any = false
@@ -409,7 +409,7 @@ script 23 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Bom,bora lá dar uma
+	Bom, bora lá dar uma
 	palavrinha com o
 	ColdMan!
 	"""

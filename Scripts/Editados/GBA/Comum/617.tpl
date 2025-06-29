@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Então,você enfim
+	Então, você enfim
 	me achou! Me faz
-	ascender logo,vai!
+	ascender logo, vai!
 	"""
 	keyWait
 		any = false

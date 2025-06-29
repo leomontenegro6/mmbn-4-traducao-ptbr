@@ -16,7 +16,7 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	Você é o MegaMan?
-	Nós,Navis de Sharo,
+	Nós, Navis de Sharo,
 	ofereceremos
 	"""
 	keyWait
@@ -31,7 +31,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	mas,infelizmente,o
+	mas, infelizmente, o
 	Navi que estava com
 	ele foi à Undernet
 	"""
@@ -69,7 +69,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	então,deverá ser
+	então, deverá ser
 	fácil reconhecê-lo
 	ao avistá-lo.
 	"""
@@ -78,7 +78,7 @@ script 0 mmbn4 {
 	clearMsg
 	"""
 	Imagino que já saiba
-	disso,mas a Undernet
+	disso, mas a Undernet
 	é um lugar perigoso.
 	"""
 	keyWait
@@ -100,7 +100,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	então,ele deve
+	então, ele deve
 	estar em uma área
 	em que dá pra você
 	"""
@@ -235,7 +235,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	AGORA,CRIAREI O
+	AGORA, CRIAREI O
 	LINK!
 	"""
 	keyWait

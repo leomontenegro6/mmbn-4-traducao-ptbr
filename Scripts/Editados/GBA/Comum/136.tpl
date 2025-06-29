@@ -32,7 +32,7 @@ script 1 mmbn4 {
 	"""
 	Somente a organi-
 	zação de elite do
-	mundo,a NAXA,
+	mundo, a NAXA,
 	"""
 	keyWait
 		any = false
@@ -61,7 +61,7 @@ script 2 mmbn4 {
 	clearMsg
 	"""
 	A taxa de sucesso é
-	postada aqui,não
+	postada aqui, não
 	em PETs ou painéis.
 	"""
 	keyWait
@@ -77,7 +77,7 @@ script 2 mmbn4 {
 	clearMsg
 	"""
 	Olhando mais de
-	perto,pode-se ver
+	perto, pode-se ver
 	uma coisa escrita...
 	"""
 	keyWait
@@ -104,7 +104,7 @@ script 3 mmbn4 {
 	clearMsg
 	"""
 	e a história da
-	NAXA,sem cessar.
+	NAXA, sem cessar.
 	"""
 	keyWait
 		any = false
@@ -121,7 +121,7 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Olhando bem,dá para
+	Olhando bem, dá para
 	ver mais dados além
 	dos espaciais...
 	"""
@@ -180,7 +180,7 @@ script 6 mmbn4 {
 	clearMsg
 	"""
 	Do jeito que está,
-	sim,o asteroide cai-
+	sim, o asteroide cai-
 	rá direto na Terra.
 	"""
 	keyWait

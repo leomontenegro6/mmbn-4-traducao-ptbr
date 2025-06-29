@@ -21,7 +21,7 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	mugshotShow
 		mugshot = Dad
-	"Acho que é,sim."
+	"Acho que é, sim."
 	keyWait
 		any = false
 	clearMsg
@@ -56,7 +56,7 @@ script 4 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Nossa,eles têm
+	Nossa, eles têm
 	muitos produtos
 	legais.
 	"""
@@ -84,7 +84,7 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Dad
 	"""
-	Ah,quase esqueci.
+	Ah, quase esqueci.
 	Sua mãe me pediu pra
 	trazer lâmpadas.
 	"""
@@ -126,7 +126,7 @@ script 9 mmbn4 {
 	msgOpen
 	"""
 	Aaah... Até que
-	enfim,um descanso.
+	enfim, um descanso.
 	"""
 	keyWait
 		any = false

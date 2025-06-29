@@ -25,7 +25,7 @@ script 1 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Toma! Gostou,Raika?!
+	Toma! Gostou, Raika?!
 	"""
 	keyWait
 		any = false
@@ -62,7 +62,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = SearchMan
 	"""
-	Durante a luta,uma
+	Durante a luta, uma
 	variável inesperada
 	se revelou.
 	"""
@@ -70,8 +70,8 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E,com o passar da
-	luta,essa variável
+	E, com o passar da
+	luta, essa variável
 	só ficou mais forte.
 	"""
 	keyWait
@@ -88,7 +88,7 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Como assim,uma
+	Como assim, uma
 	variável inesperada?
 	"""
 	keyWait
@@ -203,7 +203,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Sabe,vire amigo do
+	Sabe, vire amigo do
 	seu Navi.
 	"""
 	keyWait
@@ -218,15 +218,15 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ah,entendi! Você não
-	tem nenhum amigo,né,
+	Ah, entendi! Você não
+	tem nenhum amigo, né,
 	Raika?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Então,não sabe
+	Então, não sabe
 	direito o que fazer.
 	"""
 	keyWait
@@ -281,7 +281,7 @@ script 14 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Ah,Sr. Presidente..."
+	"Ah, Sr. Presidente..."
 	keyWait
 		any = false
 	clearMsg
@@ -328,7 +328,7 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = Raika
 	"""
-	Na verdade,eu entrei
+	Na verdade, eu entrei
 	neste torneio sob
 	ordens do nosso
 	"""
@@ -424,14 +424,14 @@ script 23 mmbn4 {
 		mugshot = Raika
 	"""
 	Não faz nem cinco
-	minutos,você me
+	minutos, você me
 	odiava tanto,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	e agora,de repente,
+	e agora, de repente,
 	está preocupado
 	comigo?
 	"""
@@ -609,7 +609,7 @@ script 31 mmbn4 {
 	clearMsg
 	"""
 	Com certeza,
-	um dia,vamos nos
+	um dia, vamos nos
 	reencontrar...
 	"""
 	keyWait

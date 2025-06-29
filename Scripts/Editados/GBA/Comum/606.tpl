@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Vejamos,o nosso
+	Vejamos, o nosso
 	adversário é...
 	"""
 	keyWait
@@ -32,14 +32,14 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	É,não parece lá
+	É, não parece lá
 	muito forte.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ainda assim,é bom
+	Ainda assim, é bom
 	a gente não julgar
 	um Navi pelo nome!
 	"""
@@ -65,7 +65,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Claro,né?!"
+	"Claro, né?!"
 	keyWait
 		any = false
 	end

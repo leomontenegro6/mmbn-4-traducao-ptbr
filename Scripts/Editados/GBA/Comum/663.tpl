@@ -8,13 +8,13 @@ script 0 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Obrigado,mãe!"
+	"Obrigado, mãe!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Mom
-	"Imagina,filho!"
+	"Imagina, filho!"
 	keyWait
 		any = false
 	clearMsg
@@ -60,7 +60,7 @@ script 3 mmbn4 {
 	msgOpen
 	"""
 	Hã?
-	Oi,Lilly. O que foi?
+	Oi, Lilly. O que foi?
 	"""
 	keyWait
 		any = false
@@ -151,7 +151,7 @@ script 7 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Lilly,você não tava
+	Lilly, você não tava
 	controlando ele?
 	"""
 	keyWait
@@ -172,7 +172,7 @@ script 8 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	então,deve ter sido
+	então, deve ter sido
 	eu... de alguma
 	forma.
 	"""
@@ -188,14 +188,14 @@ script 8 mmbn4 {
 	clearMsg
 	"""
 	Eu me vi sozinha
-	de repente,e,ao
+	de repente, e, ao
 	virar minha atenção
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ao meu PET,o WindMan
+	ao meu PET, o WindMan
 	estava ignorando
 	minhas ordens.
 	"""
@@ -242,8 +242,8 @@ script 11 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Enfim,o problema é
-	urgente,né?!
+	Enfim, o problema é
+	urgente, né?!
 	"""
 	keyWait
 		any = false
@@ -320,7 +320,7 @@ script 15 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Sabe,pra ele voltar
+	Sabe, pra ele voltar
 	a te ouvir?
 	"""
 	keyWait
@@ -346,8 +346,8 @@ script 16 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,com a tempesta-
-	de,é perigoso demais
+	Mas, com a tempesta-
+	de, é perigoso demais
 	entrar na Área.
 	"""
 	keyWait
@@ -360,7 +360,7 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Então,tem um jeito!"
+	"Então, tem um jeito!"
 	keyWait
 		any = false
 	clearMsg
@@ -404,7 +404,7 @@ script 20 mmbn4 {
 		mugshot = Lilly
 	msgOpen
 	"""
-	Lan,não pode estar
+	Lan, não pode estar
 	falando sério.
 	"""
 	keyWait
@@ -418,14 +418,14 @@ script 21 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lilly,deixa o
+	Lilly, deixa o
 	MegaMan tocar a
 	sua "FlautaGr"!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Tudo bem por você,\nMegaMan?!"
+	"Tudo bem por você, \nMegaMan?!"
 	keyWait
 		any = false
 	clearMsg
@@ -448,7 +448,7 @@ script 23 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Rápido,Lilly! Dá
+	Rápido, Lilly! Dá
 	a "FlautaGr" pro
 	MegaMan!
 	"""
@@ -471,7 +471,7 @@ script 23 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Depressa,ou a
+	Depressa, ou a
 	gente vai se
 	atrasar pra luta!
 	"""
@@ -490,9 +490,9 @@ script 24 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Está bem. Mas,se
+	Está bem. Mas, se
 	ficar perigoso
-	demais,saia de lá.
+	demais, saia de lá.
 	"""
 	keyWait
 		any = false

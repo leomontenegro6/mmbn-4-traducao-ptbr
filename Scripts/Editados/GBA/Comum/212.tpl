@@ -82,7 +82,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Lan,a operação é
+	Lan, a operação é
 	com você!
 	"""
 	keyWait
@@ -95,7 +95,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Simbora,MegaMan!
+	Simbora, MegaMan!
 	Rotina de batalha,
 	"""
 	waitSkip

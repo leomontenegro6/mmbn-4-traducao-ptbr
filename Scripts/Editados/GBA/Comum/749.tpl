@@ -5,7 +5,7 @@ script 0 mmbn4 {
 	"""
 	Suas habilidades são
 	incríveis!
-	Tome,aceite isto!
+	Tome, aceite isto!
 	"""
 	keyWait
 		any = false
@@ -97,7 +97,7 @@ script 5 mmbn4 {
 	"""
 	Suas habilidades são
 	incríveis!
-	Tome,aceite isto!
+	Tome, aceite isto!
 	"""
 	keyWait
 		any = false
@@ -145,7 +145,7 @@ script 10 mmbn4 {
 	"""
 	Suas habilidades são
 	incríveis!
-	Tome,aceite isto!
+	Tome, aceite isto!
 	"""
 	keyWait
 		any = false
@@ -170,7 +170,7 @@ script 10 mmbn4 {
 		value = 2
 	clearMsg
 	"""
-	Bom,hora de ir falar
+	Bom, hora de ir falar
 	com o KendoMan!
 	"""
 	keyWait

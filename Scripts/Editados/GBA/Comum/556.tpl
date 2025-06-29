@@ -7,7 +7,7 @@ script 0 mmbn4 {
 	color
 		palette = 1
 	"""
-	E assim,o desastre
+	E assim, o desastre
 	do asteroide foi
 	evitado.
 	"""
@@ -38,7 +38,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"Lan,você está bem?"
+	"Lan, você está bem?"
 	keyWait
 		any = false
 	clearMsg
@@ -66,7 +66,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	Se foi,graças a
+	Se foi, graças a
 	você e ao MegaMan.
 	"""
 	keyWait
@@ -78,7 +78,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Ah,é,o MegaMan!"
+	"Ah, é, o MegaMan!"
 	keyWait
 		any = false
 	end
@@ -125,7 +125,7 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotShow
 		mugshot = Dad
-	"Parado aí,Regal!"
+	"Parado aí, Regal!"
 	keyWait
 		any = false
 	end
@@ -184,7 +184,7 @@ script 14 mmbn4 {
 	msgOpen
 	"""
 	O que você planeja
-	fazer,Regal?!
+	fazer, Regal?!
 	"""
 	keyWait
 		any = false
@@ -232,7 +232,7 @@ script 16 mmbn4 {
 	clearMsg
 	"""
 	O Chaud tá aqui. Ele
-	é um Oficial,então,
+	é um Oficial, então,
 	se você se render e
 	"""
 	keyWait
@@ -264,7 +264,7 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = Regal
 	"""
-	Lan,sinto que
+	Lan, sinto que
 	você não esteja
 	entendendo.
 	"""
@@ -331,7 +331,7 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = Regal
 	"""
-	Lan,você não perse-
+	Lan, você não perse-
 	guiu o Navi do meu
 	Sindicato até a Área
 	"""
@@ -363,16 +363,16 @@ script 22 mmbn4 {
 	mugshotShow
 		mugshot = Regal
 	"""
-	Chaud,você deve ter
+	Chaud, você deve ter
 	deletado inúmeros
-	Navis,alegando ser
+	Navis, alegando ser
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	seu dever. Alguns
-	deles,provavelmente,
+	deles, provavelmente,
 	inocentes.
 	"""
 	keyWait
@@ -445,7 +445,7 @@ script 26 mmbn4 {
 	"""
 	exilaram um certo
 	cientista da robóti-
-	ca,tornando-o mau.
+	ca, tornando-o mau.
 	"""
 	keyWait
 		any = false
@@ -460,7 +460,7 @@ script 26 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = Dad
-	"Então,você é o."
+	"Então, você é o."
 	waitSkip
 		frames = 30
 	"."
@@ -497,7 +497,7 @@ script 26 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Em suma,vocês são
+	Em suma, vocês são
 	todos criminosos...
 	"""
 	keyWait
@@ -524,7 +524,7 @@ script 27 mmbn4 {
 		mugshot = Regal
 	msgOpen
 	"""
-	Por isso,irei
+	Por isso, irei
 	resistir à prisão.
 	"""
 	keyWait

@@ -7,7 +7,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"AI,AI..."
+	"AI, AI..."
 	keyWait
 		any = false
 	clearMsg
@@ -63,7 +63,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"AI,AI..."
+	"AI, AI..."
 	keyWait
 		any = false
 	clearMsg
@@ -254,7 +254,7 @@ script 21 mmbn4 {
 	msgOpen
 	"""
 	MEU AMIGO E EU DECI-
-	DIMOS QUE,QUANDO TÁ
+	DIMOS QUE, QUANDO TÁ
 	TUDO NA PIOR...
 	"""
 	keyWait
@@ -322,7 +322,7 @@ script 30 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"ELE TÁ BEM,NÃO TÁ?"
+	"ELE TÁ BEM, NÃO TÁ?"
 	keyWait
 		any = false
 	clearMsg
@@ -357,7 +357,7 @@ script 31 mmbn4 {
 	"""
 	TAMBÉM TENHO MEDO!
 	MAS SE FICARMOS JUN-
-	TOS,VAI DAR BOM!
+	TOS, VAI DAR BOM!
 	"""
 	keyWait
 		any = false

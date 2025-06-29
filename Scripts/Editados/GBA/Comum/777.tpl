@@ -86,7 +86,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"MegaMan,cuidado!!"
+	"MegaMan, cuidado!!"
 	keyWait
 		any = false
 	clearMsg
@@ -97,7 +97,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	Lan,por que não
+	Lan, por que não
 	deixa que eu cuido
 	disso...?
 	"""

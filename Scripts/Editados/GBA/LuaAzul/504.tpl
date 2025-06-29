@@ -21,7 +21,7 @@ script 1 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"... Que foi,MegaMan?"
+	"... Que foi, MegaMan?"
 	keyWait
 		any = false
 	clearMsg
@@ -106,7 +106,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = LaserMan
 	"""
-	MegaMan,juntos,
+	MegaMan, juntos,
 	podemos tornar aque-
 	le mundo completo!
 	"""
@@ -114,7 +114,7 @@ script 7 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Com o seu poder,você
+	Com o seu poder, você
 	destruiu o nosso
 	poderoso ShadeMan.
 	"""
@@ -246,8 +246,8 @@ script 13 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Brandindo,com
-	facilidade,armas.
+	Brandindo, com
+	facilidade, armas.
 	Os "chips"...
 	"""
 	keyWait
@@ -289,12 +289,12 @@ script 14 mmbn4 {
 script 15 mmbn4 {
 	mugshotShow
 		mugshot = AquaMan
-	"Xuá,xuá,xuá!!"
+	"Xuá, xuá, xuá!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,eu vim te
+	MegaMan, eu vim te
 	ajudar!
 	"""
 	keyWait
@@ -329,7 +329,7 @@ script 17 mmbn4 {
 	clearMsg
 	"""
 	A gente vai lutar ao
-	seu lado,MegaMan!!
+	seu lado, MegaMan!!
 	"""
 	keyWait
 		any = false
@@ -348,7 +348,7 @@ script 18 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	MegaMan,vou mostrar
+	MegaMan, vou mostrar
 	a Alma Sombria que
 	se esconde em você!
 	"""
@@ -446,7 +446,7 @@ script 24 mmbn4 {
 script 25 mmbn4 {
 	mugshotShow
 		mugshot = LaserMan
-	"Vá,Alma Sombria!"
+	"Vá, Alma Sombria!"
 	keyWait
 		any = false
 	clearMsg
@@ -504,7 +504,7 @@ script 29 mmbn4 {
 		mugshot = MegaMan
 	"""
 	AquaMan!
-	Sou eu,o MegaMan!
+	Sou eu, o MegaMan!
 	Sou eu!
 	"""
 	keyWait
@@ -525,7 +525,7 @@ script 30 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Vá,AquaMan! Lute,
+	Vá, AquaMan! Lute,
 	como você nasceu
 	para fazer!
 	"""

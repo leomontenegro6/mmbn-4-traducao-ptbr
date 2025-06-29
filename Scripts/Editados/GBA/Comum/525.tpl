@@ -20,7 +20,7 @@ script 1 mmbn4 {
 		mugshot = MegaMan
 	"""
 	Vamos dar o fora
-	daqui,Lan!
+	daqui, Lan!
 	"""
 	keyWait
 		any = false
@@ -31,7 +31,7 @@ script 2 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... Tá,parece que
+	... Tá, parece que
 	não tem ninguém lá
 	fora.
 	"""
@@ -72,7 +72,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Beleza,abriu..."
+	"Beleza, abriu..."
 	keyWait
 		any = false
 	clearMsg
@@ -135,7 +135,7 @@ script 8 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Olha,desculpa te
+	Olha, desculpa te
 	bater.
 	"""
 	keyWait
@@ -182,7 +182,7 @@ script 11 mmbn4 {
 		mugshot = BlackMan
 	"""
 	Fui eu quem armou
-	isto tudo,Lan.
+	isto tudo, Lan.
 	"""
 	keyWait
 		any = false
@@ -238,7 +238,7 @@ script 14 mmbn4 {
 	"""
 	Qualificado pro...
 	Então isto aqui foi
-	tipo,preliminares?
+	tipo, preliminares?
 	"""
 	keyWait
 		any = false
@@ -251,14 +251,14 @@ script 15 mmbn4 {
 		mugshot = BlackMan
 	"""
 	Em termos simples...
-	É,acho que foi.
+	É, acho que foi.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	O torneio começa
-	amanhã,no Coliseu.
+	amanhã, no Coliseu.
 	"""
 	keyWait
 		any = false
@@ -317,7 +317,7 @@ script 18 mmbn4 {
 		mugshot = MegaMan
 	"""
 	Realmente
-	exageraram,viu...
+	exageraram, viu...
 	"""
 	keyWait
 		any = false
@@ -352,7 +352,7 @@ script 19 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	MegaMan,amanhã a
+	MegaMan, amanhã a
 	gente vai botar
 	pra quebrar!
 	"""
@@ -365,12 +365,12 @@ script 19 mmbn4 {
 script 20 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Claro,né?!"
+	"Claro, né?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mas primeiro,Lan,
+	Mas primeiro, Lan,
 	melhor dormir um
 	pouco até o torneio.
 	"""
@@ -422,7 +422,7 @@ script 23 mmbn4 {
 		mugshot = MegaMan
 	"""
 	Realmente
-	exageraram,viu...
+	exageraram, viu...
 	"""
 	keyWait
 		any = false

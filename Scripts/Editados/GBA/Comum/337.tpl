@@ -4,12 +4,12 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Roll
 	msgOpen
-	"Oi,Mega!"
+	"Oi, Mega!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nossa,faz tempo que
+	Nossa, faz tempo que
 	a gente não se fala!
 	"""
 	keyWait
@@ -24,7 +24,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Logo,não é um encon-
+	Logo, não é um encon-
 	tro com o Glide!
 	Engole o ciúmes!
 	"""
@@ -45,7 +45,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Glide
 	msgOpen
-	"Olá,MegaMan!"
+	"Olá, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -92,7 +92,7 @@ script 2 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Ah,a campanha?
+	Ah, a campanha?
 	Vamos repeti-la
 	muito em breve.
 	"""
@@ -108,7 +108,7 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Basicamente,se você
+	Basicamente, se você
 	me vencer em uma
 	luta,
 	"""
@@ -240,7 +240,7 @@ script 20 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Então,estou condu-
+	Então, estou condu-
 	zindo a campanha no
 	lugar dele!
 	"""
@@ -249,7 +249,7 @@ script 20 mmbn4 {
 	clearMsg
 	"""
 	Não sou forte como
-	ele era,mas vou dar
+	ele era, mas vou dar
 	tudo de mim!
 	"""
 	keyWait
@@ -333,8 +333,8 @@ script 21 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	Bom,se mudar de
-	ideia,volte aqui
+	Bom, se mudar de
+	ideia, volte aqui
 	quando quiser!
 	"""
 	keyWait
@@ -396,7 +396,7 @@ script 22 mmbn4 {
 		mugshot = NormalNaviYellow
 	"""
 	Quando estiver
-	pronto,é só falar!
+	pronto, é só falar!
 	"""
 	keyWait
 		any = false
@@ -467,7 +467,7 @@ script 24 mmbn4 {
 		mugshot = NormalNaviYellow
 	"""
 	Quando estiver
-	pronto,é só falar!
+	pronto, é só falar!
 	"""
 	keyWait
 		any = false
@@ -527,7 +527,7 @@ script 26 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Por favor,leve este
+	Por favor, leve este
 	par de "
 	"""
 	printItem
@@ -542,8 +542,8 @@ script 26 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Sério? Bom,valeu!
-	Eu aceito,sim!
+	Sério? Bom, valeu!
+	Eu aceito, sim!
 	"""
 	keyWait
 		any = false
@@ -577,7 +577,7 @@ script 26 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Por favor,voltem à
+	Por favor, voltem à
 	Eletrônicos Jomon
 	quando quiserem!
 	"""
@@ -590,7 +590,7 @@ script 27 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Por favor,voltem à
+	Por favor, voltem à
 	Jomon Eletrônicos
 	quando quiserem!
 	"""
@@ -633,14 +633,14 @@ script 30 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	JO,JO,JO...
+	JO, JO, JO...
 	JOMON...!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	JO,JO,JO...
+	JO, JO, JO...
 	JOMON...!
 	"""
 	keyWait
@@ -737,14 +737,14 @@ script 160 mmbn4 {
 		mugshot = NormalNaviYellow
 	"""
 	Jurei minha lealdade
-	à Jomon,então não
+	à Jomon, então não
 	posso...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Espera,é o quê?
+	... Espera, é o quê?
 	"Nossas balconistas
 	são moças lindas"?!
 	"""
@@ -763,7 +763,7 @@ script 161 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Erh! Digo,eu que não
+	Erh! Digo, eu que não
 	vou lá. Pra que ir,
 	né?! He... he...
 	"""

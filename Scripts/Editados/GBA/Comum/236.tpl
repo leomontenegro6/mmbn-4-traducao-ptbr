@@ -9,7 +9,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Cuidado lá,Lan!"
+	"Cuidado lá, Lan!"
 	keyWait
 		any = false
 	clearMsg
@@ -75,7 +75,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Que bom que você tá\nbem,Lan."
+	"Que bom que você tá\nbem, Lan."
 	keyWait
 		any = false
 	clearMsg
@@ -88,7 +88,7 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ah,e parabéns por
+	Ah, e parabéns por
 	vencer o Sol
 	Vermelho!
 	"""
@@ -100,7 +100,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Que bom que você tá\nbem,Lan."
+	"Que bom que você tá\nbem, Lan."
 	keyWait
 		any = false
 	clearMsg
@@ -113,7 +113,7 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ah,e parabéns por
+	Ah, e parabéns por
 	vencer o Lua Azul!
 	"""
 	keyWait
@@ -127,7 +127,7 @@ script 15 mmbn4 {
 	"""
 	Quando você foi
 	levado por aquele
-	helicóptero,eu senti
+	helicóptero, eu senti
 	"""
 	keyWait
 		any = false
@@ -135,7 +135,7 @@ script 15 mmbn4 {
 	"""
 	que alguma coisa
 	ruim ia acontecer.
-	Tô preocupada,Lan!
+	Tô preocupada, Lan!
 	"""
 	keyWait
 		any = false
@@ -148,7 +148,7 @@ script 20 mmbn4 {
 	"""
 	Você vai pra um
 	lugar perigoso de
-	novo,naõ vai...?
+	novo, naõ vai...?
 	"""
 	keyWait
 		any = false
@@ -163,7 +163,7 @@ script 20 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Por favor,volta
+	Por favor, volta
 	logo!
 	"""
 	keyWait

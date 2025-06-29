@@ -84,7 +84,7 @@ script 5 mmbn4 {
 	msgOpen
 	"""
 	PROOOGRAMA!
-	PROG,PROGRAAMAA!
+	PROG, PROGRAAMAA!
 	LA LA LA LA LAAAA!
 	"""
 	keyWait
@@ -92,7 +92,7 @@ script 5 mmbn4 {
 	clearMsg
 	"""
 	O QUE ACHOU?
-	INCRÍVEL,NÃO É?
+	INCRÍVEL, NÃO É?
 	"""
 	keyWait
 		any = false
@@ -136,7 +136,7 @@ script 10 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"NOSSA,EU SOU DEMAIS!"
+	"NOSSA, EU SOU DEMAIS!"
 	keyWait
 		any = false
 	end
@@ -154,7 +154,7 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Pra um Prog,a voz
+	Pra um Prog, a voz
 	dele é linda!
 	"""
 	keyWait
@@ -186,7 +186,7 @@ script 16 mmbn4 {
 	msgOpen
 	"""
 	Aquele Prog perdeu a
-	voz,e não pode mais
+	voz, e não pode mais
 	cantar!
 	"""
 	keyWait
@@ -229,7 +229,7 @@ script 30 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Desculpa,garoto.
+	Desculpa, garoto.
 	Eu não posso te
 	contar...
 	"""
@@ -237,7 +237,7 @@ script 30 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E aí,que tal?
+	E aí, que tal?
 	Só 3000 Zennys!
 	"""
 	keyWait
@@ -292,7 +292,7 @@ script 31 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Valeu,garoto!"
+	"Valeu, garoto!"
 	keyWait
 		any = false
 	clearMsg
@@ -343,7 +343,7 @@ script 31 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Nada mal,né? Eu
+	Nada mal, né? Eu
 	fiquei horas
 	reunindo eles!
 	"""
@@ -359,7 +359,7 @@ script 32 mmbn4 {
 	msgOpen
 	"""
 	Cê não tem a grana!
-	Foi mal,garoto.
+	Foi mal, garoto.
 	Não faço desconto!
 	"""
 	keyWait
@@ -370,7 +370,7 @@ script 33 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Valeu,garoto!"
+	"Valeu, garoto!"
 	keyWait
 		any = false
 	end
@@ -388,7 +388,7 @@ script 40 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	VENHAM,TODOS!
+	VENHAM, TODOS!
 	VENHAM PARA O
 	CASTILLO!
 	"""
@@ -446,7 +446,7 @@ script 42 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	VAMOS LÁ,PESSOAL!
+	VAMOS LÁ, PESSOAL!
 	VÃO LOGO PRO
 	CASTILLO!
 	"""
@@ -459,7 +459,7 @@ script 43 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	E AGORA,CHEGOU A
+	E AGORA, CHEGOU A
 	HORA DE DEFINIR O
 	MELHOR DE TODOS!
 	"""
@@ -510,7 +510,7 @@ script 50 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Ora,ora,é o orgulho
+	Ora, ora, é o orgulho
 	de ACDC!
 	"""
 	keyWait
@@ -518,7 +518,7 @@ script 50 mmbn4 {
 	clearMsg
 	"""
 	Cê passou nas
-	preliminares,né?
+	preliminares, né?
 	Que demais!
 	"""
 	keyWait
@@ -540,7 +540,7 @@ script 51 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Então,a primeira
+	Então, a primeira
 	rodada vem aí!
 	Não perca o pique!
 	"""
@@ -560,7 +560,7 @@ script 52 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ah,desculpa...
+	Ah, desculpa...
 	Acabei me exaltando
 	um pouco demais...
 	"""
@@ -575,7 +575,7 @@ script 53 mmbn4 {
 	"""
 	Você é incrível! Se
 	vencer a próxima
-	luta,será o campeão!
+	luta, será o campeão!
 	"""
 	keyWait
 		any = false
@@ -597,7 +597,7 @@ script 60 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	O Torneio Águia,é?
+	O Torneio Águia, é?
 	"""
 	keyWait
 		any = false
@@ -627,7 +627,7 @@ script 61 mmbn4 {
 	msgOpen
 	"""
 	Tá quase na hora da
-	sua luta,né? Bom,tá
+	sua luta, né? Bom, tá
 	fazendo o quê AQUI?!
 	"""
 	keyWait
@@ -669,7 +669,7 @@ script 63 mmbn4 {
 	"""
 	Acho que não se pode
 	julgar um Navi pela
-	capa,né?
+	capa, né?
 	"""
 	keyWait
 		any = false
@@ -680,7 +680,7 @@ script 64 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	O Torneio Falcão,é?
+	O Torneio Falcão, é?
 	"""
 	keyWait
 		any = false

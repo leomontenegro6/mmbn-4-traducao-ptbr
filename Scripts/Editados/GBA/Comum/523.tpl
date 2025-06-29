@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Aaai,minha cabeça..."
+	"Aaai, minha cabeça..."
 	keyWait
 		any = false
 	clearMsg
@@ -20,7 +20,7 @@ script 1 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,acordou?!
+	Lan, acordou?!
 	"""
 	keyWait
 		any = false
@@ -50,7 +50,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Mas,felizmente,
+	Mas, felizmente,
 	esqueceram de levar
 	o seu PET.
 	"""
@@ -73,7 +73,7 @@ script 4 mmbn4 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	He he,mano!
+	He he, mano!
 	Acho que o pirralho
 	tá nanando!
 	"""
@@ -91,7 +91,7 @@ script 4 mmbn4 {
 	"""
 	A família dele vai
 	pagar um resgate
-	daqueeeles,né?
+	daqueeeles, né?
 	"""
 	keyWait
 		any = false
@@ -111,7 +111,7 @@ script 4 mmbn4 {
 	"""
 	Os pedaços tão todos
 	em caixas fortes,
-	então,relaxa!!!
+	então, relaxa!!!
 	"""
 	keyWait
 		any = false
@@ -130,7 +130,7 @@ script 5 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ouviu isso,MegaMan?
+	Ouviu isso, MegaMan?
 	"""
 	keyWait
 		any = false
@@ -150,7 +150,7 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Então,se a gente
+	Então, se a gente
 	puder se conectar a
 	ela deste quarto,
 	"""
@@ -176,7 +176,7 @@ script 7 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Tá,por onde a gente
+	Tá, por onde a gente
 	se conecta...?
 	"""
 	keyWait

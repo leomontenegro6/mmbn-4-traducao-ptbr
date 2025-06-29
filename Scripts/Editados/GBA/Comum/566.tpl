@@ -27,7 +27,7 @@ script 2 mmbn4 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Nossa,cê é bom
+	Nossa, cê é bom
 	mesmo!
 	Acabou comigo!
 	"""
@@ -41,7 +41,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Que nada,Dex!
+	Que nada, Dex!
 	Foi uma batalha
 	acirrada!
 	"""
@@ -63,7 +63,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Desculpa eu ter\nperdido,Chisao."
+	"Desculpa eu ter\nperdido, Chisao."
 	keyWait
 		any = false
 	clearMsg
@@ -94,7 +94,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Dex
 	"""
-	Que foi,Chisao?
+	Que foi, Chisao?
 	Tá passando mal?
 	"""
 	keyWait
@@ -201,7 +201,7 @@ script 12 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	fez! Por favor,me
+	fez! Por favor, me
 	perdoa!
 	"""
 	keyWait
@@ -268,7 +268,7 @@ script 15 mmbn4 {
 	clearMsg
 	"""
 	Eu não devia ficar
-	aqui,com o vencedor.
+	aqui, com o vencedor.
 	"""
 	keyWait
 		any = false
@@ -374,14 +374,14 @@ script 20 mmbn4 {
 	msgOpen
 	"""
 	Certeza?
-	Cara,tô te devendo
+	Cara, tô te devendo
 	mais essa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Bom,tô indo. Eu já
+	Bom, tô indo. Eu já
 	me inscrevi em
 	outro torneio!
 	"""

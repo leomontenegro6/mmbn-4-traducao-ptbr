@@ -29,7 +29,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	Modo de treino,um
+	Modo de treino, um
 	jogador. Lutas se-
 	guidas com Navis.
 	"""
@@ -75,7 +75,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	Eu,o Sr. Famoso,lhe
+	Eu, o Sr. Famoso, lhe
 	instruirei em uma
 	Luta de Operação.
 	"""
@@ -334,7 +334,7 @@ script 16 mmbn4 {
 		mugshot = MrFamous
 	"""
 	Na Batalha de
-	Operação,você é o
+	Operação, você é o
 	Operador!
 	"""
 	keyWait
@@ -366,7 +366,7 @@ script 16 mmbn4 {
 	clearMsg
 	"""
 	direcionais Esquerdo
-	e Direito,mudar de
+	e Direito, mudar de
 	tática apertando
 	"""
 	keyWait
@@ -420,7 +420,7 @@ script 16 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Contudo,você só pode
+	Contudo, você só pode
 	usar cada chip um
 	número limitado de
 	"""
@@ -429,7 +429,7 @@ script 16 mmbn4 {
 	clearMsg
 	"""
 	vezes. Quando você
-	leva dano,a sua
+	leva dano, a sua
 	barra é drenada...
 	"""
 	keyWait
@@ -445,8 +445,8 @@ script 16 mmbn4 {
 	clearMsg
 	"""
 	essenciais para a
-	vitória! Por fim,o
-	botão L... Bom,ele,
+	vitória! Por fim, o
+	botão L... Bom, ele,
 	"""
 	keyWait
 		any = false

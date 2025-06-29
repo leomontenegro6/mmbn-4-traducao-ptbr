@@ -13,7 +13,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Primeiro,o NetLuta-
+	Primeiro, o NetLuta-
 	dor Flamejante:
 	o Sr. Match!!
 	"""
@@ -26,7 +26,7 @@ script 1 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	A seguir,apresento
+	A seguir, apresento
 	o NetLutador do
 	fundamental:
 	"""
@@ -46,7 +46,7 @@ script 2 mmbn4 {
 	msgOpen
 	"""
 	Match!
-	Desculpa,mas eu
+	Desculpa, mas eu
 	vou ganhar esta!
 	"""
 	keyWait
@@ -213,7 +213,7 @@ script 11 mmbn4 {
 	"""
 	E trouxe os meus
 	cachorros-quentes
-	especiais,também!
+	especiais, também!
 	"""
 	keyWait
 		any = false
@@ -270,7 +270,7 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = Riki
 	"""
-	Chefe,vamos logo.
+	Chefe, vamos logo.
 	Tamos só esperando
 	você.
 	"""
@@ -286,7 +286,7 @@ script 15 mmbn4 {
 	"""
 	Não!
 	Plano abortado!
-	Recuem,agora!
+	Recuem, agora!
 	"""
 	keyWait
 		any = false
@@ -314,7 +314,7 @@ script 16 mmbn4 {
 	clearMsg
 	"""
 	Não podemos aban-
-	donar o plano,não
+	donar o plano, não
 	importa o motivo.
 	"""
 	keyWait
@@ -474,7 +474,7 @@ script 25 mmbn4 {
 	clearMsg
 	"""
 	Para provar a nossa
-	convicção,plantamos
+	convicção, plantamos
 	dispositivos de
 	"""
 	keyWait
@@ -635,7 +635,7 @@ script 32 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Beleza,eu vou!!"
+	"Beleza, eu vou!!"
 	keyWait
 		any = false
 	clearMsg
@@ -700,7 +700,7 @@ script 35 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Aí,bandidos!
+	Aí, bandidos!
 	Eu vou procurar
 	pelos dispositivos!
 	"""

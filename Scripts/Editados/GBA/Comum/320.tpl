@@ -11,7 +11,7 @@ script 0 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	AH,OI,MEGAMAN!
+	AH, OI, MEGAMAN!
 	GOSTARIA DE UNIR
 	A PÁGINA DO LAN
 	"""
@@ -79,7 +79,7 @@ script 0 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
-	"AH,TÁ..."
+	"AH, TÁ..."
 	keyWait
 		any = false
 	end
@@ -176,7 +176,7 @@ script 10 mmbn4 {
 	"""
 	VOCÊ VAI LUTAR NO
 	TORNEIO SOL
-	VERMELHO,NÃO É?
+	VERMELHO, NÃO É?
 	"""
 	keyWait
 		any = false
@@ -206,7 +206,7 @@ script 11 mmbn4 {
 	clearMsg
 	"""
 	O QUE É ESSE TORNEIO
-	SOL VERMELHO,AFINAL?
+	SOL VERMELHO, AFINAL?
 	"""
 	keyWait
 		any = false
@@ -223,12 +223,12 @@ script 12 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"POR FAVOR,ANIME-SE!"
+	"POR FAVOR, ANIME-SE!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	VENHA,TENTE IMITAR
+	VENHA, TENTE IMITAR
 	A MINHA EXPRESSÃO
 	FACIAL.
 	"""
@@ -279,7 +279,7 @@ script 16 mmbn4 {
 	clearMsg
 	"""
 	O QUE É ESSE TORNEIO
-	LUA AZUL,AFINAL?
+	LUA AZUL, AFINAL?
 	"""
 	keyWait
 		any = false

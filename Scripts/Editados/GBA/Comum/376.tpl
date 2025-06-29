@@ -20,8 +20,8 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	COM ELE,VOCÊ PODERÁ
-	IR NAS ATRAÇÕES,DA
+	COM ELE, VOCÊ PODERÁ
+	IR NAS ATRAÇÕES, DA
 	MANHÃ À NOITE!
 	"""
 	keyWait
@@ -50,7 +50,7 @@ script 11 mmbn4 {
 	clearMsg
 	"""
 	SE VOCÊ É INTELI-
-	GENTE,O INGRESSO É
+	GENTE, O INGRESSO É
 	PARA VOCÊ!
 	"""
 	keyWait

@@ -6,7 +6,7 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	Eu apertei o botão
-	de "parar",Lan!
+	de "parar", Lan!
 	"""
 	keyWait
 		any = false
@@ -17,7 +17,7 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Ótimo,ele parou!"
+	"Ótimo, ele parou!"
 	keyWait
 		any = false
 	clearMsg

@@ -107,7 +107,7 @@ script 7 mmbn4 {
 	"""
 	Tá. A gente pode se
 	conectar!
-	Bora,MegaMan!
+	Bora, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -118,7 +118,7 @@ script 8 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Mayl,você tá bem?!
+	Mayl, você tá bem?!
 	Eu vou te salvar!!
 	"""
 	keyWait
@@ -145,7 +145,7 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
-	"Cuidado,Lan!!"
+	"Cuidado, Lan!!"
 	keyWait
 		any = false
 	clearMsg
@@ -172,7 +172,7 @@ script 12 mmbn4 {
 	"Conectar!!"
 	wait
 		frames = 10
-	"\nMegaMan.EXE,\ntransmissão!"
+	"\nMegaMan.EXE, \ntransmissão!"
 	wait
 		frames = 30
 	controlUnlock

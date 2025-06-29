@@ -43,7 +43,7 @@ script 132 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Se eu desconectar,o
+	Se eu desconectar, o
 	fogo pode se espa-
 	lhar! Não devemos!
 	"""

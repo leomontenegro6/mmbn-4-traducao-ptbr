@@ -42,7 +42,7 @@ script 0 mmbn4 {
 	clearMsg
 	"""
 	Representando
-	Ni-Hon,Lan Hikari.
+	Ni-Hon, Lan Hikari.
 	"""
 	keyWait
 		any = false
@@ -61,8 +61,8 @@ script 1 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Chaud,o ProtoMan
-	tá bem,né?
+	Chaud, o ProtoMan
+	tá bem, né?
 	"""
 	keyWait
 		any = false
@@ -75,8 +75,8 @@ script 2 mmbn4 {
 		mugshot = Chaud
 	"""
 	Lamento te
-	desapontar,mas,
-	sim,ele está.
+	desapontar, mas,
+	sim, ele está.
 	"""
 	keyWait
 		any = false

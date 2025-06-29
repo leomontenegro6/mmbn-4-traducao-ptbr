@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Então,o meu oponente
+	Então, o meu oponente
 	é o FireMan.
 	"""
 	keyWait
@@ -24,7 +24,7 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	mugshotHide
 	"""
-	Oi,Lan.
+	Oi, Lan.
 	Há quanto tempo.
 	"""
 	keyWait
@@ -57,7 +57,7 @@ script 4 mmbn4 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	He he... É,eu mesmo.
+	He he... É, eu mesmo.
 	Está quente? Eu
 	estou fervendo!
 	"""
@@ -84,7 +84,7 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	"""
-	He... Ah,me erra,
+	He... Ah, me erra,
 	garoto.
 	"""
 	keyWait
@@ -93,7 +93,7 @@ script 6 mmbn4 {
 	"""
 	Esquece isso. Você
 	sabe quem está no
-	torneio,não é?
+	torneio, não é?
 	"""
 	keyWait
 		any = false
@@ -133,15 +133,15 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	"""
-	Ah,mas que guri mais
+	Ah, mas que guri mais
 	cético.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Enfim,vamos travar
-	uma boa luta,pelo
+	Enfim, vamos travar
+	uma boa luta, pelo
 	bem do público.
 	"""
 	keyWait
@@ -165,7 +165,7 @@ script 9 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Enfim,nunca que eu
+	Enfim, nunca que eu
 	vou perder pra ele!
 	"""
 	keyWait
@@ -207,7 +207,7 @@ script 12 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	MegaMan,bora
+	MegaMan, bora
 	descolar alguma
 	coisa pra comer.
 	"""
@@ -216,7 +216,7 @@ script 12 mmbn4 {
 	clearMsg
 	"""
 	"Saco vazio não para
-	em pé",como diz o
+	em pé", como diz o
 	ditado.
 	"""
 	keyWait

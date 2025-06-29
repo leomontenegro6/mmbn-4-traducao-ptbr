@@ -37,7 +37,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	"""
-	Ô,não ouviu?!
+	Ô, não ouviu?!
 	Pode mandar mais!
 	"""
 	keyWait
@@ -100,7 +100,7 @@ script 6 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Isso não é justo!\nEu vou te ajudar,\nTetsu!"
+	"Isso não é justo!\nEu vou te ajudar, \nTetsu!"
 	keyWait
 		any = false
 	clearMsg
@@ -111,7 +111,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	"""
-	Não,esta luta é
+	Não, esta luta é
 	minha!
 	Não... ouse...
 	"""
@@ -160,7 +160,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	"""
-	Então,cê vai salvar
+	Então, cê vai salvar
 	ele? Beleza!
 	Ataquem o azulzinho!
 	"""
@@ -212,7 +212,7 @@ script 15 mmbn4 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Ô,azulzinho! Acha
+	Ô, azulzinho! Acha
 	que vence eles
 	e chega aqui?!
 	"""

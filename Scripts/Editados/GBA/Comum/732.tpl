@@ -6,7 +6,7 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	O ferro-velho fica
-	logo à frente,Lan.
+	logo à frente, Lan.
 	Me opera!
 	"""
 	keyWait
@@ -34,7 +34,7 @@ script 2 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Cuidado,MegaMan!"
+	"Cuidado, MegaMan!"
 	keyWait
 		any = false
 	end
@@ -51,7 +51,7 @@ script 3 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Valeu,Lan."
+	"Valeu, Lan."
 	keyWait
 		any = false
 	clearMsg
@@ -119,7 +119,7 @@ script 9 mmbn4 {
 	msgOpen
 	"""
 	Só tô vendo
-	dados-lixo,Lan.
+	dados-lixo, Lan.
 	"""
 	keyWait
 		any = false
@@ -138,8 +138,8 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Bom,a gente já deu
-	uma olhada,então,
+	Bom, a gente já deu
+	uma olhada, então,
 	desconecta.
 	"""
 	keyWait
@@ -151,7 +151,7 @@ script 10 mmbn4 {
 script 11 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Tá,eu vou des..."
+	"Tá, eu vou des..."
 	keyWait
 		any = false
 	soundStopBGM

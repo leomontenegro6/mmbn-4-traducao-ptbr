@@ -6,7 +6,7 @@ script 0 mmbn4 {
 		height = 1
 	color
 		palette = 1
-	"Oi,gente!"
+	"Oi, gente!"
 	keyWait
 		any = false
 	clearMsg
@@ -48,7 +48,7 @@ script 1 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	E agora,eu vou
+	E agora, eu vou
 	anunciar para vocês
 	a luta final,
 	"""
@@ -87,7 +87,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Bom,hora de ver...
+	Bom, hora de ver...
 	o quadro do torneio!
 	"""
 	keyWait

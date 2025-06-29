@@ -20,7 +20,7 @@ script 30 mmbn4 {
 	clearMsg
 	"""
 	JOMON ELETRÔN--
-	AH,ESQUECE O RESTO!
+	AH, ESQUECE O RESTO!
 	"""
 	keyWait
 		any = false

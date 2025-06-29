@@ -33,7 +33,7 @@ script 2 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Exato. Agora,o
+	Exato. Agora, o
 	MegaMan pode se
 	unir à AlmaGuts.
 	"""
@@ -42,7 +42,7 @@ script 2 mmbn4 {
 	clearMsg
 	"""
 	A poderosa alma do
-	GutsMan,que destrói
+	GutsMan, que destrói
 	quadros na hora.
 	"""
 	keyWait
@@ -58,7 +58,7 @@ script 2 mmbn4 {
 	clearMsg
 	"""
 	É assim que se faz.
-	Primeiro,selecione
+	Primeiro, selecione
 	o CrakOut.
 	"""
 	keyWait
@@ -70,7 +70,7 @@ script 3 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Agora,selecione
+	Agora, selecione
 	o comando "Unir".
 	"""
 	keyWait
@@ -81,7 +81,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"Experimenta,Lan."
+	"Experimenta, Lan."
 	keyWait
 		any = false
 	end
@@ -104,7 +104,7 @@ script 6 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Não,selecione o
+	Não, selecione o
 	"CrakOut".
 	Tente de novo.
 	"""
@@ -117,7 +117,7 @@ script 7 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Lan,você esqueceu
+	Lan, você esqueceu
 	de usar o comando
 	"Unir".
 	"""
@@ -130,7 +130,7 @@ script 8 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Lan,não precisa
+	Lan, não precisa
 	cancelar.
 	"""
 	keyWait
@@ -178,7 +178,7 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E também,ataques
+	E também, ataques
 	carregados com "B"
 	virarão GutPunch,
 	"""
@@ -207,14 +207,14 @@ script 11 mmbn4 {
 	msgOpen
 	"""
 	Isso é a UniAlma.
-	Se dominá-la,você
+	Se dominá-la, você
 	ficará mais forte.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Contudo,essa
+	Contudo, essa
 	união tem algumas
 	restrições.
 	"""

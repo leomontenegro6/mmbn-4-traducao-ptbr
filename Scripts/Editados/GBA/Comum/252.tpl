@@ -26,7 +26,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Enfim,agora você
+	Enfim, agora você
 	pode treinar para
 	o grande torneio!
 	"""
@@ -292,7 +292,7 @@ script 16 mmbn4 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Então,você começou
+	Então, você começou
 	as preliminares!
 	"""
 	keyWait
@@ -355,7 +355,7 @@ script 17 mmbn4 {
 	clearMsg
 	"""
 	Em algum lugar em
-	DenCity,existe um
+	DenCity, existe um
 	computador oculto
 	"""
 	keyWait
@@ -369,7 +369,7 @@ script 17 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Eu já fui lá,uma
+	Eu já fui lá, uma
 	vez!
 	"""
 	keyWait
@@ -385,7 +385,7 @@ script 17 mmbn4 {
 	clearMsg
 	"""
 	Tenho tentado achar
-	a Vila de novo,mas
+	a Vila de novo, mas
 	não dei sorte.
 	"""
 	keyWait
@@ -453,13 +453,13 @@ script 17 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Poxa,achei que você
+	Poxa, achei que você
 	poderia me ajudar...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"E agora,o que eu\nfaço...?"
+	"E agora, o que eu\nfaço...?"
 	keyWait
 		any = false
 	flagSet
@@ -483,7 +483,7 @@ script 18 mmbn4 {
 	clearMsg
 	"""
 	Em algum ponto de
-	DenCity,há um
+	DenCity, há um
 	computador oculto
 	"""
 	keyWait
@@ -505,7 +505,7 @@ script 18 mmbn4 {
 	clearMsg
 	"""
 	Tenho tentado achar
-	a Vila de novo,mas
+	a Vila de novo, mas
 	não dei sorte.
 	"""
 	keyWait
@@ -525,7 +525,7 @@ script 18 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Desde já,agradeço!"
+	"Desde já, agradeço!"
 	keyWait
 		any = false
 	clearMsg
@@ -569,7 +569,7 @@ script 18 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ai,ai. Eu preciso
+	Ai, ai. Eu preciso
 	muito daqueles
 	dados...
 	"""
@@ -609,7 +609,7 @@ script 19 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Desde já,agradeço!"
+	"Desde já, agradeço!"
 	keyWait
 		any = false
 	flagSet
@@ -644,7 +644,7 @@ script 20 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Desde já,agradeço!"
+	"Desde já, agradeço!"
 	keyWait
 		any = false
 	end
@@ -698,7 +698,7 @@ script 22 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"Graças a você,agora\neu posso"
+	"Graças a você, agora\neu posso"
 	keyWait
 		any = false
 	clearMsg
@@ -757,7 +757,7 @@ script 23 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	fim do mês,mas não
+	fim do mês, mas não
 	consigo achar nenhum
 	Bes-Ouro!
 	"""
@@ -766,14 +766,14 @@ script 23 mmbn4 {
 	clearMsg
 	"""
 	Já procurei por toda
-	parte,mas eles são
+	parte, mas eles são
 	difíceis de achar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Então,eu queria ver
+	Então, eu queria ver
 	se você não pode me
 	ajudar.
 	"""
@@ -805,7 +805,7 @@ script 23 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Então,por favor,me
+	Então, por favor, me
 	ajude! Aceite o meu
 	pedido!
 	"""
@@ -874,7 +874,7 @@ script 24 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	OK,vou lhe contar
+	OK, vou lhe contar
 	tudo o que sei sobre
 	Bes-Ouros.
 	"""
@@ -883,7 +883,7 @@ script 24 mmbn4 {
 	clearMsg
 	"""
 	Eles parecem rami-
-	nhos,mas com uma
+	nhos, mas com uma
 	coloração dourada.
 	"""
 	keyWait
@@ -922,7 +922,7 @@ script 24 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Tem mais,mas acho
+	Tem mais, mas acho
 	que você só precisa
 	saber disso!
 	"""
@@ -1012,7 +1012,7 @@ script 26 mmbn4 {
 	clearMsg
 	"""
 	Eles parecem rami-
-	nhos,mas com uma
+	nhos, mas com uma
 	coloração dourada.
 	"""
 	keyWait
@@ -1055,7 +1055,7 @@ script 26 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Por favor,traga um
+	Por favor, traga um
 	macho e uma fêmea.
 	Conto com você!
 	"""
@@ -1292,7 +1292,7 @@ script 30 mmbn4 {
 	clearMsg
 	"""
 	Se responder minhas
-	charadas,lhe darei
+	charadas, lhe darei
 	o pedido!
 	"""
 	keyWait
@@ -1376,7 +1376,7 @@ script 32 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Errou. Lamento,mas
+	Errou. Lamento, mas
 	precisa acertar
 	para me ajudar!
 	"""
@@ -1417,7 +1417,7 @@ script 34 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Agora,gostaria de
+	Agora, gostaria de
 	pedir a sua ajuda.
 	"""
 	keyWait
@@ -1499,7 +1499,7 @@ script 35 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Então,vai aceitar o
+	Então, vai aceitar o
 	meu pedido?
 	"""
 	keyWait
@@ -1605,7 +1605,7 @@ script 36 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Então,posso pedir
+	Então, posso pedir
 	que você tire os
 	vírus do meu PET?
 	"""
@@ -1687,7 +1687,7 @@ script 38 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Graças a você,posso
+	Graças a você, posso
 	voltar a levar uma
 	vida normal!
 	"""
@@ -1828,7 +1828,7 @@ script 46 mmbn4 {
 	msgOpen
 	"""
 	Com o seu nível de
-	habilidade,nunca
+	habilidade, nunca
 	que cê vai vencer!
 	"""
 	keyWait
@@ -1877,7 +1877,7 @@ script 130 mmbn4 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Ei,você tem uma
+	Ei, você tem uma
 	bandana azul!
 	"""
 	keyWait
@@ -1940,7 +1940,7 @@ script 130 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Aliás,esqueça que me
+	Aliás, esqueça que me
 	viu. É...
 	"""
 	keyWait

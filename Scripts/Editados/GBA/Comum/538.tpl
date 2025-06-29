@@ -69,7 +69,7 @@ script 3 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Né,MegaMan?"
+	"Né, MegaMan?"
 	keyWait
 		any = false
 	clearMsg
@@ -91,13 +91,13 @@ script 5 mmbn4 {
 		mugshot = HeelNaviPurple
 	"""
 	Isso é o que você
-	acha,garotinho...
+	acha, garotinho...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,assim como
+	MegaMan, assim como
 	eu serei dizimado,
 	você também será...
 	"""
@@ -123,7 +123,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"MegaMan,MegaMan!!"
+	"MegaMan, MegaMan!!"
 	keyWait
 		any = false
 	clearMsg

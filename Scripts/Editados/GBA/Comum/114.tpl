@@ -11,7 +11,7 @@ script 0 mmbn4 {
 	clearMsg
 	"""
 	E por ser top de
-	linha,dá pra se
+	linha, dá pra se
 	conectar nele.
 	"""
 	keyWait
@@ -54,7 +54,7 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	Mas está coberto de
-	poeira,então não dá
+	poeira, então não dá
 	para usar agora.
 	"""
 	keyWait
@@ -72,14 +72,14 @@ script 2 mmbn4 {
 	clearMsg
 	"""
 	Quando um novo mode-
-	lo sai,o preço do
+	lo sai, o preço do
 	antigo cai.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	E pechinchando,dá
+	E pechinchando, dá
 	para baixar o preço
 	ainda mais.
 	"""
@@ -146,7 +146,7 @@ script 6 mmbn4 {
 	"""
 	As etiquetas mostram
 	que esta loja é bem
-	em conta,até.
+	em conta, até.
 	"""
 	keyWait
 		any = false
@@ -166,8 +166,8 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	msgOpen
 	"""
-	Na verdade,não é uma
-	placa,mas sim um
+	Na verdade, não é uma
+	placa, mas sim um
 	enorme monitor LCD.
 	"""
 	keyWait
@@ -230,7 +230,7 @@ script 15 mmbn4 {
 	clearMsg
 	"""
 	"Você... é um
-	participante,né?
+	participante, né?
 	Tome..."
 	"""
 	keyWait

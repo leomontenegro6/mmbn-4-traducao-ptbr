@@ -291,7 +291,7 @@ script 100 mmbn4 {
 	mugshotShow
 		mugshot = Django
 	msgOpen
-	"Oi,MegaMan! Aquele"
+	"Oi, MegaMan! Aquele"
 	keyWait
 		any = false
 	clearMsg
@@ -309,7 +309,7 @@ script 100 mmbn4 {
 	"""
 	enquanto eu caçava o
 	ShadeMan na Under-
-	net,senti uma força
+	net, senti uma força
 	"""
 	keyWait
 		any = false

@@ -46,7 +46,7 @@ script 40 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Se levá-la,ela
+	Se levá-la, ela
 	sobrescreverá sua
 	PastaExtra atual...
 	"""
@@ -54,7 +54,7 @@ script 40 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,se concordar,
+	Mas, se concordar,
 	pode ficar com esta
 	"
 	"""
@@ -105,7 +105,7 @@ script 40 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	Bem,tudo bem...
+	Bem, tudo bem...
 	Se você está
 	dizendo...
 	"""
@@ -170,7 +170,7 @@ script 41 mmbn4 {
 	clearMsg
 	"""
 	Se conseguir
-	dominá-la,é porque
+	dominá-la, é porque
 	você é bom mesmo!
 	"""
 	keyWait
@@ -181,7 +181,7 @@ script 42 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"Oi,Lan!"
+	"Oi, Lan!"
 	keyWait
 		any = false
 	clearMsg
@@ -197,7 +197,7 @@ script 42 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Se a levar,ela
+	Se a levar, ela
 	sobrescreverá sua
 	PastaExtra atual...
 	"""
@@ -205,8 +205,8 @@ script 42 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,se você aceitar
-	isso,pode levá-la!
+	Mas, se você aceitar
+	isso, pode levá-la!
 	"""
 	keyWait
 		any = false
@@ -251,7 +251,7 @@ script 42 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	Bem,tudo bem...
+	Bem, tudo bem...
 	Se você está
 	dizendo...
 	"""

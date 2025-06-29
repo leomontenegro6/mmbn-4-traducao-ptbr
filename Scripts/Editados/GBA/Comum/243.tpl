@@ -10,14 +10,14 @@ script 0 mmbn4 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Lan,é!
-	Oi,é!
+	Lan, é!
+	Oi, é!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Desculpa,mas,é,
+	Desculpa, mas, é,
 	estou meio ocupado
 	agora...
 	"""
@@ -26,8 +26,8 @@ script 0 mmbn4 {
 	clearMsg
 	"""
 	Se quiser comprar
-	chips,volte mais
-	tarde,é.
+	chips, volte mais
+	tarde, é.
 	"""
 	keyWait
 		any = false
@@ -69,7 +69,7 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Nele,você pode
+	Nele, você pode
 	inserir chips e
 	trocá-los por novos.
 	"""
@@ -112,7 +112,7 @@ script 5 mmbn4 {
 	msgOpen
 	"""
 	Decidi contratar a
-	Nanako,é!
+	Nanako, é!
 	"""
 	keyWait
 		any = false
@@ -128,7 +128,7 @@ script 5 mmbn4 {
 	"""
 	o futuro da Loja do
 	Higsby está muito
-	promissor,é!
+	promissor, é!
 	"""
 	keyWait
 		any = false
@@ -175,11 +175,11 @@ script 10 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Bem-vindo,é!"
+	"Bem-vindo, é!"
 	keyWait
 		any = false
 	clearMsg
-	"Sim,senhor!"
+	"Sim, senhor!"
 	keyWait
 		any = false
 	end
@@ -203,22 +203,22 @@ script 11 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = Maid
-	"Bem-vindo,é!"
+	"Bem-vindo, é!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Higsby
 	"""
-	Isso,mais assim,é!
-	Fale de novo,é!
+	Isso, mais assim, é!
+	Fale de novo, é!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Maid
-	"Bem-vindo,é!"
+	"Bem-vindo, é!"
 	keyWait
 		any = false
 	end
@@ -234,7 +234,7 @@ script 15 mmbn4 {
 	"""
 	Só cabe a você usar
 	ou não usar Chips
-	das Trevas,é.
+	das Trevas, é.
 	"""
 	keyWait
 		any = false
@@ -257,7 +257,7 @@ script 16 mmbn4 {
 	clearMsg
 	"""
 	Eu ainda tô apren-
-	dendo,mas vou dar
+	dendo, mas vou dar
 	tudo de mim!
 	"""
 	keyWait
@@ -283,7 +283,7 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = Maid
 	msgOpen
-	"Bem-vindo,é!"
+	"Bem-vindo, é!"
 	keyWait
 		any = false
 	clearMsg
@@ -307,7 +307,7 @@ script 22 mmbn4 {
 	mugshotShow
 		mugshot = Maid
 	msgOpen
-	"Bem-vindo,é!"
+	"Bem-vindo, é!"
 	keyWait
 		any = false
 	clearMsg
@@ -337,7 +337,7 @@ script 25 mmbn4 {
 	clearMsg
 	"""
 	Ele deve ser super
-	fã desse chip,né?
+	fã desse chip, né?
 	"""
 	keyWait
 		any = false
@@ -357,13 +357,13 @@ script 27 mmbn4 {
 	mugshotShow
 		mugshot = Maid
 	msgOpen
-	"Bem-vindo,er... é!"
+	"Bem-vindo, er... é!"
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Eu sou uma completa
-	novata,faço tudo
+	novata, faço tudo
 	errado aqui!
 	"""
 	keyWait
@@ -443,7 +443,7 @@ script 41 mmbn4 {
 		mugshot = Maid
 	msgOpen
 	"""
-	Por favor,ajude-nos
+	Por favor, ajude-nos
 	espalhando 10 ou
 	mais dos nossos
 	"""
@@ -452,7 +452,7 @@ script 41 mmbn4 {
 	clearMsg
 	"""
 	panfletos na Rede!
-	Não se preocupe,é
+	Não se preocupe, é
 	um trabalho pago!
 	"""
 	keyWait
@@ -483,7 +483,7 @@ script 43 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ai,o que a gente
+	Ai, o que a gente
 	faz?! Não acredito
 	nisso!
 	"""
@@ -549,7 +549,7 @@ script 44 mmbn4 {
 		mugshot = Maid
 	msgOpen
 	"""
-	Desde já,agradeço!
+	Desde já, agradeço!
 	Boa sorte!
 	"""
 	keyWait

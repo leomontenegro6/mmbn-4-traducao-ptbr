@@ -51,7 +51,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	ENTÃO,VOCÊ VIU
+	ENTÃO, VOCÊ VIU
 	ESTE BUDA 
 	"""
 	keyWait
@@ -66,7 +66,7 @@ script 1 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Sim,isso mesmo!"
+	"Sim, isso mesmo!"
 	keyWait
 		any = false
 	clearMsg
@@ -81,7 +81,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	GENTILEZA,OU
+	GENTILEZA, OU
 	"TERNURA". ESSE
 	JUNKMAN PODE ESTAR
 	"""
@@ -136,7 +136,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	CONTUDO,TALVEZ
+	CONTUDO, TALVEZ
 	JUNKMAN JÁ TENHA
 	PERCEBIDO...
 	"""
@@ -152,7 +152,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	AH,RELEVE.
+	AH, RELEVE.
 	É MELHOR VOCÊ IR
 	LOGO.
 	"""
@@ -174,7 +174,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Lan,agora vamos pro
+	Lan, agora vamos pro
 	Coliseu!
 	"""
 	keyWait

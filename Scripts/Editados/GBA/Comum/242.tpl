@@ -151,14 +151,14 @@ script 15 mmbn4 {
 	msgOpen
 	"""
 	Aconteceu alguma
-	coisa na Rede,não
+	coisa na Rede, não
 	foi?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ao que parece,a
+	Ao que parece, a
 	Nebula tá
 	envolvida...
 	"""
@@ -179,7 +179,7 @@ script 20 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Lan,você é o único
+	Lan, você é o único
 	que pode
 	"""
 	keyWait

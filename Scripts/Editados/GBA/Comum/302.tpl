@@ -33,7 +33,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Contudo,com o
+	Contudo, com o
 	Robô-Brinquedo
 	fora de controle...
 	"""
@@ -133,7 +133,7 @@ script 1 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	OK! Então,que comece
+	OK! Então, que comece
 	a sua jornada...
 	do perigo!
 	"""

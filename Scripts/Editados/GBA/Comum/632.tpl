@@ -56,7 +56,7 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Er,sim.
+	Er, sim.
 	Sou eu.
 	"""
 	keyWait
@@ -79,15 +79,15 @@ script 5 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Er,vejamos..."
+	"Er, vejamos..."
 	keyWait
 		any = false
 	clearMsg
-	"\"Lan,vou jogar a\ntoalha nessa\npróxima luta."
+	"\"Lan, vou jogar a\ntoalha nessa\npróxima luta."
 	keyWait
 		any = false
 	clearMsg
-	"Lute bem por mim,\namigão.\""
+	"Lute bem por mim, \namigão.\""
 	keyWait
 		any = false
 	clearMsg
@@ -125,16 +125,16 @@ script 7 mmbn4 {
 		mugshot = SciLabYoungMan
 	"""
 	Ele estava com muita
-	pressa,então não
+	pressa, então não
 	peguei detalhes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Enfim,você deve
+	Enfim, você deve
 	vencer essa luta por
-	W.O.,então.
+	W.O., então.
 	"""
 	keyWait
 		any = false
@@ -175,7 +175,7 @@ script 9 mmbn4 {
 	clearMsg
 	"""
 	Vamos falar com o
-	Higsby,MegaMan!
+	Higsby, MegaMan!
 	"""
 	keyWait
 		any = false

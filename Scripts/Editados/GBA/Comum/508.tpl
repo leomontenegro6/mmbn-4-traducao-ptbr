@@ -25,7 +25,7 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	M-mas espantamos
-	eles,então tá tudo
+	eles, então tá tudo
 	bem agora!
 	"""
 	keyWait
@@ -224,7 +224,7 @@ script 10 mmbn4 {
 	msgOpen
 	"""
 	Parabéns...
-	Enfim,a porta
+	Enfim, a porta
 	final...
 	"""
 	keyWait
@@ -239,7 +239,7 @@ script 11 mmbn4 {
 	msgOpen
 	"""
 	Droga! Da próxima
-	vez,eu acerto!
+	vez, eu acerto!
 	"""
 	keyWait
 		any = false

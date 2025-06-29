@@ -84,7 +84,7 @@ script 12 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	AGORA,TODOS OS
+	AGORA, TODOS OS
 	SISTEMAS VOLTARAM
 	AO NORMAL!
 	"""

@@ -38,7 +38,7 @@ script 1 mmbn4 {
 	msgOpen
 	"""
 	Eu tava tão ansioso
-	pra hoje,MegaMan!
+	pra hoje, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -58,14 +58,14 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Mas relaxa,ou estará
+	Mas relaxa, ou estará
 	exausto quando che-
 	garmos na Ameropa.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"E aí,pronto pra ir?"
+	"E aí, pronto pra ir?"
 	keyWait
 		any = false
 	clearMsg
@@ -127,7 +127,7 @@ script 5 mmbn4 {
 	msgOpen
 	"""
 	Eu tava tão ansioso
-	pra hoje,MegaMan!
+	pra hoje, MegaMan!
 	"""
 	keyWait
 		any = false

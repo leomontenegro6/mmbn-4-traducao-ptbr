@@ -49,7 +49,7 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Tô,tô bem."
+	"Tô, tô bem."
 	keyWait
 		any = false
 	clearMsg
@@ -95,8 +95,8 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Bom,de qualquer
-	jeito,toma cuidado
+	Bom, de qualquer
+	jeito, toma cuidado
 	com essas árvores!
 	"""
 	keyWait

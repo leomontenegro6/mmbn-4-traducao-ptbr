@@ -19,7 +19,7 @@ script 0 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Lan,cê foi incrível
+	Lan, cê foi incrível
 	lá no torneio!
 	"""
 	keyWait
@@ -150,7 +150,7 @@ script 12 mmbn4 {
 	"""
 	Parece que vão fazer
 	um parque temático
-	aqui,em DenCity!
+	aqui, em DenCity!
 	"""
 	keyWait
 		any = false
@@ -225,7 +225,7 @@ script 22 mmbn4 {
 	"""
 	Que legal!
 	Bem que eu queria
-	ir,também!
+	ir, também!
 	"""
 	keyWait
 		any = false
@@ -325,7 +325,7 @@ script 31 mmbn4 {
 	clearMsg
 	"""
 	Acho que pode ser
-	acirrado,viu?
+	acirrado, viu?
 	Até pra você!
 	"""
 	keyWait
@@ -442,7 +442,7 @@ script 34 mmbn4 {
 	clearMsg
 	"""
 	Acho que pode ser
-	acirrado,viu?
+	acirrado, viu?
 	Até pra você!
 	"""
 	keyWait
@@ -498,7 +498,7 @@ script 41 mmbn4 {
 	clearMsg
 	"""
 	E você pretende
-	ganhar o torneio,né?
+	ganhar o torneio, né?
 	"""
 	keyWait
 		any = false
@@ -509,7 +509,7 @@ script 42 mmbn4 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Então,o pessoal
+	Então, o pessoal
 	esquisito era da...
 	"""
 	keyWait
@@ -602,7 +602,7 @@ script 45 mmbn4 {
 	clearMsg
 	"""
 	E você pretende
-	ganhar o torneio,né?
+	ganhar o torneio, né?
 	"""
 	keyWait
 		any = false
@@ -618,14 +618,14 @@ script 50 mmbn4 {
 	"""
 	Lan! Cê tá
 	competindo no
-	Torneio Águia,né?!
+	Torneio Águia, né?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Eu não vou poder
-	competir,mas tô
+	competir, mas tô
 	torcendo por você!
 	"""
 	keyWait
@@ -653,9 +653,9 @@ script 52 mmbn4 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Primeiro,o Torneio
-	de Batalha Den,e
-	agora,o Águia?
+	Primeiro, o Torneio
+	de Batalha Den, e
+	agora, o Águia?
 	"""
 	keyWait
 		any = false
@@ -675,7 +675,7 @@ script 53 mmbn4 {
 	clearMsg
 	"""
 	Queria poder
-	competir,também...
+	competir, também...
 	"""
 	keyWait
 		any = false
@@ -688,14 +688,14 @@ script 54 mmbn4 {
 	"""
 	Lan! Cê tá
 	competindo no
-	torneio,né?!
+	torneio, né?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Eu não vou poder
-	competir,mas tô
+	competir, mas tô
 	torcendo por você!
 	"""
 	keyWait
@@ -707,8 +707,8 @@ script 55 mmbn4 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Primeiro,a Batalha
-	da Cidade,e agora,
+	Primeiro, a Batalha
+	da Cidade, e agora,
 	o Falcão?
 	"""
 	keyWait
@@ -774,7 +774,7 @@ script 62 mmbn4 {
 	"""
 	... mas eu não sou
 	muito fã dessa coisa
-	de lutas,não...
+	de lutas, não...
 	"""
 	keyWait
 		any = false
@@ -801,7 +801,7 @@ script 63 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	É isso: hoje,eu
+	É isso: hoje, eu
 	começo a treinar pro
 	próximo torneio de
 	"""
@@ -856,7 +856,7 @@ script 72 mmbn4 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	É tão triste,não
+	É tão triste, não
 	poder fazer parte da
 	curtição...
 	"""
@@ -911,7 +911,7 @@ script 100 mmbn4 {
 		mugshot = OldWomanAlt
 	msgOpen
 	"""
-	Ei,garoto... Quer
+	Ei, garoto... Quer
 	uma "
 	"""
 	printFolderName
@@ -930,7 +930,7 @@ script 100 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	mas,às vezes,usar
+	mas, às vezes, usar
 	pastas fracas é
 	bom para treinar!
 	"""
@@ -938,7 +938,7 @@ script 100 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Se quiser,esta aqui
+	Se quiser, esta aqui
 	é sua...
 	"""
 	keyWait
@@ -1004,7 +1004,7 @@ script 101 mmbn4 {
 	mugshotShow
 		mugshot = OldWomanAlt
 	msgOpen
-	"Certo,então..."
+	"Certo, então..."
 	keyWait
 		any = false
 	clearMsg
@@ -1048,7 +1048,7 @@ script 101 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Agora,sua PastaExtra
+	Agora, sua PastaExtra
 	é a "
 	"""
 	printFolderName
@@ -1072,7 +1072,7 @@ script 102 mmbn4 {
 	mugshotShow
 		mugshot = OldWomanAlt
 	msgOpen
-	"Certo,então..."
+	"Certo, então..."
 	keyWait
 		any = false
 	clearMsg
@@ -1116,7 +1116,7 @@ script 102 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Agora,sua PastaExtra
+	Agora, sua PastaExtra
 	é a "
 	"""
 	printFolderName
@@ -1135,7 +1135,7 @@ script 103 mmbn4 {
 	mugshotShow
 		mugshot = OldWomanAlt
 	msgOpen
-	"Certo,então..."
+	"Certo, então..."
 	keyWait
 		any = false
 	clearMsg
@@ -1179,7 +1179,7 @@ script 103 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Agora,sua PastaExtra
+	Agora, sua PastaExtra
 	é a "
 	"""
 	printFolderName
@@ -1210,7 +1210,7 @@ script 104 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Claro,mas vai apagar
+	Claro, mas vai apagar
 	a sua pasta atual...
 	"""
 	keyWait
@@ -1256,7 +1256,7 @@ script 104 mmbn4 {
 	mugshotShow
 		mugshot = OldWomanAlt
 	"""
-	Se mudar de ideia,é
+	Se mudar de ideia, é
 	só falar comigo...
 	"""
 	keyWait
@@ -1332,7 +1332,7 @@ script 220 mmbn4 {
 }
 script 221 mmbn4 {
 	clearMsg
-	"\"Quem se prepara,\n não tem com o que\n se preocupar.\""
+	"\"Quem se prepara, \n não tem com o que\n se preocupar.\""
 	keyWait
 		any = false
 	clearMsg

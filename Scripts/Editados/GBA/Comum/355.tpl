@@ -27,7 +27,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	de guarda aqui,de
+	de guarda aqui, de
 	olho em intrusos da
 	Rede.
 	"""
@@ -36,7 +36,7 @@ script 0 mmbn4 {
 	clearMsg
 	"""
 	Você pode passar
-	pelo portal,mas vai
+	pelo portal, mas vai
 	precisar do meu
 	"""
 	keyWait
@@ -63,7 +63,7 @@ script 0 mmbn4 {
 		buffer = 0
 		item = 149
 	"""
-	",terá de
+	", terá de
 	passar em uma prova.
 	"""
 	keyWait
@@ -109,7 +109,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	"""
-	Então,é só um turis-
+	Então, é só um turis-
 	ta mesmo? Pois volte
 	pro mundo real.
 	"""
@@ -133,7 +133,7 @@ script 1 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Se você sobreviver,\nvocê passa!"
+	"Se você sobreviver, \nvocê passa!"
 	keyWait
 		any = false
 	flagSet
@@ -145,7 +145,7 @@ script 2 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Então,vai encarar
+	Então, vai encarar
 	a provação?
 	"""
 	keyWait
@@ -207,7 +207,7 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Contudo,sem uma
+	Contudo, sem uma
 	alma igualmente
 	forte,
 	"""
@@ -239,7 +239,7 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Disso,eu tenho
+	Disso, eu tenho
 	certeza. Tome.
 	"""
 	keyWait

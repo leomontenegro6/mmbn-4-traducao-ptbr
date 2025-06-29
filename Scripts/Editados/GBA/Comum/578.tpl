@@ -121,7 +121,7 @@ script 7 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Ah,não!"
+	"Ah, não!"
 	keyWait
 		any = false
 	end
@@ -207,7 +207,7 @@ script 13 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hmmm... Então,o
+	Hmmm... Então, o
 	último dispositivo
 	tá aqui?
 	"""
@@ -268,7 +268,7 @@ script 17 mmbn4 {
 		mugshot = Lan
 	"""
 	Tá. Vou me conectar,
-	então,me diz o que
+	então, me diz o que
 	eu preciso saber.
 	"""
 	keyWait
@@ -290,7 +290,7 @@ script 18 mmbn4 {
 script 19 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"MegaMan,vamos lá!"
+	"MegaMan, vamos lá!"
 	keyWait
 		any = false
 	clearMsg

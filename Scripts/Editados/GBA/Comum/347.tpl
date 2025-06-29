@@ -26,7 +26,7 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	"""
 	Concordo!
-	Vamos,Lan!
+	Vamos, Lan!
 	"""
 	keyWait
 		any = false
@@ -51,7 +51,7 @@ script 10 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	VRIUR,VRIUR,VRIUR!
+	VRIUR, VRIUR, VRIUR!
 	EU ADORO GIRAR!
 	"""
 	keyWait
@@ -59,7 +59,7 @@ script 10 mmbn4 {
 	clearMsg
 	"""
 	POR QUE GIRAR?
-	ORA,PORQUE EU SOU
+	ORA, PORQUE EU SOU
 	UM PROGRAMA PIÃO!
 	"""
 	keyWait

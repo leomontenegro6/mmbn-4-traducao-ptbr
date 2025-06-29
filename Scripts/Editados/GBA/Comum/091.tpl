@@ -89,7 +89,7 @@ script 5 mmbn4 {
 	"""
 	Os fogões também são
 	quentes aí no
-	cibernético,MegaMan?
+	cibernético, MegaMan?
 	"""
 	keyWait
 		any = false
@@ -121,7 +121,7 @@ script 7 mmbn4 {
 	"""
 	Uma fritadeira! Não
 	vai escorregar em
-	mostarda,hein!
+	mostarda, hein!
 	"""
 	keyWait
 		any = false
@@ -180,7 +180,7 @@ script 12 mmbn4 {
 	"""
 	Quem diria que dava
 	pra se conectar
-	nessa estátua,né?
+	nessa estátua, né?
 	"""
 	keyWait
 		any = false
@@ -191,7 +191,7 @@ script 13 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Isso aí não é,tipo,
+	Isso aí não é, tipo,
 	uma divindade? Tudo
 	bem mesmo estar aí?
 	"""
@@ -205,7 +205,7 @@ script 14 mmbn4 {
 	msgOpen
 	"""
 	Espero que aí tenha
-	ar... Pera,EXISTE
+	ar... Pera, EXISTE
 	ar no ciberespaço?
 	"""
 	keyWait
@@ -246,7 +246,7 @@ script 17 mmbn4 {
 	msgOpen
 	"""
 	Não existe
-	"cyber-leão",existe?
+	"cyber-leão", existe?
 	"""
 	keyWait
 		any = false
@@ -267,7 +267,7 @@ script 19 mmbn4 {
 	msgOpen
 	"""
 	Jogos velhos são
-	legais,mas console
+	legais, mas console
 	novo é vida!
 	"""
 	keyWait
@@ -279,7 +279,7 @@ script 20 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Aproveitando,pega aí
+	Aproveitando, pega aí
 	um refri grátis pra
 	mim? ... É zoeira!
 	"""
@@ -322,7 +322,7 @@ script 27 mmbn4 {
 	msgOpen
 	"""
 	Graças a esta casi-
-	nha,nossa casa fica
+	nha, nossa casa fica
 	protegida... Acho.
 	"""
 	keyWait
@@ -424,7 +424,7 @@ script 39 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Pega-pega,é? Bom,
+	Pega-pega, é? Bom,
 	acho que não temos
 	muita escolha...
 	"""
@@ -471,8 +471,8 @@ script 42 mmbn4 {
 	msgOpen
 	"""
 	A Roll é rápida
-	mesmo,né?
-	Boa sorte,MegaMan!
+	mesmo, né?
+	Boa sorte, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -483,7 +483,7 @@ script 43 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,desconecta!
+	MegaMan, desconecta!
 	A gente tem que ir
 	pro castelo!
 	"""

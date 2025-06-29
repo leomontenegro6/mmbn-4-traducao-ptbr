@@ -94,7 +94,7 @@ script 1 mmbn4 {
 		mugshot = MegaMan
 	"""
 	Nunca!
-	Certo,vamos lá!
+	Certo, vamos lá!
 	"""
 	keyWait
 		any = false
@@ -111,7 +111,7 @@ script 2 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Chaud,tem uma
+	Chaud, tem uma
 	porta aqui também!
 	"""
 	keyWait
@@ -121,7 +121,7 @@ script 2 mmbn4 {
 	printItem
 		buffer = 0
 		item = 114
-	",\n "
+	", \n "
 	printItem
 		buffer = 0
 		item = 115
@@ -159,7 +159,7 @@ script 2 mmbn4 {
 		mugshot = MegaMan
 	"""
 	9 ossos...?
-	Tá,eu vou lá achar!
+	Tá, eu vou lá achar!
 	"""
 	keyWait
 		any = false

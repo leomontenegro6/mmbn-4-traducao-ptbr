@@ -40,7 +40,7 @@ script 2 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Passando aqui,você
+	Passando aqui, você
 	chega em uma Rede
 	estrangeira...
 	"""
@@ -74,7 +74,7 @@ script 5 mmbn4 {
 	"""
 	... Mas acho que
 	ninguém pode entrar
-	lá,por ora...
+	lá, por ora...
 	"""
 	keyWait
 		any = false
@@ -94,7 +94,7 @@ script 10 mmbn4 {
 	clearMsg
 	"""
 	Tem horas que eu
-	odeio ser Navi,viu?!
+	odeio ser Navi, viu?!
 	"""
 	keyWait
 		any = false
@@ -117,7 +117,7 @@ script 40 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Então,é desse
+	Então, é desse
 	torneio nacional de
 	que tá todo mundo
 	"""
@@ -182,8 +182,8 @@ script 43 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Bom,já chegou até
-	aqui,né? Agora,
+	Bom, já chegou até
+	aqui, né? Agora,
 	ganha o ouro!
 	"""
 	keyWait
@@ -235,7 +235,7 @@ script 50 mmbn4 {
 	"""
 	Você tá aqui pra
 	levar a Roll de
-	volta,né?!
+	volta, né?!
 	"""
 	keyWait
 		any = false

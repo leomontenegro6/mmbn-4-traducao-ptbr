@@ -25,7 +25,7 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = Dex
-	"Uff,uff..."
+	"Uff, uff..."
 	keyWait
 		any = false
 	clearMsg
@@ -43,7 +43,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Por aqui,não.
+	Por aqui, não.
 	Não vai dizer que...
 	"""
 	keyWait
@@ -85,7 +85,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Calma,Dex.
+	Calma, Dex.
 	Não deve ser...
 	"""
 	keyWait
@@ -109,7 +109,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,chegou e-mail!"
+	"Lan, chegou e-mail!"
 	keyWait
 		any = false
 	clearMsg
@@ -145,7 +145,7 @@ script 8 mmbn4 {
 	soundPlayBGM
 		track = 11
 	"""
-	Ah,não... Não
+	Ah, não... Não
 	acredito que isso
 	foi acontecer...
 	"""
@@ -153,7 +153,7 @@ script 8 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Chisao,cadê vocêêê?!
+	Chisao, cadê vocêêê?!
 	"""
 	keyWait
 		any = false
@@ -212,7 +212,7 @@ script 11 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Calma,Dex!
+	Calma, Dex!
 	O e-mail também diz:
 	"Só há uma condição:
 	"""
@@ -223,7 +223,7 @@ script 11 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	" interferir,o refém\n morre.\""
+	" interferir, o refém\n morre.\""
 	keyWait
 		any = false
 	clearMsg
@@ -269,7 +269,7 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Dex,pela última vez:
+	Dex, pela última vez:
 	calma! Eu vou
 	encontrar ele!
 	"""
@@ -300,7 +300,7 @@ script 16 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,lê o resto.
+	MegaMan, lê o resto.
 	"""
 	keyWait
 		any = false
@@ -327,7 +327,7 @@ script 17 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	" Se conseguir deci-\n frá-la,o caminho\n será revelado...\""
+	" Se conseguir deci-\n frá-la, o caminho\n será revelado...\""
 	keyWait
 		any = false
 	end
@@ -377,7 +377,7 @@ script 20 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,primeiro,eu
+	Mas, primeiro, eu
 	tenho que decifrar
 	essa pista.
 	"""

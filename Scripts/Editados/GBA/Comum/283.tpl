@@ -12,7 +12,7 @@ script 10 mmbn4 {
 	"""
 	Você lutou
 	maravilhosamente!
-	Bravo,rapaz!
+	Bravo, rapaz!
 	"""
 	keyWait
 		any = false

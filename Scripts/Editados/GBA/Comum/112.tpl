@@ -11,7 +11,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Aqui,amigos podem
+	Aqui, amigos podem
 	trocar informações
 	ou NetLutar.
 	"""
@@ -34,7 +34,7 @@ script 2 mmbn4 {
 	msgOpen
 	"""
 	Chips de vários
-	tipos,cuidadosamente
+	tipos, cuidadosamente
 	organizados.
 	"""
 	keyWait
@@ -586,7 +586,7 @@ script 27 mmbn4 {
 	"""
 	Registrarei esse
 	último número como
-	não usado,então.
+	não usado, então.
 	"""
 	keyWait
 		any = false
@@ -690,7 +690,7 @@ script 30 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	No NaviCust,use
+	No NaviCust, use
 	L e R para girar
 	peças vermelhas
 	"""
@@ -722,7 +722,7 @@ script 31 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	No NaviCust,use
+	No NaviCust, use
 	L e R para girar
 	peças azuis de
 	"""
@@ -754,7 +754,7 @@ script 32 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	No NaviCust,use
+	No NaviCust, use
 	L e R para girar
 	peças verdes de
 	"""
@@ -786,7 +786,7 @@ script 33 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	No NaviCust,use
+	No NaviCust, use
 	L e R para girar
 	peças brancas de
 	"""

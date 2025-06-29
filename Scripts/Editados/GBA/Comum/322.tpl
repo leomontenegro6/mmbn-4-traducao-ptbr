@@ -245,15 +245,15 @@ script 11 mmbn4 {
 	msgOpen
 	"""
 	Parece que NetLutas
-	cabem,majoritaria-
-	mente,ao operador...
+	cabem, majoritaria-
+	mente, ao operador...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Se o operador for
-	ruim,então não im-
+	ruim, então não im-
 	porta o Navi usado,
 	"""
 	keyWait
@@ -300,9 +300,9 @@ script 12 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Antes,eu pensava que
+	Antes, eu pensava que
 	força e técnica eram
-	vitais,mas...
+	vitais, mas...
 	"""
 	keyWait
 		any = false
@@ -310,7 +310,7 @@ script 12 mmbn4 {
 	"""
 	Os chips são tudo!
 	Quem tiver os melho-
-	res chips,vence!
+	res chips, vence!
 	"""
 	keyWait
 		any = false
@@ -330,8 +330,8 @@ script 15 mmbn4 {
 	clearMsg
 	"""
 	Aprimorar os poderes
-	do Navi em si,de-
-	certo,é importante!
+	do Navi em si, de-
+	certo, é importante!
 	"""
 	keyWait
 		any = false
@@ -350,7 +350,7 @@ script 16 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Nesse caso,cabe ao
+	Nesse caso, cabe ao
 	Navi vencer a luta!
 	"""
 	keyWait
@@ -391,7 +391,7 @@ script 20 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Hmmm... De fato,eli-
+	Hmmm... De fato, eli-
 	minar inimigos rápi-
 	do é importante...
 	"""
@@ -407,7 +407,7 @@ script 20 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E,é,usar chips
+	E, é, usar chips
 	fortes é uma forma
 	de vencer rápido.
 	"""
@@ -420,7 +420,7 @@ script 21 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Não,não! Não importa
+	Não, não! Não importa
 	o quão forte for o
 	chip...
 	"""
@@ -429,7 +429,7 @@ script 21 mmbn4 {
 	clearMsg
 	"""
 	Se ele não atingir
-	o adversário,você
+	o adversário, você
 	só desperdiça!
 	"""
 	keyWait

@@ -31,7 +31,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ai,aquele Navi
+	Ai, aquele Navi
 	Roxo! Ele vai se
 	ver comigo!!
 	"""
@@ -91,14 +91,14 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"Ah,oi,Lan!"
+	"Ah, oi, Lan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Você devia se
 	conectar logo na
-	Rede,também.
+	Rede, também.
 	"""
 	keyWait
 		any = false
@@ -139,7 +139,7 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	É,vamos ter que
+	É, vamos ter que
 	ficar espertos na
 	Rede...
 	"""
@@ -238,7 +238,7 @@ script 15 mmbn4 {
 	"""
 	Você vai competir
 	nas preliminares?
-	Bom,boa sorte!
+	Bom, boa sorte!
 	"""
 	keyWait
 		any = false
@@ -331,7 +331,7 @@ script 19 mmbn4 {
 	"""
 	Você vai competir
 	nas preliminares?
-	Bom,boa sorte!
+	Bom, boa sorte!
 	"""
 	keyWait
 		any = false
@@ -361,8 +361,8 @@ script 20 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Bom,não vai se
-	machucar,viu?
+	Bom, não vai se
+	machucar, viu?
 	"""
 	keyWait
 		any = false

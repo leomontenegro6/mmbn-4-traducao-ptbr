@@ -7,7 +7,7 @@ script 10 mmbn4 {
 	"""
 	ESTE HERÓI DESCONHE-
 	CIDO MONITORA AS
-	RUÍNAS,SEMPRE
+	RUÍNAS, SEMPRE
 	"""
 	keyWait
 		any = false
@@ -114,7 +114,7 @@ script 130 mmbn4 {
 	clearMsg
 	"""
 	Se ainda não tá
-	pronto,não vem
+	pronto, não vem
 	encher o saco!
 	"""
 	keyWait
@@ -148,7 +148,7 @@ script 132 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	OK,escuta aqui,mané!
+	OK, escuta aqui, mané!
 	Vou dar as regras do
 	FuteBomba.
 	"""
@@ -193,7 +193,7 @@ script 132 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Como atacante,use os
+	Como atacante, use os
 	direcionais para
 	escolher
 	"""
@@ -223,8 +223,8 @@ script 132 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Se a bola entra,ela
-	explode,ferindo o
+	Se a bola entra, ela
+	explode, ferindo o
 	goleiro.
 	"""
 	keyWait
@@ -314,7 +314,7 @@ script 132 mmbn4 {
 	clearMsg
 	"""
 	Se ainda não tá
-	pronto,não vem
+	pronto, não vem
 	encher o saco!
 	"""
 	keyWait

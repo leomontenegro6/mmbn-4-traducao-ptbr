@@ -10,7 +10,7 @@ script 0 mmbn4 {
 	clearMsg
 	"""
 	para desenvolver
-	ACDC ainda mais,umas
+	ACDC ainda mais, umas
 	poucas árvores...
 	"""
 	keyWait
@@ -23,7 +23,7 @@ script 1 mmbn4 {
 	soundStopBGM
 	mugshotHide
 	"""
-	Ô,garoto!
+	Ô, garoto!
 	Não pode entrar
 	aqui!!
 	"""
@@ -74,7 +74,7 @@ script 4 mmbn4 {
 	"""
 	Por que está inter-
 	rompendo o meu lindo
-	discurso,rapazinho?
+	discurso, rapazinho?
 	"""
 	keyWait
 		any = false
@@ -111,7 +111,7 @@ script 7 mmbn4 {
 	"Conectar!!"
 	wait
 		frames = 10
-	"\nMegaMan.EXE,\ntransmissão!"
+	"\nMegaMan.EXE, \ntransmissão!"
 	wait
 		frames = 30
 	controlUnlock

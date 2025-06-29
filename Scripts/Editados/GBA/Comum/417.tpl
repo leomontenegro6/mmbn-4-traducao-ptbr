@@ -35,7 +35,7 @@ script 5 mmbn4 {
 	msgOpen
 	"""
 	PARECE ATÉ QUE EU
-	VOU CAIR,NÉ?
+	VOU CAIR, NÉ?
 	"""
 	keyWait
 		any = false
@@ -48,7 +48,7 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	AH,EU AMO ESTA
+	AH, EU AMO ESTA
 	ADRENALINA!
 	"""
 	keyWait
@@ -105,7 +105,7 @@ script 30 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Então,você está
+	Então, você está
 	atrás de Pontos de
 	Batalha?
 	"""
@@ -175,7 +175,7 @@ script 30 mmbn4 {
 	mugshotShow
 		mugshot = NaviGirlOrange
 	"""
-	Sei... Então,vou dar
+	Sei... Então, vou dar
 	eles pra outra
 	pessoa!
 	"""
@@ -206,8 +206,8 @@ script 31 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Bem,aqui estão os
-	pontos,então!
+	Bem, aqui estão os
+	pontos, então!
 	"""
 	keyWait
 		any = false
@@ -295,7 +295,7 @@ script 34 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	Então,troca comigo
+	Então, troca comigo
 	um "
 	"""
 	printChip
@@ -347,7 +347,7 @@ script 34 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = NaviGirlOrange
-	"Sei... Ai,ai..."
+	"Sei... Ai, ai..."
 	keyWait
 		any = false
 	end
@@ -357,7 +357,7 @@ script 40 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Oi,mocinho! Sou um
+	Oi, mocinho! Sou um
 	turista vindo da
 	Ameropa!
 	"""
@@ -365,7 +365,7 @@ script 40 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	País bonito,este
+	País bonito, este
 	aqui de vocês!
 	"""
 	keyWait
@@ -379,7 +379,7 @@ script 41 mmbn4 {
 	"""
 	Nossa! Olha só quan-
 	ta coisa legal tem
-	aqui,em Ni-Hon!
+	aqui, em Ni-Hon!
 	"""
 	keyWait
 		any = false
@@ -482,9 +482,9 @@ script 51 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	He,he...
-	É,pode rir...
-	Ri,vai...
+	He, he...
+	É, pode rir...
+	Ri, vai...
 	"""
 	keyWait
 		any = false
@@ -505,8 +505,8 @@ script 52 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Ei,cê tá pra lutar
-	no torneio,né?
+	Ei, cê tá pra lutar
+	no torneio, né?
 	"""
 	keyWait
 		any = false
@@ -589,7 +589,7 @@ script 130 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Bom,ouvi falar que
+	Bom, ouvi falar que
 	esses negócios são
 	bem raros...
 	"""
@@ -643,7 +643,7 @@ script 130 mmbn4 {
 		]
 	clearMsg
 	"""
-	Bom,então eu não dou
+	Bom, então eu não dou
 	o meu "
 	"""
 	printItem
@@ -670,8 +670,8 @@ script 131 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Ah,cê tem um!
-	Bom,vou pegar ele,
+	Ah, cê tem um!
+	Bom, vou pegar ele,
 	então...
 	"""
 	keyWait
@@ -680,7 +680,7 @@ script 131 mmbn4 {
 	"""
 	Eu tava procurando
 	por esse chip...
-	Bom,toma aí!
+	Bom, toma aí!
 	"""
 	keyWait
 		any = false
@@ -733,7 +733,7 @@ script 132 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Enfim,eu não te dou
+	Enfim, eu não te dou
 	isto até cê me dar o
 	chip.
 	"""
@@ -750,7 +750,7 @@ script 133 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Então,vai trocar um
+	Então, vai trocar um
 	"Guard1 A" por este
 	"
 	"""
@@ -794,7 +794,7 @@ script 133 mmbn4 {
 		]
 	clearMsg
 	"""
-	Bom,então eu não dou
+	Bom, então eu não dou
 	o meu "
 	"""
 	printItem
@@ -933,7 +933,7 @@ script 240 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviPink
-	"Credo. Tá,né...?"
+	"Credo. Tá, né...?"
 	keyWait
 		any = false
 	end
@@ -1001,7 +1001,7 @@ script 242 mmbn4 {
 	"""
 	Não faço fiado. O
 	vendedor também tem
-	que comer,sabe?
+	que comer, sabe?
 	"""
 	keyWait
 		any = false

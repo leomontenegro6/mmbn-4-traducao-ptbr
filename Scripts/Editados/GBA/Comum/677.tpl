@@ -7,7 +7,7 @@ script 0 mmbn4 {
 	"""
 	'Smaga 3 pedras com
 	osh punhos em 20
-	segundo,aí fala
+	segundo, aí fala
 	"""
 	keyWait
 		any = false

@@ -190,7 +190,7 @@ script 12 mmbn4 {
 	"""
 	Quem diria que dava
 	pra se conectar
-	nessa estátua,né?
+	nessa estátua, né?
 	"""
 	keyWait
 		any = false
@@ -201,7 +201,7 @@ script 13 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Isso aí não é,tipo,
+	Isso aí não é, tipo,
 	uma divindade? Tudo
 	bem mesmo estar aí?
 	"""
@@ -215,7 +215,7 @@ script 14 mmbn4 {
 	msgOpen
 	"""
 	Espero que aí tenha
-	ar... Pera,EXISTE
+	ar... Pera, EXISTE
 	ar no ciberespaço?
 	"""
 	keyWait
@@ -260,7 +260,7 @@ script 17 mmbn4 {
 	msgOpen
 	"""
 	Não existe
-	"cyber-leão",existe?
+	"cyber-leão", existe?
 	"""
 	keyWait
 		any = false
@@ -313,7 +313,7 @@ script 22 mmbn4 {
 	"""
 	Uma fritadeira! Não
 	vai escorregar em
-	mostarda,hein!
+	mostarda, hein!
 	"""
 	keyWait
 		any = false
@@ -366,7 +366,7 @@ script 26 mmbn4 {
 	msgOpen
 	"""
 	Graças a esta casi-
-	nha,nossa casa fica
+	nha, nossa casa fica
 	protegida... Acho.
 	"""
 	keyWait
@@ -380,7 +380,7 @@ script 27 mmbn4 {
 	"""
 	Os fogões também são
 	quentes no ciberné-
-	tico,MegaMan?
+	tico, MegaMan?
 	"""
 	keyWait
 		any = false
@@ -398,7 +398,7 @@ script 28 mmbn4 {
 	msgOpen
 	"""
 	Jogos velhos são
-	legais,mas console
+	legais, mas console
 	novo é vida!
 	"""
 	keyWait
@@ -410,7 +410,7 @@ script 29 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Aproveitando,pega aí
+	Aproveitando, pega aí
 	um refri grátis pra
 	mim? ... É zoeira!
 	"""
@@ -433,7 +433,7 @@ script 30 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Vamos logo,MegaMan!
+	Vamos logo, MegaMan!
 	Bora comprar o
 	"
 	"""
@@ -487,7 +487,7 @@ script 33 mmbn4 {
 	msgOpen
 	"""
 	Vamos dar uma volta
-	por aqui e,depois,
+	por aqui e, depois,
 	desconectar!
 	"""
 	keyWait
@@ -524,7 +524,7 @@ script 36 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Desconecta,MegaMan!
+	Desconecta, MegaMan!
 	Vamos pra ACDC!
 	"""
 	keyWait
@@ -602,7 +602,7 @@ script 42 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Desconecta,MegaMan!"
+	"Desconecta, MegaMan!"
 	keyWait
 		any = false
 	end
@@ -934,7 +934,7 @@ script 92 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Desconecta,MegaMan!
+	Desconecta, MegaMan!
 	A gente tem que
 	salvar a Roll!
 	"""

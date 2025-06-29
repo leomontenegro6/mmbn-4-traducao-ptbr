@@ -50,7 +50,7 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	a primeira postando!
-	Ei,como tá o Secador
+	Ei, como tá o Secador
 	Tornado que você
 	"""
 	keyWait
@@ -74,7 +74,7 @@ script 2 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	E aí,Yai?! Tô vendo
+	E aí, Yai?! Tô vendo
 	que cê montou seu
 	próprio Fórum.
 	"""
@@ -82,7 +82,7 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Aliás,eu criei um
+	Aliás, eu criei um
 	na minha página pra
 	falar de lutas.
 	"""
@@ -90,7 +90,7 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Vai lá,eu te inicio
+	Vai lá, eu te inicio
 	na arte de deletar
 	vírus!
 	"""
@@ -106,7 +106,7 @@ script 3 mmbn4 {
 	positionArrow
 		left = 202
 		top = 108
-	"Obrigada por virem,\namigos!"
+	"Obrigada por virem, \namigos!"
 	keyWait
 		any = false
 	clearMsg
@@ -128,7 +128,7 @@ script 3 mmbn4 {
 	clearMsg
 	"""
 	E obrigada a você
-	também,Dex! Eu
+	também, Dex! Eu
 	visitei a sua
 	"""
 	keyWait
@@ -154,7 +154,7 @@ script 4 mmbn4 {
 	"""
 	Guuuuts! O papel de
 	parede do Dex pode
-	ser brega,mas é
+	ser brega, mas é
 	"""
 	keyWait
 		any = false
@@ -201,7 +201,7 @@ script 6 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Oi,Yai! Foi ótimo
+	Oi, Yai! Foi ótimo
 	te ver no baile.
 	Como está o Glide?
 	"""
@@ -218,7 +218,7 @@ script 6 mmbn4 {
 	clearMsg
 	"""
 	só tem aumentado na
-	Rede. Por favor,se
+	Rede. Por favor, se
 	cuide.
 	"""
 	keyWait
@@ -234,7 +234,7 @@ script 7 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Oi,Yai! Aquele
+	Oi, Yai! Aquele
 	ataque de Navi foi
 	sinistro! E falando
 	"""
@@ -242,7 +242,7 @@ script 7 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	em sinistro,você
+	em sinistro, você
 	ouviu o boato sobre
 	os Navis fantasma?
 	"""
@@ -275,7 +275,7 @@ script 8 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Oi,Nikaido! Sou Dex,
+	Oi, Nikaido! Sou Dex,
 	amigo da Yai! Esse
 	papo de fantasma aí
 	"""
@@ -316,7 +316,7 @@ script 9 mmbn4 {
 	clearMsg
 	"""
 	mandar revirar a
-	Rede,eu não vou
+	Rede, eu não vou
 	dar pra trás!
 	"""
 	keyWait
@@ -340,7 +340,7 @@ script 10 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Oi,Dex! Nikaido
+	Oi, Dex! Nikaido
 	aqui! Um dos boatos
 	diz que os fantasmas
 	"""
@@ -350,13 +350,13 @@ script 10 mmbn4 {
 	"""
 	são ilusões geradas
 	pela sua própria
-	mente,então,pra
+	mente, então, pra
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	vencê-los,você
+	vencê-los, você
 	precisa superar os
 	seus próprios medos.
 	"""
@@ -373,7 +373,7 @@ script 11 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Oi,Nikaido! Parece
+	Oi, Nikaido! Parece
 	que você e o Dex
 	são bem compatíveis!
 	"""
@@ -420,8 +420,8 @@ script 12 mmbn4 {
 	clearMsg
 	"""
 	aqui mesmo no meu
-	país,Ni-Hon!
-	Ah,moleque!
+	país, Ni-Hon!
+	Ah, moleque!
 	"""
 	keyWait
 		any = false
@@ -446,7 +446,7 @@ script 13 mmbn4 {
 	"""
 	mundo aqui assistir
 	e fazer a audiência
-	bater recordes,viu!
+	bater recordes, viu!
 	"""
 	keyWait
 		any = false
@@ -463,7 +463,7 @@ script 14 mmbn4 {
 	"""
 	É a competição em
 	que o Lan tá
-	participando,né?
+	participando, né?
 	"""
 	keyWait
 		any = false
@@ -480,7 +480,7 @@ script 14 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Boa sorte,Lan!"
+	"Boa sorte, Lan!"
 	keyWait
 		any = false
 	waitHold
@@ -504,7 +504,7 @@ script 15 mmbn4 {
 	"""
 	não vencemos! Não
 	vai perder pra
-	ninguém,Lan!
+	ninguém, Lan!
 	"""
 	keyWait
 		any = false

@@ -11,20 +11,20 @@ script 0 mmbn4 {
 	"""
 	Eu corri lá dá
 	Praça Marchen pra
-	cá,então tô meio
+	cá, então tô meio
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	cansada.
-	Desculpa,gente!
+	Desculpa, gente!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Enfim,os
+	Enfim, os
 	competidores
 	estão aqui!
 	"""
@@ -32,7 +32,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Primeiro,o NetLuta-
+	Primeiro, o NetLuta-
 	dor do fundamental,
 	Lan Hikari!
 	"""
@@ -110,7 +110,7 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Certo,então,
+	Certo, então,
 	vamos começar!
 	"""
 	keyWait

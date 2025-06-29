@@ -92,8 +92,8 @@ script 0 mmbn4 {
 	clearMsg
 	"""
 	Sei que pareço
-	suspeito,mas eu sou
-	bonzinho,é sério!
+	suspeito, mas eu sou
+	bonzinho, é sério!
 	"""
 	keyWait
 		any = false
@@ -117,14 +117,14 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	As RuínasSabo vão
-	durar mais,graças
+	durar mais, graças
 	ao seu apoio!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Por favor,aceite
+	Por favor, aceite
 	isto em nome de
 	todos nós!
 	"""
@@ -166,7 +166,7 @@ script 2 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Desculpe,mas você
+	Desculpe, mas você
 	não tem dinheiro o
 	bastante.
 	"""
@@ -174,7 +174,7 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Por favor,volte
+	Por favor, volte
 	quando tiver 6000
 	Zennys.
 	"""
@@ -259,7 +259,7 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	AQUI,DENTRO DO
+	AQUI, DENTRO DO
 	GRANDE BUDA,
 	"""
 	keyWait

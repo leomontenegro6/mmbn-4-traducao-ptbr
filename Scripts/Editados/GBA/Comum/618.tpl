@@ -55,7 +55,7 @@ script 3 mmbn4 {
 	clearMsg
 	"""
 	Pro DenDomo!
-	Vamos,MegaMan!
+	Vamos, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -93,7 +93,7 @@ script 6 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Por favor,mostre à
+	Por favor, mostre à
 	Yuko uma batalha
 	maravilhosa.
 	"""

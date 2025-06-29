@@ -43,7 +43,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Que foi,Lan? Cê
+	Que foi, Lan? Cê
 	tem agido estranho
 	a semana inteira.
 	"""
@@ -63,7 +63,7 @@ script 3 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	É,é o Chip das
+	É, é o Chip das
 	Trevas.
 	"""
 	keyWait
@@ -109,7 +109,7 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	MegaMan,cê tem se
+	MegaMan, cê tem se
 	sentido bem estes
 	dias?
 	"""
@@ -123,7 +123,7 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Aham,zero problemas.
+	Aham, zero problemas.
 	Tô saúde pura!
 	"""
 	keyWait
@@ -152,7 +152,7 @@ script 7 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Bom,mas onde a gente
+	Bom, mas onde a gente
 	pode ir pra se
 	livrar do chip?
 	"""
@@ -160,7 +160,7 @@ script 7 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	É perigoso,não
+	É perigoso, não
 	podemos largar ele
 	em qualquer canto...
 	"""
@@ -223,7 +223,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Oi,Mayl."
+	"Oi, Mayl."
 	keyWait
 		any = false
 	clearMsg
@@ -233,12 +233,12 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
-	"Não vem com essa de\n\"Oi,Mayl!\" pra cima\nde mim!"
+	"Não vem com essa de\n\"Oi, Mayl!\" pra cima\nde mim!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ultimamente,sempre
+	Ultimamente, sempre
 	que eu falo com você
 	na escola,
 	"""
@@ -300,7 +300,7 @@ script 14 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Lan,tá rolando uma
+	Lan, tá rolando uma
 	coisa bem legal lá
 	na Área Vila.
 	"""
@@ -317,7 +317,7 @@ script 14 mmbn4 {
 script 15 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Tá,vamos."
+	"Tá, vamos."
 	keyWait
 		any = false
 	clearMsg
@@ -343,7 +343,7 @@ script 17 mmbn4 {
 	"""
 	Eu posso me conectar
 	direto do meu
-	quarto,não posso?
+	quarto, não posso?
 	"""
 	keyWait
 		any = false
@@ -356,7 +356,7 @@ script 18 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Pode,mas é que eu
+	Pode, mas é que eu
 	tenho uma coisa pra
 	você.
 	"""
@@ -438,7 +438,7 @@ script 23 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	É,é o Chip das
+	É, é o Chip das
 	Trevas.
 	"""
 	keyWait

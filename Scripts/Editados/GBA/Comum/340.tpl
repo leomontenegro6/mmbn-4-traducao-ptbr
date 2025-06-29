@@ -35,7 +35,7 @@ script 10 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	EI,MEU JOVEM! MEUS
+	EI, MEU JOVEM! MEUS
 	CACHORROS-QUENTES
 	SÃO DIVINOS!
 	"""
@@ -106,7 +106,7 @@ script 160 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviPurple
-	"Pronto,peguei!"
+	"Pronto, peguei!"
 	keyWait
 		any = false
 	flagSet

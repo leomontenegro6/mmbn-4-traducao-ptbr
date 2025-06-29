@@ -13,14 +13,14 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	AQUI,USAMOS CARTÕES
+	AQUI, USAMOS CARTÕES
 	EM VEZ DE CHAVES!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	DITO ISSO,ESTA PORTA
+	DITO ISSO, ESTA PORTA
 	ANDA SEMPRE ABERTA.
 	QUE TÉDIO...
 	"""

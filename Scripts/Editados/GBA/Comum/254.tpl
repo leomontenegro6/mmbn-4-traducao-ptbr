@@ -54,7 +54,7 @@ script 1 mmbn4 {
 		mugshot = BlueShirtBoy
 	"""
 	Tá com pressa pra ir
-	pra cova,hein?!
+	pra cova, hein?!
 	"""
 	keyWait
 		any = false
@@ -68,7 +68,7 @@ script 5 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Pra gente,esta luta
+	Pra gente, esta luta
 	é mais importante
 	até que o
 	"""
@@ -105,7 +105,7 @@ script 7 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Pra gente,esta luta
+	Pra gente, esta luta
 	é mais importante
 	até que o
 	"""
@@ -157,8 +157,8 @@ script 11 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Então,cê quer
-	jogar sério,é?
+	Então, cê quer
+	jogar sério, é?
 	Tá bom...
 	"""
 	keyWait
@@ -183,7 +183,7 @@ script 15 mmbn4 {
 	msgOpen
 	"""
 	O quê?!
-	Tá bom,então!
+	Tá bom, então!
 	Barrier 100!!
 	"""
 	keyWait
@@ -279,7 +279,7 @@ script 25 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Nós,Oficiais,estamos
+	Nós, Oficiais, estamos
 	completamente sem
 	pistas!
 	"""
@@ -298,7 +298,7 @@ script 26 mmbn4 {
 	msgOpen
 	"""
 	Aquele cara ali é um
-	Oficial,né?
+	Oficial, né?
 	"""
 	keyWait
 		any = false

@@ -95,7 +95,7 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	QUE ME DISSE,E ELE
+	QUE ME DISSE, E ELE
 	NUNCA ERRA!
 	"""
 	keyWait

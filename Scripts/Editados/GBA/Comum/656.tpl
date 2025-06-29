@@ -19,7 +19,7 @@ script 0 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Primeiro,Lan Hikari!"
+	"Primeiro, Lan Hikari!"
 	keyWait
 		any = false
 	end
@@ -67,7 +67,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Ai,começou!"
+	"Ai, começou!"
 	keyWait
 		any = false
 	clearMsg
@@ -87,7 +87,7 @@ script 5 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	Ah,a luta já
+	Ah, a luta já
 	começou!
 	"""
 	keyWait
@@ -142,8 +142,8 @@ script 6 mmbn4 {
 		mugshot = Roll
 	"""
 	Se você pegar leve
-	comigo,eu não vou te
-	perdoar,Mega!
+	comigo, eu não vou te
+	perdoar, Mega!
 	"""
 	keyWait
 		any = false
@@ -225,7 +225,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Roll
 	msgOpen
-	"Lá vou eu,Mega!"
+	"Lá vou eu, Mega!"
 	keyWait
 		any = false
 	end

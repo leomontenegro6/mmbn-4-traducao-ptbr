@@ -9,9 +9,9 @@ script 0 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Castillo,o primeiro
+	Castillo, o primeiro
 	parque temático de
-	DenCity,está aqui!
+	DenCity, está aqui!
 	"""
 	keyWait
 		any = false
@@ -103,7 +103,7 @@ script 2 mmbn4 {
 	clearMsg
 	"""
 	sempre perde pro
-	Django,mas nunca
+	Django, mas nunca
 	desiste!
 	"""
 	keyWait
@@ -132,7 +132,7 @@ script 3 mmbn4 {
 	clearMsg
 	"""
 	não tivesse recebido
-	Emoção,não teria
+	Emoção, não teria
 	tido que sofrer!
 	"""
 	keyWait
@@ -196,7 +196,7 @@ script 5 mmbn4 {
 	positionArrow
 		left = 202
 		top = 108
-	"Eu gosto do\nMagoCão,é!"
+	"Eu gosto do\nMagoCão, é!"
 	keyWait
 		any = false
 	clearMsg
@@ -209,14 +209,14 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	dele,o MagoMacaco,
+	dele, o MagoMacaco,
 	pra salvar a cidade
 	do feiticeiro do
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"mal,é!"
+	"mal, é!"
 	keyWait
 		any = false
 	waitHold
@@ -237,7 +237,7 @@ script 6 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"\"Django,o Garoto\n Solar\"!"
+	"\"Django, o Garoto\n Solar\"!"
 	keyWait
 		any = false
 	clearMsg
@@ -300,8 +300,8 @@ script 8 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	A arma dele,a Gun-
-	DelSol,agora está a
+	A arma dele, a Gun-
+	DelSol, agora está a
 	venda como um chip.
 	"""
 	keyWait
@@ -326,8 +326,8 @@ script 9 mmbn4 {
 	clearMsg
 	"""
 	banhado pela luz
-	solar,fora de casa,
-	por exemplo,a força
+	solar, fora de casa,
+	por exemplo, a força
 	"""
 	keyWait
 		any = false
@@ -349,8 +349,8 @@ script 10 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Visitantes: Nós,do
-	Castillo,pedimos
+	Visitantes: Nós, do
+	Castillo, pedimos
 	desculpas sinceras
 	"""
 	keyWait
@@ -431,7 +431,7 @@ script 12 mmbn4 {
 	clearMsg
 	"""
 	foi emocionante!
-	Mas,é,é apavorante
+	Mas, é, é apavorante
 	pensar no que
 	"""
 	keyWait
@@ -525,7 +525,7 @@ script 15 mmbn4 {
 		top = 108
 	"""
 	Era uma competição
-	nacional,e o
+	nacional, e o
 	vencedor foi
 	"""
 	keyWait

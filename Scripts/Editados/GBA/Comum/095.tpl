@@ -22,7 +22,7 @@ script 11 mmbn4 {
 	msgOpen
 	"""
 	Cuidado pra não se
-	perder,MegaMan!
+	perder, MegaMan!
 	"""
 	keyWait
 		any = false

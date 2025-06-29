@@ -6,7 +6,7 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	E aí,pai,o que a
+	E aí, pai, o que a
 	gente vai comprar
 	hoje?
 	"""
@@ -46,7 +46,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Ah,a EletroVila.
+	Ah, a EletroVila.
 	Parece legal.
 	"""
 	wait
@@ -59,7 +59,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Dad
 	"""
-	Aliás,Lan,como vai
+	Aliás, Lan, como vai
 	a escola? Gostando
 	do sexto ano?
 	"""
@@ -72,7 +72,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Ah,é de boa."
+	"Ah, é de boa."
 	wait
 		frames = 60
 	clearMsg
@@ -92,14 +92,14 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Dad
 	"""
-	Ótimo,fico feliz
+	Ótimo, fico feliz
 	de ouvir isso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Olha só,já chegamos
+	Olha só, já chegamos
 	na estação.
 	"""
 	keyWait
@@ -119,7 +119,7 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Que foi,pai?
+	Que foi, pai?
 	Parece até que
 	levou um susto...
 	"""
@@ -132,7 +132,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = Dad
-	"Ah,que vacilo,\no meu..."
+	"Ah, que vacilo, \no meu..."
 	keyWait
 		any = false
 	clearMsg
@@ -173,7 +173,7 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Tudo bem,eu espero!"
+	"Tudo bem, eu espero!"
 	keyWait
 		any = false
 	clearMsg
@@ -189,8 +189,8 @@ script 9 mmbn4 {
 		mugshot = Dad
 	"""
 	Não vou.
-	Desculpa,filho!
-	Volto já,já.
+	Desculpa, filho!
+	Volto já, já.
 	"""
 	keyWait
 		any = false
@@ -209,7 +209,7 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Hm,o que eu faço pra
+	Hm, o que eu faço pra
 	passar o tempo?
 	"""
 	keyWait
@@ -220,7 +220,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Bom,a gente podia
+	Bom, a gente podia
 	dar uma voltinha
 	no Bairro ACDC.
 	"""

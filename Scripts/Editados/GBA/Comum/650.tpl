@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Ah! Olha,MegaMan!"
+	"Ah! Olha, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -22,7 +22,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Pois é,né?"
+	"Pois é, né?"
 	keyWait
 		any = false
 	clearMsg
@@ -52,7 +52,7 @@ script 2 mmbn4 {
 	clearMsg
 	"""
 	Ela não é realmente
-	uma Navi de luta,né?
+	uma Navi de luta, né?
 	"""
 	keyWait
 		any = false
@@ -72,8 +72,8 @@ script 3 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Bom,se ela chegou
-	longe assim,deve
+	Bom, se ela chegou
+	longe assim, deve
 	ser habilidosa...
 	"""
 	keyWait
@@ -82,7 +82,7 @@ script 3 mmbn4 {
 	"""
 	Uma luta com a
 	Roll... Isso parece
-	errado,sei lá.
+	errado, sei lá.
 	"""
 	keyWait
 		any = false
@@ -106,7 +106,7 @@ script 5 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Bom,a Roll e a Mayl
+	Bom, a Roll e a Mayl
 	devem estar por
 	perto.
 	"""
@@ -124,7 +124,7 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"É,vamos lá!"
+	"É, vamos lá!"
 	keyWait
 		any = false
 	end

@@ -59,7 +59,7 @@ script 1 mmbn4 {
 	mugshotAnimation
 		animation = 2
 	"""
-	BOM,ACHO QUE VOCÊ
+	BOM, ACHO QUE VOCÊ
 	NÃO É SUSPEITO...
 	"""
 	keyWait
@@ -122,7 +122,7 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	EI,NÃO SE ESGUEIRE
+	EI, NÃO SE ESGUEIRE
 	ASSIM ATRÁS DE MIM!
 	"""
 	keyWait
@@ -160,7 +160,7 @@ script 7 mmbn4 {
 		animation = 2
 	"""
 	VOCÊ PASSA...
-	UFA,FICAR ALERTA
+	UFA, FICAR ALERTA
 	CANSA!
 	"""
 	keyWait
@@ -269,7 +269,7 @@ script 16 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"NÃO SEI,NÃO..."
+	"NÃO SEI, NÃO..."
 	keyWait
 		any = false
 	end
@@ -350,7 +350,7 @@ script 21 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	NA VERDADE,EU SOU
+	NA VERDADE, EU SOU
 	UM PROGRAMA DA
 	ÁREA PARQUE 1...
 	"""
@@ -395,7 +395,7 @@ script 22 mmbn4 {
 	msgOpen
 	"""
 	POR MELHOR QUE SEJA
-	A SEGURANÇA,SEMPRE
+	A SEGURANÇA, SEMPRE
 	HÁ UMA BRECHA...
 	"""
 	keyWait
@@ -416,7 +416,7 @@ script 25 mmbn4 {
 	msgOpen
 	"""
 	O QUÊ?! O CRIMINOSO
-	ESTAVA AQUI,NA ÁREA
+	ESTAVA AQUI, NA ÁREA
 	PARQUE?!
 	"""
 	keyWait
@@ -424,7 +424,7 @@ script 25 mmbn4 {
 	clearMsg
 	"""
 	COM TODOS NÓS EM
-	ATIVIDADE,ELE NÃO
+	ATIVIDADE, ELE NÃO
 	VAI SE SAFAR!
 	"""
 	keyWait
@@ -469,7 +469,7 @@ script 27 mmbn4 {
 	clearMsg
 	"""
 	HÁ UMA BRECHA NA
-	SEGURANÇA AQUI,EM
+	SEGURANÇA AQUI, EM
 	ALGUM LUGAR...
 	"""
 	keyWait

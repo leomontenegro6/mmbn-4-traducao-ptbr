@@ -29,7 +29,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Então,você recusou
+	Então, você recusou
 	o convite do
 	LaserMan...
 	"""
@@ -133,7 +133,7 @@ script 11 mmbn4 {
 	msgOpen
 	"""
 	Sei. Mas recebemos
-	uma denúncia,então,
+	uma denúncia, então,
 	temos que
 	"""
 	keyWait
@@ -327,7 +327,7 @@ script 26 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Ai,ai... Eu não
+	Ai, ai... Eu não
 	entendo mesmo o que
 	tá acontecendo...
 	"""
@@ -356,7 +356,7 @@ script 27 mmbn4 {
 	clearMsg
 	"""
 	eu senti uma coisa
-	me possuir,sabe?!
+	me possuir, sabe?!
 	"""
 	keyWait
 		any = false
@@ -389,7 +389,7 @@ script 30 mmbn4 {
 	clearMsg
 	"""
 	Cê tá dizendo que eu
-	pareço suspeito,é?!
+	pareço suspeito, é?!
 	"""
 	keyWait
 		any = false
@@ -534,7 +534,7 @@ script 45 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Espera,eu não tenho
+	Espera, eu não tenho
 	tempo pra ficar
 	pensando nisso.
 	"""

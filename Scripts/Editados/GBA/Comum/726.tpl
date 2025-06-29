@@ -24,7 +24,7 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	Depois de defender a
-	bola uma vez,fica
+	bola uma vez, fica
 	fácil.
 	"""
 	keyWait
@@ -54,7 +54,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	He,FuteBomba nem é
+	He, FuteBomba nem é
 	tudo isso!
 	"""
 	keyWait
@@ -66,7 +66,7 @@ script 4 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,maneira aí...
+	Lan, maneira aí...
 	"""
 	keyWait
 		any = false
@@ -83,7 +83,7 @@ script 5 mmbn4 {
 	clearMsg
 	"""
 	Ele ficou provocando
-	a gente,né? Bom,pois
+	a gente, né? Bom, pois
 	é a minha vez!
 	"""
 	keyWait
@@ -95,7 +95,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Eu sei,mas..."
+	"Eu sei, mas..."
 	keyWait
 		any = false
 	clearMsg
@@ -191,7 +191,7 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Tá bom,tá bom.
+	Tá bom, tá bom.
 	Vamos lá pedir
 	desculpas!
 	"""
@@ -231,7 +231,7 @@ script 16 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	É,acho que eu peguei
+	É, acho que eu peguei
 	pesado. Vamos lá
 	encontrar ele.
 	"""
@@ -243,7 +243,7 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Aí,rapaz! Levanta!"
+	"Aí, rapaz! Levanta!"
 	keyWait
 		any = false
 	clearMsg
@@ -258,7 +258,7 @@ script 17 mmbn4 {
 	"""
 	Que foi?
 	Você ainda tem gás
-	pra jogar,não tem?!
+	pra jogar, não tem?!
 	"""
 	keyWait
 		any = false
@@ -303,7 +303,7 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	He,NetLutadores não
+	He, NetLutadores não
 	são de nada!!!
 	"""
 	keyWait
@@ -323,7 +323,7 @@ script 19 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	He,você não sabe
+	He, você não sabe
 	mesmo quando
 	desistir.
 	"""

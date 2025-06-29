@@ -87,7 +87,7 @@ script 12 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Originalmente,ele
+	Originalmente, ele
 	foi construído para
 	"****".
 	"""
@@ -95,24 +95,24 @@ script 12 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,agora,levava
+	Mas, agora, levava
 	uma vida tranquila
-	na floresta,sozinho.
+	na floresta, sozinho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Como robô,o Flandrô
+	Como robô, o Flandrô
 	não tinha
-	"****",mas
+	"****", mas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	como muito desejava
-	ter,ele rezava por
+	ter, ele rezava por
 	isso o tempo todo.
 	"""
 	keyWait
@@ -124,15 +124,15 @@ script 13 mmbn4 {
 	msgOpen
 	"""
 	"****" era
-	amiga do Flandrô,e,
+	amiga do Flandrô, e,
 	um dia,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ela,de repente,parou
-	de se mover,parou de
+	ela, de repente, parou
+	de se mover, parou de
 	apresentar vida.
 	"""
 	keyWait
@@ -166,7 +166,7 @@ script 14 mmbn4 {
 	mugshotHide
 	msgOpen
 	"""
-	Sem Emoção,o Flandrô
+	Sem Emoção, o Flandrô
 	não era capaz de
 	entender a morte.
 	"""
@@ -182,16 +182,16 @@ script 14 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Porém,Flandrô havia
+	Porém, Flandrô havia
 	sido usado em inú-
-	meras guerras,e ao
+	meras guerras, e ao
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	se lembrar de seus
-	atos horríveis,caiu
+	atos horríveis, caiu
 	em grande angústia.
 	"""
 	keyWait
@@ -199,7 +199,7 @@ script 14 mmbn4 {
 	clearMsg
 	"""
 	Para expiar por seus
-	atos,ele decidiu ser
+	atos, ele decidiu ser
 	um "****".
 	"""
 	keyWait
@@ -207,7 +207,7 @@ script 14 mmbn4 {
 	clearMsg
 	"""
 	Para pagar por seus
-	pecados,ele havia
+	pecados, ele havia
 	realizado seu sonho.
 	"""
 	keyWait

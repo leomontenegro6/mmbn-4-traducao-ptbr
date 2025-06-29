@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Oi,Chaud..."
+	"Oi, Chaud..."
 	keyWait
 		any = false
 	end
@@ -13,7 +13,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Então,você veio..."
+	"Então, você veio..."
 	keyWait
 		any = false
 	clearMsg
@@ -26,7 +26,7 @@ script 2 mmbn4 {
 	"""
 	... Chaud! O Proto-
 	Man não tá possuído
-	por uma AlmaSomb,tá?
+	por uma AlmaSomb, tá?
 	"""
 	keyWait
 		any = false
@@ -37,7 +37,7 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
-	"...... Então,você\nficou sabendo?"
+	"...... Então, você\nficou sabendo?"
 	keyWait
 		any = false
 	clearMsg
@@ -48,7 +48,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	! Então,o ProtoMan
+	! Então, o ProtoMan
 	foi mesmo...
 	"""
 	keyWait
@@ -183,7 +183,7 @@ script 13 mmbn4 {
 		mugshot = Chaud
 	"""
 	Ele saiu do contro-
-	le,ignorando as
+	le, ignorando as
 	minhas ordens.
 	"""
 	keyWait
@@ -204,7 +204,7 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Chaud,vamos tentar
+	Chaud, vamos tentar
 	restaurar o
 	ProtoMan!
 	"""
@@ -308,7 +308,7 @@ script 19 mmbn4 {
 script 20 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"É,mas..."
+	"É, mas..."
 	keyWait
 		any = false
 	clearMsg
@@ -318,7 +318,7 @@ script 20 mmbn4 {
 script 21 mmbn4 {
 	mugshotHide
 	"""
-	Acorde,ProtoMan...
+	Acorde, ProtoMan...
 	Venha até nós...
 	"""
 	keyWait
@@ -394,7 +394,7 @@ script 27 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Chaud,vamos atrás do
+	Chaud, vamos atrás do
 	ProtoMan.
 	"""
 	keyWait
@@ -462,7 +462,7 @@ script 29 mmbn4 {
 script 30 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Ué? Óbvio,né?!"
+	"Ué? Óbvio, né?!"
 	keyWait
 		any = false
 	clearMsg
@@ -481,7 +481,7 @@ script 32 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"MegaMan,vamos nessa!"
+	"MegaMan, vamos nessa!"
 	keyWait
 		any = false
 	clearMsg
@@ -510,7 +510,7 @@ script 34 mmbn4 {
 	"Conectar!!"
 	wait
 		frames = 10
-	"\nMegaMan.EXE,\ntransmissão!"
+	"\nMegaMan.EXE, \ntransmissão!"
 	wait
 		frames = 30
 	controlUnlock

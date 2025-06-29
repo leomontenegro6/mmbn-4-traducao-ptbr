@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Fala,Higsby!"
+	"Fala, Higsby!"
 	keyWait
 		any = false
 	clearMsg
@@ -24,7 +24,7 @@ script 1 mmbn4 {
 	"""
 	Como posso ajudar?
 	Está atrás de algum
-	chip novo,é?
+	chip novo, é?
 	"""
 	keyWait
 		any = false
@@ -36,7 +36,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Foi mal,Higsby.
+	Foi mal, Higsby.
 	Hoje eu não tô aqui
 	pra comprar.
 	"""
@@ -62,8 +62,8 @@ script 3 mmbn4 {
 	clearMsg
 	"""
 	Tudo bem. Se eu
-	puder ajudar,ajudo
-	com prazer,é.
+	puder ajudar, ajudo
+	com prazer, é.
 	"""
 	keyWait
 		any = false
@@ -92,7 +92,7 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = Higsby
-	"Um novo chip,é?"
+	"Um novo chip, é?"
 	keyWait
 		any = false
 	clearMsg
@@ -106,7 +106,7 @@ script 5 mmbn4 {
 	clearMsg
 	soundStopBGM
 	"""
-	Ah,não!!
+	Ah, não!!
 	E-esse chip!!
 	"""
 	keyWait
@@ -132,9 +132,9 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Higsby
 	"""
-	Lan,como esse chip
+	Lan, como esse chip
 	foi parar nas suas
-	mãos,é?
+	mãos, é?
 	"""
 	keyWait
 		any = false
@@ -146,7 +146,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Ah,um Navi chamado
+	Ah, um Navi chamado
 	ShadeMan deixou
 	cair.
 	"""
@@ -160,7 +160,7 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Higsby
 	"""
-	Lan,melhor você se
+	Lan, melhor você se
 	livrar desse chip,
 	pra ontem!
 	"""
@@ -238,17 +238,17 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Higsby
 	"""
-	Sim,infelizmente.
+	Sim, infelizmente.
 	Ele possui poderes
-	incríveis,de fato...
+	incríveis, de fato...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mas,ao usá-lo,uma
+	Mas, ao usá-lo, uma
 	força terrível é
-	liberada,é.
+	liberada, é.
 	"""
 	keyWait
 		any = false
@@ -287,7 +287,7 @@ script 17 mmbn4 {
 		mugshot = Higsby
 	"""
 	Não tenho certeza
-	disso,mas...
+	disso, mas...
 	"""
 	keyWait
 		any = false
@@ -309,7 +309,7 @@ script 17 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,felizmente...
+	Mas, felizmente...
 	Ah! Talvez seja
 	tarde demais...
 	"""
@@ -340,9 +340,9 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = Higsby
 	"""
-	Eu sei,mas... Você
+	Eu sei, mas... Você
 	achou esses dados no
-	ciberespaço,não foi?
+	ciberespaço, não foi?
 	"""
 	keyWait
 		any = false
@@ -364,7 +364,7 @@ script 21 mmbn4 {
 	mugshotShow
 		mugshot = Higsby
 	"""
-	Então,o programa do
+	Então, o programa do
 	Chip das Trevas
 	"""
 	keyWait
@@ -401,7 +401,7 @@ script 22 mmbn4 {
 script 23 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Sim,até agora,tô."
+	"Sim, até agora, tô."
 	keyWait
 		any = false
 	clearMsg
@@ -415,13 +415,13 @@ script 24 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Mas escute,Lan!"
+	"Mas escute, Lan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nunca,nunca,JAMAIS
-	use o chip,haja o
+	Nunca, nunca, JAMAIS
+	use o chip, haja o
 	que houver!
 	"""
 	keyWait
@@ -463,7 +463,7 @@ script 25 mmbn4 {
 	"""
 	Mas é só eu não usar
 	ele que tudo vai
-	ficar bem,né?
+	ficar bem, né?
 	"""
 	keyWait
 		any = false
@@ -474,13 +474,13 @@ script 25 mmbn4 {
 script 26 mmbn4 {
 	mugshotShow
 		mugshot = Higsby
-	"Bom,é,mas..."
+	"Bom, é, mas..."
 	keyWait
 		any = false
 	clearMsg
 	"""
 	É bom você tomar
-	MUITO cuidado,é.
+	MUITO cuidado, é.
 	"""
 	keyWait
 		any = false
@@ -501,7 +501,7 @@ script 27 mmbn4 {
 		mugshot = Lan
 	"""
 	Entendido!
-	Valeu,Higsby.
+	Valeu, Higsby.
 	"""
 	keyWait
 		any = false
@@ -526,13 +526,13 @@ script 29 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Bom,já aprendemos
+	Bom, já aprendemos
 	sobre o chip...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Vamos pra casa,Lan?"
+	"Vamos pra casa, Lan?"
 	keyWait
 		any = false
 	clearMsg

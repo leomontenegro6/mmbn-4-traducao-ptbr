@@ -57,7 +57,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	Mas,se ele parou de
+	Mas, se ele parou de
 	transmitir...
 	"""
 	keyWait
@@ -225,7 +225,7 @@ script 15 mmbn4 {
 		mugshot = Regal
 	"""
 	Não estou no nível
-	do Lan,mas também
+	do Lan, mas também
 	sou um NetLutador.
 	"""
 	keyWait

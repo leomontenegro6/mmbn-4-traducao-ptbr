@@ -45,7 +45,7 @@ script 20 mmbn4 {
 	"""
 	Ora! Então você
 	também está no
-	torneio,é?
+	torneio, é?
 	"""
 	keyWait
 		any = false
@@ -58,7 +58,7 @@ script 20 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	... É,imaginei que
+	... É, imaginei que
 	fosse esse tanto...
 	"""
 	keyWait
@@ -96,7 +96,7 @@ script 20 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Vão,meus vírus!
+	Vão, meus vírus!
 	Roubem todos os
 	pontos dele!!!
 	"""
@@ -126,8 +126,8 @@ script 120 mmbn4 {
 		mugshot = MetalMan
 	msgOpen
 	"""
-	Então,você quer
-	lutar,é?
+	Então, você quer
+	lutar, é?
 	"""
 	keyWait
 		any = false

@@ -14,7 +14,7 @@ script 0 mmbn4 {
 	clearMsg
 	"""
 	Apresentamos Jack
-	Bomber,representante
+	Bomber, representante
 	da Ameropa!
 	"""
 	keyWait
@@ -76,7 +76,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Desculpa,mas a gente
+	Desculpa, mas a gente
 	não pretende perder
 	hoje.
 	"""
@@ -97,7 +97,7 @@ script 4 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Ah,parece que os
+	Ah, parece que os
 	lutadores já se
 	conhecem!
 	"""
@@ -111,7 +111,7 @@ script 4 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Bom,vamos começar!"
+	"Bom, vamos começar!"
 	keyWait
 		any = false
 	clearMsg

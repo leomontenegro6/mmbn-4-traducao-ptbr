@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Roll
 	msgOpen
-	"Oi,Mega!"
+	"Oi, Mega!"
 	keyWait
 		any = false
 	clearMsg
@@ -14,7 +14,7 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Oi,Roll."
+	"Oi, Roll."
 	keyWait
 		any = false
 	clearMsg
@@ -69,7 +69,7 @@ script 5 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Ah,então era disso
+	Ah, então era disso
 	que se tratava.
 	"""
 	keyWait
@@ -89,7 +89,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Boa tarde,pessoal!"
+	"Boa tarde, pessoal!"
 	keyWait
 		any = false
 	clearMsg
@@ -153,7 +153,7 @@ script 9 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E então,alguém topa
+	E então, alguém topa
 	encarar o meu
 	desafio?!
 	"""
@@ -192,7 +192,7 @@ script 12 mmbn4 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"(Pisca,pisca)"
+	"(Pisca, pisca)"
 	keyWait
 		any = false
 	clearMsg
@@ -204,7 +204,7 @@ script 13 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	(Lan,eu acho que a
+	(Lan, eu acho que a
 	Roll quer que eu
 	encare o desafio...)
 	"""
@@ -266,7 +266,7 @@ script 17 mmbn4 {
 script 18 mmbn4 {
 	mugshotShow
 		mugshot = Roll
-	"Boa sorte,Mega!!"
+	"Boa sorte, Mega!!"
 	keyWait
 		any = false
 	end

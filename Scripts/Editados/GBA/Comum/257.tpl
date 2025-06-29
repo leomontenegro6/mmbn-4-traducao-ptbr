@@ -10,7 +10,7 @@ script 0 mmbn4 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	Aí,é você! Eu te vi
+	Aí, é você! Eu te vi
 	lutando no torneio!
 	"""
 	keyWait
@@ -18,8 +18,8 @@ script 0 mmbn4 {
 	clearMsg
 	"""
 	Você foi demais!
-	Um dia,eu quero ser
-	como você,Lan!
+	Um dia, eu quero ser
+	como você, Lan!
 	"""
 	keyWait
 		any = false
@@ -56,7 +56,7 @@ script 1 mmbn4 {
 	"""
 	aposto que o
 	Castillo está uma
-	porqueira,também!
+	porqueira, também!
 	"""
 	keyWait
 		any = false
@@ -132,7 +132,7 @@ script 3 mmbn4 {
 	"""
 	aposto que o
 	Castillo está uma
-	porqueira,também!
+	porqueira, também!
 	"""
 	keyWait
 		any = false
@@ -144,7 +144,7 @@ script 10 mmbn4 {
 	msgOpen
 	"""
 	Por mais que eu
-	tente,não consigo
+	tente, não consigo
 	cooperar com o meu
 	"""
 	keyWait
@@ -152,7 +152,7 @@ script 10 mmbn4 {
 	clearMsg
 	"""
 	Navi tão bem quanto
-	você com o seu,Lan!
+	você com o seu, Lan!
 	Tem algum segredo?
 	"""
 	keyWait
@@ -196,7 +196,7 @@ script 12 mmbn4 {
 	clearMsg
 	"""
 	Quanto mais humanos
-	são,melhor os opera-
+	são, melhor os opera-
 	dores se saem.
 	"""
 	keyWait
@@ -385,7 +385,7 @@ script 41 mmbn4 {
 	msgOpen
 	"""
 	Agora que terminei
-	de limpar,vou ver o
+	de limpar, vou ver o
 	Sol Vermelho na TV!
 	"""
 	keyWait
@@ -397,7 +397,7 @@ script 42 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Um dia,eu vou criar
+	Um dia, eu vou criar
 	vários NetLutadores
 	de elite...
 	"""
@@ -411,7 +411,7 @@ script 43 mmbn4 {
 	msgOpen
 	"""
 	Agora que terminei
-	de limpar,vou ver o
+	de limpar, vou ver o
 	Lua Azul na TV!
 	"""
 	keyWait
@@ -474,7 +474,7 @@ script 55 mmbn4 {
 	clearMsg
 	"""
 	Mas quem faria uma
-	coisa dessas,e por
+	coisa dessas, e por
 	quê?
 	"""
 	keyWait

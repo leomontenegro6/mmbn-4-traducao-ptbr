@@ -13,7 +13,7 @@ script 1 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,destrói os
+	MegaMan, destrói os
 	CyberBonecosDeNeve
 	primeiro!
 	"""
@@ -37,7 +37,7 @@ script 3 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,destrói os
+	MegaMan, destrói os
 	CyberBonecosDeNeve
 	primeiro!
 	"""
@@ -58,7 +58,7 @@ script 4 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,destrói os
+	MegaMan, destrói os
 	CyberBonecosDeNeve
 	primeiro!
 	"""
@@ -79,7 +79,7 @@ script 7 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,destrói os
+	MegaMan, destrói os
 	CyberBonecosDeNeve
 	primeiro!
 	"""
@@ -92,7 +92,7 @@ script 9 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,acende a
+	MegaMan, acende a
 	CyberTocha!
 	"""
 	keyWait
@@ -115,7 +115,7 @@ script 10 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"\"K - Ergue chamas\nassoprando atrás,\num mar de lava.\""
+	"\"K - Ergue chamas\nassoprando atrás, \num mar de lava.\""
 	keyWait
 		any = false
 	clearMsg
@@ -134,7 +134,7 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Lava,no caso,
+	Lava, no caso,
 	sendo quadros de
 	lava?
 	"""

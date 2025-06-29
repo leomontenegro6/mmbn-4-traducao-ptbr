@@ -89,7 +89,7 @@ script 4 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	Ai,tudo bem.
+	Ai, tudo bem.
 	Eu espero um
 	pouquinho.
 	"""
@@ -112,7 +112,7 @@ script 6 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	Certo,mais uma
+	Certo, mais uma
 	rodada! Pronto?!
 	"""
 	keyWait
@@ -157,7 +157,7 @@ script 7 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	Bom,eu vi do que
+	Bom, eu vi do que
 	vocês são capazes.
 	Mas essa pedra que
 	"""
@@ -190,7 +190,7 @@ script 7 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = Tamako
-	"Pronto,então?"
+	"Pronto, então?"
 	keyWait
 		any = false
 	clearMsg
@@ -232,7 +232,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Tamako
 	msgOpen
-	"Ah,não enrole\ndemais!"
+	"Ah, não enrole\ndemais!"
 	keyWait
 		any = false
 	end
@@ -244,12 +244,12 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Tamako
 	msgOpen
-	"Ho ho,maravilha!"
+	"Ho ho, maravilha!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Agora,sim,vale a
+	Agora, sim, vale a
 	pena dar tudo de
 	mim!
 	"""
@@ -339,7 +339,7 @@ script 14 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	Vamos,MetalMan,
+	Vamos, MetalMan,
 	você faz melhor
 	que isso!
 	"""
@@ -361,7 +361,7 @@ script 15 mmbn4 {
 	"""
 	Já tá na hora de
 	você ir com potência
-	total,MetalMan!
+	total, MetalMan!
 	"""
 	keyWait
 		any = false

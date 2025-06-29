@@ -7,7 +7,7 @@ script 0 mmbn4 {
 	"""
 	Beleza! Sharo e a
 	Área Ameropa tão
-	ligados,Lan!
+	ligados, Lan!
 	"""
 	keyWait
 		any = false

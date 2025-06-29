@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Nossa,tô morto de\nfome."
+	"Nossa, tô morto de\nfome."
 	keyWait
 		any = false
 	clearMsg
@@ -30,7 +30,7 @@ script 2 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Querer,eu quero,
+	Querer, eu quero,
 	mas tô zerado de
 	dinheiro.
 	"""
@@ -38,7 +38,7 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	MegaMan,dá tempo da
+	MegaMan, dá tempo da
 	gente passar lá em
 	casa rapidinho?
 	"""
@@ -53,7 +53,7 @@ script 3 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Bom,ainda falta um
+	Bom, ainda falta um
 	bocado pra luta.
 	"""
 	keyWait
@@ -67,7 +67,7 @@ script 4 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Beleza,então,
+	Beleza, então,
 	bora pra casa.
 	"""
 	keyWait

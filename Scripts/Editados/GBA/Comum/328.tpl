@@ -94,7 +94,7 @@ script 2 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	TRABALHO,TRABALHO!
+	TRABALHO, TRABALHO!
 	TENHO TANTA COISA
 	PARA FAZER...
 	"""
@@ -210,7 +210,7 @@ script 4 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
-	"AH,ENTENDO..."
+	"AH, ENTENDO..."
 	keyWait
 		any = false
 	clearMsg
@@ -227,8 +227,8 @@ script 5 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	AH,VAI QUERER UM
-	LINK? AQUI,TOME!
+	AH, VAI QUERER UM
+	LINK? AQUI, TOME!
 	"""
 	keyWait
 		any = false
@@ -256,7 +256,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	OK,OK,OK!
+	OK, OK, OK!
 	É HOOORAAAA...
 	DO SHOW!
 	"""
@@ -409,14 +409,14 @@ script 11 mmbn4 {
 	"""
 	Parques temáticos
 	existem para humanos
-	apreciá-los,né?
+	apreciá-los, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Não tem muita coisa
-	pra nós,Navis...
+	pra nós, Navis...
 	Só estes Fóruns...
 	"""
 	keyWait
@@ -475,7 +475,7 @@ script 13 mmbn4 {
 	"""
 	Parece que os
 	brinquedos foram
-	consertados,né?
+	consertados, né?
 	"""
 	keyWait
 		any = false
@@ -522,9 +522,9 @@ script 16 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Na verdade,aconteceu
+	Na verdade, aconteceu
 	a mesma coisa
-	comigo,também!
+	comigo, também!
 	"""
 	keyWait
 		any = false
@@ -645,7 +645,7 @@ script 25 mmbn4 {
 	clearMsg
 	"""
 	Eu não vou partici-
-	par,mas ainda assim
+	par, mas ainda assim
 	estou super animado!
 	"""
 	keyWait
@@ -666,7 +666,7 @@ script 26 mmbn4 {
 	clearMsg
 	"""
 	imagem com esse tor-
-	neio,depois do negó-
+	neio, depois do negó-
 	cio dos RobôBrnq...
 	"""
 	keyWait
@@ -686,7 +686,7 @@ script 27 mmbn4 {
 	clearMsg
 	"""
 	Queria conquistar
-	esse título,um dia!
+	esse título, um dia!
 	"""
 	keyWait
 		any = false
@@ -735,7 +735,7 @@ script 132 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Se eu desconectar,o
+	Se eu desconectar, o
 	fogo pode se espa-
 	lhar! Não devemos!
 	"""
@@ -841,7 +841,7 @@ script 222 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Desculpe,está tudo\nesgotado..."
+	"Desculpe, está tudo\nesgotado..."
 	keyWait
 		any = false
 	end

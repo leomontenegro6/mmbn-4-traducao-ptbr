@@ -87,7 +87,7 @@ script 2 mmbn4 {
 	msgOpen
 	"""
 	Por dentro e por
-	fora,é mais luxuosa
+	fora, é mais luxuosa
 	que as outras casas.
 	"""
 	keyWait
@@ -114,7 +114,7 @@ script 3 mmbn4 {
 	clearMsg
 	"""
 	É uma estátua de
-	Nupopo,deus
+	Nupopo, deus
 	guardião da vila...
 	"""
 	keyWait
@@ -132,7 +132,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	msgOpen
 	"""
-	Tem uma juba,então
+	Tem uma juba, então
 	deve ter sido feita
 	com base no leão.
 	"""
@@ -156,7 +156,7 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Olhando bem,dá
+	Olhando bem, dá
 	para se conectar
 	no focinho dele.
 	"""
@@ -203,7 +203,7 @@ script 7 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Er,você vai voltar
+	Er, você vai voltar
 	pro aeroporto no
 	avestruz?
 	"""
@@ -224,7 +224,7 @@ script 8 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Aonde você vai,Lan?!
+	Aonde você vai, Lan?!
 	Temos que purificar
 	o Deus da Água!
 	"""

@@ -44,7 +44,7 @@ script 2 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Desconecta,MegaMan!
+	Desconecta, MegaMan!
 	Temos que ir pra
 	Torre no offline!
 	"""
@@ -77,7 +77,7 @@ script 5 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,vamos achar
+	MegaMan, vamos achar
 	a Roll! A gente tem
 	que correr!
 	"""
@@ -128,7 +128,7 @@ script 8 mmbn4 {
 	msgOpen
 	"""
 	Se a gente não cor-
-	rer,a Roll vai...!
+	rer, a Roll vai...!
 	Vamos logo!
 	"""
 	keyWait
@@ -155,7 +155,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Aguenta aí,Roll!"
+	"Aguenta aí, Roll!"
 	keyWait
 		any = false
 	end
@@ -171,7 +171,7 @@ script 15 mmbn4 {
 	msgOpen
 	"""
 	Tudo parece bem
-	aqui,mesmo depois
+	aqui, mesmo depois
 	do ShadeMan...
 	"""
 	keyWait

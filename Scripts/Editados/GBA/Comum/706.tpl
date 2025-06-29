@@ -29,7 +29,7 @@ script 2 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ah,eu me deixei
+	Ah, eu me deixei
 	levar pelo calor
 	do momento!
 	"""
@@ -44,7 +44,7 @@ script 3 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,eu SEI que você
+	Lan, eu SEI que você
 	não sabe fazer
 	curry.
 	"""
@@ -117,14 +117,14 @@ script 8 mmbn4 {
 	msgOpen
 	soundEnableTextSFX
 	"""
-	Lan,chegou e-mail
+	Lan, chegou e-mail
 	para você. Eu vou
 	ler.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Você parece estar\nnum aperto... Se\nquiser,posso te"
+	"\"Você parece estar\nnum aperto... Se\nquiser, posso te"
 	keyWait
 		any = false
 	clearMsg
@@ -185,14 +185,14 @@ script 10 mmbn4 {
 	"""
 	Quem é esse
 	"Mestre-Cuca
-	Mestre",afinal?
+	Mestre", afinal?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Isso aí tá meio
-	suspeito,né?
+	suspeito, né?
 	"""
 	keyWait
 		any = false

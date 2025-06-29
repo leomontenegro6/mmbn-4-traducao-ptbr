@@ -13,7 +13,7 @@ script 0 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Ora,ora,se não é o
+	Ora, ora, se não é o
 	MegaMan.
 	"""
 	keyWait
@@ -88,7 +88,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	MegaMan,o futuro do
+	MegaMan, o futuro do
 	planeta depende de
 	você!
 	"""
@@ -137,7 +137,7 @@ script 130 mmbn4 {
 	"."
 	waitSkip
 		frames = 30
-	"\nTá aqui,Chaud!"
+	"\nTá aqui, Chaud!"
 	keyWait
 		any = false
 	clearMsg
@@ -238,7 +238,7 @@ script 131 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = Chaud
-	"Certo,só mais uma!"
+	"Certo, só mais uma!"
 	keyWait
 		any = false
 	clearMsg
@@ -253,9 +253,9 @@ script 131 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Então,eu preciso
+	Então, eu preciso
 	achar um lugar com
-	2 portais,né?
+	2 portais, né?
 	"""
 	keyWait
 		any = false
@@ -324,7 +324,7 @@ script 132 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Rápido,MegaMan!"
+	"Rápido, MegaMan!"
 	keyWait
 		any = false
 	clearMsg

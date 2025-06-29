@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Ah! Então,você 
+	Ah! Então, você 
 	consegue me ver,
 	não é?
 	"""
@@ -27,7 +27,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	MegaMan,usa o
+	MegaMan, usa o
 	Cyber Sutra!
 	"""
 	keyWait
@@ -50,8 +50,8 @@ script 2 mmbn4 {
 		timer = 1
 		value = 1
 	"""
-	Ponto,vírgula,barra,
-	barra,colchete,
+	Ponto, vírgula, barra,
+	barra, colchete,
 	exclamação. É isso?!
 	"""
 	keyWait

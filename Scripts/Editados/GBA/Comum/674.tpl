@@ -34,7 +34,7 @@ script 2 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Ah,que sensação boa!"
+	"Ah, que sensação boa!"
 	keyWait
 		any = false
 	clearMsg
@@ -46,7 +46,7 @@ script 3 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Essa,sim,foi uma lu-
+	Essa, sim, foi uma lu-
 	ta entre dois luta-
 	dores de verdade!
 	"""
@@ -55,13 +55,13 @@ script 3 mmbn4 {
 	clearMsg
 	"""
 	Sem nenhum ressenti-
-	mento,porque demos o
+	mento, porque demos o
 	nosso melhor!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Né,MegaMan?!"
+	"Né, MegaMan?!"
 	keyWait
 		any = false
 	clearMsg
@@ -131,7 +131,7 @@ script 6 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	É,o MetalMan é um
+	É, o MetalMan é um
 	Navi que fala com
 	os punhos,
 	"""
@@ -187,7 +187,7 @@ script 9 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	É? Bom,infelizmente,
+	É? Bom, infelizmente,
 	terei que me vingar
 	por hoje nesse dia!
 	"""
@@ -202,7 +202,7 @@ script 10 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	He he,quero ver você
+	He he, quero ver você
 	tentar!
 	"""
 	keyWait
@@ -223,13 +223,13 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Enfim,hora de ir
+	Enfim, hora de ir
 	pra casa!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Mas,antes..."
+	"Mas, antes..."
 	keyWait
 		any = false
 	end
@@ -240,7 +240,7 @@ script 12 mmbn4 {
 	msgOpen
 	"""
 	A gente tá ao vivo
-	agora,né?
+	agora, né?
 	"""
 	keyWait
 		any = false
@@ -253,7 +253,7 @@ script 13 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	Er... Sim,estamos na
+	Er... Sim, estamos na
 	TV.
 	"""
 	keyWait
@@ -290,7 +290,7 @@ script 16 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	Tem uma ali,nas
+	Tem uma ali, nas
 	arquibancadas...
 	"""
 	keyWait
@@ -361,13 +361,13 @@ script 19 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	Ah,não seja tão
+	Ah, não seja tão
 	cri-cri!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Até mais,Lan!"
+	"Até mais, Lan!"
 	keyWait
 		any = false
 	end

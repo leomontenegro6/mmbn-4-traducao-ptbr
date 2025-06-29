@@ -73,7 +73,7 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Olhando bem,tem uma
+	Olhando bem, tem uma
 	coisa escrita no
 	cesto delas.
 	"""

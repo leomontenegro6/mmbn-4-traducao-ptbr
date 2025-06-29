@@ -10,7 +10,7 @@ script 0 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	OPA,OLÁ!
+	OPA, OLÁ!
 	BEM-VINDO À AFFRIQ,
 	A TERRA DA NATUREZA!
 	"""
@@ -145,7 +145,7 @@ script 7 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	FICOU IGUALZINHA,NÉ?
+	FICOU IGUALZINHA, NÉ?
 	"""
 	keyWait
 		any = false
@@ -280,8 +280,8 @@ script 15 mmbn4 {
 	clearMsg
 	"""
 	ESPERO QUE POSSAMOS
-	ASSISTIR A,PELO
-	MENOS,PARTE DELE!
+	ASSISTIR A, PELO
+	MENOS, PARTE DELE!
 	"""
 	keyWait
 		any = false
@@ -356,7 +356,7 @@ script 20 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	ENTÃO,O TORNEIO ESTÁ
+	ENTÃO, O TORNEIO ESTÁ
 	QUASE CHEGANDO NA
 	FINAL?
 	"""
@@ -364,7 +364,7 @@ script 20 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	DEPOIS DISSO,ESTE
+	DEPOIS DISSO, ESTE
 	LUGAR DEVE VOLTAR A
 	SER COMO ERA...
 	"""
@@ -430,7 +430,7 @@ script 23 mmbn4 {
 	". "
 	waitSkip
 		frames = 30
-	"Nada mal,né?"
+	"Nada mal, né?"
 	keyWait
 		any = false
 	end
@@ -466,7 +466,7 @@ script 30 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	AGORA,NINGUÉM VEM
+	AGORA, NINGUÉM VEM
 	NOS VISITAR!
 	"""
 	keyWait
@@ -536,7 +536,7 @@ script 45 mmbn4 {
 	msgOpen
 	"""
 	A REDE JÁ VOLTOU AO
-	NORMAL,NÉ?
+	NORMAL, NÉ?
 	"""
 	keyWait
 		any = false

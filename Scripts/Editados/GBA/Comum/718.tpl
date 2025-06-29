@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Então,o nosso
+	Então, o nosso
 	próximo adversário
 	é o ThunderMan...
 	"""
@@ -39,7 +39,7 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = BlondMan
-	"Ei,você!"
+	"Ei, você!"
 	keyWait
 		any = false
 	end
@@ -61,7 +61,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Aham,estou!"
+	"Aham, estou!"
 	keyWait
 		any = false
 	clearMsg
@@ -77,7 +77,7 @@ script 5 mmbn4 {
 	clearMsg
 	"""
 	Sou dono do Ameropa
-	Café,na praça que
+	Café, na praça que
 	fica subindo as
 	"""
 	keyWait
@@ -209,7 +209,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = BlondMan
 	"""
-	He he,dá pra ver
+	He he, dá pra ver
 	que te deixei
 	interessado!
 	"""
@@ -273,7 +273,7 @@ script 13 mmbn4 {
 	"""
 	A melhor parte de
 	viajar é experimen-
-	tar a comida,né?
+	tar a comida, né?
 	"""
 	keyWait
 		any = false
@@ -325,7 +325,7 @@ script 15 mmbn4 {
 script 16 mmbn4 {
 	mugshotShow
 		mugshot = OldManAlt
-	"Ei,você é o Lan?"
+	"Ei, você é o Lan?"
 	keyWait
 		any = false
 	clearMsg
@@ -339,7 +339,7 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Sou,sim.
+	Sou, sim.
 	Como o senhor sabe o
 	meu nome?
 	"""
@@ -373,7 +373,7 @@ script 19 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Que é,o senhor quer
+	Que é, o senhor quer
 	NetLutar comigo?
 	"""
 	keyWait
@@ -396,7 +396,7 @@ script 21 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Desculpa,mas eu tô
+	Desculpa, mas eu tô
 	com pressa agora.
 	"""
 	keyWait
@@ -409,9 +409,9 @@ script 22 mmbn4 {
 	mugshotShow
 		mugshot = OldManAlt
 	"""
-	Hm,então,o seu povo
+	Hm, então, o seu povo
 	é do tipo que recusa
-	desafios,é?
+	desafios, é?
 	"""
 	keyWait
 		any = false
@@ -451,7 +451,7 @@ script 23 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Tá bom,eu luto com
+	Tá bom, eu luto com
 	você! Vamos lá!
 	"""
 	keyWait
@@ -464,13 +464,13 @@ script 24 mmbn4 {
 	mugshotShow
 		mugshot = OldManAlt
 	"""
-	Ah,então você tem
+	Ah, então você tem
 	algum orgulho!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Lutemos,então."
+	"Lutemos, então."
 	keyWait
 		any = false
 	clearMsg
@@ -480,13 +480,13 @@ script 24 mmbn4 {
 script 25 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Lá vou eu,vovôzinho!"
+	"Lá vou eu, vovôzinho!"
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Lan Hikari e
-	MegaMan.EXE,repre-
+	MegaMan.EXE, repre-
 	sentando Ni-Hon!
 	"""
 	keyWait

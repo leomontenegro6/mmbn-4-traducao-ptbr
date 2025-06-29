@@ -13,7 +13,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Primeiro,o NetLuta-
+	Primeiro, o NetLuta-
 	dor do fundamental
 	que praticamente
 	"""
@@ -58,7 +58,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Sal
 	msgOpen
-	"Chegou a hora,Lan."
+	"Chegou a hora, Lan."
 	keyWait
 		any = false
 	clearMsg
@@ -113,7 +113,7 @@ script 6 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	Certo,então,
+	Certo, então,
 	vamos começar!
 	"""
 	keyWait

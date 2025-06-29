@@ -20,7 +20,7 @@ script 1 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Agora,anunciarei os
+	Agora, anunciarei os
 	resultados das
 	lutas!
 	"""
@@ -28,7 +28,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Por favor,observem
+	Por favor, observem
 	o quadro do
 	torneio...
 	"""

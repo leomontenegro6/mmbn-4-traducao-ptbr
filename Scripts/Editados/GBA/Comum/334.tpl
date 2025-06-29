@@ -61,7 +61,7 @@ script 2 mmbn4 {
 	msgOpen
 	"""
 	EU VOU ACENDER O
-	FOGÃO HOJE,AMANHÃ
+	FOGÃO HOJE, AMANHÃ
 	E SEMPRE!
 	"""
 	keyWait
@@ -91,7 +91,7 @@ script 3 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	AH,MEGAMAN! HÃ?
+	AH, MEGAMAN! HÃ?
 	ESTÁ DISTRIBUINDO
 	PANFLETOS? ACEITO!
 	"""
@@ -116,9 +116,9 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	AH,É DO HIGSBY!
+	AH, É DO HIGSBY!
 	QUAL É DESSES
-	PANFLETOS,HEIN?
+	PANFLETOS, HEIN?
 	"""
 	keyWait
 		any = false
@@ -132,7 +132,7 @@ script 4 mmbn4 {
 	msgOpen
 	"""
 	O NEGÓCIO DELE ANDA
-	MAL,POR ACASO?
+	MAL, POR ACASO?
 	"""
 	keyWait
 		any = false

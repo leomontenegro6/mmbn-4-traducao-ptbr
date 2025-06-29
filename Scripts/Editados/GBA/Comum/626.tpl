@@ -55,14 +55,14 @@ script 3 mmbn4 {
 	msgOpen
 	"""
 	Aaaaah! Espera!
-	Violência,não!
+	Violência, não!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Tetsu,se os Oficiais
-	te virem,cê vai ser
+	Tetsu, se os Oficiais
+	te virem, cê vai ser
 	desqualificado!
 	"""
 	keyWait
@@ -88,7 +88,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Tetsu
 	"""
-	É,cê te razão...
+	É, cê te razão...
 	Mas depois que um
 	homem cerra os
 	"""
@@ -96,7 +96,7 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	punhos,é difícil
+	punhos, é difícil
 	recuar.
 	"""
 	keyWait
@@ -143,7 +143,7 @@ script 8 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	A-ah,é!
+	A-ah, é!
 	Guarda isso pra
 	NetLuta!
 	"""
@@ -215,7 +215,7 @@ script 14 mmbn4 {
 	"""
 	É. Eu sou um
 	NetLutador de
-	primeira,também!
+	primeira, também!
 	"""
 	keyWait
 		any = false
@@ -237,7 +237,7 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = Riki
 	"""
-	Bom,nesse caso,vai
+	Bom, nesse caso, vai
 	pra Área Vila 3.
 	Agora!
 	"""

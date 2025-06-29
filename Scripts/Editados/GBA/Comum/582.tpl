@@ -27,7 +27,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	msgOpen
-	"He,eu perdi..."
+	"He, eu perdi..."
 	keyWait
 		any = false
 	clearMsg
@@ -87,7 +87,7 @@ script 5 mmbn4 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Bem,até mais. Ainda
+	Bem, até mais. Ainda
 	tem uma coisa que
 	eu preciso fazer.
 	"""
@@ -174,7 +174,7 @@ script 12 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Sr. Match,eu..."
+	"Sr. Match, eu..."
 	keyWait
 		any = false
 	clearMsg
@@ -223,7 +223,7 @@ script 15 mmbn4 {
 	"......\n"
 	mugshotAnimation
 		animation = 2
-	"Moça,eu..."
+	"Moça, eu..."
 	keyWait
 		any = false
 	clearMsg
@@ -238,7 +238,7 @@ script 16 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Bom,é a vida.
+	Bom, é a vida.
 	E eu entendo como
 	ele se sente.
 	"""
@@ -246,14 +246,14 @@ script 16 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Enfim,eu nunca
+	Enfim, eu nunca
 	desanimo por muito
 	tempo.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Mas,desta vez..."
+	"Mas, desta vez..."
 	keyWait
 		any = false
 	end
@@ -273,7 +273,7 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"É,rapidinho!"
+	"É, rapidinho!"
 	keyWait
 		any = false
 	end
@@ -299,7 +299,7 @@ script 19 mmbn4 {
 	clearMsg
 	"""
 	Enquanto o fogo
-	arder em mim,nunca
+	arder em mim, nunca
 	te deixarei em paz!
 	"""
 	keyWait

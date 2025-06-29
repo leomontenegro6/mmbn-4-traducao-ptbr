@@ -21,7 +21,7 @@ script 1 mmbn4 {
 	msgOpen
 	"""
 	Acho que ele usa
-	vento na luta,né?
+	vento na luta, né?
 	"""
 	keyWait
 		any = false
@@ -81,7 +81,7 @@ script 5 mmbn4 {
 		mugshot = Lilly
 	msgOpen
 	"""
-	Desculpe,mas acabei
+	Desculpe, mas acabei
 	ouvindo o que você
 	estava falando.
 	"""
@@ -114,7 +114,7 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Ah,prazer."
+	"Ah, prazer."
 	keyWait
 		any = false
 	clearMsg
@@ -134,7 +134,7 @@ script 7 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,a sua cara tá
+	Lan, a sua cara tá
 	vermelhinha.
 	"""
 	keyWait
@@ -173,7 +173,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = WindMan
 	msgOpen
-	"MegaMan,não?"
+	"MegaMan, não?"
 	keyWait
 		any = false
 	clearMsg
@@ -183,14 +183,14 @@ script 10 mmbn4 {
 	clearMsg
 	"""
 	Nasci em uma terra
-	muito,muito distante
+	muito, muito distante
 	de Ni-Hon,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	e,agora,sou venerado
+	e, agora, sou venerado
 	como Deus dos Ventos
 	na Ilha Shisa.
 	"""
@@ -209,7 +209,7 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ah,é,aquela ilha lá
+	Ah, é, aquela ilha lá
 	pro sul de Ni-Hon.
 	"""
 	keyWait
@@ -325,7 +325,7 @@ script 15 mmbn4 {
 	"""
 	Não fique nervoso.
 	Será uma ótima
-	luta,MegaMan.
+	luta, MegaMan.
 	"""
 	keyWait
 		any = false
@@ -369,7 +369,7 @@ script 18 mmbn4 {
 	msgOpen
 	"""
 	He. Vocês são bons
-	amigos,não é mesmo?
+	amigos, não é mesmo?
 	"""
 	keyWait
 		any = false
@@ -381,12 +381,12 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"He he,pois é!"
+	"He he, pois é!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Beleza,Lilly,a gente
+	Beleza, Lilly, a gente
 	se vê na luta!
 	"""
 	keyWait

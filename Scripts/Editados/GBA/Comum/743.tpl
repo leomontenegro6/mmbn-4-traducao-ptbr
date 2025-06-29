@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"Leões,rujam!"
+	"Leões, rujam!"
 	keyWait
 		any = false
 	clearMsg

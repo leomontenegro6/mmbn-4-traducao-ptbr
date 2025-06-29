@@ -69,7 +69,7 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Por favor,observe
+	Por favor, observe
 	o quadro do
 	torneio.
 	"""
@@ -93,7 +93,7 @@ script 7 mmbn4 {
 		jumpIfBlueMoon = 8
 	msgOpen
 	"""
-	E agora,as duplas
+	E agora, as duplas
 	do Torneio Águia!
 	"""
 	keyWait
@@ -103,7 +103,7 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	msgOpen
 	"""
-	E agora,as duplas
+	E agora, as duplas
 	do Torneio Falcão!
 	"""
 	keyWait

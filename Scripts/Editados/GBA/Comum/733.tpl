@@ -36,7 +36,7 @@ script 2 mmbn4 {
 		mugshot = Lan
 	"""
 	MegaMan?!
-	É você,MegaMan?
+	É você, MegaMan?
 	"""
 	keyWait
 		any = false
@@ -58,7 +58,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Ufa,eu desconectei
+	Ufa, eu desconectei
 	bem em cima da hora!
 	"""
 	keyWait
@@ -82,7 +82,7 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Hã... Não,tô de boa."
+	"Hã... Não, tô de boa."
 	keyWait
 		any = false
 	clearMsg
@@ -92,7 +92,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Ah,ainda bem!"
+	"Ah, ainda bem!"
 	keyWait
 		any = false
 	clearMsg
@@ -112,7 +112,7 @@ script 7 mmbn4 {
 		mugshot = MegaMan
 	"""
 	Diferente? Não!
-	Nada. Tem nada,não.
+	Nada. Tem nada, não.
 	"""
 	keyWait
 		any = false
@@ -136,12 +136,12 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Er,c-claro,né?!"
+	"Er, c-claro, né?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ah,aliás,por que
+	Ah, aliás, por que
 	a gente não desiste
 	do torneio?
 	"""
@@ -163,7 +163,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Sério...? Bom,eu
+	Sério...? Bom, eu
 	não quero arriscar
 	essas coisas.
 	"""
@@ -171,9 +171,9 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	É,acho que a gente
+	É, acho que a gente
 	vai ter que jogar a
-	toalha,mesmo.
+	toalha, mesmo.
 	"""
 	keyWait
 		any = false
@@ -212,7 +212,7 @@ script 12 mmbn4 {
 script 13 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Claro que eu\ntenho,ô!"
+	"Claro que eu\ntenho, ô!"
 	keyWait
 		any = false
 	clearMsg

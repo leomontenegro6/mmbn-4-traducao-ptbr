@@ -43,7 +43,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = AquaMan
 	"""
-	Shuko,rápido,aperta!
+	Shuko, rápido, aperta!
 	Xuá!
 	"""
 	keyWait
@@ -91,7 +91,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Shuko
 	"""
-	De novo,não... Acho
+	De novo, não... Acho
 	que estou destinada
 	à infelicidade.
 	"""
@@ -118,14 +118,14 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotShow
 		mugshot = Shuko
-	"Não,não foi só isso."
+	"Não, não foi só isso."
 	keyWait
 		any = false
 	clearMsg
 	soundPlayBGM
 		track = 12
 	"""
-	Hoje de manhã,eu
+	Hoje de manhã, eu
 	bati o dedinho do
 	meu pé no armário,
 	"""
@@ -157,7 +157,7 @@ script 9 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ah,que garota
+	Ah, que garota
 	azarada eu sou!
 	"""
 	keyWait
@@ -187,7 +187,7 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Talvez,se eu vencer,
+	Talvez, se eu vencer,
 	eu possa mudar o
 	rumo da minha vida.
 	"""
@@ -205,9 +205,9 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = AquaMan
 	"""
-	Shuko,você se
+	Shuko, você se
 	preocupa demais,
-	xuá,xuá.
+	xuá, xuá.
 	"""
 	keyWait
 		any = false
@@ -227,7 +227,7 @@ script 12 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Então,dê o seu
+	Então, dê o seu
 	melhor lá! Xuá.
 	"""
 	keyWait
@@ -268,7 +268,7 @@ script 15 mmbn4 {
 		mugshot = Shuko
 	"""
 	Na frente do Domo?
-	Vamos lá,AquaMan!
+	Vamos lá, AquaMan!
 	"""
 	keyWait
 		any = false
@@ -278,7 +278,7 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = Shuko
 	msgOpen
-	"Opa,desculpa."
+	"Opa, desculpa."
 	keyWait
 		any = false
 	clearMsg
@@ -289,7 +289,7 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Ah,er..."
+	"Ah, er..."
 	keyWait
 		any = false
 	end
@@ -309,8 +309,8 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Aí,ela falou
-	"AquaMan",não foi?
+	Aí, ela falou
+	"AquaMan", não foi?
 	
 	"""
 	keyWait
@@ -323,7 +323,7 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Então,acho que ela
+	Então, acho que ela
 	é a nossa próxima
 	oponente.
 	"""
@@ -349,7 +349,7 @@ script 21 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Enfim,Lan,bora sair
+	Enfim, Lan, bora sair
 	um pouco pra passar
 	o tempo.
 	"""
@@ -362,7 +362,7 @@ script 21 mmbn4 {
 script 22 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"É,vamos."
+	"É, vamos."
 	keyWait
 		any = false
 	end

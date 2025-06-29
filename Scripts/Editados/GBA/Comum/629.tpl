@@ -19,7 +19,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Então,vocês foram os
+	Então, vocês foram os
 	únicos que sobraram!
 	"""
 	keyWait
@@ -106,7 +106,7 @@ script 8 mmbn4 {
 		mugshot = HeelNaviPurple
 	"""
 	Seja o meu estado
-	qual for,eu vou
+	qual for, eu vou
 	pulverizar vocês!
 	"""
 	keyWait
@@ -222,7 +222,7 @@ script 15 mmbn4 {
 	clearMsg
 	"""
 	Hora de ver quem é
-	mais forte,você ou
+	mais forte, você ou
 	eu!
 	"""
 	keyWait
@@ -234,7 +234,7 @@ script 15 mmbn4 {
 script 16 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Mas,no estado em que\nvocê tá..."
+	"Mas, no estado em que\nvocê tá..."
 	keyWait
 		any = false
 	clearMsg
@@ -262,7 +262,7 @@ script 17 mmbn4 {
 	"""
 	Eu vou na frente!
 	É uma briga entre
-	homens,viu?!
+	homens, viu?!
 	"""
 	keyWait
 		any = false
@@ -273,7 +273,7 @@ script 18 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,melhor a gente
+	Lan, melhor a gente
 	ir também!
 	"""
 	keyWait

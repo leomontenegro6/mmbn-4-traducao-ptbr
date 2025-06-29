@@ -22,7 +22,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Aliás,o rosto desta
+	Aliás, o rosto desta
 	é mais sinistro que
 	os das outras.
 	"""
@@ -98,7 +98,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	msgOpen
 	"""
-	De perto,dá para
+	De perto, dá para
 	ver como é feito...
 	"""
 	keyWait

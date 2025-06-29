@@ -12,9 +12,9 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Felizmente,ninguém
+	Felizmente, ninguém
 	se feriu. Graças a
-	você,mocinho.
+	você, mocinho.
 	"""
 	keyWait
 		any = false
@@ -72,7 +72,7 @@ script 2 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Ah,falando neles..."
+	"Ah, falando neles..."
 	keyWait
 		any = false
 	end
@@ -96,7 +96,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Chaud,o que é que
+	Chaud, o que é que
 	você sabe sobre a
 	Nebula?
 	"""
@@ -110,7 +110,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	... Ah,então foi
+	... Ah, então foi
 	obra deles.
 	"""
 	keyWait
@@ -132,7 +132,7 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Antes,eles se escon-
+	Antes, eles se escon-
 	diam atrás da WWW e
 	da Gospel,
 	"""
@@ -190,7 +190,7 @@ script 7 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	mistério,e provavel-
+	mistério, e provavel-
 	mente são até piores
 	que a WWW.
 	"""
@@ -293,7 +293,7 @@ script 11 mmbn4 {
 	msgOpen
 	"""
 	É melhor a gente ir
-	embora,já.
+	embora, já.
 	"""
 	keyWait
 		any = false
@@ -311,7 +311,7 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Er,é. OK..."
+	"Er, é. OK..."
 	keyWait
 		any = false
 	clearMsg

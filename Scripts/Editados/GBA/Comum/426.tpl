@@ -72,7 +72,7 @@ script 11 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	UM DIA DESTES,DOIS
+	UM DIA DESTES, DOIS
 	INTRUSOS FORAM AVIS-
 	TADOS NESTA ÁREA!
 	"""
@@ -115,7 +115,7 @@ script 16 mmbn4 {
 	clearMsg
 	"""
 	NÃO DÁ PARA RESOLVER
-	ISSO DAQUI,DA REDE!
+	ISSO DAQUI, DA REDE!
 	"""
 	keyWait
 		any = false
@@ -152,7 +152,7 @@ script 30 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ei,você! Saca só!
+	Ei, você! Saca só!
 	"""
 	keyWait
 		any = false
@@ -175,7 +175,7 @@ script 30 mmbn4 {
 	clearMsg
 	"""
 	TRÊS pontos?
-	Eu valho,no mínimo,
+	Eu valho, no mínimo,
 	CEM!
 	"""
 	keyWait
@@ -251,7 +251,7 @@ script 50 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	É,esta aqui é a
+	É, esta aqui é a
 	minha bebida favo-
 	rita do muuundo...
 	"""
@@ -273,13 +273,13 @@ script 51 mmbn4 {
 	clearMsg
 	"""
 	Delícia!
-	Ô,coisa boa!
+	Ô, coisa boa!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	É potente,este
+	É potente, este
 	"
 	"""
 	printItem
@@ -310,7 +310,7 @@ script 51 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Quer o quê,garoto?
+	Quer o quê, garoto?
 	Não vai dizer que
 	quer também...
 	"""
@@ -335,24 +335,24 @@ script 51 mmbn4 {
 	"."
 	waitSkip
 		frames = 30
-	"\n... Cê quer,né?"
+	"\n... Cê quer, né?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Bom,eu tenho um mon-
-	te lá em casa,então
+	Bom, eu tenho um mon-
+	te lá em casa, então
 	posso ceder um...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"... mas,de graça,\nnão!"
+	"... mas, de graça, \nnão!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ah,já sei! Cê tem um
+	Ah, já sei! Cê tem um
 	"
 	"""
 	printChip
@@ -367,7 +367,7 @@ script 51 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Se tiver,eu troco
+	Se tiver, eu troco
 	por este
 	"
 	"""
@@ -418,7 +418,7 @@ script 51 mmbn4 {
 	mugshotShow
 		mugshot = PurpleNavi
 	"""
-	Então,esquece,né?
+	Então, esquece, né?
 	Eu bebo tudo
 	sooooo-zinho!
 	"""
@@ -441,7 +441,7 @@ script 52 mmbn4 {
 	msgOpen
 	"""
 	Quê? Cê tem um?!
-	Oxe,que legal,um
+	Oxe, que legal, um
 	"
 	"""
 	printChip
@@ -506,7 +506,7 @@ script 53 mmbn4 {
 	clearMsg
 	"""
 	É você de novo?
-	E aí,quer trocar
+	E aí, quer trocar
 	um "
 	"""
 	printChip
@@ -566,7 +566,7 @@ script 53 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = PurpleNavi
-	"Oh,c'mon!"
+	"Oh, c'mon!"
 	keyWait
 		any = false
 	end
@@ -593,12 +593,12 @@ script 54 mmbn4 {
 	"""
 	Certeza que não tá
 	aí na sua Pes...
-	er,Pasta? HIC!
+	er, Pasta? HIC!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Sem chip,sem troca!"
+	"Sem chip, sem troca!"
 	keyWait
 		any = false
 	end
@@ -750,7 +750,7 @@ script 80 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	ENTÃO,SER BOM DE
+	ENTÃO, SER BOM DE
 	LUTA NÃO É O
 	BASTANTE...
 	"""
@@ -765,7 +765,7 @@ script 80 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"ENTENDI,AGORA!"
+	"ENTENDI, AGORA!"
 	keyWait
 		any = false
 	end
@@ -775,7 +775,7 @@ script 81 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Então,você passou
+	Então, você passou
 	nas preliminares?
 	"""
 	keyWait
@@ -834,7 +834,7 @@ script 90 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	NAVI VS. NAVI,UMA
+	NAVI VS. NAVI, UMA
 	PANCADARIA ATÉ UM
 	CAIR! É TÃO LEGAL!
 	"""
@@ -872,7 +872,7 @@ script 91 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Então,a primeira
+	Então, a primeira
 	luta tá chegando...
 	"""
 	keyWait
@@ -887,7 +887,7 @@ script 91 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Bom,só tenta não
+	Bom, só tenta não
 	passar vergonha...
 	"""
 	keyWait
@@ -918,7 +918,7 @@ script 101 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Então,você passou na
+	Então, você passou na
 	primeira rodada?
 	Hm... Que surpresa.
 	"""
@@ -928,7 +928,7 @@ script 101 mmbn4 {
 	"""
 	Parecia tanto que
 	você ia perd...
-	Er,deixa pra lá...
+	Er, deixa pra lá...
 	"""
 	keyWait
 		any = false
@@ -970,7 +970,7 @@ script 111 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Bom,agora vai lá e
+	Bom, agora vai lá e
 	vence esse torneio!
 	"""
 	keyWait
@@ -1011,16 +1011,16 @@ script 121 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Um Navi,levado pela
+	Um Navi, levado pela
 	Máfia? Não sei disso
-	aí,não...
+	aí, não...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Você precisa achar
-	ou esse Navi,ou a
+	ou esse Navi, ou a
 	chefona da Máfia...
 	"""
 	keyWait
@@ -1050,7 +1050,7 @@ script 128 mmbn4 {
 	"""
 	QUEM ELES PENSAM
 	QUE SÃO?!
-	EU,HEIN!
+	EU, HEIN!
 	"""
 	keyWait
 		any = false
@@ -1094,7 +1094,7 @@ script 130 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	... BOM,ATÉ QUE FOI
+	... BOM, ATÉ QUE FOI
 	MEIO DIVERTIDO SER
 	SOPRADO...
 	"""

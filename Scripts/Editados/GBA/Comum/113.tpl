@@ -15,7 +15,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Olhando bem,a porta
+	Olhando bem, a porta
 	tá destrancada. Ela
 	se abre ao empurrar!
 	"""
@@ -29,7 +29,7 @@ script 1 mmbn4 {
 	msgOpen
 	"""
 	Lixo reciclável e
-	comum,devidamente
+	comum, devidamente
 	separados.
 	"""
 	keyWait
@@ -44,7 +44,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Olhando bem,dá para
+	Olhando bem, dá para
 	ver uma coisa
 	escrita...
 	"""
@@ -71,7 +71,7 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E,de fato,tem uma
+	E, de fato, tem uma
 	seleção enorme de
 	bebidas deliciosas.
 	"""
@@ -83,7 +83,7 @@ script 3 mmbn4 {
 	msgOpen
 	"""
 	A placa é difícil de
-	entender,mas são 30%
+	entender, mas são 30%
 	de desconto...
 	"""
 	keyWait
@@ -146,7 +146,7 @@ script 7 mmbn4 {
 	msgOpen
 	"""
 	Devido à economia
-	fraca,nem todas as
+	fraca, nem todas as
 	lojas prosperam...
 	"""
 	keyWait
@@ -226,7 +226,7 @@ script 10 mmbn4 {
 	clearMsg
 	"""
 	Se você estivesse
-	com fome,entraria
+	com fome, entraria
 	aí sem nem pensar.
 	"""
 	keyWait
@@ -304,7 +304,7 @@ script 16 mmbn4 {
 	msgOpen
 	"""
 	Devido à economia
-	fraca,nem todas as
+	fraca, nem todas as
 	lojas estão bem...
 	"""
 	keyWait
@@ -404,7 +404,7 @@ script 20 mmbn4 {
 script 21 mmbn4 {
 	msgOpen
 	"""
-	É meio caro,mas aí
+	É meio caro, mas aí
 	servem escalopes
 	deliciosos.
 	"""

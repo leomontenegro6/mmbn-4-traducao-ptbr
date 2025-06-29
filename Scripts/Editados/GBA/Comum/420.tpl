@@ -13,7 +13,7 @@ script 31 mmbn4 {
 	mugshotShow
 		mugshot = Roll
 	msgOpen
-	"Boa sorte,MegaMan!"
+	"Boa sorte, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -44,7 +44,7 @@ script 33 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Detona,cara!
+	Detona, cara!
 	Torço por você!
 	"""
 	keyWait
@@ -73,7 +73,7 @@ script 35 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Valente,você!
+	Valente, você!
 	Manda ver!
 	"""
 	keyWait
@@ -211,7 +211,7 @@ script 41 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"... Não,não..."
+	"... Não, não..."
 	keyWait
 		any = false
 	end
@@ -377,7 +377,7 @@ script 51 mmbn4 {
 	clearMsg
 	"""
 	Acho que vou ficar
-	aqui,então...
+	aqui, então...
 	"""
 	keyWait
 		any = false
@@ -435,14 +435,14 @@ script 60 mmbn4 {
 	clearMsg
 	"""
 	.........
-	BEM,ACHO QUE NÃO
+	BEM, ACHO QUE NÃO
 	TENHO ESCOLHA...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	VÃO,MEUS QUERIDOS
+	VÃO, MEUS QUERIDOS
 	VÍRUS!
 	"""
 	keyWait
@@ -549,7 +549,7 @@ script 70 mmbn4 {
 	clearMsg
 	"""
 	Eu estou me dedi-
-	cando à busca,mas
+	cando à busca, mas
 	tão bem escondidos!
 	"""
 	keyWait
@@ -569,7 +569,7 @@ script 71 mmbn4 {
 	clearMsg
 	"""
 	Eu tô correndo...
-	er,digo,caminhando.
+	er, digo, caminhando.
 	É bom pra saúde!
 	"""
 	keyWait
@@ -635,7 +635,7 @@ script 82 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	ENTÃO,UMAS NETLUTAS
+	ENTÃO, UMAS NETLUTAS
 	INTENSAS ESTÃO A
 	CAMINHO!
 	"""
@@ -664,7 +664,7 @@ script 83 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	ENTÃO,UMAS NETLUTAS
+	ENTÃO, UMAS NETLUTAS
 	INTENSAS ESTÃO A
 	CAMINHO!
 	"""
@@ -695,7 +695,7 @@ script 90 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Pena,não consegui
+	Pena, não consegui
 	entrar. Mas foi
 	divertido...
 	"""
@@ -725,7 +725,7 @@ script 91 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Primeiro,vou aumen-
+	Primeiro, vou aumen-
 	tar minha resistên-
 	cia caminhando...
 	"""
@@ -812,7 +812,7 @@ script 102 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	VENHAM,TODOS,
+	VENHAM, TODOS,
 	VENHAM VER!
 	TRAGAM OS AMIGOS!
 	"""
@@ -825,7 +825,7 @@ script 110 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Ei,você não é o
+	Ei, você não é o
 	MegaMan?
 	"""
 	keyWait
@@ -833,7 +833,7 @@ script 110 mmbn4 {
 	clearMsg
 	"""
 	Uau! Se vencer a
-	próxima luta,será
+	próxima luta, será
 	o campeão nacional!
 	"""
 	keyWait
@@ -983,7 +983,7 @@ script 240 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Fala,rapaz! Tenho
+	Fala, rapaz! Tenho
 	uns dados ótimos
 	aqui!
 	"""
@@ -1005,7 +1005,7 @@ script 240 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	É de Sharo,lááá no
+	É de Sharo, lááá no
 	norte...
 	"""
 	keyWait
@@ -1052,7 +1052,7 @@ script 240 mmbn4 {
 		mugshot = NormalNaviYellow
 	"""
 	Só dá pra achar
-	isto aqui,viu...
+	isto aqui, viu...
 	"""
 	keyWait
 		any = false
@@ -1093,7 +1093,7 @@ script 241 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	Isso aí é forte,viu?
+	Isso aí é forte, viu?
 	Com certeza vai vir
 	a calhar!
 	"""
@@ -1123,7 +1123,7 @@ script 242 mmbn4 {
 	clearMsg
 	"""
 	Da próxima vier que
-	vier aqui,traga mais
+	vier aqui, traga mais
 	dinheiro!
 	"""
 	keyWait
@@ -1139,7 +1139,7 @@ script 243 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E aí,quer comprar
+	E aí, quer comprar
 	o "
 	"""
 	printItem
@@ -1188,7 +1188,7 @@ script 243 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	Ah,que pena...
+	Ah, que pena...
 	"""
 	keyWait
 		any = false

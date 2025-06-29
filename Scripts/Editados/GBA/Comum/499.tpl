@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Pronto,coletei 50
+	Pronto, coletei 50
 	Pontos de Batalha!
 	"""
 	keyWait
@@ -29,7 +29,7 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	......
-	É,parece que você
+	É, parece que você
 	tem os 50 pontos.
 	"""
 	keyWait
@@ -44,7 +44,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Contudo,este torneio
+	Contudo, este torneio
 	tem lutadores de
 	toda a Ni-Hon.
 	"""
@@ -81,7 +81,7 @@ script 3 mmbn4 {
 		mugshot = SciLabMan
 	"""
 	Ha ha ha.
-	Bom,fique focado e
+	Bom, fique focado e
 	dê tudo de si.
 	"""
 	keyWait
@@ -101,7 +101,7 @@ script 3 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Vamos,sem demora."
+	"Vamos, sem demora."
 	keyWait
 		any = false
 	clearMsg
@@ -116,7 +116,7 @@ script 4 mmbn4 {
 		mugshot = MegaMan
 	"""
 	NetLutadores de
-	toda a Ni-Hon,é?
+	toda a Ni-Hon, é?
 	"""
 	keyWait
 		any = false
@@ -152,14 +152,14 @@ script 6 mmbn4 {
 	clearMsg
 	"""
 	......
-	É,parece que você
+	É, parece que você
 	tem os 50 pontos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Bem,você FOI o cam-
+	Bem, você FOI o cam-
 	peão do Torneio de
 	Batalha da Cidade!
 	"""
@@ -167,7 +167,7 @@ script 6 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Contudo,este torneio
+	Contudo, este torneio
 	tem lutadores de
 	toda a Ni-Hon.
 	"""
@@ -190,7 +190,7 @@ script 7 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Ah,sim! Tenho que
+	Ah, sim! Tenho que
 	lhe dar isto.
 	"""
 	keyWait

@@ -25,7 +25,7 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	Lan! A Roll...
-	A Roll,ela...!
+	A Roll, ela...!
 	"""
 	keyWait
 		any = false
@@ -90,7 +90,7 @@ script 3 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Lan,já tá todo mundo
+	Lan, já tá todo mundo
 	na Área ACDC 3!
 	Não demora!
 	"""
@@ -102,7 +102,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Lan,MegaMan..."
+	"Lan, MegaMan..."
 	keyWait
 		any = false
 	clearMsg
@@ -115,14 +115,14 @@ script 5 mmbn4 {
 	clearMsg
 	"""
 	Se ela tivesse se
-	machucado,eu...
+	machucado, eu...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Não chora,vai!"
+	"Não chora, vai!"
 	keyWait
 		any = false
 	clearMsg
@@ -158,7 +158,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Obrigada de novo,\nLan!"
+	"Obrigada de novo, \nLan!"
 	keyWait
 		any = false
 	clearMsg
@@ -188,7 +188,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Obrigada de novo,\nLan!"
+	"Obrigada de novo, \nLan!"
 	keyWait
 		any = false
 	clearMsg
@@ -218,7 +218,7 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Lan,eu tenho certeza"
+	"Lan, eu tenho certeza"
 	keyWait
 		any = false
 	clearMsg
@@ -243,7 +243,7 @@ script 20 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mandou bem,Lan!
+	Mandou bem, Lan!
 	Boa sorte!
 	"""
 	keyWait
@@ -278,7 +278,7 @@ script 30 mmbn4 {
 	msgOpen
 	"""
 	Se eu tivesse me
-	inscrito,será que
+	inscrito, será que
 	eu chegava longe?
 	"""
 	keyWait
@@ -289,7 +289,7 @@ script 30 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Poxa,Lan!
+	Poxa, Lan!
 	Eu sempre dou tudo
 	de mim!
 	"""
@@ -309,7 +309,7 @@ script 35 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Hã? Ah,eu só tava
+	Hã? Ah, eu só tava
 	aqui pensando alto.
 	"""
 	keyWait

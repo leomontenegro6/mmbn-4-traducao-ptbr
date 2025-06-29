@@ -23,7 +23,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	MegaMan,seu ódio por
+	MegaMan, seu ódio por
 	mim... fará com que
 	sua Alma Sombria...
 	"""
@@ -36,7 +36,7 @@ script 0 mmbn4 {
 	clearMsg
 	"""
 	He he. Posso até
-	ver. Bem fundo,no
+	ver. Bem fundo, no
 	seu corpo...
 	"""
 	keyWait

@@ -25,13 +25,13 @@ script 0 mmbn4 {
 	"""
 	terra sem lei.
 	O lance aqui é
-	toma lá,dá cá,
+	toma lá, dá cá,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	então,compartilhem
+	então, compartilhem
 	informações aí.
 	"""
 	keyWait
@@ -57,14 +57,14 @@ script 1 mmbn4 {
 	"""
 	Elmperors. Sugam a
 	energia dos quadros,
-	então,se fizer os
+	então, se fizer os
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	quadros deles volta-
-	rem ao normal,eles
+	rem ao normal, eles
 	se enfraquecem.
 	"""
 	keyWait
@@ -182,14 +182,14 @@ script 4 mmbn4 {
 	clearMsg
 	"""
 	fraca! Eu uso Chips
-	das Trevas,mas a
+	das Trevas, mas a
 	minha é forte!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Dito isso,quando
+	Dito isso, quando
 	meus PV tão no fim,
 	minha AlmaSomb brota
 	"""
@@ -287,7 +287,7 @@ script 7 mmbn4 {
 	"""
 	Só Navis sem corpos
 	pretos podem usar
-	chips SP,e só Navis
+	chips SP, e só Navis
 	"""
 	keyWait
 		any = false
@@ -333,7 +333,7 @@ script 8 mmbn4 {
 	clearMsg
 	"""
 	pra um grande Buraco
-	Negro,mas Navis de
+	Negro, mas Navis de
 	alma forte resistem.
 	"""
 	keyWait
@@ -350,7 +350,7 @@ script 9 mmbn4 {
 		top = 108
 	"""
 	Eu juro que vi
-	Django,o Garoto
+	Django, o Garoto
 	Solar!
 	"""
 	keyWait

@@ -6,7 +6,7 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	Tudo parece bem
-	aqui,mesmo depois
+	aqui, mesmo depois
 	do ShadeMan...
 	"""
 	keyWait

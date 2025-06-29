@@ -130,7 +130,7 @@ script 9 mmbn4 {
 		mugshot = BusinessMan
 	"""
 	Você pode ter
-	perdido,mas lutou
+	perdido, mas lutou
 	com muita garra!
 	"""
 	keyWait
@@ -150,7 +150,7 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
-	"Hã,é!"
+	"Hã, é!"
 	keyWait
 		any = false
 	clearMsg
@@ -267,7 +267,7 @@ script 15 mmbn4 {
 		mugshot = ShadyGuy
 	msgOpen
 	"""
-	Por favor,deixe isso
+	Por favor, deixe isso
 	comigo!
 	"""
 	keyWait
@@ -285,7 +285,7 @@ script 16 mmbn4 {
 	clearMsg
 	"""
 	Vamos direto ao
-	trabalho,então!
+	trabalho, então!
 	"""
 	keyWait
 		any = false
@@ -383,7 +383,7 @@ script 25 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Bom,tudo está bem
+	Bom, tudo está bem
 	quando acaba bem.
 	Né?
 	"""

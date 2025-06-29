@@ -39,7 +39,7 @@ script 2 mmbn4 {
 		mugshot = Lan
 	"""
 	É.
-	Na real,ele é meio
+	Na real, ele é meio
 	sinistro.
 	"""
 	keyWait
@@ -68,7 +68,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Que foi,MegaMan?"
+	"Que foi, MegaMan?"
 	keyWait
 		any = false
 	clearMsg
@@ -97,7 +97,7 @@ script 6 mmbn4 {
 	clearMsg
 	"""
 	Por que tá tão
-	nervoso,MegaMan?
+	nervoso, MegaMan?
 	"""
 	keyWait
 		any = false
@@ -124,7 +124,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
 	msgOpen
-	"Ai,não..."
+	"Ai, não..."
 	keyWait
 		any = false
 	end
@@ -143,7 +143,7 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
-	"Ah,oi,Lan."
+	"Ah, oi, Lan."
 	keyWait
 		any = false
 	clearMsg
@@ -157,21 +157,21 @@ script 10 mmbn4 {
 	clearMsg
 	"""
 	Como oficial do tor-
-	neio,eu queria fazer
+	neio, eu queria fazer
 	algo a respeito
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	disso,mas estou
+	disso, mas estou
 	ocupada demais
 	agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Com licença,tenho\nmesmo que ir."
+	"Com licença, tenho\nmesmo que ir."
 	keyWait
 		any = false
 	end
@@ -209,7 +209,7 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Ah,não seria bom a
+	Ah, não seria bom a
 	gente atrapalhar
 	ela.
 	"""
@@ -231,7 +231,7 @@ script 14 mmbn4 {
 	clearMsg
 	"""
 	Se a gente
-	atrapalhar,a gente
+	atrapalhar, a gente
 	desconecta.
 	"""
 	keyWait

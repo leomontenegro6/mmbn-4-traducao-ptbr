@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
 	msgOpen
-	"Venha comigo,\npor favor."
+	"Venha comigo, \npor favor."
 	keyWait
 		any = false
 	clearMsg
@@ -15,7 +15,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	P-pera,que lugar é
+	P-pera, que lugar é
 	este?!
 	"""
 	keyWait
@@ -26,7 +26,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
 	msgOpen
-	"Bem-vindo,Lan."
+	"Bem-vindo, Lan."
 	keyWait
 		any = false
 	clearMsg
@@ -71,7 +71,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
-	"Escute o que eu\nvou dizer,e tente\nmanter a calma..."
+	"Escute o que eu\nvou dizer, e tente\nmanter a calma..."
 	keyWait
 		any = false
 	clearMsg
@@ -94,7 +94,7 @@ script 4 mmbn4 {
 	"""
 	Nosso plano é preve-
 	nir o impacto com a
-	sua ajuda,Lan.
+	sua ajuda, Lan.
 	"""
 	keyWait
 		any = false
@@ -112,7 +112,7 @@ script 5 mmbn4 {
 	"""
 	Eu não ouvi falar
 	nada de nenhum
-	asteroide,não!
+	asteroide, não!
 	"""
 	keyWait
 		any = false
@@ -137,7 +137,7 @@ script 6 mmbn4 {
 	clearMsg
 	"""
 	Se o público soubes-
-	se,o mundo inteiro
+	se, o mundo inteiro
 	entraria em pânico.
 	"""
 	keyWait

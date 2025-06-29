@@ -6,14 +6,14 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	Se destruirmos este
-	aparelho,os leões
+	aparelho, os leões
 	devem se acalmar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ah! Lan,acabou de
+	Ah! Lan, acabou de
 	sair um vírus!
 	"""
 	keyWait
@@ -34,7 +34,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ah,parece que ainda
+	Ah, parece que ainda
 	tem vírus aqui!
 	"""
 	keyWait
@@ -42,7 +42,7 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	Manda ver na
-	operação,Lan!
+	operação, Lan!
 	"""
 	keyWait
 		any = false
@@ -55,7 +55,7 @@ script 2 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,a gente tem
+	Lan, a gente tem
 	que destruir o
 	dispositivo!
 	"""
@@ -72,7 +72,7 @@ script 2 mmbn4 {
 	clearMsg
 	"""
 	Manda ver na
-	operação,Lan!
+	operação, Lan!
 	"""
 	keyWait
 		any = false
@@ -93,7 +93,7 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Lan,a operação é
+	Lan, a operação é
 	com você!
 	"""
 	keyWait

@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Pronto,Lan,vírus
+	Pronto, Lan, vírus
 	deletados. Como tão
 	as coisas aí?
 	"""
@@ -25,7 +25,7 @@ script 1 mmbn4 {
 	"""
 	Hm? Ainda não liga.
 	Que estranho. Era
-	pra ser assim,e...
+	pra ser assim, e...
 	"""
 	keyWait
 		any = false
@@ -51,7 +51,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Então,os vírus não
+	Então, os vírus não
 	eram o problema?
 	"""
 	keyWait
@@ -66,13 +66,13 @@ script 4 mmbn4 {
 	"""
 	Só sei que só o
 	Match pode conser-
-	tar,ao que parece.
+	tar, ao que parece.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Moça,eu vou achar
+	Moça, eu vou achar
 	o Match pra você.
 	"""
 	keyWait
@@ -86,7 +86,7 @@ script 5 mmbn4 {
 		mugshot = HotDogLady
 	"""
 	Obrigada! Depois que
-	consertar,faço um de
+	consertar, faço um de
 	graça pra você!
 	"""
 	keyWait

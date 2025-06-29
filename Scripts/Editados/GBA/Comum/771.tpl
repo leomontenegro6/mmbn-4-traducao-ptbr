@@ -12,7 +12,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Primeiro,represen-
+	Primeiro, represen-
 	tando Ni-Hon:
 	Lan Hikari!
 	"""
@@ -84,7 +84,7 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Desta vez,é você
+	Desta vez, é você
 	que vai pro chão!
 	"""
 	keyWait
@@ -101,14 +101,14 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Suponho,então,
+	Suponho, então,
 	que esteja pronto.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SearchMan,neutralize
+	SearchMan, neutralize
 	o MegaMan...
 	"""
 	keyWait
@@ -138,7 +138,7 @@ script 7 mmbn4 {
 	msgOpen
 	"""
 	Vejam só essas
-	faíscas,amigos!
+	faíscas, amigos!
 	"""
 	keyWait
 		any = false

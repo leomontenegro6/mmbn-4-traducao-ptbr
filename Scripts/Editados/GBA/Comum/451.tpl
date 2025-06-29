@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Que demora,pai...!
+	Que demora, pai...!
 	Já tô de saco cheio
 	de esperar.
 	"""
@@ -18,13 +18,13 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Já,já ele volta."
+	"Já, já ele volta."
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Ele é um cara super
-	ocupado,você sabe
+	ocupado, você sabe
 	disso.
 	"""
 	keyWait
@@ -56,7 +56,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Tá tranquilo,mas
+	Tá tranquilo, mas
 	bora logo pra
 	EletroVila.
 	"""
@@ -71,7 +71,7 @@ script 5 mmbn4 {
 		mugshot = Dad
 	"""
 	Vamos. Acabaram os
-	atrasos,eu juro!
+	atrasos, eu juro!
 	"""
 	keyWait
 		any = false

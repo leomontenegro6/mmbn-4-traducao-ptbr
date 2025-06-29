@@ -59,7 +59,7 @@ script 3 mmbn4 {
 	"""
 	Isso é o que vere-
 	mos! A gente não vai
-	desistir,nunca!
+	desistir, nunca!
 	"""
 	keyWait
 		any = false
@@ -109,7 +109,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Rápido,MegaMan!"
+	"Rápido, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -139,7 +139,7 @@ script 9 mmbn4 {
 	msgOpen
 	"""
 	Grrr... Gnrr...
-	Droga,que pesado!
+	Droga, que pesado!
 	"""
 	keyWait
 		any = false

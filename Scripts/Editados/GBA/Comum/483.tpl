@@ -5,8 +5,8 @@ script 0 mmbn4 {
 		mugshot = ShadeMan
 	msgOpen
 	"""
-	Então,você ousa
-	voltar aqui,é?
+	Então, você ousa
+	voltar aqui, é?
 	Hye-heeee!!
 	"""
 	keyWait
@@ -18,7 +18,7 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
-	"P-perdão,senhor!"
+	"P-perdão, senhor!"
 	keyWait
 		any = false
 	clearMsg
@@ -110,7 +110,7 @@ script 7 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Agora,terei que cui-
+	Agora, terei que cui-
 	dar disso com minhas
 	próprias mãos.
 	"""
@@ -127,7 +127,7 @@ script 8 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Mãe,não era pra você
+	Mãe, não era pra você
 	estar descansando?
 	"""
 	keyWait
@@ -140,7 +140,7 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Mom
 	"""
-	Eu tô bem agora,e
+	Eu tô bem agora, e
 	alguém tem que
 	fazer o jantar.
 	"""
@@ -168,7 +168,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Mom
 	"""
-	Obrigada,Lan.
+	Obrigada, Lan.
 	E desculpa por te
 	preocupar.
 	"""
@@ -209,7 +209,7 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan,ligação pra
+	Lan, ligação pra
 	você!
 	"""
 	keyWait
@@ -221,7 +221,7 @@ script 15 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Oi,Mayl.
+	Oi, Mayl.
 	Que foi?
 	"""
 	keyWait
@@ -260,7 +260,7 @@ script 16 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ah,por mais que
+	Ah, por mais que
 	você fale "por
 	favor"...
 	"""
@@ -279,7 +279,7 @@ script 17 mmbn4 {
 		mugshot = Mom
 	"""
 	Eu estou bem.
-	Vai lá,filho,
+	Vai lá, filho,
 	divirta-se!
 	"""
 	keyWait
@@ -305,7 +305,7 @@ script 19 mmbn4 {
 		mugshot = Mom
 	"""
 	Ela está te chamando
-	pra um encontro,é?
+	pra um encontro, é?
 	"""
 	keyWait
 		any = false
@@ -316,7 +316,7 @@ script 19 mmbn4 {
 script 20 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"N-não,não é um\nencontro!!"
+	"N-não, não é um\nencontro!!"
 	keyWait
 		any = false
 	clearMsg
@@ -351,14 +351,14 @@ script 21 mmbn4 {
 	clearMsg
 	"""
 	Se outro bandido en-
-	trar aqui,bato nele
+	trar aqui, bato nele
 	com a frigideira!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Vai,fala logo pra
+	Vai, fala logo pra
 	ela que você vai,
 	sim.
 	"""
@@ -371,9 +371,9 @@ script 22 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Er... É,acho que
+	Er... É, acho que
 	dá pra eu ir este
-	fim de semana,sim.
+	fim de semana, sim.
 	"""
 	keyWait
 		any = false

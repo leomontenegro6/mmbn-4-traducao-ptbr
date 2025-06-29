@@ -6,7 +6,7 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	Toma. Era isto aqui
-	que você queria,né?
+	que você queria, né?
 	"""
 	keyWait
 		any = false
@@ -158,7 +158,7 @@ script 11 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Até amanhã,Mayl!
+	Até amanhã, Mayl!
 	"""
 	keyWait
 		any = false
@@ -170,7 +170,7 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	"""
-	Tá,não se preocupa
+	Tá, não se preocupa
 	comigo. Vai logo pra
 	casa!
 	"""

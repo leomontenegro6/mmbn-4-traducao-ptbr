@@ -14,7 +14,7 @@ script 1 mmbn4 {
 	msgOpen
 	"""
 	Por aqui fica a Área
-	Castillo,um parque
+	Castillo, um parque
 	temático.
 	"""
 	keyWait
@@ -36,7 +36,7 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	callBufferCastilloPassword
 	"""
-	Funcionário,insira
+	Funcionário, insira
 	seu código pessoal.
 	"""
 	keyWait
@@ -246,7 +246,7 @@ script 10 mmbn4 {
 	msgOpen
 	"""
 	Num dá nem mais um
-	passo,ô! Aí!
+	passo, ô! Aí!
 	"""
 	keyWait
 		any = false
@@ -304,7 +304,7 @@ script 14 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Em uma luta,deve-se
+	Em uma luta, deve-se
 	sempre agir
 	primeiro! Iuááá!
 	"""

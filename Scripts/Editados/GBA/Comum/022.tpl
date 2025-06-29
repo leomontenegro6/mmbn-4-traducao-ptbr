@@ -29,7 +29,7 @@ script 6 mmbn4s {
 	end
 }
 script 7 mmbn4s {
-	" Nikaido  Oi,Yai!      "
+	" Nikaido  Oi, Yai!      "
 	end
 }
 script 8 mmbn4s {

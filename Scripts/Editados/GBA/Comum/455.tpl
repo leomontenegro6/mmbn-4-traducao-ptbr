@@ -95,7 +95,7 @@ script 6 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Lamento,mas não
+	Lamento, mas não
 	tenho tempo pra
 	lutar com você.
 	"""
@@ -211,7 +211,7 @@ script 12 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Rápido,MegaMan!"
+	"Rápido, MegaMan!"
 	keyWait
 		any = false
 	clearMsg

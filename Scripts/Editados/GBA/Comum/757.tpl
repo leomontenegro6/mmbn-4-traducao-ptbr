@@ -33,7 +33,7 @@ script 1 mmbn4 {
 	"""
 	E do outro lado,
 	representando
-	Ni-Hon,Lan Hikari!
+	Ni-Hon, Lan Hikari!
 	"""
 	keyWait
 		any = false
@@ -44,7 +44,7 @@ script 2 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Paulie,o rio voltou
+	Paulie, o rio voltou
 	ao normal!
 	"""
 	keyWait

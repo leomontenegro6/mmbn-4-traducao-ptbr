@@ -19,7 +19,7 @@ script 0 mmbn4 {
 	clearMsg
 	"""
 	ESTA PÁGINA NÃO TEM
-	LINKS,NO MOMENTO.
+	LINKS, NO MOMENTO.
 	"""
 	keyWait
 		any = false
@@ -176,7 +176,7 @@ script 2 mmbn4 {
 	"""
 	E SABE POR QUÊ?
 	PORQUE EU ESTOU
-	AQUI,ORAS!
+	AQUI, ORAS!
 	"""
 	keyWait
 		any = false
@@ -256,7 +256,7 @@ script 11 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	É,nenhuma postagem
+	É, nenhuma postagem
 	interessante hoje...
 	"""
 	keyWait
@@ -293,7 +293,7 @@ script 12 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Eu sempre leio,mas
+	Eu sempre leio, mas
 	nunca posto!
 	
 	"""
@@ -316,7 +316,7 @@ script 15 mmbn4 {
 	"""
 	Ouvi falar que a
 	administradora da
-	página,Yai,é ricaça!
+	página, Yai, é ricaça!
 	"""
 	keyWait
 		any = false
@@ -348,7 +348,7 @@ script 17 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ah,uma coisa dessas
+	Ah, uma coisa dessas
 	nunca aconteceria
 	nesta página!
 	"""
@@ -418,7 +418,7 @@ script 22 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Poxa,e eu queria
+	Poxa, e eu queria
 	tanto ver a Yai
 	lutando!
 	"""
@@ -471,7 +471,7 @@ script 26 mmbn4 {
 	msgOpen
 	"""
 	Quando eu ficar mais
-	forte,eu tento
+	forte, eu tento
 	entrar em torneio.
 	"""
 	keyWait

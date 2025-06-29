@@ -35,7 +35,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	vindo! Ah,er...
+	vindo! Ah, er...
 	esquece. Isso não
 	envolve você...
 	"""
@@ -211,7 +211,7 @@ script 22 mmbn4 {
 	"""
 	Contamos com você
 	para consertar a
-	Rede,Lan! Por favor!
+	Rede, Lan! Por favor!
 	"""
 	keyWait
 		any = false
@@ -278,7 +278,7 @@ script 26 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Desculpe,mas estou
+	Desculpe, mas estou
 	sem tempo para
 	falar agora.
 	"""
@@ -299,7 +299,7 @@ script 27 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Ao que parece,o Navi
+	Ao que parece, o Navi
 	que dividiu a Rede
 	"""
 	keyWait
@@ -314,7 +314,7 @@ script 27 mmbn4 {
 	clearMsg
 	"""
 	Se não o detivermos
-	logo,vai saber o
+	logo, vai saber o
 	que ele fará depois!
 	"""
 	keyWait
@@ -384,7 +384,7 @@ script 36 mmbn4 {
 	msgOpen
 	"""
 	Se não fizermos
-	alguma coisa,o nosso
+	alguma coisa, o nosso
 	planeta já era!
 	"""
 	keyWait
@@ -493,7 +493,7 @@ script 150 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Lamento,mas ele está
+	Lamento, mas ele está
 	ocupado com uma
 	missão importante.
 	"""
@@ -503,7 +503,7 @@ script 150 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Nesse caso,deixa a
+	Nesse caso, deixa a
 	gente ajudar com a
 	missão também!
 	"""
@@ -519,7 +519,7 @@ script 150 mmbn4 {
 	"""
 	A missão dele não é
 	tão fácil quando
-	você pensa,não!
+	você pensa, não!
 	"""
 	keyWait
 		any = false
@@ -533,8 +533,8 @@ script 150 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Pois é,como dá pra
-	imaginar,é perigoso
+	Pois é, como dá pra
+	imaginar, é perigoso
 	para caramba!
 	"""
 	keyWait

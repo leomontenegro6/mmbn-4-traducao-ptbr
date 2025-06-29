@@ -68,7 +68,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = OldMan
 	"""
-	... Meu jovem,seu
+	... Meu jovem, seu
 	oponente hoje será
 	o SparkMan?
 	"""
@@ -120,7 +120,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan,melhor a gente
+	Lan, melhor a gente
 	voltar logo pra
 	arena!
 	"""
@@ -138,7 +138,7 @@ script 9 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ah,lembrando: eu
+	Ah, lembrando: eu
 	liberei a pasta
 	bloqueada,
 	"""
@@ -154,7 +154,7 @@ script 9 mmbn4 {
 		buffer = 0
 		entry = 2
 	"""
-	",então,
+	", então,
 	"""
 	keyWait
 		any = false
@@ -175,7 +175,7 @@ script 10 mmbn4 {
 		mugshot = Lan
 	"""
 	Beleza!
-	Valeu,moço!
+	Valeu, moço!
 	"""
 	keyWait
 		any = false

@@ -6,7 +6,7 @@ script 10 mmbn4 {
 	msgOpen
 	"""
 	ESTOU EMITINDO IONS
-	NEGATIVOS,DEIXANDO O
+	NEGATIVOS, DEIXANDO O
 	QUARTO DA MAYL MAIS
 	"""
 	keyWait
@@ -14,7 +14,7 @@ script 10 mmbn4 {
 	clearMsg
 	"""
 	RELAXANTE.
-	VÃO,IONS NEGATIVOS!
+	VÃO, IONS NEGATIVOS!
 	"""
 	keyWait
 		any = false

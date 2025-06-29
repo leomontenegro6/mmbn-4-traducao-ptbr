@@ -81,7 +81,7 @@ script 3 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Ei,você aí!"
+	"Ei, você aí!"
 	keyWait
 		any = false
 	end
@@ -101,7 +101,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Flave
 	msgOpen
-	"É,você!"
+	"É, você!"
 	keyWait
 		any = false
 	clearMsg
@@ -117,9 +117,9 @@ script 6 mmbn4 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Ha,achou que eu era
+	Ha, achou que eu era
 	só um velhinho
-	qualquer,é?!
+	qualquer, é?!
 	"""
 	keyWait
 		any = false
@@ -156,7 +156,7 @@ script 7 mmbn4 {
 		mugshot = Flave
 	msgOpen
 	"""
-	He he,então aí é que
+	He he, então aí é que
 	eu quero MESMO que
 	você experimente!
 	"""
@@ -175,8 +175,8 @@ script 8 mmbn4 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Bem,se está tão
-	seguro assim,eu
+	Bem, se está tão
+	seguro assim, eu
 	experimento.
 	"""
 	keyWait
@@ -199,7 +199,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Man
 	msgOpen
-	"E aí,senhor?"
+	"E aí, senhor?"
 	keyWait
 		any = false
 	clearMsg
@@ -261,7 +261,7 @@ script 15 mmbn4 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Ahhh! Nossa,essa foi
+	Ahhh! Nossa, essa foi
 	quase!
 	"""
 	keyWait
@@ -323,7 +323,7 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = Flave
 	msgOpen
-	"E aí,impressionado?"
+	"E aí, impressionado?"
 	keyWait
 		any = false
 	clearMsg
@@ -348,7 +348,7 @@ script 20 mmbn4 {
 	mugshotAnimation
 		animation = 2
 	"""
-	Bom,é,tava bom.
+	Bom, é, tava bom.
 	"""
 	keyWait
 		any = false
@@ -388,7 +388,7 @@ script 22 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Não sei o que é,mas
+	Não sei o que é, mas
 	o dela tem algo que
 	o seu não tem.
 	"""
@@ -400,7 +400,7 @@ script 23 mmbn4 {
 	mugshotShow
 		mugshot = Flave
 	msgOpen
-	"Ora,seu...!"
+	"Ora, seu...!"
 	keyWait
 		any = false
 	clearMsg
@@ -422,7 +422,7 @@ script 23 mmbn4 {
 	clearMsg
 	"""
 	Este é um prato
-	requintado,não
+	requintado, não
 	sabia?!
 	"""
 	keyWait
@@ -438,7 +438,7 @@ script 24 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Qual é a sua,hein?
+	Qual é a sua, hein?
 	Eu dei a minha
 	opinião sincera!
 	"""
@@ -446,7 +446,7 @@ script 24 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Além disso,qualquer
+	Além disso, qualquer
 	um com um Navi e
 	essa máquina
 	"""
@@ -455,7 +455,7 @@ script 24 mmbn4 {
 	clearMsg
 	"""
 	consegue fazer curry
-	gostoso,né?
+	gostoso, né?
 	"""
 	keyWait
 		any = false
@@ -518,7 +518,7 @@ script 28 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Por favor,né? Vai
+	Por favor, né? Vai
 	ser moleza pro
 	MegaMan e eu!
 	"""
@@ -532,14 +532,14 @@ script 29 mmbn4 {
 	mugshotShow
 		mugshot = Flave
 	msgOpen
-	"Marcado,então!"
+	"Marcado, então!"
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Volte aqui quando
 	estiver pronto!
-	Não vá fugir,hein?!
+	Não vá fugir, hein?!
 	"""
 	keyWait
 		any = false

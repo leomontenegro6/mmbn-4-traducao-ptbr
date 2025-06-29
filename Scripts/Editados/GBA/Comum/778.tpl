@@ -25,7 +25,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	Lan,quero libertar o
+	Lan, quero libertar o
 	ProtoMan com minhas
 	próprias mãos.
 	"""
@@ -75,15 +75,15 @@ script 6 mmbn4 {
 		mugshot = Lan
 	"""
 	Odeio deixar outro
-	operador com ele,mas
+	operador com ele, mas
 	você é uma exceção.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	E,se eu tivesse no
-	seu lugar,faria a
+	E, se eu tivesse no
+	seu lugar, faria a
 	mesma coisa!
 	"""
 	keyWait
@@ -96,7 +96,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Chaud,deixo a
+	Chaud, deixo a
 	operação com você!
 	"""
 	keyWait

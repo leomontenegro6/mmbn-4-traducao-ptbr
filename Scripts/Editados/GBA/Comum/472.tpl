@@ -9,7 +9,7 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	Após vencer vários
-	fortes oponentes,o
+	fortes oponentes, o
 	vencedor do torneio
 	"""
 	keyWait
@@ -17,7 +17,7 @@ script 0 mmbn4 {
 	clearMsg
 	"""
 	é um menino do sexto
-	ano,de só 11 anos.
+	ano, de só 11 anos.
 	Ele é...
 	"""
 	keyWait
@@ -28,7 +28,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Meus amigos,uma
+	Meus amigos, uma
 	salva de palmas para
 	os vencedores!!
 	"""
@@ -41,7 +41,7 @@ script 1 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Conseguimos,MegaMan.
+	Conseguimos, MegaMan.
 	Vencemos o torneio!
 	"""
 	keyWait
@@ -67,7 +67,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	E agora,vamos
+	E agora, vamos
 	entrevistar nosso
 	vencedor!
 	"""
@@ -82,7 +82,7 @@ script 4 mmbn4 {
 	"""
 	Meus parabéns! Como
 	é a sensação de ser
-	o vencedor,Lan?
+	o vencedor, Lan?
 	"""
 	keyWait
 		any = false
@@ -94,7 +94,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	A-ah,er...
+	A-ah, er...
 	Eu tô super feliz!
 	"""
 	keyWait
@@ -109,7 +109,7 @@ script 5 mmbn4 {
 	clearMsg
 	"""
 	Se não fosse o
-	MegaMan,nada disso
+	MegaMan, nada disso
 	teria rolado!
 	"""
 	keyWait
@@ -121,7 +121,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Ah,Lan..."
+	"Ah, Lan..."
 	keyWait
 		any = false
 	clearMsg
@@ -142,7 +142,7 @@ script 7 mmbn4 {
 	"""
 	Outra salva de pal-
 	mas para os nossos
-	campeões,amigos!!
+	campeões, amigos!!
 	"""
 	keyWait
 		any = false
@@ -156,7 +156,7 @@ script 8 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	E agora,o organiza-
+	E agora, o organiza-
 	dor do torneio
 	presenteará Lan
 	"""
@@ -193,9 +193,9 @@ script 10 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Valeu... Er,quer
-	dizer,muito
-	obrigado,senhor!
+	Valeu... Er, quer
+	dizer, muito
+	obrigado, senhor!
 	"""
 	keyWait
 		any = false
@@ -267,7 +267,7 @@ script 13 mmbn4 {
 	msgOpen
 	"""
 	Após vencer vários
-	fortes oponentes,o
+	fortes oponentes, o
 	vencedor do torneio
 	"""
 	keyWait
@@ -275,7 +275,7 @@ script 13 mmbn4 {
 	clearMsg
 	"""
 	é um menino do sexto
-	ano,de só 11 anos.
+	ano, de só 11 anos.
 	Ele é...
 	"""
 	keyWait
@@ -286,7 +286,7 @@ script 13 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Meus amigos,uma
+	Meus amigos, uma
 	salva de palmas para
 	os vencedores!!
 	"""
@@ -299,7 +299,7 @@ script 14 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	E agora,o organiza-
+	E agora, o organiza-
 	dor do torneio
 	presenteará Lan
 	"""

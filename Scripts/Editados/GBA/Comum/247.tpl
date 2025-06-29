@@ -116,7 +116,7 @@ script 5 mmbn4 {
 	clearMsg
 	"""
 	Espero que eu possa
-	ir lá,qualquer
+	ir lá, qualquer
 	hora...
 	"""
 	keyWait
@@ -246,7 +246,7 @@ script 20 mmbn4 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Então,Lutadores de
+	Então, Lutadores de
 	todo o país estão
 	vindo pra DenCity!
 	"""
@@ -320,7 +320,7 @@ script 25 mmbn4 {
 	clearMsg
 	"""
 	Acho que idade é
-	uma coisa,habilidade
+	uma coisa, habilidade
 	é outra...
 	"""
 	keyWait
@@ -357,7 +357,7 @@ script 31 mmbn4 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Bom,melhor eu me
+	Bom, melhor eu me
 	aprontar...
 	"""
 	keyWait
@@ -405,7 +405,7 @@ script 70 mmbn4 {
 	"""
 	Aceitar irá apagar
 	sua PastaExtra
-	atual,claro...
+	atual, claro...
 	"""
 	keyWait
 		any = false
@@ -507,7 +507,7 @@ script 71 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Pronto,eu transferi
+	Pronto, eu transferi
 	a "
 	"""
 	printFolderName
@@ -543,7 +543,7 @@ script 72 mmbn4 {
 	msgOpen
 	"""
 	Quer a pasta do
-	seguidor,a
+	seguidor, a
 	"
 	"""
 	printFolderName
@@ -555,13 +555,13 @@ script 72 mmbn4 {
 	clearMsg
 	"""
 	Ele deu duro pra
-	fazer ela,sabe...?
+	fazer ela, sabe...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Se aceitá-la,irá
+	Se aceitá-la, irá
 	sobrescrever sua
 	PastaExtra...
 	"""
@@ -569,8 +569,8 @@ script 72 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	... mas,se
-	concodar,eu dou ela
+	... mas, se
+	concodar, eu dou ela
 	pra você...
 	"""
 	keyWait
@@ -641,7 +641,7 @@ script 73 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Por favor,não fale
+	Por favor, não fale
 	comigo agora...
 	"""
 	keyWait
@@ -653,7 +653,7 @@ script 73 mmbn4 {
 	clearMsg
 	"""
 	A pasta do segui-
-	dor... Ah,cá está...
+	dor... Ah, cá está...
 	...... Hrmph......
 	"""
 	keyWait
@@ -712,7 +712,7 @@ script 220 mmbn4 {
 }
 script 221 mmbn4 {
 	clearMsg
-	"\"Quem se prepara,\n não tem com o que\n se preocupar.\""
+	"\"Quem se prepara, \n não tem com o que\n se preocupar.\""
 	keyWait
 		any = false
 	clearMsg

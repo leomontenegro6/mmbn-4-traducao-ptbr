@@ -14,7 +14,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Roll
 	msgOpen
-	"Oi,Mega!"
+	"Oi, Mega!"
 	keyWait
 		any = false
 	clearMsg
@@ -38,7 +38,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	então,decidi dar
+	então, decidi dar
 	um gostinho do que
 	eu sou capaz!
 	"""
@@ -49,7 +49,7 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	"""
 	Eu não posso lutar
-	com você aqui,Roll!
+	com você aqui, Roll!
 	"""
 	keyWait
 		any = false
@@ -92,13 +92,13 @@ script 0 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Se conseguir,\nvocê ganha!"
+	"Se conseguir, \nvocê ganha!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Simples,né?
-	E aí,aceita o meu
+	Simples, né?
+	E aí, aceita o meu
 	desafio?
 	"""
 	keyWait
@@ -146,14 +146,14 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Não,você não
-	amarelaria,né?
+	Não, você não
+	amarelaria, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Bom,me avisa quando
+	Bom, me avisa quando
 	estiver pronto!
 	"""
 	keyWait
@@ -209,7 +209,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Roll
 	msgOpen
-	"E aí,tá pronto?"
+	"E aí, tá pronto?"
 	keyWait
 		any = false
 	clearMsg
@@ -257,7 +257,7 @@ script 5 mmbn4 {
 		mugshot = Roll
 	"""
 	Você não tá com medo
-	de perder,tá,Mega?
+	de perder, tá, Mega?
 	"""
 	keyWait
 		any = false
@@ -284,7 +284,7 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Vão,meus pequenos
+	Vão, meus pequenos
 	íons negativos!
 	Voem!
 	"""

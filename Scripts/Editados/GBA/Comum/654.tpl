@@ -33,7 +33,7 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Calma aí,te salvo
+	Calma aí, te salvo
 	desses vírus já!
 	"""
 	keyWait
@@ -46,7 +46,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Roll
 	msgOpen
-	"Mega,espera!"
+	"Mega, espera!"
 	keyWait
 		any = false
 	clearMsg
@@ -86,7 +86,7 @@ script 6 mmbn4 {
 	msgOpen
 	"""
 	Eles gostam de mim!
-	É seguro,não se
+	É seguro, não se
 	preocupa!
 	"""
 	keyWait
@@ -118,15 +118,15 @@ script 7 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ah,e tem a nossa
-	luta,também.
+	Ah, e tem a nossa
+	luta, também.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Certeza que quer
-	fazer isso,Roll?
+	fazer isso, Roll?
 	"""
 	keyWait
 		any = false
@@ -247,7 +247,7 @@ script 13 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,acho que eu
+	Lan, acho que eu
 	deixei ela zangada.
 	"""
 	keyWait
@@ -285,7 +285,7 @@ script 16 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Bom,Roll,eu vou indo
+	Bom, Roll, eu vou indo
 	agora.
 	"""
 	keyWait
@@ -321,7 +321,7 @@ script 18 mmbn4 {
 		mugshot = Roll
 	msgOpen
 	"""
-	Não adianta,eu não
+	Não adianta, eu não
 	consigo sair... ou
 	contatar a Mayl...
 	"""
@@ -361,7 +361,7 @@ script 19 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,primeiro,tenho
+	Mas, primeiro, tenho
 	que fazer o Mega
 	querer lutar comigo.
 	"""

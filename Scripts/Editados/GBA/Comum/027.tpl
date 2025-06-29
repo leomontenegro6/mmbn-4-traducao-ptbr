@@ -59,7 +59,7 @@ script 1 mmbn4 {
 	"""
 	são wireless e com-
 	pactos. Compramos
-	dois,um pra cada!
+	dois, um pra cada!
 	"""
 	keyWait
 		any = false
@@ -111,7 +111,7 @@ script 3 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Fala,gente! Minha
+	Fala, gente! Minha
 	namorada e eu viemos
 	comprar um jogo,
 	"""
@@ -285,9 +285,9 @@ script 8 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Outro dia,comprei um
+	Outro dia, comprei um
 	novo kit Navi com
-	CustNavi,mas o PET
+	CustNavi, mas o PET
 	"""
 	keyWait
 		any = false
@@ -295,7 +295,7 @@ script 8 mmbn4 {
 	"""
 	deu defeito. Quando
 	eu vim trocar ele na
-	Jomon,um atendente
+	Jomon, um atendente
 	"""
 	keyWait
 		any = false
@@ -310,7 +310,7 @@ script 8 mmbn4 {
 	clearMsg
 	"""
 	Linha de Comando!
-	Ai,que vergonha! Eu
+	Ai, que vergonha! Eu
 	achei que era uma
 	"""
 	keyWait
@@ -363,7 +363,7 @@ script 10 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Outro dia,eu
+	Outro dia, eu
 	instalei um programa
 	que um amigo me deu.
 	"""
@@ -407,7 +407,7 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	quem criou ele,pra
+	quem criou ele, pra
 	deixar conversas
 	com Navis um pouco
 	"""
@@ -466,7 +466,7 @@ script 13 mmbn4 {
 	clearMsg
 	"""
 	Como inauguramos há
-	pouco tempo,ainda
+	pouco tempo, ainda
 	não começamos a
 	"""
 	keyWait
@@ -499,8 +499,8 @@ script 14 mmbn4 {
 		top = 108
 	"""
 	Se tá atrás de
-	chips,a loja do
-	Higsby,em ACDC,
+	chips, a loja do
+	Higsby, em ACDC,
 	"""
 	keyWait
 		any = false
@@ -515,7 +515,7 @@ script 14 mmbn4 {
 	clearMsg
 	"""
 	Se você tem na
-	Coleção,a Loja do
+	Coleção, a Loja do
 	Higsby te arranja!
 	"""
 	keyWait
@@ -541,7 +541,7 @@ script 15 mmbn4 {
 	"""
 	O dono tem esse
 	tique de fala engra-
-	çado,né? Valeu!
+	çado, né? Valeu!
 	"""
 	keyWait
 		any = false

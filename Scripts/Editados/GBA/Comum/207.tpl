@@ -57,7 +57,7 @@ script 2 mmbn4 {
 	clearMsg
 	"""
 	PARA ABRIR ESTA
-	PORTA,É PRECISO TER
+	PORTA, É PRECISO TER
 	"
 	"""
 	printItem

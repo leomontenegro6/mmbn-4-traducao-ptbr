@@ -16,7 +16,7 @@ script 1 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Ah,é o MegaMan!
+	Ah, é o MegaMan!
 	Tá fazendo o quê
 	aqui?!
 	"""
@@ -39,7 +39,7 @@ script 2 mmbn4 {
 	clearMsg
 	"""
 	A gente tem que
-	correr,ou eles vão
+	correr, ou eles vão
 	te deletar!
 	"""
 	keyWait
@@ -66,24 +66,24 @@ script 4 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Ah,tendi. Eles que-
-	rem me deletar,fazer
+	Ah, tendi. Eles que-
+	rem me deletar, fazer
 	o Riki virar um
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	covardão,apagar a
+	covardão, apagar a
 	chefe e assumir a
-	organização,é?
+	organização, é?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Peguei a geral.
-	Beleza,hora de dar
+	Beleza, hora de dar
 	o fora daqui!
 	"""
 	keyWait
@@ -97,7 +97,7 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Aí,MegaMan,pode usar
+	Aí, MegaMan, pode usar
 	o seu Atirador pra
 	destroçar ela?
 	"""
@@ -129,7 +129,7 @@ script 6 mmbn4 {
 	"""
 	Eu sou durão!
 	Aguento soco,
-	chute,o que for!
+	chute, o que for!
 	"""
 	keyWait
 		any = false
@@ -201,7 +201,7 @@ script 11 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Show. Agora,a gente
+	Show. Agora, a gente
 	pode desconectar!
 	"""
 	keyWait
@@ -228,8 +228,8 @@ script 13 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	He he,valeu,cara!
-	MegaMan,cê é gente
+	He he, valeu, cara!
+	MegaMan, cê é gente
 	fina!
 	"""
 	keyWait

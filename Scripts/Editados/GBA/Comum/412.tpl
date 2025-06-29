@@ -71,7 +71,7 @@ script 10 mmbn4 {
 	clearMsg
 	"""
 	ENQUANTO PATRULHO...
-	AH,JÁ SEI!
+	AH, JÁ SEI!
 	"""
 	keyWait
 		any = false
@@ -79,7 +79,7 @@ script 10 mmbn4 {
 	"""
 	EU VOU ESCREVER UM
 	POEMA! ENRIQUECE A
-	ALMA,SABE?
+	ALMA, SABE?
 	"""
 	keyWait
 		any = false
@@ -354,7 +354,7 @@ script 35 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	CAI DENTRO,VILÃO!
+	CAI DENTRO, VILÃO!
 	EU ESTOU PRONTO!!
 	"""
 	keyWait
@@ -374,7 +374,7 @@ script 35 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"... UÉ,CADÊ O RAIO?"
+	"... UÉ, CADÊ O RAIO?"
 	keyWait
 		any = false
 	end
@@ -386,7 +386,7 @@ script 36 mmbn4 {
 	"""
 	Você é um Navi
 	civil? Se sim,
-	desconecte-se,agora!
+	desconecte-se, agora!
 	"""
 	keyWait
 		any = false

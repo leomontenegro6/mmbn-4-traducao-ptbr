@@ -106,7 +106,7 @@ script 0 mmbn4 {
 		mugshot = HeelNaviBlack
 	"""
 	Se deseja mais
-	força,precisará dos
+	força, precisará dos
 	Chips do Mal...
 	"""
 	keyWait
@@ -255,7 +255,7 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Para agradecer,ofe-
+	Para agradecer, ofe-
 	reço a você a prova-
 	ção do "
 	"""
@@ -330,8 +330,8 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	"""
-	Muitas vezes,fugir
-	é,de fato,a decisão
+	Muitas vezes, fugir
+	é, de fato, a decisão
 	mais sábia...
 	"""
 	keyWait
@@ -342,7 +342,7 @@ script 6 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviBlack
-	"Então,vamos lá..."
+	"Então, vamos lá..."
 	keyWait
 		any = false
 	flagSet
@@ -524,7 +524,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	"""
-	Então,é mentira que
+	Então, é mentira que
 	você venceu o Bass?!
 	"""
 	keyWait
@@ -535,7 +535,7 @@ script 11 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviBlack
-	"Então,mostre-me...!"
+	"Então, mostre-me...!"
 	keyWait
 		any = false
 	flagSet
@@ -545,7 +545,7 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	"""
 	Após obter grande
-	força,é necessário
+	força, é necessário
 	um coração ainda
 	"""
 	keyWait
@@ -564,7 +564,7 @@ script 13 mmbn4 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Então,é verdade que
+	Então, é verdade que
 	você derrotou
 	Bass...
 	"""
@@ -592,7 +592,7 @@ script 13 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Agora,como
+	Agora, como
 	prometido...
 	"""
 	keyWait
@@ -627,7 +627,7 @@ script 13 mmbn4 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	E agora,a sua força
+	E agora, a sua força
 	fica ainda maior...
 	"""
 	keyWait
@@ -666,7 +666,7 @@ script 20 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,um dia,uma
+	Mas, um dia, uma
 	estátua apareceu e
 	aprisionou eles!
 	"""
@@ -772,7 +772,7 @@ script 222 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Lamento,mas estou
+	Lamento, mas estou
 	esgotado...
 	"""
 	keyWait

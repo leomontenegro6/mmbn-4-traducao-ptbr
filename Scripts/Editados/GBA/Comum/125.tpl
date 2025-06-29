@@ -46,7 +46,7 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	msgOpen
 	"""
-	De repente,um mons-
+	De repente, um mons-
 	tro estranho sai da
 	boca dele!
 	"""
@@ -91,7 +91,7 @@ script 3 mmbn4 {
 	clearMsg
 	"""
 	e seu oponente,
-	Django,o Garoto
+	Django, o Garoto
 	Solar...
 	"""
 	keyWait
@@ -171,16 +171,16 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	mas,por algum
-	motivo,há a imagem
+	mas, por algum
+	motivo, há a imagem
 	de um Vampiro...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Curioso,porém sinis-
-	tro. Sinistro,porém
+	Curioso, porém sinis-
+	tro. Sinistro, porém
 	curioso.
 	"""
 	keyWait
@@ -195,7 +195,7 @@ script 6 mmbn4 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	É o Django,que veio
+	É o Django, que veio
 	salvar a Princesa
 	raptada pelo Dracky.
 	"""

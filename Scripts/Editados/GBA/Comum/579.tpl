@@ -25,7 +25,7 @@ script 1 mmbn4 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Ótimo. Agora,confira
+	Ótimo. Agora, confira
 	o dispositivo MT de
 	novo.
 	"""

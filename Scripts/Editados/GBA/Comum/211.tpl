@@ -65,7 +65,7 @@ script 3 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Bora,MegaMan?!
+	Bora, MegaMan?!
 	"""
 	keyWait
 		any = false
@@ -73,7 +73,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Claro,já é!
+	Claro, já é!
 	Eu tô prontinho!
 	"""
 	keyWait

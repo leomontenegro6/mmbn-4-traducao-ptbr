@@ -9,15 +9,15 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Então,você achou
+	Então, você achou
 	o velho João
-	Esconde,aqui?
+	Esconde, aqui?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Você é bom,garoto.
+	Você é bom, garoto.
 	"""
 	keyWait
 		any = false
@@ -91,14 +91,14 @@ script 130 mmbn4 {
 	clearMsg
 	"""
 	Mas... você não é um
-	programa,é?
+	programa, é?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Django
-	"Não,não sou."
+	"Não, não sou."
 	keyWait
 		any = false
 	clearMsg
@@ -125,7 +125,7 @@ script 130 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,então,dentro
+	Mas, então, dentro
 	desse
 	.
 	"""
@@ -168,7 +168,7 @@ script 130 mmbn4 {
 	clearMsg
 	"""
 	com a minha arma
-	solar,a GunDelSol...
+	solar, a GunDelSol...
 	"""
 	keyWait
 		any = false
@@ -191,8 +191,8 @@ script 130 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Já,sim...
-	Mas,quando lutei
+	Já, sim...
+	Mas, quando lutei
 	contra ele,
 	"""
 	keyWait
@@ -279,7 +279,7 @@ script 130 mmbn4 {
 	clearMsg
 	"""
 	do PET do meu
-	operador,o Lan?!
+	operador, o Lan?!
 	"""
 	keyWait
 		any = false
@@ -299,7 +299,7 @@ script 130 mmbn4 {
 	"."
 	waitSkip
 		frames = 30
-	" Não,\nnão daria certo..."
+	" Não, \nnão daria certo..."
 	keyWait
 		any = false
 	clearMsg
@@ -312,7 +312,7 @@ script 130 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ah,se eu tivesse o
+	Ah, se eu tivesse o
 	"
 	"""
 	printItem
@@ -352,7 +352,7 @@ script 130 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Então,eu vou lá
+	Então, eu vou lá
 	procurar!
 	"""
 	keyWait
@@ -407,7 +407,7 @@ script 130 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan,vamos rápido lá
+	Lan, vamos rápido lá
 	pra Undernet 2!
 	"""
 	keyWait
@@ -472,7 +472,7 @@ script 133 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"MegaMan,boa sorte!"
+	"MegaMan, boa sorte!"
 	keyWait
 		any = false
 	end
@@ -512,7 +512,7 @@ script 136 mmbn4 {
 		mugshot = Otenko
 	msgOpen
 	"""
-	Ah,você achou ele!
+	Ah, você achou ele!
 	O "
 	"""
 	printItem
@@ -523,7 +523,7 @@ script 136 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Rápido,entregue-o
+	Rápido, entregue-o
 	ao Django!
 	"""
 	keyWait

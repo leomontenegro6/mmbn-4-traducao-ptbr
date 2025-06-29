@@ -19,7 +19,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = HotDogLady
 	"""
-	Um dog,saindo!
+	Um dog, saindo!
 	"""
 	keyWait
 		any = false
@@ -44,7 +44,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Hummm,que cheiro
+	Hummm, que cheiro
 	maravilhoso!
 	"""
 	keyWait
@@ -64,7 +64,7 @@ script 4 mmbn4 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Olha,tá cheirando.
+	Olha, tá cheirando.
 	Acho que vou comer
 	um também.
 	"""
@@ -139,7 +139,7 @@ script 9 mmbn4 {
 		mugshot = HotDogLady
 	msgOpen
 	"""
-	Um tempo atrás,a
+	Um tempo atrás, a
 	minha fritadeira
 	quebrou.
 	"""
@@ -197,7 +197,7 @@ script 11 mmbn4 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	E aí,melhorou a sua
+	E aí, melhorou a sua
 	opinião de mim?
 	"""
 	keyWait
@@ -205,7 +205,7 @@ script 11 mmbn4 {
 	clearMsg
 	"""
 	Até eu consigo ser
-	um cara bacana,de
+	um cara bacana, de
 	vez em quando.
 	"""
 	keyWait
@@ -265,7 +265,7 @@ script 16 mmbn4 {
 	msgOpen
 	"""
 	Aí! Quando é que cê
-	vai pagar? Sabe,a
+	vai pagar? Sabe, a
 	grana de proteção?!
 	"""
 	keyWait
@@ -293,12 +293,12 @@ script 18 mmbn4 {
 		mugshot = ShadyGuy
 	"""
 	É bom cê não irritar
-	a gente,mocinha.
+	a gente, mocinha.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Afinal de contas,nós\nsomos... Hm?"
+	"Afinal de contas, nós\nsomos... Hm?"
 	keyWait
 		any = false
 	end
@@ -348,7 +348,7 @@ script 22 mmbn4 {
 		mugshot = Riki
 	mugshotAnimation
 		animation = 2
-	"Ah,sim... Tá bom."
+	"Ah, sim... Tá bom."
 	keyWait
 		any = false
 	clearMsg
@@ -362,14 +362,14 @@ script 23 mmbn4 {
 		mugshot = HotDogLady
 	msgOpen
 	"""
-	Obrigada,Sr. Match.
+	Obrigada, Sr. Match.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Eles têm aparecido
-	direto aqui,dizendo
+	direto aqui, dizendo
 	que eu preciso pagar
 	"""
 	keyWait
@@ -388,7 +388,7 @@ script 24 mmbn4 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Ah,acabei de lembrar
+	Ah, acabei de lembrar
 	de um compromisso.
 	Até outra hora.
 	"""
@@ -396,7 +396,7 @@ script 24 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E,Lan,pode comer o
+	E, Lan, pode comer o
 	cachorro-quente que
 	eu pedi.
 	"""
@@ -445,7 +445,7 @@ script 28 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Aí,moça!
+	Aí, moça!
 	Tá queimando!!
 	"""
 	keyWait
@@ -458,7 +458,7 @@ script 29 mmbn4 {
 	mugshotShow
 		mugshot = HotDogLady
 	"""
-	Ai,não! Deixei
+	Ai, não! Deixei
 	tempo demais na
 	fritadeira!
 	"""
@@ -494,7 +494,7 @@ script 30 mmbn4 {
 	"""
 	O Sr. Match se deu
 	ao trabalho de con-
-	sertar ela,e...
+	sertar ela, e...
 	"""
 	keyWait
 		any = false

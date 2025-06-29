@@ -6,7 +6,7 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	Arf... Arf...
-	Aqui,as...
+	Aqui, as...
 	"""
 	keyWait
 		any = false
@@ -27,7 +27,7 @@ script 2 mmbn4 {
 		mugshot = KendoMan
 	msgOpen
 	"""
-	Oh,você trouxe
+	Oh, você trouxe
 	todas as três
 	"Licenças"!
 	"""
@@ -41,7 +41,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Agora,eu tenho uma
+	Agora, eu tenho uma
 	coisa pra falar pra
 	você! 
 	"""
@@ -70,7 +70,7 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Eu,er"
+	"Eu, er"
 	waitSkip
 		frames = 30
 	"."
@@ -92,14 +92,14 @@ script 6 mmbn4 {
 		mugshot = KendoMan
 	msgOpen
 	"""
-	Então,você não está
+	Então, você não está
 	aqui para treinar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Na verdade,você é o
+	Na verdade, você é o
 	meu oponente e veio
 	me conhecer...
 	"""
@@ -118,7 +118,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"É,sim."
+	"É, sim."
 	keyWait
 		any = false
 	clearMsg
@@ -129,9 +129,9 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = KendoMan
 	"""
-	Ah,desculpe,então!
+	Ah, desculpe, então!
 	Eu sou meio impaci-
-	ente,às vezes.
+	ente, às vezes.
 	"""
 	keyWait
 		any = false
@@ -145,7 +145,7 @@ script 8 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Por favor,perdoe-me,
+	Por favor, perdoe-me,
 	MegaMan!
 	"""
 	keyWait
@@ -158,7 +158,7 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Então,o seu treino é
+	Então, o seu treino é
 	sempre pesado assim?
 	"""
 	keyWait
@@ -191,7 +191,7 @@ script 10 mmbn4 {
 	clearMsg
 	"""
 	artes marciais
-	corretamente,você
+	corretamente, você
 	VIVERÁ corretamente.
 	"""
 	keyWait
@@ -228,9 +228,9 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Bom,eu aprendi uma
+	Bom, eu aprendi uma
 	coisa nova hoje.
-	E você,Lan?
+	E você, Lan?
 	"""
 	keyWait
 		any = false
@@ -242,8 +242,8 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Eu também,MegaMan!
-	Ei,que tal virar
+	Eu também, MegaMan!
+	Ei, que tal virar
 	aprendiz dele?
 	"""
 	keyWait
@@ -281,7 +281,7 @@ script 14 mmbn4 {
 	clearMsg
 	"""
 	Mas... acho que
-	não,obrigado.
+	não, obrigado.
 	"""
 	keyWait
 		any = false
@@ -301,7 +301,7 @@ script 15 mmbn4 {
 	clearMsg
 	"""
 	Já é hora de voltar
-	para o torneio,de
+	para o torneio, de
 	qualquer forma.
 	"""
 	keyWait
@@ -331,7 +331,7 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Beleza,MegaMan,
+	Beleza, MegaMan,
 	vamos desconectar!
 	"""
 	keyWait

@@ -76,15 +76,15 @@ script 3 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"\"Com seu ChclVerm e\nsua arma solar,a\nGunDelSol,em mãos,"
+	"\"Com seu ChclVerm e\nsua arma solar, a\nGunDelSol, em mãos,"
 	keyWait
 		any = false
 	clearMsg
-	"Django,o Garoto\nSolar,luta contra\nVampiros."
+	"Django, o Garoto\nSolar, luta contra\nVampiros."
 	keyWait
 		any = false
 	clearMsg
-	"Guiado pelo Mestre\nOtenko,o Espírito do\nSol,"
+	"Guiado pelo Mestre\nOtenko, o Espírito do\nSol,"
 	keyWait
 		any = false
 	clearMsg
@@ -92,11 +92,11 @@ script 3 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Lá,Django se\ndepara com o\nVampiro supremo,"
+	"Lá, Django se\ndepara com o\nVampiro supremo,"
 	keyWait
 		any = false
 	clearMsg
-	"Dracky,e o enfrenta\nem um combate\nmortal..."
+	"Dracky, e o enfrenta\nem um combate\nmortal..."
 	keyWait
 		any = false
 	clearMsg
@@ -108,11 +108,11 @@ script 3 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Mesmo após ser feri-\ndo pelos ataques do\nDracky,Django"
+	"Mesmo após ser feri-\ndo pelos ataques do\nDracky, Django"
 	keyWait
 		any = false
 	clearMsg
-	"resiste,comendo\nmaçãs para recuperar\nsuas forças."
+	"resiste, comendo\nmaçãs para recuperar\nsuas forças."
 	keyWait
 		any = false
 	clearMsg
@@ -120,7 +120,7 @@ script 3 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Mas aí,o sol entra\npor uma claraboia\nsobre o Django!"
+	"Mas aí, o sol entra\npor uma claraboia\nsobre o Django!"
 	keyWait
 		any = false
 	clearMsg
@@ -140,7 +140,7 @@ script 3 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Após uma batalha\nheróica,Django\nderrota Dracky."
+	"Após uma batalha\nheróica, Django\nderrota Dracky."
 	keyWait
 		any = false
 	clearMsg
@@ -188,7 +188,7 @@ script 4 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = Maid
-	"Claro,saindo!"
+	"Claro, saindo!"
 	keyWait
 		any = false
 	clearMsg
@@ -212,7 +212,7 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	... Er,eu fingi uma
+	... Er, eu fingi uma
 	dor de barriga para
 	vir trabalhar aqui.
 	"""
@@ -229,13 +229,13 @@ script 4 mmbn4 {
 	"""
 	É só por hoje. Não
 	conta pro Higsby
-	não,tá?!
+	não, tá?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Em troca,eu te dou
+	Em troca, eu te dou
 	um sorvete de graça!
 	"""
 	keyWait
@@ -290,7 +290,7 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Bom,enfim,de volta à
+	Bom, enfim, de volta à
 	Mayl!
 	"""
 	keyWait
@@ -317,8 +317,8 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	O pirata,capitão
-	Mancho,trai Pater
+	O pirata, capitão
+	Mancho, trai Pater
 	Pon e seus amigos.
 	"""
 	keyWait
@@ -437,8 +437,8 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	O pirata,capitão
-	Mancho,trai Pater
+	O pirata, capitão
+	Mancho, trai Pater
 	Pon e seus amigos.
 	"""
 	keyWait
@@ -540,7 +540,7 @@ script 20 mmbn4 {
 	clearMsg
 	"""
 	A Esposa do Sr. Que-
-	sola,Cornesso,capri-
+	sola, Cornesso, capri-
 	cha na atuação.
 	"""
 	keyWait
@@ -609,7 +609,7 @@ script 22 mmbn4 {
 	clearMsg
 	"""
 	A Esposa do Sr. Que-
-	sola,Cornesso,capri-
+	sola, Cornesso, capri-
 	cha na atuação.
 	"""
 	keyWait

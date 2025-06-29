@@ -54,7 +54,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan,você tem menos
+	Lan, você tem menos
 	de 3 chips na
 	mochila.
 	"""
@@ -209,7 +209,7 @@ script 4 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Que pena,Lan...
+	Que pena, Lan...
 	Você tem menos de 3
 	chips na mochila!
 	"""
@@ -274,7 +274,7 @@ script 7 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,você tem menos
+	Lan, você tem menos
 	de 10 chips na
 	mochila!
 	"""
@@ -429,7 +429,7 @@ script 10 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Que pena,Lan...
+	Que pena, Lan...
 	Você tem menos de 10
 	chips na mochila!
 	"""
@@ -491,7 +491,7 @@ script 13 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,você nem tem
+	Lan, você nem tem
 	10 FragBugs!
 	"""
 	keyWait
@@ -603,7 +603,7 @@ script 16 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Que pena,Lan...
+	Que pena, Lan...
 	Não temos 10
 	FragBugs pra usar!
 	"""

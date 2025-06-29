@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	S-saudações,teles-
+	S-saudações, teles-
 	pectadores. P-perdão
 	p-p-p-pelo atraso.
 	"""
@@ -21,8 +21,8 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,de acordo com as
-	emissoras,o show tem
+	Mas, de acordo com as
+	emissoras, o show tem
 	que continuar.
 	"""
 	keyWait
@@ -130,7 +130,7 @@ script 3 mmbn4 {
 	clearMsg
 	mugshotAnimation
 		animation = 2
-	"A gente só tá com\nfrio,cara!!"
+	"A gente só tá com\nfrio, cara!!"
 	keyWait
 		any = false
 	clearMsg
@@ -141,7 +141,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Chillski
 	"""
-	Pra mim,a
+	Pra mim, a
 	temperatura está
 	perfeita!!
 	"""

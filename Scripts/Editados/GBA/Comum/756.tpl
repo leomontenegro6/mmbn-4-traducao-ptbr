@@ -35,7 +35,7 @@ script 2 mmbn4 {
 	clearMsg
 	"""
 	Não foi nada. Além
-	disso,o Deus da
+	disso, o Deus da
 	Água me protegeu.
 	"""
 	keyWait
@@ -55,7 +55,7 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ei,Paulie,por que
+	Ei, Paulie, por que
 	não...
 	"""
 	keyWait
@@ -69,7 +69,7 @@ script 4 mmbn4 {
 	"""
 	Onde ele foi parar
 	agora? Aquele menino
-	não tem jeito,viu?
+	não tem jeito, viu?
 	"""
 	keyWait
 		any = false
@@ -94,8 +94,8 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan,melhor a gente
-	voltar lá,rápido!!
+	Lan, melhor a gente
+	voltar lá, rápido!!
 	"""
 	keyWait
 		any = false
@@ -113,7 +113,7 @@ script 7 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Desculpa,gente,mas\neu tenho que ir!"
+	"Desculpa, gente, mas\neu tenho que ir!"
 	keyWait
 		any = false
 	clearMsg
@@ -123,7 +123,7 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = Man
-	"Obrigado,rapaz."
+	"Obrigado, rapaz."
 	keyWait
 		any = false
 	clearMsg

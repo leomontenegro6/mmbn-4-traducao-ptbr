@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Então,nossa próxima
+	Então, nossa próxima
 	luta é com TopMan?
 	"""
 	keyWait
@@ -37,13 +37,13 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Eu sei,eu sei!"
+	"Eu sei, eu sei!"
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Vamos acabar com
-	esse cara,MegaMan!
+	esse cara, MegaMan!
 	"""
 	keyWait
 		any = false

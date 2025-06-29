@@ -14,7 +14,7 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Sim,tudo bem agora!"
+	"Sim, tudo bem agora!"
 	keyWait
 		any = false
 	clearMsg
@@ -70,8 +70,8 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Tá,eu já vou pra aí!
-	Fica aí,Mayl!
+	Tá, eu já vou pra aí!
+	Fica aí, Mayl!
 	"""
 	keyWait
 		any = false
@@ -84,7 +84,7 @@ script 6 mmbn4 {
 		mugshot = Mayl
 	"""
 	Tá bom...
-	Cuidado,Lan...
+	Cuidado, Lan...
 	"""
 	keyWait
 		any = false
@@ -125,9 +125,9 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	MegaMan,temos que ir
+	MegaMan, temos que ir
 	pra Mansão do
-	Vampiro,agora!
+	Vampiro, agora!
 	"""
 	keyWait
 		any = false
@@ -138,7 +138,7 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Sim,vamos lá!"
+	"Sim, vamos lá!"
 	keyWait
 		any = false
 	end

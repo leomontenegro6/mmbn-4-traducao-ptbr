@@ -41,7 +41,7 @@ script 0 mmbn4 {
 		height = 3
 	"""
 	No Coliseu da Ame-
-	ropa,uma cerimônia
+	ropa, uma cerimônia
 	tardia é sediada.
 	"""
 	keyWait
@@ -136,7 +136,7 @@ script 5 mmbn4 {
 	"""
 	Que foi?
 	Por que a cara
-	triste,Lan?
+	triste, Lan?
 	"""
 	keyWait
 		any = false
@@ -172,7 +172,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Quer dizer,aquele
+	Quer dizer, aquele
 	papo do mal
 	continuar?
 	"""
@@ -200,7 +200,7 @@ script 7 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	então,precisamos
+	então, precisamos
 	construir um mundo
 	em que haja lugar
 	"""
@@ -208,7 +208,7 @@ script 7 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	para todos,pra
+	para todos, pra
 	estarmos prontos pra
 	quando o Duo voltar
 	"""
@@ -233,12 +233,12 @@ script 8 mmbn4 {
 	"......\n"
 	mugshotAnimation
 		animation = 2
-	"É,tem razão!"
+	"É, tem razão!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Além disso,somos nós
+	Além disso, somos nós
 	que vamos construir
 	uma nova era!!
 	"""
@@ -340,7 +340,7 @@ script 15 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Força,homem!"
+	"Força, homem!"
 	keyWait
 		any = false
 	clearMsg
@@ -351,7 +351,7 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	"""
-	Lan,MegaMan,
+	Lan, MegaMan,
 	vocês conseguem!
 	"""
 	keyWait
@@ -415,19 +415,19 @@ script 22 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Até tu,Chaud?!"
+	"Até tu, Chaud?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Hmmm... Acho que a
 	gente não tem
-	escolha,então.
+	escolha, então.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Pronto,MegaMan?"
+	"Pronto, MegaMan?"
 	keyWait
 		any = false
 	clearMsg
@@ -455,7 +455,7 @@ script 24 mmbn4 {
 	"Conectar!!"
 	wait
 		frames = 10
-	"\nMegaMan.EXE,\ntransmissão!"
+	"\nMegaMan.EXE, \ntransmissão!"
 	wait
 		frames = 30
 	controlUnlock

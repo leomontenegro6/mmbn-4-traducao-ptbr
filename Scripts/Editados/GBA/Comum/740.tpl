@@ -12,7 +12,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Primeiro,represen-
+	Primeiro, represen-
 	tando Ni-Hon:
 	Lan Hikari!
 	"""
@@ -44,7 +44,7 @@ script 2 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Er,com licença...
+	Er, com licença...
 	Na verdade...
 	"""
 	keyWait
@@ -103,7 +103,7 @@ script 4 mmbn4 {
 	clearMsg
 	"""
 	Se não chegar dentro
-	de 5 minutos,as
+	de 5 minutos, as
 	regras do torneio
 	"""
 	keyWait
@@ -192,7 +192,7 @@ script 10 mmbn4 {
 	msgOpen
 	"""
 	Moça!
-	Por favor,dá só um
+	Por favor, dá só um
 	tempo pra gente!
 	"""
 	keyWait
@@ -258,7 +258,7 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Vamos,MegaMan!"
+	"Vamos, MegaMan!"
 	keyWait
 		any = false
 	clearMsg

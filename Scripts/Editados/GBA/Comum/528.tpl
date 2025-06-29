@@ -13,7 +13,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Agora,anunciaremos
+	Agora, anunciaremos
 	os resultados.
 	"""
 	keyWait

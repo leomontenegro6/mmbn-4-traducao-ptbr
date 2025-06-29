@@ -110,13 +110,13 @@ script 5 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Ora,seu...!"
+	"Ora, seu...!"
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Você vive prometendo
-	virar digital,mas
+	virar digital, mas
 	nunca vira!
 	"""
 	keyWait
@@ -136,7 +136,7 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = VideoMan
 	"""
-	Ah,é? E você nunca
+	Ah, é? E você nunca
 	me dá nada que
 	preste para filmar!
 	"""
@@ -146,7 +146,7 @@ script 6 mmbn4 {
 	"""
 	Ninguém quer ver as
 	suas produções ego-
-	maníacas,mesmo!
+	maníacas, mesmo!
 	"""
 	keyWait
 		any = false
@@ -175,12 +175,12 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = ViddyNarcy
 	msgOpen
-	"Ai,não grita!"
+	"Ai, não grita!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Tá bom,tá bom,
+	Tá bom, tá bom,
 	a gente vai embora!
 	"""
 	keyWait
@@ -192,7 +192,7 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Ei,Viddy!"
+	"Ei, Viddy!"
 	keyWait
 		any = false
 	end
@@ -246,7 +246,7 @@ script 13 mmbn4 {
 	clearMsg
 	"""
 	Se você trapaceia
-	pra vencer,então
+	pra vencer, então
 	não está produzindo
 	"""
 	keyWait

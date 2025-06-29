@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Ah! Rápido,chama
+	Ah! Rápido, chama
 	reforços!
 	"""
 	keyWait

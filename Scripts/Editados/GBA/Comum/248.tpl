@@ -12,7 +12,7 @@ script 0 mmbn4 {
 	"""
 	QUÊ?! O PC que eu
 	comprei tá em promo-
-	ção,metade do preço!
+	ção, metade do preço!
 	"""
 	keyWait
 		any = false
@@ -54,7 +54,7 @@ script 2 mmbn4 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Ei,mocinho. Você não
+	Ei, mocinho. Você não
 	apareceu na TV por
 	estes dias?
 	"""
@@ -88,7 +88,7 @@ script 11 mmbn4 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Antigamente,eu
+	Antigamente, eu
 	passava o dia todo
 	treinando judô...
 	"""
@@ -306,7 +306,7 @@ script 32 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	mas,na juventude,
+	mas, na juventude,
 	ele foi campeão
 	mundial de judô!
 	"""
@@ -386,7 +386,7 @@ script 45 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Sabe,aquele que tem
+	Sabe, aquele que tem
 	buraquinhos pra
 	segurar?
 	"""
@@ -414,7 +414,7 @@ script 46 mmbn4 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Oi,Lan! Parabéns por
+	Oi, Lan! Parabéns por
 	vencer o Torneio
 	Sol Vermelho!
 	"""
@@ -452,7 +452,7 @@ script 48 mmbn4 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Oi,Lan! Parabéns por
+	Oi, Lan! Parabéns por
 	vencer o Torneio da
 	Lua Azul!
 	"""
@@ -568,7 +568,7 @@ script 70 mmbn4 {
 	clearMsg
 	"""
 	da pasta dele em
-	batalha. Ei,quer
+	batalha. Ei, quer
 	testar ela?
 	"""
 	keyWait
@@ -576,7 +576,7 @@ script 70 mmbn4 {
 	clearMsg
 	"""
 	Mas lembre-se: se
-	aceitar,a sua
+	aceitar, a sua
 	PastaExtra será
 	"""
 	keyWait
@@ -629,7 +629,7 @@ script 70 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Estarei aqui,caso
+	Estarei aqui, caso
 	mude de ideia.
 	"""
 	keyWait
@@ -641,7 +641,7 @@ script 71 mmbn4 {
 	mugshotShow
 		mugshot = SciLabMan
 	"""
-	OK,vou mandar os
+	OK, vou mandar os
 	dados da pasta,
 	então.
 	"""
@@ -684,7 +684,7 @@ script 71 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Pronto,você recebeu
+	Pronto, você recebeu
 	os dados da
 	"
 	"""
@@ -727,7 +727,7 @@ script 72 mmbn4 {
 		buffer = 0
 		entry = 4
 	"""
-	",do
+	", do
 	aprendiz do
 	"""
 	keyWait
@@ -749,7 +749,7 @@ script 72 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Se aceitar,transfiro
+	Se aceitar, transfiro
 	ela pra você agora
 	mesmo.
 	"""
@@ -816,7 +816,7 @@ script 73 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Olha,por favor,não
+	Olha, por favor, não
 	fale comigo agora.
 	"""
 	keyWait
@@ -887,7 +887,7 @@ script 220 mmbn4 {
 }
 script 221 mmbn4 {
 	clearMsg
-	"\"Quem se prepara,\n não tem com o que\n se preocupar.\""
+	"\"Quem se prepara, \n não tem com o que\n se preocupar.\""
 	keyWait
 		any = false
 	clearMsg

@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Pronto,a gente
+	Pronto, a gente
 	venceu os vírus!
 	"""
 	keyWait
@@ -13,7 +13,7 @@ script 0 mmbn4 {
 	clearMsg
 	"""
 	Agora solta o
-	Chisao,como você
+	Chisao, como você
 	prometeu!
 	"""
 	keyWait
@@ -26,7 +26,7 @@ script 1 mmbn4 {
 	mugshotHide
 	"""
 	NADA MAL! IREI
-	LIBERTÁ-LO,CONFORME
+	LIBERTÁ-LO, CONFORME
 	COMBINADO.
 	"""
 	keyWait
@@ -151,7 +151,7 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Pera,cadê o
+	Pera, cadê o
 	sequestrador?!
 	"""
 	keyWait
@@ -162,7 +162,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Droga,ele fugiu..."
+	"Droga, ele fugiu..."
 	keyWait
 		any = false
 	clearMsg
@@ -174,7 +174,7 @@ script 11 mmbn4 {
 		mugshot = MegaMan
 	"""
 	Qual era o objetivo
-	dele,afinal de
+	dele, afinal de
 	contas?
 	"""
 	keyWait
@@ -231,7 +231,7 @@ script 15 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Chisao,a gente vai
+	Chisao, a gente vai
 	voltar pro DenDomo!
 	"""
 	keyWait

@@ -17,7 +17,7 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Tô,sim!!"
+	"Tô, sim!!"
 	keyWait
 		any = false
 	clearMsg
@@ -117,7 +117,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Ora,seu...!
+	Ora, seu...!
 	Liberta o Chisao!
 	"""
 	keyWait
@@ -138,7 +138,7 @@ script 8 mmbn4 {
 	clearMsg
 	"""
 	PLANTEI DADOS DE
-	NÚMEROS,DE 1 A 5,
+	NÚMEROS, DE 1 A 5,
 	PELA REDE.
 	"""
 	keyWait
@@ -153,7 +153,7 @@ script 8 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	ENCONTRE-OS,ADQUIRA
+	ENCONTRE-OS, ADQUIRA
 	TODOS OS DADOS DE
 	NÚMEROS,
 	"""
@@ -172,7 +172,7 @@ script 9 mmbn4 {
 		mugshot = Lan
 	"""
 	Aí você vai soltar o
-	Chisao,né?!
+	Chisao, né?!
 	"""
 	keyWait
 		any = false
@@ -187,7 +187,7 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	POR SINAL,OS NAVIS
+	POR SINAL, OS NAVIS
 	GUARDANDO OS DADOS
 	ACHAM QUE ELES SÃO
 	"""
@@ -196,7 +196,7 @@ script 10 mmbn4 {
 	clearMsg
 	"""
 	EXTREMAMENTE
-	VALIOSOS,ENTÃO
+	VALIOSOS, ENTÃO
 	NÃO IRÃO ABRIR MÃO
 	"""
 	keyWait

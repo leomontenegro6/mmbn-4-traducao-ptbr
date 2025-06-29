@@ -56,8 +56,8 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	MAS CLARO QUE NÓS,OS
-	PROGS,NÃO PODEREMOS
+	MAS CLARO QUE NÓS, OS
+	PROGS, NÃO PODEREMOS
 	IR...
 	"""
 	keyWait
@@ -183,7 +183,7 @@ script 16 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	... ER,OPS! NADA!
+	... ER, OPS! NADA!
 	EU NÃO FALEI NADA!
 	"""
 	keyWait
@@ -240,7 +240,7 @@ script 30 mmbn4 {
 		mugshot = HeelNaviPurple
 	"""
 	Eu não conto nada
-	pra ninguém,tá?
+	pra ninguém, tá?
 	... Tá? TÁ?!
 	"""
 	keyWait
@@ -336,8 +336,8 @@ script 42 mmbn4 {
 	clearMsg
 	"""
 	EU TÔ BEM! TÔ BEM!
-	JÁ FALEI,TÔ BEM!
-	BEM,BEM,BEM,BEM!
+	JÁ FALEI, TÔ BEM!
+	BEM, BEM, BEM, BEM!
 	"""
 	keyWait
 		any = false
@@ -380,7 +380,7 @@ script 50 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviPink
 	msgOpen
-	"Opa,olá..."
+	"Opa, olá..."
 	keyWait
 		any = false
 	clearMsg
@@ -405,12 +405,12 @@ script 51 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviPink
 	msgOpen
-	"Opa,oi..."
+	"Opa, oi..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	E aí,tá fazendo o
+	E aí, tá fazendo o
 	quê? Você parece tão
 	animado...
 	"""
@@ -449,7 +449,7 @@ script 52 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviPink
 	msgOpen
-	"Opa,oi..."
+	"Opa, oi..."
 	keyWait
 		any = false
 	clearMsg
@@ -482,7 +482,7 @@ script 53 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviPink
 	msgOpen
-	"Opa,olá..."
+	"Opa, olá..."
 	keyWait
 		any = false
 	clearMsg
@@ -507,7 +507,7 @@ script 54 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviPink
 	msgOpen
-	"Opa,olá..."
+	"Opa, olá..."
 	keyWait
 		any = false
 	clearMsg
@@ -521,7 +521,7 @@ script 54 mmbn4 {
 	clearMsg
 	"""
 	Foi até interessan-
-	te,eu acho.
+	te, eu acho.
 	"""
 	waitSkip
 		frames = 30

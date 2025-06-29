@@ -282,7 +282,7 @@ script 10 mmbn4 {
 	clearMsg
 	"""
 	Já que não dá pra
-	fugir,bora pras
+	fugir, bora pras
 	transações usuais.
 	"""
 	keyWait
@@ -291,7 +291,7 @@ script 10 mmbn4 {
 	"""
 	Bem-vindo! Sou um
 	NetVendedor de
-	SubChips,manja?
+	SubChips, manja?
 	"""
 	keyWait
 		any = false

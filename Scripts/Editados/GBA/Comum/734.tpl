@@ -78,7 +78,7 @@ script 5 mmbn4 {
 		mugshot = JunkMan
 	"""
 	Eu nasci neste
-	ferro-velho,sozinho.
+	ferro-velho, sozinho.
 	"""
 	keyWait
 		any = false
@@ -93,7 +93,7 @@ script 5 mmbn4 {
 	clearMsg
 	"""
 	Você entende como
-	é,viver coberto do
+	é, viver coberto do
 	lixo dos outros?
 	"""
 	keyWait
@@ -108,7 +108,7 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	mansa. Então,papeia
+	mansa. Então, papeia
 	aí com o seu opera-
 	dor enquanto pode.
 	"""
@@ -143,7 +143,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	MegaMan,volta logo
+	MegaMan, volta logo
 	pro seu corpo!
 	"""
 	keyWait
@@ -193,7 +193,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Bom... Na real,eu
+	Bom... Na real, eu
 	não odeio o JunkMan.
 	"""
 	keyWait
@@ -273,7 +273,7 @@ script 14 mmbn4 {
 		mugshot = MegaMan
 	"""
 	Não sei COMO ele
-	sofre,mas eu meio
+	sofre, mas eu meio
 	que entendo.
 	"""
 	keyWait
@@ -290,7 +290,7 @@ script 14 mmbn4 {
 	"""
 	Eu tive uma visão de
 	um cara grandão dei-
-	tado,lá no lixo.
+	tado, lá no lixo.
 	"""
 	keyWait
 		any = false
@@ -318,14 +318,14 @@ script 15 mmbn4 {
 		mugshot = Lan
 	"""
 	Um cara grande?
-	Bom,isso é meio
+	Bom, isso é meio
 	vago...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	mas,beleza:
+	mas, beleza:
 	bora procurar!
 	"""
 	keyWait
@@ -337,7 +337,7 @@ script 15 mmbn4 {
 script 16 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Obrigado,Lan!"
+	"Obrigado, Lan!"
 	keyWait
 		any = false
 	clearMsg

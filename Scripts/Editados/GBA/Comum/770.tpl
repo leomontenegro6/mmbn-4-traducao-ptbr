@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"Cê é bom,garoto!"
+	"Cê é bom, garoto!"
 	keyWait
 		any = false
 	clearMsg
@@ -26,7 +26,7 @@ script 0 mmbn4 {
 	"""
 	Não podemos deixar
 	cê sair daqui com
-	vida,não!!
+	vida, não!!
 	"""
 	keyWait
 		any = false
@@ -57,14 +57,14 @@ script 2 mmbn4 {
 	"""
 	Grr... Se fosse uma
 	luta contra Navis
-	normais,daria,
+	normais, daria,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	mas contra gente da
-	Undernet,não vai ser
+	Undernet, não vai ser
 	nada fácil.
 	"""
 	keyWait
@@ -98,7 +98,7 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Karatê Navi,estilo
+	Karatê Navi, estilo
 	Undernet!
 	"Lua Infernal"!
 	"""
@@ -131,7 +131,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Lan,lá vem!!"
+	"Lan, lá vem!!"
 	keyWait
 		any = false
 	end
@@ -151,7 +151,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	"""
-	Tchauzinho,Navi
+	Tchauzinho, Navi
 	azul!!
 	"Lua In..."
 	"""
@@ -226,7 +226,7 @@ script 14 mmbn4 {
 		mugshot = Raika
 	msgOpen
 	"""
-	Lan,esse é o
+	Lan, esse é o
 	SearchMan.
 	"""
 	keyWait
@@ -241,7 +241,7 @@ script 14 mmbn4 {
 	clearMsg
 	"""
 	Bom trabalho chegan-
-	do aqui,mesmo com os
+	do aqui, mesmo com os
 	tiros do SearchMan.
 	"""
 	keyWait
@@ -280,7 +280,7 @@ script 16 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E você,SearchMan?
+	E você, SearchMan?
 	Pôde analisar a
 	capacidade deles?
 	"""
@@ -313,7 +313,7 @@ script 18 mmbn4 {
 		mugshot = Raika
 	"""
 	Só 1% de chance de
-	derrota,é?
+	derrota, é?
 	"""
 	keyWait
 		any = false
@@ -334,7 +334,7 @@ script 18 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Vamos,SearchMan."
+	"Vamos, SearchMan."
 	keyWait
 		any = false
 	clearMsg
@@ -344,7 +344,7 @@ script 18 mmbn4 {
 script 19 mmbn4 {
 	mugshotShow
 		mugshot = SearchMan
-	"Sim,senhor!"
+	"Sim, senhor!"
 	keyWait
 		any = false
 	end
@@ -364,7 +364,7 @@ script 21 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	MegaMan,não fica
+	MegaMan, não fica
 	bolado com isso.
 	"""
 	keyWait
@@ -373,7 +373,7 @@ script 21 mmbn4 {
 	"""
 	A gente já passou
 	por lutas muito mais
-	perigosas,não foi?!
+	perigosas, não foi?!
 	"""
 	keyWait
 		any = false

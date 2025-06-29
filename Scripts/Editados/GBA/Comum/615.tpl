@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Tá bom,então! Eu
+	Tá bom, então! Eu
 	toco o meu terror no
-	além,mesmo!
+	além, mesmo!
 	"""
 	keyWait
 		any = false
@@ -19,7 +19,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Agora,MegaMan!
+	Agora, MegaMan!
 	O Cyber Sutra!
 	"""
 	keyWait
@@ -39,8 +39,8 @@ script 2 mmbn4 {
 		timer = 1
 		value = 1
 	"""
-	Disco rígido,disco
-	rígido,pen drive,
+	Disco rígido, disco
+	rígido, pen drive,
 	carregando. É isso?!
 	"""
 	keyWait
@@ -88,7 +88,7 @@ script 5 mmbn4 {
 	clearMsg
 	"""
 	Já pode desconectar
-	agora,MegaMan.
+	agora, MegaMan.
 	"""
 	keyWait
 		any = false

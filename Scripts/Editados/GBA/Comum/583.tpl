@@ -32,7 +32,7 @@ script 2 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Enfim,é só a gente
+	Enfim, é só a gente
 	lutar com tudo,
 	como sempre.
 	"""
@@ -45,7 +45,7 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"É,isso aí!"
+	"É, isso aí!"
 	keyWait
 		any = false
 	clearMsg
@@ -69,7 +69,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	soundEnableTextSFX
-	"Lan,chegou e-mail!"
+	"Lan, chegou e-mail!"
 	keyWait
 		any = false
 	clearMsg
@@ -106,7 +106,7 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	hoje,em frente ao
+	hoje, em frente ao
 	DenDomo. Por favor,
 	experimentem o nosso
 	"""
@@ -128,7 +128,7 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Então,eles tão
+	Então, eles tão
 	consertando PETs
 	de graça...
 	"""
@@ -137,7 +137,7 @@ script 6 mmbn4 {
 	clearMsg
 	"""
 	Acho que eu vou lá.
-	Digo,é uma empresa
+	Digo, é uma empresa
 	confiável...
 	"""
 	keyWait

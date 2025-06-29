@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Dr. Regal,diga-nos
+	Dr. Regal, diga-nos
 	o que tem em mente,
 	por favor. O laser
 	"""
@@ -14,7 +14,7 @@ script 0 mmbn4 {
 	clearMsg
 	"""
 	do Dr. Hikari
-	falhou,então,só nos
+	falhou, então, só nos
 	resta o seu plano!
 	"""
 	keyWait
@@ -51,7 +51,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
 	msgOpen
-	"Por favor,entre."
+	"Por favor, entre."
 	keyWait
 		any = false
 	end
@@ -83,7 +83,7 @@ script 5 mmbn4 {
 	"""
 	Eu tinha ouvido
 	que o vencedor era
-	ni-honense,mas...
+	ni-honense, mas...
 	"""
 	keyWait
 		any = false
@@ -111,7 +111,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = Regal
-	"Então,ele é o seu\nfilho..."
+	"Então, ele é o seu\nfilho..."
 	keyWait
 		any = false
 	end
@@ -138,7 +138,7 @@ script 9 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Muito prazer,Lan.
+	Muito prazer, Lan.
 	Sou o Dr. Regal,
 	um mero cientista...
 	"""
@@ -162,7 +162,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Regal
 	"""
-	Enfim,vou lhe
+	Enfim, vou lhe
 	contar por que o
 	trouxemos aqui...
 	"""
@@ -293,8 +293,8 @@ script 16 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	espaço e,com o tem-
-	po,poeira espacial
+	espaço e, com o tem-
+	po, poeira espacial
 	se grudou nele.
 	"""
 	keyWait
@@ -325,7 +325,7 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = Regal
 	"""
-	Sim,é possível que
+	Sim, é possível que
 	tenha sido lançado
 	de outro planeta.
 	"""
@@ -384,7 +384,7 @@ script 19 mmbn4 {
 		mugshot = Dad
 	"""
 	Se enviarmos um Navi
-	ao asteroide,ele po-
+	ao asteroide, ele po-
 	deria controlá-lo...
 	"""
 	keyWait
@@ -420,7 +420,7 @@ script 20 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E,todo dia,nós
+	E, todo dia, nós
 	mandamos esses dados
 	via wireless.
 	"""
@@ -485,7 +485,7 @@ script 22 mmbn4 {
 	clearMsg
 	"""
 	O único capaz disso
-	é você,Lan.
+	é você, Lan.
 	"""
 	keyWait
 		any = false
@@ -526,7 +526,7 @@ script 23 mmbn4 {
 script 24 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"... Vamos,Lan!"
+	"... Vamos, Lan!"
 	keyWait
 		any = false
 	end
@@ -536,7 +536,7 @@ script 25 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Mas,MegaMan! Se
+	Mas, MegaMan! Se
 	alguma coisa der
 	errado no espaço...
 	"""
@@ -551,7 +551,7 @@ script 26 mmbn4 {
 		mugshot = MegaMan
 	"""
 	Se a gente não
-	tentar,todo mundo
+	tentar, todo mundo
 	vai morrer.
 	"""
 	keyWait
@@ -580,7 +580,7 @@ script 27 mmbn4 {
 		mugshot = Lan
 	"""
 	... Tá bom.
-	Entendido,MegaMan...
+	Entendido, MegaMan...
 	"""
 	keyWait
 		any = false
@@ -621,7 +621,7 @@ script 31 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Mas,então,o que eu\ndevo fazer...?"
+	"Mas, então, o que eu\ndevo fazer...?"
 	keyWait
 		any = false
 	clearMsg
@@ -728,7 +728,7 @@ script 36 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Então,estão usando
+	Então, estão usando
 	a Rede para estragar
 	este plano também...
 	"""
@@ -770,7 +770,7 @@ script 39 mmbn4 {
 	mugshotShow
 		mugshot = Regal
 	"""
-	Tudo bem,deixo com
+	Tudo bem, deixo com
 	você.
 	"""
 	keyWait
@@ -790,7 +790,7 @@ script 40 mmbn4 {
 	clearMsg
 	"""
 	Se há um problema
-	na Rede,nossa
+	na Rede, nossa
 	estratégia fica
 	"""
 	keyWait
@@ -812,7 +812,7 @@ script 40 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Lan,viaje pelo mundo
+	Lan, viaje pelo mundo
 	"""
 	keyWait
 		any = false
@@ -869,7 +869,7 @@ script 42 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Os demais,voltem a
+	Os demais, voltem a
 	seus postos e
 	preparem-se.
 	"""

@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Se focar,consegue
+	Se focar, consegue
 	derrubar elas com
 	um golpe só!
 	"""
@@ -83,7 +83,7 @@ script 3 mmbn4 {
 	msgOpen
 	"""
 	Amador!
-	Vai de novo,do zero!
+	Vai de novo, do zero!
 	"""
 	keyWait
 		any = false

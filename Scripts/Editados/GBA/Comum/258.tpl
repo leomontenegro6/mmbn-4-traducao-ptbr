@@ -36,7 +36,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Lá,um homem da
+	Lá, um homem da
 	organização irá
 	falar com você.
 	"""
@@ -153,7 +153,7 @@ script 6 mmbn4 {
 	msgOpen
 	"""
 	Eu adoro todos os
-	torneios,mas as
+	torneios, mas as
 	lutas deste em
 	"""
 	keyWait
@@ -183,7 +183,7 @@ script 8 mmbn4 {
 	msgOpen
 	"""
 	Se eu tivesse entra-
-	do no torneio,com
+	do no torneio, com
 	certeza venceria!
 	"""
 	keyWait
@@ -195,7 +195,7 @@ script 10 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Você é bom,viu?!
+	Você é bom, viu?!
 	Continue nesse pique
 	no campeonato!
 	"""
@@ -208,8 +208,8 @@ script 11 mmbn4 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Então,depois da pró-
-	xima luta,acaba o
+	Então, depois da pró-
+	xima luta, acaba o
 	torneio? Poxa...
 	"""
 	keyWait
@@ -221,9 +221,9 @@ script 12 mmbn4 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	Opa! Então,você tá
+	Opa! Então, você tá
 	na final?!
-	Manda ver,garoto!
+	Manda ver, garoto!
 	"""
 	keyWait
 		any = false
@@ -236,7 +236,7 @@ script 13 mmbn4 {
 	"""
 	Tô ansioso pra te
 	ver fazer bonito na
-	arena,rapaz!
+	arena, rapaz!
 	"""
 	keyWait
 		any = false
@@ -247,7 +247,7 @@ script 30 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Então,você está no
+	Então, você está no
 	torneio? Ah!
 	"""
 	keyWait
@@ -288,8 +288,8 @@ script 131 mmbn4 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Aquele cara,o Sr.
-	Match,parece meio
+	Aquele cara, o Sr.
+	Match, parece meio
 	suspeito...
 	"""
 	keyWait
@@ -321,8 +321,8 @@ script 133 mmbn4 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	O FireMan,do Sr.
-	Match,é um Navi de
+	O FireMan, do Sr.
+	Match, é um Navi de
 	Fogo! Eu sei que é!
 	"""
 	keyWait
@@ -380,7 +380,7 @@ script 138 mmbn4 {
 	clearMsg
 	mugshotAnimation
 		animation = 1
-	"(Treme,treme!)"
+	"(Treme, treme!)"
 	keyWait
 		any = false
 	end
@@ -392,7 +392,7 @@ script 240 mmbn4 {
 	"""
 	O dispositivo de
 	ignição tá aqui?
-	Vamos lá,MegaMan!
+	Vamos lá, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -404,7 +404,7 @@ script 241 mmbn4 {
 	msgOpen
 	"""
 	Achei o dispositivo!
-	Manda ver,MegaMan!
+	Manda ver, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -415,7 +415,7 @@ script 242 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... Pronto! Argh,ele
+	... Pronto! Argh, ele
 	escondeu num lugar
 	tão complicado!
 	"""

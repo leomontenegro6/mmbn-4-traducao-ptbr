@@ -1686,9 +1686,9 @@ script 203 mmbn4 {
 	mugshotShow
 		mugshot = DirectorOzuma
 	"""
-	Um dia desses,en-
+	Um dia desses, en-
 	quanto eu surfava na
-	Rede,um Navi Vampiro
+	Rede, um Navi Vampiro
 	"""
 	keyWait
 		any = false
@@ -1696,7 +1696,7 @@ script 203 mmbn4 {
 	"""
 	apareceu diante do
 	meu. Era assustado-
-	ramente forte,mas
+	ramente forte, mas
 	"""
 	keyWait
 		any = false
@@ -1742,7 +1742,7 @@ script 205 mmbn4 {
 	"""
 	Django e Otenko
 	devem estar na Rede
-	agora,lutando contra
+	agora, lutando contra
 	"""
 	keyWait
 		any = false
@@ -1762,7 +1762,7 @@ script 205 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"\"Django,o Menino\n Solar\"!"
+	"\"Django, o Menino\n Solar\"!"
 	keyWait
 		any = false
 	end
@@ -2382,8 +2382,8 @@ script 236 mmbn4 {
 		flag = 116
 	"""
 	DarkSoul appears.
-	However,a scenario
-	flag is up,so the
+	However, a scenario
+	flag is up, so the
 	"""
 	keyWait
 		any = false
@@ -2474,7 +2474,7 @@ script 242 mmbn4 {
 	"""
 	Hold Free Tournament
 	But a scenario clear
-	flag is up,so don't
+	flag is up, so don't
 	"""
 	keyWait
 		any = false

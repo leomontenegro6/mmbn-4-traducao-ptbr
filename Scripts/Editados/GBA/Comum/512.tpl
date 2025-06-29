@@ -33,7 +33,7 @@ script 2 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Foi difícil,mas você
+	Foi difícil, mas você
 	concluiu com suces-
 	so. Bom trabalho!
 	"""
@@ -54,8 +54,8 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Bom,melhor ir logo
-	para o botão,não
+	Bom, melhor ir logo
+	para o botão, não
 	é mesmo?
 	"""
 	keyWait

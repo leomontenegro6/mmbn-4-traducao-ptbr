@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Chaud,a gente
+	Chaud, a gente
 	conseguiu!
 	O ProtoMan voltou!
 	"""
@@ -36,7 +36,7 @@ script 2 mmbn4 {
 		mugshot = Lan
 	"""
 	Cê não deve nada
-	pra gente,não.
+	pra gente, não.
 	"""
 	keyWait
 		any = false
@@ -63,7 +63,7 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Senão,não poderia
+	Senão, não poderia
 	lutar com tudo con-
 	tra você no torneio.
 	"""
@@ -77,7 +77,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Ah,é?!
+	Ah, é?!
 	Pois eu digo o
 	mesmo!
 	"""
@@ -89,7 +89,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"ProtoMan,você está\nbem?"
+	"ProtoMan, você está\nbem?"
 	keyWait
 		any = false
 	clearMsg
@@ -127,13 +127,13 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = ProtoMan
-	"Sim,senhor!"
+	"Sim, senhor!"
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Minha memória está
-	fraca,mas sei que
+	fraca, mas sei que
 	devo te agradecer.
 	"""
 	keyWait
@@ -172,7 +172,7 @@ script 11 mmbn4 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Lan,estaremos
+	Lan, estaremos
 	esperando vocês
 	no Coliseu.
 	"""
@@ -185,7 +185,7 @@ script 12 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Desconecta,MegaMan!
+	Desconecta, MegaMan!
 	A gente tem que ir
 	pro Coliseu.
 	"""

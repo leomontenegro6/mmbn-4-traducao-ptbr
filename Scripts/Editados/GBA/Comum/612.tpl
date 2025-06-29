@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	He! Ah,tanto faz.
+	He! Ah, tanto faz.
 	Já cansei deste
 	mundo mesmo!
 	"""
@@ -39,8 +39,8 @@ script 2 mmbn4 {
 		timer = 1
 		value = 1
 	"""
-	Tab,Tab,Espaço,
-	Espaço,Enter,Enter.
+	Tab, Tab, Espaço,
+	Espaço, Enter, Enter.
 	É isso mesmo?!
 	"""
 	keyWait
@@ -52,8 +52,8 @@ script 3 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Bom,até que não foi
-	uma vida ruim,não.
+	Bom, até que não foi
+	uma vida ruim, não.
 	"""
 	keyWait
 		any = false
@@ -69,7 +69,7 @@ script 4 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Ô,calminha aí!
+	Ô, calminha aí!
 	Cê não vai me eli-
 	minar fácil assim!
 	"""
@@ -95,7 +95,7 @@ script 5 mmbn4 {
 	clearMsg
 	"""
 	Já pode desconectar
-	agora,MegaMan.
+	agora, MegaMan.
 	"""
 	keyWait
 		any = false

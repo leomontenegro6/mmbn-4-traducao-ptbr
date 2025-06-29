@@ -23,7 +23,7 @@ script 1 mmbn4 {
 	"""
 	Perdi... Você é
 	um NetLutador de
-	primeira,Lan.
+	primeira, Lan.
 	"""
 	keyWait
 		any = false
@@ -36,7 +36,7 @@ script 2 mmbn4 {
 		mugshot = Lan
 	"""
 	Você também é
-	super forte,Sal!
+	super forte, Sal!
 	"""
 	keyWait
 		any = false
@@ -104,7 +104,7 @@ script 5 mmbn4 {
 	msgOpen
 	"""
 	Se foi isso que ti-
-	raram da luta,estou
+	raram da luta, estou
 	muito satisfeita.
 	"""
 	keyWait
@@ -161,7 +161,7 @@ script 7 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Vamos,WoodMan!"
+	"Vamos, WoodMan!"
 	keyWait
 		any = false
 	clearMsg

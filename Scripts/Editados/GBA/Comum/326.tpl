@@ -93,15 +93,15 @@ script 1 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	AH,EU POSSO CRIAR
+	AH, EU POSSO CRIAR
 	O LINK? CERTO.
-	TOME,PEGUE.
+	TOME, PEGUE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	POR FAVOR,USE ESSE
+	POR FAVOR, USE ESSE
 	BANNER PARA VISITAR
 	ESTA PÁGINA.
 	"""
@@ -131,7 +131,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	AGORA,IREI CRIAR
+	AGORA, IREI CRIAR
 	OLINK...
 	HA!
 	"""
@@ -158,7 +158,7 @@ script 2 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	COMO SEMPRE,ESTA
+	COMO SEMPRE, ESTA
 	PÁGINA ESTÁ OPERANDO
 	COM PERFEIÇÃO.
 	"""
@@ -166,7 +166,7 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	CLARO. AFINAL,EU SOU
+	CLARO. AFINAL, EU SOU
 	O ENCARREGADO DELA!
 	"""
 	keyWait
@@ -288,7 +288,7 @@ script 12 mmbn4 {
 	msgOpen
 	"""
 	Ameropa? Eu queria
-	ir lá,também...
+	ir lá, também...
 	"""
 	keyWait
 		any = false
@@ -328,7 +328,7 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Boa sorte,MegaMan!"
+	"Boa sorte, MegaMan!"
 	keyWait
 		any = false
 	end
@@ -384,7 +384,7 @@ script 21 mmbn4 {
 	clearMsg
 	"""
 	É melhor a gente
-	ficar em casa,nos
+	ficar em casa, nos
 	nossos PETs.
 	"""
 	keyWait

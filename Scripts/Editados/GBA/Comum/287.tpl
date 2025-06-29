@@ -89,7 +89,7 @@ script 10 mmbn4 {
 	msgOpen
 	"""
 	Mesmo se eu cavar,
-	meia hora depois,a
+	meia hora depois, a
 	neve se acumula de
 	"""
 	keyWait
@@ -237,7 +237,7 @@ script 17 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Você é o Lan,né?
+	Você é o Lan, né?
 	A NAXA me falou de
 	você!
 	"""
@@ -245,7 +245,7 @@ script 17 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Por favor,conserte
+	Por favor, conserte
 	logo a Rede!
 	"""
 	keyWait
@@ -331,7 +331,7 @@ script 22 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Lan,você pegou o
+	Lan, você pegou o
 	Navi do culpado?
 	"""
 	keyWait
@@ -384,7 +384,7 @@ script 26 mmbn4 {
 	clearMsg
 	"""
 	Eu me dou bem com o
-	frio,mas isto é
+	frio, mas isto é
 	ridículo!
 	"""
 	keyWait
@@ -432,7 +432,7 @@ script 30 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Lan,o futuro do
+	Lan, o futuro do
 	nosso planeta
 	depende de você.
 	"""

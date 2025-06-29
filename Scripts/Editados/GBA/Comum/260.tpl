@@ -26,7 +26,7 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	Eu escolhi uma
-	bebida gelada,mas
+	bebida gelada, mas
 	saiu uma quente!
 	"""
 	keyWait
@@ -50,7 +50,7 @@ script 5 mmbn4 {
 	"""
 	Parece que o Torneio
 	Sol Vermelho vai
-	começar hoje,na
+	começar hoje, na
 	"""
 	keyWait
 		any = false
@@ -77,7 +77,7 @@ script 6 mmbn4 {
 	"""
 	Parece que o Torneio
 	Lua Azul vai começar
-	hoje,na Ameropa.
+	hoje, na Ameropa.
 	"""
 	keyWait
 		any = false
@@ -115,7 +115,7 @@ script 15 mmbn4 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Agora mesmo,uma
+	Agora mesmo, uma
 	batalha feroz entre
 	os melhores do
 	"""
@@ -144,21 +144,21 @@ script 20 mmbn4 {
 	msgOpen
 	"""
 	Eu queria ir pro
-	exterior,mas,se eu
+	exterior, mas, se eu
 	fosse,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	cedo ou tarde,ia
+	cedo ou tarde, ia
 	querer voltar pra
 	casa...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Mesmo assim,eu\nqueria ir pro\nexterior..."
+	"Mesmo assim, eu\nqueria ir pro\nexterior..."
 	keyWait
 		any = false
 	end
@@ -189,7 +189,7 @@ script 25 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	lutar,mas eles quase
+	lutar, mas eles quase
 	me prendem!
 	"""
 	keyWait
@@ -229,13 +229,13 @@ script 35 mmbn4 {
 	mugshotShow
 		mugshot = CapBoy
 	msgOpen
-	"Ei,aconteceu alguma\ncoisa?"
+	"Ei, aconteceu alguma\ncoisa?"
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Eu tentei dar uma
-	volta,mas um Oficial
+	volta, mas um Oficial
 	me parou!
 	"""
 	keyWait

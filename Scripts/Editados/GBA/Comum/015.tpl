@@ -6,7 +6,7 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	Esta é a tela do
-	CustNavi. Agora,o
+	CustNavi. Agora, o
 	programa NetNavi
 	"""
 	keyWait
@@ -19,20 +19,20 @@ script 0 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Ou seja,está\ndormindo."
+	"Ou seja, está\ndormindo."
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Enquanto ele está na
-	espera,você pode
+	espera, você pode
 	instalar programas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	nele,customizando as
+	nele, customizando as
 	habilidades do
 	MegaMan.
 	"""
@@ -103,7 +103,7 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E agora,vamos à
+	E agora, vamos à
 	primeira regra:
 	"""
 	keyWait
@@ -133,7 +133,7 @@ script 3 mmbn4 {
 	clearMsg
 	"""
 	Os programas têm que
-	ter,no mínimo,um de
+	ter, no mínimo, um de
 	seus blocos
 	"""
 	keyWait
@@ -147,7 +147,7 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Pois bem,então:
+	Pois bem, então:
 	vamos instalar o
 	"PorUm"!
 	"""
@@ -199,7 +199,7 @@ script 15 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Ótimo. Agora,vamos
+	Ótimo. Agora, vamos
 	instalar um
 	"Ataq+1".
 	"""
@@ -255,7 +255,7 @@ script 20 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Agora,a segunda
+	Agora, a segunda
 	regra. Veja bem o
 	"Ataq+1".
 	"""
@@ -294,7 +294,7 @@ script 21 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Enfim,vamos instalar
+	Enfim, vamos instalar
 	o "Ataq+1".
 	"""
 	keyWait
@@ -307,7 +307,7 @@ script 22 mmbn4 {
 	msgOpen
 	"""
 	O "Ataq+1" é uma
-	Peça Próton,então,
+	Peça Próton, então,
 	lembre-se de não
 	"""
 	keyWait
@@ -339,7 +339,7 @@ script 25 mmbn4 {
 	msgOpen
 	"""
 	Ótimo. Para termi-
-	nar,vamos instalar
+	nar, vamos instalar
 	um "Rapidz+1"
 	"""
 	keyWait
@@ -377,7 +377,7 @@ script 28 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	E agora,vamos à
+	E agora, vamos à
 	terceira regra.
 	Programas de mesma
 	"""
@@ -439,7 +439,7 @@ script 31 mmbn4 {
 	msgOpen
 	"""
 	Como "Rapidz+1" é
-	uma Peça Próton,não
+	uma Peça Próton, não
 	deve ser colocado
 	"""
 	keyWait
@@ -483,7 +483,7 @@ script 35 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Ótimo. Agora,falarei
+	Ótimo. Agora, falarei
 	do "EXECUTAR"!
 	"""
 	keyWait
@@ -513,7 +513,7 @@ script 35 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Aperte EXECUTAR,Lan."
+	"Aperte EXECUTAR, Lan."
 	keyWait
 		any = false
 	end
@@ -547,7 +547,7 @@ script 37 mmbn4 {
 		mugshot = Lan
 	"""
 	Tomara que ele teja
-	bem... MegaMan,como
+	bem... MegaMan, como
 	tá se sentindo?
 	"""
 	keyWait
@@ -563,7 +563,7 @@ script 37 mmbn4 {
 		mugshot = Lan
 	"""
 	Hã?
-	E-ei,MegaMan?!
+	E-ei, MegaMan?!
 	"""
 	keyWait
 		any = false
@@ -571,7 +571,7 @@ script 37 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Ui! ... Bom dia,Lan!
+	Ui! ... Bom dia, Lan!
 	Tá tudo ótimo!
 	"""
 	keyWait
@@ -587,7 +587,7 @@ script 37 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Ufa! Poxa,não me
+	Ufa! Poxa, não me
 	assusta desse jeito!
 	"""
 	keyWait
@@ -632,14 +632,14 @@ script 37 mmbn4 {
 	clearMsg
 	"""
 	Se não programar
-	direitinho,vai
+	direitinho, vai
 	ocorrer um bug.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ah,e mais uma coisa.
+	Ah, e mais uma coisa.
 	"""
 	keyWait
 		any = false
@@ -661,7 +661,7 @@ script 37 mmbn4 {
 	clearMsg
 	"""
 	Se instalar 5 ou
-	mais,o MegaMan fica-
+	mais, o MegaMan fica-
 	rá sobrecarregado,
 	"""
 	keyWait
@@ -677,7 +677,7 @@ script 37 mmbn4 {
 	clearMsg
 	"""
 	instaladas é exibido
-	aqui,para você
+	aqui, para você
 	manter em mente.
 	"""
 	keyWait
@@ -701,7 +701,7 @@ script 38 mmbn4 {
 	msgOpenQuick
 	"""
 	Entendi.
-	Valeu,pai!
+	Valeu, pai!
 	"""
 	keyWait
 		any = false
@@ -716,7 +716,7 @@ script 38 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Boa sorte,meninos!"
+	"Boa sorte, meninos!"
 	keyWait
 		any = false
 	end

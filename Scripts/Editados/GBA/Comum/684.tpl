@@ -35,7 +35,7 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	Quanto tempo ainda
-	resta,cara Mami?
+	resta, cara Mami?
 	"""
 	keyWait
 		any = false
@@ -47,7 +47,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Mami
 	"""
-	Er,deixa eu ver...
+	Er, deixa eu ver...
 	10 segundos!
 	"""
 	keyWait
@@ -94,8 +94,8 @@ script 5 mmbn4 {
 	msgOpen
 	"""
 	Arf... Urf...
-	Moça,eu cheguei a
-	tempo,né?
+	Moça, eu cheguei a
+	tempo, né?
 	"""
 	keyWait
 		any = false

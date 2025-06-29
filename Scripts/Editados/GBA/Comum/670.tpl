@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Tamako,como que cê
+	Tamako, como que cê
 	vai testar a gente?
 	"""
 	keyWait
@@ -84,8 +84,8 @@ script 5 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	Bom,se EU vir ela
-	como o MegaMan,eu
+	Bom, se EU vir ela
+	como o MegaMan, eu
 	quebro ela fácil!
 	"""
 	keyWait
@@ -99,9 +99,9 @@ script 6 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Mas,mesmo se
-	quebrar,vai se
-	machucar,não?
+	Mas, mesmo se
+	quebrar, vai se
+	machucar, não?
 	"""
 	keyWait
 		any = false
@@ -145,7 +145,7 @@ script 9 mmbn4 {
 	msgOpen
 	"""
 	Ai!!!
-	Hmm,acho que não
+	Hmm, acho que não
 	rolou.
 	"""
 	keyWait
@@ -179,7 +179,7 @@ script 11 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	Bom,agora,eu sei
+	Bom, agora, eu sei
 	como vou fazer pra
 	vencer vocês.
 	"""
@@ -213,7 +213,7 @@ script 13 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E não desisti,mesmo
+	E não desisti, mesmo
 	sabendo que não
 	poderia quebrá-la.
 	"""
@@ -221,7 +221,7 @@ script 13 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Já você,nem tentou
+	Já você, nem tentou
 	socá-la.
 	"""
 	keyWait
@@ -237,7 +237,7 @@ script 13 mmbn4 {
 	clearMsg
 	"""
 	Do jeito que está
-	agora,não tem espí-
+	agora, não tem espí-
 	rito pra nos vencer.
 	"""
 	keyWait
@@ -313,7 +313,7 @@ script 17 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	Com essa chave,você
+	Com essa chave, você
 	vai poder conhecer o
 	meu mestre.
 	"""
@@ -338,7 +338,7 @@ script 17 mmbn4 {
 	clearMsg
 	"""
 	Depois que meu mes-
-	tre te aprovar,volte
+	tre te aprovar, volte
 	aqui. Estarei aqui.
 	"""
 	keyWait
@@ -372,7 +372,7 @@ script 19 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Bom,é,mas ela com
+	Bom, é, mas ela com
 	certeza tem espírito
 	de luta.
 	"""
@@ -406,8 +406,8 @@ script 21 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Bom,vamos pegar no
-	pesado,então? Com o
+	Bom, vamos pegar no
+	pesado, então? Com o
 	mestre da Tamako?
 	"""
 	keyWait

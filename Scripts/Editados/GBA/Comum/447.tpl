@@ -17,7 +17,7 @@ script 1 mmbn4 {
 	msgOpen
 	"""
 	Só mais um!
-	Força,meninos!
+	Força, meninos!
 	"""
 	keyWait
 		any = false
@@ -33,7 +33,7 @@ script 2 mmbn4 {
 	clearMsg
 	"""
 	De novo!
-	Vamos,pelo café da
+	Vamos, pelo café da
 	manhã!
 	"""
 	keyWait

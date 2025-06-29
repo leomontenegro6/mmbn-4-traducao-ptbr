@@ -37,7 +37,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Em toda família,é
+	Em toda família, é
 	sempre o pai quem
 	fica mais cansado.
 	"""
@@ -78,7 +78,7 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Olhando bem,possui
+	Olhando bem, possui
 	entrada de conexão.
 	"""
 	keyWait
@@ -124,7 +124,7 @@ script 5 mmbn4 {
 	"""
 	Olha só! Alguém
 	rabiscou nela. Uma
-	zoeira,imagino...
+	zoeira, imagino...
 	"""
 	keyWait
 		any = false

@@ -88,7 +88,7 @@ script 13 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,desconecta!
+	MegaMan, desconecta!
 	Outro RobôBrnq
 	saiu de controle!
 	"""
@@ -136,7 +136,7 @@ script 16 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan! Rápido,pra
+	MegaMan! Rápido, pra
 	Mansão do Vampiro!
 	"""
 	keyWait

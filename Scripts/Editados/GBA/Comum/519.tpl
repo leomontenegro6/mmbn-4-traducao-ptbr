@@ -84,7 +84,7 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
-	"... Sim,silêncio."
+	"... Sim, silêncio."
 	keyWait
 		any = false
 	clearMsg
@@ -186,7 +186,7 @@ script 11 mmbn4 {
 	msgOpen
 	"""
 	Por favor,
-	Dr.Hikari,o laser...
+	Dr.Hikari, o laser...
 	"""
 	keyWait
 		any = false
@@ -200,7 +200,7 @@ script 12 mmbn4 {
 		jumpIfBlueMoon = 34
 	mugshotShow
 		mugshot = Dad
-	"Certo,vamos lá."
+	"Certo, vamos lá."
 	keyWait
 		any = false
 	clearMsg
@@ -354,7 +354,7 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"I-isso,nós..."
+	"I-isso, nós..."
 	keyWait
 		any = false
 	clearMsg
@@ -472,8 +472,8 @@ script 27 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,para operar o
-	CPULaser,deve ser
+	Mas, para operar o
+	CPULaser, deve ser
 	um muito forte...
 	"""
 	keyWait
@@ -539,7 +539,7 @@ script 30 mmbn4 {
 	msgOpen
 	"""
 	É-é mesmo?
-	Um plano,Dr.Regal?!
+	Um plano, Dr.Regal?!
 	"""
 	keyWait
 		any = false
@@ -598,7 +598,7 @@ script 33 mmbn4 {
 script 34 mmbn4 {
 	mugshotShow
 		mugshot = Dad
-	"Certo,vamos lá."
+	"Certo, vamos lá."
 	keyWait
 		any = false
 	clearMsg

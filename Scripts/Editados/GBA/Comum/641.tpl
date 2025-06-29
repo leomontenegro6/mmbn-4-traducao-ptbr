@@ -21,7 +21,7 @@ script 1 mmbn4 {
 	msgOpen
 	"""
 	Crusher... Parece um
-	Navi normal,mas tem
+	Navi normal, mas tem
 	nome de durão.
 	"""
 	keyWait
@@ -58,7 +58,7 @@ script 3 mmbn4 {
 	msgOpen
 	"""
 	He!
-	Haja confiança,hein?
+	Haja confiança, hein?
 	"""
 	keyWait
 		any = false
@@ -85,7 +85,7 @@ script 5 mmbn4 {
 	"""
 	Shh!
 	Você falou muito
-	alto,Lan!
+	alto, Lan!
 	"""
 	keyWait
 		any = false
@@ -96,7 +96,7 @@ script 6 mmbn4 {
 		mugshot = Riki
 	msgOpen
 	"""
-	Sou Riki,o operador
+	Sou Riki, o operador
 	do Crusher. Seu
 	próximo oponente.
 	"""
@@ -112,7 +112,7 @@ script 7 mmbn4 {
 	msgOpen
 	"""
 	E-eu sou Lan
-	Hikari,o operador
+	Hikari, o operador
 	do MegaMan.
 	"""
 	keyWait
@@ -127,14 +127,14 @@ script 8 mmbn4 {
 	msgOpen
 	"""
 	He!
-	Pelo menos,você é
+	Pelo menos, você é
 	otimista.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Enfim,é melhor
+	Enfim, é melhor
 	você baixar a bola
 	e esperar a luta.
 	"""
@@ -149,7 +149,7 @@ script 8 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Né,Crusher?!"
+	"Né, Crusher?!"
 	keyWait
 		any = false
 	clearMsg
@@ -161,16 +161,16 @@ script 9 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Pode crer,chefe!
+	Pode crer, chefe!
 	O seu nome é
-	MegaMan,né?!
+	MegaMan, né?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Não vá perder
-	rápido,hein? Seria
+	rápido, hein? Seria
 	uma decepção.
 	"""
 	keyWait
@@ -196,7 +196,7 @@ script 11 mmbn4 {
 	msgOpen
 	"""
 	Ga ha ha ha ha!
-	Certo,então! Tô
+	Certo, então! Tô
 	ansioso pela luta!
 	"""
 	keyWait
@@ -208,7 +208,7 @@ script 12 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ah,ele parece durão,
+	Ah, ele parece durão,
 	mas é só pose!
 	Né não?
 	"""

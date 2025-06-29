@@ -2382,7 +2382,7 @@ script 192 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	3: Em Vila3,número
+	3: Em Vila3, número
 	de triângulos pra
 	cima e pra baixo.
 	"""
@@ -2460,7 +2460,7 @@ script 193 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	6: Em Vila3,número
+	6: Em Vila3, número
 	de triângulos pra
 	cima e pra baixo.
 	"""

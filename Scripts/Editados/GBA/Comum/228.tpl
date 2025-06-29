@@ -8,7 +8,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"Bom dia,Lan!"
+	"Bom dia, Lan!"
 	keyWait
 		any = false
 	clearMsg
@@ -26,7 +26,7 @@ script 1 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Ah,é o fogão!
+	Ah, é o fogão!
 	Que tal se conectar
 	nele?
 	"""
@@ -50,7 +50,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"Bom dia,Lan!"
+	"Bom dia, Lan!"
 	keyWait
 		any = false
 	clearMsg
@@ -61,7 +61,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Bom dia,mãe!"
+	"Bom dia, mãe!"
 	keyWait
 		any = false
 	clearMsg
@@ -82,7 +82,7 @@ script 4 mmbn4 {
 	msgOpen
 	"""
 	É o fogão!
-	Ele quebrou,não dá
+	Ele quebrou, não dá
 	pra fazer comida...!
 	"""
 	keyWait
@@ -114,7 +114,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"Por favor,\nme ajuda,Lan!"
+	"Por favor, \nme ajuda, Lan!"
 	keyWait
 		any = false
 	end
@@ -188,7 +188,7 @@ script 10 mmbn4 {
 	printItem
 		buffer = 0
 		item = 2
-	"\ne traga aqui pra\nmim,rápido!"
+	"\ne traga aqui pra\nmim, rápido!"
 	keyWait
 		any = false
 	clearMsg
@@ -261,7 +261,7 @@ script 13 mmbn4 {
 	"""
 	Use o seu computador
 	para chegar lá!
-	Sem demora,Lan!
+	Sem demora, Lan!
 	"""
 	keyWait
 		any = false
@@ -288,7 +288,7 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"\"Vapt-vupt\",Lan!"
+	"\"Vapt-vupt\", Lan!"
 	keyWait
 		any = false
 	end
@@ -319,8 +319,8 @@ script 17 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ai,todo esse
-	trabalho,e justo na
+	Ai, todo esse
+	trabalho, e justo na
 	folga dele!
 	"""
 	keyWait
@@ -382,7 +382,7 @@ script 20 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Que foi,filho?
+	Que foi, filho?
 	Tá tão pálido!
 	"""
 	keyWait
@@ -395,7 +395,7 @@ script 25 mmbn4 {
 	msgOpen
 	"""
 	Não vá ficar na rua
-	até tarde,viu?
+	até tarde, viu?
 	"""
 	keyWait
 		any = false
@@ -455,7 +455,7 @@ script 40 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"um Navi fantasma \naparece,sem falta!"
+	"um Navi fantasma \naparece, sem falta!"
 	keyWait
 		any = false
 	clearMsg
@@ -540,7 +540,7 @@ script 50 mmbn4 {
 	"""
 	Você tá tão feliz!
 	Aconteceu alguma
-	coisa,Lan?
+	coisa, Lan?
 	"""
 	keyWait
 		any = false
@@ -554,9 +554,9 @@ script 50 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Claro,pode partici-
+	Claro, pode partici-
 	par. Só não vá
-	se machucar,tá?
+	se machucar, tá?
 	"""
 	keyWait
 		any = false
@@ -569,7 +569,7 @@ script 51 mmbn4 {
 	"""
 	Você tá tão feliz!
 	Aconteceu alguma
-	coisa,Lan?
+	coisa, Lan?
 	"""
 	keyWait
 		any = false
@@ -583,9 +583,9 @@ script 51 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Claro,pode partici-
+	Claro, pode partici-
 	par. Só não vá
-	se machucar,tá?
+	se machucar, tá?
 	"""
 	keyWait
 		any = false
@@ -597,7 +597,7 @@ script 55 mmbn4 {
 	msgOpen
 	"""
 	O torneio já
-	terminou,Lan?
+	terminou, Lan?
 	"""
 	keyWait
 		any = false
@@ -659,7 +659,7 @@ script 70 mmbn4 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Bom trabalho,Lan!
+	Bom trabalho, Lan!
 	"""
 	keyWait
 		any = false
@@ -703,8 +703,8 @@ script 80 mmbn4 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Parece ocupado,Lan.
-	E aí,deu tudo certo
+	Parece ocupado, Lan.
+	E aí, deu tudo certo
 	com a visita?
 	"""
 	keyWait

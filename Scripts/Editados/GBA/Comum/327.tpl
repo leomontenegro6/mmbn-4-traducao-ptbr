@@ -26,7 +26,7 @@ script 0 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"AQUI,TOME ISTO!"
+	"AQUI, TOME ISTO!"
 	keyWait
 		any = false
 	clearMsg
@@ -129,7 +129,7 @@ script 11 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Você é o\nrepresentante de\nNi-Hon,né?"
+	"Você é o\nrepresentante de\nNi-Hon, né?"
 	keyWait
 		any = false
 	clearMsg
@@ -185,7 +185,7 @@ script 13 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Você é o\nrepresentante de\nNi-Hon,né?"
+	"Você é o\nrepresentante de\nNi-Hon, né?"
 	keyWait
 		any = false
 	clearMsg
@@ -285,7 +285,7 @@ script 22 mmbn4 {
 	msgOpen
 	"""
 	Um... "Chip das
-	Trevas",é?
+	Trevas", é?
 	Interessante... É...
 	"""
 	keyWait

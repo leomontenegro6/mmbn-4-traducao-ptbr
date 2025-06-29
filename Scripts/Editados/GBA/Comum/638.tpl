@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Que tal,hein?
+	Que tal, hein?
 	"""
 	keyWait
 		any = false
@@ -13,7 +13,7 @@ script 0 mmbn4 {
 	"""
 	A Loja do Higsby
 	sabe fazer dindim
-	quando precisa,é!
+	quando precisa, é!
 	"""
 	keyWait
 		any = false
@@ -26,7 +26,7 @@ script 1 mmbn4 {
 		mugshot = Maid
 	"""
 	É! Sacou a parada
-	agora... er,brô?!
+	agora... er, brô?!
 	"""
 	keyWait
 		any = false
@@ -122,7 +122,7 @@ script 7 mmbn4 {
 		mugshot = OrangeShirtBoy
 	"""
 	Se botar o Higsby
-	pra fora,vai se ver
+	pra fora, vai se ver
 	comigo!
 	"""
 	keyWait
@@ -151,15 +151,15 @@ script 9 mmbn4 {
 	"""
 	Vocês... nunca com-
 	pram chips. Só vêm
-	pra brincar,é.
+	pra brincar, é.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mas,hoje,estão
+	Mas, hoje, estão
 	ajudando tanto!
-	Eu vou chorar,é!
+	Eu vou chorar, é!
 	"""
 	keyWait
 		any = false
@@ -171,16 +171,16 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = BlackMan
 	"""
-	Rá,que guris mais
+	Rá, que guris mais
 	determinados vocês
-	são,hein?!
+	são, hein?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Acho que,desta
-	vez,eu vou ter
+	Acho que, desta
+	vez, eu vou ter
 	que recuar!
 	"""
 	keyWait
@@ -192,7 +192,7 @@ script 11 mmbn4 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Enfim,Lan,Higsby...
+	Enfim, Lan, Higsby...
 	Já não tá na hora
 	da luta de vocês?
 	"""
@@ -231,13 +231,13 @@ script 13 mmbn4 {
 script 14 mmbn4 {
 	mugshotShow
 		mugshot = Higsby
-	"Ah,é!"
+	"Ah, é!"
 	keyWait
 		any = false
 	clearMsg
 	"""
 	No meio desse
-	frenesi todo,acabei
+	frenesi todo, acabei
 	esquecendo da luta!
 	"""
 	keyWait
@@ -249,7 +249,7 @@ script 14 mmbn4 {
 script 15 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Vamos lá,Higsby!"
+	"Vamos lá, Higsby!"
 	keyWait
 		any = false
 	clearMsg
@@ -281,7 +281,7 @@ script 17 mmbn4 {
 		mugshot = Maid
 	msgOpen
 	"""
-	Boa sorte,rapazes!
+	Boa sorte, rapazes!
 	"""
 	keyWait
 		any = false

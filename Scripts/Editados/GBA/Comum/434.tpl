@@ -69,7 +69,7 @@ script 130 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	MegaMan,abra a
+	MegaMan, abra a
 	porta e prossiga!
 	"""
 	keyWait

@@ -364,7 +364,7 @@ script 15 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Que pena,Lan.
+	Que pena, Lan.
 	Quer descansar?
 	
 	"""
@@ -406,7 +406,7 @@ script 16 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Boa,Lan!
+	Boa, Lan!
 	Vencemos um
 	Torneio Livre!
 	"""
@@ -419,7 +419,7 @@ script 17 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Que luta,hein?
+	Que luta, hein?
 	Vamos mais uma!
 	"""
 	keyWait
@@ -1201,7 +1201,7 @@ script 71 mmbn4 {
 		top = 141
 	"""
 	Chips raros
-	recebidos,mas
+	recebidos, mas
 	já tenho esse.
 	"""
 	keyWait
@@ -1268,7 +1268,7 @@ script 76 mmbn4 {
 	"""
 	Como você não
 	tem PastaEx-
-	tra,tome.
+	tra, tome.
 	"""
 	keyWait
 		any = false
@@ -1628,7 +1628,7 @@ script 89 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"Transmissão,confere!"
+	"Transmissão, confere!"
 	keyWait
 		any = false
 	waitHold
@@ -1684,7 +1684,7 @@ script 92 mmbn4 {
 		mugshot = MegaMan
 	"""
 	Nenhum e-mail
-	novo,Lan!
+	novo, Lan!
 	"""
 	waitHold
 }
@@ -1858,7 +1858,7 @@ script 104 mmbn4 {
 	"""
 	Sistemas
 	normais! 
-	Valeu,Lan!
+	Valeu, Lan!
 	"""
 	keyWait
 		any = false
@@ -1919,7 +1919,7 @@ script 105 mmbn4 {
 		mugshot = MegaMan
 	"""
 	Me sinto meio
-	estranho,mas
+	estranho, mas
 	tudo bem!
 	"""
 	keyWait
@@ -2775,7 +2775,7 @@ script 163 mmbn4 {
 		jumpIfEqual = 248
 		jumpIfNotEqual = continue
 	"""
-	Boa,Lan! Ótima
+	Boa, Lan! Ótima
 	operação! Uma
 	vitória perfeita!
 	"""
@@ -2855,7 +2855,7 @@ script 164 mmbn4 {
 		jumpIfNotEqual = continue
 	"""
 	A gente perdeu
-	feio,Lan...
+	feio, Lan...
 	"""
 	keyWait
 		any = false
@@ -4510,7 +4510,7 @@ script 247 mmbn4 {
 }
 script 248 mmbn4 {
 	"""
-	Vencemos,Lan!
+	Vencemos, Lan!
 	Operou bem!
 	"""
 	keyWait
@@ -4520,7 +4520,7 @@ script 248 mmbn4 {
 script 249 mmbn4 {
 	"""
 	Foi quase.
-	Na próxima,a
+	Na próxima, a
 	gente vence
 	"""
 	keyWait
@@ -4529,7 +4529,7 @@ script 249 mmbn4 {
 }
 script 250 mmbn4 {
 	"""
-	Desculpa,Lan.
+	Desculpa, Lan.
 	Foi culpa
 	minha...
 	"""

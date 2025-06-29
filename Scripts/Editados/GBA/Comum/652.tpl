@@ -14,7 +14,7 @@ script 1 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Opa! Oi,Yai!
+	Opa! Oi, Yai!
 	Veio aqui torcer
 	pela Mayl? He he!
 	"""
@@ -28,7 +28,7 @@ script 1 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Lamento informar,\nmas..."
+	"Lamento informar, \nmas..."
 	keyWait
 		any = false
 	clearMsg
@@ -110,8 +110,8 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Yai,você disse
-	Área Parque,né?
+	Yai, você disse
+	Área Parque, né?
 	"""
 	keyWait
 		any = false
@@ -169,7 +169,7 @@ script 9 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Tá bom,a gente
+	Tá bom, a gente
 	vai começar pela
 	Área Parque 1.
 	"""

@@ -100,7 +100,7 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Olhando bem,há
+	Olhando bem, há
 	letrinhas miúdas
 	talhadas nelas.
 	"""
@@ -127,7 +127,7 @@ script 20 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	É tão realista,que
+	É tão realista, que
 	parece até que vão
 	se mexer...
 	"""

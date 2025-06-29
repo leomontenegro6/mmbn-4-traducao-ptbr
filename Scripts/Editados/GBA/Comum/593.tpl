@@ -20,12 +20,12 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = OldWoman
 	msgOpen
-	"É sim,meu filho."
+	"É sim, meu filho."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Eita,você é novinho,
+	Eita, você é novinho,
 	hein?
 	"""
 	keyWait
@@ -38,7 +38,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Er,eu queria
+	Er, eu queria
 	perguntar pra vocês
 	sobre o Tensuke...
 	"""
@@ -58,7 +58,7 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Olha,eu entendo
+	Olha, eu entendo
 	querer interagir
 	mais com o neto,
 	"""
@@ -123,7 +123,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = OldMan
 	"""
-	Ah,a velhice tá
+	Ah, a velhice tá
 	deixando a gente
 	mole...
 	"""
@@ -137,13 +137,13 @@ script 7 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = OldWomanAlt
-	"(... Hmmm,o que\n acham disto?)"
+	"(... Hmmm, o que\n acham disto?)"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = OldManAlt
-	"(Puxa,sim. Parece\n tão divertido!)"
+	"(Puxa, sim. Parece\n tão divertido!)"
 	keyWait
 		any = false
 	end
@@ -221,15 +221,15 @@ script 10 mmbn4 {
 		mugshot = Lan
 	"""
 	Eu acho que cês tão
-	inventando isso,mas
-	entusiasmo,aqui tem!
+	inventando isso, mas
+	entusiasmo, aqui tem!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = OldMan
-	"Certo,então."
+	"Certo, então."
 	keyWait
 		any = false
 	clearMsg
@@ -250,7 +250,7 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Consiga,e darei ao
+	Consiga, e darei ao
 	Tensuke meus macetes
 	de mexer em Navis.
 	"""
@@ -265,7 +265,7 @@ script 11 mmbn4 {
 		mugshot = Lan
 	"""
 	Beleza!
-	Vamos lá,MegaMan!
+	Vamos lá, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -282,13 +282,13 @@ script 12 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = OldManAlt
-	"(He he,finalmente,um\n jeito divertido de\n passar o tempo!)"
+	"(He he, finalmente, um\n jeito divertido de\n passar o tempo!)"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = OldWomanAlt
-	"(Shh! Você tá\n pensando alto.\n He,he!)"
+	"(Shh! Você tá\n pensando alto.\n He, he!)"
 	keyWait
 		any = false
 	end

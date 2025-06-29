@@ -188,7 +188,7 @@ script 9 mmbn4 {
 	"""
 	Acabei de sentir um
 	arrepio... E-Er,
-	enfim,ignorar!
+	enfim, ignorar!
 	"""
 	keyWait
 		any = false
@@ -249,7 +249,7 @@ script 10 mmbn4 {
 	"""
 	Nunca vi nenhum Navi
 	fantasma! Não
-	senhor! Eu,não!
+	senhor! Eu, não!
 	"""
 	keyWait
 		any = false

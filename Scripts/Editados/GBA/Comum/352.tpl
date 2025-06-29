@@ -14,7 +14,7 @@ script 10 mmbn4 {
 	clearMsg
 	"""
 	PARA TRABALHAR EM
-	UMA,É PRECISO TER
+	UMA, É PRECISO TER
 	MUITA RESISTÊNCIA!
 	"""
 	keyWait
@@ -33,7 +33,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"UM,DOIS! UM,DOIS!"
+	"UM, DOIS! UM, DOIS!"
 	keyWait
 		any = false
 	clearMsg

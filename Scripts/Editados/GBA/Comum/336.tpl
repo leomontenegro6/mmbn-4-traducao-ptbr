@@ -13,7 +13,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	É BRASA,MORA?!
+	É BRASA, MORA?!
 	"""
 	keyWait
 		any = false

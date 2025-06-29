@@ -4,15 +4,15 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	Uma pelúcia do
-	"Tio André",um
+	"Tio André", um
 	personagem popular.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	É pequeno,mas ainda
-	assim,tão realista!
+	É pequeno, mas ainda
+	assim, tão realista!
 	Dá até medo...
 	"""
 	keyWait
@@ -31,7 +31,7 @@ script 1 mmbn4 {
 	msgOpen
 	"""
 	Doces de personagens
-	famosos,brinquedos,
+	famosos, brinquedos,
 	cadernos...
 	"""
 	keyWait
@@ -47,7 +47,7 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	Também dá para
-	encomendar,para você
+	encomendar, para você
 	comprar de casa!
 	"""
 	keyWait
@@ -126,15 +126,15 @@ script 4 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	" Normalmente,briga\n com o seu rival,\n o MagoMacaco."
+	" Normalmente, briga\n com o seu rival, \n o MagoMacaco."
 	keyWait
 		any = false
 	clearMsg
-	" Mas quando o lar\n deles,a cidade\n aquática de Reneza,"
+	" Mas quando o lar\n deles, a cidade\n aquática de Reneza,"
 	keyWait
 		any = false
 	clearMsg
-	" é atacado pelo\n mago do mal,os\n dois unem forças."
+	" é atacado pelo\n mago do mal, os\n dois unem forças."
 	keyWait
 		any = false
 	clearMsg
@@ -150,7 +150,7 @@ script 4 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	" No fim,eles\n restauram a paz\n de Reneza...\""
+	" No fim, eles\n restauram a paz\n de Reneza...\""
 	keyWait
 		any = false
 	end
@@ -168,11 +168,11 @@ script 5 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	" Um robô sem\n \"Emoção\",criado\n para guerras."
+	" Um robô sem\n \"Emoção\", criado\n para guerras."
 	keyWait
 		any = false
 	clearMsg
-	" Após a guerra,ele\n passa a viver em\n paz na floresta,"
+	" Após a guerra, ele\n passa a viver em\n paz na floresta,"
 	keyWait
 		any = false
 	clearMsg
@@ -180,7 +180,7 @@ script 5 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	" Ao mesmo tempo,o\n Flandrô desperta\n \"culpa\" acerca"
+	" Ao mesmo tempo, o\n Flandrô desperta\n \"culpa\" acerca"
 	keyWait
 		any = false
 	clearMsg
@@ -204,7 +204,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	msgOpen
 	"""
-	Nesta atração,você
+	Nesta atração, você
 	dirige um caminhão
 	pela selva.
 	"""
@@ -244,7 +244,7 @@ script 7 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	São meio caros,mas
+	São meio caros, mas
 	bem quentinhos e
 	deliciosos!
 	"""
@@ -270,9 +270,9 @@ script 8 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	À frente,um castelo.
+	À frente, um castelo.
 	A PrçMarchen é à di-
-	reita,escada abaixo.
+	reita, escada abaixo.
 	"""
 	keyWait
 		any = false
@@ -291,7 +291,7 @@ script 9 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	" Porém,devido\n a um feitiço\n maligno,"
+	" Porém, devido\n a um feitiço\n maligno,"
 	keyWait
 		any = false
 	clearMsg
@@ -299,11 +299,11 @@ script 9 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	" A Princesa vai à\n floresta sozinha,\n ela e seu machado."
+	" A Princesa vai à\n floresta sozinha, \n ela e seu machado."
 	keyWait
 		any = false
 	clearMsg
-	" Evitando armadi-\n lhas,ela chega na\n árvore do Príncipe."
+	" Evitando armadi-\n lhas, ela chega na\n árvore do Príncipe."
 	keyWait
 		any = false
 	clearMsg
@@ -311,7 +311,7 @@ script 9 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	" e,por fim,resgata\n o Príncipe\n Tomahawk."
+	" e, por fim, resgata\n o Príncipe\n Tomahawk."
 	keyWait
 		any = false
 	clearMsg
@@ -324,7 +324,7 @@ script 10 mmbn4 {
 	msgOpen
 	"""
 	FireMan e BurnMan
-	estão lutando,ge-
+	estão lutando, ge-
 	rando muita fumaça!
 	"""
 	keyWait
@@ -332,7 +332,7 @@ script 10 mmbn4 {
 	clearMsg
 	"""
 	Se continuarem
-	assim,será um
+	assim, será um
 	desastre!
 	"""
 	keyWait

@@ -122,7 +122,7 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
-	"Tá bom,tá bom.\nFalou."
+	"Tá bom, tá bom.\nFalou."
 	keyWait
 		any = false
 	end
@@ -132,7 +132,7 @@ script 9 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	FireMan,quem eram
+	FireMan, quem eram
 	aqueles Navis?
 	"""
 	keyWait
@@ -151,7 +151,7 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E aí,quer o quê
+	E aí, quer o quê
 	comigo?
 	"""
 	keyWait
@@ -172,7 +172,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Não,a fritadeira da
+	Não, a fritadeira da
 	Barraca quebrou.
 	"""
 	keyWait
@@ -200,7 +200,7 @@ script 12 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Vamos lá,FireMan!"
+	"Vamos lá, FireMan!"
 	keyWait
 		any = false
 	clearMsg

@@ -17,7 +17,7 @@ script 1 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,tem uns vírus
+	Lan, tem uns vírus
 	atacando um Prog!
 	"""
 	keyWait
@@ -30,7 +30,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Bora,MegaMan,hora
+	Bora, MegaMan, hora
 	de deletar uns
 	vírus!
 	"""
@@ -70,8 +70,8 @@ script 5 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	AH,MEGAMAN!!
-	POR FAVOR,AJUDE-ME!!
+	AH, MEGAMAN!!
+	POR FAVOR, AJUDE-ME!!
 	"""
 	keyWait
 		any = false
@@ -84,7 +84,7 @@ script 6 mmbn4 {
 		mugshot = Dad
 	"""
 	Hora de ver se você
-	é bom mesmo,filho.
+	é bom mesmo, filho.
 	"""
 	keyWait
 		any = false
@@ -104,7 +104,7 @@ script 7 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Bora,MegaMan!
+	Bora, MegaMan!
 	Rotina de batalha,
 	"""
 	waitSkip

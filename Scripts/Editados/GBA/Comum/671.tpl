@@ -46,7 +46,7 @@ script 2 mmbn4 {
 	msgOpen
 	"""
 	Luta bonito lá no
-	negoço,viu?
+	negoço, viu?
 	"""
 	keyWait
 		any = false
@@ -69,7 +69,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	msgOpen
-	"Tá,vai logo embora,\nMegaMan!"
+	"Tá, vai logo embora, \nMegaMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -91,7 +91,7 @@ script 6 mmbn4 {
 	msgOpen
 	"""
 	Amadô'!
-	Vai de novo,do zero!
+	Vai de novo, do zero!
 	"""
 	keyWait
 		any = false

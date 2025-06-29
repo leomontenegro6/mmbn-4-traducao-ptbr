@@ -51,7 +51,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
 	msgOpen
-	"Sim,senhora!"
+	"Sim, senhora!"
 	keyWait
 		any = false
 	end
@@ -63,7 +63,7 @@ script 4 mmbn4 {
 	"""
 	Não vai mais mandar
 	na gente por muito
-	tempo,velhota! He!
+	tempo, velhota! He!
 	"""
 	keyWait
 		any = false

@@ -29,7 +29,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Vamos,gritem também!
+	Vamos, gritem também!
 	Somente eles podem
 	salvar o mundo!
 	"""
@@ -44,7 +44,7 @@ script 2 mmbn4 {
 		mugshot = BlondMan
 	"""
 	Sharo pode ser um
-	país frio,mas nossos
+	país frio, mas nossos
 	corações ardem!!
 	"""
 	keyWait

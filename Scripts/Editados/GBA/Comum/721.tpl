@@ -19,7 +19,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Desculpe,eu evito
+	Desculpe, eu evito
 	falar com o oponente
 	antes de uma luta.
 	"""
@@ -59,7 +59,7 @@ script 4 mmbn4 {
 	"""
 	Ele começou a sofrer
 	na Rede de repente,
-	e daí,começou a
+	e daí, começou a
 	"""
 	keyWait
 		any = false
@@ -93,7 +93,7 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Não,mas um velho
+	Não, mas um velho
 	esquisito NetLutou
 	com a gente.
 	"""
@@ -101,7 +101,7 @@ script 6 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ah,e ele disse uma
+	Ah, e ele disse uma
 	coisa depois da
 	luta...
 	"""
@@ -161,7 +161,7 @@ script 9 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	"Grande Espírito,que
+	"Grande Espírito, que
 	comece a Provação da
 	Morte!"
 	"""
@@ -196,7 +196,7 @@ script 11 mmbn4 {
 	clearMsg
 	"""
 	A menos que façamos
-	algo,a maldição vai
+	algo, a maldição vai
 	matar o MegaMan.
 	"""
 	keyWait
@@ -217,7 +217,7 @@ script 12 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Raoul,não tem nada
+	Raoul, não tem nada
 	que a gente possa
 	fazer?!
 	"""
@@ -303,7 +303,7 @@ script 17 mmbn4 {
 		mugshot = MegaMan
 	"""
 	Se eu tiver a sua
-	ajuda,eu consigo,
+	ajuda, eu consigo,
 	Lan...
 	"""
 	keyWait
@@ -312,7 +312,7 @@ script 17 mmbn4 {
 	"""
 	Essa provação é o
 	único jeito de tirar
-	a maldição,né?
+	a maldição, né?
 	"""
 	keyWait
 		any = false
@@ -333,7 +333,7 @@ script 19 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Raoul,fala pra gente
+	Raoul, fala pra gente
 	como acabar com essa
 	maldição!
 	"""
@@ -404,14 +404,14 @@ script 22 mmbn4 {
 	clearMsg
 	"""
 	Para passar pela
-	porta,será preciso
+	porta, será preciso
 	quatro provas:
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PBravura,PForça,
+	PBravura, PForça,
 	PSbdoria e PTernura.
 	"""
 	keyWait
@@ -440,7 +440,7 @@ script 23 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Então,só o MegaMan
+	Então, só o MegaMan
 	pode ver elas agora.
 	"""
 	keyWait
@@ -499,7 +499,7 @@ script 26 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Primeiro,encontre as
+	Primeiro, encontre as
 	4 provas.
 	"""
 	keyWait
@@ -565,7 +565,7 @@ script 30 mmbn4 {
 	mugshotShow
 		mugshot = Raoul
 	"""
-	Enfim,apresse-se
+	Enfim, apresse-se
 	logo. Não falta
 	muito para a luta!
 	"""

@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,essa aí é a
+	Lan, essa aí é a
 	saída!
 	"""
 	keyWait
@@ -26,7 +26,7 @@ script 1 mmbn4 {
 	msgOpen
 	"""
 	Quê? O Torneio Sol
-	Vermelho? Não,eu
+	Vermelho? Não, eu
 	não vou assistir!
 	"""
 	keyWait
@@ -66,7 +66,7 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,se eu for,
+	Mas, se eu for,
 	posso acabar deco-
 	rando quando as
 	"""
@@ -75,7 +75,7 @@ script 2 mmbn4 {
 	clearMsg
 	"""
 	coisas vão aparecer
-	e onde,e aí vai
+	e onde, e aí vai
 	parar de dar medo...
 	"""
 	keyWait
@@ -88,7 +88,7 @@ script 3 mmbn4 {
 	msgOpen
 	"""
 	Quê? O Torneio Lua
-	Azul? Não,eu não
+	Azul? Não, eu não
 	vou assistir!
 	"""
 	keyWait
@@ -262,7 +262,7 @@ script 15 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	Chega,eu vou dar
+	Chega, eu vou dar
 	o fora daqui!
 	"""
 	keyWait
@@ -290,7 +290,7 @@ script 16 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Na verdade,foi até
+	Na verdade, foi até
 	divertido!
 	"""
 	keyWait
@@ -340,8 +340,8 @@ script 19 mmbn4 {
 script 20 mmbn4 {
 	msgOpen
 	"""
-	O engraçado,porém
-	triste,Guerreiro
+	O engraçado, porém
+	triste, Guerreiro
 	de Aço...
 	"""
 	keyWait
@@ -349,7 +349,7 @@ script 20 mmbn4 {
 	clearMsg
 	"""
 	O popular personagem
-	do Castillo,o
+	do Castillo, o
 	Flandrô...
 	"""
 	keyWait
@@ -367,15 +367,15 @@ script 20 mmbn4 {
 script 21 mmbn4 {
 	msgOpen
 	"""
-	Um Vampiro,vivendo
-	na escuridão,sendo
+	Um Vampiro, vivendo
+	na escuridão, sendo
 	caçado por
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Django,o Garoto
+	Django, o Garoto
 	Solar!
 	"""
 	keyWait
@@ -411,7 +411,7 @@ script 25 mmbn4 {
 	clearMsg
 	"""
 	Com toda essa
-	gente aqui,parece
+	gente aqui, parece
 	até um evento!
 	"""
 	keyWait
@@ -437,7 +437,7 @@ script 26 mmbn4 {
 	mugshotShow
 		mugshot = Man
 	msgOpen
-	"Ah,Mami!"
+	"Ah, Mami!"
 	keyWait
 		any = false
 	clearMsg
@@ -492,7 +492,7 @@ script 31 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	Mami,você é a estre-
+	Mami, você é a estre-
 	la polar do céu es-
 	curo da minha vida!
 	"""
@@ -509,7 +509,7 @@ script 31 mmbn4 {
 	clearMsg
 	"""
 	Mas quanto mais
-	longe está,mais
+	longe está, mais
 	meu coração arde!
 	"""
 	keyWait
@@ -581,7 +581,7 @@ script 220 mmbn4 {
 }
 script 221 mmbn4 {
 	clearMsg
-	"\"Quem se prepara,\n não tem com o que\n se preocupar.\""
+	"\"Quem se prepara, \n não tem com o que\n se preocupar.\""
 	keyWait
 		any = false
 	clearMsg

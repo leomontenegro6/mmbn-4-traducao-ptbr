@@ -62,13 +62,13 @@ script 1 mmbn4 {
 	"""
 	E você acha que pode
 	vencer este torneio
-	chique,pegar o
+	chique, pegar o
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	prêmio,sair da
+	prêmio, sair da
 	organização e abrir
 	uma padaria?!
 	"""
@@ -136,7 +136,7 @@ script 5 mmbn4 {
 		mugshot = Riki
 	msgOpen
 	"""
-	Espera,chefe!
+	Espera, chefe!
 	Eu não posso compe-
 	tir sem o Crusher!
 	"""
@@ -268,14 +268,14 @@ script 12 mmbn4 {
 	msgOpen
 	"""
 	Eu tenho um rosto
-	bem medonho,então,
+	bem medonho, então,
 	desde que eu era
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	criança,os bandidos
+	criança, os bandidos
 	ficam me escolhendo
 	como chefe deles.
 	"""
@@ -284,7 +284,7 @@ script 12 mmbn4 {
 	clearMsg
 	"""
 	Antes que eu me des-
-	se conta,eu tava na
+	se conta, eu tava na
 	Máfia! Os bandidões!
 	"""
 	keyWait
@@ -300,7 +300,7 @@ script 13 mmbn4 {
 	"""
 	E parece que você
 	vai ser eleito
-	chefe de novo,né?
+	chefe de novo, né?
 	"""
 	keyWait
 		any = false
@@ -318,7 +318,7 @@ script 14 mmbn4 {
 	clearMsg
 	"""
 	Quando eu tô com
-	o Crusher,nada me
+	o Crusher, nada me
 	dá medo.
 	"""
 	keyWait
@@ -360,7 +360,7 @@ script 16 mmbn4 {
 	msgOpen
 	"""
 	Agora que eu aprendi
-	a história,tô com
+	a história, tô com
 	pena dele.
 	"""
 	keyWait
@@ -390,7 +390,7 @@ script 18 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	É o meu destino,fi-
+	É o meu destino, fi-
 	car cercado de gente
 	má por toda a vida.
 	"""
@@ -412,7 +412,7 @@ script 19 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	MegaMan,tem algum
+	MegaMan, tem algum
 	jeito da gente
 	ajudar ele?
 	"""
@@ -427,7 +427,7 @@ script 20 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Não,a gente não
+	Não, a gente não
 	pode contra esse
 	povo.
 	"""
@@ -435,7 +435,7 @@ script 20 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,sim,também quero
+	Mas, sim, também quero
 	ajudar como for
 	possível.
 	"""
@@ -444,7 +444,7 @@ script 20 mmbn4 {
 	clearMsg
 	"""
 	Vamos lá falar com
-	aquela senhora,a
+	aquela senhora, a
 	chefona da Máfia.
 	"""
 	keyWait

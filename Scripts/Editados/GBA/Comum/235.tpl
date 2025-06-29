@@ -11,7 +11,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan,a Mayl tá
+	Lan, a Mayl tá
 	esperando!
 	"""
 	keyWait
@@ -49,13 +49,13 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	A Roll tá na Área
-	Vila 3,na Rede! Vai
-	lá também,MegaMan!
+	Vila 3, na Rede! Vai
+	lá também, MegaMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Toma,usa isto!"
+	"Toma, usa isto!"
 	keyWait
 		any = false
 	clearMsg
@@ -90,7 +90,7 @@ script 2 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Depressa,vai logo
+	Depressa, vai logo
 	pra Área Vila 3!
 	"""
 	keyWait
@@ -101,7 +101,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Boa sorte,Lan!"
+	"Boa sorte, Lan!"
 	keyWait
 		any = false
 	end
@@ -124,7 +124,7 @@ script 5 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,entra na Rede!
+	Lan, entra na Rede!
 	Não podemos deixar
 	a Roll esperando!
 	"""
@@ -143,7 +143,7 @@ script 10 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	E aí,como foi,Lan?
+	E aí, como foi, Lan?
 	"""
 	keyWait
 		any = false
@@ -166,7 +166,7 @@ script 10 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Bem,er"
+	"Bem, er"
 	waitSkip
 		frames = 30
 	"."
@@ -189,8 +189,8 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	... Bom,que bom que
-	foi só isso,eu
+	... Bom, que bom que
+	foi só isso, eu
 	acho...
 	"""
 	keyWait
@@ -207,7 +207,7 @@ script 11 mmbn4 {
 	clearMsg
 	"""
 	Aposto que
-	aconteceu,sim,
+	aconteceu, sim,
 	alguma coisa...
 	"""
 	keyWait
@@ -251,7 +251,7 @@ script 131 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	... Lan,por favor,
+	... Lan, por favor,
 	ajuda a Roll!
 	"""
 	keyWait

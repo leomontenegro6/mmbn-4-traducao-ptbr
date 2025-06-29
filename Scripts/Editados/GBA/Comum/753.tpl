@@ -31,7 +31,7 @@ script 1 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Escutem,amigos.
+	Escutem, amigos.
 	Temos um novo
 	Campeão...
 	"""
@@ -105,7 +105,7 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	Ei,cadê o Jammer?
+	Ei, cadê o Jammer?
 	"""
 	keyWait
 		any = false
@@ -138,7 +138,7 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = PurpleNavi
-	"É,deve ser."
+	"É, deve ser."
 	keyWait
 		any = false
 	clearMsg
@@ -149,8 +149,8 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	Ele é forte,não
-	nego,mas imaturo
+	Ele é forte, não
+	nego, mas imaturo
 	demais.
 	"""
 	keyWait
@@ -202,7 +202,7 @@ script 11 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Escutem,amigos.
+	Escutem, amigos.
 	Temos que
 	desconectar agora!
 	"""
@@ -244,7 +244,7 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	MegaMan,parece
+	MegaMan, parece
 	que aconteceu um
 	desastre aqui!
 	"""

@@ -19,7 +19,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	Ah,aquilo lá era só
+	Ah, aquilo lá era só
 	treinamento!
 	"""
 	keyWait
@@ -33,7 +33,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Desta vez,a gente
+	Desta vez, a gente
 	usa a "SuperBomba"!
 	"""
 	keyWait
@@ -104,7 +104,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	E aí,aceita o
+	E aí, aceita o
 	meu desafio?!
 	Ou tá com medinho?!
 	"""
@@ -112,16 +112,16 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	He,então,NetLutador
+	He, então, NetLutador
 	só é capaz disso.
-	Pode recusar,se
+	Pode recusar, se
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	quiser,mas se fizer
-	isso,vai ter que
+	quiser, mas se fizer
+	isso, vai ter que
 	sair do torneio!
 	"""
 	keyWait
@@ -172,7 +172,7 @@ script 8 mmbn4 {
 	clearMsg
 	"""
 	Vamos lá no CPU
-	Herói,a Meca do
+	Herói, a Meca do
 	FuteBomba!
 	"""
 	keyWait
@@ -180,7 +180,7 @@ script 8 mmbn4 {
 	clearMsg
 	"""
 	Não vai amarelar
-	e fugir,hein?!
+	e fugir, hein?!
 	"""
 	keyWait
 		any = false
@@ -198,8 +198,8 @@ script 9 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Enfim,de boa!
-	Desconecta,MegaMan!
+	Enfim, de boa!
+	Desconecta, MegaMan!
 	"""
 	keyWait
 		any = false

@@ -20,7 +20,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Para passar,dissipe
+	Para passar, dissipe
 	as trevas no seu
 	coração...
 	"""
@@ -33,7 +33,7 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	Uma forte alma cheia
-	de dor,presa em um
+	de dor, presa em um
 	coração sombrio...
 	"""
 	keyWait
@@ -55,7 +55,7 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Para passar,dissipe
+	Para passar, dissipe
 	as trevas no seu
 	coração...
 	"""
@@ -91,7 +91,7 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Para passar,dissipe
+	Para passar, dissipe
 	as trevas no seu
 	coração...
 	"""
@@ -104,7 +104,7 @@ script 3 mmbn4 {
 	clearMsg
 	"""
 	Uma gentil alma da
-	cura,presa em um
+	cura, presa em um
 	coração sombrio...
 	"""
 	keyWait
@@ -127,7 +127,7 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Para passar,dissipe
+	Para passar, dissipe
 	as trevas no seu
 	coração...
 	"""
@@ -140,7 +140,7 @@ script 4 mmbn4 {
 	clearMsg
 	"""
 	Uma alma como um
-	vendaval,presa em um
+	vendaval, presa em um
 	coração sombrio...
 	"""
 	keyWait
@@ -162,7 +162,7 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Para passar,dissipe
+	Para passar, dissipe
 	as trevas no seu
 	coração...
 	"""
@@ -175,7 +175,7 @@ script 5 mmbn4 {
 	clearMsg
 	"""
 	Uma alma tempestuo-
-	sa,presa em um
+	sa, presa em um
 	coração sombrio...
 	"""
 	keyWait
@@ -198,7 +198,7 @@ script 6 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Para passar,dissipe
+	Para passar, dissipe
 	as trevas no seu
 	coração...
 	"""
@@ -211,7 +211,7 @@ script 6 mmbn4 {
 	clearMsg
 	"""
 	A alma fria de um
-	atirador,presa em um
+	atirador, presa em um
 	coração sombrio...
 	"""
 	keyWait
@@ -312,7 +312,7 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Para passar,dissipe
+	Para passar, dissipe
 	as trevas no seu
 	coração...
 	"""
@@ -325,7 +325,7 @@ script 10 mmbn4 {
 	clearMsg
 	"""
 	Uma alma sábia e
-	tranquila,presa em
+	tranquila, presa em
 	um coração sombrio.
 	"""
 	keyWait
@@ -344,7 +344,7 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Para passar,dissipe
+	Para passar, dissipe
 	as trevas no seu
 	coração...
 	"""
@@ -357,7 +357,7 @@ script 11 mmbn4 {
 	clearMsg
 	"""
 	Uma alma de água que
-	tudo leva,presa em
+	tudo leva, presa em
 	um coração sombrio.
 	"""
 	keyWait
@@ -376,7 +376,7 @@ script 12 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Para passar,dissipe
+	Para passar, dissipe
 	as trevas no seu
 	coração...
 	"""
@@ -389,7 +389,7 @@ script 12 mmbn4 {
 	clearMsg
 	"""
 	Uma alma mãe arbó-
-	rea,presa em um
+	rea, presa em um
 	coração sombrio...
 	"""
 	keyWait
@@ -408,7 +408,7 @@ script 13 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Para passar,dissipe
+	Para passar, dissipe
 	as trevas no seu
 	coração...
 	"""
@@ -421,7 +421,7 @@ script 13 mmbn4 {
 	clearMsg
 	"""
 	Uma inabalável alma
-	de aço,presa em um
+	de aço, presa em um
 	coração sombrio...
 	"""
 	keyWait
@@ -440,7 +440,7 @@ script 14 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Para passar,dissipe
+	Para passar, dissipe
 	as trevas no seu
 	coração...
 	"""
@@ -472,7 +472,7 @@ script 15 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Para passar,dissipe
+	Para passar, dissipe
 	as trevas no seu
 	coração...
 	"""
@@ -485,7 +485,7 @@ script 15 mmbn4 {
 	clearMsg
 	"""
 	Uma fria alma de
-	lâmina,que tudo
+	lâmina, que tudo
 	dilacera...
 	"""
 	keyWait

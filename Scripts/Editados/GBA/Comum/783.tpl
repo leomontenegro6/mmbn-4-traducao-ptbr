@@ -40,7 +40,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Boa luta,Chaud."
+	"Boa luta, Chaud."
 	keyWait
 		any = false
 	clearMsg
@@ -141,7 +141,7 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Aí,Lan."
+	"Aí, Lan."
 	keyWait
 		any = false
 	end
@@ -257,7 +257,7 @@ script 14 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"E,durante a luta,"
+	"E, durante a luta,"
 	keyWait
 		any = false
 	clearMsg
@@ -310,7 +310,7 @@ script 16 mmbn4 {
 script 17 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Aí,não é justo!"
+	"Aí, não é justo!"
 	keyWait
 		any = false
 	clearMsg
@@ -324,7 +324,7 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	Lan,preciso ir
+	Lan, preciso ir
 	andando.
 	"""
 	keyWait
@@ -362,7 +362,7 @@ script 21 mmbn4 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Vamos,ProtoMan!
+	Vamos, ProtoMan!
 	Para a nossa próxima
 	missão!
 	"""
@@ -375,7 +375,7 @@ script 21 mmbn4 {
 script 22 mmbn4 {
 	mugshotShow
 		mugshot = ProtoMan
-	"Sim,senhor!"
+	"Sim, senhor!"
 	keyWait
 		any = false
 	end
@@ -386,7 +386,7 @@ script 23 mmbn4 {
 	msgOpen
 	"""
 	Ele é incrível. Na
-	real,fico surpreso
+	real, fico surpreso
 	de termos vencido.
 	"""
 	keyWait

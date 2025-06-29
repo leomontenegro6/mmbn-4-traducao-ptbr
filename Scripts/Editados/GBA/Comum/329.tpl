@@ -13,7 +13,7 @@ script 0 mmbn4 {
 	clearMsg
 	"""
 	ISSO MESMO! ESTE
-	É CASTILLO,O
+	É CASTILLO, O
 	PALÁCIO CELESTIAL!!
 	"""
 	keyWait
@@ -110,7 +110,7 @@ script 4 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
-	"TUDO BEM,ENTÃO!"
+	"TUDO BEM, ENTÃO!"
 	keyWait
 		any = false
 	clearMsg
@@ -125,7 +125,7 @@ script 5 mmbn4 {
 	msgOpen
 	"""
 	MARAVILHA!
-	TOME,PARA VOCÊ.
+	TOME, PARA VOCÊ.
 	"""
 	keyWait
 		any = false
@@ -155,7 +155,7 @@ script 5 mmbn4 {
 	"""
 	OK! HORA DO SHOW!
 	DIANTE DOS SEUS
-	OLHOS,CRIAREI O
+	OLHOS, CRIAREI O
 	"""
 	keyWait
 		any = false
@@ -391,7 +391,7 @@ script 16 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ha ha! E aí,gostou
+	Ha ha! E aí, gostou
 	da minha imitação
 	de detetive?
 	"""
@@ -411,7 +411,7 @@ script 17 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Se vencer ele,você
+	Se vencer ele, você
 	será considerado o
 	"""
 	keyWait
@@ -473,7 +473,7 @@ script 21 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ah,vai,eu guardo
+	Ah, vai, eu guardo
 	segredo!
 	"""
 	keyWait
@@ -494,7 +494,7 @@ script 22 mmbn4 {
 	clearMsg
 	"""
 	por um oceano,
-	mas,no mundo
+	mas, no mundo
 	cibernético,
 	"""
 	keyWait
@@ -608,7 +608,7 @@ script 222 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Desculpe,acabou a
+	Desculpe, acabou a
 	minha mercadoria...
 	"""
 	keyWait

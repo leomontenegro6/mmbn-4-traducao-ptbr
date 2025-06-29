@@ -60,7 +60,7 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"É,sou,sim..."
+	"É, sou, sim..."
 	keyWait
 		any = false
 	clearMsg
@@ -153,7 +153,7 @@ script 12 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Gostei de você,Lan."
+	"Gostei de você, Lan."
 	keyWait
 		any = false
 	clearMsg
@@ -229,7 +229,7 @@ script 16 mmbn4 {
 script 17 mmbn4 {
 	mugshotShow
 		mugshot = BlackKid
-	"O que me diz,Lan?"
+	"O que me diz, Lan?"
 	keyWait
 		any = false
 	clearMsg
@@ -250,7 +250,7 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = BlackKid
 	"""
-	Então,vamos lá!
+	Então, vamos lá!
 	Venha comigo!
 	"""
 	keyWait

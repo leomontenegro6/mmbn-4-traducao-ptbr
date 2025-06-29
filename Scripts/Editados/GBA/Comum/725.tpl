@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Então,a gente vai
+	Então, a gente vai
 	lutar contra um
 	Navi normal?
 	"""
@@ -26,7 +26,7 @@ script 1 mmbn4 {
 		mugshot = ShadyGuy
 	msgOpen
 	"""
-	Com licença,rapaz.
+	Com licença, rapaz.
 	Não dá para ver as
 	chaves do torneio.
 	"""
@@ -38,7 +38,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Opa,foi mal."
+	"Opa, foi mal."
 	keyWait
 		any = false
 	end
@@ -48,7 +48,7 @@ script 3 mmbn4 {
 		mugshot = ShadyGuy
 	msgOpen
 	"""
-	Hmm,parece que o
+	Hmm, parece que o
 	meu oponente é...
 	"MegaMan"?
 	"""
@@ -65,7 +65,7 @@ script 4 mmbn4 {
 		mugshot = ShadyGuy
 	msgOpen
 	"""
-	Ei,rapaz,sabe quem
+	Ei, rapaz, sabe quem
 	é esse Navi,
 	o MegaMan?
 	"""
@@ -74,7 +74,7 @@ script 4 mmbn4 {
 	clearMsg
 	"""
 	Ele é o nosso
-	oponente,mas
+	oponente, mas
 	parece tão fraco.
 	"""
 	keyWait
@@ -89,7 +89,7 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Não acha,rapaz?
+	Não acha, rapaz?
 	"""
 	keyWait
 		any = false
@@ -115,7 +115,7 @@ script 6 mmbn4 {
 	mugshotAnimation
 		animation = 2
 	"""
-	Ei,por que tá
+	Ei, por que tá
 	olhando pra mim
 	desse jeito?!
 	"""
@@ -137,7 +137,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	É,eu sou o operador
+	É, eu sou o operador
 	do supostamente
 	fraco MegaMan!
 	"""
@@ -151,7 +151,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
 	"""
-	Ah,é? He,foi mal!
+	Ah, é? He, foi mal!
 	"""
 	keyWait
 		any = false
@@ -191,7 +191,7 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
-	"Ah,vai,não diga\nisso."
+	"Ah, vai, não diga\nisso."
 	keyWait
 		any = false
 	clearMsg
@@ -205,14 +205,14 @@ script 10 mmbn4 {
 	clearMsg
 	"""
 	Depois que vencer-
-	mos,vamos nos apo-
+	mos, vamos nos apo-
 	sentar da NetLuta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Então,vai poder se
+	Então, vai poder se
 	gabar pros amigos
 	que foi legal hoje!
 	"""
@@ -234,7 +234,7 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E,por sinal?
+	E, por sinal?
 	A GENTE é que vai
 	vencer!
 	"""
@@ -249,15 +249,15 @@ script 12 mmbn4 {
 		mugshot = ShadyGuy
 	"""
 	Eu não sei como
-	vocês,NetLutadores,
-	são,na real,
+	vocês, NetLutadores,
+	são, na real,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	mas,pra FuteBombis-
-	tas como eu,parecem
+	mas, pra FuteBombis-
+	tas como eu, parecem
 	todos uns moloides.
 	"""
 	keyWait
@@ -338,7 +338,7 @@ script 16 mmbn4 {
 	clearMsg
 	"""
 	Rolava em todo canto
-	antigamente,mas,por
+	antigamente, mas, por
 	ser perigoso demais,
 	"""
 	keyWait
@@ -362,7 +362,7 @@ script 16 mmbn4 {
 	clearMsg
 	"""
 	na frente de uma
-	parede,e o do
+	parede, e o do
 	ataque chuta uma
 	"""
 	keyWait
@@ -425,7 +425,7 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Foi mal,mas,pra mim,
+	Foi mal, mas, pra mim,
 	isso aí é futebol.
 	"""
 	keyWait
@@ -442,7 +442,7 @@ script 20 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Tá bom,eu te mostro
+	Tá bom, eu te mostro
 	como o FuteBomba é
 	diferente.
 	"""
@@ -485,7 +485,7 @@ script 22 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Primeiro,arranje
+	Primeiro, arranje
 	"
 	"""
 	printItem
@@ -499,7 +499,7 @@ script 22 mmbn4 {
 	clearMsg
 	"""
 	Depois que as
-	adquirir,venha
+	adquirir, venha
 	falar comigo.
 	"""
 	keyWait
@@ -528,8 +528,8 @@ script 23 mmbn4 {
 		buffer = 0
 		item = 98
 	"""
-	",é...?
-	É,definitivamente
+	", é...?
+	É, definitivamente
 	parece futebol.
 	"""
 	keyWait
@@ -548,7 +548,7 @@ script 24 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ah,esquece. Só tô
+	Ah, esquece. Só tô
 	animado pra jogar
 	FuteBomba de novo!
 	"""
@@ -588,7 +588,7 @@ script 26 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Bora,MegaMan.
+	Bora, MegaMan.
 	Vamos lá arranjar as
 	"
 	"""

@@ -32,7 +32,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Raoul
 	msgOpen
-	"Agora,afaste-se."
+	"Agora, afaste-se."
 	keyWait
 		any = false
 	end
@@ -71,14 +71,14 @@ script 4 mmbn4 {
 	"""
 	Reside nos vivos!
 	Protege os vivos!
-	Ó,Grande Espírito!
+	Ó, Grande Espírito!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Bravura,força,
-	sabedoria,ternura.
+	Bravura, força,
+	sabedoria, ternura.
 	Abençoe seu filho
 	"""
 	keyWait
@@ -111,7 +111,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = Raoul
-	"Trovão,ataque!"
+	"Trovão, ataque!"
 	keyWait
 		any = false
 	clearMsg
@@ -189,7 +189,7 @@ script 12 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Raoul,ThunderMan,
+	Raoul, ThunderMan,
 	muito obrigado!
 	"""
 	keyWait
@@ -219,7 +219,7 @@ script 13 mmbn4 {
 	clearMsg
 	"""
 	Vejo vocês no
-	Coliseu,para a
+	Coliseu, para a
 	nossa luta.
 	"""
 	keyWait

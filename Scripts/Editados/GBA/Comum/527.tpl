@@ -61,7 +61,7 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"B-bem,sou..."
+	"B-bem, sou..."
 	keyWait
 		any = false
 	clearMsg
@@ -94,7 +94,7 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotHide
 	"""
-	Pois bem,então.
+	Pois bem, então.
 	Insira sua mão na
 	minha boca...
 	"""
@@ -129,7 +129,7 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotHide
 	"""
-	Bem,então você
+	Bem, então você
 	não deve ser um
 	competidor.
 	"""
@@ -150,14 +150,14 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan,você vai ter
+	Lan, você vai ter
 	que botar a mão lá.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Senão,não tem
+	Senão, não tem
 	torneio pra gente...
 	"""
 	keyWait
@@ -170,7 +170,7 @@ script 12 mmbn4 {
 	mugshotHide
 	"""
 	Escute o seu Navi.
-	E então,vai embora
+	E então, vai embora
 	ou vai competir?
 	"""
 	keyWait
@@ -256,7 +256,7 @@ script 17 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Agora,Lan,fique
+	Agora, Lan, fique
 	em frente ao quadro
 	do torneio.
 	"""
@@ -289,7 +289,7 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Ah,as lutas do
+	Ah, as lutas do
 	torneio!
 	"""
 	keyWait

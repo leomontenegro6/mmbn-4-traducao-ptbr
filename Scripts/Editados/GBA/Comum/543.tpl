@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,é um
+	Lan, é um
 	túnel-portal.
 	"""
 	keyWait
@@ -25,7 +25,7 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	mugshotShow
 		mugshot = LaserMan
-	"Então,você veio..."
+	"Então, você veio..."
 	keyWait
 		any = false
 	clearMsg
@@ -49,7 +49,7 @@ script 3 mmbn4 {
 	msgOpen
 	"""
 	Nos encontramos de
-	novo,MegaMan.
+	novo, MegaMan.
 	"""
 	keyWait
 		any = false
@@ -203,7 +203,7 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Lan,lá vem ele!!"
+	"Lan, lá vem ele!!"
 	keyWait
 		any = false
 	clearMsg

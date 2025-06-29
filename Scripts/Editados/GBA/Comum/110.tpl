@@ -127,7 +127,7 @@ script 7 mmbn4 {
 	msgOpen
 	"""
 	O PC do Dex... Tá
-	empoeirado,mas dá
+	empoeirado, mas dá
 	pra se conectar.
 	"""
 	keyWait
@@ -146,7 +146,7 @@ script 8 mmbn4 {
 	clearMsg
 	"""
 	... Credo! Com essas
-	notas,melhor ficarem
+	notas, melhor ficarem
 	aí mesmo!
 	"""
 	keyWait

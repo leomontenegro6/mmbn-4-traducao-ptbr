@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Então,você não vai
+	Então, você não vai
 	ajudar a gente?
 	"""
 	keyWait
@@ -18,7 +18,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = YoungWoman
 	"""
-	Sal,com a sua ajuda
+	Sal, com a sua ajuda
 	e a do WoodMan,
 	"""
 	keyWait
@@ -46,7 +46,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Sal
 	"""
-	Sim,todos nós
+	Sim, todos nós
 	queremos proteger
 	o meio ambiente.
 	"""
@@ -70,7 +70,7 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Por favor,pensem
+	Por favor, pensem
 	melhor.
 	"""
 	keyWait
@@ -120,7 +120,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"O que tá rolando,\nSal?"
+	"O que tá rolando, \nSal?"
 	keyWait
 		any = false
 	clearMsg
@@ -147,7 +147,7 @@ script 6 mmbn4 {
 		animation = 2
 	"""
 	Elas querem proteger
-	o meio ambiente,que
+	o meio ambiente, que
 	nem eu.
 	"""
 	keyWait
@@ -160,7 +160,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Ah,então era disso
+	Ah, então era disso
 	que cês tavam
 	falando.
 	"""
@@ -213,7 +213,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Sal
 	"""
-	E agora,para fazer
+	E agora, para fazer
 	o governo parar com
 	o plano de reforma
 	"""
@@ -221,7 +221,7 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	de ACDC,eles vão
+	de ACDC, eles vão
 	plantar CyberBombas
 	por toda a Rede.
 	"""
@@ -335,7 +335,7 @@ script 15 mmbn4 {
 	"""
 	Se eles amam tanto
 	a natureza quanto
-	você,vão entender!
+	você, vão entender!
 	"""
 	keyWait
 		any = false
@@ -380,7 +380,7 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan,vamos ajudar
+	Lan, vamos ajudar
 	ela!
 	"""
 	keyWait
@@ -402,7 +402,7 @@ script 18 mmbn4 {
 script 19 mmbn4 {
 	mugshotShow
 		mugshot = Sal
-	"Hum,mas..."
+	"Hum, mas..."
 	keyWait
 		any = false
 	clearMsg
@@ -433,7 +433,7 @@ script 20 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ah,e eu também tô
+	Ah, e eu também tô
 	te devendo por
 	aquele almoço!
 	"""
@@ -459,7 +459,7 @@ script 21 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Lan,poderia ir ao
+	Lan, poderia ir ao
 	DenDomo para mim?
 	"""
 	keyWait
@@ -492,7 +492,7 @@ script 22 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Bora,MegaMan!
+	Bora, MegaMan!
 	Pro DenDomo!
 	"""
 	keyWait

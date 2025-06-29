@@ -92,7 +92,7 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Sr. Famoso,temos de
+	Sr. Famoso, temos de
 	tomá-los como
 	aprendizes...
 	"""
@@ -114,7 +114,7 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Agora,eles crescerão
+	Agora, eles crescerão
 	com suas próprias
 	forças.
 	"""
@@ -132,7 +132,7 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	É uma pena,mas,é
+	É uma pena, mas, é
 	verdade. Não temos
 	mais nada a ensinar!
 	"""
@@ -150,7 +150,7 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	Lan,MegaMan,eu sinto
+	Lan, MegaMan, eu sinto
 	que tem uma enorme
 	missão bem próxima,
 	"""
@@ -173,15 +173,15 @@ script 6 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	mas,haja o que hou-
-	ver,não desistam e
+	mas, haja o que hou-
+	ver, não desistam e
 	sigam seus corações.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Se o fizerem,de
+	Se o fizerem, de
 	certo o sol do seu
 	amanhã brilhará.
 	"""
@@ -208,7 +208,7 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
-	"Bom,me despeço\npor aqui!"
+	"Bom, me despeço\npor aqui!"
 	keyWait
 		any = false
 	clearMsg
@@ -247,7 +247,7 @@ script 10 mmbn4 {
 		mugshot = MegaMan
 	"""
 	Não vá ficar
-	convencido,Lan.
+	convencido, Lan.
 	"""
 	keyWait
 		any = false

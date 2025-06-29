@@ -15,7 +15,7 @@ script 1 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Agora,podemos
+	Agora, podemos
 	seguir!
 	Zarpando!
 	"""
@@ -43,7 +43,7 @@ script 3 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Ah,entendi...
+	Ah, entendi...
 	Isso completa a
 	história.
 	"""

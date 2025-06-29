@@ -61,7 +61,7 @@ script 4 mmbn4 {
 	clearMsg
 	"""
 	Tem outros tipos de
-	lixo dentro,também.
+	lixo dentro, também.
 	O que não é legal.
 	"""
 	keyWait

@@ -9,7 +9,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Vamos,Lan! Rápido,
+	Vamos, Lan! Rápido,
 	ninguém aguenta
 	mais esperar!
 	"""
@@ -50,7 +50,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Atsuki
 	msgOpen
-	"Atrasou,hein,Lan?"
+	"Atrasou, hein, Lan?"
 	keyWait
 		any = false
 	clearMsg

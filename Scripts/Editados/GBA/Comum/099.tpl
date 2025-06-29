@@ -114,7 +114,7 @@ script 22 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Desconecta,MegaMan!
+	Desconecta, MegaMan!
 	Vou achar um jeito
 	de parar o som!
 	"""
@@ -190,7 +190,7 @@ script 30 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,bora sair da
+	MegaMan, bora sair da
 	Rede e ir pra Praça
 	da EletroVila!
 	"""
@@ -208,9 +208,9 @@ script 31 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Então,um Navi cinza
+	Então, um Navi cinza
 	em Vila3 vai fazer
-	nossa inscrição,né?
+	nossa inscrição, né?
 	"""
 	keyWait
 		any = false
@@ -221,7 +221,7 @@ script 32 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Pronto,inscritos.
+	Pronto, inscritos.
 	De volta à Praça
 	da EletroVila!
 	"""
@@ -247,7 +247,7 @@ script 33 mmbn4 {
 	msgOpen
 	"""
 	Já que terminamos
-	as missões,bora pra
+	as missões, bora pra
 	Praça da EletroVila!
 	"""
 	keyWait
@@ -369,7 +369,7 @@ script 133 mmbn4 {
 	"""
 	Hora de encarar o
 	Dex! Tá pronto?
-	Então,pra arena!
+	Então, pra arena!
 	"""
 	keyWait
 		any = false
@@ -530,7 +530,7 @@ script 153 mmbn4 {
 	msgOpen
 	"""
 	Pasta consertada!
-	Vamos,temos um
+	Vamos, temos um
 	torneio pra vencer!
 	"""
 	keyWait
@@ -564,7 +564,7 @@ script 161 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,vamos dar o
+	MegaMan, vamos dar o
 	pião pra aquele
 	senhorzinho.
 	"""
@@ -596,7 +596,7 @@ script 163 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	O teste é aqui,né?
+	O teste é aqui, né?
 	Tomara que a gente
 	passe!
 	"""
@@ -609,7 +609,7 @@ script 164 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,bora pra
+	MegaMan, bora pra
 	Praça da EletroVila
 	também!
 	"""
@@ -623,7 +623,7 @@ script 165 mmbn4 {
 	msgOpen
 	"""
 	A gente não tem
-	tempo,MegaMan.
+	tempo, MegaMan.
 	Bora pra arena!
 	"""
 	keyWait
@@ -975,7 +975,7 @@ script 201 mmbn4 {
 	msgOpen
 	"""
 	Onde é que vai ser
-	o duelo,MegaMan?
+	o duelo, MegaMan?
 	Vamos descobrir!
 	"""
 	keyWait
@@ -987,7 +987,7 @@ script 202 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Continua,MegaMan!
+	Continua, MegaMan!
 	Deleta o chefe
 	desses bandidos!
 	"""
@@ -1000,9 +1000,9 @@ script 203 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Chamou reforços,é?
+	Chamou reforços, é?
 	Que covardão! Acaba
-	com ele,MegaMan!
+	com ele, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -1077,7 +1077,7 @@ script 212 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Vamos logo,MegaMan!"
+	"Vamos logo, MegaMan!"
 	keyWait
 		any = false
 	end

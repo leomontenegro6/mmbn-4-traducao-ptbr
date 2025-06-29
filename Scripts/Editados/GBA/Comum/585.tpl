@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hum,poderia dar
+	Hum, poderia dar
 	uma olhada no meu
 	PET?
 	"""
@@ -26,7 +26,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = OldMan
 	"""
-	A pasta,é?
+	A pasta, é?
 	Deixe-me ver.
 	"""
 	keyWait
@@ -70,8 +70,8 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ah,então é assim...
-	Hm,isso não é bom...
+	Ah, então é assim...
+	Hm, isso não é bom...
 	"""
 	keyWait
 		any = false
@@ -104,7 +104,7 @@ script 6 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,se o remover,
+	Mas, se o remover,
 	isso irá destruir
 	o seu PET.
 	"""
@@ -118,7 +118,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Ah,não! O senhor não
+	Ah, não! O senhor não
 	pode fazer alguma
 	coisa?!
 	"""
@@ -175,14 +175,14 @@ script 10 mmbn4 {
 	clearMsg
 	"""
 	Se eu soubesse os
-	números,poderia
+	números, poderia
 	tirar o dispositivo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mas,até lá,não tem
+	Mas, até lá, não tem
 	nada que eu possa
 	fazer.
 	"""
@@ -219,7 +219,7 @@ script 12 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Ei,Lan! E aquele
+	Ei, Lan! E aquele
 	papel que ele
 	deixou cair?!
 	"""
@@ -232,7 +232,7 @@ script 12 mmbn4 {
 script 13 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Ah,é!"
+	"Ah, é!"
 	keyWait
 		any = false
 	clearMsg
@@ -305,7 +305,7 @@ script 17 mmbn4 {
 	"""
 	(Mas esta letra...
 	"Adolescente"...
-	Não,não pode ser...)
+	Não, não pode ser...)
 	"""
 	keyWait
 		any = false
@@ -317,7 +317,7 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Enfim,ele vai pagar
+	Enfim, ele vai pagar
 	caro por mexer com
 	o meu PET!!
 	"""
@@ -357,7 +357,7 @@ script 20 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Aliás,você está
+	Aliás, você está
 	lutando no torneio?
 	"""
 	keyWait
@@ -369,7 +369,7 @@ script 20 mmbn4 {
 script 21 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Tô,sim!"
+	"Tô, sim!"
 	keyWait
 		any = false
 	clearMsg

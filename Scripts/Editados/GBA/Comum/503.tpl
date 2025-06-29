@@ -54,7 +54,7 @@ script 2 mmbn4 {
 		width = 20
 		height = 2
 	"""
-	Agora,começaremos
+	Agora, começaremos
 	a cerimônia de
 	premiação!
 	"""
@@ -67,7 +67,7 @@ script 3 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	O nosso campeão,Lan,
+	O nosso campeão, Lan,
 	será presenteado
 	com um troféu!
 	"""
@@ -123,7 +123,7 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Agora,você é o
+	Agora, você é o
 	campeão de Ni-Hon.
 	"""
 	keyWait
@@ -183,7 +183,7 @@ script 8 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Vamos,mostrem sua
+	Vamos, mostrem sua
 	admiração mais uma
 	vez!
 	"""
@@ -245,7 +245,7 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan,não vá ficar
+	Lan, não vá ficar
 	com o ego inflado!
 	"""
 	keyWait
@@ -264,7 +264,7 @@ script 12 mmbn4 {
 script 13 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Tá bom,tá bom!"
+	"Tá bom, tá bom!"
 	keyWait
 		any = false
 	clearMsg
@@ -292,7 +292,7 @@ script 14 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E então,MegaMan:
+	E então, MegaMan:
 	acha que vai sair
 	daqui com vida?!
 	"""
@@ -322,7 +322,7 @@ script 16 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	MegaMan,entregue o
+	MegaMan, entregue o
 	poder que destruiu
 	o ShadeMan...
 	"""
@@ -386,7 +386,7 @@ script 18 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Então,sem demora!"
+	"Então, sem demora!"
 	keyWait
 		any = false
 	clearMsg
@@ -403,7 +403,7 @@ script 19 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Vamos lá,MegaMan!!"
+	"Vamos lá, MegaMan!!"
 	keyWait
 		any = false
 	clearMsg

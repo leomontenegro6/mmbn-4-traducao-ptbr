@@ -8,14 +8,14 @@ script 0 mmbn4 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	E então,concluiu sua
+	E então, concluiu sua
 	Net Inscrição?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nesse caso,já pode
+	Nesse caso, já pode
 	participar das
 	preliminares!
 	"""
@@ -131,7 +131,7 @@ script 5 mmbn4 {
 	"""
 	Beleza!! A gente vai
 	passar nas prelimi-
-	nares,pode apostar!
+	nares, pode apostar!
 	"""
 	keyWait
 		any = false
@@ -163,14 +163,14 @@ script 7 mmbn4 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	E então,concluiu sua
+	E então, concluiu sua
 	Net Inscrição?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nesse caso,já pode
+	Nesse caso, já pode
 	participar das
 	preliminares!
 	"""

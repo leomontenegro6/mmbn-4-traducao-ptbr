@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,todas as 4
+	Lan, todas as 4
 	antenas foram
 	consertadas!!
 	"""
@@ -47,7 +47,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,ligação!"
+	"Lan, ligação!"
 	keyWait
 		any = false
 	clearMsg
@@ -102,8 +102,8 @@ script 6 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	A nevasca aqui,em
-	Sharo,parou,mas
+	A nevasca aqui, em
+	Sharo, parou, mas
 	pode levar mais um
 	"""
 	keyWait
@@ -142,7 +142,7 @@ script 8 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,pelo menos,
+	Mas, pelo menos,
 	não haverá mais
 	estragos.
 	"""
@@ -160,7 +160,7 @@ script 9 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Então,acho que vai
+	Então, acho que vai
 	dar bom com o
 	torneio.
 	"""
@@ -225,7 +225,7 @@ script 13 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,vamos voltar
+	Lan, vamos voltar
 	pra Ameropa.
 	"""
 	keyWait
@@ -357,7 +357,7 @@ script 20 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	MegaMan,vamos lá
+	MegaMan, vamos lá
 	pro Coliseu!
 	"""
 	keyWait

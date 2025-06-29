@@ -32,14 +32,14 @@ script 2 mmbn4 {
 		mugshot = Higsby
 	"""
 	Ai!
-	Eu perdi,é!
+	Eu perdi, é!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Você luta bem
-	demais,Lan!
+	demais, Lan!
 	"""
 	keyWait
 		any = false
@@ -50,7 +50,7 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Você também,Higsby!"
+	"Você também, Higsby!"
 	keyWait
 		any = false
 	clearMsg
@@ -117,7 +117,7 @@ script 6 mmbn4 {
 	"""
 	Afinal de contas,
 	eu tenho uma loja
-	de chips,né? É!
+	de chips, né? É!
 	"""
 	keyWait
 		any = false
@@ -143,9 +143,9 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Higsby
 	"""
-	Enfim,os meus
+	Enfim, os meus
 	clientes estão
-	me esperando,é!
+	me esperando, é!
 	"""
 	keyWait
 		any = false
@@ -187,7 +187,7 @@ script 10 mmbn4 {
 script 11 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Ei,Lan..."
+	"Ei, Lan..."
 	keyWait
 		any = false
 	clearMsg

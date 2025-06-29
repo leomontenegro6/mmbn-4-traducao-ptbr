@@ -87,7 +87,7 @@ script 12 mmbn4 {
 	clearMsg
 	"""
 	Parecia um cão nor-
-	mal,mas,na verdade,
+	mal, mas, na verdade,
 	era um feiticeiro
 	"""
 	keyWait
@@ -102,7 +102,7 @@ script 12 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Reneza,o MagoCão
+	Reneza, o MagoCão
 	tinha um problema em
 	particular.
 	"""
@@ -111,7 +111,7 @@ script 12 mmbn4 {
 	clearMsg
 	"""
 	Seu rival eterno,
-	"****",também
+	"****", também
 	de Reneza.
 	"""
 	keyWait
@@ -119,7 +119,7 @@ script 12 mmbn4 {
 	clearMsg
 	"""
 	Com habilidades
-	iguais,eles brigavam
+	iguais, eles brigavam
 	feito cão e gato.
 	"""
 	keyWait
@@ -130,7 +130,7 @@ script 13 mmbn4 {
 	mugshotHide
 	msgOpen
 	"""
-	Porém,um certo inci-
+	Porém, um certo inci-
 	dente forçou os dois
 	a cooperarem.
 	"""
@@ -139,7 +139,7 @@ script 13 mmbn4 {
 	clearMsg
 	"""
 	Um mago do mal,
-	um dia,apareceu
+	um dia, apareceu
 	em Reneza.
 	"""
 	keyWait
@@ -162,7 +162,7 @@ script 13 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Sem sua magia,os
+	Sem sua magia, os
 	dois eram apenas um
 	cão e um macaco.
 	"""
@@ -205,7 +205,7 @@ script 14 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Primeiro,o MagoCão"
+	"Primeiro, o MagoCão"
 	keyWait
 		any = false
 	clearMsg
@@ -225,14 +225,14 @@ script 14 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Depois,o MagoMacaco\nusou"
+	"Depois, o MagoMacaco\nusou"
 	keyWait
 		any = false
 	clearMsg
 	"""
 	sua velocidade de
 	macaco e pulou no
-	rosto do mago,e seu
+	rosto do mago, e seu
 	"""
 	keyWait
 		any = false
@@ -245,7 +245,7 @@ script 14 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Para fugir,o mago
+	Para fugir, o mago
 	virou um pássaro e
 	voou para longe.
 	"""
@@ -253,7 +253,7 @@ script 14 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ao cooperarem,os
+	Ao cooperarem, os
 	dois parceiros
 	salvaram Reneza.
 	"""
@@ -261,7 +261,7 @@ script 14 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Contudo,ao
+	Contudo, ao
 	recuperarem seus
 	poderes mágicos,
 	"""
@@ -271,7 +271,7 @@ script 14 mmbn4 {
 	"""
 	eles começaram a
 	brigar feito cão
-	e gato,de novo...
+	e gato, de novo...
 	"""
 	keyWait
 		any = false

@@ -18,7 +18,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	A PÁGINA,POR ORA,NÃO
+	A PÁGINA, POR ORA, NÃO
 	TEM NENHUM LINK.
 	"""
 	keyWait
@@ -174,7 +174,7 @@ script 2 mmbn4 {
 	"""
 	E SABE POR QUÊ?
 	PORQUE EU ESTOU
-	AQUI,ORAS!
+	AQUI, ORAS!
 	"""
 	keyWait
 		any = false
@@ -308,12 +308,12 @@ script 12 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"\"O quê\",você pergunta?"
+	"\"O quê\", você pergunta?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Um fantasma,óbvio!
+	Um fantasma, óbvio!
 	Foi super medonho!
 	"""
 	keyWait
@@ -364,7 +364,7 @@ script 16 mmbn4 {
 	"""
 	Esses fantasmas da
 	rede não entram em
-	páginas,né?
+	páginas, né?
 	"""
 	keyWait
 		any = false
@@ -392,7 +392,7 @@ script 20 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	Antes,eu achava que
+	Antes, eu achava que
 	NetLuta era coisa
 	de menino...
 	"""

@@ -26,7 +26,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Aah,não aguento mais
+	Aah, não aguento mais
 	esperar na fila!
 	"""
 	keyWait
@@ -74,7 +74,7 @@ script 3 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Ei,não empurre!
+	Ei, não empurre!
 	Ainda falta bastante
 	tempo!
 	"""
@@ -186,7 +186,7 @@ script 6 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Enfim,aquela fila é
+	Enfim, aquela fila é
 	para quê?
 	"""
 	keyWait
@@ -217,7 +217,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"Nossa,tá tão cheio."
+	"Nossa, tá tão cheio."
 	keyWait
 		any = false
 	clearMsg
@@ -267,9 +267,9 @@ script 9 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Pronto,toda aquela
+	Pronto, toda aquela
 	multidão já entrou.
-	Eita,trabalho!
+	Eita, trabalho!
 	"""
 	keyWait
 		any = false
@@ -281,7 +281,7 @@ script 10 mmbn4 {
 	msgOpen
 	"""
 	Mesmo depois da
-	multidão entrar,meu
+	multidão entrar, meu
 	trabalho não pausa.
 	"""
 	keyWait
@@ -308,7 +308,7 @@ script 11 mmbn4 {
 	clearMsg
 	"""
 	Eu vim pelo meu
-	neto,mas acabei me
+	neto, mas acabei me
 	animando também!
 	"""
 	keyWait
@@ -345,7 +345,7 @@ script 13 mmbn4 {
 	clearMsg
 	"""
 	Eu vim pelo meu
-	neto,mas acabei me
+	neto, mas acabei me
 	animando também!
 	"""
 	keyWait
@@ -388,19 +388,19 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"Ai,ai. Depois que a\nluta começa,"
+	"Ai, ai. Depois que a\nluta começa,"
 	keyWait
 		any = false
 	clearMsg
 	"""
 	fica meio chato pra
-	gente,da segurança!
+	gente, da segurança!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Além disso,eu também
+	Além disso, eu também
 	sou fã. Queria poder
 	ir assistir!
 	"""
@@ -434,7 +434,7 @@ script 20 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Nossa,que lutas
+	Nossa, que lutas
 	incríveis!
 	Foi demais!
 	"""
@@ -519,7 +519,7 @@ script 27 mmbn4 {
 	"""
 	É o grande campeona-
 	to! Eu vi as lutas
-	anteriores,também.
+	anteriores, também.
 	"""
 	keyWait
 		any = false
@@ -553,7 +553,7 @@ script 29 mmbn4 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Aí,você é o operador
+	Aí, você é o operador
 	do MegaMan!
 	"""
 	keyWait
@@ -638,7 +638,7 @@ script 41 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Aliás,onde foi parar
+	Aliás, onde foi parar
 	ela?
 	"""
 	keyWait
@@ -680,7 +680,7 @@ script 43 mmbn4 {
 	clearMsg
 	"""
 	Por mais que ela
-	corresse,ela não
+	corresse, ela não
 	cansava nunca!
 	"""
 	keyWait
@@ -784,7 +784,7 @@ script 131 mmbn4 {
 	msgOpen
 	"""
 	O metal tá quente,
-	então,cuidado!
+	então, cuidado!
 	"""
 	keyWait
 		any = false
@@ -870,21 +870,21 @@ script 145 mmbn4 {
 	msgOpen
 	"""
 	Pode me dar uma
-	ajuda,amigo?
+	ajuda, amigo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	O Navi da minha
-	irmã,o AquaMan,tá...
-	Er,chorando!
+	irmã, o AquaMan, tá...
+	Er, chorando!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	E agora,a Rede
+	E agora, a Rede
 	inteira tá inundada!
 	"""
 	keyWait
@@ -1018,7 +1018,7 @@ script 148 mmbn4 {
 	clearMsg
 	"""
 	Ela acabou de me
-	ligar,dizendo que ia
+	ligar, dizendo que ia
 	pra EletroVila1.
 	"""
 	keyWait

@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	Um enorme gerador
-	elétrico,produzindo
+	elétrico, produzindo
 	muita energia...
 	"""
 	keyWait

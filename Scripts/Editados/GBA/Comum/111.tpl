@@ -37,7 +37,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Naturalmente,é
+	Naturalmente, é
 	possível se conectar
 	nele.
 	"""
@@ -144,7 +144,7 @@ script 6 mmbn4 {
 	msgOpen
 	"""
 	Só de olhar pra essa
-	cama macia,dá pra
+	cama macia, dá pra
 	saber que é cara.
 	"""
 	keyWait
@@ -367,13 +367,13 @@ script 20 mmbn4 {
 	"""
 	Ah! É um quadro!
 	É tão bom que parece
-	uma janela,mesmo!
+	uma janela, mesmo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Que ilusão,amigos.
+	Que ilusão, amigos.
 	"""
 	keyWait
 		any = false
@@ -386,7 +386,7 @@ script 21 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Sem se dar conta,sua
+	Sem se dar conta, sua
 	imaginação vai a um
 	mundo fantasioso.
 	"""

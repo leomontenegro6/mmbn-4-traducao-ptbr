@@ -40,7 +40,7 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	msgOpen
 	"""
-	Para abrir,adquira
+	Para abrir, adquira
 	dados de narrativa
 	das histórias.
 	"""
@@ -65,14 +65,14 @@ script 14 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Django,o Garoto\nSolar,"
+	"Django, o Garoto\nSolar,"
 	keyWait
 		any = false
 	clearMsg
 	"""
 	portava a
 	"****",
-	a Arma Solar,e,
+	a Arma Solar, e,
 	"""
 	keyWait
 		any = false
@@ -171,7 +171,7 @@ script 15 mmbn4 {
 	clearMsg
 	"""
 	Os dois viajantes,
-	então,seguiram
+	então, seguiram
 	naquela direção...
 	"""
 	keyWait
@@ -194,7 +194,7 @@ script 16 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	e lá,Django,se depa-
+	e lá, Django, se depa-
 	rou com o maligno
 	Vampiro da cidade.
 	"""
@@ -202,8 +202,8 @@ script 16 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Dracky,o Super Vam-
-	piro,imune a alho
+	Dracky, o Super Vam-
+	piro, imune a alho
 	e a cruzes.
 	"""
 	keyWait
@@ -349,7 +349,7 @@ script 17 mmbn4 {
 	"""
 	Dracky possuía
 	somente um ponto
-	fraco,esse sendo
+	fraco, esse sendo
 	"""
 	keyWait
 		any = false
@@ -375,7 +375,7 @@ script 17 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	quando,de repente,
+	quando, de repente,
 	Dracky avançou
 	direto nele!
 	"""
@@ -392,7 +392,7 @@ script 17 mmbn4 {
 	clearMsg
 	"""
 	a risada do Vampiro
-	ecoou,cortando o
+	ecoou, cortando o
 	silêncio...
 	"""
 	keyWait

@@ -61,7 +61,7 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	"Recue,se dá valor
+	"Recue, se dá valor
 	à sua vida".
 	"""
 	keyWait
@@ -74,7 +74,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Bom,isso não me
+	Bom, isso não me
 	ajuda a dormir
 	melhor.
 	"""

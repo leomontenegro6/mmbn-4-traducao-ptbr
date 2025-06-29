@@ -58,8 +58,8 @@ script 1 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Ah,você...
-	Então,está de
+	Ah, você...
+	Então, está de
 	volta...
 	"""
 	keyWait
@@ -128,7 +128,7 @@ script 5 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Ah,vai! Dá um
+	Ah, vai! Dá um
 	desconto nessa
 	geladeira!
 	"""
@@ -136,7 +136,7 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Não vai...? Bom,e
+	Não vai...? Bom, e
 	aquela máquina de
 	lavar ali?
 	"""
@@ -209,7 +209,7 @@ script 11 mmbn4 {
 	msgOpen
 	"""
 	M-mas... é que é um
-	novo modelo,sabe...?
+	novo modelo, sabe...?
 	"""
 	keyWait
 		any = false

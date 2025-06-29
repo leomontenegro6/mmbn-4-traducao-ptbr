@@ -49,7 +49,7 @@ script 1 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Sensor de vibração,\nligar!"
+	"Sensor de vibração, \nligar!"
 	keyWait
 		any = false
 	clearMsg
@@ -211,7 +211,7 @@ script 11 mmbn4 {
 	msgOpen
 	"""
 	MegaMan...
-	Agora,eu vi do que
+	Agora, eu vi do que
 	você é capaz...
 	"""
 	keyWait
@@ -243,14 +243,14 @@ script 11 mmbn4 {
 	"""
 	Da próxima vez que
 	eu passar pelo seu
-	planeta,seja daqui
+	planeta, seja daqui
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	a décadas ou até
-	séculos,você serão,
+	séculos, você serão,
 	mais uma vez,
 	"""
 	keyWait
@@ -265,7 +265,7 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Agora,retire-se,
+	Agora, retire-se,
 	pequeno guerreiro.
 	"""
 	keyWait

@@ -155,7 +155,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan,depressa!
+	Lan, depressa!
 	Vamos lá!!
 	"""
 	keyWait

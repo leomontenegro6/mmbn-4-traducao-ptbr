@@ -82,7 +82,7 @@ script 11 mmbn4 {
 	msgOpen
 	"""
 	Não tá molhado aí
-	dentro,tá?
+	dentro, tá?
 	"""
 	keyWait
 		any = false
@@ -115,7 +115,7 @@ script 14 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Então,é daqui que
+	Então, é daqui que
 	controlam o satélite
 	do clima...
 	"""
@@ -163,7 +163,7 @@ script 21 mmbn4 {
 	"""
 	Uma máquina de cozi-
 	nhar... O cheiro aí
-	dentro é bom,né?
+	dentro é bom, né?
 	"""
 	keyWait
 		any = false
@@ -176,7 +176,7 @@ script 22 mmbn4 {
 	"""
 	Essa coisa tem um
 	cheiro super doce
-	daqui,de fora...
+	daqui, de fora...
 	"""
 	keyWait
 		any = false
@@ -227,7 +227,7 @@ script 30 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,vamos mos-
+	MegaMan, vamos mos-
 	trar pra Tamako do
 	que somos capazes!
 	"""

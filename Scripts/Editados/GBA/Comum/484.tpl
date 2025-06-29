@@ -18,7 +18,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	"""
-	Não,não.
+	Não, não.
 	Eu também acabei de
 	chegar.
 	"""
@@ -26,7 +26,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Tá,vamos entrar
+	Tá, vamos entrar
 	logo!
 	"""
 	keyWait
@@ -38,7 +38,7 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"É,vamos!"
+	"É, vamos!"
 	keyWait
 		any = false
 	end

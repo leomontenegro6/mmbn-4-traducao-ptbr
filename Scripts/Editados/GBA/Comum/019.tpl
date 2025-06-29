@@ -17,9 +17,9 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Eu,o Lutador #1 de
-	ACDC,e meu Navi,o
-	GutsMan,vamos ler
+	Eu, o Lutador #1 de
+	ACDC, e meu Navi, o
+	GutsMan, vamos ler
 	"""
 	keyWait
 		any = false
@@ -34,7 +34,7 @@ script 0 mmbn4 {
 	clearMsg
 	"""
 	E postem vocês
-	também,povo da Turma
+	também, povo da Turma
 	6-A!
 	"""
 	keyWait
@@ -50,7 +50,7 @@ script 1 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Ora,ora,você fez
+	Ora, ora, você fez
 	mesmo seu próprio
 	Fórum de Luta!
 	"""
@@ -58,7 +58,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	OK,então digam aí:
+	OK, então digam aí:
 	como se vence
 	aqueles vírus dos
 	"""
@@ -74,7 +74,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	O meu Navi,Glide,não
+	O meu Navi, Glide, não
 	consegue desviar
 	daquelas coisas!
 	"""
@@ -124,7 +124,7 @@ script 3 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Ai,GutsMan! Não é
+	Ai, GutsMan! Não é
 	assim! Esse vírus
 	se chama "Boomer".
 	"""
@@ -140,7 +140,7 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	No começo,fique na
+	No começo, fique na
 	fileira do meio,
 	onde ele não pode te
 	"""
@@ -148,7 +148,7 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	acertar. Aí,depois
+	acertar. Aí, depois
 	que ele lançar o
 	bumerangue,
 	"""
@@ -158,7 +158,7 @@ script 3 mmbn4 {
 	"""
 	vá pra fileira do
 	Boomer e ataque!
-	Não é assim,Dex?
+	Não é assim, Dex?
 	"""
 	keyWait
 		any = false
@@ -175,7 +175,7 @@ script 4 mmbn4 {
 	"""
 	Er... É-é! Era isso
 	mesmo que eu ia
-	dizer! Puxa,Mayl...
+	dizer! Puxa, Mayl...
 	"""
 	keyWait
 		any = false
@@ -198,7 +198,7 @@ script 5 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Hi hi! Bom,o Lan tá
+	Hi hi! Bom, o Lan tá
 	sempre me salvando,
 	então resolvi que,
 	"""
@@ -206,7 +206,7 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	no mínimo,eu podia
+	no mínimo, eu podia
 	aprender a lutar
 	com vírus sozinha.
 	"""
@@ -216,7 +216,7 @@ script 5 mmbn4 {
 	"""
 	E adoraria NetLutar
 	com vocês qualquer
-	dia,também!
+	dia, também!
 	"""
 	keyWait
 		any = false
@@ -265,7 +265,7 @@ script 7 mmbn4 {
 	"""
 	Aquele lá é durão,
 	mas acho que cê
-	dá conta,sim.
+	dá conta, sim.
 	"""
 	keyWait
 		any = false
@@ -290,7 +290,7 @@ script 7 mmbn4 {
 	clearMsg
 	"""
 	Se usar o Elemento
-	mais forte,seu ata-
+	mais forte, seu ata-
 	que dói em dobro!
 	"""
 	keyWait
@@ -298,7 +298,7 @@ script 7 mmbn4 {
 	clearMsg
 	"""
 	E como os Larks são
-	vírus de Água,use
+	vírus de Água, use
 	um chip Elét,
 	"""
 	keyWait
@@ -322,8 +322,8 @@ script 8 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Caramba,cê é mesmo
-	Koetsu,o "Cyber
+	Caramba, cê é mesmo
+	Koetsu, o "Cyber
 	Sábio"? Posso fazer
 	"""
 	keyWait
@@ -331,15 +331,15 @@ script 8 mmbn4 {
 	clearMsg
 	"""
 	uma pergunta também?
-	Outro dia,eu lutei
-	com esses vírus,os
+	Outro dia, eu lutei
+	com esses vírus, os
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Gnarly,e,durante a
-	luta,avistei uns
+	Gnarly, e, durante a
+	luta, avistei uns
 	dados misteriosos!
 	"""
 	keyWait
@@ -347,7 +347,7 @@ script 8 mmbn4 {
 	clearMsg
 	"""
 	Os vírus destruíram
-	eles,mas o que tinha
+	eles, mas o que tinha
 	dentro do cristal?
 	"""
 	keyWait
@@ -364,7 +364,7 @@ script 9 mmbn4 {
 		top = 108
 	"""
 	Fala! Koetsu na
-	área! Goh,meu amigo,
+	área! Goh, meu amigo,
 	você testemunhou um
 	"""
 	keyWait
@@ -380,7 +380,7 @@ script 9 mmbn4 {
 	clearMsg
 	"""
 	destruído ou você
-	mesmo destruí-lo,os
+	mesmo destruí-lo, os
 	dados são seus!
 	"""
 	keyWait
@@ -404,7 +404,7 @@ script 10 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Ei,saca só! Enquanto
+	Ei, saca só! Enquanto
 	eu lutava outro dia,
 	alguns dos meus
 	"""
@@ -446,7 +446,7 @@ script 11 mmbn4 {
 	clearMsg
 	"""
 	Certos chips têm
-	Códigos,tipo ABC...
+	Códigos, tipo ABC...
 	Se selecionar chips
 	"""
 	keyWait
@@ -454,7 +454,7 @@ script 11 mmbn4 {
 	clearMsg
 	"""
 	na ordem certa e
-	mandar pro Navi,eles
+	mandar pro Navi, eles
 	podem se fundir!
 	"""
 	keyWait
@@ -462,7 +462,7 @@ script 11 mmbn4 {
 	clearMsg
 	"""
 	Vai tentando umas
-	combinações! Ah,e dá
+	combinações! Ah, e dá
 	pra incluir um único
 	"""
 	keyWait
@@ -471,7 +471,7 @@ script 11 mmbn4 {
 	"""
 	chip de código "*".
 	Ha! E aí? Adminis-
-	trei legal,foi não?
+	trei legal, foi não?
 	"""
 	keyWait
 		any = false
@@ -495,7 +495,7 @@ script 12 mmbn4 {
 	clearMsg
 	"""
 	uma fantasia de Navi
-	e adoro,mas também
+	e adoro, mas também
 	preciso fazer
 	"""
 	keyWait
@@ -550,13 +550,13 @@ script 13 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"remover a lã deles,\nou manter distância\ne usar um"
+	"remover a lã deles, \nou manter distância\ne usar um"
 	keyWait
 		any = false
 	clearMsg
 	"""
 	chip de tiros
-	seguidos,tipo o
+	seguidos, tipo o
 	Vulcan!
 	"""
 	keyWait
@@ -589,7 +589,7 @@ script 14 mmbn4 {
 	clearMsg
 	"""
 	achei que programa-
-	ção era difícil,mas
+	ção era difícil, mas
 	é até meio
 	"""
 	keyWait
@@ -612,7 +612,7 @@ script 14 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ei,alguém aí conhece
+	Ei, alguém aí conhece
 	uma boa loja de
 	programas?
 	"""
@@ -628,7 +628,7 @@ script 15 mmbn4 {
 	positionArrow
 		left = 202
 		top = 108
-	"Se está atrás de \nprogramas,eu conheço\numa loja incrível"
+	"Se está atrás de \nprogramas, eu conheço\numa loja incrível"
 	keyWait
 		any = false
 	clearMsg
@@ -673,7 +673,7 @@ script 16 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Outro dia,vi um Navi
+	Outro dia, vi um Navi
 	chamado Glide. Ele
 	ficava dobrando pra
 	"""
@@ -722,7 +722,7 @@ script 17 mmbn4 {
 	clearMsg
 	"""
 	Comando?!
-	Bom,ninguém é
+	Bom, ninguém é
 	perfeito... Acho que
 	"""
 	keyWait
@@ -754,7 +754,7 @@ script 18 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	bronzeou,será?
+	bronzeou, será?
 	Não... não parece
 	saudável. Ele tá com
 	"""
@@ -818,7 +818,7 @@ script 19 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	a gente os usa,e os
+	a gente os usa, e os
 	PV máximos do seu
 	Navi caem em 1.
 	"""
@@ -834,7 +834,7 @@ script 19 mmbn4 {
 	clearMsg
 	"""
 	Depois que se usa
-	um,não dá mais pra
+	um, não dá mais pra
 	parar.
 	"""
 	keyWait
@@ -865,7 +865,7 @@ script 20 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	É sério isso,Zono?!
+	É sério isso, Zono?!
 	Um Chip das Trevas?!
 	"""
 	keyWait
@@ -889,7 +889,7 @@ script 20 mmbn4 {
 	clearMsg
 	"""
 	Parece que... Depois
-	que se usa um,é
+	que se usa um, é
 	ladeira abaixo...
 	"""
 	keyWait
@@ -930,7 +930,7 @@ script 22 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Fala,Saki!
+	Fala, Saki!
 	Esse menino do
 	fundamental
 	"""
@@ -972,7 +972,7 @@ script 23 mmbn4 {
 	clearMsg
 	"""
 	Mas eu também não
-	posso falar nada,já
+	posso falar nada, já
 	que perdi no Torneio
 	"""
 	keyWait
@@ -980,7 +980,7 @@ script 23 mmbn4 {
 	clearMsg
 	"""
 	Águia!
-	Enfim,é,o Lan é
+	Enfim, é, o Lan é
 	incrível mesmo.
 	"""
 	keyWait
@@ -1013,14 +1013,14 @@ script 24 mmbn4 {
 	clearMsg
 	"""
 	Não vão contar pra
-	ninguém,nem postem
+	ninguém, nem postem
 	nos outros fóruns!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Tá,aqui vai:
+	Tá, aqui vai:
 	Segurem o botão "A".
 	"""
 	keyWait
@@ -1050,7 +1050,7 @@ script 24 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	O último,eu deixo
+	O último, eu deixo
 	pra vocês mesmos
 	descobrirem!
 	"""
@@ -1084,7 +1084,7 @@ script 26 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Ah,o Misty.
+	Ah, o Misty.
 	Ele é durão mesmo,
 	"""
 	keyWait
@@ -1092,7 +1092,7 @@ script 26 mmbn4 {
 	clearMsg
 	"""
 	mas se você tiver o
-	chip Slasher,tá tudo
+	chip Slasher, tá tudo
 	de boa na lagoa.
 	"""
 	keyWait
@@ -1153,7 +1153,7 @@ script 28 mmbn4 {
 	clearMsg
 	"""
 	Chips bônus são,
-	às vezes,cedidos
+	às vezes, cedidos
 	em Duelos de Rede.
 	"""
 	keyWait
@@ -1161,7 +1161,7 @@ script 28 mmbn4 {
 	clearMsg
 	"""
 	Se travar vários
-	duelos,isso vai
+	duelos, isso vai
 	encher a sua Coleção
 	"""
 	keyWait

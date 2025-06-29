@@ -23,13 +23,13 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Hum,você trabalha\naqui?"
+	"Hum, você trabalha\naqui?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Claro,né?
-	Senão,não teria
+	... Claro, né?
+	Senão, não teria
 	conseguido entrar!
 	"""
 	keyWait
@@ -77,7 +77,7 @@ script 6 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	Então,esta é a Área
+	Então, esta é a Área
 	Parque de que todo
 	mundo fala...
 	"""
@@ -136,7 +136,7 @@ script 10 mmbn4 {
 	clearMsg
 	"""
 	... Mas sou tímido
-	demais,então só fico
+	demais, então só fico
 	olhando ela...
 	"""
 	keyWait
@@ -223,7 +223,7 @@ script 21 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	Então,acabaram as
+	Então, acabaram as
 	preliminares...
 	Conseguiu os pontos?
 	"""
@@ -283,7 +283,7 @@ script 30 mmbn4 {
 	clearMsg
 	"""
 	Se eu pudesse sair
-	com ela,morreria de
+	com ela, morreria de
 	felicidade...
 	"""
 	keyWait
@@ -365,7 +365,7 @@ script 40 mmbn4 {
 	"."
 	waitSkip
 		frames = 20
-	" Não,má ideia..."
+	" Não, má ideia..."
 	keyWait
 		any = false
 	end
@@ -397,7 +397,7 @@ script 50 mmbn4 {
 	msgOpen
 	"""
 	Eu te amo!
-	Por favor,namora
+	Por favor, namora
 	comigo!
 	"""
 	keyWait
@@ -425,7 +425,7 @@ script 51 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	Não,eu TÔ sendo
+	Não, eu TÔ sendo
 	vigiada!
 	Eu sei que tô!
 	"""
@@ -488,7 +488,7 @@ script 68 mmbn4 {
 	clearMsg
 	"""
 	Aquela menina ali é
-	linda demais,não é
+	linda demais, não é
 	não?
 	"""
 	keyWait
@@ -517,7 +517,7 @@ script 70 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Cara,não acredito
+	Cara, não acredito
 	naqueles incêndios
 	todos!
 	"""
@@ -665,7 +665,7 @@ script 94 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	msgOpen
-	"Nossa,deu medo!"
+	"Nossa, deu medo!"
 	keyWait
 		any = false
 	clearMsg
@@ -714,7 +714,7 @@ script 100 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Aí,garoto!"
+	"Aí, garoto!"
 	keyWait
 		any = false
 	clearMsg
@@ -783,7 +783,7 @@ script 101 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Valeu,garoto!"
+	"Valeu, garoto!"
 	keyWait
 		any = false
 	clearMsg
@@ -828,7 +828,7 @@ script 102 mmbn4 {
 	"""
 	... Er... Você não
 	tem dinheiro o
-	bastante,garoto!
+	bastante, garoto!
 	"""
 	keyWait
 		any = false
@@ -840,7 +840,7 @@ script 103 mmbn4 {
 	msgOpen
 	"""
 	Quanto mais você
-	mastiga,melhor fica
+	mastiga, melhor fica
 	o gosto!
 	"""
 	keyWait
@@ -921,7 +921,7 @@ script 111 mmbn4 {
 	mugshotShow
 		mugshot = Glide
 	msgOpen
-	"Por favor,salve-a!"
+	"Por favor, salve-a!"
 	keyWait
 		any = false
 	end
@@ -931,7 +931,7 @@ script 120 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,temos que detê-
+	Lan, temos que detê-
 	lo! O fogo vai se
 	espalhar mais!
 	"""
@@ -1071,7 +1071,7 @@ script 224 mmbn4 {
 	clearMsg
 	"""
 	Não há escapatória,
-	então,negociemos
+	então, negociemos
 	como sempre!
 	"""
 	keyWait
@@ -1080,7 +1080,7 @@ script 224 mmbn4 {
 	"""
 	Bem-vindo! Sou um
 	NetVendedor de
-	SubChips,manja?
+	SubChips, manja?
 	"""
 	keyWait
 		any = false

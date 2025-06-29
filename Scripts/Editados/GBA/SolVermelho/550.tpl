@@ -18,7 +18,7 @@ script 0 mmbn4 {
 		width = 19
 		height = 3
 	"""
-	torneio,os gritos de
+	torneio, os gritos de
 	todo o mundo são
 	dirigidos ao
 	"""

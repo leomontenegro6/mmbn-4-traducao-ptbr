@@ -63,7 +63,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Cuidado,MegaMan!
+	Cuidado, MegaMan!
 	Você não tá sozinho
 	aí!
 	"""
@@ -142,13 +142,13 @@ script 7 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"vocês,humanos."
+	"vocês, humanos."
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Seres altamente
-	inteligentes,mas com
+	inteligentes, mas com
 	maldade no coração.
 	"""
 	keyWait
@@ -240,7 +240,7 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"MegaMan,atrás de\nvocê!"
+	"MegaMan, atrás de\nvocê!"
 	keyWait
 		any = false
 	end
@@ -274,7 +274,7 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Escuta,MegaMan!
+	Escuta, MegaMan!
 	Vai ser uma luta
 	contra você mesmo!
 	"""
@@ -299,7 +299,7 @@ script 17 mmbn4 {
 		mugshot = Lan
 	"""
 	Pode deixar!
-	Bora,MegaMan!
+	Bora, MegaMan!
 	"""
 	keyWait
 		any = false

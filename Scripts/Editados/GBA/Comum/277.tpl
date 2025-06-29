@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,essa aí é a
+	Lan, essa aí é a
 	entrada!
 	"""
 	keyWait
@@ -77,7 +77,7 @@ script 20 mmbn4 {
 	"""
 	Eu tô tentando
 	desfrutar daqui
-	sozinho,falou?
+	sozinho, falou?
 	"""
 	keyWait
 		any = false
@@ -92,7 +92,7 @@ script 20 mmbn4 {
 	clearMsg
 	"""
 	Se eu te der isto
-	aqui,cê me deixa
+	aqui, cê me deixa
 	em paz...?
 	"""
 	keyWait

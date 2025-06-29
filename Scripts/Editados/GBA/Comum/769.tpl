@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,finalmente
+	Lan, finalmente
 	chegamos na
 	Undernet.
 	"""
@@ -58,7 +58,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"MegaMan,cuidado!"
+	"MegaMan, cuidado!"
 	keyWait
 		any = false
 	end

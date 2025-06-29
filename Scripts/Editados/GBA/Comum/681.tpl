@@ -6,7 +6,7 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	Você que é o
-	VideoMan,né?
+	VideoMan, né?
 	"""
 	keyWait
 		any = false
@@ -28,7 +28,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Ufa,não chegamos
+	Ufa, não chegamos
 	tarde demais!
 	"""
 	keyWait
@@ -42,7 +42,7 @@ script 3 mmbn4 {
 		mugshot = ViddyNarcy
 	"""
 	Sabia que você
-	viria,MegaMan!
+	viria, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -62,7 +62,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Espera,então...
+	Espera, então...
 	Cê tá tramando
 	alguma coisa?!
 	"""
@@ -70,7 +70,7 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Poxa,e eu me dei ao
+	Poxa, e eu me dei ao
 	trabalho de vir
 	longe assim!
 	"""
@@ -78,7 +78,7 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Cuidado,MegaMan!
+	Cuidado, MegaMan!
 	Um cara desses é
 	capaz de tudo!
 	"""
@@ -144,7 +144,7 @@ script 8 mmbn4 {
 	clearMsg
 	"""
 	Se você tivesse sido
-	menos levado,eu só
+	menos levado, eu só
 	colocaria você pra
 	"""
 	keyWait
@@ -159,8 +159,8 @@ script 8 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Eu o roteirizei,pro-
-	duzi e dirigi,e você
+	Eu o roteirizei, pro-
+	duzi e dirigi, e você
 	o ridicularizou!
 	"""
 	keyWait
@@ -203,7 +203,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	MegaMan,não precisa
+	MegaMan, não precisa
 	ficar aí vendo!
 	Desconecta!
 	"""
@@ -259,7 +259,7 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	O que foi,MegaMan?!
+	O que foi, MegaMan?!
 	"""
 	keyWait
 		any = false
@@ -302,7 +302,7 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = ViddyNarcy
 	"""
-	Certo,VideoMan,
+	Certo, VideoMan,
 	acabe com ele!
 	"""
 	keyWait
@@ -351,7 +351,7 @@ script 23 mmbn4 {
 		mugshot = MegaMan
 	"""
 	Eu não sofri nenhum
-	dano,mas tô me sen-
+	dano, mas tô me sen-
 	tindo tão estranho.
 	"""
 	keyWait
@@ -372,7 +372,7 @@ script 24 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	"reproduzir",as suas
+	"reproduzir", as suas
 	ações ficarão
 	invertidas.
 	"""
@@ -414,7 +414,7 @@ script 27 mmbn4 {
 	"""
 	Que papo é esse de
 	"rebobinar"?! Pega
-	ele,MegaMan!
+	ele, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -524,7 +524,7 @@ script 34 mmbn4 {
 	msgOpen
 	"""
 	É bom achar logo os
-	vídeos,ou vai perder
+	vídeos, ou vai perder
 	a luta!
 	"""
 	keyWait
@@ -534,7 +534,7 @@ script 34 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Vamos,VideoMan!"
+	"Vamos, VideoMan!"
 	keyWait
 		any = false
 	end
@@ -568,7 +568,7 @@ script 37 mmbn4 {
 	"""
 	Que complicação.
 	Encontra lá os três
-	vídeos,MegaMan!
+	vídeos, MegaMan!
 	"""
 	keyWait
 		any = false

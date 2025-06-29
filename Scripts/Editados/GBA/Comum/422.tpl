@@ -48,7 +48,7 @@ script 120 mmbn4 {
 	clearMsg
 	"""
 	Quié? Qué ser o
-	meu pupilo,é?!
+	meu pupilo, é?!
 	"""
 	keyWait
 		any = false
@@ -58,7 +58,7 @@ script 120 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ah,depende do
+	Ah, depende do
 	quanto que cê
 	quer iss'...
 	"""
@@ -66,7 +66,7 @@ script 120 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	... E aí,trouxe o
+	... E aí, trouxe o
 	negócio lá que eu
 	queria?
 	"""
@@ -129,7 +129,7 @@ script 120 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Pô,eshtragou o
+	Pô, eshtragou o
 	meu bom humô...
 	"""
 	keyWait
@@ -193,7 +193,7 @@ script 121 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Er,senhor...
+	Er, senhor...
 	É pra você...
 	"""
 	keyWait
@@ -228,7 +228,7 @@ script 121 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	"""
-	Ah,ESSE é o negóç'!
+	Ah, ESSE é o negóç'!
 	"""
 	keyWait
 		any = false
@@ -325,7 +325,7 @@ script 125 mmbn4 {
 	"""
 	Num falou c'os meus
 	parças lá na Área
-	Parque,não?!
+	Parque, não?!
 	"""
 	keyWait
 		any = false
@@ -351,7 +351,7 @@ script 126 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Olhaí,se num é o
+	Olhaí, se num é o
 	burro... Trouxe a
 	bebida e o lanchin'?
 	"""
@@ -463,7 +463,7 @@ script 128 mmbn4 {
 	"""
 	Some daqui! Eu num
 	tenho nada pa' te
-	insiná,não!
+	insiná, não!
 	"""
 	keyWait
 		any = false

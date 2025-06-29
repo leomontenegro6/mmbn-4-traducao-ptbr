@@ -20,7 +20,7 @@ script 0 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Olá,meu jovem!
+	Olá, meu jovem!
 	Aceita encarar a
 	minha charada?
 	"""
@@ -44,7 +44,7 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	sentir jovem de
-	novo! Eh,he,he!
+	novo! Eh, he, he!
 	Vamos lá!
 	"""
 	keyWait
@@ -232,14 +232,14 @@ script 6 mmbn4 {
 	clearMsg
 	"""
 	Eu sempre giro em
-	círculos,mas sempre
+	círculos, mas sempre
 	vou pra frente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nunca reclamo,não
+	Nunca reclamo, não
 	importa aonde me
 	leve. O que eu sou?
 	"""
@@ -393,7 +393,7 @@ script 8 mmbn4 {
 	clearMsg
 	"""
 	Sou lindo e redondo,
-	brilho pouco,cresço
+	brilho pouco, cresço
 	na escuridão
 	"""
 	keyWait
@@ -633,7 +633,7 @@ script 11 mmbn4 {
 	clearMsg
 	"""
 	Quanto mais se
-	pega,mais se deixa
+	pega, mais se deixa
 	pra trás.
 	"""
 	keyWait
@@ -790,7 +790,7 @@ script 13 mmbn4 {
 	clearMsg
 	"""
 	O que se coloca na
-	mesa,se corta,mas
+	mesa, se corta, mas
 	nunca se come?
 	"""
 	keyWait
@@ -1037,7 +1037,7 @@ script 18 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Perdi! Ah,como é bom
+	Perdi! Ah, como é bom
 	ser jovem!
 	"""
 	keyWait
@@ -1084,14 +1084,14 @@ script 19 mmbn4 {
 	clearMsg
 	"""
 	Droga! Você é bem
-	sabido,pra alguém
+	sabido, pra alguém
 	tão novo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Te contar,viu? As
+	Te contar, viu? As
 	crianças de hoje
 	crescem tão rápido.
 	"""
@@ -1099,7 +1099,7 @@ script 19 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Tome,pode ficar.
+	Tome, pode ficar.
 	"""
 	keyWait
 		any = false
@@ -1138,7 +1138,7 @@ script 20 mmbn4 {
 	"""
 	Nossa! É isso mesmo!
 	Você venceu! Achei
-	que ia te pegar,mas
+	que ia te pegar, mas
 	"""
 	keyWait
 		any = false
@@ -1151,7 +1151,7 @@ script 20 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	OK,tome.
+	OK, tome.
 	Fez por merecer.
 	"""
 	keyWait
@@ -1189,8 +1189,8 @@ script 21 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Não,errou. Eu posso
-	ser velho,mas não
+	Não, errou. Eu posso
+	ser velho, mas não
 	sou bobo!
 	"""
 	keyWait
@@ -1239,9 +1239,9 @@ script 23 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Ops,não é isso!
+	Ops, não é isso!
 	Que pena.
-	Ai,meus ombros!
+	Ai, meus ombros!
 	"""
 	keyWait
 		any = false
@@ -1268,7 +1268,7 @@ script 24 mmbn4 {
 	clearMsg
 	"""
 	Mas já que está
-	aqui,pode me fazer
+	aqui, pode me fazer
 	um favor?
 	"""
 	keyWait
@@ -1303,7 +1303,7 @@ script 25 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Ah,coisa boa. Agora
+	Ah, coisa boa. Agora
 	não tenho que ir na-
 	quele quiropraxista!
 	"""
@@ -1313,7 +1313,7 @@ script 25 mmbn4 {
 	"""
 	Adeus,
 	pseudomedicina!
-	Tome,um agradozinho!
+	Tome, um agradozinho!
 	"""
 	keyWait
 		any = false
@@ -1359,7 +1359,7 @@ script 26 mmbn4 {
 	clearMsg
 	"""
 	Obrigado! Aceite
-	isto,por favor!
+	isto, por favor!
 	"""
 	keyWait
 		any = false
@@ -1408,13 +1408,13 @@ script 27 mmbn4 {
 	clearMsg
 	"""
 	Onde você aprendeu a
-	massagear,garoto?
+	massagear, garoto?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Aqui,leva este
+	Aqui, leva este
 	presentinho!
 	"""
 	keyWait
@@ -1452,7 +1452,7 @@ script 28 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Ah,que alívio! Os
+	Ah, que alívio! Os
 	meus ombros tavam
 	me matando!
 	"""
@@ -1467,7 +1467,7 @@ script 28 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Tome,pra mostrar
+	Tome, pra mostrar
 	minha gratidão.
 	"""
 	keyWait
@@ -1522,7 +1522,7 @@ script 29 mmbn4 {
 		mugshot = NormalNaviBrown
 	"""
 	O Chefe do Clube de
-	NetLuntas,claro.
+	NetLuntas, claro.
 	Ele pode te ensinar
 	"""
 	keyWait
@@ -1545,7 +1545,7 @@ script 29 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	É,esse é o seu teste
+	É, esse é o seu teste
 	final.
 	"""
 	keyWait
@@ -1609,14 +1609,14 @@ script 40 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Esquerda,direita,
-	esquerda,direita!
+	Esquerda, direita,
+	esquerda, direita!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	controlLock
-	"Certo,então"
+	"Certo, então"
 	wait
 		frames = 10
 	"."
@@ -1638,7 +1638,7 @@ script 41 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	msgOpen
-	"Ha,assim mesmo!"
+	"Ha, assim mesmo!"
 	keyWait
 		any = false
 	end
@@ -1649,7 +1649,7 @@ script 42 mmbn4 {
 	msgOpen
 	"""
 	Ei!
-	Foco,rapaz!
+	Foco, rapaz!
 	"""
 	keyWait
 		any = false
@@ -1659,7 +1659,7 @@ script 42 mmbn4 {
 		any = false
 	clearMsg
 	controlLock
-	"Certo,então"
+	"Certo, então"
 	wait
 		frames = 10
 	"."
@@ -1692,7 +1692,7 @@ script 43 mmbn4 {
 		any = false
 	clearMsg
 	controlLock
-	"Certo,então"
+	"Certo, então"
 	wait
 		frames = 10
 	"."
@@ -1714,7 +1714,7 @@ script 44 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	controlLock
-	"Ah,maravilha!\n"
+	"Ah, maravilha!\n"
 	wait
 		frames = 30
 	end

@@ -11,7 +11,7 @@ script 0 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Isso é crime,sabia?!"
+	"Isso é crime, sabia?!"
 	keyWait
 		any = false
 	clearMsg
@@ -39,7 +39,7 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	Você p-pode acabar
-	ferida,he he.
+	ferida, he he.
 	"""
 	keyWait
 		any = false
@@ -64,7 +64,7 @@ script 3 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Ei,é maldade dizer
+	Ei, é maldade dizer
 	isso...
 	"""
 	keyWait
@@ -72,7 +72,7 @@ script 3 mmbn4 {
 	clearMsg
 	"""
 	E-eu sou um cavalei-
-	ro,que vai te prote-
+	ro, que vai te prote-
 	ger daquele MegaMan!
 	"""
 	keyWait
@@ -125,7 +125,7 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Se tentar,e-estes
+	Se tentar, e-estes
 	vírus vão te
 	atacar.
 	"""
@@ -134,7 +134,7 @@ script 5 mmbn4 {
 	clearMsg
 	"""
 	Te vejo daqui a
-	pouco,minha linda
+	pouco, minha linda
 	gatinha!
 	"""
 	keyWait

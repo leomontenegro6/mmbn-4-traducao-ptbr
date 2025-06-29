@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,aonde você vai?!
+	Lan, aonde você vai?!
 	Vamos logo entrar na
 	NAXA!
 	"""

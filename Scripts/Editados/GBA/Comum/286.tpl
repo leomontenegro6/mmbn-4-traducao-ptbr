@@ -75,7 +75,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Na verdade,quase
+	Na verdade, quase
 	todos aqui são
 	jovens,
 	"""
@@ -111,7 +111,7 @@ script 2 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Na verdade,esta vila
+	Na verdade, esta vila
 	é recente. Está
 	cercada de lindos
 	"""
@@ -128,7 +128,7 @@ script 2 mmbn4 {
 	clearMsg
 	"""
 	... Mas não conta
-	pra ninguém,viu?!
+	pra ninguém, viu?!
 	"""
 	keyWait
 		any = false
@@ -239,7 +239,7 @@ script 21 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ah,é claro!
+	Ah, é claro!
 	Não tem anciãos!
 	"""
 	keyWait
@@ -282,7 +282,7 @@ script 25 mmbn4 {
 	"""
 	Tentei ir à Área
 	Ameropa através da
-	Rede,mas um aparelho
+	Rede, mas um aparelho
 	"""
 	keyWait
 		any = false
@@ -361,7 +361,7 @@ script 30 mmbn4 {
 	msgOpen
 	"""
 	A Rede voltou ao
-	normal,mas tem um
+	normal, mas tem um
 	monte de Navis
 	"""
 	keyWait
@@ -377,7 +377,7 @@ script 30 mmbn4 {
 	clearMsg
 	"""
 	uma tal de
-	"Nebula",então,
+	"Nebula", então,
 	eu desconectei.
 	"""
 	keyWait
@@ -385,7 +385,7 @@ script 30 mmbn4 {
 	clearMsg
 	"""
 	Quem que é essa
-	"Nebula",afinal?
+	"Nebula", afinal?
 	"""
 	keyWait
 		any = false
@@ -397,7 +397,7 @@ script 31 mmbn4 {
 	msgOpen
 	"""
 	Aconteceu alguma
-	coisa na Rede,não
+	coisa na Rede, não
 	foi?
 	"""
 	keyWait
@@ -494,7 +494,7 @@ script 37 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	na verdade,ele é um
+	na verdade, ele é um
 	sistema de previsão
 	de desastres.
 	"""
@@ -525,7 +525,7 @@ script 37 mmbn4 {
 	clearMsg
 	"""
 	Quanto maior o
-	nível,pior a
+	nível, pior a
 	catástrofe.
 	"""
 	keyWait
@@ -545,7 +545,7 @@ script 40 mmbn4 {
 	clearMsg
 	"""
 	É melhor você sair
-	daqui,também.
+	daqui, também.
 	"""
 	keyWait
 		any = false
@@ -565,7 +565,7 @@ script 130 mmbn4 {
 	msgOpen
 	"""
 	Lan! Se chegarmos
-	mais perto,o bandido
+	mais perto, o bandido
 	vai notar!
 	"""
 	keyWait
@@ -579,7 +579,7 @@ script 131 mmbn4 {
 	"""
 	Aqui leva ao nosso
 	território sagrado.
-	Forasteiros,fora.
+	Forasteiros, fora.
 	"""
 	keyWait
 		any = false
@@ -604,7 +604,7 @@ script 132 mmbn4 {
 	"""
 	Hmm? Você tá atrás
 	do KendoMan? Ele
-	está na Rede,na
+	está na Rede, na
 	"""
 	keyWait
 		any = false
@@ -710,7 +710,7 @@ script 138 mmbn4 {
 		animation = 2
 	"""
 	Não consigo parar
-	de tremer,mesmo
+	de tremer, mesmo
 	agora!
 	"""
 	keyWait
@@ -768,7 +768,7 @@ script 152 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Tenta você,também!"
+	"Tenta você, também!"
 	keyWait
 		any = false
 	end
@@ -818,7 +818,7 @@ script 155 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Vamos,suba nas\nminhas costas."
+	"Vamos, suba nas\nminhas costas."
 	keyWait
 		any = false
 	clearMsg
@@ -1200,7 +1200,7 @@ script 166 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Sem o rio,não temos
+	Sem o rio, não temos
 	como viver aqui!
 	"""
 	keyWait
@@ -1230,7 +1230,7 @@ script 167 mmbn4 {
 	clearMsg
 	"""
 	Por favor,
-	se apresse,Campeão!
+	se apresse, Campeão!
 	"""
 	keyWait
 		any = false

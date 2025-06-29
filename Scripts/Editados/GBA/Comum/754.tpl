@@ -55,7 +55,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = Man
-	"Gente,calma."
+	"Gente, calma."
 	keyWait
 		any = false
 	clearMsg
@@ -120,7 +120,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotHide
 	"""
-	Ei,que tal o Campeão
+	Ei, que tal o Campeão
 	deste ano?
 	"""
 	keyWait
@@ -141,7 +141,7 @@ script 8 mmbn4 {
 	clearMsg
 	"""
 	Quem foi que venceu
-	este ano,mesmo?
+	este ano, mesmo?
 	"""
 	keyWait
 		any = false
@@ -206,7 +206,7 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Bom,não é como se eu\ntivesse escolha!"
+	"Bom, não é como se eu\ntivesse escolha!"
 	keyWait
 		any = false
 	clearMsg
@@ -231,7 +231,7 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = BlackKid
 	"""
-	Sem o rio,vamos
+	Sem o rio, vamos
 	todos morrer.
 	"""
 	keyWait
@@ -315,7 +315,7 @@ script 21 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Primeiro,precisa do
+	Primeiro, precisa do
 	programa para con-
 	sertar o DeusÁgua.
 	"""
@@ -403,7 +403,7 @@ script 25 mmbn4 {
 	msgOpen
 	"""
 	A sabedoria e a
-	força,é com você.
+	força, é com você.
 	"""
 	keyWait
 		any = false

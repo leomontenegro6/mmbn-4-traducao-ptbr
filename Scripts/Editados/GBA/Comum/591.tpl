@@ -15,7 +15,7 @@ script 1 mmbn4 {
 	msgOpen
 	"""
 	O que pensa que
-	está fazendo,seu
+	está fazendo, seu
 	malandrinho?!
 	"""
 	keyWait
@@ -29,7 +29,7 @@ script 2 mmbn4 {
 		mugshot = Lan
 	"""
 	Argh! Poxa! A gente
-	deletou o vírus,não
+	deletou o vírus, não
 	foi?
 	"""
 	keyWait
@@ -42,7 +42,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Tensuke
 	"""
-	Da próxima vez,cuide
+	Da próxima vez, cuide
 	da sua vida!
 	"""
 	keyWait
@@ -120,7 +120,7 @@ script 7 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Aí,a gente pode
+	Aí, a gente pode
 	conhecer o seu Navi?
 	"""
 	keyWait
@@ -137,8 +137,8 @@ script 8 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ah,er...
-	Agora,não.
+	Ah, er...
+	Agora, não.
 	"""
 	keyWait
 		any = false
@@ -164,7 +164,7 @@ script 10 mmbn4 {
 		mugshot = Tensuke
 	"""
 	Não amola! Eu disse
-	não,então é não!
+	não, então é não!
 	Some daqui!
 	"""
 	keyWait
@@ -178,7 +178,7 @@ script 11 mmbn4 {
 		mugshot = Lan
 	"""
 	Afe! Qual é o seu
-	problema,hein?
+	problema, hein?
 	É só mostrar ele.
 	"""
 	keyWait
@@ -220,7 +220,7 @@ script 14 mmbn4 {
 		mugshot = Tensuke
 	"""
 	Por que esse olhar
-	de pena,garoto?
+	de pena, garoto?
 	"""
 	keyWait
 		any = false
@@ -240,7 +240,7 @@ script 14 mmbn4 {
 	waitSkip
 		frames = 20
 	"""
-	-Tensuke,nós
+	-Tensuke, nós
 	temos que achar um
 	Ouro-Souro!
 	"""
@@ -254,7 +254,7 @@ script 14 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ora,seu...!
+	Ora, seu...!
 	Calado!
 	"""
 	keyWait
@@ -297,7 +297,7 @@ script 14 mmbn4 {
 	clearMsg
 	"""
 	Ele fica bem durante
-	as lutas,mas,depois,
+	as lutas, mas, depois,
 	acontece isso.
 	"""
 	keyWait
@@ -307,7 +307,7 @@ script 14 mmbn4 {
 		mugshot = Lan
 	"""
 	Eu posso dar uma
-	olhadinha nele,se
+	olhadinha nele, se
 	quiser.
 	"""
 	keyWait
@@ -317,7 +317,7 @@ script 14 mmbn4 {
 		mugshot = Tensuke
 	"""
 	Oi?!
-	Não,pode esquecer!
+	Não, pode esquecer!
 	"""
 	keyWait
 		any = false
@@ -333,7 +333,7 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Aliás,como foi que
+	Aliás, como foi que
 	ele quebrou?
 	"""
 	keyWait
@@ -347,7 +347,7 @@ script 14 mmbn4 {
 	clearMsg
 	"""
 	Ele é um Navi im-
-	provisado,então está
+	provisado, então está
 	sempre quebrando.
 	"""
 	keyWait
@@ -387,7 +387,7 @@ script 16 mmbn4 {
 script 17 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Não,nenhum..."
+	"Não, nenhum..."
 	keyWait
 		any = false
 	clearMsg
@@ -436,7 +436,7 @@ script 19 mmbn4 {
 		mugshot = Lan
 	"""
 	Mas ele vive
-	quebrando,né?
+	quebrando, né?
 	"""
 	keyWait
 		any = false
@@ -457,7 +457,7 @@ script 20 mmbn4 {
 		mugshot = Tensuke
 	"""
 	O asilo tem um Clube
-	de NetLutas,sim,
+	de NetLutas, sim,
 	"""
 	keyWait
 		any = false
@@ -570,7 +570,7 @@ script 24 mmbn4 {
 		mugshot = Tensuke
 	"""
 	Não vou pedir des-
-	culpas assim,como
+	culpas assim, como
 	se não fosse nada.
 	"""
 	keyWait
@@ -584,7 +584,7 @@ script 24 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = Tensuke
-	"Calado,você!"
+	"Calado, você!"
 	keyWait
 		any = false
 	clearMsg
@@ -611,7 +611,7 @@ script 25 mmbn4 {
 		mugshot = Tensuke
 	msgOpen
 	"""
-	Primeiro,tenho que
+	Primeiro, tenho que
 	comprar todos os
 	chips e peças...
 	"""
@@ -644,7 +644,7 @@ script 27 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Aí,Lan!
+	Aí, Lan!
 	Aquele senhor
 	esqueceu o pião.
 	"""
@@ -660,7 +660,7 @@ script 28 mmbn4 {
 		value = 7
 	mugshotShow
 		mugshot = Lan
-	"Ah,verdade."
+	"Ah, verdade."
 	keyWait
 		any = false
 	end

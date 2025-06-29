@@ -12,7 +12,7 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	AH! MEGAMAN!
-	OI,OI!
+	OI, OI!
 	"""
 	keyWait
 		any = false
@@ -25,7 +25,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	PARA ISSO,CRIARÍAMOS
+	PARA ISSO, CRIARÍAMOS
 	UM LINK LIGANDO
 	ELAS!
 	"""
@@ -33,7 +33,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	AÍ,VOCÊ PODERIA IR
+	AÍ, VOCÊ PODERIA IR
 	DE UM SITE PARA O
 	OUTRO!
 	"""
@@ -120,7 +120,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	CERTO,VOU INSTALAR O
+	CERTO, VOU INSTALAR O
 	LINK DESTE LADO...
 	"""
 	keyWait
@@ -162,7 +162,7 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	MAS,CLARO,O QUE
+	MAS, CLARO, O QUE
 	ELA ESCREVEU É
 	ULTRASSECRETO!
 	"""

@@ -13,14 +13,14 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Oi,Mayl!"
+	"Oi, Mayl!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Mayl
 	"""
-	Oi,Lan! Fazendo
+	Oi, Lan! Fazendo
 	compras também?
 	"""
 	keyWait
@@ -40,8 +40,8 @@ script 0 mmbn4 {
 	clearMsg
 	"""
 	Adivinha só? A
-	minha Navi,a Roll,
-	e o Glide,da Yai,
+	minha Navi, a Roll,
+	e o Glide, da Yai,
 	"""
 	keyWait
 		any = false
@@ -54,7 +54,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Se quiser,pode se
+	Se quiser, pode se
 	conectar também!
 	"""
 	keyWait
@@ -154,23 +154,23 @@ script 4 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Lan,você também vem
+	Lan, você também vem
 	na Rede depois?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	É,o Dex já me
+	É, o Dex já me
 	convidou!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Bom,se conecta
+	Bom, se conecta
 	quando chegar em
-	casa,viu?
+	casa, viu?
 	"""
 	keyWait
 		any = false
@@ -183,7 +183,7 @@ script 5 mmbn4 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Por sinal,tem uma
+	Por sinal, tem uma
 	bela muvuca na Praça
 	lá na frente.
 	"""
@@ -243,7 +243,7 @@ script 7 mmbn4 {
 	clearMsg
 	"""
 	O meu Navi...!
-	Meu Navi,meu...!
+	Meu Navi, meu...!
 	"""
 	keyWait
 		any = false
@@ -276,7 +276,7 @@ script 9 mmbn4 {
 	msgOpen
 	"""
 	Essa não!
-	Meu Navi,mon ami!
+	Meu Navi, mon ami!
 	"""
 	keyWait
 		any = false
@@ -359,7 +359,7 @@ script 14 mmbn4 {
 	"""
 	Eu vou fazer
 	compras. Espere aqui
-	comportadinha,tá?
+	comportadinha, tá?
 	"""
 	keyWait
 		any = false
@@ -377,7 +377,7 @@ script 15 mmbn4 {
 	msgOpen
 	"""
 	Ni-Hon tá perigosa
-	demais,credo!
+	demais, credo!
 	"""
 	keyWait
 		any = false
@@ -421,14 +421,14 @@ script 18 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = Woman
-	"Ai,ai,essa menina\nadora me imitar..."
+	"Ai, ai, essa menina\nadora me imitar..."
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Fique brincando
 	naquela máquina ali
-	até eu voltar,tá?
+	até eu voltar, tá?
 	"""
 	keyWait
 		any = false
@@ -461,7 +461,7 @@ script 20 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Eita,dia de cão!"
+	"Eita, dia de cão!"
 	keyWait
 		any = false
 	end
@@ -522,7 +522,7 @@ script 23 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Argh,meus ouvidos!
+	Argh, meus ouvidos!
 	Malditas ondas
 	sônicas...!
 	"""
@@ -546,7 +546,7 @@ script 25 mmbn4 {
 		mugshot = Woman
 	msgOpen
 	"""
-	Vamos,não chora.
+	Vamos, não chora.
 	Vai ficar tudo bem.
 	"""
 	keyWait
@@ -559,7 +559,7 @@ script 26 mmbn4 {
 	msgOpen
 	"""
 	Não me deixa nunca
-	mais,tia! Buáááá!
+	mais, tia! Buáááá!
 	"""
 	keyWait
 		any = false
@@ -680,7 +680,7 @@ script 31 mmbn4 {
 	msgOpen
 	"""
 	Compra um novo Navi
-	pra mim,tia?
+	pra mim, tia?
 	"""
 	keyWait
 		any = false
@@ -697,7 +697,7 @@ script 31 mmbn4 {
 	clearMsg
 	"""
 	Não pode trocar
-	assim,sem mais nem
+	assim, sem mais nem
 	menos!
 	"""
 	keyWait
@@ -756,7 +756,7 @@ script 33 mmbn4 {
 	msgOpen
 	"""
 	Você não vai pra
-	Praça,Lan?
+	Praça, Lan?
 	"""
 	keyWait
 		any = false
@@ -767,7 +767,7 @@ script 35 mmbn4 {
 		mugshot = Woman
 	msgOpen
 	"""
-	Que multidão,hoje.
+	Que multidão, hoje.
 	O que será que
 	tá acontecendo?
 	"""
@@ -796,7 +796,7 @@ script 37 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Olha,cê não parece
+	Olha, cê não parece
 	muito forte... mas
 	boa sorte!
 	"""
@@ -905,9 +905,9 @@ script 46 mmbn4 {
 	mugshotShow
 		mugshot = Woman
 	"""
-	Ai... Tá,vou sacar
+	Ai... Tá, vou sacar
 	um dinheiro no
-	banco,então.
+	banco, então.
 	"""
 	keyWait
 		any = false
@@ -1209,7 +1209,7 @@ script 146 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Olha,o presidente da
+	Olha, o presidente da
 	Jomon Eletrônicos
 	tava aqui agorinha.
 	"""
@@ -1232,7 +1232,7 @@ script 147 mmbn4 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Tá,acabou a folga!
+	Tá, acabou a folga!
 	De volta ao
 	trabalho!
 	"""
@@ -1259,7 +1259,7 @@ script 149 mmbn4 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Desculpe,mas essa	
+	Desculpe, mas essa	
 	senha estava comple-
 	tamente errada.
 	"""

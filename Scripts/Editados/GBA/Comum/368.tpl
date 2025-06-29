@@ -13,7 +13,7 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	VAMOS,VENHAM TODOS!
+	VAMOS, VENHAM TODOS!
 	ESCOLHA UM SUCO E
 	EU PROVEREI!
 	"""

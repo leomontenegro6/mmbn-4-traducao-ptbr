@@ -95,7 +95,7 @@ script 20 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Beleza! Agora,vamos
+	Beleza! Agora, vamos
 	atrás da nova loja
 	de eletrônicos!
 	"""
@@ -319,7 +319,7 @@ script 38 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,vamos voltar
+	Lan, vamos voltar
 	pra Praça!
 	"""
 	keyWait
@@ -344,7 +344,7 @@ script 40 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,me conecta na
+	Lan, me conecta na
 	Torre!
 	"""
 	keyWait
@@ -421,7 +421,7 @@ script 45 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,vamos pra Praça!
+	Lan, vamos pra Praça!
 	"""
 	keyWait
 		any = false
@@ -434,7 +434,7 @@ script 46 mmbn4 {
 	"""
 	Um Navi Cinza em
 	Vila3 vai fazer
-	nossa inscrição,né?
+	nossa inscrição, né?
 	"""
 	keyWait
 		any = false
@@ -489,7 +489,7 @@ script 49 mmbn4 {
 	msgOpen
 	"""
 	É aqui o lugar que
-	disseram,né?
+	disseram, né?
 	"""
 	keyWait
 		any = false
@@ -613,9 +613,9 @@ script 133 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Finalmente,a luta
+	Finalmente, a luta
 	com o Dex! Bora
-	fazer bonito,Lan!
+	fazer bonito, Lan!
 	"""
 	keyWait
 		any = false
@@ -626,7 +626,7 @@ script 134 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Vamos,Lan,temos que
+	Vamos, Lan, temos que
 	achar aqueles dados
 	de números!
 	"""
@@ -668,7 +668,7 @@ script 140 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,vamos pra
+	Lan, vamos pra
 	Barraca de
 	Cachorro-Quente.
 	"""
@@ -681,7 +681,7 @@ script 141 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Me conecta,Lan.
+	Me conecta, Lan.
 	Eu conserto a
 	fritadeira!
 	"""
@@ -708,7 +708,7 @@ script 143 mmbn4 {
 	msgOpen
 	"""
 	Tô preocupado com o
-	FireMan,mas vamos
+	FireMan, mas vamos
 	lá pra Barraca!
 	"""
 	keyWait
@@ -720,7 +720,7 @@ script 144 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,a luta tá pra
+	Lan, a luta tá pra
 	começar!
 	Acelera aí!
 	"""
@@ -747,7 +747,7 @@ script 150 mmbn4 {
 	"""
 	Vamos turbinar o
 	nosso PET! É na
-	frente do Domo,né?
+	frente do Domo, né?
 	"""
 	keyWait
 		any = false
@@ -789,7 +789,7 @@ script 153 mmbn4 {
 	msgOpen
 	"""
 	Pasta consertada.
-	Agora,de volta à
+	Agora, de volta à
 	arena!
 	"""
 	keyWait
@@ -868,7 +868,7 @@ script 163 mmbn4 {
 	"""
 	Fazer um teste na
 	Área Vila? Bora
-	tentar,Lan!
+	tentar, Lan!
 	"""
 	keyWait
 		any = false
@@ -892,7 +892,7 @@ script 165 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Ah,não,o torneio tá
+	Ah, não, o torneio tá
 	pra começar! Rápido!
 	Pra arena!
 	"""
@@ -906,7 +906,7 @@ script 166 mmbn4 {
 	msgOpen
 	"""
 	O Navi do Chefe está
-	em ACDC,né?
+	em ACDC, né?
 	Vamos lá!
 	"""
 	keyWait
@@ -993,7 +993,7 @@ script 173 mmbn4 {
 	msgOpen
 	"""
 	Temos que achar o
-	AquaMan logo,ou a
+	AquaMan logo, ou a
 	Rede corre perigo!
 	"""
 	keyWait
@@ -1005,7 +1005,7 @@ script 174 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,vamos voltar pra
+	Lan, vamos voltar pra
 	Rede e ir atrás do
 	AquaMan!
 	"""

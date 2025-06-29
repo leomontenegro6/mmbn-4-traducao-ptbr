@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	msgOpen
-	"Hã? Eu vim atrás do\ntesouro da Vila\nMettaur,mas..."
+	"Hã? Eu vim atrás do\ntesouro da Vila\nMettaur, mas..."
 	keyWait
 		any = false
 	clearMsg
@@ -17,7 +17,7 @@ script 0 mmbn4 {
 	"""
 	Imagino que cê
 	também teja atrás
-	do tesouro,né?
+	do tesouro, né?
 	"""
 	keyWait
 		any = false
@@ -32,7 +32,7 @@ script 0 mmbn4 {
 	clearMsg
 	"""
 	Que raiva!
-	Olha,leva! Não quero
+	Olha, leva! Não quero
 	nem olhar pra eles!
 	"""
 	keyWait
@@ -61,7 +61,7 @@ script 0 mmbn4 {
 		mugshot = HeelNaviPurple
 	"""
 	Aí! Quer deletar uns
-	Mettaurs,só pra
+	Mettaurs, só pra
 	estravazar?
 	"""
 	keyWait
@@ -101,7 +101,7 @@ script 0 mmbn4 {
 	clearMsg
 	"""
 	Deletar vírus é o
-	nosso TRABALHO,mano.
+	nosso TRABALHO, mano.
 	"""
 	keyWait
 		any = false
@@ -109,7 +109,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Sim,eles podem ser
+	Sim, eles podem ser
 	vírus, 
 	"""
 	keyWait
@@ -125,7 +125,7 @@ script 0 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviPurple
-	"Cê me dá NOJO,cara!"
+	"Cê me dá NOJO, cara!"
 	keyWait
 		any = false
 	clearMsg
@@ -187,7 +187,7 @@ script 4 mmbn4 {
 	msgOpen
 	"""
 	Talvez por estar
-	feliz,seu capacete
+	feliz, seu capacete
 	está desalinhado.
 	"""
 	keyWait
@@ -418,7 +418,7 @@ script 132 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"É! AÍ EU FALEI,\nTIPO..."
+	"É! AÍ EU FALEI, \nTIPO..."
 	keyWait
 		any = false
 	end
@@ -437,7 +437,7 @@ script 134 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	ENTÃO,AS VENDAS DE
+	ENTÃO, AS VENDAS DE
 	AR CONDICIONADO
 	DESTE ANO ESTÃO...
 	"""
@@ -451,7 +451,7 @@ script 135 mmbn4 {
 	msgOpen
 	"""
 	OPS! MELHOR VOLTAR
-	AO TRABALHO,OU VOU
+	AO TRABALHO, OU VOU
 	OUVIR POUCAS E BOAS!
 	"""
 	keyWait
@@ -472,7 +472,7 @@ script 136 mmbn4 {
 	"""
 	MAS NÃO SOMOS NÓS
 	QUEM CONTROLAMOS
-	A COISA! AI,VIDA.
+	A COISA! AI, VIDA.
 	"""
 	keyWait
 		any = false
@@ -516,7 +516,7 @@ script 160 mmbn4 {
 	msgOpen
 	"""
 	Não dá pra negar a
-	variedade,mas os
+	variedade, mas os
 	preços são um crime!
 	"""
 	keyWait
@@ -548,7 +548,7 @@ script 160 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviPink
 	"""
-	"Loja do Higsby",é?
+	"Loja do Higsby", é?
 	Veio em boa hora!
 	"""
 	keyWait

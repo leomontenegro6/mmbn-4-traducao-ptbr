@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Ah,é."
+	"Ah, é."
 	keyWait
 		any = false
 	clearMsg
@@ -96,7 +96,7 @@ script 6 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Aham,estou bem!
+	Aham, estou bem!
 	Nenhum problema!
 	"""
 	keyWait
@@ -120,7 +120,7 @@ script 7 mmbn4 {
 	"""
 	Quem foi que
 	esbarrou em mim
-	de repente,assim?!
+	de repente, assim?!
 	"""
 	keyWait
 		any = false
@@ -140,7 +140,7 @@ script 8 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,enfim,eu tô bem.
+	Mas, enfim, eu tô bem.
 	Vamos logo pra casa.
 	"""
 	keyWait
@@ -154,7 +154,7 @@ script 9 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ah,MegaMan,você
+	Ah, MegaMan, você
 	perdoa fácil demais.
 	"""
 	keyWait
@@ -196,14 +196,14 @@ script 10 mmbn4 {
 	clearMsg
 	"""
 	Aí o MegaMan tentará
-	deter o WindMan,mas
+	deter o WindMan, mas
 	vai perder e ser
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	pulverizado,sem
+	pulverizado, sem
 	chances de se recu-
 	perar! É brilhante!
 	"""
@@ -211,7 +211,7 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E aí,será o fim do
+	E aí, será o fim do
 	MegaMan!
 	"""
 	keyWait

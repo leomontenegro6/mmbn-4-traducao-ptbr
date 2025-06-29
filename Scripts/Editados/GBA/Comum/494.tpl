@@ -9,7 +9,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Lan,esta área é
+	Lan, esta área é
 	meio diferente das
 	outras...
 	"""
@@ -31,7 +31,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Hmmm,eu também acho
+	Hmmm, eu também acho
 	que tem alguma coisa
 	estranha aqui.
 	"""
@@ -59,9 +59,9 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	É,a gente tem que ir
+	É, a gente tem que ir
 	em frente!
-	Vamos,MegaMan.
+	Vamos, MegaMan.
 	"""
 	keyWait
 		any = false

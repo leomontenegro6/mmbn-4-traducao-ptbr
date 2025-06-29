@@ -75,7 +75,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	Eu,o Sr. Famoso,
+	Eu, o Sr. Famoso,
 	lhe guiarei em uma
 	Batalha de Operação.
 	"""
@@ -334,7 +334,7 @@ script 16 mmbn4 {
 		mugshot = MrFamous
 	"""
 	Na Batalha de
-	Operação,você é
+	Operação, você é
 	o Operador!
 	"""
 	keyWait
@@ -366,7 +366,7 @@ script 16 mmbn4 {
 	clearMsg
 	"""
 	para a Esquerda e
-	Direita,alternar
+	Direita, alternar
 	táticas apertando
 	"""
 	keyWait
@@ -381,7 +381,7 @@ script 16 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,cuidado: a Barra
+	Mas, cuidado: a Barra
 	de Customiza vai se
 	gastar enquanto você
 	"""
@@ -421,7 +421,7 @@ script 16 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Porém,você só pode
+	Porém, você só pode
 	usar cada chip um
 	número seleto de
 	"""
@@ -430,7 +430,7 @@ script 16 mmbn4 {
 	clearMsg
 	"""
 	vez. Se você levar
-	dano,a sua barra vai
+	dano, a sua barra vai
 	se gastar...
 	"""
 	keyWait
@@ -446,7 +446,7 @@ script 16 mmbn4 {
 	clearMsg
 	"""
 	essenciais pra vitó-
-	ria! Por fim,o
+	ria! Por fim, o
 	botão "L"...
 	"""
 	keyWait

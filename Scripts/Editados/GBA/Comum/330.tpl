@@ -54,7 +54,7 @@ script 1 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Desculpe,mas,mais
+	Desculpe, mas, mais
 	baixo que isso,
 	impossível!
 	"""
@@ -101,7 +101,7 @@ script 2 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Melhor correr,então!"
+	"Melhor correr, então!"
 	keyWait
 		any = false
 	clearMsg
@@ -169,7 +169,7 @@ script 10 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Poxa,eu vim de tão
+	Poxa, eu vim de tão
 	longe pra chegar
 	aqui!
 	"""
@@ -178,7 +178,7 @@ script 10 mmbn4 {
 	clearMsg
 	"""
 	Não me faz implorar,
-	não,cara! Cadê o
+	não, cara! Cadê o
 	amor nesse coração?
 	"""
 	keyWait

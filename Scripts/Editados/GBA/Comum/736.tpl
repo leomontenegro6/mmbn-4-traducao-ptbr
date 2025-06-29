@@ -12,7 +12,7 @@ script 0 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Vai,acaba logo\ncomigo."
+	"Vai, acaba logo\ncomigo."
 	keyWait
 		any = false
 	clearMsg
@@ -194,7 +194,7 @@ script 10 mmbn4 {
 	clearMsg
 	"""
 	Que Navi estranho
-	você é,tendo pena
+	você é, tendo pena
 	de mim depois do que
 	"""
 	keyWait
@@ -341,7 +341,7 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	... Não era,não.
+	... Não era, não.
 	"""
 	keyWait
 		any = false
@@ -411,7 +411,7 @@ script 20 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	mas,na real...
+	mas, na real...
 	a gente tem muita
 	sorte.
 	"""
@@ -457,7 +457,7 @@ script 22 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Que foi,MegaMan?"
+	"Que foi, MegaMan?"
 	keyWait
 		any = false
 	clearMsg
@@ -476,7 +476,7 @@ script 23 mmbn4 {
 	clearMsg
 	"""
 	O corpo dele tá
-	quebrado,mas seu
+	quebrado, mas seu
 	espírito ainda vive!
 	"""
 	keyWait
@@ -489,9 +489,9 @@ script 24 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Então,talvez a gente
+	Então, talvez a gente
 	encontre ele de
-	novo,um dia!
+	novo, um dia!
 	"""
 	keyWait
 		any = false
@@ -507,7 +507,7 @@ script 25 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	JunkMan,tô ansioso
+	JunkMan, tô ansioso
 	pra gente se ver de
 	novo!
 	"""
@@ -519,7 +519,7 @@ script 26 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Não era,não.
+	Não era, não.
 	"""
 	keyWait
 		any = false

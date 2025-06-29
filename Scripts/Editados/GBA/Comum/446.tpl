@@ -16,7 +16,7 @@ script 1 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Foca,Lan!
+	Foca, Lan!
 	Ainda não acabou!
 	"""
 	keyWait
@@ -32,7 +32,7 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Bora de novo,Lan.
+	Bora de novo, Lan.
 	Você e eu!
 	"""
 	keyWait

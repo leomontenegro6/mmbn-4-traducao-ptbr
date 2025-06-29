@@ -48,7 +48,7 @@ script 3 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Bora,MegaMan!!"
+	"Bora, MegaMan!!"
 	keyWait
 		any = false
 	clearMsg

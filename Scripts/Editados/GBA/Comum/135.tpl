@@ -13,7 +13,7 @@ script 0 mmbn4 {
 	"""
 	Muito útil para se
 	situar por aqui,
-	e,em emergências,
+	e, em emergências,
 	"""
 	keyWait
 		any = false
@@ -75,7 +75,7 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mesmo agora,dados
+	Mesmo agora, dados
 	processados são
 	gravados.
 	"""
@@ -132,7 +132,7 @@ script 6 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Agora,tudo parece
+	Agora, tudo parece
 	em ordem!
 	"""
 	keyWait
@@ -162,7 +162,7 @@ script 8 mmbn4 {
 	msgOpen
 	"""
 	Foto de uma aurora
-	no céu,tirada em
+	no céu, tirada em
 	Sharo.
 	"""
 	keyWait

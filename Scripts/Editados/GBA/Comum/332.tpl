@@ -37,7 +37,7 @@ script 0 mmbn4 {
 	"""
 	Você vai estornar
 	10000 Zennys da
-	máquina de lavar,né?
+	máquina de lavar, né?
 	"""
 	keyWait
 		any = false
@@ -121,7 +121,7 @@ script 2 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Pronto,anotado!"
+	"Pronto, anotado!"
 	keyWait
 		any = false
 	end
@@ -131,7 +131,7 @@ script 5 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Poxa,não pode fazer
+	Poxa, não pode fazer
 	esse micro-ondas por
 	um preço menor?
 	"""
@@ -177,7 +177,7 @@ script 10 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Vai,dá um
+	Vai, dá um
 	descontinho no
 	micro-ondas!
 	"""
@@ -193,7 +193,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"S-sim,senhor!"
+	"S-sim, senhor!"
 	keyWait
 		any = false
 	clearMsg
@@ -214,7 +214,7 @@ script 11 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviBrown
-	"Ah,danado...!!"
+	"Ah, danado...!!"
 	keyWait
 		any = false
 	end
@@ -309,7 +309,7 @@ script 21 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Atenção,clientes!
+	Atenção, clientes!
 	Os Oficiais ordena-
 	ram uma evacuação!
 	"""

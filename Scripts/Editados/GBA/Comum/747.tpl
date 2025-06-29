@@ -12,7 +12,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Primeiro,represen-
+	Primeiro, represen-
 	tando Ni-Hon:
 	Lan Hikari!
 	"""
@@ -64,14 +64,14 @@ script 3 mmbn4 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	Vamos lá,Lan!
+	Vamos lá, Lan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Eu prometi a NetLuta
-	suprema,então,faça
+	suprema, então, faça
 	valer!
 	"""
 	keyWait

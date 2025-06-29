@@ -93,7 +93,7 @@ script 2 mmbn4 {
 			jump = continue
 		]
 	clearMsg
-	"ADEUS,ENTÃO."
+	"ADEUS, ENTÃO."
 	keyWait
 		any = false
 	end

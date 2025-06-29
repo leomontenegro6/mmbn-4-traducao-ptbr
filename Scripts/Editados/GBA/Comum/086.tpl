@@ -35,7 +35,7 @@ script 11 mmbn4 {
 	"""
 	A gente tem que
 	mudar o curso do
-	asteroide,senão...!
+	asteroide, senão...!
 	"""
 	keyWait
 		any = false
@@ -46,9 +46,9 @@ script 12 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Rápido,altera a
+	Rápido, altera a
 	trajetória do
-	asteroide,MegaMan!
+	asteroide, MegaMan!
 	"""
 	keyWait
 		any = false

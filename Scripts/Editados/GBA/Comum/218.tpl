@@ -46,7 +46,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	Rápido,MegaMan,
+	Rápido, MegaMan,
 	vá em frente!
 	"""
 	keyWait
@@ -70,7 +70,7 @@ script 1 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Chaud,tem outra
+	Chaud, tem outra
 	porta aqui!
 	"""
 	keyWait
@@ -131,7 +131,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Beleza,eu vou lá!
+	Beleza, eu vou lá!
 	É só eu procurar
 	nesse lugar!
 	"""
@@ -144,7 +144,7 @@ script 2 mmbn4 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Rápido,MegaMan!
+	Rápido, MegaMan!
 	Encontre a chave!
 	"""
 	keyWait

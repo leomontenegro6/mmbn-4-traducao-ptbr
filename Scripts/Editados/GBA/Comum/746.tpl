@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Ei,aonde os leões
+	Ei, aonde os leões
 	estão indo?!
 	"""
 	keyWait
@@ -110,7 +110,7 @@ script 9 mmbn4 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	Obrigado,Lan!
+	Obrigado, Lan!
 	Você nos salvou!
 	"""
 	keyWait
@@ -129,7 +129,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Ah,é!
+	Ah, é!
 	Eu vim te buscar,
 	Sr. Famoso!
 	"""
@@ -152,7 +152,7 @@ script 11 mmbn4 {
 		mugshot = MrFamous
 	"""
 	É mesmo?!
-	Então,pernas pra que
+	Então, pernas pra que
 	te quero!
 	"""
 	keyWait

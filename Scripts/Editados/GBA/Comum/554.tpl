@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Vai,MegaMan!"
+	"Vai, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -107,7 +107,7 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Regal
 	"""
-	A esta altura,só
+	A esta altura, só
 	há um jeito de
 	remediar isso.
 	"""

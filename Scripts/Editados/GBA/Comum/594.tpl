@@ -58,7 +58,7 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Tá,mas,ainda\nassim..."
+	"Tá, mas, ainda\nassim..."
 	keyWait
 		any = false
 	clearMsg
@@ -84,7 +84,7 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Alô? Sou eu,ô!
+	Alô? Sou eu, ô!
 	Quem mais você acha
 	que ligaria?!
 	"""
@@ -136,7 +136,7 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Enfim,o Chefe
+	Enfim, o Chefe
 	concordou em falar
 	com o Tensuke.
 	"""
@@ -152,8 +152,8 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	O que já tá bom,né?
-	Você conseguiu,bom
+	O que já tá bom, né?
+	Você conseguiu, bom
 	trabalho.
 	"""
 	keyWait

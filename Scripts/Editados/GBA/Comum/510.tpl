@@ -6,12 +6,12 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	Ué? Emperrando
-	assim,do nada...
+	assim, do nada...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Não se mova,senhor,\npor favor."
+	"Não se mova, senhor, \npor favor."
 	keyWait
 		any = false
 	end

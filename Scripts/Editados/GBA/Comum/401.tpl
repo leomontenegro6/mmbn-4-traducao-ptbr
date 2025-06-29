@@ -8,7 +8,7 @@ script 130 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGold
 	msgOpen
-	"BRILHA,BRILHA..."
+	"BRILHA, BRILHA..."
 	keyWait
 		any = false
 	end

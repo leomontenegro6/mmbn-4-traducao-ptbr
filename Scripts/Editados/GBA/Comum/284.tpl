@@ -52,7 +52,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Todo ano,pessoas
+	Todo ano, pessoas
 	de todo o mundo vêm
 	nos visitar!
 	"""
@@ -100,7 +100,7 @@ script 3 mmbn4 {
 	msgOpen
 	"""
 	Além daqui ficam as
-	RuínasSabo,que têm
+	RuínasSabo, que têm
 	mais de 1500 anos.
 	"""
 	keyWait
@@ -167,14 +167,14 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Lá,velhos dados
+	Lá, velhos dados
 	são reunidos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	e,então,reciclados
+	e, então, reciclados
 	por outro programa.
 	"""
 	keyWait
@@ -201,7 +201,7 @@ script 12 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ah,é tão chato aqui!
+	Ah, é tão chato aqui!
 	"""
 	keyWait
 		any = false
@@ -214,14 +214,14 @@ script 13 mmbn4 {
 	"""
 	As ruínas são finan-
 	ciadas pelas vendas
-	de souvenirs,mas
+	de souvenirs, mas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	quanto mais turistas
-	vêm,mais rapidamente
+	vêm, mais rapidamente
 	as ruínas se
 	"""
 	keyWait
@@ -265,7 +265,7 @@ script 21 mmbn4 {
 	msgOpen
 	"""
 	Eu fui na Rede jogar
-	um lixo fora,e um
+	um lixo fora, e um
 	Oficial me expulsou!
 	"""
 	keyWait
@@ -326,7 +326,7 @@ script 23 mmbn4 {
 	"""
 	Como agiu antes do
 	terremoto nos atin-
-	gir,há uns anos...
+	gir, há uns anos...
 	"""
 	keyWait
 		any = false
@@ -530,7 +530,7 @@ script 141 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Por favor,prossiga."
+	"Por favor, prossiga."
 	keyWait
 		any = false
 	flagSet

@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Oi,Sal!
+	Oi, Sal!
 	Há quanto tempo!
 	"""
 	keyWait
@@ -18,7 +18,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Sal
 	"""
-	Oi,Lan! Como tem
+	Oi, Lan! Como tem
 	passado? Que bom
 	que pôde vir.
 	"""
@@ -36,8 +36,8 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Olha,não vamos nos
-	segurar na luta,viu,
+	Olha, não vamos nos
+	segurar na luta, viu,
 	Sal?
 	"""
 	keyWait
@@ -49,7 +49,7 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = Sal
-	"Claro,né?"
+	"Claro, né?"
 	keyWait
 		any = false
 	clearMsg
@@ -93,7 +93,7 @@ script 5 mmbn4 {
 	"......\n"
 	mugshotAnimation
 		animation = 2
-	"Nossa,que fome."
+	"Nossa, que fome."
 	keyWait
 		any = false
 	clearMsg
@@ -111,7 +111,7 @@ script 6 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	É 100% caseira,feita
+	É 100% caseira, feita
 	com os melhores
 	ingredientes.
 	"""
@@ -124,7 +124,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Ah,valeu!"
+	"Ah, valeu!"
 	keyWait
 		any = false
 	clearMsg
@@ -150,7 +150,7 @@ script 8 mmbn4 {
 	clearMsg
 	"""
 	A comida que você
-	faz é sem igual,Sal!
+	faz é sem igual, Sal!
 	"""
 	keyWait
 		any = false
@@ -164,7 +164,7 @@ script 9 mmbn4 {
 	"""
 	E ficam ainda mais
 	gostosas ao ar
-	livre,né?
+	livre, né?
 	"""
 	keyWait
 		any = false
@@ -239,7 +239,7 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	mugshotShow
 		mugshot = BusinessMan
-	"Sim,senhor!"
+	"Sim, senhor!"
 	keyWait
 		any = false
 	end
@@ -287,7 +287,7 @@ script 16 mmbn4 {
 		mugshot = Sal
 	msgOpen
 	"""
-	Ah,desculpa.
+	Ah, desculpa.
 	Parece que chegou
 	e-mail para mim.
 	"""
@@ -343,7 +343,7 @@ script 19 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Desculpa,Lan,mas
+	Desculpa, Lan, mas
 	tenho que ir. Surgiu
 	um assunto urgente.
 	"""
@@ -370,8 +370,8 @@ script 21 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Bom,agora EU tô
-	preocupado,também...
+	Bom, agora EU tô
+	preocupado, também...
 	"""
 	keyWait
 		any = false

@@ -5,7 +5,7 @@ script 30 mmbn4 {
 		mugshot = Woman
 	msgOpen
 	"""
-	Nossa,que lindo!
+	Nossa, que lindo!
 	"""
 	keyWait
 		any = false

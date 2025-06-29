@@ -8,13 +8,13 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Fala aê,Lan!"
+	"Fala aê, Lan!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"E aí,Dex!"
+	"E aí, Dex!"
 	keyWait
 		any = false
 	clearMsg
@@ -37,7 +37,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	mas depois disso,tô
+	mas depois disso, tô
 	livre!
 	"""
 	keyWait
@@ -64,7 +64,7 @@ script 0 mmbn4 {
 		mugshot = Lan
 	"""
 	Beleza!
-	Até lá,então.
+	Até lá, então.
 	"""
 	keyWait
 		any = false
@@ -129,7 +129,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = OrangeShirtBoy
 	msgOpen
-	"Posso te fazer uma\npergunta,Lan?"
+	"Posso te fazer uma\npergunta, Lan?"
 	keyWait
 		any = false
 	clearMsg
@@ -171,7 +171,7 @@ script 3 mmbn4 {
 	clearMsg
 	"""
 	Vá em "Editar
-	pasta",deixe o
+	pasta", deixe o
 	cursor sobre o chip
 	"""
 	keyWait
@@ -294,7 +294,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = YoungWoman
 	"""
-	Bom,pois escuta só.
+	Bom, pois escuta só.
 	"""
 	keyWait
 		any = false
@@ -341,7 +341,7 @@ script 4 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"E aí,me saí bem?"
+	"E aí, me saí bem?"
 	keyWait
 		any = false
 	flagSet
@@ -354,7 +354,7 @@ script 5 mmbn4 {
 	msgOpen
 	"""
 	Você já sabe?
-	Ah,que pena!
+	Ah, que pena!
 	"""
 	keyWait
 		any = false
@@ -384,7 +384,7 @@ script 6 mmbn4 {
 	clearMsg
 	"""
 	Dá para usá-los para
-	mandar e-mails,fazer
+	mandar e-mails, fazer
 	ligações
 	"""
 	keyWait
@@ -411,7 +411,7 @@ script 6 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Sabe,quando se rece-
+	Sabe, quando se rece-
 	be um e-mail e se
 	seleciona ele na
 	"""
@@ -419,19 +419,19 @@ script 6 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	tela,o seu Navi o
+	tela, o seu Navi o
 	abre pra você!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Da hora,né?"
+	"Da hora, né?"
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Para acessar a tela
-	do PET,é só apertar
+	do PET, é só apertar
 	"Start".
 	"""
 	keyWait
@@ -457,7 +457,7 @@ script 10 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Qual é a boa,Lan?
+	Qual é a boa, Lan?
 	Cê parece mó
 	estressado!
 	"""
@@ -471,7 +471,7 @@ script 10 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Credo,Lan! Grosso!"
+	"Credo, Lan! Grosso!"
 	keyWait
 		any = false
 	end
@@ -506,7 +506,7 @@ script 13 mmbn4 {
 	msgOpen
 	"""
 	Eu fui na Rede ainda
-	agora,e tá tudo o
+	agora, e tá tudo o
 	maior caos!
 	"""
 	keyWait
@@ -555,7 +555,7 @@ script 17 mmbn4 {
 	clearMsg
 	"""
 	Não sei o que acon-
-	teceu,mas você pre-
+	teceu, mas você pre-
 	cisa se acalmar!
 	"""
 	keyWait
@@ -588,8 +588,8 @@ script 25 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Então,a Roll tá bem?
-	Ufa,que alívio!
+	Então, a Roll tá bem?
+	Ufa, que alívio!
 	"""
 	keyWait
 		any = false
@@ -630,7 +630,7 @@ script 28 mmbn4 {
 	msgOpen
 	"""
 	Seja lá quem atacou
-	aquela Navi,ainda
+	aquela Navi, ainda
 	está à solta.
 	"""
 	keyWait
@@ -662,7 +662,7 @@ script 35 mmbn4 {
 	clearMsg
 	"""
 	Hã? Você vai se
-	inscrever,Lan? Show!
+	inscrever, Lan? Show!
 	"""
 	keyWait
 		any = false
@@ -673,7 +673,7 @@ script 36 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Agora,a loja do
+	Agora, a loja do
 	Higsby tem uma
 	funcionária linda!
 	"""
@@ -715,7 +715,7 @@ script 38 mmbn4 {
 	clearMsg
 	"""
 	Hã? Você vai estar
-	nele,Lan? Show!
+	nele, Lan? Show!
 	"""
 	keyWait
 		any = false
@@ -756,7 +756,7 @@ script 40 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Eu devia ter\ntentado,também!"
+	"Eu devia ter\ntentado, também!"
 	keyWait
 		any = false
 	end
@@ -814,7 +814,7 @@ script 42 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Nada mal,garoto!
+	Nada mal, garoto!
 	Já eu não achei a
 	Vila Mettaur...
 	"""
@@ -829,7 +829,7 @@ script 45 mmbn4 {
 	"""
 	Você passou na
 	primeira rodada?
-	Aê,Lan!
+	Aê, Lan!
 	"""
 	keyWait
 		any = false
@@ -857,7 +857,7 @@ script 47 mmbn4 {
 	msgOpen
 	"""
 	Quanto mais você
-	avança,mais acirrada
+	avança, mais acirrada
 	fica a competição.
 	"""
 	keyWait
@@ -865,7 +865,7 @@ script 47 mmbn4 {
 	clearMsg
 	"""
 	Você dá conta do
-	recado,jovem?
+	recado, jovem?
 	"""
 	keyWait
 		any = false
@@ -986,7 +986,7 @@ script 143 mmbn4 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Então,o Tensuke está
+	Então, o Tensuke está
 	falando sério mesmo.
 	"""
 	keyWait
@@ -1019,12 +1019,12 @@ script 144 mmbn4 {
 	msgOpen
 	"""
 	Tomamos a decisão
-	juntos,então,
+	juntos, então,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"boa sorte,meu filho!"
+	"boa sorte, meu filho!"
 	keyWait
 		any = false
 	end
@@ -1034,7 +1034,7 @@ script 145 mmbn4 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Muito bem,rapaz.
+	Muito bem, rapaz.
 	Passou no teste.
 	Você tem talento!
 	"""
@@ -1059,7 +1059,7 @@ script 147 mmbn4 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	De saída de novo,já?
+	De saída de novo, já?
 	As crianças de hoje
 	são tão ocupadas!
 	"""
@@ -1145,7 +1145,7 @@ script 220 mmbn4 {
 }
 script 221 mmbn4 {
 	clearMsg
-	"\"Quem se prepara,\n não tem com o que\n se preocupar.\""
+	"\"Quem se prepara, \n não tem com o que\n se preocupar.\""
 	keyWait
 		any = false
 	clearMsg
@@ -1173,7 +1173,7 @@ script 230 mmbn4 {
 	msgOpen
 	"""
 	Essa é a casa da
-	Mayl,Lan.
+	Mayl, Lan.
 	"""
 	keyWait
 		any = false
@@ -1191,7 +1191,7 @@ script 231 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,o Dex não tá
+	Lan, o Dex não tá
 	bem ali?
 	"""
 	keyWait
@@ -1211,7 +1211,7 @@ script 232 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	A casa da Yai,linda
+	A casa da Yai, linda
 	como sempre.
 	"""
 	keyWait
@@ -1219,7 +1219,7 @@ script 232 mmbn4 {
 	clearMsg
 	"""
 	Eu também queria
-	entrar nela,mas
+	entrar nela, mas
 	não temos tempo!
 	"""
 	keyWait

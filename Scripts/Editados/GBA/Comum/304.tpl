@@ -33,7 +33,7 @@ script 0 mmbn4 {
 	clearMsg
 	"""
 	Nem imagino o que
-	acontecerá,mas está
+	acontecerá, mas está
 	pronto para ir?
 	"""
 	keyWait

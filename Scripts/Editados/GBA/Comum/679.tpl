@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Ô,tá pensando que
+	Ô, tá pensando que
 	isto aqui é a casa
 	da mãe Joana?!
 	"""
@@ -35,7 +35,7 @@ script 2 mmbn4 {
 	msgOpen
 	"""
 	Argh! De onde foi
-	que cê saiu,hein?!
+	que cê saiu, hein?!
 	Vaza daqui!
 	"""
 	keyWait

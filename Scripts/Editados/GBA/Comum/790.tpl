@@ -50,7 +50,7 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Perante mim,mentiras
+	Perante mim, mentiras
 	e falsidades são
 	insignificantes.
 	"""
@@ -150,7 +150,7 @@ script 9 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,agora,você a
+	Mas, agora, você a
 	sente em sua forma
 	mais pura e livre.
 	"""
@@ -213,7 +213,7 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Lan,lá vem!!"
+	"Lan, lá vem!!"
 	keyWait
 		any = false
 	clearMsg

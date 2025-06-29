@@ -36,7 +36,7 @@ script 2 mmbn4 {
 		item = 33
 	"""
 	"?!
-	Ah,aí está...
+	Ah, aí está...
 	"""
 	keyWait
 		any = false
@@ -142,7 +142,7 @@ script 20 mmbn4 {
 	msgOpen
 	"""
 	TER TEMPO LIVRE É
-	TÃO BOM,MAS TAMBÉM
+	TÃO BOM, MAS TAMBÉM
 	TÃO CHATO...
 	"""
 	keyWait
@@ -172,7 +172,7 @@ script 26 mmbn4 {
 	msgOpen
 	"""
 	SE EU SEGUIR NESTA
-	ESTRADA,ELA ME
+	ESTRADA, ELA ME
 	LEVARÁ A ACDC 1.
 	"""
 	keyWait
@@ -215,7 +215,7 @@ script 30 mmbn4 {
 	clearMsg
 	"""
 	ESTA ÁREA É LIGADA A
-	UMA DELAS,ENTÃO PODE
+	UMA DELAS, ENTÃO PODE
 	SER PERIGOSO AQUI...
 	"""
 	keyWait
@@ -240,7 +240,7 @@ script 32 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Felizmente,Ni-Hon
+	Felizmente, Ni-Hon
 	não sofreu estragos,
 	"""
 	keyWait
@@ -266,7 +266,7 @@ script 35 mmbn4 {
 	"""
 	UM NAVI ASSUSTADOR
 	VEIO DA ÁREA SABO-
-	RYA,NOCAUTEOU
+	RYA, NOCAUTEOU
 	"""
 	keyWait
 		any = false
@@ -348,7 +348,7 @@ script 45 mmbn4 {
 	clearMsg
 	"""
 	E É ISSO QUE FAREI!
-	PODE VIR,BANDIDO!
+	PODE VIR, BANDIDO!
 	"""
 	keyWait
 		any = false

@@ -26,7 +26,7 @@ script 2 mmbn4 {
 		mugshot = MegaMan
 	"""
 	Essas árvores foram
-	obra sua,não foram?
+	obra sua, não foram?
 	"""
 	keyWait
 		any = false
@@ -73,8 +73,8 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Sei que,no fim de
-	tudo,ela vai
+	Sei que, no fim de
+	tudo, ela vai
 	entender!
 	"""
 	keyWait
@@ -86,12 +86,12 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Não vai,não!"
+	"Não vai, não!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WoodMan,você tá
+	WoodMan, você tá
 	participando de
 	um crime!
 	"""
@@ -160,7 +160,7 @@ script 8 mmbn4 {
 	"""
 	WoodMan!
 	Livre-se desse
-	intruso,agora!
+	intruso, agora!
 	"""
 	keyWait
 		any = false
@@ -282,13 +282,13 @@ script 14 mmbn4 {
 		mugshot = WoodMan
 	"""
 	Sim. Vamos lutar com
-	tudo,você e eu.
+	tudo, você e eu.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mas,primeiro,eu vou
+	Mas, primeiro, eu vou
 	voltar pra Sal!
 	"""
 	keyWait

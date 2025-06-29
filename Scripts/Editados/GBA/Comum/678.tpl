@@ -6,7 +6,7 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	Eu sabia que conse-
-	guiria,Mega! Mas
+	guiria, Mega! Mas
 	consegue de novo?
 	"""
 	keyWait

@@ -28,7 +28,7 @@ script 130 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Lan,por acaso você
+	Lan, por acaso você
 	viu o Sr. Match por
 	aí?
 	"""
@@ -47,7 +47,7 @@ script 130 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	Sim,estou. Parece
+	Sim, estou. Parece
 	que ele deixou cair
 	isto aqui.
 	"""
@@ -57,7 +57,7 @@ script 130 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Se quiser,posso
+	Se quiser, posso
 	entregar pra ele
 	por você!
 	"""

@@ -5,7 +5,7 @@ script 0 mmbn4 {
 	"""
 	É um traje espacial
 	para exposição. Por
-	isso,é extra-grande.
+	isso, é extra-grande.
 	"""
 	keyWait
 		any = false

@@ -10,15 +10,15 @@ script 0 mmbn4 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Eu sabia que,um dia,
+	Eu sabia que, um dia,
 	cê ia desafiar o
-	mundo,Lan.
+	mundo, Lan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ainda assim,que
+	Ainda assim, que
 	inveja!
 	"""
 	keyWait
@@ -52,14 +52,14 @@ script 5 mmbn4 {
 	"""
 	O Torneio Sol
 	Vermelho vai ser lá
-	na Ameropa,né?
+	na Ameropa, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Ah... Só queria
-	saber,mesmo...
+	saber, mesmo...
 	"""
 	keyWait
 		any = false
@@ -92,14 +92,14 @@ script 7 mmbn4 {
 	"""
 	O Torneio Lua Azul
 	vai ser lá na
-	Ameropa,né?
+	Ameropa, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Ah... Só queria
-	saber,mesmo...
+	saber, mesmo...
 	"""
 	keyWait
 		any = false
@@ -129,7 +129,7 @@ script 10 mmbn4 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Cê,finalmente,é
+	Cê, finalmente, é
 	o campeão mundial...
 	AÊÊÊÊ!
 	"""
@@ -137,7 +137,7 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Cara,aquilo lá com
+	Cara, aquilo lá com
 	o helicóptero foi
 	o bicho também!
 	"""
@@ -178,7 +178,7 @@ script 20 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,se tá,sei que cê
+	Mas, se tá, sei que cê
 	consegue resolver,
 	Lan.
 	"""
@@ -207,7 +207,7 @@ script 25 mmbn4 {
 	mugshotAnimation
 		animation = 2
 	"""
-	Lan,MegaMan,
+	Lan, MegaMan,
 	conto com vocês!
 	"""
 	keyWait

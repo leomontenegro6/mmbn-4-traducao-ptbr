@@ -6,7 +6,7 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	Ainda tá cedo demais
-	pra luta,Lan!
+	pra luta, Lan!
 	"""
 	keyWait
 		any = false
@@ -17,7 +17,7 @@ script 1 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,vamos atrás do
+	Lan, vamos atrás do
 	Sr. Famoso!
 	"""
 	keyWait

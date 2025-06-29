@@ -79,7 +79,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	DESDE JÁ,AGRADEÇO
+	DESDE JÁ, AGRADEÇO
 	POR PENSAR NO CASO!
 	"""
 	keyWait
@@ -132,7 +132,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	BOM,ATIVAREI O
+	BOM, ATIVAREI O
 	LINK AGORA!
 	"""
 	keyWait
@@ -340,7 +340,7 @@ script 16 mmbn4 {
 	clearMsg
 	"""
 	NetLuta.
-	Não é mole,não!
+	Não é mole, não!
 	"""
 	keyWait
 		any = false
@@ -419,7 +419,7 @@ script 25 mmbn4 {
 	clearMsg
 	"""
 	Tô ansioso! Como eu
-	não me inscrevi,vou
+	não me inscrevi, vou
 	acompanhar de boas!
 	"""
 	keyWait
@@ -453,7 +453,7 @@ script 27 mmbn4 {
 	clearMsg
 	"""
 	Mas nunca NetLutei
-	na vida,acredita?
+	na vida, acredita?
 	"""
 	keyWait
 		any = false

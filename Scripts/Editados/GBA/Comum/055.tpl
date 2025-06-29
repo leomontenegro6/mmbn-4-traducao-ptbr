@@ -349,7 +349,7 @@ script 25 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Reto,mais
+	Reto, mais
 	forte so-
 	bre magma
 	"""
@@ -363,7 +363,7 @@ script 26 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Reto,mais
+	Reto, mais
 	forte so-
 	bre gelo
 	"""
@@ -604,7 +604,7 @@ script 43 mmbn4 {
 		delay = 0
 	"""
 	Baforada
-	Mdra,cria
+	Mdra, cria
 	grama
 	"""
 	keyWait

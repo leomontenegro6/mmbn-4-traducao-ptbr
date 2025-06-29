@@ -19,14 +19,14 @@ script 1 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	controlLock
-	"Ah,voltou a se\nmover."
+	"Ah, voltou a se\nmover."
 	wait
 		frames = 60
 	clearMsg
 	spriteRotate
 		sprite = 0
 		direction = 1
-	"Calma,rapaz. Não tem"
+	"Calma, rapaz. Não tem"
 	wait
 		frames = 10
 	"\npor que ficar tão\npreocupado!"
@@ -39,7 +39,7 @@ script 1 mmbn4 {
 	"É 100% seguro"
 	wait
 		frames = 10
-	"\naqui,na jangada!"
+	"\naqui, na jangada!"
 	wait
 		frames = 10
 	"\nJuro que é!"

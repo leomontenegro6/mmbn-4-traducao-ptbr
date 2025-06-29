@@ -9,7 +9,7 @@ script 0 mmbn4 {
 		frames = 70
 	clearMsg
 	"""
-	Lan,o vento tá um
+	Lan, o vento tá um
 	absurdo!
 	"""
 	wait

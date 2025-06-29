@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = Tensuke
 	msgOpen
 	"""
-	Aqui vou eu,Kosuke!
+	Aqui vou eu, Kosuke!
 	Veja com atenção!
 	"""
 	keyWait
@@ -39,7 +39,7 @@ script 3 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	É um pião,né,Lan?
+	É um pião, né, Lan?
 	E um bem diferente.
 	"""
 	keyWait
@@ -71,7 +71,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Tensuke
 	"""
-	E aí,Kosuke,o que
+	E aí, Kosuke, o que
 	achou do CybrPião
 	especial do seu avô?
 	"""
@@ -137,7 +137,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Kosuke
 	"""
-	Vovô,eu tô cheio de
+	Vovô, eu tô cheio de
 	todos esses piões o
 	tempo todo!
 	"""
@@ -219,7 +219,7 @@ script 15 mmbn4 {
 		mugshot = Lan
 	"""
 	Ah!
-	Vamos lá,MegaMan!
+	Vamos lá, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -235,7 +235,7 @@ script 16 mmbn4 {
 	"Conectar!!"
 	wait
 		frames = 10
-	"\nMegaMan.EXE,\ntransmissão!"
+	"\nMegaMan.EXE, \ntransmissão!"
 	wait
 		frames = 30
 	controlUnlock

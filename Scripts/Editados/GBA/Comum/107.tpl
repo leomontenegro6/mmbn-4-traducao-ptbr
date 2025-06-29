@@ -92,7 +92,7 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Infelizmente,não dá
+	Infelizmente, não dá
 	para se conectar
 	nele.
 	"""
@@ -124,7 +124,7 @@ script 7 mmbn4 {
 	msgOpen
 	"""
 	Um arranjo simples
-	de flores,porém,
+	de flores, porém,
 	transbordando vida.
 	"""
 	keyWait

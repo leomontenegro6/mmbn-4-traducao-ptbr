@@ -6,7 +6,7 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	Dou as boas-vindas a
-	vocês,cientistas de
+	vocês, cientistas de
 	todos os países,
 	"""
 	keyWait
@@ -79,7 +79,7 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	em poucos meses,ele
+	em poucos meses, ele
 	colidirá com o nosso
 	planeta.
 	"""
@@ -131,7 +131,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
 	"""
-	Sim. E agora,nós
+	Sim. E agora, nós
 	também estamos
 	diante da extinção!
 	"""
@@ -139,7 +139,7 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Contudo,não somos
+	Contudo, não somos
 	como os dinossauros.
 	"""
 	keyWait
@@ -203,7 +203,7 @@ script 8 mmbn4 {
 	clearMsg
 	"""
 	Sua reputação é pés-
-	sima,mas sua ciência
+	sima, mas sua ciência
 	é sem igual...
 	"""
 	keyWait
@@ -211,14 +211,14 @@ script 8 mmbn4 {
 	clearMsg
 	"""
 	Seria um inimigo
-	horrível,mas,agora,
+	horrível, mas, agora,
 	é nossa esperança...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Com ele,nossas
+	Com ele, nossas
 	defesas ficarão
 	impecáveis.)
 	"""
@@ -243,7 +243,7 @@ script 9 mmbn4 {
 	clearMsg
 	"""
 	Partilhamos do mesmo
-	mundo,e devemos
+	mundo, e devemos
 	protegê-lo juntos.
 	"""
 	wait
@@ -281,7 +281,7 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Por favor,venham
+	Por favor, venham
 	comigo ao segundo
 	andar.
 	"""
@@ -330,7 +330,7 @@ script 14 mmbn4 {
 	clearMsg
 	"""
 	poderemos mudar sua
-	rota,tirando-nos
+	rota, tirando-nos
 	dela.
 	"""
 	keyWait
@@ -350,7 +350,7 @@ script 15 mmbn4 {
 		mugshot = Regal
 	msgOpen
 	"""
-	O que acham,amigos?
+	O que acham, amigos?
 	Eu voto no plano do
 	Dr. Hikari.
 	"""
@@ -364,7 +364,7 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	S-sim,pode mesmo
+	S-sim, pode mesmo
 	funcionar.
 	"""
 	keyWait
@@ -402,7 +402,7 @@ script 18 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Sem demora,gente!
+	Sem demora, gente!
 	Ao trabalho!
 	"""
 	keyWait

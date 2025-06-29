@@ -6,7 +6,7 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	Clinc Clanc Clunk...
-	Pronto,isso deve
+	Pronto, isso deve
 	resolver.
 	"""
 	keyWait
@@ -87,7 +87,7 @@ script 5 mmbn4 {
 	"""
 	Você deletou os
 	vírus que tavam
-	aqui,não foi?
+	aqui, não foi?
 	"""
 	keyWait
 		any = false
@@ -154,7 +154,7 @@ script 9 mmbn4 {
 	msgOpen
 	"""
 	Eu acho que você tem
-	razão,Sr. Match.
+	razão, Sr. Match.
 	"""
 	keyWait
 		any = false
@@ -169,7 +169,7 @@ script 9 mmbn4 {
 	clearMsg
 	"""
 	Existe um lugar pra
-	tudo,não é?!
+	tudo, não é?!
 	"""
 	keyWait
 		any = false
@@ -182,7 +182,7 @@ script 10 mmbn4 {
 		mugshot = MrMatch
 	"""
 	Concordo plenamente.
-	E você,Lan?
+	E você, Lan?
 	"""
 	keyWait
 		any = false
@@ -204,7 +204,7 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	"""
-	Bom,está quase na
+	Bom, está quase na
 	hora da luta.
 	Estou de saída.
 	"""
@@ -267,8 +267,8 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = HotDogLady
 	"""
-	Não,nem imaginava.
-	O torneio,é...?
+	Não, nem imaginava.
+	O torneio, é...?
 	"""
 	keyWait
 		any = false
@@ -287,8 +287,8 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Ah,eu também preciso
-	ir logo! Poxa,nem
+	Ah, eu também preciso
+	ir logo! Poxa, nem
 	deu pra comer um
 	"""
 	keyWait
@@ -297,7 +297,7 @@ script 16 mmbn4 {
 	"""
 	cachorro-quente...
 	Nngh...
-	Enfim,tchau!
+	Enfim, tchau!
 	"""
 	keyWait
 		any = false

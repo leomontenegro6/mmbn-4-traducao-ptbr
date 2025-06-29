@@ -5,7 +5,7 @@ script 0 mmbn4 {
 	soundDisableTextSFX
 	soundPlay
 		track = 232
-	"Tap,tap,tap,tap..."
+	"Tap, tap, tap, tap..."
 	wait
 		frames = 70
 	soundEnableTextSFX

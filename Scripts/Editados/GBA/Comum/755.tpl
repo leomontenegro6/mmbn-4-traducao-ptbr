@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	É,eram esses vírus
+	É, eram esses vírus
 	mesmo que tavam
 	causando isso.
 	"""
@@ -19,7 +19,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Rápido,MegaMan,usa a
+	Rápido, MegaMan, usa a
 	"
 	"""
 	printItem
@@ -73,7 +73,7 @@ script 5 mmbn4 {
 		mugshot = Lan
 	"""
 	Beleza!
-	Mandou bem,MegaMan!
+	Mandou bem, MegaMan!
 	"""
 	keyWait
 		any = false

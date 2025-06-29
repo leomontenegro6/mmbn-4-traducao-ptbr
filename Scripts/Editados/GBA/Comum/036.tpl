@@ -235,7 +235,7 @@ script 10 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Foi mal,garoto.
+	Foi mal, garoto.
 	Acabaram as minhas
 	mercadorias!
 	"""

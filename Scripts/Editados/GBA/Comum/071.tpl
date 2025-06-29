@@ -136,7 +136,7 @@ script 27 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,bora falar com
+	Lan, bora falar com
 	o Navi Oficial na
 	Área Ameropa!
 	"""
@@ -182,7 +182,7 @@ script 31 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,a gente tem que
+	Lan, a gente tem que
 	ir ver o papai!
 	"""
 	keyWait
@@ -196,7 +196,7 @@ script 32 mmbn4 {
 	"""
 	Quando tiver pronto,
 	bora voltar pra
-	NAXA,Lan!
+	NAXA, Lan!
 	"""
 	keyWait
 		any = false
@@ -301,7 +301,7 @@ script 102 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Pronto,4 provas.
+	Pronto, 4 provas.
 	Agora vamos achar
 	o "
 	"""
@@ -401,7 +401,7 @@ script 111 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,vamos ler o
+	Lan, vamos ler o
 	e-mail!
 	"""
 	keyWait
@@ -462,7 +462,7 @@ script 115 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Pro Coliseu,Lan!
+	Pro Coliseu, Lan!
 	"""
 	keyWait
 		any = false
@@ -550,9 +550,9 @@ script 126 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Fala,Lan! Esquece
+	Fala, Lan! Esquece
 	esse torneio aí!
-	Se rende logo,ô!
+	Se rende logo, ô!
 	"""
 	keyWait
 		any = false
@@ -570,7 +570,7 @@ script 126 mmbn4 {
 		mugshot = MegaMan
 	"""
 	Tá falando com eu,
-	moleque? É,eu sô
+	moleque? É, eu sô
 	o MegaMan sim!
 	"""
 	keyWait
@@ -606,7 +606,7 @@ script 127 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Tu tá virado,guri?
+	Tu tá virado, guri?
 	Claro que sô!
 	"""
 	keyWait
@@ -629,9 +629,9 @@ script 128 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Para com isso,ô!
+	Para com isso, ô!
 	Tá duvidando da min'
-	identidade,é?
+	identidade, é?
 	"""
 	keyWait
 		any = false
@@ -678,7 +678,7 @@ script 128 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"3,5\n"
+	"3, 5\n"
 	positionOptionVertical
 		width = 4
 	option
@@ -689,7 +689,7 @@ script 128 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"7,5"
+	"7, 5"
 	select
 		default = 0
 		noDelay = false
@@ -714,7 +714,7 @@ script 128 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Beleza,e qual é
+	Beleza, e qual é
 	a minha comida
 	favorita?
 	"""
@@ -771,8 +771,8 @@ script 128 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	É,com muita maionese
-	e ketchup! Ah,bateu
+	É, com muita maionese
+	e ketchup! Ah, bateu
 	uma fome...
 	"""
 	keyWait
@@ -840,7 +840,7 @@ script 128 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Ah,claro que foi...
+	Ah, claro que foi...
 	Er... este sujeito
 	aqui. É!
 	"""
@@ -867,7 +867,7 @@ script 128 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Argh! Espertinho,\nvocê..."
+	"Argh! Espertinho, \nvocê..."
 	keyWait
 		any = false
 	clearMsg
@@ -897,7 +897,7 @@ script 128 mmbn4 {
 	mugshotShow
 		mugshot = JunkMan
 	"""
-	A esta altura,o chip
+	A esta altura, o chip
 	de identificação
 	dele já virou uma
 	"""
@@ -922,7 +922,7 @@ script 128 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = JunkMan
-	"Quem,eu?"
+	"Quem, eu?"
 	keyWait
 		any = false
 	clearMsg
@@ -930,7 +930,7 @@ script 128 mmbn4 {
 		mugshot = Lan
 	"""
 	Claro! E se não
-	gostar,eu mesmo te
+	gostar, eu mesmo te
 	opero pra pegar!
 	"""
 	keyWait
@@ -941,7 +941,7 @@ script 128 mmbn4 {
 	"""
 	Quero ver cê tentar!
 	Mas eu não tô a fim
-	de cooperar,não!
+	de cooperar, não!
 	"""
 	keyWait
 		any = false
@@ -949,7 +949,7 @@ script 128 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Tá bom,então!
+	Tá bom, então!
 	"""
 	keyWait
 		any = false
@@ -970,9 +970,9 @@ script 128 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Ora,seu... Quando
+	Ora, seu... Quando
 	eu mando você ir,
-	é pra ir,caramba!
+	é pra ir, caramba!
 	"""
 	keyWait
 		any = false
@@ -1002,7 +1002,7 @@ script 129 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Argh! Espertinho,\nvocê..."
+	"Argh! Espertinho, \nvocê..."
 	keyWait
 		any = false
 	clearMsg
@@ -1032,7 +1032,7 @@ script 129 mmbn4 {
 	mugshotShow
 		mugshot = JunkMan
 	"""
-	A esta altura,o chip
+	A esta altura, o chip
 	de identificação
 	dele já virou uma
 	"""
@@ -1057,7 +1057,7 @@ script 129 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = JunkMan
-	"Quem,eu?"
+	"Quem, eu?"
 	keyWait
 		any = false
 	clearMsg
@@ -1065,7 +1065,7 @@ script 129 mmbn4 {
 		mugshot = Lan
 	"""
 	Claro! E se não
-	gostar,eu mesmo te
+	gostar, eu mesmo te
 	opero pra pegar!
 	"""
 	keyWait
@@ -1076,7 +1076,7 @@ script 129 mmbn4 {
 	"""
 	Quero ver cê tentar!
 	Mas eu não tô a fim
-	de cooperar,não!
+	de cooperar, não!
 	"""
 	keyWait
 		any = false
@@ -1084,7 +1084,7 @@ script 129 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Tá bom,então!
+	Tá bom, então!
 	"""
 	keyWait
 		any = false
@@ -1105,9 +1105,9 @@ script 129 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Ora,seu... Quando
+	Ora, seu... Quando
 	eu mando você ir,
-	é pra ir,caramba!
+	é pra ir, caramba!
 	"""
 	keyWait
 		any = false
@@ -1162,7 +1162,7 @@ script 133 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,volta pra
+	Lan, volta pra
 	Saborya e me conecta
 	no Computador-Buda!
 	"""
@@ -1268,7 +1268,7 @@ script 149 mmbn4 {
 	msgOpen
 	"""
 	Não entendi tudo,
-	exatamente,mas
+	exatamente, mas
 	vamos lá pra
 	"""
 	keyWait
@@ -1291,7 +1291,7 @@ script 151 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Canseira,isto aqui!"
+	"Canseira, isto aqui!"
 	keyWait
 		any = false
 	end
@@ -1327,7 +1327,7 @@ script 156 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Bom,tudo esclarecido
+	Bom, tudo esclarecido
 	agora. Vamos lá pro
 	Coliseu!
 	"""
@@ -1408,7 +1408,7 @@ script 160 mmbn4 {
 	msgOpen
 	"""
 	Vamos lá pra
-	Affriq! Ah,eu
+	Affriq! Ah, eu
 	adoro festivais!
 	"""
 	keyWait
@@ -1447,7 +1447,7 @@ script 164 mmbn4 {
 	"""
 	Temos que levar o
 	DeusÁgua pra Área
-	Affriq,né?
+	Affriq, né?
 	"""
 	keyWait
 		any = false
@@ -1458,7 +1458,7 @@ script 165 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,vamos procurar
+	Lan, vamos procurar
 	pelo "
 	"""
 	printItem
@@ -1615,7 +1615,7 @@ script 186 mmbn4 {
 	msgOpen
 	"""
 	Não tá pensando em
-	ir pra Sharo,né?
+	ir pra Sharo, né?
 	Vamos!
 	"""
 	keyWait
@@ -1735,7 +1735,7 @@ script 195 mmbn4 {
 	"""
 	O que aconteceu com
 	o ProtoMan? Vamos
-	pro hotel,Lan!
+	pro hotel, Lan!
 	"""
 	keyWait
 		any = false
@@ -1761,7 +1761,7 @@ script 197 mmbn4 {
 	"""
 	Vamos procurar pelo
 	ProtoMan na
-	Undernet,Lan!
+	Undernet, Lan!
 	"""
 	keyWait
 		any = false

@@ -19,7 +19,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Girl
 	msgOpen
-	"Ai,caramba!"
+	"Ai, caramba!"
 	keyWait
 		any = false
 	clearMsg
@@ -79,8 +79,8 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas a Jomon,descendo
-	mais a rua,é ainda
+	Mas a Jomon, descendo
+	mais a rua, é ainda
 	melhor!
 	"""
 	keyWait
@@ -99,7 +99,7 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Às vezes,eu acabo
+	Às vezes, eu acabo
 	comprando coisas de
 	que nem preciso! Ha!
 	"""
@@ -127,13 +127,13 @@ script 4 mmbn4 {
 	"""
 	Ela será estendida
 	até a Praça. Obra
-	grande,essa!
+	grande, essa!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Espera,mas por que
+	Espera, mas por que
 	é que eu tô recla-
 	mando com um guri?
 	"""
@@ -201,7 +201,7 @@ script 12 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	Bom,acabou o
+	Bom, acabou o
 	trabalho do dia!
 	De volta pra casa!
 	"""
@@ -343,15 +343,15 @@ script 30 mmbn4 {
 	"""
 	Eu decidi não me
 	inscrever. Vou só
-	assistir,mesmo.
+	assistir, mesmo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ah,você se
+	Ah, você se
 	registrou?
-	Bom,boa sorte!
+	Bom, boa sorte!
 	"""
 	keyWait
 		any = false
@@ -448,7 +448,7 @@ script 41 mmbn4 {
 	msgOpen
 	"""
 	Está vazio hoje. Ou
-	seja,bem mais fácil
+	seja, bem mais fácil
 	para eu comprar!
 	"""
 	keyWait
@@ -528,7 +528,7 @@ script 130 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Tá,entendi.
+	Tá, entendi.
 	Você vai precisar
 	disto aqui.
 	"""
@@ -577,7 +577,7 @@ script 131 mmbn4 {
 	clearMsg
 	"""
 	Eu sou uma mulher
-	horrível,né?
+	horrível, né?
 	"""
 	keyWait
 		any = false
@@ -603,14 +603,14 @@ script 132 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Bom,agora tá tudo
+	Bom, agora tá tudo
 	nas suas mãos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Por favor,ajude a
+	Por favor, ajude a
 	gente a resolver
 	essa confusão toda!
 	"""

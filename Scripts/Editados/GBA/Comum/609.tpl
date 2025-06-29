@@ -18,7 +18,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	É,sim.
+	É, sim.
 	Er...
 	"""
 	keyWait
@@ -54,7 +54,7 @@ script 4 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Você a viu,não viu?"
+	"Você a viu, não viu?"
 	keyWait
 		any = false
 	clearMsg
@@ -74,12 +74,12 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = BusinessMan
-	"Ah,desculpe..."
+	"Ah, desculpe..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,como estava a
+	Lan, como estava a
 	Yuko?
 	"""
 	keyWait
@@ -99,7 +99,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Tava se divertindo,\npra caramba."
+	"Tava se divertindo, \npra caramba."
 	keyWait
 		any = false
 	clearMsg
@@ -224,7 +224,7 @@ script 14 mmbn4 {
 	"""
 	A NetLuta a tem
 	feito pensar na
-	Rede,e isso tem o
+	Rede, e isso tem o
 	"""
 	keyWait
 		any = false
@@ -254,8 +254,8 @@ script 14 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	mas,se nada for
-	feito,as coisas logo
+	mas, se nada for
+	feito, as coisas logo
 	vão sair do controle.
 	"""
 	keyWait
@@ -351,7 +351,7 @@ script 19 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Então,eu sinto que
+	Então, eu sinto que
 	tenho que fazer
 	alguma coisa.
 	"""
@@ -361,7 +361,7 @@ script 19 mmbn4 {
 	"""
 	Se tiver tendo
 	problema por causa
-	dela,eu resolvo.
+	dela, eu resolvo.
 	"""
 	keyWait
 		any = false
@@ -389,7 +389,7 @@ script 20 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Aqui,leve isto.
+	Aqui, leve isto.
 	"""
 	keyWait
 		any = false
@@ -450,14 +450,14 @@ script 22 mmbn4 {
 	clearMsg
 	"""
 	Se o Navi fantasma
-	estiver longe,ele
+	estiver longe, ele
 	ficará azul.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Se ficar amarelo,é
+	Se ficar amarelo, é
 	porque um fantasma
 	foi detectado.
 	"""
@@ -478,7 +478,7 @@ script 22 mmbn4 {
 		item = 83
 	"""
 	"
-	ficar vermelho,veja
+	ficar vermelho, veja
 	bem a área,
 	"""
 	keyWait
@@ -493,7 +493,7 @@ script 22 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Daí,é só usar o
+	Daí, é só usar o
 	CybSutra e fazer o
 	fantasma ascender.
 	"""
@@ -579,7 +579,7 @@ script 25 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Enfim,por favor,Lan,
+	Enfim, por favor, Lan,
 	espero que encontre
 	esses 4 Navis maus.
 	"""

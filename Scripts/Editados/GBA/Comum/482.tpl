@@ -119,7 +119,7 @@ script 6 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Não se preocupe,eu
+	Não se preocupe, eu
 	vou recuperar
 	esse ChipTrev.
 	"""
@@ -147,7 +147,7 @@ script 8 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Desculpa,Lan.
+	Desculpa, Lan.
 	Ele fugiu.
 	"""
 	keyWait
@@ -161,7 +161,7 @@ script 9 mmbn4 {
 		mugshot = Lan
 	"""
 	Tá tudo bem. Pelo
-	menos,descobrimos de
+	menos, descobrimos de
 	onde ele veio.
 	"""
 	keyWait
@@ -200,7 +200,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Vamos,MegaMan.
+	Vamos, MegaMan.
 	Hora de desconectar!
 	"""
 	keyWait

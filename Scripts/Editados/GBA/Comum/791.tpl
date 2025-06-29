@@ -3,7 +3,7 @@
 script 0 mmbn4 {
 	msgOpen
 	"""
-	Excelente,caro ser
+	Excelente, caro ser
 	de mente forte.
 	"""
 	keyWait
@@ -87,7 +87,7 @@ script 5 mmbn4 {
 		jumpIfTrue = 11
 		jumpIfFalse = continue
 	mugshotHide
-	"Ó,ser de mente\nforte..."
+	"Ó, ser de mente\nforte..."
 	keyWait
 		any = false
 	clearMsg
@@ -160,7 +160,7 @@ script 9 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	MegaMan,nunca vamos
+	MegaMan, nunca vamos
 	nos render às nos-
 	sas escuridões!
 	"""
@@ -180,7 +180,7 @@ script 10 mmbn4 {
 }
 script 11 mmbn4 {
 	mugshotHide
-	"Ó,ser de mente\nforte..."
+	"Ó, ser de mente\nforte..."
 	keyWait
 		any = false
 	clearMsg

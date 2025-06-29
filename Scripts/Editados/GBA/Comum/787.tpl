@@ -66,8 +66,8 @@ script 4 mmbn4 {
 	msgOpen
 	"""
 	Eu pensei que fosse
-	morrer,mas,milagro-
-	samente,sobrevivi.
+	morrer, mas, milagro-
+	samente, sobrevivi.
 	"""
 	keyWait
 		any = false
@@ -80,7 +80,7 @@ script 5 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,toma mais
+	Lan, toma mais
 	cuidado!
 	"""
 	keyWait
@@ -161,7 +161,7 @@ script 14 mmbn4 {
 	msgOpen
 	"""
 	Uff... Aff...
-	Agora,a gente se
+	Agora, a gente se
 	conecta à antena.
 	"""
 	keyWait
@@ -326,7 +326,7 @@ script 26 mmbn4 {
 	"""
 	Estendendo pra
 	trás...
-	Ah,este?
+	Ah, este?
 	"""
 	keyWait
 		any = false

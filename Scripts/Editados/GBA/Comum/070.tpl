@@ -188,7 +188,7 @@ script 45 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Bom trabalho,Lan!
+	Bom trabalho, Lan!
 	Bora voltar pra
 	Sala de Espera!
 	"""
@@ -273,7 +273,7 @@ script 59 mmbn4 {
 	"""
 	Brincar de pega-
 	pega com a Roll?
-	Bom... Tá,né...?
+	Bom... Tá, né...?
 	"""
 	keyWait
 		any = false
@@ -366,7 +366,7 @@ script 64 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,bora pra Área
+	Lan, bora pra Área
 	Parque 3 ajudar a
 	Roll!
 	"""
@@ -540,7 +540,7 @@ script 81 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,vamos lá falar
+	Lan, vamos lá falar
 	com o Mestre! Ele tá
 	em Vila4!
 	"""
@@ -664,7 +664,7 @@ script 91 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,bora achar
+	Lan, bora achar
 	aqueles vídeos!
 	"""
 	keyWait
@@ -677,7 +677,7 @@ script 92 mmbn4 {
 	msgOpen
 	"""
 	Vamos logo pro cas-
-	telo,ou vamos ser
+	telo, ou vamos ser
 	desqualificados!
 	"""
 	keyWait
@@ -968,7 +968,7 @@ script 123 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! Rápido,pra
+	Lan! Rápido, pra
 	Área Parque 2 pro
 	treino de culinária!
 	"""

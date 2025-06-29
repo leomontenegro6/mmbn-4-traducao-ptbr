@@ -7,7 +7,7 @@ script 0 mmbn4 {
 	"""
 	A ÁREA VILA TERMINA
 	AQUI. TUDO ALÉM DA-
-	QUI,EM CONSTRUÇÃO.
+	QUI, EM CONSTRUÇÃO.
 	"""
 	keyWait
 		any = false
@@ -258,7 +258,7 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Bem,boa sorte!"
+	"Bem, boa sorte!"
 	keyWait
 		any = false
 	end
@@ -471,7 +471,7 @@ script 26 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Eu tô TÃO,tão
+	Eu tô TÃO, tão
 	decepcionado...
 	"""
 	keyWait
@@ -584,7 +584,7 @@ script 41 mmbn4 {
 	clearMsg
 	"""
 	Eu não sabia!
-	Se soubesse,teria me
+	Se soubesse, teria me
 	inscrito!
 	"""
 	keyWait
@@ -625,7 +625,7 @@ script 130 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Na verdade,um Navi
+	Na verdade, um Navi
 	esquisito deixou is-
 	to aqui comigo.
 	"""
@@ -665,7 +665,7 @@ script 130 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Não,não deve ser..."
+	"Não, não deve ser..."
 	keyWait
 		any = false
 	flagSet
@@ -677,7 +677,7 @@ script 131 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Bom,acho que eu vou
+	Bom, acho que eu vou
 	pra ACDC agora!
 	"""
 	keyWait
@@ -700,7 +700,7 @@ script 132 mmbn4 {
 		item = 16
 	"""
 	"?
-	Claro,cara.
+	Claro, cara.
 	Toma aê.
 	"""
 	keyWait
@@ -747,7 +747,7 @@ script 133 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ei,sem violência!
+	Ei, sem violência!
 	He he...!
 	"""
 	keyWait
@@ -796,8 +796,8 @@ script 160 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Que é? Ah,se o
-	bagulho é grátis,eu
+	Que é? Ah, se o
+	bagulho é grátis, eu
 	levo um.
 	"""
 	keyWait
@@ -821,7 +821,7 @@ script 160 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	"""
-	Uma loja de chips,é?
+	Uma loja de chips, é?
 	Eu tava mesmo pen-
 	sando em comprar.
 	"""
@@ -848,8 +848,8 @@ script 162 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Ó,a seleção de chips
-	não é ruim,não! Eu
+	Ó, a seleção de chips
+	não é ruim, não! Eu
 	colo lá depois.
 	"""
 	keyWait

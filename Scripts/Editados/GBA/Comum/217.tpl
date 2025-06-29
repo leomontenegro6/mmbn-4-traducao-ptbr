@@ -17,7 +17,7 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Chaud,não tem como
+	Chaud, não tem como
 	passar por aqui
 	com esta porta!
 	"""
@@ -27,7 +27,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	MegaMan,examine ela.
+	MegaMan, examine ela.
 	Há alguma coisa
 	escrita nela?
 	"""
@@ -109,8 +109,8 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	T-tá,e como eu faço
-	pra achar,então...?
+	T-tá, e como eu faço
+	pra achar, então...?
 	"""
 	keyWait
 		any = false

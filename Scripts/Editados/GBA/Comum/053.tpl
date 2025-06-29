@@ -66,7 +66,7 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	De início,o seu
+	De início, o seu
 	Navi vai estar
 	calmo,
 	"""
@@ -94,7 +94,7 @@ script 4 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	E inversamente,um
+	E inversamente, um
 	Navi bem operado en-
 	trará em Sincronia
 	"""
@@ -102,7 +102,7 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Total,um estado em
+	Total, um estado em
 	que ele e o operador
 	agem como um só.
 	"""
@@ -215,7 +215,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Dad
 	"""
-	Na SincTotl,o próxi-
+	Na SincTotl, o próxi-
 	mo chip causa o do-
 	bro de dano uma vez.
 	"""
@@ -232,7 +232,7 @@ script 10 mmbn4 {
 	clearMsg
 	"""
 	Para atacar com dano
-	duplo,Contra-Ataque
+	duplo, Contra-Ataque
 	várias vezes.
 	"""
 	keyWait
@@ -268,7 +268,7 @@ script 11 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	E então,conseguiu
+	E então, conseguiu
 	Contra-Atacar?
 	"""
 	keyWait
@@ -284,14 +284,14 @@ script 11 mmbn4 {
 	clearMsg
 	"""
 	mas se dominar a
-	técnica,com certeza
+	técnica, com certeza
 	ficará mais forte.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ah,quase esqueci...
+	Ah, quase esqueci...
 	O Contra-Ataque não
 	funciona com chips
 	"""
@@ -319,7 +319,7 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Valeu,pai! Contra-
+	Valeu, pai! Contra-
 	Ataque e Sincronia
 	Total... Que demais!
 	"""

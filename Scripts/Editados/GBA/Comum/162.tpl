@@ -27,7 +27,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Primeiro,uma
+	Primeiro, uma
 	pequena máquina de
 	bombas.
 	"""
@@ -68,14 +68,14 @@ script 0 mmbn4 {
 	"""
 	Se a bomba explodir,
 	você leva dano,
-	então,cuidado.
+	então, cuidado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Após desativar o 1o.
-	nível,procure pelo
+	nível, procure pelo
 	dispositivo.
 	"""
 	keyWait
@@ -162,7 +162,7 @@ script 2 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Fica esperto,Mega-
+	Fica esperto, Mega-
 	Man! O dispositivo
 	tá ligado agora!
 	"""
@@ -262,7 +262,7 @@ script 5 mmbn4 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Tudo bem,eu explico
+	Tudo bem, eu explico
 	de novo.
 	"""
 	keyWait
@@ -277,7 +277,7 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Primeiro,uma
+	Primeiro, uma
 	pequena máquina
 	de bombas.
 	"""
@@ -318,14 +318,14 @@ script 5 mmbn4 {
 	"""
 	Se a bomba explodir,
 	você leva dano,
-	então,cuidado.
+	então, cuidado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Após desativar o 1o.
-	nível,procure pelo
+	nível, procure pelo
 	dispositivo.
 	"""
 	keyWait

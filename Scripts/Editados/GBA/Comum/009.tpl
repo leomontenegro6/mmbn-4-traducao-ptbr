@@ -81,7 +81,7 @@ script 4 mmbn4 {
 	msgOpen
 	"""
 	Beh-BoBun!
-	(Lan,é preciso um)
+	(Lan, é preciso um)
 	"""
 	keyWait
 		any = false
@@ -142,7 +142,7 @@ script 11 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	" Como já\n deve saber,a\n entrada para a"
+	" Como já\n deve saber, a\n entrada para a"
 	keyWait
 		any = false
 	clearMsg
@@ -150,7 +150,7 @@ script 11 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	" Chip das Trevas\n está envolvido,\n então é provável"
+	" Chip das Trevas\n está envolvido, \n então é provável"
 	keyWait
 		any = false
 	clearMsg
@@ -160,7 +160,7 @@ script 11 mmbn4 {
 	clearMsg
 	"""
 	Vamos lá pra
-	Undernet,Lan!
+	Undernet, Lan!
 	"""
 	keyWait
 		any = false
@@ -184,7 +184,7 @@ script 12 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"\"Lan,tem fumaça\n saindo do seu\n computador!"
+	"\"Lan, tem fumaça\n saindo do seu\n computador!"
 	keyWait
 		any = false
 	clearMsg

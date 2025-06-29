@@ -121,7 +121,7 @@ script 7 mmbn4 {
 	clearMsg
 	"""
 	todo o meu espírito.
-	Você também,Tamako.
+	Você também, Tamako.
 	"""
 	keyWait
 		any = false
@@ -134,7 +134,7 @@ script 8 mmbn4 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	He,você não costuma
+	He, você não costuma
 	falar tanto assim.
 	Tá preocupado?
 	"""
@@ -164,7 +164,7 @@ script 10 mmbn4 {
 	"""
 	A gente só vai socar
 	e chutar com toda a
-	força,como sempre!
+	força, como sempre!
 	"""
 	keyWait
 		any = false

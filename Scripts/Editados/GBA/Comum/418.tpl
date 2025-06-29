@@ -8,15 +8,15 @@ script 0 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Ei,você é o garoto
+	Ei, você é o garoto
 	que venceu o Torneio
-	Águia,não é?
+	Águia, não é?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nada mal,para uma
+	Nada mal, para uma
 	criança... Gostei
 	das suas lutas!
 	"""
@@ -42,15 +42,15 @@ script 2 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Ei,você é o garoto
+	Ei, você é o garoto
 	que venceu o Torneio
-	Falcão,não é?
+	Falcão, não é?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nada mal,para uma
+	Nada mal, para uma
 	criança... Gostei
 	das suas lutas!
 	"""
@@ -73,7 +73,7 @@ script 5 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Então,você vai
+	Então, você vai
 	encarar o mundo
 	inteiro agora?!
 	"""
@@ -103,7 +103,7 @@ script 6 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Parece que,de Vila4,
+	Parece que, de Vila4,
 	dá pra acessar um
 	lugar medonho!
 	"""
@@ -149,8 +149,8 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	... Mas e se,quando
-	a abrirmos,não tiver
+	... Mas e se, quando
+	a abrirmos, não tiver
 	nada atrás...?
 	"""
 	keyWait
@@ -191,7 +191,7 @@ script 16 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	... Bom,talvez só
+	... Bom, talvez só
 	uma espiadinha!
 	"""
 	keyWait
@@ -239,7 +239,7 @@ script 21 mmbn4 {
 	msgOpen
 	"""
 	Nada de anormal
-	aqui,eu acho...
+	aqui, eu acho...
 	"""
 	keyWait
 		any = false
@@ -376,7 +376,7 @@ script 240 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Veja. Eu contraban-- \ner,importei--"
+	"Veja. Eu contraban-- \ner, importei--"
 	keyWait
 		any = false
 	clearMsg
@@ -429,7 +429,7 @@ script 240 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviPink
-	"Credo. Tá,né...?"
+	"Credo. Tá, né...?"
 	keyWait
 		any = false
 	end
@@ -497,7 +497,7 @@ script 242 mmbn4 {
 	"""
 	Não faço fiado. O
 	vendedor também tem
-	que comer,sabe?
+	que comer, sabe?
 	"""
 	keyWait
 		any = false

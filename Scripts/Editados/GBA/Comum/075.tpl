@@ -104,7 +104,7 @@ script 10 mmbn4 {
 	"""
 	Vocês combinaram de
 	se encontrar na
-	entrada,não foi?
+	entrada, não foi?
 	"""
 	keyWait
 		any = false
@@ -359,7 +359,7 @@ script 42 mmbn4 {
 	"""
 	Devemos voltar aqui
 	após reunir 50 Pon-
-	tos de Batalha,né?
+	tos de Batalha, né?
 	"""
 	keyWait
 		any = false
@@ -370,7 +370,7 @@ script 45 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Bom trabalho,Lan!
+	Bom trabalho, Lan!
 	Bora voltar pra
 	Sala de Espera!
 	"""
@@ -469,7 +469,7 @@ script 54 mmbn4 {
 	"""
 	Tomara que o Riki
 	teja bem... Ele tá
-	por aqui,né?
+	por aqui, né?
 	"""
 	keyWait
 		any = false
@@ -499,7 +499,7 @@ script 59 mmbn4 {
 	"""
 	Brincar de pega-
 	pega com a Roll?
-	Bom... Tá,né...?
+	Bom... Tá, né...?
 	"""
 	keyWait
 		any = false
@@ -592,7 +592,7 @@ script 64 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,bora pra Área
+	Lan, bora pra Área
 	Parque 3 ajudar a
 	Roll!
 	"""
@@ -818,7 +818,7 @@ script 81 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,vamos lá falar
+	Lan, vamos lá falar
 	com o Mestre! Ele tá
 	em Vila4!
 	"""
@@ -945,7 +945,7 @@ script 89 mmbn4 {
 	msgOpen
 	"""
 	Este é o lugar
-	certo,né?
+	certo, né?
 	"""
 	keyWait
 		any = false
@@ -977,7 +977,7 @@ script 91 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,bora achar
+	Lan, bora achar
 	aqueles vídeos!
 	"""
 	keyWait
@@ -995,7 +995,7 @@ script 92 mmbn4 {
 	msgOpen
 	"""
 	Vamos logo pro cas-
-	telo,ou vamos ser
+	telo, ou vamos ser
 	desqualificados!
 	"""
 	keyWait
@@ -1180,7 +1180,7 @@ script 111 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Espera aí,MegaMan!
+	Espera aí, MegaMan!
 	Eu tô indo!
 	"""
 	keyWait
@@ -1313,7 +1313,7 @@ script 123 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! Rápido,pra
+	Lan! Rápido, pra
 	Área Parque 2 pro
 	treino de culinária!
 	"""
@@ -1387,7 +1387,7 @@ script 230 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,a luta tá pra
+	Lan, a luta tá pra
 	começar! Pro
 	elevador interno!
 	"""

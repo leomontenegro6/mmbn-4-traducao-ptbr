@@ -14,7 +14,7 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	Graças ao Torneio
-	Águia,vendemos um
+	Águia, vendemos um
 	monte de chips,
 	"""
 	keyWait
@@ -34,7 +34,7 @@ script 1 mmbn4 {
 	msgOpen
 	"""
 	Graças ao Torneio
-	Falcão,vendemos um
+	Falcão, vendemos um
 	monte de chips,
 	"""
 	keyWait
@@ -94,7 +94,7 @@ script 10 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Ai,você é um fofo!"
+	"Ai, você é um fofo!"
 	keyWait
 		any = false
 	end
@@ -173,7 +173,7 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Se vencer,o Higsby
+	Se vencer, o Higsby
 	te dá um prêmio!
 	"""
 	keyWait
@@ -199,7 +199,7 @@ script 12 mmbn4 {
 	"""
 	Eu não posso entrar
 	em torneios de
-	verdade,mas ao menos
+	verdade, mas ao menos
 	"""
 	keyWait
 		any = false
@@ -217,7 +217,7 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Maid
 	msgOpen
-	"E aí,como vai?!"
+	"E aí, como vai?!"
 	keyWait
 		any = false
 	clearMsg
@@ -236,7 +236,7 @@ script 20 mmbn4 {
 	"""
 	Você chegou às
 	finais?! Se você
-	vencer,a Loja do
+	vencer, a Loja do
 	"""
 	keyWait
 		any = false
@@ -362,7 +362,7 @@ script 40 mmbn4 {
 	mugshotShow
 		mugshot = Higsby
 	msgOpen
-	"Bem-vindo,é!"
+	"Bem-vindo, é!"
 	keyWait
 		any = false
 	jump
@@ -379,7 +379,7 @@ script 41 mmbn4 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Bem-vindo,é!
+	Bem-vindo, é!
 	Finalmente reservei
 	um tempo pra reabrir
 	"""
@@ -410,7 +410,7 @@ script 41 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"fornecedor,é!"
+	"fornecedor, é!"
 	keyWait
 		any = false
 	clearMsg
@@ -465,8 +465,8 @@ script 42 mmbn4 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Bem-vindo,é!
-	É,o que gostaria de
+	Bem-vindo, é!
+	É, o que gostaria de
 	comprar hoje?
 	"""
 	keyWait
@@ -523,7 +523,7 @@ script 43 mmbn4 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Desculpa,estou sem
+	Desculpa, estou sem
 	produtos. É...
 	"""
 	keyWait
@@ -546,7 +546,7 @@ script 46 mmbn4 {
 	mugshotShow
 		mugshot = Higsby
 	msgOpen
-	"Volte sempre,é!"
+	"Volte sempre, é!"
 	keyWait
 		any = false
 	end

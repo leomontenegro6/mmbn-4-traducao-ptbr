@@ -114,7 +114,7 @@ script 4 mmbn4 {
 	clearMsg
 	"""
 	NetLuta é só um
-	jogo,não sabia?
+	jogo, não sabia?
 	"""
 	keyWait
 		any = false
@@ -144,14 +144,14 @@ script 5 mmbn4 {
 	clearMsg
 	"""
 	Você fala qualquer
-	coisa,desde que te
+	coisa, desde que te
 	beneficie!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ô,vontade de te dar
+	Ô, vontade de te dar
 	um chute!!
 	"""
 	keyWait
@@ -173,7 +173,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = SciLabMan
-	"Já chega,Lan."
+	"Já chega, Lan."
 	keyWait
 		any = false
 	end
@@ -190,7 +190,7 @@ script 8 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Nós,Oficiais,faremos
+	Nós, Oficiais, faremos
 	ele ser julgado por
 	seus crimes.
 	"""
@@ -272,7 +272,7 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = SciLabMan
 	"""
-	Ah,temos uma sala de
+	Ah, temos uma sala de
 	interrogatório pre-
 	parada para você...
 	"""
@@ -363,7 +363,7 @@ script 21 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Lan,você tá bem? Cê
+	Lan, você tá bem? Cê
 	ficou na nevasca
 	durante toda a luta.
 	"""
@@ -382,7 +382,7 @@ script 22 mmbn4 {
 	clearMsg
 	"""
 	Mas tô por aqui com
-	esse frio,viu?!
+	esse frio, viu?!
 	"""
 	keyWait
 		any = false

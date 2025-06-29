@@ -195,7 +195,7 @@ script 4 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Olá,sou um Oficial
+	Olá, sou um Oficial
 	da Ameropa...
 	"""
 	keyWait
@@ -230,7 +230,7 @@ script 4 mmbn4 {
 		mugshot = Lan
 	"""
 	Se vocês sabem onde
-	ele tá,por que não
+	ele tá, por que não
 	vão pegar ele?
 	"""
 	keyWait
@@ -239,7 +239,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	Bom,é que há um
+	Bom, é que há um
 	problema...
 	"""
 	keyWait
@@ -254,7 +254,7 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Aliás,normalmente,
+	Aliás, normalmente,
 	não há acesso.
 	"""
 	keyWait
@@ -335,7 +335,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	Sim,mas... vocês
+	Sim, mas... vocês
 	são só crianças!
 	"""
 	keyWait
@@ -351,7 +351,7 @@ script 4 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Por favor,deixa a\ngente ir!"
+	"Por favor, deixa a\ngente ir!"
 	keyWait
 		any = false
 	clearMsg
@@ -457,7 +457,7 @@ script 10 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,vamos
+	Lan, vamos
 	desconectar e sair!
 	"""
 	keyWait
@@ -482,7 +482,7 @@ script 12 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,a gente
+	MegaMan, a gente
 	tem que achar os
 	dados-chave!
 	"""
@@ -664,13 +664,13 @@ script 26 mmbn4 {
 	"""
 	Você não é de um
 	desses grupos de
-	Navis do mal,né...?
+	Navis do mal, né...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Não,até parece
+	... Não, até parece
 	que seria!
 	"""
 	keyWait
@@ -697,14 +697,14 @@ script 30 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	ENTÃO,O TORNEIO
+	ENTÃO, O TORNEIO
 	COMEÇOU!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	VOCÊ ESTÁ NELE,NÃO
+	VOCÊ ESTÁ NELE, NÃO
 	É? BOA SORTE!
 	"""
 	keyWait
@@ -783,7 +783,7 @@ script 32 mmbn4 {
 	clearMsg
 	"""
 	Vocês se saíram
-	muito bem,por sinal.
+	muito bem, por sinal.
 	"""
 	keyWait
 		any = false
@@ -795,7 +795,7 @@ script 35 mmbn4 {
 	msgOpen
 	"""
 	AINDA HÁ MUITA GENTE
-	NO PÁREO,NÃO É?
+	NO PÁREO, NÃO É?
 	"""
 	keyWait
 		any = false
@@ -813,7 +813,7 @@ script 36 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Ei,eu te conheço!
+	Ei, eu te conheço!
 	Você tá no torneio!
 	"""
 	keyWait
@@ -862,7 +862,7 @@ script 40 mmbn4 {
 	clearMsg
 	"""
 	... AÍ! VOCÊ É UM
-	DELES,NÃO É?!
+	DELES, NÃO É?!
 	"""
 	keyWait
 		any = false
@@ -913,8 +913,8 @@ script 42 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas estar aqui,na
-	verdade,é parte do
+	Mas estar aqui, na
+	verdade, é parte do
 	meu trabalho!
 	"""
 	keyWait
@@ -940,7 +940,7 @@ script 45 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"NÃO,NÃO,NÃO!"
+	"NÃO, NÃO, NÃO!"
 	keyWait
 		any = false
 	clearMsg
@@ -1087,7 +1087,7 @@ script 80 mmbn4 {
 	msgOpen
 	"""
 	Além daqui fica a
-	Área Saborya,mas
+	Área Saborya, mas
 	fomos separados!
 	"""
 	keyWait
@@ -1118,7 +1118,7 @@ script 82 mmbn4 {
 	msgOpen
 	"""
 	Além daqui fica a
-	Área Sharo,mas
+	Área Sharo, mas
 	fomos separados!
 	"""
 	keyWait
@@ -1227,7 +1227,7 @@ script 133 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Por favor,traga-me
+	Por favor, traga-me
 	logo o "
 	"""
 	printItem
@@ -1243,7 +1243,7 @@ script 134 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	Bom,por favor,volte
+	Bom, por favor, volte
 	quando estiver
 	pronto!
 	"""
@@ -1300,7 +1300,7 @@ script 136 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	Pois bem,então!
+	Pois bem, então!
 	Iniciar batalha...
 	já!
 	"""
@@ -1722,7 +1722,7 @@ script 152 mmbn4 {
 	clearMsg
 	"""
 	Pronto! Terminei!
-	Aqui,pode levar!
+	Aqui, pode levar!
 	"""
 	keyWait
 		any = false
@@ -1821,7 +1821,7 @@ script 154 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Então,meu jovem...
+	Então, meu jovem...
 	Você tem
 	resistência?
 	"""
@@ -1847,7 +1847,7 @@ script 155 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	msgOpen
-	"Ah,é você!"
+	"Ah, é você!"
 	keyWait
 		any = false
 	clearMsg
@@ -1915,7 +1915,7 @@ script 160 mmbn4 {
 	msgOpen
 	"""
 	Então você está
-	treinando,é? Quer
+	treinando, é? Quer
 	treinar comigo?
 	"""
 	keyWait
@@ -2020,9 +2020,9 @@ script 180 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ano passado,foi na
+	Ano passado, foi na
 	Área Sharo. Então,
-	este ano,será em
+	este ano, será em
 	"""
 	keyWait
 		any = false
@@ -2094,7 +2094,7 @@ script 222 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Infelizmente,meu
+	Infelizmente, meu
 	estoque esgotou...
 	"""
 	keyWait

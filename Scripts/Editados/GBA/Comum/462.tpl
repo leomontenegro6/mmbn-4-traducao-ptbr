@@ -80,7 +80,7 @@ script 5 mmbn4 {
 		value = 3
 	mugshotShow
 		mugshot = MegaMan
-	"Valeu,Lan!"
+	"Valeu, Lan!"
 	keyWait
 		any = false
 	clearMsg
@@ -126,8 +126,8 @@ script 7 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Vou te deletar,e
-	então,saborear a
+	Vou te deletar, e
+	então, saborear a
 	energia da moça!!
 	"""
 	keyWait
@@ -146,7 +146,7 @@ script 8 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Espera só um pouco,\nRoll!"
+	"Espera só um pouco, \nRoll!"
 	keyWait
 		any = false
 	clearMsg
@@ -166,7 +166,7 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Bora lá,Lan!"
+	"Bora lá, Lan!"
 	keyWait
 		any = false
 	clearMsg

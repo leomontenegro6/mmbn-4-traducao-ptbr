@@ -57,7 +57,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,chegou e-mail!"
+	"Lan, chegou e-mail!"
 	keyWait
 		any = false
 	clearMsg
@@ -108,7 +108,7 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Alguma ideia,Lan?!
+	Alguma ideia, Lan?!
 	"""
 	keyWait
 		any = false
@@ -197,7 +197,7 @@ script 8 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Sharo,não foi?
+	Sharo, não foi?
 	"""
 	keyWait
 		any = false
@@ -230,7 +230,7 @@ script 10 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Bora,MegaMan!!"
+	"Bora, MegaMan!!"
 	keyWait
 		any = false
 	end

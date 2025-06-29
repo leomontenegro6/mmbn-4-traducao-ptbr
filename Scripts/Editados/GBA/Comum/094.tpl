@@ -82,7 +82,7 @@ script 11 mmbn4 {
 	msgOpen
 	"""
 	Não tá molhado aí
-	dentro,tá?
+	dentro, tá?
 	"""
 	keyWait
 		any = false
@@ -108,7 +108,7 @@ script 13 mmbn4 {
 	"""
 	Essa coisa tem um
 	cheiro super doce
-	daqui,de fora...
+	daqui, de fora...
 	"""
 	keyWait
 		any = false
@@ -214,7 +214,7 @@ script 21 mmbn4 {
 	"""
 	Uma máquina de cozi-
 	nhar... O cheiro aí
-	dentro é bom,né?
+	dentro é bom, né?
 	"""
 	keyWait
 		any = false
@@ -264,7 +264,7 @@ script 26 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Então,é daqui que
+	Então, é daqui que
 	controlam o satélite
 	do clima...
 	"""
@@ -307,7 +307,7 @@ script 38 mmbn4 {
 	msgOpen
 	"""
 	Temos que vencer no
-	FuteBomba,por todos
+	FuteBomba, por todos
 	os NetLutadores!
 	"""
 	keyWait
@@ -335,7 +335,7 @@ script 41 mmbn4 {
 	"""
 	Será que este Buda
 	era o grandalhão que
-	você viu,MegaMan?
+	você viu, MegaMan?
 	"""
 	keyWait
 		any = false

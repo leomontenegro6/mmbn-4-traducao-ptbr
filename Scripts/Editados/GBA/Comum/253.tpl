@@ -77,7 +77,7 @@ script 5 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Ufa,essa foi por\npouco..."
+	"Ufa, essa foi por\npouco..."
 	keyWait
 		any = false
 	end
@@ -187,7 +187,7 @@ script 21 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E aí,gostou do meu
+	E aí, gostou do meu
 	Programa Avançado?
 	"""
 	keyWait
@@ -215,7 +215,7 @@ script 25 mmbn4 {
 	mugshotShow
 		mugshot = OrangeShirtBoy
 	"""
-	Ah,você só vai
+	Ah, você só vai
 	perder de novo...
 	"""
 	keyWait
@@ -237,14 +237,14 @@ script 26 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Bom,se cê insiste...
+	Bom, se cê insiste...
 	Bora de novo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mas,desta vez,
+	Mas, desta vez,
 	é pra valer!
 	"""
 	keyWait
@@ -257,7 +257,7 @@ script 30 mmbn4 {
 	msgOpen
 	"""
 	Não vai ficando
-	convencido,não...
+	convencido, não...
 	"""
 	keyWait
 		any = false
@@ -312,7 +312,7 @@ script 35 mmbn4 {
 	clearMsg
 	"""
 	Valeu pelo chip
-	raro,mané!
+	raro, mané!
 	"""
 	keyWait
 		any = false
@@ -334,7 +334,7 @@ script 35 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Estratégia,cara...
+	Estratégia, cara...
 	Estratégia!
 	"""
 	keyWait
@@ -346,7 +346,7 @@ script 36 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Ora,seu...!
+	Ora, seu...!
 	Devolve o meu chip
 	raro!
 	"""
@@ -356,9 +356,9 @@ script 36 mmbn4 {
 	mugshotShow
 		mugshot = BlueShirtBoy
 	"""
-	Nem vem,cara! Ele tá
+	Nem vem, cara! Ele tá
 	no meu PET agora,
-	então,é meu!
+	então, é meu!
 	"""
 	keyWait
 		any = false
@@ -378,13 +378,13 @@ script 50 mmbn4 {
 	clearMsg
 	"""
 	Enquanto houver es-
-	perança,devemos
+	perança, devemos
 	fazer o que der...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Né,Lan?"
+	"Né, Lan?"
 	keyWait
 		any = false
 	end

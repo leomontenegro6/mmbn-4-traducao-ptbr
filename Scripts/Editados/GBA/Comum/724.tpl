@@ -17,7 +17,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Você conseguiu,\nMegaMan!"
+	"Você conseguiu, \nMegaMan!"
 	keyWait
 		any = false
 	end
@@ -28,7 +28,7 @@ script 2 mmbn4 {
 	msgOpen
 	"""
 	Obrigado por essa
-	luta incrível,Raoul!
+	luta incrível, Raoul!
 	"""
 	keyWait
 		any = false
@@ -52,7 +52,7 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Lan,eu lhe devo
+	Lan, eu lhe devo
 	muitos pedidos de
 	desculpas.
 	"""
@@ -96,7 +96,7 @@ script 6 mmbn4 {
 		mugshot = Raoul
 	msgOpen
 	"""
-	Lan,MegaMan. O
+	Lan, MegaMan. O
 	Ancião da minha tri-
 	bo lhes amaldiçoou.
 	"""
@@ -118,7 +118,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Raoul
 	msgOpen
-	"Sr. Ancião,por quê?!"
+	"Sr. Ancião, por quê?!"
 	keyWait
 		any = false
 	clearMsg
@@ -171,7 +171,7 @@ script 10 mmbn4 {
 	clearMsg
 	"""
 	Quem me ensinou isso
-	foi você,Sr. Ancião.
+	foi você, Sr. Ancião.
 	"""
 	keyWait
 		any = false
@@ -203,7 +203,7 @@ script 12 mmbn4 {
 		mugshot = OldManAlt
 	msgOpen
 	"""
-	Lan,MegaMan. Eu
+	Lan, MegaMan. Eu
 	causei um male ter-
 	rível sobre vocês.
 	"""
@@ -224,7 +224,7 @@ script 13 mmbn4 {
 	msgOpen
 	"""
 	Peço desculpas
-	também,Lan.
+	também, Lan.
 	"""
 	keyWait
 		any = false
@@ -236,14 +236,14 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Foi meio tenso,sim,
+	Foi meio tenso, sim,
 	mas a maldição já
 	era. Tá tudo bem!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Né,MegaMan?"
+	"Né, MegaMan?"
 	keyWait
 		any = false
 	clearMsg
@@ -253,12 +253,12 @@ script 14 mmbn4 {
 script 15 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"É,não esquenta com\nisso!"
+	"É, não esquenta com\nisso!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	E,Sr. Ancião,você
+	E, Sr. Ancião, você
 	também lutou com
 	orgulho.
 	"""
@@ -329,7 +329,7 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = Raoul
 	"""
-	Lan,eu também peço
+	Lan, eu também peço
 	desculpas. Você é um
 	guerreiro orgulhoso.
 	"""
@@ -342,7 +342,7 @@ script 20 mmbn4 {
 		mugshot = OldManAlt
 	msgOpen
 	"""
-	Raoul,eu estou velho
+	Raoul, eu estou velho
 	demais.
 	"""
 	keyWait
@@ -366,7 +366,7 @@ script 20 mmbn4 {
 	clearMsg
 	"""
 	Poderei descansar
-	tranquilo,sabendo
+	tranquilo, sabendo
 	que um homem
 	"""
 	keyWait
@@ -410,7 +410,7 @@ script 23 mmbn4 {
 		mugshot = OldManAlt
 	msgOpen
 	"""
-	Vida próspera,Lan.
+	Vida próspera, Lan.
 	"""
 	keyWait
 		any = false
@@ -421,7 +421,7 @@ script 24 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Uau,Raoul,você é o
+	Uau, Raoul, você é o
 	novo líder!
 	Boa sorte!
 	"""
@@ -435,7 +435,7 @@ script 25 mmbn4 {
 	mugshotShow
 		mugshot = Raoul
 	"""
-	Lan,MegaMan,
+	Lan, MegaMan,
 	lutar contra vocês
 	foi uma honra.
 	"""
@@ -457,7 +457,7 @@ script 26 mmbn4 {
 	msgOpen
 	"""
 	Raoul e ThunderMan.
-	Os dois,guerreiros
+	Os dois, guerreiros
 	fortes e orgulhosos.
 	"""
 	keyWait
@@ -534,7 +534,7 @@ script 30 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Hmm,mas acho que eu
+	Hmm, mas acho que eu
 	tô esquecendo
 	alguma coisa...
 	"""
@@ -542,7 +542,7 @@ script 30 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ah,é!
+	Ah, é!
 	O pão ameropano!
 	"""
 	keyWait

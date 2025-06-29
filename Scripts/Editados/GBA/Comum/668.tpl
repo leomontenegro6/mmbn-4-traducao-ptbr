@@ -34,7 +34,7 @@ script 2 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	WindMan,você está
+	WindMan, você está
 	bem?
 	"""
 	keyWait
@@ -137,7 +137,7 @@ script 6 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	E,Lilly,você mandou
+	E, Lilly, você mandou
 	bem. Nem parecia
 	que tava bêbada!
 	"""
@@ -207,7 +207,7 @@ script 11 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lilly,isso aí na sua
+	Lilly, isso aí na sua
 	garrafa...
 	"""
 	keyWait
@@ -260,7 +260,7 @@ script 14 mmbn4 {
 		mugshot = WindMan
 	msgOpen
 	"""
-	Lilly,você ainda tem
+	Lilly, você ainda tem
 	muito treinamento a
 	fazer...
 	"""
@@ -309,14 +309,14 @@ script 17 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E foi muito,mas
+	E foi muito, mas
 	muito divertida.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Disso,eu tenho
+	Disso, eu tenho
 	certeza.
 	"""
 	keyWait
@@ -331,7 +331,7 @@ script 18 mmbn4 {
 	msgOpen
 	"""
 	He he. Se a gente
-	lutar de novo,vai
+	lutar de novo, vai
 	ser ainda mais!
 	"""
 	keyWait
@@ -339,7 +339,7 @@ script 18 mmbn4 {
 	clearMsg
 	"""
 	E sem saquê dessa
-	vez,nem que por
+	vez, nem que por
 	acidente!
 	"""
 	keyWait
@@ -352,7 +352,7 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = Lilly
 	msgOpen
-	"He he,é."
+	"He he, é."
 	keyWait
 		any = false
 	clearMsg
@@ -365,7 +365,7 @@ script 19 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E,da próxima vez,
+	E, da próxima vez,
 	iremos derrotar
 	vocês!
 	"""
@@ -387,7 +387,7 @@ script 20 mmbn4 {
 	clearMsg
 	"""
 	Álcool é um negócio
-	assustador,né?
+	assustador, né?
 	"""
 	keyWait
 		any = false
@@ -402,7 +402,7 @@ script 21 mmbn4 {
 	"""
 	Espero que possamos
 	ter uma revanche só-
-	bria com ela,um dia.
+	bria com ela, um dia.
 	"""
 	keyWait
 		any = false
@@ -413,7 +413,7 @@ script 22 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	WindMan,você tá
+	WindMan, você tá
 	bem?
 	"""
 	keyWait
@@ -428,7 +428,7 @@ script 23 mmbn4 {
 	msgOpen
 	"""
 	Arh...
-	Sim,estou bem.
+	Sim, estou bem.
 	"""
 	keyWait
 		any = false
@@ -467,7 +467,7 @@ script 25 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Lilly! Ei,Lilly!
+	Lilly! Ei, Lilly!
 	Sai desse pifão!
 	"""
 	keyWait

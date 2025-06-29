@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	Au! Au!
-	(Partindo,au!)
+	(Partindo, au!)
 	"""
 	keyWait
 		any = false
@@ -252,7 +252,7 @@ script 14 mmbn4 {
 	clearMsg
 	"""
 	Mas se quer mesmo
-	tentar,pegue.
+	tentar, pegue.
 	"""
 	keyWait
 		any = false
@@ -286,7 +286,7 @@ script 15 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Na verdade,para
+	Na verdade, para
 	ninguém passar frio
 	em Sharo,
 	"""
@@ -312,7 +312,7 @@ script 16 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Simples,mas o charme
+	Simples, mas o charme
 	artesanal é
 	inegável.
 	"""

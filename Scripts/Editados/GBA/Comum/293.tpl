@@ -73,7 +73,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"Não,não,não,não...!"
+	"Não, não, não, não...!"
 	keyWait
 		any = false
 	end
@@ -114,7 +114,7 @@ script 6 mmbn4 {
 	"""
 	Eu não sei o que
 	mais eu posso
-	dizer,fora...
+	dizer, fora...
 	"""
 	keyWait
 		any = false
@@ -138,7 +138,7 @@ script 7 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Desculpe,mas não há
+	Desculpe, mas não há
 	nada que possamos
 	fazer para ajudar
 	"""

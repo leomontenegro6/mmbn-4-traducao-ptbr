@@ -27,7 +27,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Amigos,vamos todos
+	Amigos, vamos todos
 	gritar para que nos
 	ouçam!!
 	"""
@@ -63,7 +63,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = CapBoy
-	"MEGAMAN,VAI LÁ!!"
+	"MEGAMAN, VAI LÁ!!"
 	keyWait
 		any = false
 	clearMsg

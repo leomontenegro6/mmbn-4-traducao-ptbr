@@ -33,7 +33,7 @@ script 2 mmbn4 {
 	"""
 	Perdi... Acho que
 	a minha vida nunca
-	vai mudar,mesmo...
+	vai mudar, mesmo...
 	"""
 	keyWait
 		any = false
@@ -87,9 +87,9 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = AquaMan
 	"""
-	Shuko,você não tem
+	Shuko, você não tem
 	azar!
-	Xuá,xuá!
+	Xuá, xuá!
 	"""
 	keyWait
 		any = false
@@ -108,14 +108,14 @@ script 8 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	AquaMan,você foi
+	AquaMan, você foi
 	demais!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Não acha,MegaMan?
+	Não acha, MegaMan?
 	"""
 	keyWait
 		any = false
@@ -151,7 +151,7 @@ script 11 mmbn4 {
 		mugshot = AquaMan
 	"""
 	Você também foi
-	osso duro,MegaMan!
+	osso duro, MegaMan!
 	Xuá!
 	"""
 	keyWait
@@ -172,7 +172,7 @@ script 12 mmbn4 {
 	clearMsg
 	"""
 	Eu fui tocado pelo
-	seu espírito,fluido
+	seu espírito, fluido
 	como a água!
 	"""
 	keyWait
@@ -206,7 +206,7 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = Atsu
 	"""
-	Ei,mana!
+	Ei, mana!
 	Vamos lá pegar a
 	máquina de lavar!
 	"""
@@ -218,7 +218,7 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Ty
 	msgOpen
-	"Vamos logo,Shuko!"
+	"Vamos logo, Shuko!"
 	keyWait
 		any = false
 	clearMsg
@@ -238,7 +238,7 @@ script 17 mmbn4 {
 		mugshot = Shuko
 	msgOpen
 	"""
-	Obrigada,Lan.
+	Obrigada, Lan.
 	Espero te ver de
 	novo qualquer dia!
 	"""
@@ -273,7 +273,7 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = Ty
 	msgOpen
-	"Mana,você tá bem?!"
+	"Mana, você tá bem?!"
 	keyWait
 		any = false
 	clearMsg
@@ -284,7 +284,7 @@ script 21 mmbn4 {
 	mugshotShow
 		mugshot = Atsu
 	"""
-	Nossa,mana,cê é tão
+	Nossa, mana, cê é tão
 	desastrada!
 	"""
 	keyWait

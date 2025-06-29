@@ -21,7 +21,7 @@ script 1 mmbn4 {
 	"""
 	Parece saudável,
 	mas não tá bem da
-	cabeça,não!
+	cabeça, não!
 	"""
 	keyWait
 		any = false

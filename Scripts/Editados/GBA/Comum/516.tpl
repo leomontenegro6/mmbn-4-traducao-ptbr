@@ -12,7 +12,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Porém,ela andava
+	Porém, ela andava
 	agindo muito
 	estranho.
 	"""
@@ -21,14 +21,14 @@ script 0 mmbn4 {
 	clearMsg
 	"""
 	Sempre acostumada a
-	cortar lenha,agora
+	cortar lenha, agora
 	só usava seu
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"****",e ficara
+	"****", e ficara
 	cuidadosa com a
 	própria aparência...
 	"""
@@ -61,7 +61,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Ah,já entendi!"
+	"Ah, já entendi!"
 	keyWait
 		any = false
 	clearMsg
@@ -121,7 +121,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Tá,entendi!"
+	"Tá, entendi!"
 	keyWait
 		any = false
 	clearMsg
@@ -149,8 +149,8 @@ script 6 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E,diferente da
-	jangada,haverá
+	E, diferente da
+	jangada, haverá
 	vários vírus lá!
 	"""
 	keyWait

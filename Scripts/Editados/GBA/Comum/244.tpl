@@ -11,8 +11,8 @@ script 0 mmbn4 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Ah,Lan! Chegou em
-	boa hora,é.
+	Ah, Lan! Chegou em
+	boa hora, é.
 	"""
 	keyWait
 		any = false
@@ -28,7 +28,7 @@ script 0 mmbn4 {
 	"""
 	Ouvi que tinha
 	fumaça saindo do seu
-	computador,é!
+	computador, é!
 	"""
 	keyWait
 		any = false
@@ -43,7 +43,7 @@ script 0 mmbn4 {
 		mugshot = Higsby
 	"""
 	Porque a sua mãe me
-	ligou,é!
+	ligou, é!
 	
 	"""
 	keyWait
@@ -51,7 +51,7 @@ script 0 mmbn4 {
 	clearMsg
 	"""
 	Eu tava tentando
-	achar isto aqui,é!
+	achar isto aqui, é!
 	Pode levar!
 	"""
 	keyWait
@@ -80,14 +80,14 @@ script 0 mmbn4 {
 		mugshot = Higsby
 	"""
 	Essa arma apaga
-	fogo,é!
+	fogo, é!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Em vez de balas,
-	ela dispara água,é!
+	ela dispara água, é!
 	"""
 	keyWait
 		any = false
@@ -118,7 +118,7 @@ script 0 mmbn4 {
 	clearMsg
 	"""
 	Boa sorte.
-	E tome cuidado,é!
+	E tome cuidado, é!
 	"""
 	keyWait
 		any = false
@@ -130,13 +130,13 @@ script 1 mmbn4 {
 	msgOpen
 	"""
 	Se a barra estiver
-	no máximo,ela apaga
+	no máximo, ela apaga
 	qualquer incêndio!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"É uma sensação boa\ndemais,é!"
+	"É uma sensação boa\ndemais, é!"
 	keyWait
 		any = false
 	end
@@ -149,7 +149,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Higsby
 	msgOpen
-	"Bem-vindo,é!"
+	"Bem-vindo, é!"
 	keyWait
 		any = false
 	jump
@@ -166,9 +166,9 @@ script 4 mmbn4 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Bem-vindo,é!
+	Bem-vindo, é!
 	Eu finalmente voltei
-	ao trabalho,é!
+	ao trabalho, é!
 	"""
 	keyWait
 		any = false
@@ -176,7 +176,7 @@ script 4 mmbn4 {
 	"""
 	... E reinstalei o
 	nosso sistema de
-	encomendas,é!
+	encomendas, é!
 	"""
 	keyWait
 		any = false
@@ -191,14 +191,14 @@ script 4 mmbn4 {
 	"""
 	É só me dar o nome
 	que eu encomendo ele
-	pra você,é!
+	pra você, é!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Então,em que posso
-	ajudar,é?
+	Então, em que posso
+	ajudar, é?
 	"""
 	keyWait
 		any = false
@@ -254,9 +254,9 @@ script 5 mmbn4 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Bem-vindo,é!
+	Bem-vindo, é!
 	Em que posso ajudar
-	hoje,é?
+	hoje, é?
 	"""
 	keyWait
 		any = false
@@ -312,8 +312,8 @@ script 6 mmbn4 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Desculpe,é...
-	Esgotou tudo,é...
+	Desculpe, é...
+	Esgotou tudo, é...
 	"""
 	keyWait
 		any = false
@@ -335,7 +335,7 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Higsby
 	msgOpen
-	"Volte sempre,é!"
+	"Volte sempre, é!"
 	keyWait
 		any = false
 	end
@@ -375,7 +375,7 @@ script 11 mmbn4 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	Aí,Lan! Ficou
+	Aí, Lan! Ficou
 	sabendo dos
 	Torneios Livres?
 	"""
@@ -446,7 +446,7 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Se você vence,ganha
+	Se você vence, ganha
 	coisas da Loja do
 	Higsby!
 	"""
@@ -541,7 +541,7 @@ script 21 mmbn4 {
 	clearMsg
 	"""
 	... e se o número
-	for sorteado,você
+	for sorteado, você
 	ganha um prêmio!
 	"""
 	keyWait
@@ -583,7 +583,7 @@ script 30 mmbn4 {
 	msgOpen
 	"""
 	Tá rolando um tal de
-	Torneio Águia,né?
+	Torneio Águia, né?
 	"""
 	keyWait
 		any = false
@@ -597,7 +597,7 @@ script 30 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	... Pelo menos,é o
+	... Pelo menos, é o
 	que o Higsby sempre
 	diz...
 	"""
@@ -611,7 +611,7 @@ script 31 mmbn4 {
 	msgOpen
 	"""
 	Tá rolando um tal de
-	Torneio Falcão,né?
+	Torneio Falcão, né?
 	"""
 	keyWait
 		any = false
@@ -625,7 +625,7 @@ script 31 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	... Pelo menos,é o
+	... Pelo menos, é o
 	que o Higsby sempre
 	diz...
 	"""
@@ -700,7 +700,7 @@ script 45 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Digo,é bem difícil,
+	Digo, é bem difícil,
 	né?
 	"""
 	keyWait
@@ -715,7 +715,7 @@ script 45 mmbn4 {
 	clearMsg
 	"""
 	Você é realmente
-	incrível,Lan!
+	incrível, Lan!
 	"""
 	keyWait
 		any = false

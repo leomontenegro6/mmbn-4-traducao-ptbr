@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = Shuko
 	msgOpen
 	"""
-	Oi,Atsu. Oi,Tai.
+	Oi, Atsu. Oi, Tai.
 	Há quanto tempo!
 	Como estão vocês?
 	"""
@@ -20,7 +20,7 @@ script 1 mmbn4 {
 		mugshot = Atsu
 	"""
 	A gente tá ótimo!
-	Né,Tai?
+	Né, Tai?
 	"""
 	keyWait
 		any = false
@@ -33,7 +33,7 @@ script 2 mmbn4 {
 		mugshot = Ty
 	"""
 	Aham. É só olhar pra
-	gente! E você,Shuko?
+	gente! E você, Shuko?
 	"""
 	keyWait
 		any = false
@@ -47,7 +47,7 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Sabe,com você
+	Sabe, com você
 	pagando a escola pra
 	gente e tudo mais...
 	"""
@@ -61,9 +61,9 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Shuko
 	"""
-	He he. Obrigada,mas
+	He he. Obrigada, mas
 	eu também tô bem.
-	Dá pra ver,né?
+	Dá pra ver, né?
 	"""
 	keyWait
 		any = false
@@ -75,7 +75,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Ty
 	"""
-	Então,Shuko...
+	Então, Shuko...
 	Cê ainda tá usando
 	aquilo?
 	"""
@@ -107,8 +107,8 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Shuko
 	"""
-	Ah,aquilo? É,eu
-	ainda uso,sim.
+	Ah, aquilo? É, eu
+	ainda uso, sim.
 	"""
 	keyWait
 		any = false
@@ -116,7 +116,7 @@ script 6 mmbn4 {
 	"""
 	É tão barulhenta,
 	com todo aquele
-	"xuá,xuá"...
+	"xuá, xuá"...
 	"""
 	keyWait
 		any = false
@@ -128,7 +128,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Atsu
 	"""
-	Enfim,a gente queria
+	Enfim, a gente queria
 	falar uma coisa
 	contigo.
 	"""
@@ -137,7 +137,7 @@ script 7 mmbn4 {
 	clearMsg
 	"""
 	Como você é uma irmã
-	incrível,a gente te
+	incrível, a gente te
 	comprou uma nova.
 	"""
 	keyWait
@@ -200,7 +200,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Ty
 	"""
-	Tá decidido,então!
+	Tá decidido, então!
 	Joga ela fora depois
 	do torneio!
 	"""
@@ -228,14 +228,14 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = Shuko
 	"""
-	Ai,mal posso esperar
+	Ai, mal posso esperar
 	pra jogar ela fora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Tá,gente,tenho que
+	Tá, gente, tenho que
 	ir pra Rede agora.
 	Torçam por mim!
 	"""
@@ -248,7 +248,7 @@ script 12 mmbn4 {
 script 13 mmbn4 {
 	mugshotShow
 		mugshot = Atsu
-	"Boa sorte,mana!"
+	"Boa sorte, mana!"
 	keyWait
 		any = false
 	clearMsg
@@ -272,7 +272,7 @@ script 15 mmbn4 {
 		mugshot = Ty
 	msgOpen
 	"""
-	"Xuá,xuá"...
+	"Xuá, xuá"...
 	Faz tanto barulho...
 	"""
 	keyWait
@@ -318,7 +318,7 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = Atsu
 	msgOpen
-	"Opa,uma ligação!"
+	"Opa, uma ligação!"
 	keyWait
 		any = false
 	clearMsg
@@ -372,7 +372,7 @@ script 20 mmbn4 {
 	clearMsg
 	"""
 	Ele saiu correndo
-	Rede adentro,se
+	Rede adentro, se
 	acabando de chorar.
 	"""
 	keyWait
@@ -396,7 +396,7 @@ script 21 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Atsu,cê trouxe um
+	Atsu, cê trouxe um
 	"
 	"""
 	printItem
@@ -413,7 +413,7 @@ script 22 mmbn4 {
 	mugshotShow
 		mugshot = Atsu
 	"""
-	Trouxe,mas,se ele
+	Trouxe, mas, se ele
 	foi pra Rede...
 	Ela deve estar...
 	"""
@@ -435,7 +435,7 @@ script 23 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Atsu,tenta achar
+	Atsu, tenta achar
 	alguém que possa
 	ajudar!
 	"""

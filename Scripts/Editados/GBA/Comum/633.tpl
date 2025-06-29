@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Higsby
 	msgOpen
-	"Ah,Lan! É."
+	"Ah, Lan! É."
 	keyWait
 		any = false
 	clearMsg
@@ -28,14 +28,14 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = Higsby
-	"Ah,é. É,aquilo."
+	"Ah, é. É, aquilo."
 	keyWait
 		any = false
 	clearMsg
 	"""
 	A minha loja tá
 	encarando a maior
-	crise de todas,é.
+	crise de todas, é.
 	"""
 	keyWait
 		any = false
@@ -98,7 +98,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = BlackMan
 	"""
-	Eu sou Cone,assessor
+	Eu sou Cone, assessor
 	especial da NAM.
 	Prazer!
 	"""
@@ -124,7 +124,7 @@ script 9 mmbn4 {
 	"""
 	Uma das cinco
 	maiores empresas de
-	Ni... Não,do mundo!
+	Ni... Não, do mundo!
 	"""
 	keyWait
 		any = false
@@ -132,7 +132,7 @@ script 9 mmbn4 {
 	"""
 	Me deram muito
 	financiamento pra
-	abrir a loja,é.
+	abrir a loja, é.
 	"""
 	keyWait
 		any = false
@@ -148,7 +148,7 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,infelizmente,a
+	Mas, infelizmente, a
 	Loja não tem tido
 	muito lucro.
 	"""
@@ -171,7 +171,7 @@ script 11 mmbn4 {
 		mugshot = Higsby
 	"""
 	Não posso negar
-	isso,é...
+	isso, é...
 	"""
 	keyWait
 		any = false
@@ -184,7 +184,7 @@ script 12 mmbn4 {
 		mugshot = BlackMan
 	"""
 	A localização é óti-
-	ma,em uma área resi-
+	ma, em uma área resi-
 	dencial com parque!
 	"""
 	keyWait
@@ -199,7 +199,7 @@ script 12 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Então,já passou da
+	Então, já passou da
 	hora de fechar a
 	Loja do Higsby!
 	"""
@@ -291,7 +291,7 @@ script 18 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ah,cara! Estou tão
+	Ah, cara! Estou tão
 	animado por ser par-
 	te desse projeto!
 	"""
@@ -315,7 +315,7 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = BlackMan
 	"""
-	De todo modo,é,esta
+	De todo modo, é, esta
 	loja não rentável
 	tem que sumir.
 	"""
@@ -324,7 +324,7 @@ script 20 mmbn4 {
 	clearMsg
 	"""
 	Então arruma logo as
-	malas aí,amigo!
+	malas aí, amigo!
 	"""
 	keyWait
 		any = false
@@ -343,7 +343,7 @@ script 21 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ah,mas que
+	Ah, mas que
 	frustrante! É!
 	Argh!
 	"""
@@ -374,7 +374,7 @@ script 23 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Higsby,não tem como
+	Higsby, não tem como
 	sair dessa roubada?
 	"""
 	keyWait
@@ -389,7 +389,7 @@ script 24 mmbn4 {
 	"""
 	Só impressionando o
 	cara da NAM com
-	altos lucros,é.
+	altos lucros, é.
 	"""
 	keyWait
 		any = false
@@ -434,8 +434,8 @@ script 26 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Nanako,cuida da
-	loja,é!
+	Nanako, cuida da
+	loja, é!
 	"""
 	keyWait
 		any = false
@@ -457,7 +457,7 @@ script 28 mmbn4 {
 	mugshotShow
 		mugshot = Higsby
 	"""
-	Lan,me ajude com os
+	Lan, me ajude com os
 	panfletos!
 	"""
 	keyWait
@@ -473,7 +473,7 @@ script 29 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"... Pera,eu também?"
+	"... Pera, eu também?"
 	keyWait
 		any = false
 	clearMsg
@@ -485,7 +485,7 @@ script 30 mmbn4 {
 		mugshot = Higsby
 	"""
 	Perfeito!
-	Vamos nessa,equipe!
+	Vamos nessa, equipe!
 	É!
 	"""
 	keyWait
@@ -498,7 +498,7 @@ script 31 mmbn4 {
 	msgOpen
 	"""
 	Distribua estes
-	panfletos,por
+	panfletos, por
 	favor!
 	"""
 	keyWait
@@ -543,7 +543,7 @@ script 33 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Distribua,no mínimo,
+	Distribua, no mínimo,
 	10!
 	"""
 	keyWait

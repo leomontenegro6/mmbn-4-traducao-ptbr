@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Não,ainda não tá
+	Não, ainda não tá
 	na hora da luta!
 	"""
 	keyWait
@@ -17,7 +17,7 @@ script 1 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,por que você
+	Lan, por que você
 	tá voltando...?
 	"""
 	keyWait
@@ -36,7 +36,7 @@ script 130 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Lan,obrigada por
+	Lan, obrigada por
 	salvar a Roll!
 	"""
 	keyWait
@@ -76,7 +76,7 @@ script 131 mmbn4 {
 	msgOpen
 	"""
 	Eu sabia que podia
-	contar com você,Lan!
+	contar com você, Lan!
 	"""
 	keyWait
 		any = false

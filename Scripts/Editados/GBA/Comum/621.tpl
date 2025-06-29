@@ -42,7 +42,7 @@ script 0 mmbn4 {
 		mugshot = Lan
 	"""
 	O quê?!
-	Rápido,desconecta!
+	Rápido, desconecta!
 	Cê vai se afogar!
 	"""
 	keyWait
@@ -64,7 +64,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	MegaMan,cê tem que
+	MegaMan, cê tem que
 	achar o AquaMan!
 	Rápido!
 	"""

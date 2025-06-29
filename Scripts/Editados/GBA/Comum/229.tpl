@@ -19,12 +19,12 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"Bem-vindo,Lan!"
+	"Bem-vindo, Lan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ah,você está de
+	Ah, você está de
 	saída? Para onde?
 	"""
 	keyWait
@@ -128,7 +128,7 @@ script 30 mmbn4 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Lan,arrase lá!
+	Lan, arrase lá!
 	Estarei torcendo por
 	você!
 	"""
@@ -165,7 +165,7 @@ script 40 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	... Ah,esqueci de te
+	... Ah, esqueci de te
 	mandar o e-mail!
 	"""
 	keyWait
@@ -173,14 +173,14 @@ script 40 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = Mom
-	"Bem,de um jeito ou\nde outro..."
+	"Bem, de um jeito ou\nde outro..."
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Eu posso preparar
 	uma coisinha pra
-	você,rapidinho.
+	você, rapidinho.
 	"""
 	keyWait
 		any = false
@@ -203,7 +203,7 @@ script 41 mmbn4 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Ah,Lan. Tem fumaça
+	Ah, Lan. Tem fumaça
 	saindo do seu
 	computador!
 	"""
@@ -212,7 +212,7 @@ script 41 mmbn4 {
 	clearMsg
 	"""
 	Eu não queria mexer
-	nele,para não
+	nele, para não
 	estragar...
 	"""
 	keyWait
@@ -220,7 +220,7 @@ script 41 mmbn4 {
 	clearMsg
 	"""
 	Como não sabia o que
-	fazer,mandei aquele
+	fazer, mandei aquele
 	e-mail pra você...
 	"""
 	keyWait
@@ -255,12 +255,12 @@ script 41 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Valeu,mãe!"
+	"Valeu, mãe!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,vamos lá pro
+	MegaMan, vamos lá pro
 	meu quarto!
 	"""
 	keyWait
@@ -297,7 +297,7 @@ script 43 mmbn4 {
 	msgOpen
 	"""
 	Desculpa. Não pude
-	fazer nada,Lan...
+	fazer nada, Lan...
 	"""
 	keyWait
 		any = false
@@ -308,7 +308,7 @@ script 44 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,vamos logo
+	Lan, vamos logo
 	conferir o seu
 	computador!
 	"""
@@ -321,7 +321,7 @@ script 45 mmbn4 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Então,não tá mais
+	Então, não tá mais
 	soltando fumaça?
 	Graças a Deus...
 	"""
@@ -343,7 +343,7 @@ script 47 mmbn4 {
 	clearMsg
 	"""
 	Mas que mocinha
-	educada,ela!
+	educada, ela!
 	"""
 	keyWait
 		any = false

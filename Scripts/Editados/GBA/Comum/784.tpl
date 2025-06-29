@@ -5,8 +5,8 @@ script 0 mmbn4 {
 		mugshot = MrProgGold
 	msgOpen
 	"""
-	XUÁ,XUÁ...
-	BRILHA,BRILHA...
+	XUÁ, XUÁ...
+	BRILHA, BRILHA...
 	"""
 	keyWait
 		any = false
@@ -19,7 +19,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	NO PASSADO,VÁRIOS
+	NO PASSADO, VÁRIOS
 	PROGRAMAS ERAM USA-
 	DOS PARA O DEUS,
 	"""
@@ -69,8 +69,8 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	XUÁ,XUÁ...
-	BRILHA,BRILHA...
+	XUÁ, XUÁ...
+	BRILHA, BRILHA...
 	"""
 	keyWait
 		any = false

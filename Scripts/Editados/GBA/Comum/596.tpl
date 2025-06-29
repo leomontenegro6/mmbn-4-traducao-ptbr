@@ -6,7 +6,7 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	Chegou a hora! Ami-
-	gos,os competidores
+	gos, os competidores
 	finalmente chegaram!
 	"""
 	keyWait
@@ -14,7 +14,7 @@ script 0 mmbn4 {
 	clearMsg
 	"""
 	Primeiro NetLutador:
-	Lan Hikari,do ensino
+	Lan Hikari, do ensino
 	fundamental!
 	"""
 	keyWait
@@ -37,7 +37,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Tensuke Takumi,o
+	Tensuke Takumi, o
 	NetLutador de 68
 	anos de idade!
 	"""
@@ -129,7 +129,7 @@ script 6 mmbn4 {
 	clearMsg
 	"""
 	Eu fiz mais que 
-	consertar. Agora,ele
+	consertar. Agora, ele
 	tá melhor que nunca!
 	"""
 	keyWait
@@ -137,7 +137,7 @@ script 6 mmbn4 {
 	clearMsg
 	"""
 	Agradeço a sua
-	ajuda,mas isto aqui
+	ajuda, mas isto aqui
 	é uma luta!
 	"""
 	keyWait
@@ -184,7 +184,7 @@ script 9 mmbn4 {
 		mugshot = Tensuke
 	msgOpen
 	"""
-	Menino,prepare-se
+	Menino, prepare-se
 	pra ver do que um
 	artesão é capaz!
 	"""
@@ -192,7 +192,7 @@ script 9 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Acaba com eles,novo
+	Acaba com eles, novo
 	TopMan!
 	"""
 	keyWait

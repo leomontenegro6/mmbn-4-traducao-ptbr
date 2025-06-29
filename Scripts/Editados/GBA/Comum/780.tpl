@@ -246,7 +246,7 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	ProtoMan,acorde!!
+	ProtoMan, acorde!!
 	Está me ouvindo?!
 	"""
 	keyWait
@@ -279,7 +279,7 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	Nesse ritmo,o
+	Nesse ritmo, o
 	MegaMan será
 	eliminado.
 	"""
@@ -340,9 +340,9 @@ script 23 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Com a sincronia,cê
+	Com a sincronia, cê
 	pode se ligar à
-	alma dele,sim...
+	alma dele, sim...
 	"""
 	keyWait
 		any = false
@@ -368,11 +368,11 @@ script 24 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Lan,faça o que eu\npedi..."
+	"Lan, faça o que eu\npedi..."
 	keyWait
 		any = false
 	clearMsg
-	"Aqui vou eu,\nProtoMan!"
+	"Aqui vou eu, \nProtoMan!"
 	keyWait
 		any = false
 	soundPlayBGM
@@ -500,8 +500,8 @@ script 34 mmbn4 {
 	clearMsg
 	"""
 	Só o que me lembro é
-	de ódio,malícia e
-	escuridão,seguidos
+	de ódio, malícia e
+	escuridão, seguidos
 	"""
 	keyWait
 		any = false

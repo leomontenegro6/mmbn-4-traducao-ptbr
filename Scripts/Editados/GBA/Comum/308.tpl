@@ -79,7 +79,7 @@ script 1 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Prossigamos,então.
+	Prossigamos, então.
 	"""
 	keyWait
 		any = false
@@ -97,8 +97,8 @@ script 2 mmbn4 {
 	msgOpen
 	"""
 	Volte quando estiver
-	pronto... Mas,por
-	favor,não demore!
+	pronto... Mas, por
+	favor, não demore!
 	"""
 	keyWait
 		any = false
@@ -1219,7 +1219,7 @@ script 31 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	MegaMan,pode
+	MegaMan, pode
 	desconectar quando
 	quiser!
 	"""
@@ -1375,7 +1375,7 @@ script 60 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Olá,bem-vindo!
+	Olá, bem-vindo!
 	Bem-vindo ao Cyber-
 	Mundo do Dracky!
 	"""
@@ -1399,7 +1399,7 @@ script 60 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Vamos zarpar,então?
+	Vamos zarpar, então?
 	Vamos!
 	"""
 	keyWait
@@ -1444,7 +1444,7 @@ script 61 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Você vem,então?
+	Você vem, então?
 	Ótimo! Prossigamos,
 	então!
 	"""

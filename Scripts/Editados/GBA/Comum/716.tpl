@@ -21,7 +21,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Menos a carne,que já
+	Menos a carne, que já
 	foi cortada. Só
 	deixe-a cair.
 	"""
@@ -29,13 +29,13 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Se cortá-la,você
+	Se cortá-la, você
 	perderá pontos!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Pois bem,então...\nComeçar!"
+	"Pois bem, então...\nComeçar!"
 	keyWait
 		any = false
 	end
@@ -53,7 +53,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Às vezes,vírus
+	Às vezes, vírus
 	também se misturam
 	nos ingredientes!
 	"""
@@ -62,7 +62,7 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	Quando um vírus
-	cair,empurre-o
+	cair, empurre-o
 	com o botão "A"!
 	"""
 	keyWait
@@ -77,14 +77,14 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Se o fizer,irá
+	Se o fizer, irá
 	perder muitos
 	pontos!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Certo,então...\nComeçar!"
+	"Certo, então...\nComeçar!"
 	keyWait
 		any = false
 	end
@@ -94,7 +94,7 @@ script 2 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Agora,hora da última
+	Agora, hora da última
 	rodada!
 	"""
 	keyWait
@@ -102,7 +102,7 @@ script 2 mmbn4 {
 	clearMsg
 	"""
 	Vários blocos de
-	curry cairão,então,
+	curry cairão, então,
 	"""
 	keyWait
 		any = false
@@ -132,7 +132,7 @@ script 3 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Hmm,lamento. Ainda
+	Hmm, lamento. Ainda
 	não está pronto
 	para se formar.
 	"""
@@ -149,7 +149,7 @@ script 10 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Certo,enviarei os
+	Certo, enviarei os
 	os ingredientes-
 	dados!
 	"""
@@ -159,7 +159,7 @@ script 10 mmbn4 {
 	"""
 	Use "B" para cortar
 	os ingredientes,
-	mas a carne,não!
+	mas a carne, não!
 	"""
 	keyWait
 		any = false
@@ -175,7 +175,7 @@ script 11 mmbn4 {
 	msgOpen
 	"""
 	Argh!
-	MegaMan,são vírus!
+	MegaMan, são vírus!
 	"""
 	keyWait
 		any = false
@@ -194,7 +194,7 @@ script 12 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Tá,hora dos blocos
+	Tá, hora dos blocos
 	de curry!
 	Fatia eles!
 	"""

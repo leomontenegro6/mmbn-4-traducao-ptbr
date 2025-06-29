@@ -15,7 +15,7 @@ script 10 mmbn4 {
 	"""
 	"POR QUÊ"? PORQUE
 	SOU UM PROGRAMA
-	PIÃO,BESTA!
+	PIÃO, BESTA!
 	"""
 	keyWait
 		any = false

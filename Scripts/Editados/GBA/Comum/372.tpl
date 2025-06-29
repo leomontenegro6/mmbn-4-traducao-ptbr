@@ -21,7 +21,7 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	ABERTA,ENTÃO,
+	ABERTA, ENTÃO,
 	MINHA VIDA É UM
 	TÉDIO...
 	"""

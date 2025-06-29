@@ -94,14 +94,14 @@ script 6 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	O mundo é grande,né?
+	O mundo é grande, né?
 	Sempre tem alguém
 	mais forte.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Lan,você é um homem\nde verdade."
+	"Lan, você é um homem\nde verdade."
 	keyWait
 		any = false
 	clearMsg
@@ -111,7 +111,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Você também,Tetsu!"
+	"Você também, Tetsu!"
 	keyWait
 		any = false
 	clearMsg

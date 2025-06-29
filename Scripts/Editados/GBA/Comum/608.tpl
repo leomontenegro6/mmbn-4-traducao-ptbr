@@ -46,7 +46,7 @@ script 3 mmbn4 {
 	msgOpen
 	"""
 	Já é!
-	Ei,pera aí!!
+	Ei, pera aí!!
 	"""
 	keyWait
 		any = false
@@ -68,14 +68,14 @@ script 5 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Arf,arf...
-	Arf,arf...
+	Arf, arf...
+	Arf, arf...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He he,essa aí é cheia
+	He he, essa aí é cheia
 	de energia.
 	"""
 	keyWait
@@ -89,7 +89,7 @@ script 6 mmbn4 {
 		mugshot = MegaMan
 	"""
 	Parece até uma irmã
-	caçula,né?
+	caçula, né?
 	"""
 	keyWait
 		any = false
@@ -100,7 +100,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"He he,pois é."
+	"He he, pois é."
 	keyWait
 		any = false
 	end
@@ -110,7 +110,7 @@ script 8 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,chegou e-mail!
+	Lan, chegou e-mail!
 	É da sua mãe.
 	Vou ler ele aqui.
 	"""
@@ -118,7 +118,7 @@ script 8 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	"Lan,você tem
+	"Lan, você tem
 	visita.
 	Venha para casa."
 	"""
@@ -140,7 +140,7 @@ script 9 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Tá,né. Eu vou contar
+	Tá, né. Eu vou contar
 	pra Yuko e passar em
 	casa rapidinho.
 	"""
@@ -153,7 +153,7 @@ script 10 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Foi mal,Yuko,mas eu
+	Foi mal, Yuko, mas eu
 	tenho que resolver
 	um negócio.
 	"""
@@ -169,7 +169,7 @@ script 11 mmbn4 {
 	"""
 	Tudo bem!
 	A gente se vê na
-	luta,então!
+	luta, então!
 	"""
 	keyWait
 		any = false
@@ -187,7 +187,7 @@ script 12 mmbn4 {
 	"""
 	Vença quem vencer,
 	a gente brinca de
-	novo depois,tá bom?
+	novo depois, tá bom?
 	"""
 	keyWait
 		any = false

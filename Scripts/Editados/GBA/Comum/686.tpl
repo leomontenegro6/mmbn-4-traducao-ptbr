@@ -6,7 +6,7 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	WoodMan...
-	Então,nosso oponente
+	Então, nosso oponente
 	é o Navi da Sal.
 	"""
 	keyWait
@@ -21,7 +21,7 @@ script 1 mmbn4 {
 	"""
 	Faz tempo que a
 	gente não fala com
-	ela,né?
+	ela, né?
 	"""
 	keyWait
 		any = false
@@ -42,7 +42,7 @@ script 2 mmbn4 {
 	"""
 	Coisas... de
 	preservação da
-	natureza,talvez?
+	natureza, talvez?
 	"""
 	keyWait
 		any = false

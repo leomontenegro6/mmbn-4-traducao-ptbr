@@ -136,7 +136,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	POR SINAL,O SONAR SÓ
+	POR SINAL, O SONAR SÓ
 	SE ATIVA POR PERÍO-
 	DOS DE 10 SEGUNDOS.
 	"""
@@ -184,7 +184,7 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	ERAM TÃO IRRITANTES,
-	NÉ? ENFIM,MOSTRE-ME
+	NÉ? ENFIM, MOSTRE-ME
 	OS DADOS.
 	"""
 	keyWait
@@ -216,7 +216,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	PRONTO,ME LIVREI DOS
+	PRONTO, ME LIVREI DOS
 	"CYBER MORCEGOS"!
 	"""
 	keyWait
@@ -419,8 +419,8 @@ script 160 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Bem,acho que vou
-	levar um,então!
+	Bem, acho que vou
+	levar um, então!
 	"""
 	keyWait
 		any = false
@@ -443,7 +443,7 @@ script 160 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	Então,é uma loja de
+	Então, é uma loja de
 	ACDC? Concorrente
 	da EletroVila?
 	"""
@@ -472,7 +472,7 @@ script 162 mmbn4 {
 	msgOpen
 	"""
 	Puxa! Tem uns itens
-	bem raros,pra uma
+	bem raros, pra uma
 	loja pequena!
 	"""
 	keyWait
@@ -495,7 +495,7 @@ script 163 mmbn4 {
 	msgOpen
 	"""
 	Está distribuindo
-	panfletos,é?
+	panfletos, é?
 	Aceito um!
 	"""
 	keyWait
@@ -518,7 +518,7 @@ script 163 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = PurpleNavi
-	"Uma loja de chips,é?"
+	"Uma loja de chips, é?"
 	keyWait
 		any = false
 	clearMsg

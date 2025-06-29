@@ -5,7 +5,7 @@ script 10 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	EI,MEU JOVEM! MEUS
+	EI, MEU JOVEM! MEUS
 	CACHORROS-QUENTES
 	SÃO DIVINOS!
 	"""

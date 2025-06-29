@@ -47,8 +47,8 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Após milênios,ele
-	será,mais uma vez,
+	Após milênios, ele
+	será, mais uma vez,
 	"""
 	keyWait
 		any = false
@@ -80,7 +80,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Aí,falarei pra todo
+	Aí, falarei pra todo
 	o mundo o quanto a
 	Ameropa é incrível!
 	"""
@@ -245,7 +245,7 @@ script 10 mmbn4 {
 	"""
 	Espero que aprendam
 	sobre a história da
-	Ameropa,também!
+	Ameropa, também!
 	"""
 	keyWait
 		any = false
@@ -270,7 +270,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = BlackMan
 	msgOpen
-	"Oi,Lan! Foi mal por\npegar tão pesado\ncom você ontem!"
+	"Oi, Lan! Foi mal por\npegar tão pesado\ncom você ontem!"
 	keyWait
 		any = false
 	clearMsg
@@ -458,7 +458,7 @@ script 21 mmbn4 {
 	msgOpen
 	"""
 	Ha ha ha ha!
-	Boa,Lan!
+	Boa, Lan!
 	"""
 	keyWait
 		any = false
@@ -495,7 +495,7 @@ script 23 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"... Não,espera!"
+	"... Não, espera!"
 	keyWait
 		any = false
 	clearMsg
@@ -541,7 +541,7 @@ script 25 mmbn4 {
 	msgOpen
 	"""
 	Eu vim torcer por
-	você. Boa sorte,Lan!
+	você. Boa sorte, Lan!
 	"""
 	keyWait
 		any = false
@@ -570,7 +570,7 @@ script 26 mmbn4 {
 	"""
 	A gente veio lá de
 	Ni-Hon pra torcer
-	por você! Vence,viu!
+	por você! Vence, viu!
 	"""
 	keyWait
 		any = false
@@ -599,7 +599,7 @@ script 27 mmbn4 {
 	"""
 	Hi hi! Surpreso?
 	Com o meu jatinho
-	particular,vir pra
+	particular, vir pra
 	"""
 	keyWait
 		any = false
@@ -644,8 +644,8 @@ script 29 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ah,mas eu vou torcer
-	por você também,Lan.
+	Ah, mas eu vou torcer
+	por você também, Lan.
 	Claro.
 	"""
 	keyWait
@@ -672,13 +672,13 @@ script 31 mmbn4 {
 	"""
 	Urrú! Você tá
 	mandando benzaço
-	lá,Lanny! 
+	lá, Lanny! 
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Olha,acho até que
+	Olha, acho até que
 	você vai sair
 	campeão mundial!
 	"""
@@ -693,13 +693,13 @@ script 32 mmbn4 {
 	"""
 	Eu quero possuir
 	a estátua de
-	Nupopo,da Affriq!
+	Nupopo, da Affriq!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	... Não,não é esse o
+	... Não, não é esse o
 	meu desejo. Eu não
 	sei o que eu quero!
 	"""
@@ -739,7 +739,7 @@ script 34 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Você é incrível,Lan!"
+	"Você é incrível, Lan!"
 	keyWait
 		any = false
 	end
@@ -775,7 +775,7 @@ script 40 mmbn4 {
 		mugshot = Kosuke
 	msgOpen
 	"""
-	A seguir,a final!
+	A seguir, a final!
 	Os dois melhores do
 	mundo vão lutar no
 	"""
@@ -822,7 +822,7 @@ script 42 mmbn4 {
 	msgOpen
 	"""
 	Tem tantas coisas
-	que eu quero,que
+	que eu quero, que
 	eu não sei por qual
 	"""
 	keyWait
@@ -841,7 +841,7 @@ script 43 mmbn4 {
 	mugshotShow
 		mugshot = BusinessMan
 	msgOpen
-	"Ei,Lan!"
+	"Ei, Lan!"
 	keyWait
 		any = false
 	clearMsg
@@ -867,7 +867,7 @@ script 44 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Boa sorte,Lan!!"
+	"Boa sorte, Lan!!"
 	keyWait
 		any = false
 	end
@@ -894,7 +894,7 @@ script 45 mmbn4 {
 	"""
 	Não foi só acaso
 	que te trouxe
-	longe assim,Lan.
+	longe assim, Lan.
 	"""
 	keyWait
 		any = false
@@ -934,7 +934,7 @@ script 50 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Em particular,eu
+	Em particular, eu
 	adorei o show de
 	helicóptero depois!
 	"""
@@ -1106,7 +1106,7 @@ script 61 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	ficarem em casa,mas
+	ficarem em casa, mas
 	o motivo pra isso é
 	confidencial.
 	"""
@@ -1127,14 +1127,14 @@ script 65 mmbn4 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Eu sou,tipo,um
+	Eu sou, tipo, um
 	civil.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Então,er... melhor
+	Então, er... melhor
 	eu arranjar um lugar
 	pra me esconder!
 	"""
@@ -1228,7 +1228,7 @@ script 220 mmbn4 {
 }
 script 221 mmbn4 {
 	clearMsg
-	"\"Quem se prepara,\n não tem com o que\n se preocupar.\""
+	"\"Quem se prepara, \n não tem com o que\n se preocupar.\""
 	keyWait
 		any = false
 	clearMsg

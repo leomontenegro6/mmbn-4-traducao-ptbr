@@ -6,7 +6,7 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	Já está na hora da
-	luta,mas o Lan
+	luta, mas o Lan
 	ainda não chegou.
 	"""
 	keyWait
@@ -42,7 +42,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	He he he,uma vitória
+	He he he, uma vitória
 	para Viddy!
 	"""
 	keyWait
@@ -57,7 +57,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Em breve,poderei te
+	Em breve, poderei te
 	converter a um
 	formato digital!
 	"""
@@ -84,7 +84,7 @@ script 2 mmbn4 {
 	clearMsg
 	"""
 	Se eu vencer este
-	torneio,receberei
+	torneio, receberei
 	um upgrade!
 	"""
 	keyWait
@@ -110,7 +110,7 @@ script 3 mmbn4 {
 	clearMsg
 	"""
 	Após ir pro formato
-	digital,ninguém mais
+	digital, ninguém mais
 	irá reclamar sobre
 	"""
 	keyWait
@@ -159,7 +159,7 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotShow
 		mugshot = ViddyNarcy
-	"Ah,mal aguento\nesperar!"
+	"Ah, mal aguento\nesperar!"
 	keyWait
 		any = false
 	clearMsg

@@ -64,7 +64,7 @@ script 5 mmbn4 {
 	clearMsg
 	"""
 	Eu posso acabar
-	assim também,se
+	assim também, se
 	eu...
 	"""
 	keyWait
@@ -123,7 +123,7 @@ script 10 mmbn4 {
 script 11 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
-	"Ah,tanta dor..."
+	"Ah, tanta dor..."
 	keyWait
 		any = false
 	end
@@ -463,7 +463,7 @@ script 48 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Como Navi,eu sinto
+	Como Navi, eu sinto
 	muito por eles.
 	"""
 	keyWait

@@ -28,7 +28,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Atenção,MegaMan!"
+	"Atenção, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -56,7 +56,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	"""
-	Vão lá,vírus!
+	Vão lá, vírus!
 	Devorem ele todinho!
 	"""
 	keyWait

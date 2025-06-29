@@ -35,7 +35,7 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Está fechado,mas dá
+	Está fechado, mas dá
 	para sentir grande
 	poder dentro dele...
 	"""

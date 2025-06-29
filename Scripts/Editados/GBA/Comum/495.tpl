@@ -20,7 +20,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,então,como a
+	Mas, então, como a
 	gente vai parar o
 	Robô?
 	"""
@@ -52,9 +52,9 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	... Ah,aquele botão?
+	... Ah, aquele botão?
 	Era um empecilho,
-	daí,me livrei dele.
+	daí, me livrei dele.
 	"""
 	keyWait
 		any = false
@@ -85,7 +85,7 @@ script 6 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Receio que seja,sim!"
+	"Receio que seja, sim!"
 	keyWait
 		any = false
 	clearMsg
@@ -96,7 +96,7 @@ script 6 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"de Django,\no Garoto Solar?"
+	"de Django, \no Garoto Solar?"
 	keyWait
 		any = false
 	end
@@ -192,15 +192,15 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	É,a sua deleção será
+	É, a sua deleção será
 	deliciosa mesmo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mas,se me der o Chip
-	das Trevas,eu
+	Mas, se me der o Chip
+	das Trevas, eu
 	poupo a sua vida.
 	"""
 	keyWait
@@ -243,7 +243,7 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Agora vamos,entre-
+	Agora vamos, entre-
 	gue-no de uma vez
 	ou junte-se a nós!
 	"""
@@ -333,7 +333,7 @@ script 16 mmbn4 {
 		mugshot = ShadeMan
 	msgOpen
 	"""
-	Ah,sim,sim...
+	Ah, sim, sim...
 	Entregue-o a mim.
 	"""
 	keyWait
@@ -345,7 +345,7 @@ script 16 mmbn4 {
 script 17 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Vamos lá,Lan!"
+	"Vamos lá, Lan!"
 	keyWait
 		any = false
 	end
@@ -393,7 +393,7 @@ script 20 mmbn4 {
 		mugshot = ShadeMan
 	"""
 	Hye-heee...
-	Ah,mas você irá
+	Ah, mas você irá
 	pagar por isso!!
 	"""
 	keyWait
@@ -413,7 +413,7 @@ script 20 mmbn4 {
 script 21 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Lan,lá vem ele!"
+	"Lan, lá vem ele!"
 	keyWait
 		any = false
 	clearMsg

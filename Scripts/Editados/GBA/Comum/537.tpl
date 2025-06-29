@@ -36,7 +36,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Dad
 	"""
-	Lan,é o seu pai.
+	Lan, é o seu pai.
 	Está me ouvindo?
 	"""
 	keyWait
@@ -49,7 +49,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Tô sim,pai!
+	Tô sim, pai!
 	Algum problema?
 	"""
 	keyWait
@@ -77,7 +77,7 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Porém,Oficiais de
+	Porém, Oficiais de
 	Ameropa não têm
 	jurisdição para
 	"""
@@ -86,7 +86,7 @@ script 4 mmbn4 {
 	clearMsg
 	"""
 	operarem na Rede
-	de Ni-Hon,e os
+	de Ni-Hon, e os
 	Oficiais de Ni-Hon
 	"""
 	keyWait
@@ -115,12 +115,12 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = Dad
-	"Obrigado,Lan!"
+	"Obrigado, Lan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Primeiro,encontre
+	Primeiro, encontre
 	o Navi Oficial na
 	Área Ameropa.
 	"""
@@ -135,7 +135,7 @@ script 6 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Conto com você,Lan!
+	Conto com você, Lan!
 	"""
 	keyWait
 		any = false
@@ -146,7 +146,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Sim,senhor!"
+	"Sim, senhor!"
 	keyWait
 		any = false
 	end

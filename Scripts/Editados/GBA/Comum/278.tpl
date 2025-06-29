@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,essa aí é a
+	Lan, essa aí é a
 	entrada!
 	"""
 	keyWait
@@ -42,14 +42,14 @@ script 1 mmbn4 {
 		mugshot = DirectorOzuma
 	msgOpen
 	"""
-	Sou Ozma,diretor do
+	Sou Ozma, diretor do
 	tema desta atração,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"Django,o Garoto
+	"Django, o Garoto
 	Solar".
 	"""
 	keyWait
@@ -76,8 +76,8 @@ script 5 mmbn4 {
 	msgOpen
 	"""
 	Sei que ninguém iria
-	acreditar,mas Djan-
-	go,o Garoto Solar,
+	acreditar, mas Djan-
+	go, o Garoto Solar,
 	"""
 	keyWait
 		any = false
@@ -102,8 +102,8 @@ script 10 mmbn4 {
 		mugshot = DirectorOzuma
 	msgOpen
 	"""
-	Um dia,enquanto eu
-	estava na Rede,um
+	Um dia, enquanto eu
+	estava na Rede, um
 	Navi vampiro
 	"""
 	keyWait
@@ -118,9 +118,9 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	forte,mas,bem quando
+	forte, mas, bem quando
 	achei que seria
-	deletado,o Django
+	deletado, o Django
 	"""
 	keyWait
 		any = false
@@ -165,7 +165,7 @@ script 20 mmbn4 {
 	clearMsg
 	"""
 	lutando contra o
-	mal,e eu vou me jun-
+	mal, e eu vou me jun-
 	tar à luta também!
 	"""
 	keyWait
@@ -179,7 +179,7 @@ script 20 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"\"Django,o Garoto\nSolar\"!"
+	"\"Django, o Garoto\nSolar\"!"
 	keyWait
 		any = false
 	end
@@ -225,7 +225,7 @@ script 25 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"3,4..."
+	"3, 4..."
 	keyWait
 		any = false
 	clearMsg
@@ -236,7 +236,7 @@ script 25 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"5,6..."
+	"5, 6..."
 	keyWait
 		any = false
 	clearMsg
@@ -248,7 +248,7 @@ script 25 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"7,8..."
+	"7, 8..."
 	keyWait
 		any = false
 	clearMsg

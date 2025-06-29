@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,o papai voltou!"
+	"Lan, o papai voltou!"
 	keyWait
 		any = false
 	end
@@ -27,7 +27,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Dad
 	"""
-	Ah,Mayl,Yai.
+	Ah, Mayl, Yai.
 	Há quanto tempo.
 	"""
 	keyWait
@@ -39,7 +39,7 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
-	"Oi,Sr.Hikari."
+	"Oi, Sr.Hikari."
 	keyWait
 		any = false
 	clearMsg
@@ -60,8 +60,8 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	E aí,já terminou
-	as compras,pai?
+	E aí, já terminou
+	as compras, pai?
 	"""
 	keyWait
 		any = false
@@ -73,7 +73,7 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Dad
 	"""
-	Terminei,mas...
+	Terminei, mas...
 	"""
 	keyWait
 		any = false
@@ -121,13 +121,13 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = Dad
-	"Na verdade,sim."
+	"Na verdade, sim."
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Eu ainda não sei o
-	que houve,mas preci-
+	que houve, mas preci-
 	so ir à Ameropa.
 	"""
 	keyWait
@@ -166,8 +166,8 @@ script 10 mmbn4 {
 		mugshot = Dad
 	"""
 	Eu vou ficar um
-	tempo fora,então,
-	cuida da casa,filho.
+	tempo fora, então,
+	cuida da casa, filho.
 	"""
 	keyWait
 		any = false
@@ -189,7 +189,7 @@ script 11 mmbn4 {
 	"""
 	Tá tranquilo. Não
 	se preocupa com a
-	gente,pai.
+	gente, pai.
 	"""
 	keyWait
 		any = false
@@ -206,12 +206,12 @@ script 12 mmbn4 {
 		mugshot = Dad
 	"""
 	Depois eu te
-	compenso,prometo.
+	compenso, prometo.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Tá,vou lá,então."
+	"Tá, vou lá, então."
 	keyWait
 		any = false
 	clearMsg
@@ -222,7 +222,7 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Até mais,pai.
+	Até mais, pai.
 	E se cuida!
 	"""
 	keyWait
@@ -243,7 +243,7 @@ script 14 mmbn4 {
 	clearMsg
 	"""
 	A gente se fala na
-	Rede,Lan. Estaremos
+	Rede, Lan. Estaremos
 	na Área ACDC.
 	"""
 	keyWait
@@ -266,14 +266,14 @@ script 15 mmbn4 {
 	"""
 	Porque os seus ami-
 	gos aqui são bons
-	assim,sabe?
+	assim, sabe?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Enfim,até depois,
-	Lan. Vamos,Mayl.
+	Enfim, até depois,
+	Lan. Vamos, Mayl.
 	"""
 	keyWait
 		any = false
@@ -284,7 +284,7 @@ script 15 mmbn4 {
 script 16 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
-	"Tchau,Lan."
+	"Tchau, Lan."
 	keyWait
 		any = false
 	clearMsg
@@ -318,7 +318,7 @@ script 19 mmbn4 {
 		mugshot = Lan
 	"""
 	Acontece... Cabeça
-	pra cima,e bora
+	pra cima, e bora
 	pra Praça.
 	"""
 	keyWait

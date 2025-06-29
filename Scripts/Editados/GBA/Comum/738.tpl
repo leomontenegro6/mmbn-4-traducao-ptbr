@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Então,você é o\nKendoMan?"
+	"Então, você é o\nKendoMan?"
 	keyWait
 		any = false
 	clearMsg
@@ -30,7 +30,7 @@ script 2 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	S-sim,senhor,
+	S-sim, senhor,
 	Sensei KendoMan!
 	"""
 	keyWait
@@ -80,7 +80,7 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Hum,espera aí.
+	Hum, espera aí.
 	Eu não sou...
 	"""
 	keyWait
@@ -96,7 +96,7 @@ script 7 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Tome,pegue isto!"
+	"Tome, pegue isto!"
 	keyWait
 		any = false
 	clearMsg
@@ -131,7 +131,7 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Er,com licença..."
+	"Er, com licença..."
 	keyWait
 		any = false
 	clearMsg
@@ -150,7 +150,7 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Primeiro,você treina
+	Primeiro, você treina
 	golpes na máquina de
 	treino de kendô na
 	"""
@@ -164,7 +164,7 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Depois,você encara a
+	Depois, você encara a
 	máquina na Área
 	Ameropa.
 	"""
@@ -172,7 +172,7 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Daí,é a vez da
+	Daí, é a vez da
 	máquina na Área
 	Sharo!
 	"""
@@ -208,7 +208,7 @@ script 10 mmbn4 {
 script 11 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Ahn,tá!"
+	"Ahn, tá!"
 	keyWait
 		any = false
 	clearMsg
@@ -226,7 +226,7 @@ script 12 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Boa sorte,MegaMan!"
+	"Boa sorte, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -260,7 +260,7 @@ script 14 mmbn4 {
 script 15 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Er,sim,senhor!"
+	"Er, sim, senhor!"
 	keyWait
 		any = false
 	end

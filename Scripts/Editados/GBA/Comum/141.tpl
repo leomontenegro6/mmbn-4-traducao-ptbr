@@ -41,7 +41,7 @@ script 1 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,vamos ligar o
+	Lan, vamos ligar o
 	sistema sonar.
 	"""
 	keyWait
@@ -97,7 +97,7 @@ script 7 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Ah,o sistema
+	Ah, o sistema
 	sonar... Ele não
 	vai funcionar assim.
 	"""
@@ -110,7 +110,7 @@ script 8 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,o sonar ainda tá
+	Lan, o sonar ainda tá
 	ativado!
 	"""
 	keyWait
@@ -122,7 +122,7 @@ script 9 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,você já pegou
+	Lan, você já pegou
 	todos os
 	"
 	"""
@@ -154,7 +154,7 @@ script 11 mmbn4 {
 	"""
 	Não precisamos ligar
 	o sistema sonar
-	agora,precisamos?
+	agora, precisamos?
 	"""
 	keyWait
 		any = false

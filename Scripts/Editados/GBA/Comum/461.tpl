@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = ShadeMan
 	msgOpen
 	"""
-	Enfim,hora da minha
+	Enfim, hora da minha
 	deliciosa sobreme-
 	sa... Hyeeeee!!
 	"""
@@ -36,7 +36,7 @@ script 2 mmbn4 {
 	clearMsg
 	"""
 	Relaxe. Vai tudo
-	acabar logo,logo.
+	acabar logo, logo.
 	Hye-hye-heeeee!!
 	"""
 	keyWait
@@ -216,13 +216,13 @@ script 15 mmbn4 {
 		mugshot = ShadeMan
 	msgOpen
 	"""
-	He he! Dói,não é?!
+	He he! Dói, não é?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Normalmente,eu te
+	Normalmente, eu te
 	deletaria em um
 	piscar de olhos,
 	"""
@@ -273,7 +273,7 @@ script 17 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Lan,problema! Não
+	Lan, problema! Não
 	consigo mover meus
 	braços e pernas!
 	"""

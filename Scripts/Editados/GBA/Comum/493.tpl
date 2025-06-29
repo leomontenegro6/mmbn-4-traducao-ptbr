@@ -37,7 +37,7 @@ script 2 mmbn4 {
 		mugshot = Lan
 	"""
 	Boa ideia...
-	Tá bom,então,vamos
+	Tá bom, então, vamos
 	lá!
 	"""
 	keyWait

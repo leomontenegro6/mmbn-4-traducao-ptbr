@@ -7,7 +7,7 @@ script 0 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	O que encomendar,é?
+	O que encomendar, é?
 	(L/R: Página)
 	(B: Sair)
 	"""
@@ -20,7 +20,7 @@ script 1 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Qual vai ser,é?
+	Qual vai ser, é?
 	(L/R: Página)
 	(B: Sair)
 	"""
@@ -76,7 +76,7 @@ script 3 mmbn4 {
 		mugshot = Higsby
 	textSpeed
 		delay = 0
-	"Volte sempre,é!"
+	"Volte sempre, é!"
 	waitHold
 }
 script 5 mmbn4 {
@@ -135,9 +135,9 @@ script 6 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Tá,vou mandar pro
+	Tá, vou mandar pro
 	NumberMan... Number-
-	Man,nova encomenda!
+	Man, nova encomenda!
 	"""
 	keyWait
 		any = false
@@ -227,7 +227,7 @@ script 10 mmbn4 {
 	"""
 	Estamos esgotados!
 	Obrigado pela
-	preferência,é!
+	preferência, é!
 	"""
 	keyWait
 		any = false
@@ -350,7 +350,7 @@ script 24 mmbn4 {
 	printChip
 		buffer = 1
 		chip = 0
-	"\",é?"
+	"\", é?"
 	keyWait
 		any = false
 	clearMsg
@@ -372,7 +372,7 @@ script 25 mmbn4 {
 	printChip
 		buffer = 1
 		chip = 0
-	"\",é?"
+	"\", é?"
 	keyWait
 		any = false
 	clearMsg
@@ -394,7 +394,7 @@ script 26 mmbn4 {
 	printChip
 		buffer = 1
 		chip = 0
-	"\",é?"
+	"\", é?"
 	keyWait
 		any = false
 	clearMsg
@@ -403,7 +403,7 @@ script 26 mmbn4 {
 		buffer = 1
 		chip = 0
 	"""
-	",é?
+	", é?
 	Nunca ouvi falar,
 	mas vou tentar...
 	"""
@@ -430,7 +430,7 @@ script 27 mmbn4 {
 		minLength = 0
 		padZeros = false
 		padLeft = false
-	"z,OK?"
+	"z, OK?"
 	keyWait
 		any = false
 	clearMsg
@@ -474,7 +474,7 @@ script 28 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Opa,desculpa!
+	Opa, desculpa!
 	Não tenho esse
 	disponível...
 	"""
@@ -489,7 +489,7 @@ script 29 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	... Não,não tenho.
+	... Não, não tenho.
 	É! Certeza de que
 	esse chip existe?
 	"""

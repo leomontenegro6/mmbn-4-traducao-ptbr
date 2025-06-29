@@ -8,7 +8,7 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,hoje é o grande
+	Lan, hoje é o grande
 	dia! O Torneio Sol
 	Vermelho!
 	"""
@@ -48,7 +48,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Beleza,Lan.
+	Beleza, Lan.
 	Vamos pro Coliseu!
 	"""
 	keyWait
@@ -78,7 +78,7 @@ script 4 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,hoje é o grande
+	Lan, hoje é o grande
 	dia! O Torneio Lua
 	Azul!
 	"""

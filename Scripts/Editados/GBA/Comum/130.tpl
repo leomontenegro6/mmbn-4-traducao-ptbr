@@ -21,7 +21,7 @@ script 0 mmbn4 {
 	"""
 	É uma máquina de
 	NetLuta. Dá para se
-	conectar nela,claro.
+	conectar nela, claro.
 	"""
 	keyWait
 		any = false

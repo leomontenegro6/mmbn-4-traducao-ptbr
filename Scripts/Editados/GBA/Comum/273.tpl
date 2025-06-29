@@ -32,7 +32,7 @@ script 5 mmbn4 {
 	clearMsg
 	"""
 	E boa sorte na
-	próxima luta,também!
+	próxima luta, também!
 	"""
 	keyWait
 		any = false

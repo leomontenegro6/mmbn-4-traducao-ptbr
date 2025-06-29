@@ -150,7 +150,7 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Nele,há um bilhete
+	Nele, há um bilhete
 	com uma coisa
 	escrita...
 	"""
@@ -232,7 +232,7 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Está parado,mas
+	Está parado, mas
 	ainda detém uma
 	presença sinistra.
 	"""
@@ -258,7 +258,7 @@ script 12 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Olhando bem,tem um
+	Olhando bem, tem um
 	filtro miniatura
 	afixado a ela...
 	"""

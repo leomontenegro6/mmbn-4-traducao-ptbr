@@ -174,7 +174,7 @@ script 10 mmbn4 {
 		mugshot = Woman
 	msgOpen
 	"""
-	Olá,mocinho! Está
+	Olá, mocinho! Está
 	indo pro Castillo?
 	"""
 	keyWait
@@ -217,7 +217,7 @@ script 12 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	queria,pelo menos,
+	queria, pelo menos,
 	poder mudar a do
 	meu Navi!
 	"""
@@ -238,7 +238,7 @@ script 20 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Então,você está
+	Então, você está
 	nas preliminares...?
 	"""
 	keyWait
@@ -289,7 +289,7 @@ script 21 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Então,você me achou!
+	Então, você me achou!
 	Nada mal!
 	"""
 	keyWait
@@ -468,7 +468,7 @@ script 37 mmbn4 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	Poxa,queria poder
+	Poxa, queria poder
 	competir no Torneio
 	Águia...
 	"""
@@ -488,7 +488,7 @@ script 38 mmbn4 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	Poxa,queria poder
+	Poxa, queria poder
 	competir no Torneio
 	Falcão...
 	"""
@@ -545,7 +545,7 @@ script 42 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	... Argh,aquele Navi
+	... Argh, aquele Navi
 	azul que pegou
 	aqueles 3 pontos...
 	"""
@@ -603,7 +603,7 @@ script 47 mmbn4 {
 	clearMsg
 	"""
 	eu vou chegar nas
-	finais,com certeza!
+	finais, com certeza!
 	"""
 	keyWait
 		any = false

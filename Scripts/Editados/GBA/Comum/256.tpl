@@ -18,7 +18,7 @@ script 0 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Oi,Lan!
+	Oi, Lan!
 	Parabéns pela sua
 	vitória!
 	"""
@@ -71,7 +71,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,depois de todo
+	Mas, depois de todo
 	o trabalho que ti-
 	vemos no torneio...
 	"""
@@ -122,7 +122,7 @@ script 3 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Oi,Lan!
+	Oi, Lan!
 	Parabéns pela sua
 	vitória!
 	"""
@@ -160,7 +160,7 @@ script 5 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Que dia lindo,hoje!
+	Que dia lindo, hoje!
 	Ótimo dia para
 	trabalhar!
 	"""
@@ -225,7 +225,7 @@ script 8 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Que dia lindo,hoje!
+	Que dia lindo, hoje!
 	Ótimo dia para
 	trabalhar!
 	"""
@@ -268,8 +268,8 @@ script 10 mmbn4 {
 	msgOpen
 	"""
 	Ouvi dizer que o
-	Castillo,o parque
-	temático,inaugurou!
+	Castillo, o parque
+	temático, inaugurou!
 	"""
 	keyWait
 		any = false
@@ -310,7 +310,7 @@ script 12 mmbn4 {
 	msgOpen
 	"""
 	Achei o meu esconde-
-	rijo! Agora,vou des-
+	rijo! Agora, vou des-
 	cansar um pouco...
 	"""
 	keyWait
@@ -333,7 +333,7 @@ script 20 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Bom,tudo bem...
+	Bom, tudo bem...
 	Tome!
 	"""
 	keyWait
@@ -405,7 +405,7 @@ script 22 mmbn4 {
 	clearMsg
 	"""
 	Fuu!
-	Tá quente,ele...
+	Tá quente, ele...
 	"""
 	keyWait
 		any = false
@@ -489,7 +489,7 @@ script 31 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Ei,você não é Lan?
+	Ei, você não é Lan?
 	O vencedor do
 	torneio?
 	"""
@@ -517,8 +517,8 @@ script 32 mmbn4 {
 	clearMsg
 	"""
 	Se eu não tivesse
-	trabalho,iria pro
-	Castillo,também!
+	trabalho, iria pro
+	Castillo, também!
 	"""
 	keyWait
 		any = false
@@ -530,7 +530,7 @@ script 33 mmbn4 {
 	msgOpen
 	"""
 	Você chegou nas
-	finais,né?
+	finais, né?
 	Que incrível!
 	"""
 	keyWait
@@ -538,7 +538,7 @@ script 33 mmbn4 {
 	clearMsg
 	"""
 	Estou torcendo por
-	você,Lan! Espero que
+	você, Lan! Espero que
 	chegue no topo!
 	"""
 	keyWait
@@ -620,7 +620,7 @@ script 43 mmbn4 {
 	clearMsg
 	"""
 	Agora cê vai lutar
-	na final,né?
+	na final, né?
 	Por que cê tá aqui?!
 	"""
 	keyWait
@@ -632,7 +632,7 @@ script 50 mmbn4 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Bom,estou feliz que
+	Bom, estou feliz que
 	o torneio acabou...
 	"""
 	keyWait
@@ -681,7 +681,7 @@ script 52 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Se você vencer,fare-
+	Se você vencer, fare-
 	mos uma celebração
 	em sua honra aqui!
 	"""

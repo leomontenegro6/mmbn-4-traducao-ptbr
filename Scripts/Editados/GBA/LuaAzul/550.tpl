@@ -18,7 +18,7 @@ script 0 mmbn4 {
 		width = 19
 		height = 3
 	"""
-	torneio,os gritos de
+	torneio, os gritos de
 	todo o mundo são
 	dirigidos ao
 	"""
@@ -91,8 +91,8 @@ script 5 mmbn4 {
 		mugshot = ShadyGuy
 	msgOpen
 	"""
-	Aê,cambada! Aquele
-	Navi,o MegaMan,
+	Aê, cambada! Aquele
+	Navi, o MegaMan,
 	vai vencer sim!
 	"""
 	keyWait
@@ -113,7 +113,7 @@ script 5 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"A GENTE ACREDITA EM\nVOCÊ,MEGAMAN!!"
+	"A GENTE ACREDITA EM\nVOCÊ, MEGAMAN!!"
 	keyWait
 		any = false
 	end

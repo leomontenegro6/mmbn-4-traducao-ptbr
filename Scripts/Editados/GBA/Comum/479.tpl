@@ -33,7 +33,7 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	Borrifaram alguma
-	coisa em mim,e é só
+	coisa em mim, e é só
 	disso que eu lembro.
 	"""
 	keyWait
@@ -48,8 +48,8 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	É,ouvi sim!
-	Rápido,chama os
+	É, ouvi sim!
+	Rápido, chama os
 	Oficiais...
 	"""
 	keyWait
@@ -84,7 +84,7 @@ script 4 mmbn4 {
 	"""
 	Jogaram gás do sono
 	nela. Deixa ela
-	dormir,Lan.
+	dormir, Lan.
 	"""
 	keyWait
 		any = false
@@ -96,7 +96,7 @@ script 5 mmbn4 {
 	msgOpen
 	"""
 	Seja lá quem fez
-	isso com ela,vai
+	isso com ela, vai
 	pagar...!
 	"""
 	keyWait
@@ -125,7 +125,7 @@ script 6 mmbn4 {
 	clearMsg
 	"""
 	Não levou nenhum
-	dinheiro,nem encos-
+	dinheiro, nem encos-
 	tou nos quartos.
 	"""
 	keyWait

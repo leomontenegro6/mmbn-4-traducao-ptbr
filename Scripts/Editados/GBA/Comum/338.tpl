@@ -5,14 +5,14 @@ script 30 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	JO,JO,JO...
+	JO, JO, JO...
 	JOMON...!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	JO,JO,JO...
+	JO, JO, JO...
 	JOMON...!
 	"""
 	keyWait

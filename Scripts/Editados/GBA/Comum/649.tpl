@@ -61,19 +61,19 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Riki
 	msgOpen
-	"Ah,a padaria?"
+	"Ah, a padaria?"
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Eu ainda não desisti
-	do meu sonho,não.
+	do meu sonho, não.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Por enquanto,eu
+	Por enquanto, eu
 	vou voltar pra
 	organização
 	"""
@@ -120,7 +120,7 @@ script 6 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Falou,Lan! Eu não
+	Falou, Lan! Eu não
 	fico animado assim
 	há anos!
 	"""
@@ -134,7 +134,7 @@ script 7 mmbn4 {
 	msgOpen
 	"""
 	A cara dele dá medo,
-	mas,na real,ele é um
+	mas, na real, ele é um
 	cara bem alegre.
 	"""
 	keyWait
@@ -142,7 +142,7 @@ script 7 mmbn4 {
 	clearMsg
 	"""
 	Quando tá com o
-	Navi,pelo menos.
+	Navi, pelo menos.
 	"""
 	keyWait
 		any = false

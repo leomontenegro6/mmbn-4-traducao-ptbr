@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,hora da gente
+	Lan, hora da gente
 	acabar com esses
 	vírus!
 	"""
@@ -24,21 +24,21 @@ script 1 mmbn4 {
 		mugshot = Lan
 	"""
 	Pode deixar!
-	Vamos lá,MegaMan!!
+	Vamos lá, MegaMan!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Er... Pra lutar con-
-	tra vírus,primeiro
+	tra vírus, primeiro
 	eu tenho que...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ah,mandar dados de
+	Ah, mandar dados de
 	chips pro MegaMan!
 	Aí eu escolho os
 	"""
@@ -104,7 +104,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"OK,tudo pronto!"
+	"OK, tudo pronto!"
 	keyWait
 		any = false
 	clearMsg
@@ -136,7 +136,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lembrou,Lan? Só dá
+	Lembrou, Lan? Só dá
 	pra enviar um chip
 	por turno,
 	"""
@@ -152,7 +152,7 @@ script 7 mmbn4 {
 	clearMsg
 	"""
 	Temos 2 Cannons,
-	então,seleciona os
+	então, seleciona os
 	dois!
 	"""
 	keyWait
@@ -172,7 +172,7 @@ script 8 mmbn4 {
 	clearMsg
 	"""
 	Pra escolher um chip
-	pra mandar,preciso
+	pra mandar, preciso
 	apertar "A".
 	"""
 	keyWait
@@ -201,7 +201,7 @@ script 8 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Enfim,hora de
+	Enfim, hora de
 	mandar os dados de
 	chip pro MegaMan!
 	"""
@@ -227,9 +227,9 @@ script 10 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Calma,Lan. Cê sabe
+	Calma, Lan. Cê sabe
 	que não precisa
-	cancelar,né?
+	cancelar, né?
 	"""
 	keyWait
 		any = false
@@ -240,7 +240,7 @@ script 11 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,manda mais um
+	Lan, manda mais um
 	Cannon!
 	"""
 	keyWait
@@ -294,7 +294,7 @@ script 13 mmbn4 {
 	msgOpen
 	"""
 	Não foge! Sem
-	fogão,sem comida,
+	fogão, sem comida,
 	Lan!
 	"""
 	keyWait
@@ -313,7 +313,7 @@ script 14 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Bora lá,MegaMan!!"
+	"Bora lá, MegaMan!!"
 	keyWait
 		any = false
 	end
@@ -354,7 +354,7 @@ script 17 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,a operação é
+	Lan, a operação é
 	com você!
 	"""
 	keyWait
@@ -362,7 +362,7 @@ script 17 mmbn4 {
 	clearMsg
 	"""
 	Posso me mover pra
-	cima,baixo,esquerda
+	cima, baixo, esquerda
 	e direita no campo.
 	"""
 	keyWait
@@ -439,9 +439,9 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Eu sei,eu sei!
+	Eu sei, eu sei!
 	A Barra de
-	Customização,né?
+	Customização, né?
 	"""
 	keyWait
 		any = false
@@ -454,13 +454,13 @@ script 21 mmbn4 {
 	"""
 	A BarraCust vai se
 	preenchendo aos
-	poucos,com o tempo.
+	poucos, com o tempo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Quando fica cheia,é
+	Quando fica cheia, é
 	só eu acessar a Tela
 	de Customização
 	"""
@@ -496,7 +496,7 @@ script 22 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,seleciona um
+	Lan, seleciona um
 	Cannon!
 	"""
 	keyWait
@@ -504,7 +504,7 @@ script 22 mmbn4 {
 	clearMsg
 	"""
 	Aperte "B" pra
-	cancelar,aí
+	cancelar, aí
 	escolha de novo!
 	"""
 	keyWait
@@ -516,7 +516,7 @@ script 23 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Vamos,Lan!
+	Vamos, Lan!
 	É só selecionar
 	um Cannon!
 	"""
@@ -525,7 +525,7 @@ script 23 mmbn4 {
 	clearMsg
 	"""
 	Aperte "B" pra
-	cancelar,aí
+	cancelar, aí
 	escolha de novo!
 	"""
 	keyWait

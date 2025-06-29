@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Bom,saímos.
+	Bom, saímos.
 	E agora?
 	"""
 	keyWait
@@ -19,7 +19,7 @@ script 1 mmbn4 {
 		mugshot = MegaMan
 	"""
 	Melhor a gente não
-	ir longe demais,né?
+	ir longe demais, né?
 	"""
 	keyWait
 		any = false
@@ -31,7 +31,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	É,vamos só andar
+	É, vamos só andar
 	por aqui.
 	"""
 	keyWait
@@ -69,7 +69,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = Riki
-	"Ei,você tá bem?"
+	"Ei, você tá bem?"
 	keyWait
 		any = false
 	end
@@ -99,7 +99,7 @@ script 6 mmbn4 {
 		mugshot = Riki
 	msgOpen
 	"""
-	Aí,guri! Cê
+	Aí, guri! Cê
 	esmagou o ombro do
 	meu irmãozinho!
 	"""
@@ -148,7 +148,7 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = Riki
-	"Tá,e daí?!"
+	"Tá, e daí?!"
 	keyWait
 		any = false
 	clearMsg
@@ -161,7 +161,7 @@ script 8 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Primeiro,cê vai ter
+	Primeiro, cê vai ter
 	que pagar as contas
 	médicas dele...
 	"""
@@ -200,7 +200,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Riki
 	"""
-	Ah,irmão! Acha mesmo
+	Ah, irmão! Acha mesmo
 	que uma criança te-
 	ria essa grana toda?
 	"""
@@ -214,7 +214,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
 	"""
-	Tá bom,então:
+	Tá bom, então:
 	100 mil Zennys!
 	"""
 	keyWait
@@ -226,11 +226,11 @@ script 11 mmbn4 {
 script 12 mmbn4 {
 	mugshotShow
 		mugshot = Riki
-	"É,tá razoável."
+	"É, tá razoável."
 	keyWait
 		any = false
 	clearMsg
-	"Beleza,então:"
+	"Beleza, então:"
 	keyWait
 		any = false
 	clearMsg
@@ -280,7 +280,7 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
 	"""
-	Não,mano...
+	Não, mano...
 	Ele vai é
 	"sofrer um POUCÃO"!
 	"""
@@ -297,7 +297,7 @@ script 16 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ei,mas eu não fiz
+	Ei, mas eu não fiz
 	nada!
 	"""
 	keyWait
@@ -311,8 +311,8 @@ script 17 mmbn4 {
 		mugshot = Riki
 	"""
 	Cê pode pagar par-
-	celado,se quiser.
-	Por mim,de boa.
+	celado, se quiser.
+	Por mim, de boa.
 	"""
 	keyWait
 		any = false
@@ -355,7 +355,7 @@ script 19 mmbn4 {
 script 20 mmbn4 {
 	mugshotHide
 	msgOpen
-	"Aqui,ó!!!"
+	"Aqui, ó!!!"
 	keyWait
 		any = false
 	end
@@ -365,7 +365,7 @@ script 21 mmbn4 {
 		mugshot = Tetsu
 	msgOpen
 	"""
-	Se vão insistir,vão
+	Se vão insistir, vão
 	ter que se resolver
 	comigo primeiro!
 	"""
@@ -412,7 +412,7 @@ script 24 mmbn4 {
 	msgOpen
 	"""
 	Tô sempre pronto
-	pra brigar,quando
+	pra brigar, quando
 	vocês quiserem!
 	"""
 	keyWait
@@ -443,7 +443,7 @@ script 26 mmbn4 {
 	clearMsg
 	"""
 	Você dá um pouco de
-	medo,mas,na verdade,
+	medo, mas, na verdade,
 	é bem gente fina.
 	"""
 	keyWait
@@ -469,7 +469,7 @@ script 27 mmbn4 {
 	clearMsg
 	"""
 	E também adoro
-	brigar,admito!
+	brigar, admito!
 	Ha ha ha ha!
 	"""
 	keyWait
@@ -500,7 +500,7 @@ script 29 mmbn4 {
 	mugshotShow
 		mugshot = Tetsu
 	"""
-	Beleza,então. Vou
+	Beleza, então. Vou
 	lá na EletroVila
 	ajustar o meu Navi.
 	"""

@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = Riki
 	msgOpen
 	"""
-	Oi,Lan! Não acredito
+	Oi, Lan! Não acredito
 	que você salvou o
 	Crusher!
 	"""
@@ -27,7 +27,7 @@ script 1 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	He,tô vendo que você
+	He, tô vendo que você
 	voltou ao normal.
 	"""
 	keyWait
@@ -76,7 +76,7 @@ script 4 mmbn4 {
 		mugshot = ShadyGuy
 	msgOpen
 	"""
-	Foi mal,mas vamos
+	Foi mal, mas vamos
 	ter que passar o
 	cerol em vocês!
 	"""
@@ -123,7 +123,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
 	msgOpen
-	"Então,cê já tá\nsabendo..."
+	"Então, cê já tá\nsabendo..."
 	keyWait
 		any = false
 	clearMsg
@@ -317,7 +317,7 @@ script 17 mmbn4 {
 	clearMsg
 	"""
 	Ela já está pra
-	começar,não?
+	começar, não?
 	"""
 	keyWait
 		any = false
@@ -358,7 +358,7 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = Riki
 	msgOpen
-	"Sim,senhora!"
+	"Sim, senhora!"
 	keyWait
 		any = false
 	end
@@ -368,7 +368,7 @@ script 21 mmbn4 {
 	mugshotShow
 		mugshot = OldWomanAlt
 	"""
-	Ah,realmente...
+	Ah, realmente...
 	A velhice chegou.
 	"""
 	keyWait

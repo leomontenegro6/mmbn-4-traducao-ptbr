@@ -41,7 +41,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Ah,é?
+	Ah, é?
 	E o que aconteceu?
 	"""
 	keyWait
@@ -112,7 +112,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Ei,Lan!"
+	"Ei, Lan!"
 	keyWait
 		any = false
 	clearMsg
@@ -156,7 +156,7 @@ script 3 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Ah,Lan,eu trouxe um
+	Ah, Lan, eu trouxe um
 	convidado pra você
 	hoje!
 	"""
@@ -214,7 +214,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Ah,não,o m-meu\nrosto...!!!"
+	"Ah, não, o m-meu\nrosto...!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -288,7 +288,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Ei,MegaMan.\n"
+	"Ei, MegaMan.\n"
 	keyWait
 		any = false
 	clearMsg
@@ -317,7 +317,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	soundEnableTextSFX
-	"Lan,ligação!"
+	"Lan, ligação!"
 	keyWait
 		any = false
 	clearMsg
@@ -365,7 +365,7 @@ script 10 mmbn4 {
 	"""
 	... E dá pra ver que
 	tem orelhas de
-	elefante,também.
+	elefante, também.
 	"""
 	keyWait
 		any = false
@@ -380,7 +380,7 @@ script 10 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"De novo,não!"
+	"De novo, não!"
 	keyWait
 		any = false
 	end
@@ -400,7 +400,7 @@ script 11 mmbn4 {
 	"""
 	Estava congelando,
 	e o frio enfraqueceu
-	o bote,abrindo um
+	o bote, abrindo um
 	"""
 	keyWait
 		any = false
@@ -418,7 +418,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Bom,acho que isso
+	Bom, acho que isso
 	mostra que...
 	"""
 	keyWait
@@ -426,7 +426,7 @@ script 11 mmbn4 {
 	clearMsg
 	"""
 	Água fria em madeira
-	dura,tanto "bote"
+	dura, tanto "bote"
 	até que fura!
 	"""
 	keyWait
@@ -435,7 +435,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Forçou aí,MegaMan.
+	Forçou aí, MegaMan.
 	"""
 	keyWait
 		any = false
@@ -446,7 +446,7 @@ script 12 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,sabe pra que
+	Lan, sabe pra que
 	time de futebol o
 	povo de Sharo torce?
 	"""
@@ -483,7 +483,7 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Ah,é?
+	Ah, é?
 	Sobre o quê?
 	"""
 	keyWait
@@ -510,7 +510,7 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Ah,é? E qual foi a
+	Ah, é? E qual foi a
 	tecla favorita
 	deles?
 	"""
@@ -557,7 +557,7 @@ script 20 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Ah,é? O quê?"
+	"Ah, é? O quê?"
 	keyWait
 		any = false
 	clearMsg
@@ -583,7 +583,7 @@ script 20 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Vamos nessa,Lan!
+	Vamos nessa, Lan!
 	Rotina de batalha,
 	"""
 	waitSkip
@@ -599,7 +599,7 @@ script 20 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ô,pera aí!
+	Ô, pera aí!
 	Tá querendo que EU
 	lute?!
 	"""
@@ -622,7 +622,7 @@ script 21 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Piada...? Hm,não
+	Piada...? Hm, não
 	consigo pensar em
 	nenhuma agora...
 	"""
@@ -642,7 +642,7 @@ script 21 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Desculpa,esqueci de
+	Desculpa, esqueci de
 	botar o capacete.
 	"""
 	keyWait
@@ -669,7 +669,7 @@ script 22 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Tá bom,Lan: eu
+	Tá bom, Lan: eu
 	tenho uma aqui pra
 	você.
 	"""
@@ -701,7 +701,7 @@ script 22 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Depois,o recepcio-
+	Depois, o recepcio-
 	nista vê que cobrou
 	extra. Ele dá ao
 	"""
@@ -711,7 +711,7 @@ script 22 mmbn4 {
 	"""
 	camareiro 5z para
 	devolver a eles. No
-	caminho,o camareiro
+	caminho, o camareiro
 	"""
 	keyWait
 		any = false
@@ -719,7 +719,7 @@ script 22 mmbn4 {
 	"""
 	percebe que não pode
 	dividir o dinheiro
-	igualmente,e fica
+	igualmente, e fica
 	"""
 	keyWait
 		any = false
@@ -735,7 +735,7 @@ script 22 mmbn4 {
 	"""
 	3x9 = 27z. Mais os
 	2z que o camareiro
-	pegou,29z.
+	pegou, 29z.
 	"""
 	keyWait
 		any = false
@@ -750,7 +750,7 @@ script 22 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Ué,mas...
+	Ué, mas...
 	Aí! Tá rindo do quê?
 	"""
 	keyWait
@@ -788,7 +788,7 @@ script 23 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Aliás,falei bestei-
+	Aliás, falei bestei-
 	ra. Ele é brilhante
 	demais para isso!
 	"""
@@ -820,7 +820,7 @@ script 30 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Sabe,Lan,acho que
+	Sabe, Lan, acho que
 	tô me acostumando
 	com o Piadas.
 	"""
@@ -830,7 +830,7 @@ script 30 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Ah,é? Manda uma boa
+	Ah, é? Manda uma boa
 	aí!
 	"""
 	keyWait
@@ -907,7 +907,7 @@ script 31 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Na verdade,tem um
+	Na verdade, tem um
 	em que eu andei de
 	olho.
 	"""
@@ -972,7 +972,7 @@ script 31 mmbn4 {
 		frames = 30
 	mugshotAnimation
 		animation = 2
-	" Eu,hein!"
+	" Eu, hein!"
 	keyWait
 		any = false
 	end
@@ -982,14 +982,14 @@ script 32 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Outro dia,uma mulher
+	Outro dia, uma mulher
 	falou pra mim:
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"Ei,eu não te vi
+	"Ei, eu não te vi
 	naquele torneio,
 	na TV?"
 	"""
@@ -999,7 +999,7 @@ script 32 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Ah,é? E o que você
+	Ah, é? E o que você
 	disse pra ela?
 	"""
 	keyWait
@@ -1028,7 +1028,7 @@ script 33 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,eu só queria
+	Lan, eu só queria
 	dizer... obrigado.
 	Por tudo.
 	"""
@@ -1055,7 +1055,7 @@ script 33 mmbn4 {
 	clearMsg
 	"""
 	Acabou tudo entre a
-	gente,Lan.
+	gente, Lan.
 	"""
 	keyWait
 		any = false
@@ -1076,7 +1076,7 @@ script 33 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Adeus,Lan..."
+	"Adeus, Lan..."
 	keyWait
 		any = false
 	clearMsg
@@ -1129,7 +1129,7 @@ script 33 mmbn4 {
 		mugshot = Lan
 	"""
 	Isso não teve
-	graça,MegaMan!
+	graça, MegaMan!
 	Sério!
 	"""
 	keyWait

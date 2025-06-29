@@ -20,7 +20,7 @@ script 1 mmbn4 {
 	"""
 	É! Hora de conectar
 	na Torre.
-	Simbora,MegaMan.
+	Simbora, MegaMan.
 	"""
 	keyWait
 		any = false

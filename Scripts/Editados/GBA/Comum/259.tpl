@@ -20,7 +20,7 @@ script 0 mmbn4 {
 	"""
 	Agora que o Torneio
 	de Batalha Den aca-
-	bou,posso relaxar...
+	bou, posso relaxar...
 	"""
 	keyWait
 		any = false
@@ -193,8 +193,8 @@ script 30 mmbn4 {
 	msgOpen
 	"""
 	Já que o torneio
-	acabou,eu posso le-
-	var estas flores,né?
+	acabou, eu posso le-
+	var estas flores, né?
 	"""
 	keyWait
 		any = false
@@ -243,7 +243,7 @@ script 33 mmbn4 {
 	"""
 	Eu te vi na TV! Foi
 	incrível! Você é
-	fantástico,menino!
+	fantástico, menino!
 	"""
 	keyWait
 		any = false

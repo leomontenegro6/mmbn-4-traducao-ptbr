@@ -261,7 +261,7 @@ script 14 mmbn4 {
 	msgOpen
 	"""
 	Lan... Esquece esse
-	lixo,bora pra um
+	lixo, bora pra um
 	lugar agradável!
 	"""
 	keyWait

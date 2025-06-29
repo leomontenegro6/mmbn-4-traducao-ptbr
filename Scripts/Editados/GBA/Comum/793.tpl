@@ -336,7 +336,7 @@ script 74 mmbn4s {
 	end
 }
 script 75 mmbn4s {
-	"-Tampa,Flórida"
+	"-Tampa, Flórida"
 	end
 }
 script 76 mmbn4s {
@@ -344,7 +344,7 @@ script 76 mmbn4s {
 	end
 }
 script 77 mmbn4s {
-	"-Washington,DC"
+	"-Washington, DC"
 	end
 }
 script 78 mmbn4s {
@@ -352,7 +352,7 @@ script 78 mmbn4s {
 	end
 }
 script 79 mmbn4s {
-	"-Sioux City,IA"
+	"-Sioux City, IA"
 	end
 }
 script 80 mmbn4s {

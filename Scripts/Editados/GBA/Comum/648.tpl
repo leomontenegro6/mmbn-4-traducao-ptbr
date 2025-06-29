@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	Finalmente,nossos
+	Finalmente, nossos
 	competidores
 	chegaram!
 	"""
@@ -13,7 +13,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Primeiro,a estrela
+	Primeiro, a estrela
 	azul reluzente das
 	NetLutas:
 	"""
@@ -53,14 +53,14 @@ script 2 mmbn4 {
 	"""
 	Lan!
 	Nem pense em pegar
-	leve,viu?!
+	leve, viu?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Eu pretendo te
-	esmagar feio,então,
+	esmagar feio, então,
 	faça o mesmo!
 	"""
 	keyWait

@@ -53,7 +53,7 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	Se o GutsMan tivesse
-	pronto,a gente ia
+	pronto, a gente ia
 	disparado pra lá...
 	"""
 	keyWait
@@ -65,7 +65,7 @@ script 2 mmbn4 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Desculpa,Lan!
+	Desculpa, Lan!
 	Salva a Roll por
 	mim!
 	"""
@@ -79,7 +79,7 @@ script 3 mmbn4 {
 	msgOpen
 	"""
 	Lan! Vai logo pra
-	Rede,cara!
+	Rede, cara!
 	"""
 	keyWait
 		any = false
@@ -89,7 +89,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Aí,Lan!"
+	"Aí, Lan!"
 	keyWait
 		any = false
 	clearMsg
@@ -111,7 +111,7 @@ script 5 mmbn4 {
 	clearMsg
 	"""
 	Se eu esbarrar com
-	ele,ele já era,viu?!
+	ele, ele já era, viu?!
 	"""
 	keyWait
 		any = false

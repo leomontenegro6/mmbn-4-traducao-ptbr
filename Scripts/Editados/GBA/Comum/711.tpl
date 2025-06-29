@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	OK,ambos os
+	OK, ambos os
 	competidores
 	terminaram o curry!
 	"""
@@ -27,9 +27,9 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Primeiramente,como
+	Primeiramente, como
 	está o curry do
-	Flave,juiz?
+	Flave, juiz?
 	"""
 	keyWait
 		any = false
@@ -50,7 +50,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = OldMan
 	msgOpen
-	"Ah,que fome!"
+	"Ah, que fome!"
 	keyWait
 		any = false
 	clearMsg
@@ -209,7 +209,7 @@ script 9 mmbn4 {
 	"""
 	Eu só como comida
 	ni-honense há 50
-	anos,mas tem algo
+	anos, mas tem algo
 	"""
 	keyWait
 		any = false
@@ -267,7 +267,7 @@ script 12 mmbn4 {
 	msgOpen
 	"""
 	Ahhh!
-	Agora,eu entendi!
+	Agora, eu entendi!
 	"""
 	keyWait
 		any = false
@@ -286,7 +286,7 @@ script 13 mmbn4 {
 	"""
 	Que receita mais
 	ousada!
-	Bravo,Flave!
+	Bravo, Flave!
 	"""
 	keyWait
 		any = false
@@ -304,7 +304,7 @@ script 14 mmbn4 {
 		mugshot = Flave
 	msgOpen
 	"""
-	He,impossível você
+	He, impossível você
 	vencer isso! Esta
 	disputa já acabou!
 	"""
@@ -319,12 +319,12 @@ script 15 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Calminha aí,rapaz!
+	Calminha aí, rapaz!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Beleza,juiz!"
+	"Beleza, juiz!"
 	keyWait
 		any = false
 	end
@@ -334,7 +334,7 @@ script 16 mmbn4 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Certo,vou
+	Certo, vou
 	experimentar...
 	"""
 	keyWait
@@ -407,7 +407,7 @@ script 20 mmbn4 {
 	clearMsg
 	"""
 	O meu coração está
-	quentinho,e sinto
+	quentinho, e sinto
 	uma certa saudade...
 	"""
 	keyWait
@@ -432,7 +432,7 @@ script 22 mmbn4 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Satoko,meu amor! É
+	Satoko, meu amor! É
 	possível?! Mas você
 	morreu há 10 anos!
 	"""
@@ -447,7 +447,7 @@ script 23 mmbn4 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Não,eu estive ao seu
+	Não, eu estive ao seu
 	lado este tempo
 	todo.
 	"""
@@ -464,7 +464,7 @@ script 23 mmbn4 {
 	clearMsg
 	"""
 	que você pôde me
-	enxergar,mesmo que
+	enxergar, mesmo que
 	só temporariamente.
 	"""
 	keyWait
@@ -495,7 +495,7 @@ script 25 mmbn4 {
 	storeTimer
 		timer = 3
 		value = 3
-	"Adeus,querido."
+	"Adeus, querido."
 	wait
 		frames = 60
 	clearMsg
@@ -509,7 +509,7 @@ script 25 mmbn4 {
 	clearMsg
 	"""
 	Ficarei esperando
-	por você,então,tenha
+	por você, então, tenha
 	uma ótima vida...
 	"""
 	wait
@@ -551,7 +551,7 @@ script 27 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Bom,se o juiz falou,
+	Bom, se o juiz falou,
 	tá falado!
 	"""
 	keyWait
@@ -584,7 +584,7 @@ script 29 mmbn4 {
 	msgOpen
 	"""
 	O seu curry tinha o
-	melhor sabor,de
+	melhor sabor, de
 	fato,
 	"""
 	keyWait
@@ -666,7 +666,7 @@ script 31 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	He he,ele não vai
+	He he, ele não vai
 	ceder até a gente
 	acabar com ele!
 	"""
@@ -687,7 +687,7 @@ script 32 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	Ouviram,gente?!
+	Ouviram, gente?!
 	A próxima rodada
 	será no estádio!
 	"""
@@ -706,7 +706,7 @@ script 33 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Sua opinião,juiz?"
+	"Sua opinião, juiz?"
 	keyWait
 		any = false
 	clearMsg
@@ -787,8 +787,8 @@ script 37 mmbn4 {
 		mugshot = Flave
 	msgOpen
 	"""
-	Bom,na próxima
-	rodada,NÓS vamos
+	Bom, na próxima
+	rodada, NÓS vamos
 	vencer!
 	"""
 	keyWait
@@ -809,7 +809,7 @@ script 38 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Preparar,cozinhar!"
+	"Preparar, cozinhar!"
 	keyWait
 		any = false
 	clearMsg

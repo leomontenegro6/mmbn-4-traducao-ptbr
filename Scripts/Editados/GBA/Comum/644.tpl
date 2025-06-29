@@ -87,9 +87,9 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ó,escuta: a gente
+	Ó, escuta: a gente
 	vai se livrar do
-	Crusher já,já.
+	Crusher já, já.
 	"""
 	keyWait
 		any = false
@@ -113,7 +113,7 @@ script 6 mmbn4 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Sem o Crusher,o Riki
+	Sem o Crusher, o Riki
 	não passa de um
 	covardão.
 	"""
@@ -146,7 +146,7 @@ script 7 mmbn4 {
 	msgOpen
 	"""
 	Essa não! Vamos
-	logo,temos que
+	logo, temos que
 	salvar o Crusher!
 	"""
 	keyWait

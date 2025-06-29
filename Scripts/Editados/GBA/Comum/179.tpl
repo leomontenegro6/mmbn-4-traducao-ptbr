@@ -13,7 +13,7 @@ script 4 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,destrói os
+	MegaMan, destrói os
 	CyberBonecosDeNeve
 	primeiro!
 	"""
@@ -34,7 +34,7 @@ script 5 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,destrói os
+	MegaMan, destrói os
 	CyberBonecosDeNeve
 	primeiro!
 	"""
@@ -47,7 +47,7 @@ script 9 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,acende a
+	MegaMan, acende a
 	CyberTocha!
 	"""
 	keyWait

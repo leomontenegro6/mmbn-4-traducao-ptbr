@@ -39,7 +39,7 @@ script 2 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Obrigado,MegaMan!"
+	"Obrigado, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -50,7 +50,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Otenko
 	"""
-	Rápido,Django!
+	Rápido, Django!
 	Já já ele se
 	recupera!
 	"""
@@ -104,7 +104,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Otenko
 	"""
-	Pronto,Django?!
+	Pronto, Django?!
 	Vamos lá!
 	"""
 	keyWait
@@ -217,7 +217,7 @@ script 15 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Ai,droga!"
+	"Ai, droga!"
 	keyWait
 		any = false
 	end
@@ -252,7 +252,7 @@ script 18 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Agora,Django!!"
+	"Agora, Django!!"
 	keyWait
 		any = false
 	clearMsg
@@ -295,7 +295,7 @@ script 21 mmbn4 {
 	"""
 	Nós vencemos o
 	Vampiro graças a
-	você,MegaMan!
+	você, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -332,7 +332,7 @@ script 23 mmbn4 {
 	mugshotShow
 		mugshot = Django
 	"""
-	Sim,mas o Bate-
+	Sim, mas o Bate-
 	Estacas o danificou
 	pesadamente.
 	"""
@@ -340,7 +340,7 @@ script 23 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Agora,ele mal
+	Agora, ele mal
 	consegue usar seus
 	poderes sombrios.
 	"""
@@ -349,7 +349,7 @@ script 23 mmbn4 {
 	clearMsg
 	"""
 	Se ele atacar
-	de novo,nós o
+	de novo, nós o
 	derrotaremos!
 	"""
 	keyWait
@@ -379,7 +379,7 @@ script 25 mmbn4 {
 		mugshot = Otenko
 	msgOpen
 	"""
-	Django,estou
+	Django, estou
 	sentindo Imortais
 	ao sul.
 	"""
@@ -393,7 +393,7 @@ script 26 mmbn4 {
 	mugshotShow
 		mugshot = Django
 	"""
-	Bem,MegaMan,é
+	Bem, MegaMan, é
 	melhor nós irmos
 	andando!
 	"""
@@ -410,7 +410,7 @@ script 26 mmbn4 {
 script 27 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Tudo bem. Espero que\na gente se veja de\nnovo,um dia!"
+	"Tudo bem. Espero que\na gente se veja de\nnovo, um dia!"
 	keyWait
 		any = false
 	clearMsg
@@ -510,7 +510,7 @@ script 31 mmbn4 {
 	clearMsg
 	"""
 	É só se lembrar
-	disso,que as trevas
+	disso, que as trevas
 	jamais terão chance!
 	"""
 	keyWait
@@ -553,7 +553,7 @@ script 34 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	A gente vai,desde
+	A gente vai, desde
 	que a gente não se
 	renda às trevas.
 	"""

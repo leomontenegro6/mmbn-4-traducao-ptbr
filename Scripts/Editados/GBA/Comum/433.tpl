@@ -23,7 +23,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,claro,não dá
+	Mas, claro, não dá
 	para entrar sem um
 	"
 	"""
@@ -71,7 +71,7 @@ script 1 mmbn4 {
 	"""
 	O Mestre Desliza?
 	Já ouvi boatos
-	sobre ele,mas...
+	sobre ele, mas...
 	"""
 	keyWait
 		any = false
@@ -138,13 +138,13 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ah,o vovô!
+	Ah, o vovô!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Er,ele foi deletado
+	Er, ele foi deletado
 	por vírus no final
 	do ano passado...
 	"""
@@ -153,7 +153,7 @@ script 3 mmbn4 {
 	clearMsg
 	"""
 	Mas eu posso fazer
-	um,se tiver as
+	um, se tiver as
 	peças!
 	"""
 	keyWait
@@ -201,7 +201,7 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas acho que,agora,
+	Mas acho que, agora,
 	só dá pra achar elas
 	no mercado negro.
 	"""
@@ -224,7 +224,7 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ah,e eu acho que
+	Ah, e eu acho que
 	tem dois deles na
 	Rede do seu país!
 	"""
@@ -232,9 +232,9 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Enfim,se arranjar as
-	peças,eu faço um pra
-	você,com prazer.
+	Enfim, se arranjar as
+	peças, eu faço um pra
+	você, com prazer.
 	"""
 	keyWait
 		any = false
@@ -355,13 +355,13 @@ script 4 mmbn4 {
 		mugshot = NaviGirlOrange
 	"""
 	Cuidado com essa
-	coisa aí,viu?
+	coisa aí, viu?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Não,não... Não
+	Não, não... Não
 	precisa me pagar.
 	"""
 	keyWait
@@ -369,7 +369,7 @@ script 4 mmbn4 {
 	clearMsg
 	"""
 	Diferente do meu
-	avô,eu faço isso
+	avô, eu faço isso
 	por diversão.
 	"""
 	keyWait
@@ -395,7 +395,7 @@ script 6 mmbn4 {
 	msgOpen
 	"""
 	Que tédio...
-	Se,ao menos,eu ti-
+	Se, ao menos, eu ti-
 	vesse mais peças...
 	"""
 	keyWait
@@ -468,7 +468,7 @@ script 7 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ah,e acho que tem
+	Ah, e acho que tem
 	uns dois na Rede
 	do seu país!
 	"""
@@ -492,8 +492,8 @@ script 8 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Bom,se me trouxer as
-	peças,faço pra você
+	Bom, se me trouxer as
+	peças, faço pra você
 	com prazer.
 	"""
 	keyWait
@@ -562,7 +562,7 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Tem o código-P,né?
+	Tem o código-P, né?
 	"""
 	keyWait
 		any = false
@@ -603,7 +603,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	Tá bom,é só usar
+	Tá bom, é só usar
 	este aqui...
 	"""
 	keyWait
@@ -639,7 +639,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Bom,tudo bem,\nentão..."
+	"Bom, tudo bem, \nentão..."
 	keyWait
 		any = false
 	flagSet
@@ -652,14 +652,14 @@ script 12 mmbn4 {
 	msgOpen
 	"""
 	Você É um Navi do
-	Centro Espacial,né?
+	Centro Espacial, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	E está com o
-	código-P aí,né?
+	código-P aí, né?
 	"""
 	keyWait
 		any = false
@@ -700,7 +700,7 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	Tá bom,é só usar
+	Tá bom, é só usar
 	este aqui...
 	"""
 	keyWait
@@ -749,7 +749,7 @@ script 13 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,agora,só fico de
+	Mas, agora, só fico de
 	bobeira por aqui...
 	"""
 	keyWait
@@ -821,7 +821,7 @@ script 21 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	... Então,você é o
+	... Então, você é o
 	MegaMan! É tão bom
 	quanto dizem...
 	"""
@@ -876,7 +876,7 @@ script 35 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	MegaMan,o mundo
+	MegaMan, o mundo
 	depende de você!
 	"""
 	keyWait
@@ -890,8 +890,8 @@ script 150 mmbn4 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	Então,você tá
-	treinando,é? Quer
+	Então, você tá
+	treinando, é? Quer
 	treinar comigo?
 	"""
 	keyWait
@@ -961,7 +961,7 @@ script 155 mmbn4 {
 	clearMsg
 	"""
 	Por que o KendoMan
-	pega tão pesado,até
+	pega tão pesado, até
 	com garotas?!
 	"""
 	keyWait
@@ -1017,9 +1017,9 @@ script 161 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Então,você também
+	Então, você também
 	veio procurar nesta
-	área,é?
+	área, é?
 	"""
 	keyWait
 		any = false

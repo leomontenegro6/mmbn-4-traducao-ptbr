@@ -16,7 +16,7 @@ script 1 mmbn4 {
 		mugshot = MegaMan
 	"""
 	Vai. Ele tá desacor-
-	dado,mas logo se
+	dado, mas logo se
 	recupera.
 	"""
 	keyWait
@@ -28,7 +28,7 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Espera,MegaMan."
+	"Espera, MegaMan."
 	keyWait
 		any = false
 	clearMsg
@@ -46,7 +46,7 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Se bem me lembro,\nfalou,sim."
+	"Se bem me lembro, \nfalou, sim."
 	keyWait
 		any = false
 	clearMsg
@@ -67,7 +67,7 @@ script 4 mmbn4 {
 	"""
 	A gente só precisa
 	do código de
-	funcionário dele,né?
+	funcionário dele, né?
 	"""
 	keyWait
 		any = false

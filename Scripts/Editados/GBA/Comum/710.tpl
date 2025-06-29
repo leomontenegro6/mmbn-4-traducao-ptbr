@@ -14,14 +14,14 @@ script 0 mmbn4 {
 	clearMsg
 	"""
 	Lan Hikari vs. Flave
-	Yamakawa,em uma
+	Yamakawa, em uma
 	disputa na cozinha!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	E eu,Mami,serei a
+	E eu, Mami, serei a
 	sua apresentadora!
 	"""
 	keyWait
@@ -91,7 +91,7 @@ script 3 mmbn4 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	He he,estou ansioso
+	He he, estou ansioso
 	para comer aquele
 	curry gostoso!
 	"""
@@ -106,7 +106,7 @@ script 4 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	E aqui,o nosso
+	E aqui, o nosso
 	desafiador:
 	Lan Hikari!
 	"""
@@ -137,7 +137,7 @@ script 6 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	He,tá começando a
+	He, tá começando a
 	parecer uma compe-
 	tição de verdade.
 	"""
@@ -152,7 +152,7 @@ script 7 mmbn4 {
 		mugshot = Flave
 	msgOpen
 	"""
-	É,isto aqui é mais
+	É, isto aqui é mais
 	divertido que uma
 	NetLuta!
 	"""

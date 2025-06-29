@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Agora,sim,você
+	Agora, sim, você
 	está pronto para
 	fazer curry com
 	"""
@@ -49,7 +49,7 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Agora,você terá
+	Agora, você terá
 	que encontrar
 	ingredientes.
 	"""
@@ -128,7 +128,7 @@ script 4 mmbn4 {
 	"""
 	para um Navi jovem
 	como você logo de
-	cara,mas você
+	cara, mas você
 	"""
 	keyWait
 		any = false
@@ -154,7 +154,7 @@ script 5 mmbn4 {
 	clearMsg
 	"""
 	Seja lá qual disputa
-	for,eu não vou dei-
+	for, eu não vou dei-
 	xar o Lan perder!
 	"""
 	keyWait

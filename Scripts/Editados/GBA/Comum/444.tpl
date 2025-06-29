@@ -2,7 +2,7 @@
 
 script 0 mmbn4 {
 	msgOpen
-	"Lan,acorda!"
+	"Lan, acorda!"
 	keyWait
 		any = false
 	clearMsg
@@ -50,7 +50,7 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotHide
 	"""
-	Rápido,se troca
+	Rápido, se troca
 	logo e desce!
 	"""
 	keyWait
@@ -63,8 +63,8 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Ai,eu tava dormindo
-	tão bem,viu?!
+	Ai, eu tava dormindo
+	tão bem, viu?!
 	"""
 	keyWait
 		any = false
@@ -75,7 +75,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotHide
 	"""
-	Ah,é,chegou e-mail.
+	Ah, é, chegou e-mail.
 	Melhor você ler
 	depois.
 	"""

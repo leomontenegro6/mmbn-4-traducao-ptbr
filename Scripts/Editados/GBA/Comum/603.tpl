@@ -39,7 +39,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E agora,eles vão...
+	E agora, eles vão...
 	"""
 	keyWait
 		any = false
@@ -72,7 +72,7 @@ script 3 mmbn4 {
 		mugshot = AquaMan
 	msgOpen
 	"""
-	Mas,disseram que eu
+	Mas, disseram que eu
 	era como uma máquina
 	de lavar velha!
 	"""
@@ -140,14 +140,14 @@ script 6 mmbn4 {
 		mugshot = Lan
 	"""
 	Relaxa. Tô feliz
-	que,agora,você
+	que, agora, você
 	entendeu.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Enfim,pode dar uma
+	Enfim, pode dar uma
 	ajeitada na Rede
 	agora?
 	"""
@@ -160,7 +160,7 @@ script 7 mmbn4 {
 		mugshot = AquaMan
 	msgOpen
 	"""
-	Ai,não! Xuá!
+	Ai, não! Xuá!
 	Eu fiz de novo?!
 	"""
 	keyWait
@@ -222,7 +222,7 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Além disso,a luta tá
+	Além disso, a luta tá
 	chegando. Melhor a
 	gente ir pra lá.
 	"""
@@ -254,7 +254,7 @@ script 12 mmbn4 {
 	clearMsg
 	"""
 	Agora que tá tudo
-	esclarecido,podemos
+	esclarecido, podemos
 	ter uma luta legal!
 	"""
 	keyWait
@@ -262,7 +262,7 @@ script 12 mmbn4 {
 	clearMsg
 	"""
 	A gente se vê no
-	torneio,então!
+	torneio, então!
 	"""
 	keyWait
 		any = false

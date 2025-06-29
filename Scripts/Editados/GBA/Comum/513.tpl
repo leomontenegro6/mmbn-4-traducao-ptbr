@@ -50,7 +50,7 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Porém,ela andava
+	Porém, ela andava
 	agindo muito
 	estranho.
 	"""
@@ -59,7 +59,7 @@ script 2 mmbn4 {
 	clearMsg
 	"""
 	Sempre acostumada a
-	cortar lenha,agora
+	cortar lenha, agora
 	só usava seu
 	"""
 	keyWait
@@ -69,7 +69,7 @@ script 2 mmbn4 {
 	printStoryDataOption
 		option = 0
 	"""
-	",e ficara
+	", e ficara
 	cuidadosa com a
 	própria aparência...
 	"""
@@ -230,8 +230,8 @@ script 6 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	e,antes que se desse
-	conta,a árvore se
+	e, antes que se desse
+	conta, a árvore se
 	partiu ao meio,
 	"""
 	keyWait
@@ -239,7 +239,7 @@ script 6 mmbn4 {
 	clearMsg
 	"""
 	e seu amado Tomahawk
-	saiu dela,dizendo:
+	saiu dela, dizendo:
 	"""
 	keyWait
 		any = false
@@ -310,7 +310,7 @@ script 8 mmbn4 {
 	clearMsg
 	"""
 	Parecia um cão nor-
-	mal,mas,na verdade,
+	mal, mas, na verdade,
 	era um feiticeiro
 	"""
 	keyWait
@@ -325,7 +325,7 @@ script 8 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Reneza,o MagoCão
+	Reneza, o MagoCão
 	tinha um problema em
 	particular.
 	"""
@@ -339,7 +339,7 @@ script 8 mmbn4 {
 	printStoryDataOption
 		option = 0
 	"""
-	",também
+	", também
 	de Reneza.
 	"""
 	keyWait
@@ -347,7 +347,7 @@ script 8 mmbn4 {
 	clearMsg
 	"""
 	Com habilidades
-	iguais,eles brigavam
+	iguais, eles brigavam
 	feito cão e gato.
 	"""
 	keyWait
@@ -383,7 +383,7 @@ script 10 mmbn4 {
 	mugshotHide
 	msgOpen
 	"""
-	Porém,um certo inci-
+	Porém, um certo inci-
 	dente forçou os dois
 	a cooperarem.
 	"""
@@ -392,7 +392,7 @@ script 10 mmbn4 {
 	clearMsg
 	"""
 	Um mago do mal,
-	um dia,apareceu
+	um dia, apareceu
 	em Reneza.
 	"""
 	keyWait
@@ -418,7 +418,7 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Sem sua magia,os
+	Sem sua magia, os
 	dois eram apenas um
 	cão e um macaco.
 	"""
@@ -463,7 +463,7 @@ script 11 mmbn4 {
 		jumpIfCancelled = 0
 	clearMsg
 	"""
-	Agora,o segundo!
+	Agora, o segundo!
 	
 	"""
 	positionOptionVertical
@@ -519,7 +519,7 @@ script 12 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Primeiro,o MagoCão"
+	"Primeiro, o MagoCão"
 	keyWait
 		any = false
 	clearMsg
@@ -542,14 +542,14 @@ script 12 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Depois,o MagoMacaco\nusou"
+	"Depois, o MagoMacaco\nusou"
 	keyWait
 		any = false
 	clearMsg
 	"""
 	sua velocidade de
 	macaco e pulou no
-	rosto do mago,e seu
+	rosto do mago, e seu
 	"""
 	keyWait
 		any = false
@@ -567,7 +567,7 @@ script 12 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Para fugir,o mago
+	Para fugir, o mago
 	virou um pássaro e
 	voou para longe.
 	"""
@@ -575,7 +575,7 @@ script 12 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ao cooperarem,os
+	Ao cooperarem, os
 	dois parceiros
 	salvaram Reneza.
 	"""
@@ -583,7 +583,7 @@ script 12 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Contudo,ao
+	Contudo, ao
 	recuperarem seus
 	poderes mágicos,
 	"""
@@ -593,7 +593,7 @@ script 12 mmbn4 {
 	"""
 	eles começaram a
 	brigar feito cão
-	e gato,de novo...
+	e gato, de novo...
 	"""
 	keyWait
 		any = false
@@ -638,7 +638,7 @@ script 13 mmbn4 {
 		jumpIfCancelled = 0
 	clearMsg
 	"""
-	Agora,o segundo!
+	Agora, o segundo!
 	
 	"""
 	positionOptionVertical
@@ -671,7 +671,7 @@ script 14 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Originalmente,ele
+	Originalmente, ele
 	foi construído para
 	"
 	"""
@@ -682,27 +682,27 @@ script 14 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,agora,levava
+	Mas, agora, levava
 	uma vida tranquila
-	na floresta,sozinho.
+	na floresta, sozinho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Como robô,o Flandrô
+	Como robô, o Flandrô
 	não tinha
 	"
 	"""
 	printStoryDataChosen
 		index = 1
-	"\",mas"
+	"\", mas"
 	keyWait
 		any = false
 	clearMsg
 	"""
 	como muito desejava
-	ter,ele rezava por
+	ter, ele rezava por
 	isso o tempo todo.
 	"""
 	keyWait
@@ -746,7 +746,7 @@ script 15 mmbn4 {
 		jumpIfCancelled = 0
 	clearMsg
 	"""
-	Agora,o segundo!
+	Agora, o segundo!
 	
 	"""
 	positionOptionVertical
@@ -775,15 +775,15 @@ script 16 mmbn4 {
 		index = 0
 	"""
 	" era
-	amiga do Flandrô,e,
+	amiga do Flandrô, e,
 	um dia,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ela,de repente,parou
-	de se mover,parou de
+	ela, de repente, parou
+	de se mover, parou de
 	apresentar vida.
 	"""
 	keyWait
@@ -849,7 +849,7 @@ script 18 mmbn4 {
 	mugshotHide
 	msgOpen
 	"""
-	Sem Emoção,o Flandrô
+	Sem Emoção, o Flandrô
 	não era capaz de
 	entender a morte.
 	"""
@@ -865,16 +865,16 @@ script 18 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Porém,Flandrô havia
+	Porém, Flandrô havia
 	sido usado em inú-
-	meras guerras,e ao
+	meras guerras, e ao
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	se lembrar de seus
-	atos horríveis,caiu
+	atos horríveis, caiu
 	em grande angústia.
 	"""
 	keyWait
@@ -882,7 +882,7 @@ script 18 mmbn4 {
 	clearMsg
 	"""
 	Para expiar por seus
-	atos,ele decidiu ser
+	atos, ele decidiu ser
 	um "
 	"""
 	printStoryDataOption
@@ -893,7 +893,7 @@ script 18 mmbn4 {
 	clearMsg
 	"""
 	Para pagar por seus
-	pecados,ele havia
+	pecados, ele havia
 	realizado seu sonho.
 	"""
 	keyWait
@@ -952,7 +952,7 @@ script 19 mmbn4 {
 		jumpIfCancelled = 0
 	clearMsg
 	"""
-	Agora,o segundo!
+	Agora, o segundo!
 	
 	"""
 	positionOptionVertical
@@ -980,7 +980,7 @@ script 20 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Django,o Garoto\nSolar,"
+	"Django, o Garoto\nSolar,"
 	keyWait
 		any = false
 	clearMsg
@@ -992,7 +992,7 @@ script 20 mmbn4 {
 		index = 0
 	"""
 	",
-	a Arma Solar,e,
+	a Arma Solar, e,
 	"""
 	keyWait
 		any = false
@@ -1122,7 +1122,7 @@ script 22 mmbn4 {
 	clearMsg
 	"""
 	Os dois viajantes,
-	então,seguiram
+	então, seguiram
 	naquela direção...
 	"""
 	keyWait
@@ -1170,7 +1170,7 @@ script 24 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	e lá,Django,se depa-
+	e lá, Django, se depa-
 	rou com o maligno
 	Vampiro da cidade.
 	"""
@@ -1178,8 +1178,8 @@ script 24 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Dracky,o Super Vam-
-	piro,imune a alho
+	Dracky, o Super Vam-
+	piro, imune a alho
 	e a cruzes.
 	"""
 	keyWait
@@ -1300,7 +1300,7 @@ script 25 mmbn4 {
 		jumpIfCancelled = 0
 	clearMsg
 	"""
-	Agora,o segundo!
+	Agora, o segundo!
 	
 	"""
 	positionOptionVertical
@@ -1396,7 +1396,7 @@ script 26 mmbn4 {
 	"""
 	Dracky possuía
 	somente um ponto
-	fraco,esse sendo
+	fraco, esse sendo
 	"""
 	keyWait
 		any = false
@@ -1422,7 +1422,7 @@ script 26 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	quando,de repente,
+	quando, de repente,
 	Dracky avançou
 	direto nele!
 	"""
@@ -1439,7 +1439,7 @@ script 26 mmbn4 {
 	clearMsg
 	"""
 	a risada do Vampiro
-	ecoou,cortando o
+	ecoou, cortando o
 	silêncio...
 	"""
 	keyWait

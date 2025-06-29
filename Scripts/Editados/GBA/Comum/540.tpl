@@ -52,9 +52,9 @@ script 4 mmbn4 {
 		mugshot = Roll
 	msgOpen
 	"""
-	Oi,Mega!
+	Oi, Mega!
 	Resgate na hora
-	certa,hein?
+	certa, hein?
 	"""
 	keyWait
 		any = false
@@ -93,7 +93,7 @@ script 6 mmbn4 {
 	msgOpen
 	"""
 	Só você pode salvar
-	a Terra,MegaMan!
+	a Terra, MegaMan!
 	Guts!
 	"""
 	keyWait
@@ -149,7 +149,7 @@ script 10 mmbn4 {
 	"""
 	Eu... Nós
 	acreditamos muito
-	em você,Lan.
+	em você, Lan.
 	"""
 	keyWait
 		any = false
@@ -173,7 +173,7 @@ script 11 mmbn4 {
 	clearMsg
 	"""
 	... Só de ter vocês
-	aqui,eu me sinto
+	aqui, eu me sinto
 	invencível!
 	"""
 	keyWait
@@ -188,7 +188,7 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	MegaMan,vamos voltar
+	MegaMan, vamos voltar
 	pra NAXA!
 	"""
 	keyWait
@@ -202,7 +202,7 @@ script 12 mmbn4 {
 		mugshot = MegaMan
 	"""
 	OK!
-	Valeu,gente!
+	Valeu, gente!
 	"""
 	keyWait
 		any = false

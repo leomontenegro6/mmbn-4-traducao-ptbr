@@ -40,7 +40,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Ah,tem alguém ali!"
+	"Ah, tem alguém ali!"
 	keyWait
 		any = false
 	end
@@ -67,7 +67,7 @@ script 5 mmbn4 {
 	clearMsg
 	"""
 	Se não tivesse esta
-	porta aqui,daria pra
+	porta aqui, daria pra
 	ir atrás dele.
 	"""
 	keyWait
@@ -110,8 +110,8 @@ script 7 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ei,Shuko é o nome
-	daquela garota,né?
+	Ei, Shuko é o nome
+	daquela garota, né?
 	"""
 	keyWait
 		any = false
@@ -122,7 +122,7 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"É,sim!"
+	"É, sim!"
 	keyWait
 		any = false
 	clearMsg

@@ -35,7 +35,7 @@ script 2 mmbn4 {
 	"""
 	Na área à frente.
 	Eu guardo bem minhas
-	sobremesas,sabe?
+	sobremesas, sabe?
 	"""
 	keyWait
 		any = false
@@ -89,7 +89,7 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Bom,estou ansioso
+	Bom, estou ansioso
 	pela minha longa e
 	agradável sobremesa.
 	"""
@@ -203,14 +203,14 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	É mesmo! Argh,por
+	É mesmo! Argh, por
 	que não tem uma
 	ponte?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Bora,MegaMan!"
+	"Bora, MegaMan!"
 	keyWait
 		any = false
 	clearMsg

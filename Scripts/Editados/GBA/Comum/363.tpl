@@ -5,7 +5,7 @@ script 10 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	OLÁ,MEGAMAN!
+	OLÁ, MEGAMAN!
 	COMO VAI NESTE LINDO
 	DIA?
 	"""
@@ -13,7 +13,7 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	PODE DEIXAR,ALERTA-
+	PODE DEIXAR, ALERTA-
 	REI DE QUALQUER
 	PROBLEMA NA CASA.
 	"""

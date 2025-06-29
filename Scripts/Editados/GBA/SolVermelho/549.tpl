@@ -31,7 +31,7 @@ script 0 mmbn4 {
 	"""
 	Faltando somente
 	uma hora para o
-	impacto,o anúncio
+	impacto, o anúncio
 	"""
 	keyWait
 		any = false
@@ -85,7 +85,7 @@ script 3 mmbn4 {
 	msgOpen
 	"""
 	O MegaMan está lutan-
-	do,mas o que só um
+	do, mas o que só um
 	Navi pode fazer?
 	"""
 	keyWait
@@ -93,7 +93,7 @@ script 3 mmbn4 {
 	clearMsg
 	"""
 	Se eu soubesse
-	disso,teria me
+	disso, teria me
 	casado faz tempo.
 	"""
 	keyWait
@@ -141,7 +141,7 @@ script 6 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Agora mesmo,o
+	Agora mesmo, o
 	MegaMan tá lá,
 	arriscando a vida!
 	"""
@@ -154,7 +154,7 @@ script 7 mmbn4 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Bom,não é como se
+	Bom, não é como se
 	pudéssemos fazer
 	algo a respeito...
 	"""
@@ -209,7 +209,7 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotHide
 	"""
-	Ai,ai...
+	Ai, ai...
 	Bando de adulto
 	chorão...
 	"""
@@ -271,7 +271,7 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = Yai
 	"""
-	É,a gente tem que
+	É, a gente tem que
 	achar um jeito de
 	ajudar o MegaMan!!
 	"""
@@ -302,7 +302,7 @@ script 15 mmbn4 {
 	clearMsg
 	"""
 	Se gritarmos bem
-	alto,é possível que
+	alto, é possível que
 	ele nos ouça.
 	"""
 	keyWait
@@ -372,7 +372,7 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	msgOpen
-	"He,he."
+	"He, he."
 	keyWait
 		any = false
 	end

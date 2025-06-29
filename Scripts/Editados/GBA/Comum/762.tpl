@@ -107,7 +107,7 @@ script 4 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"... Ei,acorda!!"
+	"... Ei, acorda!!"
 	keyWait
 		any = false
 	clearMsg
@@ -121,7 +121,7 @@ script 5 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Ah,desculpa."
+	"Ah, desculpa."
 	keyWait
 		any = false
 	clearMsg
@@ -142,7 +142,7 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Contudo,o ColdMan
+	Contudo, o ColdMan
 	está interferindo
 	com elas.
 	"""
@@ -172,14 +172,14 @@ script 6 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Ah,é,aqueles lá."
+	"Ah, é, aqueles lá."
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Se a gente acabar
-	com eles,consertamos
-	as antenas,é isso?
+	com eles, consertamos
+	as antenas, é isso?
 	"""
 	keyWait
 		any = false
@@ -198,13 +198,13 @@ script 7 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Ah,desculpa!"
+	"Ah, desculpa!"
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Pra vencer os Cyber-
-	BonecosDeNeve,você
+	BonecosDeNeve, você
 	precisa se livrar
 	"""
 	keyWait
@@ -251,7 +251,7 @@ script 9 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Isso,vírus. Se você
+	Isso, vírus. Se você
 	deletar os vírus
 	dentro deles,
 	"""
@@ -273,7 +273,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Certo,vamos lá
+	Certo, vamos lá
 	destruir os
 	CyberBonecosDeNeve.
 	"""
@@ -352,7 +352,7 @@ script 13 mmbn4 {
 	clearMsg
 	"""
 	Depois de destruir
-	o Boneco,você deverá
+	o Boneco, você deverá
 	acender cada sistema
 	"""
 	keyWait
@@ -434,7 +434,7 @@ script 17 mmbn4 {
 	clearMsg
 	"""
 	Antes que se dê
-	conta,o clima
+	conta, o clima
 	frio...
 	"""
 	keyWait
@@ -443,7 +443,7 @@ script 17 mmbn4 {
 	mugshotAnimation
 		animation = 2
 	"""
-	... Ah,não consigo
+	... Ah, não consigo
 	manter... meus
 	olhos... abertos...
 	"""
@@ -461,7 +461,7 @@ script 18 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Tá,primeiro,temos
+	Tá, primeiro, temos
 	que nos conectar
 	às antenas
 	"""
@@ -476,20 +476,20 @@ script 18 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Depois disso,a gente
+	Depois disso, a gente
 	acende as
 	CyberTochas!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Tá,tô pronto!"
+	"Tá, tô pronto!"
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Parece frio pra
-	caramba lá fora,mas
+	caramba lá fora, mas
 	a gente tem que ir!
 	"""
 	keyWait
@@ -500,7 +500,7 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"Ah,quase esqueci..."
+	"Ah, quase esqueci..."
 	keyWait
 		any = false
 	clearMsg
@@ -521,7 +521,7 @@ script 19 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Se demorar demais,os
+	Se demorar demais, os
 	CyberBonecosDeNeve
 	se regeneram.
 	"""

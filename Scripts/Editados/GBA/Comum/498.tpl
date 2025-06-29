@@ -16,7 +16,7 @@ script 0 mmbn4 {
 	clearMsg
 	"""
 	que o Torneio Águia
-	começa hoje,né?
+	começa hoje, né?
 	"""
 	keyWait
 		any = false
@@ -28,9 +28,9 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Falou,sim.
+	Falou, sim.
 	Acho que foi um
-	engano,isso...
+	engano, isso...
 	"""
 	keyWait
 		any = false
@@ -56,7 +56,7 @@ script 3 mmbn4 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Lan,eu tô ocupada
+	Lan, eu tô ocupada
 	agora. Pode atender
 	à porta?
 	"""
@@ -74,7 +74,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Sim,quem é?"
+	"Sim, quem é?"
 	keyWait
 		any = false
 	clearMsg
@@ -127,7 +127,7 @@ script 8 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Lan Hikari,né?"
+	"Lan Hikari, né?"
 	keyWait
 		any = false
 	clearMsg
@@ -251,7 +251,7 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = SciLabMan
 	"""
-	Após coletar 50,siga
+	Após coletar 50, siga
 	para o castelo no
 	Castillo.
 	"""
@@ -275,9 +275,9 @@ script 16 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Então,a gente tem
+	Então, a gente tem
 	que juntar 50
-	pontos,é?
+	pontos, é?
 	"""
 	keyWait
 		any = false
@@ -293,7 +293,7 @@ script 17 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas... Pera,se a
+	Mas... Pera, se a
 	gente ganhar o
 	torneio...
 	"""
@@ -346,7 +346,7 @@ script 20 mmbn4 {
 	clearMsg
 	"""
 	que o Torneio Falcão
-	começa hoje,né?
+	começa hoje, né?
 	"""
 	keyWait
 		any = false

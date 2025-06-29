@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hum... Então,o
+	Hum... Então, o
 	nosso próximo
 	oponente é VideoMan.
 	"""
@@ -101,7 +101,7 @@ script 8 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ah,minha beleza é
+	Ah, minha beleza é
 	tamanha que chega
 	dói!
 	"""
@@ -125,13 +125,13 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = ViddyNarcy
 	"""
-	Quem? Ah,você
+	Quem? Ah, você
 	realmente não sabe!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Então,irei contar!"
+	"Então, irei contar!"
 	keyWait
 		any = false
 	end
@@ -149,7 +149,7 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ah,e eu estou além
+	Ah, e eu estou além
 	da barreira de
 	gênero.
 	"""
@@ -158,7 +158,7 @@ script 11 mmbn4 {
 	clearMsg
 	"""
 	Sou o operador de
-	VideoMan,o mais novo
+	VideoMan, o mais novo
 	produtor no pedaço!
 	"""
 	keyWait
@@ -197,7 +197,7 @@ script 13 mmbn4 {
 script 14 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Não,nunca nem ouvi\nfalar."
+	"Não, nunca nem ouvi\nfalar."
 	keyWait
 		any = false
 	clearMsg
@@ -215,7 +215,7 @@ script 15 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Por um momento,me
+	Por um momento, me
 	fez pensar que eu
 	era famoso!
 	"""
@@ -229,7 +229,7 @@ script 16 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Ah,é só que eu achei
+	Ah, é só que eu achei
 	que um suspense
 	seria divertido.
 	"""
@@ -237,7 +237,7 @@ script 16 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,enfim,o que você
+	Mas, enfim, o que você
 	quer falar comigo,
 	o seu oponente?
 	"""
@@ -251,7 +251,7 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = ViddyNarcy
 	"""
-	Na verdade,eu queria
+	Na verdade, eu queria
 	te pedir um favor.
 	"""
 	keyWait
@@ -333,19 +333,19 @@ script 21 mmbn4 {
 	"......\n"
 	mugshotAnimation
 		animation = 2
-	"Mas claro que não\nseria assim,é?"
+	"Mas claro que não\nseria assim, é?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nesse caso,é melhor
+	Nesse caso, é melhor
 	eu deletá-lo de uma
 	vez.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"E depois,a mim\nmesmo..."
+	"E depois, a mim\nmesmo..."
 	keyWait
 		any = false
 	clearMsg
@@ -356,7 +356,7 @@ script 22 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Ô,calma aí!
+	Ô, calma aí!
 	Cê é louco?!
 	"""
 	keyWait
@@ -389,14 +389,14 @@ script 23 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Vamos,VideoMan."
+	"Vamos, VideoMan."
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Será rápido. Você
 	não sofrerá. E de-
-	pois,irei eu... Oh!
+	pois, irei eu... Oh!
 	"""
 	keyWait
 		any = false
@@ -407,7 +407,7 @@ script 24 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,o que a
+	MegaMan, o que a
 	gente faz?
 	"""
 	keyWait
@@ -426,7 +426,7 @@ script 24 mmbn4 {
 script 25 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"É,tem razão."
+	"É, tem razão."
 	keyWait
 		any = false
 	clearMsg
@@ -507,7 +507,7 @@ script 30 mmbn4 {
 		mugshot = Lan
 	"""
 	Ele falou sobre uma
-	entrada. Então,deve
+	entrada. Então, deve
 	ser uma área "1".
 	"""
 	keyWait

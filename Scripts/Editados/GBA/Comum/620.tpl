@@ -31,7 +31,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Yuko
 	"""
-	Hi hi,perdi!
+	Hi hi, perdi!
 	Mas foi tão
 	divertido!
 	"""
@@ -39,7 +39,7 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Obrigada,Lan.
+	Obrigada, Lan.
 	Obrigada por não
 	pegar leve comigo.
 	"""
@@ -75,7 +75,7 @@ script 5 mmbn4 {
 	"""
 	Ir? Pra onde?
 	O que tá
-	acontecendo,Yuko?
+	acontecendo, Yuko?
 	"""
 	keyWait
 		any = false
@@ -87,7 +87,7 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Yuko
 	"""
-	Desculpa,Lan.
+	Desculpa, Lan.
 	Desculpa por não te
 	contar antes.
 	"""
@@ -149,12 +149,12 @@ script 8 mmbn4 {
 	"""
 	Foi você que fez
 	todos aqueles Navis
-	ascenderem,não foi?
+	ascenderem, não foi?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Obrigada,Lan."
+	"Obrigada, Lan."
 	keyWait
 		any = false
 	clearMsg
@@ -181,7 +181,7 @@ script 9 mmbn4 {
 		mugshot = Lan
 	"""
 	Espera!
-	Yuko,não vai!
+	Yuko, não vai!
 	"""
 	keyWait
 		any = false
@@ -210,8 +210,8 @@ script 12 mmbn4 {
 		mugshot = Yuko
 	msgOpen
 	"""
-	Obrigada,Lan.
-	Obrigada,MegaMan.
+	Obrigada, Lan.
+	Obrigada, MegaMan.
 	Adeus...
 	"""
 	keyWait
@@ -250,7 +250,7 @@ script 14 mmbn4 {
 	clearMsg
 	"""
 	Eu sempre vou torcer
-	por vocês,Lan!
+	por vocês, Lan!
 	"""
 	keyWait
 		any = false
@@ -293,7 +293,7 @@ script 18 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	MegaMan,a gente TEM
+	MegaMan, a gente TEM
 	que vencer este
 	torneio!
 	"""

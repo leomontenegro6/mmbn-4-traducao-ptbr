@@ -28,7 +28,7 @@ script 1 mmbn4 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	Ah,aí está você,
+	Ah, aí está você,
 	minha fofucha!
 	"""
 	keyWait
@@ -46,7 +46,7 @@ script 2 mmbn4 {
 	msgOpen
 	"""
 	Desculpa te fazer
-	esperar,bonitão!
+	esperar, bonitão!
 	"""
 	keyWait
 		any = false
@@ -77,7 +77,7 @@ script 11 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Ah,querida,eu te\namo!"
+	"Ah, querida, eu te\namo!"
 	keyWait
 		any = false
 	end
@@ -143,8 +143,8 @@ script 21 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ora,meu docinho de
-	coco,você sabe que
+	Ora, meu docinho de
+	coco, você sabe que
 	esses brinquedos não
 	"""
 	keyWait
@@ -166,7 +166,7 @@ script 22 mmbn4 {
 	msgOpen
 	"""
 	É-é muito meigo da
-	sua parte,lindão...
+	sua parte, lindão...
 	"""
 	keyWait
 		any = false
@@ -218,7 +218,7 @@ script 30 mmbn4 {
 	clearMsg
 	"""
 	Torneio Sol
-	Vermelho,seja lá
+	Vermelho, seja lá
 	quem ele for.
 	"""
 	keyWait
@@ -227,7 +227,7 @@ script 30 mmbn4 {
 	"""
 	Hm? Ele ainda não
 	foi vencido?
-	Ah,que bom.
+	Ah, que bom.
 	"""
 	keyWait
 		any = false
@@ -240,7 +240,7 @@ script 31 mmbn4 {
 	"""
 	Amoreco? Fico tão
 	feliz só de estar
-	com você,assim...
+	com você, assim...
 	"""
 	keyWait
 		any = false
@@ -251,9 +251,9 @@ script 32 mmbn4 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Ah,meu xuxuzinho!
+	Ah, meu xuxuzinho!
 	Fico feliz que se
-	sinta assim,mas eu
+	sinta assim, mas eu
 	"""
 	keyWait
 		any = false
@@ -269,7 +269,7 @@ script 32 mmbn4 {
 	mugshotShow
 		mugshot = BlondMan
 	"""
-	Não,você tem que
+	Não, você tem que
 	cuidar bem da saúde.
 	"""
 	keyWait
@@ -299,7 +299,7 @@ script 33 mmbn4 {
 	"""
 	Hm? Ele ainda não
 	foi vencido?
-	Ah,que bom.
+	Ah, que bom.
 	"""
 	keyWait
 		any = false
@@ -337,7 +337,7 @@ script 41 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Ah,nunca vou\nentender as\nmulheres!"
+	"Ah, nunca vou\nentender as\nmulheres!"
 	keyWait
 		any = false
 	end
@@ -352,8 +352,8 @@ script 45 mmbn4 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Uma hora,as pessoas
-	param de vir,até em
+	Uma hora, as pessoas
+	param de vir, até em
 	um parque temático
 	"""
 	keyWait
@@ -367,7 +367,7 @@ script 45 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Francamente,eu
+	Francamente, eu
 	prefiro assim,
 	sem multidão!
 	"""
@@ -394,7 +394,7 @@ script 46 mmbn4 {
 	clearMsg
 	"""
 	Estamos perdendo
-	dinheiro,abrindo
+	dinheiro, abrindo
 	sem ninguém vir!
 	"""
 	keyWait
@@ -505,7 +505,7 @@ script 57 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Só távamos curtindo\naqui,de boa!"
+	"Só távamos curtindo\naqui, de boa!"
 	keyWait
 		any = false
 	end
@@ -516,7 +516,7 @@ script 58 mmbn4 {
 	msgOpen
 	"""
 	Não posso dar deta-
-	lhes,mas vocês pre-
+	lhes, mas vocês pre-
 	cisam ir embora!
 	"""
 	keyWait
@@ -530,7 +530,7 @@ script 180 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	De repente,ele
+	De repente, ele
 	começa a falar!!
 	"""
 	keyWait
@@ -565,7 +565,7 @@ script 180 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	condições,ela é sua!
+	condições, ela é sua!
 	E então?
 	"""
 	keyWait
@@ -607,7 +607,7 @@ script 180 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	Ah,é? Bom,talvez
+	Ah, é? Bom, talvez
 	na próxima...
 	"""
 	keyWait
@@ -619,7 +619,7 @@ script 181 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Certo,vou transferir
+	Certo, vou transferir
 	os dados da
 	"
 	"""

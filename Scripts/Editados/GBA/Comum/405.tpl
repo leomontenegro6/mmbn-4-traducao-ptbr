@@ -25,7 +25,7 @@ script 0 mmbn4 {
 	clearMsg
 	"""
 	Á AREA ACDC ESTÁ EM
-	PAZ,COMO SEMPRE!
+	PAZ, COMO SEMPRE!
 	"""
 	keyWait
 		any = false
@@ -172,7 +172,7 @@ script 10 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	HI HI,HA HA!
+	HI HI, HA HA!
 	MAIS UM DIA
 	PACÍFICO!
 	"""
@@ -232,7 +232,7 @@ script 15 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	POR FAVOR,NÃO ME
+	POR FAVOR, NÃO ME
 	PERTURBE.
 	"""
 	keyWait
@@ -256,7 +256,7 @@ script 16 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Bom,não olha pra
+	Bom, não olha pra
 	mim! Eu não tô
 	envolvido!
 	"""
@@ -352,7 +352,7 @@ script 31 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	SE QUISER,É SEU!
+	SE QUISER, É SEU!
 	"""
 	keyWait
 		any = false
@@ -379,7 +379,7 @@ script 31 mmbn4 {
 		mugshot = MrProgGreen
 	"""
 	O LIXO DE UM É O
-	TESOURO DE OUTRO,NÉ?
+	TESOURO DE OUTRO, NÉ?
 	"""
 	keyWait
 		any = false
@@ -394,7 +394,7 @@ script 32 mmbn4 {
 	"""
 	ACHAR UM PONTO E
 	PEGAR É... ER...
-	NÃO,NÃO É ISSO...
+	NÃO, NÃO É ISSO...
 	"""
 	keyWait
 		any = false
@@ -409,7 +409,7 @@ script 40 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	OI,MEGAMAN! OUVI QUE
+	OI, MEGAMAN! OUVI QUE
 	VOCÊ PASSOU NAS
 	PRELIMINARES!
 	"""
@@ -444,9 +444,9 @@ script 41 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	ENTÃO,O SEU PRIMEIRO
+	ENTÃO, O SEU PRIMEIRO
 	OPONENTE JÁ FOI
-	DECIDIDO,É?
+	DECIDIDO, É?
 	"""
 	keyWait
 		any = false
@@ -613,14 +613,14 @@ script 54 mmbn4 {
 	"""
 	Tá todo mundo
 	caçando esses
-	pontos,hein...
+	pontos, hein...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Bom,eu não tô
-	competindo,então
+	Bom, eu não tô
+	competindo, então
 	tanto faz pra mim...
 	"""
 	keyWait
@@ -640,7 +640,7 @@ script 59 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Pelo menos,ninguém
+	Pelo menos, ninguém
 	se feriu! Evitamos
 	um desastre maior!
 	"""

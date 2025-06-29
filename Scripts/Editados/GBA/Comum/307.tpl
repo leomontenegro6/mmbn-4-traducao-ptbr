@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Opa,tava pensando em
+	Opa, tava pensando em
 	quando você viria!
 	Este é o computador
 	"""

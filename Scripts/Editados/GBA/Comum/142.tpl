@@ -86,7 +86,7 @@ script 12 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Porém,ela andava
+	Porém, ela andava
 	agindo muito
 	estranho.
 	"""
@@ -95,14 +95,14 @@ script 12 mmbn4 {
 	clearMsg
 	"""
 	Sempre acostumada a
-	cortar lenha,agora
+	cortar lenha, agora
 	só usava seu
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"****",e ficara
+	"****", e ficara
 	cuidadosa com a
 	própria aparência...
 	"""
@@ -202,8 +202,8 @@ script 14 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	e,antes que se desse
-	conta,a árvore se
+	e, antes que se desse
+	conta, a árvore se
 	partiu ao meio,
 	"""
 	keyWait
@@ -211,7 +211,7 @@ script 14 mmbn4 {
 	clearMsg
 	"""
 	e seu amado Tomahawk
-	saiu dela,dizendo:
+	saiu dela, dizendo:
 	"""
 	keyWait
 		any = false

@@ -34,7 +34,7 @@ script 2 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Bom,ele é BONITO..."
+	"Bom, ele é BONITO..."
 	keyWait
 		any = false
 	end
@@ -70,7 +70,7 @@ script 5 mmbn4 {
 	msgOpen
 	"""
 	Arf... Puf...
-	Eita,caminhada longa
+	Eita, caminhada longa
 	da estação pra cá!
 	"""
 	keyWait
@@ -186,8 +186,8 @@ script 14 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Então,agora é a
-	batalha final,né?
+	Então, agora é a
+	batalha final, né?
 	Que emoção!
 	"""
 	keyWait
@@ -268,7 +268,7 @@ script 18 mmbn4 {
 	"""
 	Aquela mulher que
 	esbarrou em você
-	era rápida,viu?
+	era rápida, viu?
 	"""
 	keyWait
 		any = false
@@ -281,7 +281,7 @@ script 18 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	O rosto,eu não vi,
+	O rosto, eu não vi,
 	mas as roupas dela
 	eram bem estranhas.
 	"""
@@ -330,7 +330,7 @@ script 22 mmbn4 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Então,você está em
+	Então, você está em
 	um torneio pra se
 	tornar o melhor?
 	"""
@@ -350,7 +350,7 @@ script 23 mmbn4 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Oi,rapazinho!
+	Oi, rapazinho!
 	Eu te vi na TV ainda
 	agora!
 	"""
@@ -359,8 +359,8 @@ script 23 mmbn4 {
 	clearMsg
 	"""
 	Se você vencer de
-	novo,será o melhor
-	de Ni-Hon,não?
+	novo, será o melhor
+	de Ni-Hon, não?
 	"""
 	keyWait
 		any = false
@@ -450,8 +450,8 @@ script 43 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	... Aff. Bom,já que
-	eu tô aqui,vou ver o
+	... Aff. Bom, já que
+	eu tô aqui, vou ver o
 	torneio!
 	"""
 	keyWait
@@ -479,7 +479,7 @@ script 180 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"De repente,ele\ncomeça a falar!"
+	"De repente, ele\ncomeça a falar!"
 	keyWait
 		any = false
 	clearMsg
@@ -561,7 +561,7 @@ script 180 mmbn4 {
 		mugshot = NormalNaviYellow
 	"""
 	Certeza?
-	Bem,tudo bem...
+	Bem, tudo bem...
 	"""
 	keyWait
 		any = false
@@ -609,7 +609,7 @@ script 181 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Agora,sua PastaExtra
+	Agora, sua PastaExtra
 	é a "
 	"""
 	printFolderName

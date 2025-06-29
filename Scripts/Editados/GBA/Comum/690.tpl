@@ -100,7 +100,7 @@ script 5 mmbn4 {
 	"""
 	Se alguma coisa
 	acontecer com o
-	WoodMan,eu...
+	WoodMan, eu...
 	"""
 	keyWait
 		any = false

@@ -4,13 +4,13 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Escute bem,WoodMan."
+	"Escute bem, WoodMan."
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Se fizer o que eu
-	mandar,a natureza da
+	mandar, a natureza da
 	Sal será protegida.
 	"""
 	keyWait
@@ -26,7 +26,7 @@ script 1 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Mas,pra isso,"
+	"Mas, pra isso,"
 	keyWait
 		any = false
 	clearMsg
@@ -52,7 +52,7 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	mas,no fundo,sente
+	mas, no fundo, sente
 	raiva daqueles que
 	destroem a natureza.
 	"""
@@ -62,7 +62,7 @@ script 2 mmbn4 {
 	"""
 	Você deve entender
 	como a Sal se sente,
-	não é,WoodMan?
+	não é, WoodMan?
 	"""
 	keyWait
 		any = false
@@ -74,7 +74,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = WoodMan
 	"""
-	É,eu entendo...
+	É, eu entendo...
 	E... É...
 	"""
 	keyWait
@@ -82,7 +82,7 @@ script 3 mmbn4 {
 	clearMsg
 	"""
 	A Sal é boazinha
-	demais,e hesita
+	demais, e hesita
 	demais pra agir.
 	"""
 	keyWait
@@ -94,7 +94,7 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
-	"Pois é,né?"
+	"Pois é, né?"
 	keyWait
 		any = false
 	clearMsg
@@ -106,7 +106,7 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	mas,se conseguirmos
+	mas, se conseguirmos
 	parar as reformas do
 	Bairro ACDC,
 	"""
@@ -176,7 +176,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = WoodMan
-	"Certo,entendido."
+	"Certo, entendido."
 	keyWait
 		any = false
 	end

@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = Tensuke
 	msgOpen
 	"""
-	É,não tem jeito
+	É, não tem jeito
 	mesmo.
 	"""
 	keyWait
@@ -60,7 +60,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Tensuke
 	"""
-	Ah,é o pivete que
+	Ah, é o pivete que
 	consertou o meu pião
 	sem eu pedir!
 	"""
@@ -74,7 +74,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Er,o senhor esqueceu
+	Er, o senhor esqueceu
 	o pião lá.
 	"""
 	keyWait
@@ -116,7 +116,7 @@ script 7 mmbn4 {
 	mugshotAnimation
 		animation = 2
 	"""
-	Então,o que o senhor
+	Então, o que o senhor
 	tava murmurando aí?
 	"""
 	keyWait
@@ -130,7 +130,7 @@ script 8 mmbn4 {
 		mugshot = Tensuke
 	"""
 	Humpf!
-	Sobre o meu Navi,é
+	Sobre o meu Navi, é
 	claro!
 	"""
 	keyWait
@@ -193,7 +193,7 @@ script 10 mmbn4 {
 	clearMsg
 	"""
 	Ele tá se esforçando
-	tanto,e só pra se
+	tanto, e só pra se
 	dar bem com o neto.
 	"""
 	keyWait
@@ -211,7 +211,7 @@ script 11 mmbn4 {
 	clearMsg
 	"""
 	Como colega Net-
-	Lutador,quero achar
+	Lutador, quero achar
 	um jeito de ajudar.
 	"""
 	keyWait
@@ -246,7 +246,7 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Ah,é,o clube dos
+	Ah, é, o clube dos
 	vovôs NetLutadores.
 	"""
 	keyWait
@@ -301,7 +301,7 @@ script 15 mmbn4 {
 		mugshot = Lan
 	"""
 	Beleza!
-	Vamos lá,MegaMan!
+	Vamos lá, MegaMan!
 	"""
 	keyWait
 		any = false

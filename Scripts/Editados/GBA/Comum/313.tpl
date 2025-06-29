@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,o campo magnéti-
+	Lan, o campo magnéti-
 	co dessa área é
 	instável demais
 	"""
@@ -56,7 +56,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Beleza,então.
+	Beleza, então.
 	Vou lá!
 	"""
 	keyWait

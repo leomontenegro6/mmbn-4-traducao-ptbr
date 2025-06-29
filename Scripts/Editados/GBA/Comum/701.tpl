@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = BurnerMan
 	msgOpen
-	"Qual é,hein?"
+	"Qual é, hein?"
 	keyWait
 		any = false
 	clearMsg
@@ -52,7 +52,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Calma aí,gente!"
+	"Calma aí, gente!"
 	keyWait
 		any = false
 	clearMsg
@@ -93,7 +93,7 @@ script 6 mmbn4 {
 		mugshot = Atsuki
 	msgOpen
 	"""
-	He,por isso que eu
+	He, por isso que eu
 	não suporto tiozão.
 	"""
 	keyWait
@@ -102,7 +102,7 @@ script 6 mmbn4 {
 	"""
 	Um operador velho
 	e um Navi acabado!
-	Por favor,né?!
+	Por favor, né?!
 	"""
 	keyWait
 		any = false
@@ -115,7 +115,7 @@ script 7 mmbn4 {
 		mugshot = BurnerMan
 	msgOpen
 	"""
-	É isso aí,Atsuki!
+	É isso aí, Atsuki!
 	"""
 	keyWait
 		any = false
@@ -148,7 +148,7 @@ script 10 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Ô,para com isso,
+	Ô, para com isso,
 	vocês!
 	"""
 	keyWait
@@ -173,7 +173,7 @@ script 12 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	E BurnMan,a nossa
+	E BurnMan, a nossa
 	luta tá pra começar!
 	"""
 	keyWait
@@ -212,7 +212,7 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = FireMan
 	msgOpen
-	"É,se manda daqui!"
+	"É, se manda daqui!"
 	keyWait
 		any = false
 	end
@@ -222,7 +222,7 @@ script 15 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,o que a gente
+	Lan, o que a gente
 	faz?
 	"""
 	keyWait
@@ -243,7 +243,7 @@ script 16 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Aí,BurnMan!"
+	"Aí, BurnMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -280,7 +280,7 @@ script 18 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Inclusive,ele já
+	Inclusive, ele já
 	VENCEU o FireMan!
 	"""
 	keyWait
@@ -305,7 +305,7 @@ script 20 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	E-ei,eu não fiz
+	E-ei, eu não fiz
 	nada!
 	"""
 	keyWait
@@ -342,8 +342,8 @@ script 21 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Então,se eu vencer
-	o MegaMan,isso vai
+	Então, se eu vencer
+	o MegaMan, isso vai
 	significar
 	"""
 	keyWait
@@ -366,7 +366,7 @@ script 21 mmbn4 {
 	clearMsg
 	"""
 	Bora rápido pro
-	castelo,pra luta!
+	castelo, pra luta!
 	"""
 	keyWait
 		any = false
@@ -410,7 +410,7 @@ script 24 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E,sabe... eu menti?
+	E, sabe... eu menti?
 	"""
 	keyWait
 		any = false
@@ -443,7 +443,7 @@ script 25 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	FireMan,também!
+	FireMan, também!
 	"""
 	keyWait
 		any = false
@@ -457,7 +457,7 @@ script 26 mmbn4 {
 	msgOpen
 	"""
 	Relaxa! Eu vou
-	vencer sim,nem
+	vencer sim, nem
 	se preocupa!
 	"""
 	keyWait
@@ -469,7 +469,7 @@ script 27 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Beleza,MegaMan,
+	Beleza, MegaMan,
 	hora da gente ir
 	também!
 	"""

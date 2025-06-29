@@ -40,8 +40,8 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Bom,eu sei que
-	competidor,ele
+	Bom, eu sei que
+	competidor, ele
 	não era.
 	"""
 	keyWait
@@ -70,7 +70,7 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Ah,enfim!"
+	"Ah, enfim!"
 	keyWait
 		any = false
 	clearMsg

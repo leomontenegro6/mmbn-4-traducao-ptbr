@@ -8,7 +8,7 @@ script 0 mmbn4 {
 		palette = 1
 	"""
 	Mais ou menos ao
-	mesmo tempo,na Área
+	mesmo tempo, na Área
 	ACDC da Rede...
 	"""
 	keyWait
@@ -19,7 +19,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Roll
 	msgOpen
-	"... Pois é,a Mayl."
+	"... Pois é, a Mayl."
 	keyWait
 		any = false
 	clearMsg
@@ -79,7 +79,7 @@ script 5 mmbn4 {
 		mugshot = GutsMan
 	msgOpen
 	"""
-	N-nada,não. Eu só
+	N-nada, não. Eu só
 	tava pensando alto,
 	Guts...
 	"""
@@ -108,7 +108,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Você é o MegaMan,\nnão?"
+	"Você é o MegaMan, \nnão?"
 	keyWait
 		any = false
 	clearMsg
@@ -118,7 +118,7 @@ script 8 mmbn4 {
 script 9 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Sou,mas quem é você?"
+	"Sou, mas quem é você?"
 	keyWait
 		any = false
 	clearMsg
@@ -140,7 +140,7 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Em breve,sediaremos
+	Em breve, sediaremos
 	o torneio mundial na
 	Ameropa.
 	"""
@@ -149,7 +149,7 @@ script 10 mmbn4 {
 	clearMsg
 	"""
 	Se chama "Sol Verme-
-	lho",e ficaríamos
+	lho", e ficaríamos
 	honrados de tê-lo.
 	"""
 	keyWait
@@ -202,8 +202,8 @@ script 13 mmbn4 {
 		mugshot = GutsMan
 	msgOpen
 	"""
-	Nossa,Guts!
-	Boa sorte,MegaMan!
+	Nossa, Guts!
+	Boa sorte, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -215,8 +215,8 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = Roll
 	"""
-	Então,você vai pra
-	Ameropa,é?
+	Então, você vai pra
+	Ameropa, é?
 	Sortudo!
 	"""
 	keyWait
@@ -243,7 +243,7 @@ script 16 mmbn4 {
 		mugshot = OfficialNavi
 	"""
 	Aham. Daqui a uma
-	semana,durante o
+	semana, durante o
 	feriado escolar.
 	"""
 	keyWait
@@ -292,13 +292,13 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	Bom,deixarei os
+	Bom, deixarei os
 	detalhes com você.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Por favor,leve isto."
+	"Por favor, leve isto."
 	keyWait
 		any = false
 	clearMsg
@@ -361,7 +361,7 @@ script 22 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,vamos lá
+	MegaMan, vamos lá
 	falar com a mamãe!
 	"""
 	keyWait
@@ -382,7 +382,7 @@ script 24 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Bem,tchau,gente!"
+	"Bem, tchau, gente!"
 	keyWait
 		any = false
 	end
@@ -399,7 +399,7 @@ script 25 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Em breve,sediaremos
+	Em breve, sediaremos
 	o torneio mundial na
 	Ameropa.
 	"""

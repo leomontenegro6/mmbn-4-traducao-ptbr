@@ -16,7 +16,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Seu PET,seu Termi-
+	Seu PET, seu Termi-
 	nal Pessoal. É onde
 	eu estou instalado.
 	"""
@@ -661,7 +661,7 @@ script 28 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Com isto,eu poderei
+	Com isto, eu poderei
 	respirar até debaixo
 	da cyber-água!
 	"""
@@ -1827,7 +1827,7 @@ script 81 mmbn4 {
 		mugshot = MegaMan
 	"""
 	É uma carta do seu
-	pai,Lan!
+	pai, Lan!
 	"""
 	waitHold
 }
@@ -2409,7 +2409,7 @@ script 107 mmbn4 {
 		mugshot = MegaMan
 	"""
 	Pá de neve. Feita em
-	Sharo,claro!
+	Sharo, claro!
 	"""
 	waitHold
 }
@@ -2458,7 +2458,7 @@ script 109 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,sozinho,é
+	Mas, sozinho, é
 	completamente
 	inútil...
 	"""
@@ -2487,7 +2487,7 @@ script 110 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas,sozinho,é
+	Mas, sozinho, é
 	completamente
 	inútil...
 	"""
@@ -2877,7 +2877,7 @@ script 128 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	No CustNavi,use "L"
+	No CustNavi, use "L"
 	e "R" para girar
 	peças brancas de
 	"""
@@ -2903,7 +2903,7 @@ script 129 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	No CustNavi,use "L"
+	No CustNavi, use "L"
 	e "R" para girar
 	peças cor-de-rosa
 	"""
@@ -2929,7 +2929,7 @@ script 130 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	No CustNavi,use "L"
+	No CustNavi, use "L"
 	e "R" para girar
 	peças amarelas
 	"""
@@ -2955,7 +2955,7 @@ script 131 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	No CustNavi,use "L"
+	No CustNavi, use "L"
 	e "R" para girar
 	peças vermelhas de
 	"""
@@ -2981,7 +2981,7 @@ script 132 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	No CustNavi,use "L"
+	No CustNavi, use "L"
 	e "R" para girar
 	peças azuis de
 	"""
@@ -3007,7 +3007,7 @@ script 133 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	No CustNavi,use "L"
+	No CustNavi, use "L"
 	e "R" para girar
 	peças verdes de
 	"""
@@ -3509,7 +3509,7 @@ script 192 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	3: Em Vila3,número
+	3: Em Vila3, número
 	de triângulos indo
 	p/ baixo e p/ cima.
 	"""
@@ -3591,7 +3591,7 @@ script 193 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	6: Em Vila3,número
+	6: Em Vila3, número
 	de triângulos indo
 	p/ baixo e p/ cima.
 	"""
@@ -3696,7 +3696,7 @@ script 196 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Seu PET,seu Termi-
+	Seu PET, seu Termi-
 	nal Pessoal. É onde
 	eu estou instalado.
 	"""

@@ -6,7 +6,7 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	Chegou a hora! Ami-
-	gos,os competidores
+	gos, os competidores
 	finalmente chegaram!
 	"""
 	keyWait
@@ -34,7 +34,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Pode ser nova,mas
+	Pode ser nova, mas
 	não lhe falta poder!
 	Com vocês... Yuko!
 	"""
@@ -50,7 +50,7 @@ script 2 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Er,Yuko...?"
+	"Er, Yuko...?"
 	keyWait
 		any = false
 	end
@@ -74,7 +74,7 @@ script 4 mmbn4 {
 		mugshot = Yuko
 	"""
 	Hi hi!
-	Tá na hora,Lan.
+	Tá na hora, Lan.
 	"""
 	keyWait
 		any = false
@@ -86,7 +86,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	De novo,uma entrada
+	De novo, uma entrada
 	que me pegou de
 	surpresa...
 	"""
@@ -94,8 +94,8 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Bom,eu não vou pegar
-	leve,não,Yuko!
+	Bom, eu não vou pegar
+	leve, não, Yuko!
 	"""
 	keyWait
 		any = false
@@ -116,7 +116,7 @@ script 7 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Pois bem,então,
+	Pois bem, então,
 	vamos começar a
 	luta!
 	"""
@@ -163,7 +163,7 @@ script 9 mmbn4 {
 	clearMsg
 	"""
 	Aqui vou eu!
-	Vamos,Ponta!
+	Vamos, Ponta!
 	"""
 	keyWait
 		any = false

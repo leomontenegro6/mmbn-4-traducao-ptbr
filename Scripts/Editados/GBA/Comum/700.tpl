@@ -92,7 +92,7 @@ script 6 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,você ainda
+	MegaMan, você ainda
 	tem o "ApgaFogo"?!
 	"""
 	keyWait
@@ -110,7 +110,7 @@ script 7 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Lan,rápido,
+	Lan, rápido,
 	me conecta!
 	"""
 	keyWait

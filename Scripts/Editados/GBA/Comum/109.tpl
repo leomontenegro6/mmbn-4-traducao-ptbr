@@ -75,7 +75,7 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Está sentado aí,como
+	Está sentado aí, como
 	se o sofá fosse
 	dele...
 	"""
@@ -135,7 +135,7 @@ script 6 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Está sentado aí,como
+	Está sentado aí, como
 	se o sofá fosse
 	dele...
 	"""
@@ -152,7 +152,7 @@ script 6 mmbn4 {
 	clearMsg
 	"""
 	Mas está quebrada
-	agora,então,esquece.
+	agora, então, esquece.
 	"""
 	keyWait
 		any = false
@@ -170,14 +170,14 @@ script 10 mmbn4 {
 	msgOpen
 	"""
 	A caixinha de música
-	da Mayl,que guarda
+	da Mayl, que guarda
 	pertences preciosos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nela,há uma borracha
+	Nela, há uma borracha
 	que o Lan deu pra
 	ela anos atrás.
 	"""

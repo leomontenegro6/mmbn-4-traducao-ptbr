@@ -31,7 +31,7 @@ script 1 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Nada mal,garoto,
+	Nada mal, garoto,
 	chegando até aqui...
 	"""
 	keyWait
@@ -47,7 +47,7 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	Eu tô de bom humor,
-	então,vou te dar
+	então, vou te dar
 	isto aqui...
 	"""
 	keyWait
@@ -111,7 +111,7 @@ script 2 mmbn4 {
 	msgOpen
 	"""
 	Se estiver indo pra
-	Undernet,melhor
+	Undernet, melhor
 	levar um monte de
 	"""
 	keyWait
@@ -119,7 +119,7 @@ script 2 mmbn4 {
 	clearMsg
 	"""
 	SubChips de cura...
-	Senão,vai se
+	Senão, vai se
 	arrepender...
 	"""
 	keyWait

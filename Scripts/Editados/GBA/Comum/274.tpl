@@ -40,7 +40,7 @@ script 5 mmbn4 {
 	"""
 	Se eu soubesse que
 	veria de um lugar
-	tão alto,teria
+	tão alto, teria
 	"""
 	keyWait
 		any = false
@@ -60,7 +60,7 @@ script 6 mmbn4 {
 	"""
 	Se eu soubesse que
 	veria de um lugar
-	tão alto,teria
+	tão alto, teria
 	"""
 	keyWait
 		any = false
@@ -82,8 +82,8 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Olha,depois de ficar
-	um tempo aqui,eu até
+	Olha, depois de ficar
+	um tempo aqui, eu até
 	comecei a me
 	"""
 	keyWait
@@ -91,7 +91,7 @@ script 10 mmbn4 {
 	clearMsg
 	"""
 	acostumar. O medo
-	é gostoso,até!
+	é gostoso, até!
 	Ha ha!
 	"""
 	keyWait
@@ -110,7 +110,7 @@ script 30 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Espera,cadê todos os
+	Espera, cadê todos os
 	espectadores...?
 	"""
 	keyWait

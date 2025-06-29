@@ -5,14 +5,14 @@ script 0 mmbn4 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Um,dois...
-	Testando,um,dois...
+	Um, dois...
+	Testando, um, dois...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hum,o volume ainda
+	Hum, o volume ainda
 	tá baixo.
 	"""
 	keyWait
@@ -32,7 +32,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	A-aaahh! Um,dois...
+	A-aaahh! Um, dois...
 	Testando. A-aaah!
 	"""
 	keyWait
@@ -62,7 +62,7 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Como já sabem,para
+	Como já sabem, para
 	frear a disseminação
 	dos NetCrimes,
 	"""
@@ -110,7 +110,7 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Tudo bem,vou direto
+	Tudo bem, vou direto
 	ao ponto!
 	"""
 	keyWait
@@ -261,7 +261,7 @@ script 11 mmbn4 {
 	clearMsg
 	"""
 	Eu tô ocupada
-	amanhã,não vou
+	amanhã, não vou
 	poder participar!
 	"""
 	keyWait
@@ -319,7 +319,7 @@ script 15 mmbn4 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Ah,e se passarem
+	Ah, e se passarem
 	nas preliminares,
 	aparecerão na TV!
 	"""
@@ -327,7 +327,7 @@ script 15 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Pessoal,espero ver
+	Pessoal, espero ver
 	vocês lá!
 	"""
 	keyWait
@@ -411,7 +411,7 @@ script 20 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,a gente
+	MegaMan, a gente
 	também vai entrar,
 	né?!
 	"""
@@ -425,7 +425,7 @@ script 21 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Ô,se não!
+	Ô, se não!
 	E pode apostar que a
 	gente vai vencer!
 	"""
@@ -475,8 +475,8 @@ script 24 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Beleza. Bom,antes de
-	mais nada,pra casa!
+	Beleza. Bom, antes de
+	mais nada, pra casa!
 	"""
 	keyWait
 		any = false

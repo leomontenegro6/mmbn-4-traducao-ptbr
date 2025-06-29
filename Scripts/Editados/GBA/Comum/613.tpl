@@ -30,7 +30,7 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Tá,lá vou eu!"
+	"Tá, lá vou eu!"
 	keyWait
 		any = false
 	clearMsg
@@ -38,8 +38,8 @@ script 2 mmbn4 {
 		timer = 1
 		value = 1
 	"""
-	Tab,tab,shift,
-	caps lock,print,
+	Tab, tab, shift,
+	caps lock, print,
 	print. É isso?!
 	"""
 	keyWait
@@ -97,7 +97,7 @@ script 5 mmbn4 {
 	clearMsg
 	"""
 	Já pode desconectar
-	agora,MegaMan.
+	agora, MegaMan.
 	"""
 	keyWait
 		any = false

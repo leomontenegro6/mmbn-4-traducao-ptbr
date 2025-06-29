@@ -138,7 +138,7 @@ script 4 mmbn4 {
 	clearMsg
 	"""
 	Deve ter sido criada
-	recentemente,então.
+	recentemente, então.
 	"""
 	keyWait
 		any = false

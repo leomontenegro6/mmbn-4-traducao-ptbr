@@ -6,7 +6,7 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	Estava lhe esperan-
-	do,MegaMan.EXE.
+	do, MegaMan.EXE.
 	Bem-vindo ao Dojô!
 	"""
 	keyWait
@@ -34,7 +34,7 @@ script 2 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Não,eu sou o Navi do
+	Não, eu sou o Navi do
 	Mestre-Cuca Mestre.
 	"""
 	keyWait
@@ -64,7 +64,7 @@ script 3 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Olha,eu não quero
+	Olha, eu não quero
 	reclamar de coisa
 	dada de graça,
 	"""
@@ -93,14 +93,14 @@ script 4 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Sinto muito,mas
+	Sinto muito, mas
 	não posso contar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mas,se você me
+	Mas, se você me
 	deixar guiá-lo,
 	MegaMan,
 	"""
@@ -153,7 +153,7 @@ script 7 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Certo,então,
+	Certo, então,
 	pode mandar!
 	"""
 	keyWait
@@ -171,7 +171,7 @@ script 8 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Pois bem,MegaMan,
+	Pois bem, MegaMan,
 	veja isto!
 	"""
 	keyWait
@@ -210,7 +210,7 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	dados,e,então,
+	dados, e, então,
 	caem nesta panela.
 	"""
 	keyWait
@@ -263,8 +263,8 @@ script 12 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Bem,quando estiver
-	pronto,aproxime-se
+	Bem, quando estiver
+	pronto, aproxime-se
 	dela!
 	"""
 	keyWait

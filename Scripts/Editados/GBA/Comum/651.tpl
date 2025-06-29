@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = Yai
 	msgOpen
 	"""
-	No começo,eu achei
+	No começo, eu achei
 	que era piada,
 	"""
 	keyWait
@@ -48,12 +48,12 @@ script 2 mmbn4 {
 	"......\n"
 	mugshotAnimation
 		animation = 2
-	"Hehe,entendi."
+	"Hehe, entendi."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Então,contra quem
+	Então, contra quem
 	você vai lutar?
 	"""
 	keyWait
@@ -105,8 +105,8 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	e,com a velocidade
-	da Roll,eu consegui
+	e, com a velocidade
+	da Roll, eu consegui
 	passar.
 	"""
 	keyWait
@@ -127,14 +127,14 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"Pois é,né..."
+	"Pois é, né..."
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Ele é o melhor
 	lutador de
-	DenCity,afinal.
+	DenCity, afinal.
 	"""
 	keyWait
 		any = false
@@ -147,7 +147,7 @@ script 7 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Mas,enfim. Eu vou
+	Mas, enfim. Eu vou
 	dar o melhor de mim
 	e ver no que dá.
 	"""
@@ -164,7 +164,7 @@ script 7 mmbn4 {
 	clearMsg
 	"""
 	Pode me ajudar a
-	treinar,você e o
+	treinar, você e o
 	Glide?
 	"""
 	keyWait
@@ -179,7 +179,7 @@ script 7 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Por favor,ajuda.
+	Por favor, ajuda.
 	Não me sinto segura,
 	só eu e a Roll.
 	"""
@@ -204,7 +204,7 @@ script 8 mmbn4 {
 	"""
 	nada aconteça com a
 	Roll.
-	Vem,Mayl,vamos lá.
+	Vem, Mayl, vamos lá.
 	"""
 	keyWait
 		any = false
@@ -216,7 +216,7 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Obrigada,Yai!"
+	"Obrigada, Yai!"
 	keyWait
 		any = false
 	clearMsg
@@ -232,7 +232,7 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Só toma cuidado,tá?
+	Só toma cuidado, tá?
 	"""
 	keyWait
 		any = false
