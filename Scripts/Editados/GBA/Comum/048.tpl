@@ -1,11 +1,11 @@
 @size 17
 
 script 0 mmbn4s {
-	"DELEÇÃO DUPLA"
+	"DELEÇÃO DUPLA!"
 	end
 }
 script 1 mmbn4s {
-	"DELEÇÃO TRIPLA"
+	"DELEÇÃO♠@[R]PLA!"
 	end
 }
 script 2 mmbn4s {
@@ -57,7 +57,7 @@ script 13 mmbn4s {
 	end
 }
 script 14 mmbn4s {
-	" CONTRAGOLPE! "
+	" CONTRA GOLPE! "
 	end
 }
 script 15 mmbn4s {

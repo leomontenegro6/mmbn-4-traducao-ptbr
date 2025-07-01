@@ -30,6 +30,38 @@
 .org 0x086ECC08
     .incbin "Graficos/Editados/Menu PET 2.gba"
 
+; Gráfico de "Pause", mostrado durante as batalhas.
+.org 0x0870CB40
+    .incbin "Graficos/Editados/Pause.gba"
+
+; Gráfico de "Attack +10", mostrado durante as batalhas.
+.org 0x087297B8
+    .incbin "Graficos/Editados/Attack +10.gba"
+
+; Gráfico de "Attack +30", mostrado durante as batalhas.
+.org 0x087300B8
+    .incbin "Graficos/Editados/Attack +30.gba"
+
+; Gráfico de "Chip Data Transmission", mostrado durante as batalhas.
+.org 0x0873C838
+    .incbin "Graficos/Editados/Chip Data Transmission.gba"
+
+; Gráfico de "No Data Selected", mostrado durante as batalhas.
+.org 0x0873CD78
+    .incbin "Graficos/Editados/No Data Selected.gba"
+
+; Gráfico de "No Data", mostrado durante as batalhas.
+.org 0x08755270
+    .incbin "Graficos/Editados/No Data.gba"
+
+; Gráfico de "Unite", mostrado durante as batalhas.
+.org 0x08748058
+    .incbin "Graficos/Editados/Unite.gba"
+
+; Gráfico de "Shuffle", mostrado durante as batalhas.
+.org 0x08709E00
+    .incbin "Graficos/Editados/Shuffle.gba"
+
 ; Gráficos inseridos no final da rom, em sua maioria comprimidos.
 ; Catalogando ponteiros dos gráficos.
 .org 0x0802595c
