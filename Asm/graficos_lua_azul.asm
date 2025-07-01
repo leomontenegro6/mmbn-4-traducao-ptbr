@@ -68,6 +68,8 @@
     .dw nomes_tela_titulo2
 .org 0x08025980
     .dw nomes_tela_titulo3
+.org 0x08028374
+    .dw cidade_acdc_higsbys
 
 ; Inserindo gráficos no final da rom
 .orga filesize("Mega Man Battle Network 4 - Lua Azul (BR).gba")
@@ -87,6 +89,10 @@ nomes_tela_titulo2:
 
 nomes_tela_titulo3:
     .incbin "Graficos/Recomprimidos/Nomes tela-titulo 3.gba"
+    .align
+
+cidade_acdc_higsbys:
+    .incbin "Graficos/Recomprimidos/Cidade ACDC - Higsbys lua azul.gba"
     .align
 
 .close

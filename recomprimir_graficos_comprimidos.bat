@@ -23,7 +23,7 @@ del ".\Graficos\Recomprimidos\Nomes tela-titulo 3.gba"
 copy ".\Graficos\Editados\Nomes tela-titulo 3.gba" ".\Graficos\Recomprimidos\"
 .\Ferramentas\lzss.exe -evn ".\Graficos\Recomprimidos\Nomes tela-titulo 3.gba"
 
-::echo Graficos de backgrounds
-::cd ".\Ferramentas\bg-graphic-unpacker\"
-::call remontar.bat
-::cd "..\..\"
+echo Graficos de backgrounds
+cd ".\Ferramentas\mmbn4-bg-graphic-unpacker\"
+call remontar.bat
+cd "..\..\"

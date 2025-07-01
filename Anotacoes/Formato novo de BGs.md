@@ -8,7 +8,24 @@ Já no mmbn4, o formato parece ter mudado. Eis o que descobri até então:
 2. O header agora parece ter 6 DWORDs, ao invés de 9.
 3. O ponteiro aponta pro primeiro byte do header de 6 DWORDs.
 
-Ainda não descobri se são 2 ou 3 tilesets, se os tilemaps e paletas estão inclusos, etc. Mas ao que tudo indica, o "mmbn-bg-graphic-unpacker" provavelmente não vai funcionar no mmbn4.
+De acordo com o usuário TTK, do canal do Discord "The Rockman EXE Zone", o formato é descrito abaixo:
+
+```
+Tilesets/PIB format:
+Header contains info about two tilesets of each 0xC size
+1.
+size of first tileset divided by 4 in 32bit
+offset to first compressed tileset in 32bit (Should be 0x18)
+offset to vram to dump tiles to  (0 for the first tileset)
+2. 
+size of second tileset divided by 4 in 32bit
+offset to second compressed tileset in 32bit in file
+offset to vram to dump tiles to (first tileset size (CBB is 0 so don't need to worry about max 0x4000 for 8bpp))
+compressed tileset1 aligned by 4
+compressed tileset2 aligned by 4
+```
+
+Essas infos deve facilitar bastante para a refatoração do "mmbn-bg-graphic-unpacker", ou mesmo para a criação de uma ferramenta nova se for o caso.
 
 # Mapeamento de possíveis gráficos (Versão Red Sun)
 
