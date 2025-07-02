@@ -74,6 +74,8 @@
     .dw nomes_tela_titulo3
 .org 0x08028370
     .dw cidade_acdc_higsbys
+.org 0x0802858C
+    .dw pagina_do_lan_bem_vindo
 
 ; Inserindo gráficos no final da rom
 .orga filesize("Mega Man Battle Network 4 - Sol Vermelho (BR).gba")
@@ -97,6 +99,10 @@ nomes_tela_titulo3:
 
 cidade_acdc_higsbys:
     .incbin "Graficos/Recomprimidos/Cidade ACDC - Higsbys sol vermelho.gba"
+    .align
+
+pagina_do_lan_bem_vindo:
+    .incbin "Graficos/Recomprimidos/Pagina do LAN - Bem-vindo.gba"
     .align
 
 .close
