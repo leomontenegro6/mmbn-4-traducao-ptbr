@@ -24,11 +24,101 @@
 .org 0x087F3EB4
     .incbin "Graficos/Editados/Logo tela-titulo sol vermelho (tm).gba"
 
-; Menu PET, exibido ao apertar start.
+; Menus, ao apertar Start.
 .org 0x086EBAC8
     .incbin "Graficos/Editados/Menu PET 1.gba"
 .org 0x086ECC08
     .incbin "Graficos/Editados/Menu PET 2.gba"
+.org 0x086DB97C
+    .incbin "Graficos/Editados/Submenus.gba"
+.org 0x086F32D4
+    .incbin "Graficos/Editados/Information.gba"
+
+; Editando tilemap do "DE PARA", na tela de E-mail
+.org 0x086D5802
+    .stringn 0xAE,0x00,0xAF,0x00,0x28,0x00,0x28,0x00,0x28,0x00
+.org 0x086D5B46
+    .stringn 0xAE,0x00,0xAF,0x00,0x28,0x00,0x28,0x00,0x28,0x00
+.org 0x086D5D2A
+    .stringn 0xAE,0x00,0xAF,0x00,0x28,0x00,0x28,0x00,0x28,0x00
+
+.org 0x086D585A
+    .stringn 0xB0,0x00,0xB1,0x00,0xB2,0x00,0xB3,0x00,0x28,0x00
+.org 0x086D5B9E
+    .stringn 0xB0,0x00,0xB1,0x00,0xB2,0x00,0xB3,0x00,0x28,0x00
+.org 0x086D5D82
+    .stringn 0xB0,0x00,0xB1,0x00,0xB2,0x00,0xB3,0x00,0x28,0x00
+
+; Editando tilemaps da tela MegaMan, dos nomes pequenos
+; "MEGATIRO", "PASTA" e "PROGRAMA"
+.org 0x086D76FA
+    .stringn 0x42,0x00,0x65,0x00,0x25,0x00,0x25,0x00,0x25,0x00
+.org 0x086D7810
+    .stringn 0x65,0x00,0x25,0x00,0x25,0x00,0x25,0x00
+.org 0x086D792A
+    .stringn 0x64,0x00,0x65,0x00,0x25,0x00
+
+; Editando tilemap dos submenus, na parte de cima das letras
+.loadtable "Tabelas/Telas Menus - Nomes Parte Cima.tbl"
+.org 0x086D27B8
+    .stringn "PASTAS     "
+.org 0x086D3F8C
+    .stringn "EDITAR PASTA"
+.org 0x086D6340
+    .stringn "SUBCHIPS"
+.org 0x086D7C20
+    .stringn "COLEÇÃO"
+.org 0x086EDC4C
+    .stringn "CUSTOMIZADOR DE NAVI"
+.org 0x086D6970
+    .stringn "ITENS   "
+.org 0x086D8CE8
+    .stringn "REDE   "
+.org 0x086D4C34
+    .stringn "SALVAR"
+.org 0x086DA0C0
+    .stringn "TROCA DE CHIPS   "
+.org 0x086DA760
+    .stringn "TROCA DE CHIPS   "
+.org 0x086D9C10
+    .stringn "TROCA DE PROGRAMAS"
+.org 0x086DB4D2
+    .stringn "INSCREVER NAVI"
+.org 0x086DB022
+    .stringn "REGISTRO  "
+.org 0x0870342C
+    .stringn "TROCA-CHIPS"
+
+; Editando tilemap dos submenus, na parte de baixo das letras
+.loadtable "Tabelas/Telas Menus - Nomes Parte Baixo.tbl"
+.org 0x086D27F4
+    .stringn "PASTAS     "
+.org 0x086D3FC8
+    .stringn "EDITAR PASTA"
+.org 0x086D637C
+    .stringn "SUBCHIPS"
+.org 0x086D7C5C
+    .stringn "COLEÇÃO"
+.org 0x086EDC88
+    .stringn "[C][U][S][T][O][M][I][Z][A][D][O][R][ ][D][E][ ][N][A][V][I]"
+.org 0x086D69AC
+    .stringn "ITENS   "
+.org 0x086D8D24
+    .stringn "REDE   "
+.org 0x086D4C70
+    .stringn "SALVAR"
+.org 0x086DA0FC
+    .stringn "TROCA DE CHIPS   "
+.org 0x086DA79C
+    .stringn "TROCA DE CHIPS   "
+.org 0x086D9C4C
+    .stringn "TROCA DE PROGRAMAS"
+.org 0x086DB50E
+    .stringn "INSCREVER NAVI"
+.org 0x086DB05E
+    .stringn "REGISTRO  "
+.org 0x08703468
+    .stringn "TROCA CHIPS"
 
 ; Gráfico de "Pause", mostrado durante as batalhas.
 .org 0x0870CB40
@@ -76,33 +166,39 @@
     .dw cidade_acdc_higsbys
 .org 0x0802858C
     .dw pagina_do_lan_bem_vindo
+.org 0x08031994
+    .dw tela_email_new
 
 ; Inserindo gráficos no final da rom
 .orga filesize("Mega Man Battle Network 4 - Sol Vermelho (BR).gba")
 .align
 
 logo_tela_titulo:
-    .incbin "Graficos/Recomprimidos/Logo tela-titulo sol vermelho.gba"
+    .lz77gba "Graficos/Editados/Logo tela-titulo sol vermelho.gba"
     .align
 
 nomes_tela_titulo1:
-    .incbin "Graficos/Recomprimidos/Nomes tela-titulo 1.gba"
+    .lz77gba "Graficos/Editados/Nomes tela-titulo 1.gba"
     .align
 
 nomes_tela_titulo2:
-    .incbin "Graficos/Recomprimidos/Nomes tela-titulo 2.gba"
+    .lz77gba "Graficos/Editados/Nomes tela-titulo 2.gba"
     .align
 
 nomes_tela_titulo3:
-    .incbin "Graficos/Recomprimidos/Nomes tela-titulo 3.gba"
+    .lz77gba "Graficos/Editados/Nomes tela-titulo 3.gba"
     .align
 
 cidade_acdc_higsbys:
-    .incbin "Graficos/Recomprimidos/Cidade ACDC - Higsbys sol vermelho.gba"
+    .incbin "Graficos/Editados/BGs/Cidade ACDC - Higsbys sol vermelho.gba"
     .align
 
 pagina_do_lan_bem_vindo:
-    .incbin "Graficos/Recomprimidos/Pagina do LAN - Bem-vindo.gba"
+    .incbin "Graficos/Editados/BGs/Pagina do LAN - Bem-vindo.gba"
+    .align
+
+tela_email_new:
+    .lz77gba "Graficos/Editados/New (emails).gba"
     .align
 
 .close

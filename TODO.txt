@@ -1,13 +1,19 @@
-- Editar menu exibido ao apertar Start
-  - Menu PET (Editado)
-  - Menu Pasta
-  - Menu SubChips
-  - Menu Coleção
-  - Menu MegaMan
-  - Menu E-mail
-  - Menu Itens
-  - Menu Rede
-  - Menu Salvar
+- Menu exibido ao apertar Start
+  - Menu PET (ajeitar tile do 'r' de Salvar)
+  - Submenu "Editar Pasta" (editar gráfico SORT exibido ao apertar Start)
+  - Submenu "Subchips" (editar nomes à direita quando chips são usados)
+  - Submenu "Navi Customizer":
+    - Editar animação "Navi Customizer" antes da tela aparecer
+    - Editar "move" / "remove" ao mexer com os programas
+  - Submenu "Rede" (editar gráficos da tela de troca de chips/programas)
+- Tela de batalhas
+  - Seleção de chips antes dos turnos
+    - Editar "CHIP SELECT"
+  - Nomes durante os turnos
+    - Editar "BATTLE START" / "ENEMY DELETED" / "MEGAMAN DELETED"
+  - Pós-batalha
+    - Editar nomes "DeleteTime" / "BustingLv." / "GET DATA"
+    - Editar nomes "WINNNER" / "LOSER" nas batalhas de cabo link
 - Gráficos de cenários pra editar:
   - Loja do Higsby: Editas placas do cenário (Editado)
   - EletroVila: Placas de "New" e "30% off"
