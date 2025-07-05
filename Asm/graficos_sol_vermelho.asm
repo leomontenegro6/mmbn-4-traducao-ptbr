@@ -37,6 +37,8 @@
     .incbin "Graficos/Editados/Sort (ID ABC etc).gba"
 .org 0x086DEC5E
     .incbin "Graficos/Editados/Sort (ID ABC etc) (tm).gba"
+.org 0x086DEF8C
+    .incbin "Graficos/Editados/SneakRun Untrap LocEnemy On (tm).gba"
 
 ; Editando tilemap do "DE PARA", na tela de E-mail
 .org 0x086D5802
@@ -170,6 +172,8 @@
     .dw cidade_acdc_higsbys
 .org 0x0802858C
     .dw pagina_do_lan_bem_vindo
+.org 0x08031F34
+    .dw tela_subchips_nomes_direita
 .org 0x08031994
     .dw tela_email_new
 
@@ -199,6 +203,10 @@ cidade_acdc_higsbys:
 
 pagina_do_lan_bem_vindo:
     .incbin "Graficos/Editados/BGs/Pagina do LAN - Bem-vindo.gba"
+    .align
+
+tela_subchips_nomes_direita:
+    .lz77gba "Graficos/Editados/SneakRun Untrap LocEnemy On.gba"
     .align
 
 tela_email_new:
