@@ -33,6 +33,10 @@
     .incbin "Graficos/Editados/Submenus.gba"
 .org 0x086F32D4
     .incbin "Graficos/Editados/Information.gba"
+.org 0x086DE43C
+    .incbin "Graficos/Editados/Sort (ID ABC etc).gba"
+.org 0x086DEC5E
+    .incbin "Graficos/Editados/Sort (ID ABC etc) (tm).gba"
 
 ; Editando tilemap do "DE PARA", na tela de E-mail
 .org 0x086D5802

@@ -19,7 +19,7 @@ $graficos = [
     (object)['nome' => 'Menu PET 1', 'offset' => '0x6EBAC8', 'tiles' => '1x137'],
     (object)['nome' => 'Menu PET 2', 'offset' => '0x6ECC08', 'tiles' => '23x5'],
     (object)['nome' => 'Submenus', 'offset' => '0x6DB97C', 'tiles' => '1x339'],
-    (object)['nome' => 'Sort (ID ABC etc)', 'offset' => '0x6DB97C', 'tiles' => '9x22'],
+    (object)['nome' => 'Sort (ID ABC etc)', 'offset' => '0x6DE43C', 'tiles' => '9x7'],
     (object)['nome' => 'Move Remove', 'offset' => '0x6F1760', 'tiles' => '4x6'],
     (object)['nome' => 'Information', 'offset' => '0x6F32D4', 'tiles' => '1x9'],
     (object)['nome' => 'Zenny BugFrag 1 (Loja)', 'offset' => '0x7014E4', 'tiles' => '1x50'],
