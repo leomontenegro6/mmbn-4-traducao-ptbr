@@ -24,6 +24,7 @@ $graficos = [
     (object)['nome' => 'Information', 'offset' => '0x6F32D4', 'tiles' => '1x9'],
     (object)['nome' => 'Zenny BugFrag 1 (Loja)', 'offset' => '0x7014E4', 'tiles' => '1x50'],
     (object)['nome' => 'Zenny BugFrag 2 (Loja)', 'offset' => '0x701B84', 'tiles' => '1x50'],
+    (object)['nome' => 'Chip Select', 'offset' => '0x7086E0', 'tiles' => '1x11'],
     (object)['nome' => 'Shuffle', 'offset' => '0x709E00', 'tiles' => '4x9'],
     (object)['nome' => 'L or R', 'offset' => '0x70A500', 'tiles' => '4x2'],
     (object)['nome' => 'Fireplus AquaPowr ThunPlus WoodPowr', 'offset' => '0x70A7C0', 'tiles' => '4x12'],
