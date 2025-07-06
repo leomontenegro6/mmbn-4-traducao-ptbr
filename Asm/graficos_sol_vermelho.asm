@@ -74,6 +74,8 @@
     .stringn "SUBCHIPS"
 .org 0x086D7C20
     .stringn "COLEÇÃO"
+.org 0x086D9760
+    .stringn "TEMPO DE LUTA"
 .org 0x086EDC4C
     .stringn "CUSTOMIZADOR DE NAVI"
 .org 0x086D6970
@@ -105,6 +107,8 @@
     .stringn "SUBCHIPS"
 .org 0x086D7C5C
     .stringn "COLEÇÃO"
+.org 0x086D979C
+    .stringn "TEMPO DE LUTA"
 .org 0x086EDC88
     .stringn "[C][U][S][T][O][M][I][Z][A][D][O][R][ ][D][E][ ][N][A][V][I]"
 .org 0x086D69AC
@@ -126,37 +130,31 @@
 .org 0x08703468
     .stringn "TROCA CHIPS"
 
-; Gráfico de "Pause", mostrado durante as batalhas.
+; Tela de seleção de chips, entre turnos de batalhas.
+.org 0x0873C838
+    .incbin "Graficos/Editados/Chip Data Transmission.gba"
+.org 0x0873CD78
+    .incbin "Graficos/Editados/No Data Selected.gba"
+.org 0x08755270
+    .incbin "Graficos/Editados/No Data.gba"
+.org 0x08748058
+    .incbin "Graficos/Editados/Unite.gba"
+.org 0x08709E00
+    .incbin "Graficos/Editados/Shuffle.gba"
+
+; Gráficos exibidos durante as batalhas.
 .org 0x0870CB40
     .incbin "Graficos/Editados/Pause.gba"
 
-; Gráfico de "Attack +10", mostrado durante as batalhas.
+; Telas após vencer batalhas contra vírus comuns.
+.org 0x08753F70
+    .incbin "Graficos/Editados/Press A Button Record.gba"
+
+; Nomes de chip de boost de ataque.
 .org 0x087297B8
     .incbin "Graficos/Editados/Attack +10.gba"
-
-; Gráfico de "Attack +30", mostrado durante as batalhas.
 .org 0x087300B8
     .incbin "Graficos/Editados/Attack +30.gba"
-
-; Gráfico de "Chip Data Transmission", mostrado durante as batalhas.
-.org 0x0873C838
-    .incbin "Graficos/Editados/Chip Data Transmission.gba"
-
-; Gráfico de "No Data Selected", mostrado durante as batalhas.
-.org 0x0873CD78
-    .incbin "Graficos/Editados/No Data Selected.gba"
-
-; Gráfico de "No Data", mostrado durante as batalhas.
-.org 0x08755270
-    .incbin "Graficos/Editados/No Data.gba"
-
-; Gráfico de "Unite", mostrado durante as batalhas.
-.org 0x08748058
-    .incbin "Graficos/Editados/Unite.gba"
-
-; Gráfico de "Shuffle", mostrado durante as batalhas.
-.org 0x08709E00
-    .incbin "Graficos/Editados/Shuffle.gba"
 
 ; Gráficos inseridos no final da rom, em sua maioria comprimidos.
 ; Catalogando ponteiros dos gráficos.
@@ -176,6 +174,8 @@
     .dw tela_subchips_nomes_direita
 .org 0x08031994
     .dw tela_email_new
+.org 0x0803BC7C
+    .dw tela_recordes
 
 ; Inserindo gráficos no final da rom
 .orga filesize("Mega Man Battle Network 4 - Sol Vermelho (BR).gba")
@@ -211,6 +211,10 @@ tela_subchips_nomes_direita:
 
 tela_email_new:
     .lz77gba "Graficos/Editados/New (emails).gba"
+    .align
+
+tela_recordes:
+    .lz77gba "Graficos/Editados/My Record BMRS Record ATK.gba"
     .align
 
 .close

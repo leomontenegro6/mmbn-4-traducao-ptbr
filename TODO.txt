@@ -1,7 +1,7 @@
 - Menu exibido ao apertar Start
   - Menu PET (ajeitar tile do 'r' de Salvar)
   - Submenu "MegaMan":
-    - Editar gráficos da tela de "Recordes" (DELETE TIME / MY RECORD / BM RECORD / ATK)
+    - Corrigir OAMs da tela de "Recordes" (DELETE TIME / MY RECORD / BM RECORD / ATK)
   - Submenu "Navi Customizer":
     - Editar animação "Navi Customizer" antes da tela aparecer
     - Editar "move" / "remove" ao mexer com os programas
