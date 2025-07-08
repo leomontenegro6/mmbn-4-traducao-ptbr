@@ -181,6 +181,8 @@
     .dw nomes_tela_titulo2
 .org 0x0802597c
     .dw nomes_tela_titulo3
+.org 0x08025950
+    .dw nomes_tela_titulo4
 .org 0x08028370
     .dw cidade_acdc_higsbys
 .org 0x0802858C
@@ -216,6 +218,10 @@ nomes_tela_titulo2:
 
 nomes_tela_titulo3:
     .lz77gba "Graficos/Editados/Nomes tela-titulo 3.gba"
+    .align
+
+nomes_tela_titulo4:
+    .lz77gba "Graficos/Editados/Nomes tela-titulo 4.gba"
     .align
 
 cidade_acdc_higsbys:
