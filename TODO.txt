@@ -1,9 +1,6 @@
 - Menu exibido ao apertar Start
   - Menu PET (ajeitar tile do 'r' de Salvar)
-  - Submenu "MegaMan":
-    - Corrigir OAMs da tela de "Recordes" (DELETE TIME / MY RECORD / BM RECORD / ATK)
   - Submenu "Navi Customizer":
-    - Editar animação "Navi Customizer" antes da tela aparecer
     - Editar "move" / "remove" ao mexer com os programas
   - Submenu "Rede" (editar gráficos da tela de troca de chips/programas)
 - Tela de batalhas
@@ -14,6 +11,7 @@
   - Pós-batalha
     - Editar nomes "DeleteTime" / "BustingLv." / "GET DATA"
     - Editar nomes "WINNER" / "LOSER" nas batalhas de cabo link
+- Editar gráfico do "Game Over"
 - Torneio livre (iniciado na loja do Higsby)
   - Editar gráficos "Free Tournament" e "Champion"
 - Gráficos de cenários pra editar:

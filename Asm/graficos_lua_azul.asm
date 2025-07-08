@@ -60,6 +60,21 @@
 .org 0x086D741E
     .stringn 0x64,0x00,0x65,0x00,0x25,0x00
 
+; Ajustando posições de OAMs dos nomes pequenos na tela Recordes (dentro de MegaMan).
+; Afastar "Recorde" (de MEU RECORDE) uns 4 píxels pra direita.
+.org 0x0810B418
+    .stringn 0x6E
+
+; Alternar ordem de "RS/BM Record" para "Recorde SV/LA".
+.org 0x0810B41C
+    .stringn 0xBC
+.org 0x0810B420
+    .stringn 0x9F
+
+; Centralizar "ATQ", para se assemelhar aos outros.
+.org 0x0810B424
+    .stringn 0xD6
+
 ; Editando tilemap dos submenus, na parte de cima das letras
 .loadtable "Tabelas/Telas Menus - Nomes Parte Cima.tbl"
 .org 0x086D22AC
@@ -172,6 +187,12 @@
     .dw tela_email_new
 .org 0x0803BC84
     .dw tela_recordes
+.org 0x080418AC
+    .dw tela_megaman_animacao_navi_customizer_vertical
+.org 0x080418A8
+    .dw tela_megaman_animacao_navi_customizer_letras_miudas
+;.org 0x08048C80
+;    .dw game_over
 
 ; Inserindo gráficos no final da rom
 .orga filesize("Mega Man Battle Network 4 - Lua Azul (BR).gba")
@@ -212,5 +233,17 @@ tela_email_new:
 tela_recordes:
     .lz77gba "Graficos/Editados/My Record BMRS Record ATK.gba"
     .align
+
+tela_megaman_animacao_navi_customizer_vertical:
+    .lz77gba "Graficos/Editados/Navi Customizer vertical.gba"
+    .align
+
+tela_megaman_animacao_navi_customizer_letras_miudas:
+    .lz77gba "Graficos/Editados/Navi Customizer letras miudas.gba"
+    .align
+
+;game_over:
+;    .lz77gba "Graficos/Editados/Game Over.gba"
+;    .align
 
 .close
