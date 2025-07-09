@@ -142,18 +142,24 @@
     .stringn "TROCA CHIPS"
 
 ; Tela de seleção de chips, entre turnos de batalhas.
+.org 0x087081D4
+    .incbin "Graficos/Editados/Chip Select.gba"
 .org 0x0873C32C
     .incbin "Graficos/Editados/Chip Data Transmission.gba"
 .org 0x0873C86C
     .incbin "Graficos/Editados/No Data Selected.gba"
 .org 0x08754D00
     .incbin "Graficos/Editados/No Data.gba"
+.org 0x0873D2EC
+    .incbin "Graficos/Editados/Shuffle Folder.gba"
 .org 0x08747B4C
     .incbin "Graficos/Editados/Unite.gba"
 .org 0x087098F4
     .incbin "Graficos/Editados/Shuffle.gba"
 
 ; Gráficos exibidos durante as batalhas.
+.org 0x08709FF4
+    .incbin "Graficos/Editados/L or R.gba"
 .org 0x0870C634
     .incbin "Graficos/Editados/Pause.gba"
 
@@ -217,7 +223,7 @@ nomes_tela_titulo3:
     .align
 
 nomes_tela_titulo4:
-    .lz77gba "Graficos/Editados/Nomes tela-titulo 4.gba"
+    .lz77gba "Graficos/Editados/Nomes tela-titulo 4 lua azul.gba"
     .align
 
 cidade_acdc_higsbys:
