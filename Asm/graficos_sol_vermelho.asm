@@ -203,8 +203,10 @@
     .dw tela_megaman_animacao_navi_customizer_vertical
 .org 0x080418A0
     .dw tela_megaman_animacao_navi_customizer_letras_miudas
-;.org 0x08048C78
-;    .dw game_over
+.org 0x08048C78
+    .dw game_over
+.org 0x08048C84
+    .dw game_over_tm
 
 ; Inserindo gráficos no final da rom
 .orga filesize("Mega Man Battle Network 4 - Sol Vermelho (BR).gba")
@@ -258,8 +260,12 @@ tela_megaman_animacao_navi_customizer_letras_miudas:
     .lz77gba "Graficos/Editados/Navi Customizer letras miudas.gba"
     .align
 
-;game_over:
-;    .lz77gba "Graficos/Editados/Game Over.gba"
-;    .align
+game_over:
+    .lz77gba "Graficos/Editados/Game Over.gba"
+    .align
+
+game_over_tm:
+    .lz77gba "Graficos/Editados/Game Over (tm).gba"
+    .align
 
 .close

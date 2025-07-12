@@ -1,0 +1,9 @@
+Import-Bitmap "Game Over.png"
+Extract-Palettes --palette-size 16
+Generate-Tilemap GBA-4BPP
+
+Render-Tileset --tiles-per-row 16
+Export-Bitmap "Game Over (editado).png"
+
+Serialize-Tilemap --base-tile 0 --first-tile 0
+Export-Bytes "Game Over (tm) (editado).gba"

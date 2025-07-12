@@ -11,7 +11,6 @@
   - Pós-batalha
     - Editar nomes "DeleteTime" / "BustingLv." / "GET DATA"
     - Editar nomes "WINNER" / "LOSER" nas batalhas de cabo link
-- Editar gráfico do "Game Over"
 - Torneio livre (iniciado na loja do Higsby)
   - Editar gráficos "Free Tournament" e "Champion"
 - Gráficos de cenários pra editar:

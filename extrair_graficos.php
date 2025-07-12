@@ -28,7 +28,7 @@ $graficos = [
     (object)['nome' => 'Shuffle', 'offset' => '0x709E00', 'tiles' => '4x9'],
     (object)['nome' => 'L or R', 'offset' => '0x70A500', 'tiles' => '4x2'],
     (object)['nome' => 'Fireplus AquaPowr ThunPlus WoodPowr', 'offset' => '0x70A7C0', 'tiles' => '4x12'],
-    (object)['nome' => 'Select Battle Skip', 'offset' => '0x70AE40', 'tiles' => '1x12'],
+    (object)['nome' => 'Select Battle Skip', 'offset' => '0x70AE40', 'tiles' => '1x15'],
     (object)['nome' => 'Pause', 'offset' => '0x70CB40', 'tiles' => '1x10'],
     (object)['nome' => 'Attack +10', 'offset' => '0x7297B8', 'tiles' => '7x6'],
     (object)['nome' => 'Attack +30', 'offset' => '0x7300B8', 'tiles' => '7x6'],
