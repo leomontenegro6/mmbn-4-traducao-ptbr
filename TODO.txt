@@ -4,8 +4,6 @@
     - Editar "move" / "remove" ao mexer com os programas
   - Submenu "Rede" (editar gráficos da tela de troca de chips/programas)
 - Tela de batalhas
-  - Seleção de chips antes dos turnos
-    - Editar "CHIP SELECT"
   - Nomes durante os turnos
     - Editar "BATTLE START" / "ENEMY DELETED" / "MEGAMAN DELETED"
   - Pós-batalha
