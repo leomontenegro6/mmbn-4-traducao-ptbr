@@ -189,6 +189,8 @@
     .dw cidade_acdc_higsbys
 .org 0x08028590
     .dw pagina_do_lan_bem_vindo
+.org 0x080284F4
+    .dw ameropa_naxa
 .org 0x08031F38
     .dw tela_subchips_nomes_direita
 .org 0x08031998
@@ -209,7 +211,7 @@
 .align
 
 logo_tela_titulo:
-    .lz77gba "Graficos/Editados/Logo tela-titulo lua azul.gba"
+    .lz77gba "Graficos/Editados/Logo tela-titulo (LA).gba"
     .align
 
 nomes_tela_titulo1:
@@ -225,15 +227,19 @@ nomes_tela_titulo3:
     .align
 
 nomes_tela_titulo4:
-    .lz77gba "Graficos/Editados/Nomes tela-titulo 4 lua azul.gba"
+    .lz77gba "Graficos/Editados/Nomes tela-titulo 4 (LA).gba"
     .align
 
 cidade_acdc_higsbys:
-    .incbin "Graficos/Editados/BGs/Cidade ACDC - Higsbys lua azul.gba"
+    .incbin "Graficos/Editados/BGs/Cidade ACDC - Higsbys (LA).gba"
     .align
 
 pagina_do_lan_bem_vindo:
     .incbin "Graficos/Editados/BGs/Pagina do LAN - Bem-vindo.gba"
+    .align
+
+ameropa_naxa:
+    .incbin "Graficos/Editados/BGs/Ameropa - NAXA (LA).gba"
     .align
 
 tela_subchips_nomes_direita:

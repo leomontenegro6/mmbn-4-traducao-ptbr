@@ -22,7 +22,7 @@
 
 ; Tilemap da tela-título
 .org 0x087F3EB4
-    .incbin "Graficos/Editados/Logo tela-titulo sol vermelho (tm).gba"
+    .incbin "Graficos/Editados/Logo tela-titulo (SV) (tm).gba"
 
 ; Menus, ao apertar Start.
 .org 0x086EBAC8
@@ -193,6 +193,8 @@
     .dw cidade_acdc_higsbys
 .org 0x0802858C
     .dw pagina_do_lan_bem_vindo
+.org 0x080284F0
+    .dw ameropa_naxa
 .org 0x08031F34
     .dw tela_subchips_nomes_direita
 .org 0x08031994
@@ -213,7 +215,7 @@
 .align
 
 logo_tela_titulo:
-    .lz77gba "Graficos/Editados/Logo tela-titulo sol vermelho.gba"
+    .lz77gba "Graficos/Editados/Logo tela-titulo (SV).gba"
     .align
 
 nomes_tela_titulo1:
@@ -229,15 +231,19 @@ nomes_tela_titulo3:
     .align
 
 nomes_tela_titulo4:
-    .lz77gba "Graficos/Editados/Nomes tela-titulo 4 sol vermelho.gba"
+    .lz77gba "Graficos/Editados/Nomes tela-titulo 4 (SV).gba"
     .align
 
 cidade_acdc_higsbys:
-    .incbin "Graficos/Editados/BGs/Cidade ACDC - Higsbys sol vermelho.gba"
+    .incbin "Graficos/Editados/BGs/Cidade ACDC - Higsbys (SV).gba"
     .align
 
 pagina_do_lan_bem_vindo:
     .incbin "Graficos/Editados/BGs/Pagina do LAN - Bem-vindo.gba"
+    .align
+
+ameropa_naxa:
+    .incbin "Graficos/Editados/BGs/Ameropa - NAXA (SV).gba"
     .align
 
 tela_subchips_nomes_direita:

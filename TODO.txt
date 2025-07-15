@@ -14,6 +14,5 @@
 - Gráficos de cenários pra editar:
   - Loja do Higsby: Editas placas do cenário (Editado)
   - EletroVila: Placas de "New" e "30% off"
-  - Ameropa: Placa de NAXA
   - Ameropa: Placa de INFORMATION no saguão da NAXA
 - Preparar lançamento da versão beta

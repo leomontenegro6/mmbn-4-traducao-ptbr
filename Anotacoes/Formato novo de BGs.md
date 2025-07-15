@@ -29,13 +29,13 @@ Essas infos deve facilitar bastante para a refatoração do "mmbn-bg-graphic-unp
 
 # Mapeamento de possíveis gráficos (Versão Red Sun)
 
-| Ponteiro | Descrição                                 |
-|----------|-------------------------------------------|
-| 0x02858C | Computador do Lan (Welcome) (5 ponteiros) |
-| 0x028370 | Cidade ACDC (Hibsby's)                    |
-| 0x0283B8 | Loja do Higsby                            |
-| 0x0283D0 | Prédios da EletroVilla                    |
-| 0x0283E8 | Hotdog?                                   |
-| 0x028448 | Restaurant / Photo Studio?                |
-| 0x0284F0 | Entrada da NAXA                           |
-| 0x0284FC | Recepção da NAXA (Information)            |
+| Ponteiro | Descrição                                 | Editado |
+|----------|-------------------------------------------|---------|
+| 0x02858C | Computador do Lan (Welcome) (5 ponteiros) | Sim     |
+| 0x028370 | Cidade ACDC (Hibsby's)                    | Sim     |
+| 0x0283B8 | Loja do Higsby                            |         |
+| 0x0283D0 | Prédios da EletroVilla                    |         |
+| 0x0283E8 | Hotdog?                                   |         |
+| 0x028448 | Restaurant / Photo Studio?                |         |
+| 0x0284F0 | Entrada da NAXA                           | Sim     |
+| 0x0284FC | Recepção da NAXA (Information)            |         |
