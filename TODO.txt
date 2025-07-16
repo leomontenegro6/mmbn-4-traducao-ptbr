@@ -1,7 +1,5 @@
 - Menu exibido ao apertar Start
   - Menu PET (ajeitar tile do 'r' de Salvar)
-  - Submenu "Navi Customizer":
-    - Editar "move" / "remove" ao mexer com os programas
   - Submenu "Rede" (editar gráficos da tela de troca de chips/programas)
 - Tela de batalhas
   - Nomes durante os turnos

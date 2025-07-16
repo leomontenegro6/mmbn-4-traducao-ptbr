@@ -173,6 +173,36 @@
 .org 0x0872FBAC
     .incbin "Graficos/Editados/Attack +30.gba"
 
+; Gráfico de Pontos que aparece antes de iniciar o segundo torneio.
+.org 0x084BF734
+    .incbin "Graficos/Editados/Points.gba"
+
+; Gráficos de Chips do Battle Chip Gate usados nas Operation Battles.
+.org 0x0870A2B4
+    .incbin "Graficos/Editados/Fireplus AquaPowr ThunPlus WoodPowr.gba"
+
+; Gráficos de Zenny e Bug Frag que aparecem nas lojas.
+.org 0x08700FD8
+    .incbin "Graficos/Editados/Zenny BugFrag 1 (Loja).gba"
+.org 0x08701678
+    .incbin "Graficos/Editados/Zenny BugFrag 2 (Loja).gba"
+
+; Gráfico que aparece ao interagir com peças do CustNavi.
+.org 0x086F1254
+    .incbin "Graficos/Editados/Move Remove.gba"
+
+; Gráfico que aparece nas batalhas de CPU vs CPU do torneio livre.
+.org 0x0870A934
+    .incbin "Graficos/Editados/Select Battle Skip.gba"
+
+; Gráfico exibido no final dos créditos.
+.org 0x087EEBD4
+    .incbin "Graficos/Editados/Presented By.gba"
+
+; Gráfico exibido durante os treinos do Kendoman.
+.org 0x084C383C
+    .incbin "Graficos/Editados/Block.gba"
+
 ; Gráficos inseridos no final da rom, em sua maioria comprimidos.
 ; Catalogando ponteiros dos gráficos.
 .org 0x08025960
