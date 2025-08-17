@@ -107,6 +107,8 @@
     .stringn "REGISTRO  "
 .org 0x08702F20
     .stringn "TROCA-CHIPS"
+.org 0x086D8DA2
+    .stringn "     BATALHA DE OPERAÇÃO    "
 
 ; Editando tilemap dos submenus, na parte de baixo das letras
 .loadtable "Tabelas/Telas Menus - Nomes Parte Baixo.tbl"
@@ -140,6 +142,8 @@
     .stringn "REGISTRO  "
 .org 0x08702F5C
     .stringn "TROCA CHIPS"
+.org 0x086D8DDE
+    .stringn "     BATALHA DE OPERAÇÃO    "
 
 ; Tela de seleção de chips, entre turnos de batalhas.
 .org 0x087081D4
