@@ -72,7 +72,7 @@ script 3 mmbn4 {
 		mugshot = OfficialNavi
 	textSpeed
 		delay = 0
-	"Volta sempre, \nviu!"
+	"Volta sempre,\nviu!"
 	waitHold
 }
 script 4 mmbn4 {

@@ -291,8 +291,8 @@ script 25 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	Meu amigo desmaiou.
-	O buraco pra ele
+	Minha amiga desmaiou.
+	O buraco pra ela
 	respirar era
 	"""
 	keyWait
@@ -301,7 +301,7 @@ script 25 mmbn4 {
 	"""
 	pequeno demais.
 	É só dar um tempo,
-	ele já vai melhorar.
+	ela já vai melhorar.
 	"""
 	keyWait
 		any = false
@@ -414,7 +414,7 @@ script 35 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	Meu amigo desmaiou.
+	Minha amiga desmaiou.
 	Acho que vou
 	assistir TV...
 	"""
@@ -470,7 +470,7 @@ script 39 mmbn4 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	O Navi vermelho
+	A Navi vermelha
 	parece que tá
 	passando mal.
 	"""

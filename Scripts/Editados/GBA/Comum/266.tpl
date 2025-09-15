@@ -291,7 +291,7 @@ script 30 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Ele é incrível, \nsimples assim!"
+	"Ele é incrível,\nsimples assim!"
 	keyWait
 		any = false
 	end
@@ -482,7 +482,7 @@ script 41 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Agora, \""
+	"Agora,\""
 	printFolderName
 		buffer = 0
 		entry = 5

@@ -62,7 +62,7 @@ script 1 mmbn4 {
 	printItem
 		buffer = 0
 		item = 87
-	"\","
+	"\", "
 	keyWait
 		any = false
 	clearMsg

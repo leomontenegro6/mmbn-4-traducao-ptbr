@@ -113,7 +113,7 @@ script 6 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"\"Você foi avisado, \nLan. Podemos fazer\nmuito pior."
+	"\"Você foi avisado,\nLan. Podemos fazer\nmuito pior."
 	keyWait
 		any = false
 	clearMsg
@@ -148,7 +148,7 @@ script 8 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"\" Você foi avisado, \n Lan. Podemos fazer\n muito pior."
+	"\" Você foi avisado,\n Lan. Podemos fazer\n muito pior."
 	keyWait
 		any = false
 	clearMsg

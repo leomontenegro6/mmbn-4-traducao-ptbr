@@ -99,7 +99,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Tava se divertindo, \npra caramba."
+	"Tava se divertindo,\npra caramba."
 	keyWait
 		any = false
 	clearMsg

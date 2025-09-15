@@ -968,7 +968,7 @@ script 18 mmbn4 {
 	clearMsg
 	mugshotAnimation
 		animation = 1
-	"(Saí no prejuízo, \nmas pelo menos ga-\nnhei a negociação!)"
+	"(Saí no prejuízo,\nmas pelo menos ga-\nnhei a negociação!)"
 	keyWait
 		any = false
 	clearMsg

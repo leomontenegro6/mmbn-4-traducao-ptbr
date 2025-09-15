@@ -100,7 +100,7 @@ script 6 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Isso não é justo!\nEu vou te ajudar, \nTetsu!"
+	"Isso não é justo!\nEu vou te ajudar,\nTetsu!"
 	keyWait
 		any = false
 	clearMsg

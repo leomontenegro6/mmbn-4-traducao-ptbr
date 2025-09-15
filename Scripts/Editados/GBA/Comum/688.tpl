@@ -120,7 +120,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"O que tá rolando, \nSal?"
+	"O que tá rolando,\nSal?"
 	keyWait
 		any = false
 	clearMsg

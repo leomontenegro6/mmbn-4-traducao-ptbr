@@ -11,7 +11,7 @@ script 0 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Não se mova, senhor, \npor favor."
+	"Não se mova, senhor,\npor favor."
 	keyWait
 		any = false
 	end

@@ -1105,7 +1105,7 @@ script 84 mmbn4 {
 	mugshotShow
 		mugshot = ShadyGuy
 	msgOpen
-	"Quê que cê quer, \ngaroto?"
+	"Quê que cê quer,\ngaroto?"
 	keyWait
 		any = false
 	clearMsg

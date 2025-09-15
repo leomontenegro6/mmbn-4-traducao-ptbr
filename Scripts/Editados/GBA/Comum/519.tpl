@@ -18,7 +18,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	O plano da NAXA para
+	O plano da AENA para
 	salvar o mundo
 	estava em andamento.
 	"""
@@ -587,7 +587,7 @@ script 33 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	O plano da NAXA para
+	O plano da AENA para
 	salvar o mundo
 	estava em andamento.
 	"""

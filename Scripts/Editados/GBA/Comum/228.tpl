@@ -114,7 +114,7 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"Por favor, \nme ajuda, Lan!"
+	"Por favor,\nme ajuda, Lan!"
 	keyWait
 		any = false
 	end

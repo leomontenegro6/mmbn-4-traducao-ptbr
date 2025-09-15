@@ -83,11 +83,13 @@ script 1 mmbn4 {
 	printItem
 		buffer = 0
 		item = 112
-	" &\n "
+	" & a\n "
 	printItem
 		buffer = 0
 		item = 113
-	"a \"!"
+	"""
+	"!
+	"""
 	keyWait
 		any = false
 	clearMsg

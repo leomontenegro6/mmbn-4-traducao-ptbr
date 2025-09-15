@@ -106,7 +106,7 @@ script 3 mmbn4 {
 	positionArrow
 		left = 202
 		top = 108
-	"Obrigada por virem, \namigos!"
+	"Obrigada por virem,\namigos!"
 	keyWait
 		any = false
 	clearMsg

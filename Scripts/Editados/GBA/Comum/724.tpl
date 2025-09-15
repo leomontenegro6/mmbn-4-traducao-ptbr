@@ -17,7 +17,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Você conseguiu, \nMegaMan!"
+	"Você conseguiu,\nMegaMan!"
 	keyWait
 		any = false
 	end

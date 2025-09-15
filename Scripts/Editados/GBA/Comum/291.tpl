@@ -50,7 +50,7 @@ script 0 mmbn4 {
 	"""
 	Este é um chip de
 	próxima geração
-	criado pela NAXA.
+	criado pela AENA.
 	"""
 	keyWait
 		any = false
@@ -123,7 +123,7 @@ script 1 mmbn4 {
 	"""
 	Este é um chip de
 	próxima geração
-	criado pela NAXA.
+	criado pela AENA.
 	"""
 	keyWait
 		any = false

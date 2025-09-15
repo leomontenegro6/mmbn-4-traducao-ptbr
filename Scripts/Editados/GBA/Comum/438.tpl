@@ -25,8 +25,8 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Você me libertou de
-	feitiço de Bass...
+	Você me libertou do
+	feitiço do Bass...
 	"""
 	keyWait
 		any = false
@@ -47,7 +47,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Conferirei a você o
+	conferirei a você o
 	"
 	"""
 	printChip

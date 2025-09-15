@@ -918,7 +918,7 @@ script 131 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviPurple
-	"Nada mal, \njovem aprendiz!"
+	"Nada mal,\njovem aprendiz!"
 	keyWait
 		any = false
 	end

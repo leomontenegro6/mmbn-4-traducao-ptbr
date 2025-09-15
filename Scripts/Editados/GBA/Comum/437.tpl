@@ -299,7 +299,7 @@ script 130 mmbn4 {
 	"."
 	waitSkip
 		frames = 30
-	" Não, \nnão daria certo..."
+	" Não,\nnão daria certo..."
 	keyWait
 		any = false
 	clearMsg

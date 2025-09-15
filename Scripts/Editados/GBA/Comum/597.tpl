@@ -112,7 +112,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = OldMan
 	msgOpen
-	"Bom trabalho, \nTensuke!"
+	"Bom trabalho,\nTensuke!"
 	keyWait
 		any = false
 	clearMsg

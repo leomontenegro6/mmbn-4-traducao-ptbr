@@ -431,7 +431,7 @@ script 36 mmbn4 {
 	mugshotShow
 		mugshot = Chisao
 	msgOpen
-	"\"O que vence é\n força bruta, \n não truques!\""
+	"\"O que vence é\n força bruta,\n não truques!\""
 	keyWait
 		any = false
 	clearMsg

@@ -108,9 +108,9 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Eles dados misterio-
-	sos têm um "quê" de
-	maldade...
+	Estes dados
+	misteriosos têm um
+	"quê" de maldade...
 	"""
 	waitHold
 }

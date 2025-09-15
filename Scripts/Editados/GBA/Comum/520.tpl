@@ -108,7 +108,7 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Você é o MegaMan, \nnão?"
+	"Você é o MegaMan,\nnão?"
 	keyWait
 		any = false
 	clearMsg

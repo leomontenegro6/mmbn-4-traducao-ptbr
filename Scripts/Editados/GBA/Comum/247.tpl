@@ -712,7 +712,7 @@ script 220 mmbn4 {
 }
 script 221 mmbn4 {
 	clearMsg
-	"\"Quem se prepara, \n não tem com o que\n se preocupar.\""
+	"\"Quem se prepara,\n não tem com o que\n se preocupar.\""
 	keyWait
 		any = false
 	clearMsg

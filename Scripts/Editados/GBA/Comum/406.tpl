@@ -328,7 +328,7 @@ script 21 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Acho que vou só\nviver em paz, \nmesmo..."
+	"Acho que vou só\nviver em paz,\nmesmo..."
 	keyWait
 		any = false
 	end
@@ -512,7 +512,7 @@ script 41 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Parece que a NAXA
+	Parece que a AENA
 	ordenou o QG dos
 	Oficiais para que
 	"""

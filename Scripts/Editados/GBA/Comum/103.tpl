@@ -202,7 +202,7 @@ script 25 mmbn4 {
 	"""
 	Desconecta, MegaMan!
 	A gente tem que ir
-	pra NAXA!
+	pra AENA!
 	"""
 	keyWait
 		any = false
@@ -290,7 +290,7 @@ script 30 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Vamos pra NAXA!"
+	"Vamos pra AENA!"
 	keyWait
 		any = false
 	end
@@ -315,7 +315,7 @@ script 32 mmbn4 {
 	"""
 	Quando você tiver
 	pronto, bora voltar
-	pra NAXA!
+	pra AENA!
 	"""
 	keyWait
 		any = false
@@ -327,7 +327,7 @@ script 33 mmbn4 {
 	msgOpen
 	"""
 	MegaMan! Vamos logo
-	pra NAXA! A gente
+	pra AENA! A gente
 	tá sem tempo!
 	"""
 	keyWait
@@ -339,7 +339,7 @@ script 34 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Bora voltar pra NAXA
+	Bora voltar pra AENA
 	e mudar a trajetória
 	daquele asteroide!
 	"""
@@ -419,7 +419,6 @@ script 102 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"""
 	"""
 	Pronto, 4 provas.
 	Agora vamos pra

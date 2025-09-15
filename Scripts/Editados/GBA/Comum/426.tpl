@@ -347,7 +347,7 @@ script 51 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"... mas, de graça, \nnão!"
+	"... mas, de graça,\nnão!"
 	keyWait
 		any = false
 	clearMsg

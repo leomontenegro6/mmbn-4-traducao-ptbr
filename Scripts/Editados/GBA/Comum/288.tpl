@@ -28,7 +28,7 @@ script 1 mmbn4 {
 	msgOpen
 	"""
 	Se o relatório da
-	NAXA estiver certo,
+	AENA estiver certo,
 	um desastre está
 	"""
 	keyWait
@@ -123,7 +123,7 @@ script 20 mmbn4 {
 	"""
 	Essa não! Não
 	conseguimos mandar
-	dados para a NAXA!
+	dados para a AENA!
 	"""
 	keyWait
 		any = false
@@ -177,7 +177,7 @@ script 21 mmbn4 {
 	"""
 	asteroide. Temos de
 	enviar esses dados
-	para a NAXA o mais
+	para a AENA o mais
 	"""
 	keyWait
 		any = false
@@ -240,7 +240,7 @@ script 23 mmbn4 {
 	"""
 	asteroide. Temos de
 	enviar esses dados
-	para a NAXA o mais
+	para a AENA o mais
 	"""
 	keyWait
 		any = false
@@ -259,7 +259,7 @@ script 25 mmbn4 {
 	"""
 	Maravilha! Agora,
 	podemos mandar dados
-	para a NAXA!
+	para a AENA!
 	"""
 	keyWait
 		any = false
@@ -288,7 +288,7 @@ script 26 mmbn4 {
 	"""
 	Preciso converter os
 	dados que mandaremos
-	de volta à NAXA!
+	de volta à AENA!
 	"""
 	keyWait
 		any = false
@@ -327,7 +327,7 @@ script 30 mmbn4 {
 	msgOpen
 	"""
 	Lan! Volte logo
-	para a NAXA!
+	para a AENA!
 	"""
 	keyWait
 		any = false

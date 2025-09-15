@@ -46,7 +46,7 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Se bem me lembro, \nfalou, sim."
+	"Se bem me lembro,\nfalou, sim."
 	keyWait
 		any = false
 	clearMsg

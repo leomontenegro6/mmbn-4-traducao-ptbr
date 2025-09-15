@@ -87,7 +87,7 @@ script 5 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Lute bem por mim, \namigão.\""
+	"Lute bem por mim,\namigão.\""
 	keyWait
 		any = false
 	clearMsg

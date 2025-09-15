@@ -32,7 +32,7 @@ script 1 mmbn4 {
 	"""
 	Somente a organi-
 	zação de elite do
-	mundo, a NAXA,
+	mundo, a AENA,
 	"""
 	keyWait
 		any = false
@@ -104,7 +104,7 @@ script 3 mmbn4 {
 	clearMsg
 	"""
 	e a história da
-	NAXA, sem cessar.
+	AENA, sem cessar.
 	"""
 	keyWait
 		any = false

@@ -106,7 +106,7 @@ script 4 mmbn4 {
 	msgOpen
 	"""
 	Alguém deixou um
-	panfleto da NAXA
+	panfleto da AENA
 	aqui...
 	"""
 	keyWait
@@ -114,7 +114,7 @@ script 4 mmbn4 {
 	clearMsg
 	"""
 	Contém o mascote
-	da NAXA,"Sana",
+	da AENA, "Sana",
 	"""
 	keyWait
 		any = false
@@ -133,14 +133,14 @@ script 5 mmbn4 {
 	"""
 	Um telefone interno
 	para funcionários da
-	NAXA.
+	AENA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Dá pra ver que é da
-	NAXA pelos botões em
+	AENA pelos botões em
 	forma de estrela.
 	"""
 	keyWait

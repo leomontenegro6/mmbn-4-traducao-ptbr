@@ -189,7 +189,7 @@ script 11 mmbn4 {
 	clearMsg
 	"""
 	MegaMan, vamos voltar
-	pra NAXA!
+	pra AENA!
 	"""
 	keyWait
 		any = false

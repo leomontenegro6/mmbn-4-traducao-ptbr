@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
 	msgOpen
-	"Venha comigo, \npor favor."
+	"Venha comigo,\npor favor."
 	keyWait
 		any = false
 	clearMsg
@@ -40,7 +40,7 @@ script 2 mmbn4 {
 	clearMsg
 	"""
 	Também conhecido
-	como NAXA.
+	como AENA.
 	"""
 	keyWait
 		any = false
@@ -52,7 +52,7 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	N-NAXA?
+	A-AENA?
 	Espacial?
 	"""
 	keyWait

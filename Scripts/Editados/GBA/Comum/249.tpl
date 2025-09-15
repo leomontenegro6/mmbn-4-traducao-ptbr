@@ -389,7 +389,7 @@ script 16 mmbn4 {
 	msgOpen
 	"""
 	Eu vou é voltar pra
-	Ameropa,"buddy"!
+	Ameropa, "buddy"!
 	"""
 	keyWait
 		any = false
@@ -471,7 +471,7 @@ script 21 mmbn4 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Aí,"brother"!
+	Aí, "brother"!
 	Eu tô na fossa!
 	"""
 	keyWait
@@ -822,7 +822,7 @@ script 39 mmbn4 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Fala aí,"brother!"
+	Fala aí, "brother!"
 	Os meus ouvidos e
 	cabeça tão doendo!
 	"""

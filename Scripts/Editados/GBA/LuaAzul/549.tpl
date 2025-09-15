@@ -9,7 +9,7 @@ script 0 mmbn4 {
 	"""
 	Enquanto MegaMan
 	lutava por sua vida,
-	a NAXA informou ao
+	a AENA informou ao
 	"""
 	keyWait
 		any = false

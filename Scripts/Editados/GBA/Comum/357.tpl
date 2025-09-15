@@ -92,7 +92,7 @@ script 0 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Se conseguir, \nvocê ganha!"
+	"Se conseguir,\nvocê ganha!"
 	keyWait
 		any = false
 	clearMsg

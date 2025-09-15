@@ -857,7 +857,7 @@ script 60 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	da NAXA!
+	da AENA!
 	"""
 	keyWait
 		any = false
@@ -1274,7 +1274,7 @@ script 220 mmbn4 {
 }
 script 221 mmbn4 {
 	clearMsg
-	"\"Quem se prepara, \n não tem com o que\n se preocupar.\""
+	"\"Quem se prepara,\n não tem com o que\n se preocupar.\""
 	keyWait
 		any = false
 	clearMsg

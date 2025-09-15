@@ -128,7 +128,7 @@ script 32 mmbn4 {
 	"""
 	Quando tiver pronto,
 	bora voltar pra
-	NAXA, Lan!
+	AENA, Lan!
 	"""
 	keyWait
 		any = false
@@ -140,7 +140,7 @@ script 33 mmbn4 {
 	msgOpen
 	"""
 	Lan! Temos que
-	voltar pra NAXA!
+	voltar pra AENA!
 	Não temos tempo!
 	"""
 	keyWait

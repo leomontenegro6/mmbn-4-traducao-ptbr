@@ -69,7 +69,7 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	msgOpen
-	"Tá, vai logo embora, \nMegaMan!"
+	"Tá, vai logo embora,\nMegaMan!"
 	keyWait
 		any = false
 	clearMsg

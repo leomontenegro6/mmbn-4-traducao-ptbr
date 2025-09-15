@@ -132,7 +132,7 @@ script 7 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Você também vai, \nRoll?"
+	"Você também vai,\nRoll?"
 	keyWait
 		any = false
 	clearMsg

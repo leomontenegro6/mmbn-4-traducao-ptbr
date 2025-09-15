@@ -639,7 +639,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Bom, tudo bem, \nentão..."
+	"Bom, tudo bem,\nentão..."
 	keyWait
 		any = false
 	flagSet
@@ -864,7 +864,7 @@ script 30 mmbn4 {
 	clearMsg
 	"""
 	Você tem que voltar
-	pra NAXA agora
+	pra AENA agora
 	mesmo!
 	"""
 	keyWait

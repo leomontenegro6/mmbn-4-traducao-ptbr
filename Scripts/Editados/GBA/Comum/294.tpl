@@ -7,7 +7,7 @@ script 0 mmbn4 {
 	"""
 	Lan, aonde você vai?!
 	Vamos logo entrar na
-	NAXA!
+	AENA!
 	"""
 	keyWait
 		any = false

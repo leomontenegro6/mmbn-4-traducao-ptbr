@@ -136,11 +136,11 @@ script 51 mmbn4s {
 	end
 }
 script 52 mmbn4s {
-	"________NAXA■"
+	"________AENA■"
 	end
 }
 script 53 mmbn4s {
-	"_Saguão NAXA■"
+	"_Saguão AENA■"
 	end
 }
 script 55 mmbn4s {

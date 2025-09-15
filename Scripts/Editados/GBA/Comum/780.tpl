@@ -372,7 +372,7 @@ script 24 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Aqui vou eu, \nProtoMan!"
+	"Aqui vou eu,\nProtoMan!"
 	keyWait
 		any = false
 	soundPlayBGM

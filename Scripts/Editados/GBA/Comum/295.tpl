@@ -85,7 +85,7 @@ script 4 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Bem-vindo à NAXA.
+	Bem-vindo à AENA.
 	Você deve ser Lan
 	Hikari, não?
 	"""

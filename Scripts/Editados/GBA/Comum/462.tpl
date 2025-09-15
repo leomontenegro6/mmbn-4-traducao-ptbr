@@ -146,7 +146,7 @@ script 8 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Espera só um pouco, \nRoll!"
+	"Espera só um pouco,\nRoll!"
 	keyWait
 		any = false
 	clearMsg

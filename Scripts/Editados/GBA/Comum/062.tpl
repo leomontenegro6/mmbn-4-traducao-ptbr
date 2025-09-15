@@ -215,7 +215,7 @@ script 13 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	NAXA! O principal
+	AENA! O principal
 	centro de pesquisa
 	espacial do mundo!
 	"""
@@ -368,7 +368,7 @@ script 31 mmbn4s {
 	end
 }
 script 32 mmbn4s {
-	"     NAXA"
+	"     AENA"
 	end
 }
 script 33 mmbn4s {

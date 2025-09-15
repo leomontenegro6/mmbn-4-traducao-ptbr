@@ -244,7 +244,7 @@ script 12 mmbn4 {
 	"""
 	E eu sirvo como sa-
 	cerdotisa do WindMan
-	no tempo dele.
+	no templo dele.
 	"""
 	keyWait
 		any = false

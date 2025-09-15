@@ -251,7 +251,7 @@ script 15 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Próxima parada:\nNAXA!"
+	"Próxima parada:\nAENA!"
 	keyWait
 		any = false
 	clearMsg

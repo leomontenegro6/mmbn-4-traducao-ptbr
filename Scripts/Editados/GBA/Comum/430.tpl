@@ -432,7 +432,7 @@ script 35 mmbn4 {
 	". "
 	waitSkip
 		frames = 30
-	"foram ordens da\nNAXA...?"
+	"foram ordens da\nAENA...?"
 	keyWait
 		any = false
 	clearMsg
@@ -488,7 +488,7 @@ script 45 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Parece que a NAXA
+	Parece que a AENA
 	está planejando uma
 	coisa grande...
 	"""
@@ -661,7 +661,7 @@ script 145 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"E eu estou tão, \nmas tão ocupado..."
+	"E eu estou tão,\nmas tão ocupado..."
 	keyWait
 		any = false
 	clearMsg
@@ -1100,7 +1100,7 @@ script 240 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviPurple
-	"Tá falando sério, \ngaroto?"
+	"Tá falando sério,\ngaroto?"
 	keyWait
 		any = false
 	end

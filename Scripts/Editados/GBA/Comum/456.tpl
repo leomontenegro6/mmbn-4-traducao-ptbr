@@ -248,7 +248,7 @@ script 16 mmbn4 {
 	"""
 	Foi mal, MegaMan...
 	A Roll agora tá nas
-	suas mãos, guts.
+	suas mãos, Guts.
 	"""
 	keyWait
 		any = false

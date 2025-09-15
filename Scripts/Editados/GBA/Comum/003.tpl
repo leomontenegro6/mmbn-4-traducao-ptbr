@@ -595,7 +595,7 @@ script 26 mmbn4 {
 		left = 198
 		top = 93
 	"""
-	Só se pode usar
+	SÓ SE PODE USAR
 	 
 	"""
 	printBuffer
@@ -603,7 +603,7 @@ script 26 mmbn4 {
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	" MEGACHIPS!"
+	" MEGACHIP(S)!"
 	keyWait
 		any = false
 	end
@@ -619,7 +619,7 @@ script 27 mmbn4 {
 		left = 198
 		top = 93
 	"""
-	Só se pode usar
+	SÓ SE PODE USAR
 	 
 	"""
 	printBuffer
@@ -627,7 +627,7 @@ script 27 mmbn4 {
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	" GIGACHIPS!"
+	" GIGACHIP(S)!"
 	keyWait
 		any = false
 	end

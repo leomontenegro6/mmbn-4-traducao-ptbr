@@ -133,7 +133,7 @@ script 1 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Se você sobreviver, \nvocê passa!"
+	"Se você sobreviver,\nvocê passa!"
 	keyWait
 		any = false
 	flagSet

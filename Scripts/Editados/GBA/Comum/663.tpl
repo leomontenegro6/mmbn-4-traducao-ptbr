@@ -425,7 +425,7 @@ script 21 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Tudo bem por você, \nMegaMan?!"
+	"Tudo bem por você,\nMegaMan?!"
 	keyWait
 		any = false
 	clearMsg

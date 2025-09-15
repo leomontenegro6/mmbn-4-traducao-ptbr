@@ -70,7 +70,7 @@ script 2 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Juntamente à NAXA,"
+	"Juntamente à AENA,"
 	keyWait
 		any = false
 	clearMsg
@@ -139,7 +139,7 @@ script 12 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"melhores até que os\nda NAXA!"
+	"melhores até que os\nda AENA!"
 	keyWait
 		any = false
 	end
@@ -238,7 +238,7 @@ script 17 mmbn4 {
 	msgOpen
 	"""
 	Você é o Lan, né?
-	A NAXA me falou de
+	A AENA me falou de
 	você!
 	"""
 	keyWait
@@ -396,7 +396,7 @@ script 27 mmbn4 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	A NAXA nos informou
+	A AENA nos informou
 	que estão planejando
 	enviar um Navi...
 	"""

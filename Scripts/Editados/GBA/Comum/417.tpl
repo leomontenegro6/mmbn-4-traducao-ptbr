@@ -800,7 +800,7 @@ script 133 mmbn4 {
 	printItem
 		buffer = 0
 		item = 15
-	"\"⋯"
+	"\"..."
 	keyWait
 		any = false
 	end
@@ -865,7 +865,7 @@ script 240 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Eu sou um mercador
+	Eu sou uma mercadora
 	de Saborya.
 	"""
 	keyWait
@@ -947,7 +947,7 @@ script 241 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviPink
 	msgOpen
-	"Agradecido!"
+	"Agradecida!"
 	keyWait
 		any = false
 	clearMsg

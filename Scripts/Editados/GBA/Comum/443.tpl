@@ -85,7 +85,7 @@ script 1 mmbn4 {
 	"""
 	Mesmo aqui, no
 	Observatório
-	espacial da NAXA,
+	espacial da AENA,
 	"""
 	keyWait
 		any = false
@@ -94,7 +94,7 @@ script 1 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Pra mim, pelo menos, \né..."
+	"Pra mim, pelo menos,\né..."
 	keyWait
 		any = false
 	clearMsg
@@ -105,7 +105,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	Então a vida na NAXA
+	Então a vida na AENA
 	não é o que você
 	esperava, hein?
 	"""
@@ -385,7 +385,7 @@ script 15 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Se for piadinha, \nvocê me paga."
+	"Se for piadinha,\nvocê me paga."
 	keyWait
 		any = false
 	clearMsg
@@ -464,7 +464,7 @@ script 20 mmbn4 {
 		mugshot = Scientist
 	"""
 	Você é membro da
-	NAXA.
+	AENA.
 	"""
 	keyWait
 		any = false

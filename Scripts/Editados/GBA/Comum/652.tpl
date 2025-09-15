@@ -28,7 +28,7 @@ script 1 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Lamento informar, \nmas..."
+	"Lamento informar,\nmas..."
 	keyWait
 		any = false
 	clearMsg

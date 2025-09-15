@@ -158,7 +158,7 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Obrigada de novo, \nLan!"
+	"Obrigada de novo,\nLan!"
 	keyWait
 		any = false
 	clearMsg
@@ -188,7 +188,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Obrigada de novo, \nLan!"
+	"Obrigada de novo,\nLan!"
 	keyWait
 		any = false
 	clearMsg

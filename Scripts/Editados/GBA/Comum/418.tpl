@@ -362,7 +362,7 @@ script 240 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Eu sou um mercador
+	Eu sou uma mercadora
 	de Saborya.
 	"""
 	keyWait
@@ -443,7 +443,7 @@ script 241 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviPink
 	msgOpen
-	"Agradecido!"
+	"Agradecida!"
 	keyWait
 		any = false
 	clearMsg

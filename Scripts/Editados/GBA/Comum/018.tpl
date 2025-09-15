@@ -475,7 +475,7 @@ script 13 mmbn4 {
 	msgOpen
 	"""
 	Eu fiz um estudo
-	outro dia na NAXA.
+	outro dia na AENA.
 	"""
 	keyWait
 		any = false

@@ -664,7 +664,7 @@ script 26 mmbn4 {
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	" MegaChips"
+	" MegaChip(s)"
 	keyWait
 		any = false
 	end
@@ -693,7 +693,7 @@ script 27 mmbn4 {
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	" GigaChips"
+	" GigaChip(s)"
 	keyWait
 		any = false
 	end

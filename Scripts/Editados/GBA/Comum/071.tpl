@@ -196,7 +196,7 @@ script 32 mmbn4 {
 	"""
 	Quando tiver pronto,
 	bora voltar pra
-	NAXA, Lan!
+	AENA, Lan!
 	"""
 	keyWait
 		any = false
@@ -208,7 +208,7 @@ script 33 mmbn4 {
 	msgOpen
 	"""
 	Lan! Temos que
-	voltar pra NAXA!
+	voltar pra AENA!
 	Não temos tempo!
 	"""
 	keyWait
@@ -220,7 +220,7 @@ script 34 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Bora voltar pra NAXA
+	Bora voltar pra AENA
 	e mudar a trajetória
 	do asteroide!
 	"""
@@ -867,7 +867,7 @@ script 128 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Argh! Espertinho, \nvocê..."
+	"Argh! Espertinho,\nvocê..."
 	keyWait
 		any = false
 	clearMsg
@@ -1002,7 +1002,7 @@ script 129 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Argh! Espertinho, \nvocê..."
+	"Argh! Espertinho,\nvocê..."
 	keyWait
 		any = false
 	clearMsg

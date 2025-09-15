@@ -144,7 +144,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Desculpa a demora, \nDex!"
+	"Desculpa a demora,\nDex!"
 	keyWait
 		any = false
 	clearMsg

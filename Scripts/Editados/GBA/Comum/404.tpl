@@ -286,7 +286,7 @@ script 26 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Mais pra baixo, \nimpossível!"
+	"Mais pra baixo,\nimpossível!"
 	keyWait
 		any = false
 	end
@@ -342,7 +342,7 @@ script 27 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Mais pra baixo, \nimpossível!"
+	"Mais pra baixo,\nimpossível!"
 	keyWait
 		any = false
 	end

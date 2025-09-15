@@ -115,7 +115,7 @@ script 10 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"\"K - Ergue chamas\nassoprando atrás, \num mar de lava.\""
+	"\"K - Ergue chamas\nassoprando atrás,\num mar de lava.\""
 	keyWait
 		any = false
 	clearMsg

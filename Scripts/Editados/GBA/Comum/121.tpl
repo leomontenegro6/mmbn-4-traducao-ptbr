@@ -126,7 +126,7 @@ script 4 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	" Normalmente, briga\n com o seu rival, \n o MagoMacaco."
+	" Normalmente, briga\n com o seu rival,\n o MagoMacaco."
 	keyWait
 		any = false
 	clearMsg
@@ -299,7 +299,7 @@ script 9 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	" A Princesa vai à\n floresta sozinha, \n ela e seu machado."
+	" A Princesa vai à\n floresta sozinha,\n ela e seu machado."
 	keyWait
 		any = false
 	clearMsg

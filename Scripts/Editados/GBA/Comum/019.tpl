@@ -550,7 +550,7 @@ script 13 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"remover a lã deles, \nou manter distância\ne usar um"
+	"remover a lã deles,\nou manter distância\ne usar um"
 	keyWait
 		any = false
 	clearMsg

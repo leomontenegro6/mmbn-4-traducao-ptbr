@@ -288,7 +288,7 @@ script 132 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"É! AÍ EU FALEI, \nTIPO..."
+	"É! AÍ EU FALEI,\nTIPO..."
 	keyWait
 		any = false
 	end

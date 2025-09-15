@@ -150,7 +150,7 @@ script 11 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	" Chip das Trevas\n está envolvido, \n então é provável"
+	" Chip das Trevas\n está envolvido,\n então é provável"
 	keyWait
 		any = false
 	clearMsg

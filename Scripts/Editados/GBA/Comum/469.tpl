@@ -63,7 +63,7 @@ script 2 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Olhe para cá, \npor favor."
+	"Olhe para cá,\npor favor."
 	keyWait
 		any = false
 	end
@@ -132,7 +132,7 @@ script 6 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Olhem para cá, \npor favor."
+	"Olhem para cá,\npor favor."
 	keyWait
 		any = false
 	end

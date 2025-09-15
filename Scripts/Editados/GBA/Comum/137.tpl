@@ -13,7 +13,7 @@ script 0 mmbn4 {
 	"""
 	Maior parte da
 	eletricidade da
-	NAXA vem daqui.
+	AENA vem daqui.
 	"""
 	keyWait
 		any = false

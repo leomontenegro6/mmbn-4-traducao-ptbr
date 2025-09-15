@@ -132,7 +132,7 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotShow
 		mugshot = Dad
-	"Ah, que vacilo, \no meu..."
+	"Ah, que vacilo,\no meu..."
 	keyWait
 		any = false
 	clearMsg

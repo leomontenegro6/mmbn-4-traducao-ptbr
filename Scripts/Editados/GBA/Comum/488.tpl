@@ -172,7 +172,7 @@ script 12 mmbn4 {
 	"Conectar!!"
 	wait
 		frames = 10
-	"\nMegaMan.EXE, \ntransmissão!"
+	"\nMegaMan.EXE,\ntransmissão!"
 	wait
 		frames = 30
 	controlUnlock

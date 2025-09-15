@@ -13,7 +13,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Toma cuidado, \nMegaMan!"
+	"Toma cuidado,\nMegaMan!"
 	keyWait
 		any = false
 	clearMsg

@@ -215,7 +215,7 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = ColdMan
 	msgOpen
-	"Bonecos de neve, \nsumam!!"
+	"Bonecos de neve,\nsumam!!"
 	keyWait
 		any = false
 	end

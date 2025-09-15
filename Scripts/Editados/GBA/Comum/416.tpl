@@ -229,7 +229,7 @@ script 20 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"PATRULHANDO, \nPATRULHANDO!"
+	"PATRULHANDO,\nPATRULHANDO!"
 	keyWait
 		any = false
 	end

@@ -25,7 +25,7 @@ script 5 mmbn4s {
 	end
 }
 script 6 mmbn4s {
-	"12, 10, 8,?,?,?"
+	"12, 10, 8, ?, ?, ?"
 	end
 }
 script 7 mmbn4s {
@@ -33,14 +33,14 @@ script 7 mmbn4s {
 	end
 }
 script 8 mmbn4s {
-	"1-31, 2-28,?-??"
+	"1-31, 2-28, ?-??"
 	end
 }
 script 9 mmbn4s {
-	"147, 258,???"
+	"147, 258, ???"
 	end
 }
 script 10 mmbn4s {
-	"1,?,?,?, 9, 11⋯"
+	"1, ?, ?, ?, 9, 11..."
 	end
 }

@@ -121,7 +121,7 @@ script 2 mmbn4 {
 	printItem
 		buffer = 0
 		item = 114
-	", \n "
+	",\n "
 	printItem
 		buffer = 0
 		item = 115

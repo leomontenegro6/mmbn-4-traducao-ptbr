@@ -153,7 +153,7 @@ script 11 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Sim,"lá foi ele"!
+	Sim, "lá foi ele"!
 	Aposto que ele ficou
 	super deprimido.
 	"""

@@ -5,11 +5,11 @@ script 0 mmbn4s {
 	end
 }
 script 1 mmbn4s {
-	"Duelo Rede"
+	"LutaRede"
 	end
 }
 script 2 mmbn4s {
-	"Instruções"
+	"Tutorial"
 	end
 }
 script 3 mmbn4 {
@@ -122,7 +122,7 @@ script 7 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	Precessando estado
+	Processando estado
 	da conexão. Me dê
 	só um instante...
 	"""

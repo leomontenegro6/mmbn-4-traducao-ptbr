@@ -156,7 +156,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Você vai soltar ele, \nné?!"
+	"Você vai soltar ele,\nné?!"
 	keyWait
 		any = false
 	clearMsg

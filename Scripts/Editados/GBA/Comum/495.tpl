@@ -96,7 +96,7 @@ script 6 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"de Django, \no Garoto Solar?"
+	"de Django,\no Garoto Solar?"
 	keyWait
 		any = false
 	end

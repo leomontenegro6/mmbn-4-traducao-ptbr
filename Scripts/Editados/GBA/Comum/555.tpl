@@ -49,7 +49,7 @@ script 1 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Sensor de vibração, \nligar!"
+	"Sensor de vibração,\nligar!"
 	keyWait
 		any = false
 	clearMsg

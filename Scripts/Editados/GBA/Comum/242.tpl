@@ -133,12 +133,12 @@ script 10 mmbn4 {
 	". "
 	waitSkip
 		frames = 30
-	"A NAXA?!"
+	"A AENA?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	O que a NAXA ia
+	O que a AENA ia
 	querer com VOCÊ?
 	"""
 	keyWait
@@ -173,7 +173,7 @@ script 20 mmbn4 {
 	"""
 	Não se preocupa com
 	a gente! Vai logo
-	pra NAXA!
+	pra AENA!
 	"""
 	keyWait
 		any = false
