@@ -36,6 +36,7 @@ $graficos = [
     (object)['nome' => 'No Data Selected', 'offset' => '0x73CD78', 'tiles' => '7x6'],
     (object)['nome' => 'Shuffle Folder', 'offset' => '0x73D7F8', 'tiles' => '7x6'],
     (object)['nome' => 'Unite', 'offset' => '0x748058', 'tiles' => '3x4'],
+    (object)['nome' => 'Advance', 'offset' => '0x750400', 'tiles' => '10x2'],
     (object)['nome' => 'Busy Plan-B Final Turn', 'offset' => '0x750900', 'tiles' => '7x6'],
     (object)['nome' => 'Result Post Battle', 'offset' => '0x750EA0', 'tiles' => '1x275'],
     (object)['nome' => 'Press A Button Record', 'offset' => '0x753F70', 'tiles' => '1x23'],

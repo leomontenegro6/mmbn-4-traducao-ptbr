@@ -1,7 +1,11 @@
 :: Arquivo .bat que remonta as roms traduzidas.
 @echo off
 cls
-echo ==Mega Man Battle Network 4
+echo ==Mega Man Battle Network 4 - Script para remonta de roms traduzidas==
+
+if "%1"=="-v" goto red_sun
+if "%1"=="-a" goto blue_moon
+
 echo Escolha a versao para gerar:
 echo v - Sol Vermelho
 echo a - Lua Azul
@@ -26,7 +30,7 @@ echo ==Graficos==
 cd ".\Ferramentas\mmbn4-bg-graphic-unpacker\"
 call remontar.bat
 cd "..\..\"
-.\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\graficos_sol_vermelho.asm
+.\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\graficos.asm -equ versao 0
 
 echo ==Expandindo rom para 16mb==
 .\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\expansor_rom.asm -strequ output "Sol Vermelho"
@@ -47,7 +51,7 @@ echo ==Graficos==
 cd ".\Ferramentas\mmbn4-bg-graphic-unpacker\"
 call remontar.bat
 cd "..\..\"
-.\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\graficos_lua_azul.asm
+.\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\graficos.asm -equ versao 1
 
 echo ==Expandindo rom para 16mb==
 .\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\expansor_rom.asm -strequ output "Lua Azul"

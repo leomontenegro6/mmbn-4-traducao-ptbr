@@ -12,5 +12,5 @@ copy ".\data\img-02858C.bin" "..\..\Graficos\Editados\BGs\Pagina do LAN - Bem-vi
 :: Remontando gráfico de "NAXA", na Ameropa.
 php .\repacker.php 284F0
 php .\repacker.php 284F4
-copy ".\data\img-0284F0.bin" "..\..\Graficos\Editados\BGs\Ameropa - NAXA (SV).gba"
-copy ".\data\img-0284F4.bin" "..\..\Graficos\Editados\BGs\Ameropa - NAXA (LA).gba"
+copy ".\data\img-0284F0.bin" "..\..\Graficos\Editados\BGs\Ameropa - ANSA (SV).gba"
+copy ".\data\img-0284F4.bin" "..\..\Graficos\Editados\BGs\Ameropa - ANSA (LA).gba"

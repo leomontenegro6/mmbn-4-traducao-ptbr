@@ -1,0 +1,146 @@
+FonteTextosVwf equ 0x080515E0
+FonteTextos equ 0x08694F5C
+FonteTextosSombra equ 0x086C7C50
+
+FonteGrande equ 0x0868DF5C
+
+LicenciadoPelaNintendo equ 0x086ADBC0
+
+TelaTituloTM equ 0x087F3EB4
+
+MenuPET1 equ 0x086EBAC8
+MenuPET2 equ 0x086ECC08
+Submenus equ 0x086DB97C
+Information equ 0x086F32D4
+Sort equ 0x086DE43C
+SortTM equ 0x086DEC5E
+SneakRunUntrapLocEnemyOnTM equ 0x086DEF8C
+
+TelaEmailDeParaTM1 equ 0x086D5802
+TelaEmailDeParaTM2 equ 0x086D5B46
+TelaEmailDeParaTM3 equ 0x086D5D2A
+TelaEmailDeParaTM4 equ 0x086D585A
+TelaEmailDeParaTM5 equ 0x086D5B9E
+TelaEmailDeParaTM6 equ 0x086D5D82
+
+TelaMegamanNomesPequenosTM1 equ 0x086D76FA
+TelaMegamanNomesPequenosTM2 equ 0x086D7810
+TelaMegamanNomesPequenosTM3 equ 0x086D792A
+
+TelaRecordesOAM1 equ 0x0810B404
+TelaRecordesOAM2 equ 0x0810B408
+TelaRecordesOAM3 equ 0x0810B40C
+TelaRecordesOAM4 equ 0x0810B410
+
+TelasMenusCimaPastas equ 0x086D27B8
+TelasMenusCimaEditarPasta equ 0x086D3F8C
+TelasMenusCimaSubchips equ 0x086D6340
+TelasMenusCimaColecao equ 0x086D7C20
+TelasMenusCimaTempoDeLuta equ 0x086D9760
+TelasMenusCimaCustomizadorDeNavi equ 0x086EDC4C
+TelasMenusCimaItens equ 0x086D6970
+TelasMenusCimaRede equ 0x086D8CE8
+TelasMenusCimaSalvar equ 0x086D4C34
+TelasMenusCimaTrocaDeChips1 equ 0x086DA0C0
+TelasMenusCimaTrocaDeChips2 equ 0x086DA760
+TelasMenusCimaTrocaDeProgramas equ 0x086D9C10
+TelasMenusCimaInscreverNavi equ 0x086DB4D2
+TelasMenusCimaRegistro equ 0x086DB022
+TelasMenusCimaTrocaChips equ 0x0870342C
+TelasMenusCimaBatalhaDeOperacao equ 0x086D92AE
+
+TelasMenusBaixoPastas equ 0x086D27F4
+TelasMenusBaixoEditarPasta equ 0x086D3FC8
+TelasMenusBaixoSubchips equ 0x086D637C
+TelasMenusBaixoColecao equ 0x086D7C5C
+TelasMenusBaixoTempoDeLuta equ 0x086D979C
+TelasMenusBaixoCustomizadorDeNavi equ 0x086EDC88
+TelasMenusBaixoItens equ 0x086D69AC
+TelasMenusBaixoRede equ 0x086D8D24
+TelasMenusBaixoSalvar equ 0x086D4C70
+TelasMenusBaixoTrocaDeChips1 equ 0x086DA0FC
+TelasMenusBaixoTrocaDeChips2 equ 0x086DA79C
+TelasMenusBaixoTrocaDeProgramas equ 0x086D9C4C
+TelasMenusBaixoInscreverNavi equ 0x086DB50E
+TelasMenusBaixoRegistro equ 0x086DB05E
+TelasMenusBaixoTrocaChips equ 0x08703468
+TelasMenusBaixoBatalhaDeOperacao equ 0x086D92EA
+
+ChipSelect equ 0x087086E0
+ChipDataTransmission equ 0x0873C838
+NoDataSelected equ 0x0873CD78
+NoData equ 0x08755270
+ShuffleFolder equ 0x0873D7F8
+Unite equ 0x08748058
+Shuffle equ 0x08709E00
+
+TelaBatalhaIniciarBatalha equ 0x08016CA8
+TelaBatalhaInimigoDeletado equ 0x08016CFC
+TelaBatalhaMegamanDeletado equ 0x08016D50
+TelaBatalhaIniciarTurnoX equ 0x08016DA4
+TelaBatalhaTurnoFinal equ 0x08016DFC
+TelaBatalhaVenceu equ 0x08016E50
+TelaBatalhaPerdeu equ 0x08016EA4
+TelaBatalhaEmpate equ 0x08016EF8
+TelaBatalhaBattleX equ 0x08016F4C
+TelaBatalhaBandeiraDeletada equ 0x0801704C
+TelaBatalhaIniciarBatalhaX equ 0x080170A0
+TelaBatalhaMegamanVenceu equ 0x0801714C
+TelaBatalhaRollVenceu equ 0x080171A0
+TelaBatalhaGutsmanVenceu equ 0x080171F4
+TelaBatalhaWindmanVenceu equ 0x08017248
+TelaBatalhaSearchmanVenceu equ 0x0801729C
+TelaBatalhaFiremanVenceu equ 0x080172F0
+TelaBatalhaThundrmanVenceu equ 0x08017344
+TelaBatalhaProtomanVenceu equ 0x08017398
+TelaBatalhaNumbrmanVenceu equ 0x080173EC
+TelaBatalhaMetalmanVenceu equ 0x08017440
+TelaBatalhaJunkmanVenceu equ 0x08017494
+TelaBatalhaAquamanVenceu equ 0x080174E8
+TelaBatalhaWoodmanVenceu equ 0x0801753C
+TelaBatalhaNomlnaviVenceu equ 0x08017590
+TelaBatalhaHealnaviVenceu equ 0x080175E4
+TelaBatalhaRollDeletada equ 0x08017638
+TelaBatalhaGutsmanDeletado equ 0x0801768C
+TelaBatalhaWindmanDeletado equ 0x080176E0
+TelaBatalhaSearchmanDeletado equ 0x08017734
+TelaBatalhaFiremanDeletado equ 0x08017788
+TelaBatalhaThundrmanDeletado equ 0x080177DC
+TelaBatalhaProtomanDeletado equ 0x08017830
+TelaBatalhaNumbrmanDeletado equ 0x08017884
+TelaBatalhaMetalmanDeletado equ 0x080178D8
+TelaBatalhaJunkmanDeletado equ 0x0801792C
+TelaBatalhaAquamanDeletado equ 0x08017980
+TelaBatalhaWoodmanDeletado equ 0x080179D4
+
+Advance equ 0x08750400
+LorR equ 0x0870A500
+Pause equ 0x0870CB40
+
+PressAButtonRecord equ 0x08753F70
+AttackPlus10 equ 0x087297B8
+AttackPlus30 equ 0x087300B8
+Points equ 0x084BF7AC
+FireplusAquaPowrThunPlusWoodPowr equ 0x0870A7C0
+ZennyBugFrag1Loja equ 0x087014E4
+ZennyBugFrag2Loja equ 0x08701B84
+MoveRemove equ 0x086F1760
+SelectBattleSkip equ 0x0870AE40
+PresentedBy equ 0x087EF130
+Block equ 0x084C38B4
+
+PonteiroLogoTelaTitulo equ 0x0802595C
+PonteirosNomesTelaTitulo1 equ 0x0802594C
+PonteirosNomesTelaTitulo2 equ 0x08025978
+PonteirosNomesTelaTitulo3 equ 0x0802597c
+PonteirosNomesTelaTitulo4 equ 0x08025950
+PonteiroCidadeACDCHigsbys equ 0x08028370
+PonteiroPaginaDoLanBemVindo equ 0x0802858C
+PonteiroAmeropaAnsa equ 0x080284F0
+PonteiroTelaSubchipsNomesDireita equ 0x08031F34
+PonteiroTelaEmailNew equ 0x08031994
+PonteiroTelaRecordes equ 0x0803BC7C
+PonteiroTelaMegamanAnimacaoNaviCustomizerVertical equ 0x080418A4
+PonteiroTelaMegamanAnimacaoNaviCustomizerLetrasMiudas equ 0x080418A0
+PonteiroGameOver equ 0x08048C78
+PonteiroGameOverTM equ 0x08048C84
