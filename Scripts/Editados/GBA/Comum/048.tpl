@@ -13,7 +13,7 @@ script 2 mmbn4s {
 	end
 }
 script 3 mmbn4s {
-	"FIM DE TEMPO!"
+	"TEMPOESG"
 	end
 }
 script 4 mmbn4s {

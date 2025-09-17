@@ -187,6 +187,8 @@
     .stringn 0x28,0x40,0x00,0x00,"< MEGAMAN DELETADO!>"
 .org TelaBatalhaIniciarTurnoX
     .stringn 0x28,0x40,0x01,0x00,"< INICIAR TURNO   !>"
+.org TelaBatalhaIniciarTurnoXPos
+    .stringn 0xA8,0x40,0x00,0x00
 .org TelaBatalhaTurnoFinal
     .stringn 0x38,0x40,0x00,0x00,"< TURNO FINAL! >"
 .org TelaBatalhaVenceu
@@ -197,10 +199,16 @@
     .stringn 0x4C,0x40,0x00,0x00,"< EMPATE! >"
 .org TelaBatalhaBattleX
     .stringn 0x40,0x40,0x01,0x00,"< BATALHA    >"
+.org TelaBatalhaBattleXPos
+    .stringn 0x94,0x40,0x00,0x00
+.org TelaBatalhaAnalisarDados
+    .stringn 0x2C,0x10,0x02,0x00,"< ANALISAR DANOS! >_"
 .org TelaBatalhaBandeiraDeletada
     .stringn 0x28,0x40,0x00,0x00,"<BANDEIRA DELETADA!>"
 .org TelaBatalhaIniciarBatalhaX
     .stringn 0x28,0x40,0x01,0x00,"<INICIAR BATALHA   >"
+.org TelaBatalhaIniciarBatalhaXPos
+    .stringn 0xAC,0x40,0x00,0x00
 .org TelaBatalhaMegamanVenceu
     .stringn 0x2C,0x40,0x00,0x00,"< MEGAMAN VENCEU! >"
 .org TelaBatalhaRollVenceu

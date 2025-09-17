@@ -78,13 +78,17 @@ TelaBatalhaIniciarBatalha equ 0x08016CA8
 TelaBatalhaInimigoDeletado equ 0x08016CFC
 TelaBatalhaMegamanDeletado equ 0x08016D50
 TelaBatalhaIniciarTurnoX equ 0x08016DA4
+TelaBatalhaIniciarTurnoXPos equ 0x08016DF8
 TelaBatalhaTurnoFinal equ 0x08016DFC
 TelaBatalhaVenceu equ 0x08016E50
 TelaBatalhaPerdeu equ 0x08016EA4
 TelaBatalhaEmpate equ 0x08016EF8
 TelaBatalhaBattleX equ 0x08016F4C
+TelaBatalhaBattleXPos equ 0x08016FA0
+TelaBatalhaAnalisarDados equ 0x08016FF8
 TelaBatalhaBandeiraDeletada equ 0x0801704C
 TelaBatalhaIniciarBatalhaX equ 0x080170A0
+TelaBatalhaIniciarBatalhaXPos equ 0x080170F4
 TelaBatalhaMegamanVenceu equ 0x0801714C
 TelaBatalhaRollVenceu equ 0x080171A0
 TelaBatalhaGutsmanVenceu equ 0x080171F4
