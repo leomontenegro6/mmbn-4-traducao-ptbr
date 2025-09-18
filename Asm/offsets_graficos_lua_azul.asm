@@ -119,7 +119,15 @@ Advance equ 0x0874FE90
 LorR equ 0x08709FF4
 Pause equ 0x0870C634
 
+ResultPostBattle equ 0x08750930
+ResultPostBattleTM equ 0x08752B90
 PressAButtonRecord equ 0x08753A00
+
+WinnerPostLinkBattle equ 0x08751410
+WinnerPostLinkBattleTM equ 0x08752EC0
+LoserPostLinkBattle equ 0x087520B0
+LoserPostLinkBattleTM equ 0x087531F0
+
 AttackPlus10 equ 0x087292AC
 AttackPlus30 equ 0x0872FBAC
 Points equ 0x084BF734

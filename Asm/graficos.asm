@@ -202,7 +202,7 @@
 .org TelaBatalhaBattleXPos
     .stringn 0x94,0x40,0x00,0x00
 .org TelaBatalhaAnalisarDados
-    .stringn 0x2C,0x10,0x02,0x00,"< ANALISAR DANOS! >_"
+    .stringn 0x2C,0x10,0x02,0x00,"< DANOS RECEBIDOS >_"
 .org TelaBatalhaBandeiraDeletada
     .stringn 0x28,0x40,0x00,0x00,"<BANDEIRA DELETADA!>"
 .org TelaBatalhaIniciarBatalhaX
@@ -273,8 +273,22 @@
     .incbin "Graficos/Editados/Pause.gba"
 
 ; Telas após vencer batalhas contra vírus comuns.
+.org ResultPostBattle
+    .incbin "Graficos/Editados/Result Post Battle.gba"
+.org ResultPostBattleTM
+    .incbin "Graficos/Editados/Result Post Battle (tm).gba"
 .org PressAButtonRecord
     .incbin "Graficos/Editados/Press A Button Record.gba"
+
+; Telas após vencer ou perder batalhas em modo link.
+.org WinnerPostLinkBattle
+    .incbin "Graficos/Editados/Winner Post Link Battle.gba"
+.org WinnerPostLinkBattleTM
+    .incbin "Graficos/Editados/Winner Post Link Battle (tm).gba"
+.org LoserPostLinkBattle
+    .incbin "Graficos/Editados/Loser Post Link Battle.gba"
+.org LoserPostLinkBattleTM
+    .incbin "Graficos/Editados/Loser Post Link Battle (tm).gba"
 
 ; Nomes de chip de boost de ataque.
 .org AttackPlus10
