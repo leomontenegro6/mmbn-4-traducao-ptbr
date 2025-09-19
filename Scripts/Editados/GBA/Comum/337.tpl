@@ -633,23 +633,24 @@ script 30 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	JO, JO, JO...
-	JOMON...!
+	♪JO-JOMON!
+	TEMOS QUE COMPRAR!
+	ISSO EU SEI!♪
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	JO, JO, JO...
-	JOMON...!
+	♪COMPRÁ-LOS EU
+	TENTAREI! VAI SER
+	TANTA PROMOÇÃO!♪
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A JOMON ELETRÔNICOS
-	É SIMPLESMENTE SEM
-	IGUAL!
+	♪JO-JOMON!
+	TEMOS QUE COMPRAR!♪
 	"""
 	keyWait
 		any = false

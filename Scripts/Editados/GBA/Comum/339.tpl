@@ -5,22 +5,31 @@ script 30 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	JO-JO-JO-JO-
-	JOMON!
+	♪NÓS COMPRAMOS 
+	ELETROS NO JOMON!
+	JO-JOMON!♪
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	JOJOJOJO-
-	JOMON!
+	♪EU QUERO SER O MELHOR
+	DOS COMPRADORES!♪
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	JOMON ELETRÔN--
-	AH, ESQUECE O RESTO!
+	♪VOU PASSAR NO TESTE
+	E SEREI O MELHOR DOS...♪
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	AH, ESQUECE.
+	ESSE RAP AINDA
+	NÃO TÁ BOM.
 	"""
 	keyWait
 		any = false
@@ -31,17 +40,15 @@ script 31 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	FORNECER SOM LIMPO
-	E CLARO É O NOSSO
-	TRABALHO!
+	A MÚSICA-TEMA ANTERIOR
+	JÁ TÁ FICANDO MANJADA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ESTAMOS
-	REPRODUZINDO
-	NOSSA MÚSICA-TEMA!
+	ENTÃO ESTAMOS CRIANDO
+	UMA MÚSICA-TEMA NOVA!
 	"""
 	keyWait
 		any = false
