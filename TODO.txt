@@ -4,8 +4,6 @@
 - Torneio livre (iniciado na loja do Higsby)
   - Editar gráficos "Free Tournament" e "Champion"
 - Nomes de localidades no metrô/aeroporto
-  - Editar "DENDOME" / "ELECTOWN" / "ACDCTOWN" / "CASTILLO" / "DENARPRT"
-  - Editar "NETFRICA" / "YUMLAND" / "SHARO" / "ELECTOPIA" / "NETOPIA" / "NAXA"
   - Editar "WORLD MAP" no background
 - Gráficos de cenários pra editar:
   - Loja do Higsby: Editas placas do cenário (Editado)

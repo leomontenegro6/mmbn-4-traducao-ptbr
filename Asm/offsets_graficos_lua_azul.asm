@@ -144,6 +144,7 @@ PonteirosNomesTelaTitulo1 equ 0x08025950
 PonteirosNomesTelaTitulo2 equ 0x0802597c
 PonteirosNomesTelaTitulo3 equ 0x08025980
 PonteirosNomesTelaTitulo4 equ 0x08025954
+PonteiroLetrasNomesLocalidades equ 0x08043698
 PonteiroCidadeACDCHigsbys equ 0x08028374
 PonteiroPaginaDoLanBemVindo equ 0x08028590
 PonteiroAmeropaAnsa equ 0x080284F4

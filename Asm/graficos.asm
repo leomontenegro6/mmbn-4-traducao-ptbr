@@ -338,6 +338,8 @@
     .dw NomesTelaTitulo3
 .org PonteirosNomesTelaTitulo4
     .dw NomesTelaTitulo4
+.org PonteiroLetrasNomesLocalidades
+    .dw LetrasNomesLocalidades
 .org PonteiroCidadeACDCHigsbys
     .dw CidadeACDCHigsbys
 .org PonteiroPaginaDoLanBemVindo
@@ -393,6 +395,10 @@ NomesTelaTitulo4:
     .elseif versao == 0
         .lz77gba "Graficos/Editados/Nomes tela-titulo 4 (SV).gba"
     .endif
+    .align
+
+LetrasNomesLocalidades:
+    .lz77gba "Graficos/Editados/Letras Nomes Localidades.gba"
     .align
 
 CidadeACDCHigsbys:

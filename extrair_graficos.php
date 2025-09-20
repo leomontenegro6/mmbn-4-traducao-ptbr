@@ -1,5 +1,6 @@
 <?php
 $graficos = [
+    (object)['nome' => 'GET', 'offset' => '0x3A1EE4', 'tiles' => '4x3'],
     (object)['nome' => 'Trap1', 'offset' => '0x3D5FCC', 'tiles' => '1x4'],
     (object)['nome' => 'Trap2', 'offset' => '0x3D61F0', 'tiles' => '2x4'],
     (object)['nome' => 'Trap3', 'offset' => '0x3D64F4', 'tiles' => '2x4'],
@@ -7,6 +8,7 @@ $graficos = [
     (object)['nome' => 'Round 1', 'offset' => '0x4BA230', 'tiles' => '1x13'],
     (object)['nome' => 'Round 2', 'offset' => '0x4BA3D4', 'tiles' => '1x13'],
     (object)['nome' => 'Final', 'offset' => '0x4BA578', 'tiles' => '1x9'],
+    (object)['nome' => 'THUD', 'offset' => '0x4BF450', 'tiles' => '4x3'],
     (object)['nome' => 'Points', 'offset' => '0x4BF7AC', 'tiles' => '4x9'],
     (object)['nome' => 'Temp', 'offset' => '0x4C21A8', 'tiles' => '4x12'],
     (object)['nome' => 'Block', 'offset' => '0x4C38B4', 'tiles' => '1x26'],
