@@ -14,6 +14,9 @@ Sort equ 0x086DDF30
 SortTM equ 0x086DE752
 SneakRunUntrapLocEnemyOnTM equ 0x086DEA80
 
+MenuPet1TM1 equ 0x086EB3CC
+MenuPet1TM2 equ 0x086EB4CC
+
 TelaEmailDeParaTM1 equ 0x086D52F6
 TelaEmailDeParaTM2 equ 0x086D563A
 TelaEmailDeParaTM3 equ 0x086D581E
