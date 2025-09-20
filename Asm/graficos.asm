@@ -178,6 +178,8 @@
     .incbin "Graficos/Editados/Unite.gba"
 .org Shuffle
     .incbin "Graficos/Editados/Shuffle.gba"
+.org BusyPlanbFinalturn
+    .incbin "Graficos/Editados/Busy Plan-B Final Turn.gba"
 
 ; OAMs dos nomes da tela de batalha, exibidos ora antes dos turnos, ora no final delas
 .if versao == 1

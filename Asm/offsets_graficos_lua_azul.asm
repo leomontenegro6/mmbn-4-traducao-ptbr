@@ -74,6 +74,7 @@ NoData equ 0x08754D00
 ShuffleFolder equ 0x0873D2EC
 Unite equ 0x08747B4C
 Shuffle equ 0x087098F4
+BusyPlanbFinalturn equ 0x08750390
 
 TelaBatalhaIniciarBatalha equ 0x08016CA8
 TelaBatalhaInimigoDeletado equ 0x08016CFC

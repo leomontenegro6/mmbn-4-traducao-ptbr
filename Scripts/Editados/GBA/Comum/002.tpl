@@ -3192,7 +3192,7 @@ script 179 mmbn4s {
 		minLength = 3
 		padZeros = false
 		padLeft = true
-	"W"
+	"V"
 	end
 }
 script 180 mmbn4s {
