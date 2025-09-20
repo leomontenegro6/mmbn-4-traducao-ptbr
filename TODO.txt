@@ -1,5 +1,5 @@
-- Menu exibido ao apertar Start
-  - Submenu "Rede" (editar gráficos da tela de troca de chips/programas)
+- Menus de fóruns
+  - Editar "Chat BS" / "Battle BS" / "Under BS"
 - Torneio livre (iniciado na loja do Higsby)
   - Editar gráficos "Free Tournament" e "Champion"
 - Nomes de localidades no metrô/aeroporto

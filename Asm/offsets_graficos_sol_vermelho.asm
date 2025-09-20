@@ -35,6 +35,8 @@ TelaRecordesOAM2 equ 0x0810B408
 TelaRecordesOAM3 equ 0x0810B40C
 TelaRecordesOAM4 equ 0x0810B410
 
+TelaRedeTrocaChipsProgramasSelecting equ 0x086DAC44
+
 TelasMenusCimaPastas equ 0x086D27B8
 TelasMenusCimaEditarPasta equ 0x086D3F8C
 TelasMenusCimaSubchips equ 0x086D6340
@@ -159,5 +161,7 @@ PonteiroTelaEmailNew equ 0x08031994
 PonteiroTelaRecordes equ 0x0803BC7C
 PonteiroTelaMegamanAnimacaoNaviCustomizerVertical equ 0x080418A4
 PonteiroTelaMegamanAnimacaoNaviCustomizerLetrasMiudas equ 0x080418A0
+PonteiroTelaRedeTrocaChipsOkYesNoWait equ 0x0803CF14
+PonteiroTelaRedeTrocaProgramasOkYesNoWait equ 0x0803E490
 PonteiroGameOver equ 0x08048C78
 PonteiroGameOverTM equ 0x08048C84

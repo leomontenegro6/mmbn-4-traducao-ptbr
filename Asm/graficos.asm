@@ -93,6 +93,10 @@
 .org TelaRecordesOAM4
     .stringn 0xD6
 
+; Menu Rede, troca de chips/programas
+.org TelaRedeTrocaChipsProgramasSelecting
+    .incbin "Graficos/Editados/Selecting.gba"
+
 ; Editando tilemap dos submenus, na parte de cima das letras
 .loadtable "Tabelas/Telas Menus - Nomes Parte Cima.tbl"
 .org TelasMenusCimaPastas
@@ -364,6 +368,10 @@
     .dw TelaMegamanAnimacaoNaviCustomizerVertical
 .org PonteiroTelaMegamanAnimacaoNaviCustomizerLetrasMiudas
     .dw TelaMegamanAnimacaoNaviCustomizerLetrasMiudas
+.org PonteiroTelaRedeTrocaChipsOkYesNoWait
+    .dw TelaRedeTrocaChipsProgramasOkYesNoWait
+.org PonteiroTelaRedeTrocaProgramasOkYesNoWait
+    .dw TelaRedeTrocaChipsProgramasOkYesNoWait
 .org PonteiroGameOver
     .dw GameOver
 .org PonteiroGameOverTM
@@ -447,6 +455,10 @@ TelaMegamanAnimacaoNaviCustomizerVertical:
 
 TelaMegamanAnimacaoNaviCustomizerLetrasMiudas:
     .lz77gba "Graficos/Editados/Navi Customizer letras miudas.gba"
+    .align
+
+TelaRedeTrocaChipsProgramasOkYesNoWait:
+    .lz77gba "Graficos/Editados/Nomes tela troca chips.gba"
     .align
 
 GameOver:

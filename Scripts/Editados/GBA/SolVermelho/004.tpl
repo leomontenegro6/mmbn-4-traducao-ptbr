@@ -7,7 +7,7 @@ script 134 mmbn4 {
 		arrowDistance = 3
 	textSpeed
 		delay = 0
-	"All changes OFF"
+	"Mudanças DESL."
 	waitHold
 }
 script 135 mmbn4 {
@@ -17,6 +17,6 @@ script 135 mmbn4 {
 		arrowDistance = 3
 	textSpeed
 		delay = 0
-	"All changes ON"
+	"Mudanças LIGADAS"
 	waitHold
 }
