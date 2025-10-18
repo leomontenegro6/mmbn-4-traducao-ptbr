@@ -334,6 +334,16 @@
 .org PresentedBy
     .incbin "Graficos/Editados/Presented By.gba"
 
+; Gráfico exibido após ativar uma armadilha.
+.org Trap1
+    .incbin "Graficos/Editados/Trap1.gba"  
+.org Trap2
+    .incbin "Graficos/Editados/Trap2.gba" 
+.org Trap3
+    .incbin "Graficos/Editados/Trap3.gba"
+.org Trap4
+    .incbin "Graficos/Editados/Trap4.gba"
+
 ; Gráfico do mapa-múndi, ao acessar o Aeroporto.
 .org WorldMap
     .incbin "Graficos/Editados/World Map.gba"

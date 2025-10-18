@@ -143,6 +143,10 @@ ZennyBugFrag2Loja equ 0x08701678
 MoveRemove equ 0x086F1254
 SelectBattleSkip equ 0x0870A934
 PresentedBy equ 0x087EEBD4
+Trap1 equ 0x083D5FCC
+Trap2 equ 0x083D61F0
+Trap3 equ 0x083D64F4
+Trap4 equ 0x083D6778
 WorldMap equ 0x086B3670
 WorldMapTM equ 0x086C324C
 
