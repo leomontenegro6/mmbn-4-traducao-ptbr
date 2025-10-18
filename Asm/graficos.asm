@@ -334,10 +334,6 @@
 .org PresentedBy
     .incbin "Graficos/Editados/Presented By.gba"
 
-; Gráfico exibido durante os treinos do Kendoman.
-.org Block
-    .incbin "Graficos/Editados/Block.gba"
-
 ; Gráficos inseridos no final da rom, em sua maioria comprimidos.
 ; Catalogando ponteiros dos gráficos.
 .org PonteiroLogoTelaTitulo
@@ -372,6 +368,10 @@
     .dw TelaRedeTrocaChipsProgramasOkYesNoWait
 .org PonteiroTelaRedeTrocaProgramasOkYesNoWait
     .dw TelaRedeTrocaChipsProgramasOkYesNoWait
+.org PonteiroGet
+    .dw Get
+.org PonteiroBlock
+    .dw Block
 .org PonteiroGameOver
     .dw GameOver
 .org PonteiroGameOverTM
@@ -459,6 +459,14 @@ TelaMegamanAnimacaoNaviCustomizerLetrasMiudas:
 
 TelaRedeTrocaChipsProgramasOkYesNoWait:
     .lz77gba "Graficos/Editados/Nomes tela troca chips.gba"
+    .align
+
+Get:
+    .incbin "Graficos/Editados/Get.gba"
+    .align
+
+Block:
+    .incbin "Graficos/Editados/Block.gba"
     .align
 
 GameOver:

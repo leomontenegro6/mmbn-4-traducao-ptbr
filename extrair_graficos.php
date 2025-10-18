@@ -1,6 +1,5 @@
 <?php
 $graficos = [
-    (object)['nome' => 'GET', 'offset' => '0x3A1EE4', 'tiles' => '4x3'],
     (object)['nome' => 'Trap1', 'offset' => '0x3D5FCC', 'tiles' => '1x4'],
     (object)['nome' => 'Trap2', 'offset' => '0x3D61F0', 'tiles' => '2x4'],
     (object)['nome' => 'Trap3', 'offset' => '0x3D64F4', 'tiles' => '2x4'],
@@ -11,7 +10,6 @@ $graficos = [
     (object)['nome' => 'THUD', 'offset' => '0x4BF450', 'tiles' => '4x3'],
     (object)['nome' => 'Points', 'offset' => '0x4BF7AC', 'tiles' => '4x9'],
     (object)['nome' => 'Temp', 'offset' => '0x4C21A8', 'tiles' => '4x12'],
-    (object)['nome' => 'Block', 'offset' => '0x4C38B4', 'tiles' => '1x26'],
     (object)['nome' => 'Fonte textos', 'offset' => '0x694F5C', 'tiles' => '1x1323'],
     (object)['nome' => 'Fonte textos sombra', 'offset' => '0x6C7C50', 'tiles' => '16x20'],
     (object)['nome' => 'Fonte grande', 'offset' => '0x68DF5C', 'tiles' => '16x20'],

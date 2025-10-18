@@ -145,7 +145,6 @@ ZennyBugFrag2Loja equ 0x08701B84
 MoveRemove equ 0x086F1760
 SelectBattleSkip equ 0x0870AE40
 PresentedBy equ 0x087EF130
-Block equ 0x084C38B4
 
 PonteiroLogoTelaTitulo equ 0x0802595C
 PonteirosNomesTelaTitulo1 equ 0x0802594C
@@ -163,5 +162,7 @@ PonteiroTelaMegamanAnimacaoNaviCustomizerVertical equ 0x080418A4
 PonteiroTelaMegamanAnimacaoNaviCustomizerLetrasMiudas equ 0x080418A0
 PonteiroTelaRedeTrocaChipsOkYesNoWait equ 0x0803CF14
 PonteiroTelaRedeTrocaProgramasOkYesNoWait equ 0x0803E490
+PonteiroGet equ 0x08027B9C
+PonteiroBlock equ 0x08028264
 PonteiroGameOver equ 0x08048C78
 PonteiroGameOverTM equ 0x08048C84

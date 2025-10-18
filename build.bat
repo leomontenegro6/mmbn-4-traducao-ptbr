@@ -27,6 +27,9 @@ echo ==Gerando rom traduzida da versao Sol Vermelho.
 echo ==Aplicando patches extras na rom modificada:==
 
 echo ==Graficos==
+cd ".\Ferramentas\mmbn4-dmp-to-gba\"
+call converter.bat
+cd "..\..\"
 cd ".\Ferramentas\mmbn4-bg-graphic-unpacker\"
 call remontar.bat
 cd "..\..\"
@@ -48,6 +51,9 @@ echo ==Gerando rom traduzida da versao Lua Azul.
 echo ==Aplicando patches extras na rom modificada:==
 
 echo ==Graficos==
+cd ".\Ferramentas\mmbn4-dmp-to-gba\"
+call converter.bat
+cd "..\..\"
 cd ".\Ferramentas\mmbn4-bg-graphic-unpacker\"
 call remontar.bat
 cd "..\..\"
