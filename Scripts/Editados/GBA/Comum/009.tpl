@@ -206,7 +206,7 @@ script 20 mmbn4s {
 	end
 }
 script 21 mmbn4s {
-	"Aperte★♥♦♣t"
+	"[A][P][E][D][F][I]★♥♦♣[G]"
 	end
 }
 script 22 mmbn4 {
