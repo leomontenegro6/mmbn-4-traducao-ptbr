@@ -146,6 +146,7 @@ MoveRemove equ 0x086F1760
 SelectBattleSkip equ 0x0870AE40
 PresentedBy equ 0x087EF130
 WorldMap equ 0x086B3B2C
+WorldMapTM equ 0x086C3708
 
 PonteiroLogoTelaTitulo equ 0x0802595C
 PonteirosNomesTelaTitulo1 equ 0x0802594C

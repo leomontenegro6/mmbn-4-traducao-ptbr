@@ -337,6 +337,8 @@
 ; Gráfico do mapa-múndi, ao acessar o Aeroporto.
 .org WorldMap
     .incbin "Graficos/Editados/World Map.gba"
+.org WorldMapTM
+    .incbin "Graficos/Editados/World Map (tm).gba"
 
 ; Gráficos inseridos no final da rom, em sua maioria comprimidos.
 ; Catalogando ponteiros dos gráficos.

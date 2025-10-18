@@ -1,0 +1,9 @@
+Import-Bitmap "World Map.png"
+Extract-Palettes --palette-size 256
+Generate-Tilemap GBA-8BPP
+
+Render-Tileset --tiles-per-row 16
+Export-Bitmap "World Map (editado).png"
+
+Serialize-Tilemap --base-tile 1 --first-tile 1
+Export-Bytes "World Map (tm) (editado).gba"
