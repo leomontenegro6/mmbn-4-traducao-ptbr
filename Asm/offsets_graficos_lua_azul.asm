@@ -143,6 +143,7 @@ ZennyBugFrag2Loja equ 0x08701678
 MoveRemove equ 0x086F1254
 SelectBattleSkip equ 0x0870A934
 PresentedBy equ 0x087EEBD4
+WorldMap equ 0x086B3670
 
 PonteiroLogoTelaTitulo equ 0x08025960
 PonteirosNomesTelaTitulo1 equ 0x08025950

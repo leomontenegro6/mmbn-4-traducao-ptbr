@@ -11,6 +11,8 @@ $graficos = [
     (object)['nome' => 'Points', 'offset' => '0x4BF7AC', 'tiles' => '4x9'],
     (object)['nome' => 'Temp', 'offset' => '0x4C21A8', 'tiles' => '4x12'],
     (object)['nome' => 'Fonte textos', 'offset' => '0x694F5C', 'tiles' => '1x1323'],
+    (object)['nome' => 'Den City', 'offset' => '0x6AE26C', 'tiles' => '1x355', 'codec' => '8bpp'],
+    (object)['nome' => 'World Map', 'offset' => '0x6B3B2C', 'tiles' => '1x358', 'codec' => '8bpp'],
     (object)['nome' => 'Fonte textos sombra', 'offset' => '0x6C7C50', 'tiles' => '16x20'],
     (object)['nome' => 'Fonte grande', 'offset' => '0x68DF5C', 'tiles' => '16x20'],
     (object)['nome' => 'Licenciado pela Nintendo', 'offset' => '0x6ADBC0', 'tiles' => '1x14'],
@@ -50,7 +52,9 @@ foreach($graficos as $g) {
     $caminho = "Graficos/Originais/{$g->nome}.gba";
     $offset_decimal = hexdec(str_replace('0x', '', $g->offset));
     $tiles = explode('x', $g->tiles);
-    $tamanho = $tiles[0] * $tiles[1] * 32;
+    $codec = $g->codec ?? '4bpp';
+    $tile_size = ($codec == '8bpp') ? (64) : (32);
+    $tamanho = $tiles[0] * $tiles[1] * $tile_size;
 
     shell_exec("dd if=\"Mega Man Battle Network 4 - Red Sun (USA).gba\" of=\"$caminho\" skip=$offset_decimal count=$tamanho bs=1");
 }

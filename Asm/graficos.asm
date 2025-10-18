@@ -334,6 +334,10 @@
 .org PresentedBy
     .incbin "Graficos/Editados/Presented By.gba"
 
+; Gráfico do mapa-múndi, ao acessar o Aeroporto.
+.org WorldMap
+    .incbin "Graficos/Editados/World Map.gba"
+
 ; Gráficos inseridos no final da rom, em sua maioria comprimidos.
 ; Catalogando ponteiros dos gráficos.
 .org PonteiroLogoTelaTitulo
