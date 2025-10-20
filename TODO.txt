@@ -1,4 +1,3 @@
-- Corrigir bug do gráfico "GET", que tá com um tile cortado pro conta de ter sido expandido demais
 - Menus de fóruns
   - Editar "Chat BS" / "Battle BS" / "Under BS"
 - Torneio livre (iniciado na loja do Higsby)
