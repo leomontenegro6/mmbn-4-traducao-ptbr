@@ -350,7 +350,9 @@
 .org WorldMapTM
     .incbin "Graficos/Editados/World Map (tm).gba"
 
-; Tilemaps das telas de fóruns
+; Gráfiso e tilemaps das telas de fóruns
+.org NewForuns
+    .incbin "Graficos/Editados/New (foruns).gba"
 .org BattleBbsTM
     .incbin "Graficos/Editados/Battle BBS (tm).gba"
 .org ChatBbsTM
@@ -394,6 +396,8 @@
     .dw TelaRedeTrocaChipsProgramasOkYesNoWait
 .org PonteiroTelasForuns
     .dw TelasForuns
+.org PonteiroLetreirosTorneios
+    .dw LetreirosTorneios
 .org PonteiroGet
     .dw Get
 .org PonteiroBlock
@@ -489,6 +493,14 @@ TelaRedeTrocaChipsProgramasOkYesNoWait:
 
 TelasForuns:
     .incbin "Graficos/Editados/Telas Foruns (Comprimido).gba"
+    .align
+
+LetreirosTorneios:
+    .if versao == 1
+        .lz77gba "Graficos/Editados/Letreiros torneios (LA).gba"
+    .elseif versao == 0
+        .lz77gba "Graficos/Editados/Letreiros torneios (SV).gba"
+    .endif
     .align
 
 Get:

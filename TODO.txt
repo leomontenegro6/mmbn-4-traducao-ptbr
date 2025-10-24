@@ -1,5 +1,3 @@
-- Menus de fóruns
-  - Editar "Chat BS" / "Battle BS" / "Under BS"
 - Torneio livre (iniciado na loja do Higsby)
   - Editar gráficos "Free Tournament" e "Champion"
 - Gráficos de cenários pra editar:
@@ -9,4 +7,5 @@
   - Castilo: Placas de "GIFTS", "EXIT", "JUNGLE" e "SNACKS"
   - Castilo: Placas de "Restaurant", "Photo Studio" e "SNACKS"
   - Ameropa: Placa de INFORMATION no saguão da NAXA
+  - Rede da Ameropa: Letreiro de "Welcome" estático (parecido com o do PC do Lan)
 - Preparar lançamento da versão beta
