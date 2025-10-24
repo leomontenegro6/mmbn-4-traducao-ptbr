@@ -6,7 +6,7 @@
 | 0x4C3FA0 | Letras Nomes Localidades                    | 4bpp  | Sim     |
 | 0x4BF70C | 88 Points                                   | 4bpp  |         |
 | 0x6F1740 | Move Remove                                 | 4bpp  |         |
-| 0x6FAE48 | Chat BS / Battle BS / Under BS              | 4bpp  |         |
+| 0x6FAE48 | Chat BS / Battle BS / Under BS              | 4bpp  | Sim     |
 | 0x6F6394 | NAVI CUSTOMIZER (Vertical)                  | 4bpp  | Sim     |
 | 0x6F62EC | NAVI CUSTOMIZER (Letras miúdas horizontais) | 4bpp  | Sim     |
 | 0x6F49A4 | MY RS BM RECORD ATK                         | 4bpp  | Sim     |

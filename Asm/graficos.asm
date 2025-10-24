@@ -350,6 +350,14 @@
 .org WorldMapTM
     .incbin "Graficos/Editados/World Map (tm).gba"
 
+; Tilemaps das telas de fóruns
+.org BattleBbsTM
+    .incbin "Graficos/Editados/Battle BBS (tm).gba"
+.org ChatBbsTM
+    .incbin "Graficos/Editados/Chat BBS (tm).gba"
+.org UnderBbsTM
+    .incbin "Graficos/Editados/Under BBS (tm).gba"
+
 ; Gráficos inseridos no final da rom, em sua maioria comprimidos.
 ; Catalogando ponteiros dos gráficos.
 .org PonteiroLogoTelaTitulo
@@ -384,6 +392,8 @@
     .dw TelaRedeTrocaChipsProgramasOkYesNoWait
 .org PonteiroTelaRedeTrocaProgramasOkYesNoWait
     .dw TelaRedeTrocaChipsProgramasOkYesNoWait
+.org PonteiroTelasForuns
+    .dw TelasForuns
 .org PonteiroGet
     .dw Get
 .org PonteiroBlock
@@ -475,6 +485,10 @@ TelaMegamanAnimacaoNaviCustomizerLetrasMiudas:
 
 TelaRedeTrocaChipsProgramasOkYesNoWait:
     .lz77gba "Graficos/Editados/Nomes tela troca chips.gba"
+    .align
+
+TelasForuns:
+    .incbin "Graficos/Editados/Telas Foruns (Comprimido).gba"
     .align
 
 Get:

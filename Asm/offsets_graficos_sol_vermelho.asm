@@ -151,6 +151,9 @@ Trap3 equ 0x083D64F4
 Trap4 equ 0x083D6778
 WorldMap equ 0x086B3B2C
 WorldMapTM equ 0x086C3708
+BattleBbsTM equ 0x086FB89C
+ChatBbsTM equ 0x086FB8E0
+UnderBbsTM equ 0x086FB924
 
 PonteiroLogoTelaTitulo equ 0x0802595C
 PonteirosNomesTelaTitulo1 equ 0x0802594C
@@ -168,6 +171,7 @@ PonteiroTelaMegamanAnimacaoNaviCustomizerVertical equ 0x080418A4
 PonteiroTelaMegamanAnimacaoNaviCustomizerLetrasMiudas equ 0x080418A0
 PonteiroTelaRedeTrocaChipsOkYesNoWait equ 0x0803CF14
 PonteiroTelaRedeTrocaProgramasOkYesNoWait equ 0x0803E490
+PonteiroTelasForuns equ 0x08049630
 PonteiroGet equ 0x08027B9C
 PonteiroBlock equ 0x08028264
 PonteiroGameOver equ 0x08048C78
