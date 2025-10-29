@@ -1,5 +1,3 @@
-- Torneio livre (iniciado na loja do Higsby)
-  - Editar gráficos "Free Tournament" e "Champion"
 - Gráficos de cenários pra editar:
   - Loja do Higsby: Editar placas do cenário
   - EletroVila: Placas de "New" e "30% off"
@@ -8,4 +6,5 @@
   - Castilo: Placas de "Restaurant", "Photo Studio" e "SNACKS"
   - Ameropa: Placa de INFORMATION no saguão da NAXA
   - Rede da Ameropa: Letreiro de "Welcome" estático (parecido com o do PC do Lan)
-- Preparar lançamento da versão beta
+- Corrigir bug nos créditos oriundo da fonte VWF
+- Ver como creditar todos os membros da tradução, nos créditos

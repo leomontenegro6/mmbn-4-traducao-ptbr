@@ -13,7 +13,7 @@
 | 0x6F459C | OK? Yes No Wait (Link)                      | 4bpp  | Sim     |
 | 0x6DED4C | SneakRun On / Untrap On / LocEnemy On       | 4bpp  | Sim     |
 | 0x6CF8D0 | New (emails)                                | 4bpp  | Sim     |
-| 0x6C4E40 | The Den-Eagle-RedSun Tournament / Champion  | 4bpp  |         |
+| 0x6C4E40 | The Den-Eagle-RedSun Tournament / Champion  | 4bpp  | Sim     |
 | 0x6ADDBC | Game Over¹                                  | 4bpp  | Sim     |
 | 0x6AE07C | Game Over (Tilemap)                         | 4bpp  | Sim     |
 

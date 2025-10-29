@@ -153,6 +153,10 @@ NewForuns equ 0x086CEE04
 BattleBbsTM equ 0x086FB390
 ChatBbsTM equ 0x086FB3D4
 UnderBbsTM equ 0x086FB34C
+FreeTournamentTM equ 0x086C6F70
+CityBattleTournamentTM equ 0x086C6160
+HawkTournamentTM equ 0x086C6610
+BlueMoonTournamentTM equ 0x086C6AC0
 
 PonteiroLogoTelaTitulo equ 0x08025960
 PonteirosNomesTelaTitulo1 equ 0x08025950

@@ -360,6 +360,27 @@
 .org UnderBbsTM
     .incbin "Graficos/Editados/Under BBS (tm).gba"
 
+; Tilemaps dos letreiros dos torneios
+.if versao == 1
+    .org FreeTournamentTM
+        .incbin "Graficos/Editados/Free Tournament (LA) (tm).gba"
+    .org CityBattleTournamentTM
+        .incbin "Graficos/Editados/City Battle Tournament (LA) (tm).gba"
+    .org HawkTournamentTM
+        .incbin "Graficos/Editados/Hawk Tournament (LA) (tm).gba"
+    .org BlueMoonTournamentTM
+        .incbin "Graficos/Editados/Blue Moon Tournament (LA) (tm).gba"
+.elseif versao == 0
+    .org FreeTournamentTM
+        .incbin "Graficos/Editados/Free Tournament (SV) (tm).gba"
+    .org DenBattleTournamentTM
+        .incbin "Graficos/Editados/Den Battle Tournament (SV) (tm).gba"
+    .org EagleTournamentTM
+        .incbin "Graficos/Editados/Eagle Tournament (SV) (tm).gba"
+    .org RedSunTournamentTM
+        .incbin "Graficos/Editados/Red Sun Tournament (SV) (tm).gba"
+.endif
+
 ; Gráficos inseridos no final da rom, em sua maioria comprimidos.
 ; Catalogando ponteiros dos gráficos.
 .org PonteiroLogoTelaTitulo
