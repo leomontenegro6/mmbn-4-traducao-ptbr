@@ -6,5 +6,4 @@
   - Castilo: Placas de "Restaurant", "Photo Studio" e "SNACKS"
   - Ameropa: Placa de INFORMATION no saguão da NAXA
   - Rede da Ameropa: Letreiro de "Welcome" estático (parecido com o do PC do Lan)
-- Corrigir bug nos créditos oriundo da fonte VWF
-- Ver como creditar todos os membros da tradução, nos créditos
+- Planejar lançamento da versão 1.0

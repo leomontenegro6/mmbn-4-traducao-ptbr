@@ -33,7 +33,7 @@ cd "..\..\"
 cd ".\Ferramentas\mmbn4-bg-graphic-unpacker\"
 call remontar.bat
 cd "..\..\"
-.\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\graficos.asm -equ versao 0
+.\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\graficos.asm -equ versao 0 -sym graficos_sol_vermelho.sym
 
 echo ==Expandindo rom para 16mb==
 .\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\expansor_rom.asm -strequ output "Sol Vermelho"
@@ -57,7 +57,7 @@ cd "..\..\"
 cd ".\Ferramentas\mmbn4-bg-graphic-unpacker\"
 call remontar.bat
 cd "..\..\"
-.\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\graficos.asm -equ versao 1
+.\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\graficos.asm -equ versao 1 -sym graficos_lua_azul.sym
 
 echo ==Expandindo rom para 16mb==
 .\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\expansor_rom.asm -strequ output "Lua Azul"

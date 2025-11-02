@@ -13,6 +13,8 @@
 ; Fontes dos textos acentuadas.
 .org FonteTextosVwf
     .incbin "Graficos/Editados/Fonte textos (VWF).gba"
+.org FonteTextosVwfCreditos
+    .incbin "Graficos/Editados/Fonte creditos (VWF).gba"
 .org FonteTextos
     .incbin "Graficos/Editados/Fonte textos.gba"
 .org FonteTextosSombra

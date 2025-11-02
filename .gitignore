@@ -6,6 +6,7 @@
 /*.sa2
 /*.zip
 .env
+/*.sym
 /Scripts/*.tpl
 executar_languagetool.bat
 Revisao

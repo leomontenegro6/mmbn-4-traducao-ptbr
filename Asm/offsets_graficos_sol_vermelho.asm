@@ -1,4 +1,5 @@
 FonteTextosVwf equ 0x080515E0
+FonteTextosVwfCreditos equ 0x08051CC4
 FonteTextos equ 0x08694F5C
 FonteTextosSombra equ 0x086C7C50
 
