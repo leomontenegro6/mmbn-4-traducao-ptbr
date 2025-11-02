@@ -37,5 +37,5 @@ Essas infos deve facilitar bastante para a refatoração do "mmbn-bg-graphic-unp
 | 0x0283D0 | Prédios da EletroVilla                    |         |
 | 0x0283E8 | Hotdog?                                   |         |
 | 0x028448 | Restaurant / Photo Studio?                |         |
-| 0x0284F0 | Entrada da NAXA                           | Sim     |
-| 0x0284FC | Recepção da NAXA (Information)            |         |
+| 0x0284F0 | Entrada da ANSA                           | Sim     |
+| 0x0284FC | Recepção da ANSA (Information)            | Sim     |

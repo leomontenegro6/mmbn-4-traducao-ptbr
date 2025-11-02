@@ -169,7 +169,8 @@ PonteirosNomesTelaTitulo4 equ 0x08025950
 PonteiroLetrasNomesLocalidades equ 0x08043690
 PonteiroCidadeACDCHigsbys equ 0x08028370
 PonteiroPaginaDoLanBemVindo equ 0x0802858C
-PonteiroAmeropaAnsa equ 0x080284F0
+PonteiroAnsaLetreiro equ 0x080284F0
+PonteiroAnsaInformacoes equ 0x080284FC
 PonteiroTelaSubchipsNomesDireita equ 0x08031F34
 PonteiroTelaEmailNew equ 0x08031994
 PonteiroTelaRecordes equ 0x0803BC7C

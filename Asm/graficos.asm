@@ -401,8 +401,10 @@
     .dw CidadeACDCHigsbys
 .org PonteiroPaginaDoLanBemVindo
     .dw PaginaDoLanBemVindo
-.org PonteiroAmeropaAnsa
-    .dw AmeropaAnsa
+.org PonteiroAnsaLetreiro
+    .dw AnsaLetreiro
+.org PonteiroAnsaInformacoes
+    .dw AnsaInformacoes
 .org PonteiroTelaSubchipsNomesDireita
     .dw TelaSubchipsNomesDireita
 .org PonteiroTelaEmailNew
@@ -482,11 +484,19 @@ PaginaDoLanBemVindo:
     .incbin "Graficos/Editados/BGs/Pagina do LAN - Bem-vindo.gba"
     .align
 
-AmeropaAnsa:
+AnsaLetreiro:
     .if versao == 1
-        .incbin "Graficos/Editados/BGs/Ameropa - ANSA (LA).gba"
+        .incbin "Graficos/Editados/BGs/ANSA - Letreiro (LA).gba"
     .elseif versao == 0
-        .incbin "Graficos/Editados/BGs/Ameropa - ANSA (SV).gba"
+        .incbin "Graficos/Editados/BGs/ANSA - Letreiro (SV).gba"
+    .endif
+    .align
+
+AnsaInformacoes:
+    .if versao == 1
+        .incbin "Graficos/Editados/BGs/ANSA - Informacoes (LA).gba"
+    .elseif versao == 0
+        .incbin "Graficos/Editados/BGs/ANSA - Informacoes (SV).gba"
     .endif
     .align
 
