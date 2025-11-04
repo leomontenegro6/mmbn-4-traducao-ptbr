@@ -1,4 +1,4 @@
-@size 83
+@size 97
 
 script 0 mmbn4s {
 	"Planejamento"
@@ -169,7 +169,7 @@ script 41 mmbn4s {
 	end
 }
 script 42 mmbn4s {
-	"Agradecim. Especiais!"
+	"Agradecimentos Especiais!"
 	end
 }
 script 43 mmbn4s {
@@ -225,15 +225,15 @@ script 55 mmbn4s {
 	end
 }
 script 56 mmbn4s {
-	"KonamiJPN Hideo Kojima"
+	"Hideo Kojima (Konami Japão)"
 	end
 }
 script 57 mmbn4s {
-	"KonamiJPN Masahiro Hinami"
+	"Masahiro Hinami (Konami Japão)"
 	end
 }
 script 58 mmbn4s {
-	"Equipe de Tradução"
+	"Toda Equipe de Localização"
 	end
 }
 script 59 mmbn4s {
@@ -249,7 +249,7 @@ script 61 mmbn4s {
 	end
 }
 script 62 mmbn4s {
-	"CAPCOM"
+	"Todos na CAPCOM"
 	end
 }
 script 63 mmbn4s {
@@ -278,10 +278,10 @@ script 65 mmbn4s {
 	end
 }
 script 66 mmbn4s {
-	"Coleção     "
+	"Coleção         "
 	spacePx
 		count = 12
-	"S  "
+	"P  "
 	printBuffer
 		buffer = 0
 		minLength = 3
@@ -312,7 +312,7 @@ script 68 mmbn4s {
 	end
 }
 script 69 mmbn4s {
-	"MegaMan Battle Network4"
+	"MegaMan Battle Network 4"
 	end
 }
 script 70 mmbn4s {
@@ -320,7 +320,7 @@ script 70 mmbn4s {
 	end
 }
 script 71 mmbn4s {
-	"MegaMan 15o. Aniversário"
+	"MegaMan 15º Aniversário"
 	end
 }
 script 72 mmbn4s {
@@ -356,7 +356,7 @@ script 79 mmbn4s {
 	end
 }
 script 80 mmbn4s {
-	"        Staff         "
+	"            Equipe    "
 	end
 }
 script 81 mmbn4s {
@@ -365,5 +365,75 @@ script 81 mmbn4s {
 }
 script 82 mmbn4s {
 	"Noriko Kato"
+	end
+}
+
+script 83 mmbn4s {
+	"Tradução PT-BR"
+	end
+}
+
+script 84 mmbn4s {
+	"Sahgo"
+	end
+}
+
+script 85 mmbn4s {
+	"Solid One"
+	end
+}
+
+script 86 mmbn4s {
+	"Kosmus"
+	end
+}
+
+script 87 mmbn4s {
+	"Immegax"
+	end
+}
+
+script 88 mmbn4s {
+	"Marywolf"
+	end
+}
+
+script 89 mmbn4s {
+	"PedroX"
+	end
+}
+
+script 90 mmbn4s {
+	"JonhSSG"
+	end
+}
+
+script 91 mmbn4s {
+	"Gustavo Fraga"
+	end
+}
+
+script 92 mmbn4s {
+	"JoãoBlack64"
+	end
+}
+
+script 93 mmbn4s {
+	"Prof.9"
+	end
+}
+
+script 94 mmbn4s {
+	"TTK"
+	end
+}
+
+script 95 mmbn4s {
+	"Schneitizel"
+	end
+}
+
+script 96 mmbn4s {
+	"victoriemini"
 	end
 }

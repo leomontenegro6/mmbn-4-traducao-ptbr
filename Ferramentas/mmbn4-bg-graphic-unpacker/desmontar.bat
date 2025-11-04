@@ -13,3 +13,7 @@
 :: Desempacotando gráfico da "INFORMATION", da recepção na ANSA.
 :: php .\unpacker.php "..\..\Mega Man Battle Network 4 - Red Sun (USA).gba" 284FC
 :: php .\unpacker.php "..\..\Mega Man Battle Network 4 - Blue Moon (USA).gba" 28500
+
+:: Desempacotando gráfico de dentro da Loja do Higsby, na Cidade ACDC
+:: php .\unpacker.php "..\..\Mega Man Battle Network 4 - Red Sun (USA).gba" 283B8
+:: php .\unpacker.php "..\..\Mega Man Battle Network 4 - Blue Moon (USA).gba" 283BC

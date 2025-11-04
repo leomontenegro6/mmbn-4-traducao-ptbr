@@ -33,7 +33,7 @@ Essas infos deve facilitar bastante para a refatoração do "mmbn-bg-graphic-unp
 |----------|-------------------------------------------|---------|
 | 0x02858C | Computador do Lan (Welcome) (5 ponteiros) | Sim     |
 | 0x028370 | Cidade ACDC (Hibsby's)                    | Sim     |
-| 0x0283B8 | Loja do Higsby                            |         |
+| 0x0283B8 | Loja do Higsby                            | Sim     |
 | 0x0283D0 | Prédios da EletroVilla                    |         |
 | 0x0283E8 | Hotdog?                                   |         |
 | 0x028448 | Restaurant / Photo Studio?                |         |

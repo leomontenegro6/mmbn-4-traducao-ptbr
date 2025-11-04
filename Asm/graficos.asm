@@ -399,6 +399,8 @@
     .dw LetrasNomesLocalidades
 .org PonteiroCidadeACDCHigsbys
     .dw CidadeACDCHigsbys
+.org PonteiroLojaHigsbyInterior
+    .dw LojaHigsbyInterior
 .org PonteiroPaginaDoLanBemVindo
     .dw PaginaDoLanBemVindo
 .org PonteiroAnsaLetreiro
@@ -431,6 +433,8 @@
     .dw GameOver
 .org PonteiroGameOverTM
     .dw GameOverTM
+.org PonteiroMetadadosDialogosCreditos
+    .dw MetadadosDialogosCreditos
 
 ; Inserindo gráficos no final da rom
 .if versao == 1
@@ -477,6 +481,14 @@ CidadeACDCHigsbys:
         .incbin "Graficos/Editados/BGs/Cidade ACDC - Higsbys (LA).gba"
     .elseif versao == 0
         .incbin "Graficos/Editados/BGs/Cidade ACDC - Higsbys (SV).gba"
+    .endif
+    .align
+
+LojaHigsbyInterior:
+    .if versao == 1
+        .incbin "Graficos/Editados/BGs/Loja do Higsby - Interior (LA).gba"
+    .elseif versao == 0
+        .incbin "Graficos/Editados/BGs/Loja do Higsby - Interior (SV).gba"
     .endif
     .align
 
@@ -550,6 +562,10 @@ GameOver:
 
 GameOverTM:
     .lz77gba "Graficos/Editados/Game Over (tm).gba"
+    .align
+
+MetadadosDialogosCreditos:
+    .incbin "Graficos/Editados/Metadados dialogos creditos.gba"
     .align
 
 .close

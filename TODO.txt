@@ -4,6 +4,6 @@
   - DenDome: Placas de "HotDog" e "Den Dome"
   - Castilo: Placas de "GIFTS", "EXIT", "JUNGLE" e "SNACKS"
   - Castilo: Placas de "Restaurant", "Photo Studio" e "SNACKS"
-  - Ameropa: Placa de INFORMATION no saguão da NAXA
+  - ANSA: Placa de "NTP", pra mudar pra "ATP"
   - Rede da Ameropa: Letreiro de "Welcome" estático (parecido com o do PC do Lan)
 - Planejar lançamento da versão 1.0

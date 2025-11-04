@@ -20,3 +20,9 @@ php .\repacker.php 284FC
 php .\repacker.php 28500
 copy ".\data\img-0284FC.bin" "..\..\Graficos\Editados\BGs\ANSA - Informacoes (SV).gba"
 copy ".\data\img-028500.bin" "..\..\Graficos\Editados\BGs\ANSA - Informacoes (LA).gba"
+
+:: Remontando gráfico de dentro da Loja do Higsby, na Cidade ACDC.
+php .\repacker.php 283B8
+php .\repacker.php 283BC
+copy ".\data\img-0283B8.bin" "..\..\Graficos\Editados\BGs\Loja do Higsby - Interior (SV).gba"
+copy ".\data\img-0283BC.bin" "..\..\Graficos\Editados\BGs\Loja do Higsby - Interior (LA).gba"

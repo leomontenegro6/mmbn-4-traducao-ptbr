@@ -166,6 +166,7 @@ PonteirosNomesTelaTitulo3 equ 0x08025980
 PonteirosNomesTelaTitulo4 equ 0x08025954
 PonteiroLetrasNomesLocalidades equ 0x08043698
 PonteiroCidadeACDCHigsbys equ 0x08028374
+PonteiroLojaHigsbyInterior equ 0x080283BC
 PonteiroPaginaDoLanBemVindo equ 0x08028590
 PonteiroAnsaLetreiro equ 0x080284F4
 PonteiroAnsaInformacoes equ 0x08028500
@@ -182,3 +183,4 @@ PonteiroGet equ 0x08027BA0
 PonteiroBlock equ 0x08028268
 PonteiroGameOver equ 0x08048C80
 PonteiroGameOverTM equ 0x08048C8C
+PonteiroMetadadosDialogosCreditos equ 0x0811033C
