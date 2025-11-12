@@ -401,6 +401,10 @@
     .dw CidadeACDCHigsbys
 .org PonteiroLojaHigsbyInterior
     .dw LojaHigsbyInterior
+.org PonteiroDendomoHotDog
+    .dw DendomoHotDog
+.org PonteiroDendomoHotDogTM
+    .dw DendomoHotDogTM
 .org PonteiroPaginaDoLanBemVindo
     .dw PaginaDoLanBemVindo
 .org PonteiroAnsaLetreiro
@@ -489,6 +493,22 @@ LojaHigsbyInterior:
         .incbin "Graficos/Editados/BGs/Loja do Higsby - Interior (LA).gba"
     .elseif versao == 0
         .incbin "Graficos/Editados/BGs/Loja do Higsby - Interior (SV).gba"
+    .endif
+    .align
+
+DendomoHotDog:
+    .if versao == 1
+        .incbin "Graficos/Editados/BGs/DenDomo - Hot Dog (LA).gba"
+    .elseif versao == 0
+        .incbin "Graficos/Editados/BGs/DenDomo - Hot Dog (SV).gba"
+    .endif
+    .align
+
+DendomoHotDogTM:
+    .if versao == 1
+        .incbin "Graficos/Editados/BGs/DenDomo - Hot Dog (LA) (tm).gba"
+    .elseif versao == 0
+        .incbin "Graficos/Editados/BGs/DenDomo - Hot Dog (SV) (tm).gba"
     .endif
     .align
 

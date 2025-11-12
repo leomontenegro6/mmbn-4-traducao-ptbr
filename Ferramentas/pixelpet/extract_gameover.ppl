@@ -1,10 +1,10 @@
-Import-Bytes "..\..\Graficos\Editados\Game Over (paleta).gba"
+Import-Bytes "../../Graficos/Editados/Game Over (paleta).gba"
 Deserialize-Palettes GBA
 
-Import-Bytes "..\..\Graficos\Editados\Game Over (tm).gba"
+Import-Bytes "../../Graficos/Editados/Game Over (tm).gba"
 Deserialize-Tilemap GBA-4BPP --tile-count 600 --offset 0x000004
 
-Import-Bytes "..\..\Graficos\Editados\Game Over.gba"
+Import-Bytes "../../Graficos/Editados/Game Over.gba"
 Deserialize-Tileset GBA-4BPP --offset 0x000004
 
 Render-Tilemap 30 20

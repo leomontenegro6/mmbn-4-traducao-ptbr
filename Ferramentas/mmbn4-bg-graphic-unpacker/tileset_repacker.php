@@ -1,9 +1,27 @@
 <?php
+/**
+ * MMBN4 Tileset Repacker
+ * 
+ * This script repacks a background container file, previously extracted by the
+ * "tileset_unpacker.php" script, based on a given offset. It results in a
+ * single background file, preceded by a header file and followed by the
+ * compressed tilesets, ready to be inserted ingame later on.
+ * 
+ * It works by reading the header and tileset files from the "data" directory,
+ * compressing the tilesets using LZSS 0x10 compression, and writing the
+ * repacked data to a new file in the same directory.
+ * 
+ * Usage: php tileset_repacker.php <offset>
+ * 
+ * Arguments:
+ * - offset: Hexadecimal offset used to identify the header and tileset files.
+ */
+
 require_once 'common.php';
 
 // Reading parameters from the command line.
 if ($argc < 2) {
-    echo "Usage: php repacker.php <offset>\n";
+    echo "Usage: php tileset_repacker.php <offset>\n";
     exit(1);
 }
 
@@ -18,12 +36,12 @@ if (!file_exists("data/td-{$pointer_offset}-0.bin")) {
     echo "Error: Missing first tileset file.\n";
     exit(1);
 }
-if (!file_exists("data/td-{$pointer_offset}-0.bin")) {
+if (!file_exists("data/td-{$pointer_offset}-1.bin")) {
     echo "Error: Missing second tileset file.\n";
     exit(1);
 }
 
-// Create new file "img-<offset>.bin" to store the repacked graphics.
+// Create new file "img-<offset>.bin" to store the repacked tilesets.
 $destination_filename = "data/img-{$pointer_offset}.bin";
 
 // Open the destination file in write mode.
@@ -54,7 +72,25 @@ fwrite($destination_file, $header_content);
 
 // Compressing the tilesets and appending them to the destination file.
 for ($i=0; $i<2; $i++) {
-    if ($i == 1){
+    $tileset_filename = "data/td-{$pointer_offset}-{$i}.bin";
+
+    if ($i == 0) {
+        // Update the size of the first tileset in the header.
+        // The value should be its size, divided by 4 in 32bit.
+        $tileset_filesize = dechex(filesize($tileset_filename) / 4);
+        $tileset_filesize = str_pad($tileset_filesize, 8, '0', STR_PAD_LEFT);
+        $tileset_filesize = changeEndianness($tileset_filesize);
+        fseek($destination_file, 0x0);
+        fwrite($destination_file, hex2bin($tileset_filesize));
+
+        // Update the second offset to vram to dump files to.
+        // The value should be the size of the first tileset.
+        $second_vram_offset = dechex(filesize($tileset_filename));
+        $second_vram_offset = str_pad($second_vram_offset, 8, '0', STR_PAD_LEFT);
+        $second_vram_offset = changeEndianness($second_vram_offset);
+        fseek($destination_file, 0x14);
+        fwrite($destination_file, hex2bin($second_vram_offset));
+    } elseif ($i == 1){
         // Check if the destination file's current position, at the end
         // of the file, is a multiple of 4.
         fseek($destination_file, 0, SEEK_END);
@@ -70,14 +106,21 @@ for ($i=0; $i<2; $i++) {
         $end_pointer_offset = dechex(ftell($destination_file));
         $end_pointer_offset = str_pad($end_pointer_offset, 8, '0', STR_PAD_LEFT);
         $end_pointer_offset = changeEndianness($end_pointer_offset);
-        echo "Updating second tileset's pointer offset in the header to {$end_pointer_offset}... ";
         fseek($destination_file, 0x10);
         fwrite($destination_file, hex2bin($end_pointer_offset));
-        fseek($destination_file, 0, SEEK_END);
-        echo "OK.\n";
-    }
 
-    $tileset_filename = "data/td-{$pointer_offset}-{$i}.bin";
+        // Update the size of the second tileset in the header.
+        // The value should be its size, divided by 4 in 32bit.
+        $tileset_filesize = dechex(filesize($tileset_filename) / 4);
+        $tileset_filesize = str_pad($tileset_filesize, 8, '0', STR_PAD_LEFT);
+        $tileset_filesize = changeEndianness($tileset_filesize);
+        fseek($destination_file, 0xC);
+        fwrite($destination_file, hex2bin($tileset_filesize));
+    }
+    
+    // Go to the end of the file to proceed.
+    fseek($destination_file, 0, SEEK_END);
+
     echo "Compressing tileset in file \"{$tileset_filename}\" and adding to the header... ";
     $temporary_tileset_data = "data/tmp.bin";
     if (file_exists($temporary_tileset_data)) { 

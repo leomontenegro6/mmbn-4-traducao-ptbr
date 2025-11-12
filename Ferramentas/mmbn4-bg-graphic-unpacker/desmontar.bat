@@ -1,19 +1,27 @@
 @echo off
 :: Desempacotando gráfico de "Higsby's", na Cidade ACDC
-:: php .\unpacker.php "..\..\Mega Man Battle Network 4 - Red Sun (USA).gba" 28370
-:: php .\unpacker.php "..\..\Mega Man Battle Network 4 - Blue Moon (USA).gba" 28374
+:: php .\tileset_unpacker.php "..\..\Mega Man Battle Network 4 - Red Sun (USA).gba" 28370
+:: php .\tileset_unpacker.php "..\..\Mega Man Battle Network 4 - Blue Moon (USA).gba" 28374
 
 :: Desempacotando gráfico de "WELCOME", na página do Lan.
-:: php .\unpacker.php "..\..\Mega Man Battle Network 4 - Red Sun (USA).gba" 2858C
+:: php .\tileset_unpacker.php "..\..\Mega Man Battle Network 4 - Red Sun (USA).gba" 2858C
 
 :: Desempacotando gráfico de letreiros "NAXA", na ANSA.
-:: php .\unpacker.php "..\..\Mega Man Battle Network 4 - Red Sun (USA).gba" 284F0
-:: php .\unpacker.php "..\..\Mega Man Battle Network 4 - Blue Moon (USA).gba" 284F4
+:: php .\tileset_unpacker.php "..\..\Mega Man Battle Network 4 - Red Sun (USA).gba" 284F0
+:: php .\tileset_unpacker.php "..\..\Mega Man Battle Network 4 - Blue Moon (USA).gba" 284F4
 
 :: Desempacotando gráfico da "INFORMATION", da recepção na ANSA.
-:: php .\unpacker.php "..\..\Mega Man Battle Network 4 - Red Sun (USA).gba" 284FC
-:: php .\unpacker.php "..\..\Mega Man Battle Network 4 - Blue Moon (USA).gba" 28500
+:: php .\tileset_unpacker.php "..\..\Mega Man Battle Network 4 - Red Sun (USA).gba" 284FC
+:: php .\tileset_unpacker.php "..\..\Mega Man Battle Network 4 - Blue Moon (USA).gba" 28500
 
 :: Desempacotando gráfico de dentro da Loja do Higsby, na Cidade ACDC
-:: php .\unpacker.php "..\..\Mega Man Battle Network 4 - Red Sun (USA).gba" 283B8
-:: php .\unpacker.php "..\..\Mega Man Battle Network 4 - Blue Moon (USA).gba" 283BC
+:: php .\tileset_unpacker.php "..\..\Mega Man Battle Network 4 - Red Sun (USA).gba" 283B8
+:: php .\tileset_unpacker.php "..\..\Mega Man Battle Network 4 - Blue Moon (USA).gba" 283BC
+
+:: Desempacotando gráfico de "HOT DOG", na área do DenDomo
+:: php .\tileset_unpacker.php "..\..\Mega Man Battle Network 4 - Red Sun (USA).gba" 283E8
+:: php .\tileset_unpacker.php "..\..\Mega Man Battle Network 4 - Blue Moon (USA).gba" 283EC
+
+:: Desempacotando tilemap de "HOT DOG", na área do DenDomo
+:: php .\tilemap_unpacker.php "..\..\Mega Man Battle Network 4 - Red Sun (USA).gba" 283F0
+:: php .\tilemap_unpacker.php "..\..\Mega Man Battle Network 4 - Blue Moon (USA).gba" 283F4

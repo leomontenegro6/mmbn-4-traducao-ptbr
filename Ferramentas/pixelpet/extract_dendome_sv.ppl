@@ -1,0 +1,25 @@
+// Extracting palette as PNG, for later use in the insertion process
+Import-Bytes "data/Dendome (SV).pal.bin"
+Deserialize-Palettes GBA -ps 200
+Render-Palettes
+Export-Bitmap "data/Dendome (SV).pal.png"
+
+// Extracting the first Dendome graphic set
+Import-Bytes "data/Dendome1 (SV).map.bin"
+Deserialize-Tilemap GBA-8BPP
+
+Import-Bytes "data/Dendome1 (SV).img.bin"
+Deserialize-Tileset GBA-8BPP -a
+
+Render-Tilemap 120 84
+Export-Bitmap "data/Dendome1 (SV).png"
+
+// Extracting the second Dendome graphic set
+Import-Bytes "data/Dendome2 (SV).map.bin"
+Deserialize-Tilemap GBA-8BPP
+
+Import-Bytes "data/Dendome2 (SV).img.bin"
+Deserialize-Tileset GBA-8BPP -a
+
+Render-Tilemap 120 84
+Export-Bitmap "data/Dendome2 (SV).png"

@@ -1,28 +1,38 @@
 @echo off
 :: Remontando gráfico do "Higsby's", na Cidade ACDC
-php .\repacker.php 28370
-php .\repacker.php 28374
+php .\tileset_repacker.php 28370
+php .\tileset_repacker.php 28374
 copy ".\data\img-028370.bin" "..\..\Graficos\Editados\BGs\Cidade ACDC - Higsbys (SV).gba"
 copy ".\data\img-028374.bin" "..\..\Graficos\Editados\BGs\Cidade ACDC - Higsbys (LA).gba"
 
 :: Remontando gráfico de "WELCOME", na página do Lan.
-php .\repacker.php 2858C
+php .\tileset_repacker.php 2858C
 copy ".\data\img-02858C.bin" "..\..\Graficos\Editados\BGs\Pagina do LAN - Bem-vindo.gba"
 
 :: Remontando gráfico de letreiros "NAXA", na ANSA.
-php .\repacker.php 284F0
-php .\repacker.php 284F4
+php .\tileset_repacker.php 284F0
+php .\tileset_repacker.php 284F4
 copy ".\data\img-0284F0.bin" "..\..\Graficos\Editados\BGs\ANSA - Letreiro (SV).gba"
 copy ".\data\img-0284F4.bin" "..\..\Graficos\Editados\BGs\ANSA - Letreiro (LA).gba"
 
 :: Remontando gráfico da "INFORMATION", da recepção na ANSA.
-php .\repacker.php 284FC
-php .\repacker.php 28500
+php .\tileset_repacker.php 284FC
+php .\tileset_repacker.php 28500
 copy ".\data\img-0284FC.bin" "..\..\Graficos\Editados\BGs\ANSA - Informacoes (SV).gba"
 copy ".\data\img-028500.bin" "..\..\Graficos\Editados\BGs\ANSA - Informacoes (LA).gba"
 
 :: Remontando gráfico de dentro da Loja do Higsby, na Cidade ACDC.
-php .\repacker.php 283B8
-php .\repacker.php 283BC
+php .\tileset_repacker.php 283B8
+php .\tileset_repacker.php 283BC
 copy ".\data\img-0283B8.bin" "..\..\Graficos\Editados\BGs\Loja do Higsby - Interior (SV).gba"
 copy ".\data\img-0283BC.bin" "..\..\Graficos\Editados\BGs\Loja do Higsby - Interior (LA).gba"
+
+:: Remontando gráfico de "HOT DOG", na área do DenDomo
+php .\tileset_repacker.php 283E8
+php .\tileset_repacker.php 283EC
+php .\tilemap_repacker.php 283F0
+php .\tilemap_repacker.php 283F4
+copy ".\data\img-0283E8.bin" "..\..\Graficos\Editados\BGs\DenDomo - Hot Dog (SV).gba"
+copy ".\data\tm-0283F0.bin" "..\..\Graficos\Editados\BGs\DenDomo - Hot Dog (SV) (tm).gba"
+copy ".\data\img-0283EC.bin" "..\..\Graficos\Editados\BGs\DenDomo - Hot Dog (LA).gba"
+copy ".\data\tm-0283F4.bin" "..\..\Graficos\Editados\BGs\DenDomo - Hot Dog (LA) (tm).gba"
