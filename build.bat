@@ -30,7 +30,8 @@ echo ==Graficos==
 cd ".\Ferramentas\mmbn4-dmp-to-gba\"
 call converter.bat
 cd "..\..\"
-cd ".\Ferramentas\mmbn4-bg-graphic-unpacker\"
+cd ".\Ferramentas\pixelpet\"
+call inserir.bat
 call remontar.bat
 cd "..\..\"
 .\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\graficos.asm -equ versao 0 -sym graficos_sol_vermelho.sym
@@ -54,7 +55,8 @@ echo ==Graficos==
 cd ".\Ferramentas\mmbn4-dmp-to-gba\"
 call converter.bat
 cd "..\..\"
-cd ".\Ferramentas\mmbn4-bg-graphic-unpacker\"
+cd ".\Ferramentas\pixelpet\"
+call inserir.bat
 call remontar.bat
 cd "..\..\"
 .\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\graficos.asm -equ versao 1 -sym graficos_lua_azul.sym

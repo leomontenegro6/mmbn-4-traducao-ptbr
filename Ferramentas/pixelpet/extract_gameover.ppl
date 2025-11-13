@@ -8,7 +8,7 @@ Import-Bytes "../../Graficos/Editados/Game Over.gba"
 Deserialize-Tileset GBA-4BPP --offset 0x000004
 
 Render-Tilemap 30 20
-Export-Bitmap "Game Over.png"
+Export-Bitmap "pngs/Game Over.png"
 
 Render-Palettes
-Export-Bitmap "Game Over (paleta).png"
+Export-Bitmap "pngs/Game Over (paleta).png"

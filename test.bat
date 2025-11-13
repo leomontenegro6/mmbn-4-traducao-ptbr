@@ -5,7 +5,7 @@ FOR /F "eol=# tokens=*" %%i IN (%~dp0.env) DO SET %%i
 SET CURRENTDIR=%cd%
 
 set version=Sol Vermelho
-IF "%1" == "la" SET version=Lua Azul
+IF "%1" == "a" SET version=Lua Azul
 IF "%2" == "vbalink" GOTO vbalink
 IF "%2" == "nocash" GOTO nocash
 GOTO mgba

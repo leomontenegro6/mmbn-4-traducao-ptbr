@@ -33,6 +33,6 @@ php .\tileset_repacker.php 283EC
 php .\tilemap_repacker.php 283F0
 php .\tilemap_repacker.php 283F4
 copy ".\data\img-0283E8.bin" "..\..\Graficos\Editados\BGs\DenDomo - Hot Dog (SV).gba"
-copy ".\data\tm-0283F0.bin" "..\..\Graficos\Editados\BGs\DenDomo - Hot Dog (SV) (tm).gba"
+move ".\data\tm-0283F0.bin" "..\..\Graficos\Editados\BGs\DenDomo - Hot Dog (SV) (tm).gba"
 copy ".\data\img-0283EC.bin" "..\..\Graficos\Editados\BGs\DenDomo - Hot Dog (LA).gba"
-copy ".\data\tm-0283F4.bin" "..\..\Graficos\Editados\BGs\DenDomo - Hot Dog (LA) (tm).gba"
+move ".\data\tm-0283F4.bin" "..\..\Graficos\Editados\BGs\DenDomo - Hot Dog (LA) (tm).gba"

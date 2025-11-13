@@ -1,22 +1,22 @@
 // Reading palette from PNG file
-Import-Bitmap "data/Dendome (SV).pal.png"
+Import-Bitmap "pngs/Dendome (SV).pal.png"
 Read-Palettes -ps 200
 
 // Generating tilemap from the first Dendome graphic set
-Import-Bitmap "data/Dendome1 (SV).png"
+Import-Bitmap "pngs/Dendome1 (SV).png"
 Generate-Tilemap GBA-8BPP
 
 Serialize-Tilemap
-Export-Bytes "data/Dendome1 (SV) (editado).map.bin"
+Export-Bytes "data/tm-0283f0-0.bin"
 Clear-Tilemap
 
 // Generating tilemap from the first Dendome graphic set
-Import-Bitmap "data/Dendome2 (SV).png"
+Import-Bitmap "pngs/Dendome2 (SV).png"
 Generate-Tilemap GBA-8BPP -a
 
 Serialize-Tilemap
-Export-Bytes "data/Dendome2 (SV) (editado).map.bin"
+Export-Bytes "data/tm-0283f0-1.bin"
 
 // Generating combined tilesets from both tilemaps. It'll be splitted later.
 Serialize-Tileset
-Export-Bytes "data/Dendome (SV) (editado).img.bin"
+Export-Bytes "data/td-0283e8.bin"
