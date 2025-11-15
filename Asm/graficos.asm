@@ -352,7 +352,7 @@
 .org WorldMapTM
     .incbin "Graficos/Editados/World Map (tm).gba"
 
-; Gráfiso e tilemaps das telas de fóruns
+; Gráficos e tilemaps das telas de fóruns
 .org NewForuns
     .incbin "Graficos/Editados/New (foruns).gba"
 .org BattleBbsTM
@@ -382,6 +382,11 @@
     .org RedSunTournamentTM
         .incbin "Graficos/Editados/Red Sun Tournament (SV) (tm).gba"
 .endif
+
+; Códigos de passcodes do arco do SparkMan, para alterar o número
+; de hotdogs/bolinhos de polvo.
+.org SparkManPasscodeAnswers
+    .stringn 0x60,0x54,0x63,0x18,0x20,0x26,0x74,0x73,0x50,0x34,0x81,0x96
 
 ; Gráficos inseridos no final da rom, em sua maioria comprimidos.
 ; Catalogando ponteiros dos gráficos.

@@ -4,5 +4,4 @@
   - Castillo: Placas de "Restaurant", "Photo Studio" e "SNACKS"
   - ANSA: Placa de "NTP", pra mudar pra "ATP"
   - Rede da Ameropa: Letreiro de "Welcome" estático (parecido com o do PC do Lan)
-- Editar passcodes de modo que uma das dicas mude de "5 Hotdogs" para "8 Bolinhos de Polvo"
 - Planejar lançamento da versão 1.0

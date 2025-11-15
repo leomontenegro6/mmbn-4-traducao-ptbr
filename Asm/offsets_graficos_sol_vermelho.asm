@@ -160,6 +160,7 @@ FreeTournamentTM equ 0x086C747C
 DenBattleTournamentTM equ 0x086C666C
 EagleTournamentTM equ 0x086C6B1C
 RedSunTournamentTM equ 0x086C6FCC
+SparkManPasscodeAnswers equ 0x0808EC04
 
 PonteiroLogoTelaTitulo equ 0x0802595C
 PonteirosNomesTelaTitulo1 equ 0x0802594C
