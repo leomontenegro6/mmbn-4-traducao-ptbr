@@ -38,18 +38,3 @@ single compressed file containing both tilemaps for both bgs
 ```
 
 Essas infos deve facilitar bastante para a refatoração do "mmbn-bg-graphic-unpacker", ou mesmo para a criação de uma ferramenta nova se for o caso.
-
-# Mapeamento de possíveis gráficos (Versão Red Sun)
-
-| Ponteiro | Descrição                                 | Editado |
-|----------|-------------------------------------------|---------|
-| 0x02858C | Computador do Lan (Welcome) (5 ponteiros) | Sim     |
-| 0x028370 | Cidade ACDC (Hibsby's)                    | Sim     |
-| 0x0283B8 | Loja do Higsby                            | Sim     |
-| 0x0283C4 | EletroVilla - Placa perto da estação      |         |
-| 0x0283D0 | EletroVilla - Edifício da Jomon           |         |
-| 0x0283E8 | DenDomo - Hotdog                          | Sim     |
-| 0x0283F0 | DenDomo - Hotdog (Tilemap)                | Sim     |
-| 0x028448 | Castillo - Restaurant / Photo Studio      |         |
-| 0x0284F0 | Entrada da ANSA                           | Sim     |
-| 0x0284FC | Recepção da ANSA (Information)            | Sim     |
