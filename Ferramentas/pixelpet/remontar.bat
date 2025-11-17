@@ -36,3 +36,13 @@ copy ".\data\img-0283E8.bin" "..\..\Graficos\Editados\BGs\DenDomo - Hot Dog (SV)
 move ".\data\tm-0283F0.bin" "..\..\Graficos\Editados\BGs\DenDomo - Hot Dog (SV) (tm).gba"
 copy ".\data\img-0283EC.bin" "..\..\Graficos\Editados\BGs\DenDomo - Hot Dog (LA).gba"
 move ".\data\tm-0283F4.bin" "..\..\Graficos\Editados\BGs\DenDomo - Hot Dog (LA) (tm).gba"
+
+:: Remontando gráfico da entrada da área da EletroVila
+php .\tileset_repacker.php 283C8
+php .\tileset_repacker.php 283C4
+php .\tilemap_repacker.php 283D0
+php .\tilemap_repacker.php 283CC
+copy ".\data\img-0283C8.bin" "..\..\Graficos\Editados\BGs\EletroVila - Entrada (SV).gba"
+move ".\data\tm-0283D0.bin" "..\..\Graficos\Editados\BGs\EletroVila - Entrada (SV) (tm).gba"
+copy ".\data\img-0283C4.bin" "..\..\Graficos\Editados\BGs\EletroVila - Entrada (LA).gba"
+move ".\data\tm-0283CC.bin" "..\..\Graficos\Editados\BGs\EletroVila - Entrada (LA) (tm).gba"

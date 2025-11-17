@@ -167,9 +167,9 @@ script 8 mmbn4 {
 		jumpIfBlueMoon = 20
 	msgOpen
 	"""
-	É um anúncio de uma
-	vaca recomendando
-	filé...
+	É uma vaca com os dizeres:
+	"me transformaram numa
+	vaca, posso ir pra casa?"
 	"""
 	keyWait
 		any = false
@@ -190,8 +190,8 @@ script 9 mmbn4 {
 	msgOpen
 	"""
 	Restaurante famoso
-	por seu bife delici-
-	oso e barato.
+	por seu bife delicioso
+	e barato.
 	"""
 	keyWait
 		any = false
@@ -385,17 +385,17 @@ script 19 mmbn4 {
 script 20 mmbn4 {
 	msgOpen
 	"""
-	Um anúncio de um
-	porco recomendando
-	torresmo...
+	É um porco com os dizeres:
+	"quer um pouquinho
+	de toucinho?"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Que porcaria é essa
-	de um porco recomen-
-	dar porco?!
+	de um porco recomendar
+	porco?!
 	"""
 	keyWait
 		any = false
@@ -405,7 +405,7 @@ script 21 mmbn4 {
 	msgOpen
 	"""
 	É meio caro, mas aí
-	servem escalopes
+	servem escalopes suínos
 	deliciosos.
 	"""
 	keyWait

@@ -169,6 +169,8 @@ PonteirosNomesTelaTitulo3 equ 0x0802597c
 PonteirosNomesTelaTitulo4 equ 0x08025950
 PonteiroLetrasNomesLocalidades equ 0x08043690
 PonteiroCidadeACDCHigsbys equ 0x08028370
+PonteiroEletrovilaEntrada equ 0x080283C4
+PonteiroEletrovilaEntradaTM equ 0x080283CC
 PonteiroLojaHigsbyInterior equ 0x080283B8
 PonteiroDendomoHotDog equ 0x080283E8
 PonteiroDendomoHotDogTM equ 0x080283F0

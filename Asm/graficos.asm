@@ -406,6 +406,10 @@
     .dw CidadeACDCHigsbys
 .org PonteiroLojaHigsbyInterior
     .dw LojaHigsbyInterior
+.org PonteiroEletrovilaEntrada
+    .dw EletrovilaEntrada
+.org PonteiroEletrovilaEntradaTM
+    .dw EletrovilaEntradaTM
 .org PonteiroDendomoHotDog
     .dw DendomoHotDog
 .org PonteiroDendomoHotDogTM
@@ -498,6 +502,22 @@ LojaHigsbyInterior:
         .incbin "Graficos/Editados/BGs/Loja do Higsby - Interior (LA).gba"
     .elseif versao == 0
         .incbin "Graficos/Editados/BGs/Loja do Higsby - Interior (SV).gba"
+    .endif
+    .align
+
+EletrovilaEntrada:
+    .if versao == 1
+        .incbin "Graficos/Editados/BGs/EletroVila - Entrada (LA).gba"
+    .elseif versao == 0
+        .incbin "Graficos/Editados/BGs/EletroVila - Entrada (SV).gba"
+    .endif
+    .align
+
+EletrovilaEntradaTM:
+    .if versao == 1
+        .incbin "Graficos/Editados/BGs/EletroVila - Entrada (LA) (tm).gba"
+    .elseif versao == 0
+        .incbin "Graficos/Editados/BGs/EletroVila - Entrada (SV) (tm).gba"
     .endif
     .align
 

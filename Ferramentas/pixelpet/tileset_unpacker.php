@@ -7,23 +7,26 @@
  * data using an external tool, and stores both the header and decompressed
  * tileset data in binary files.
  * 
- * Usage: php tileset_unpacker.php <rom_file> <offset>
+ * Usage: php tileset_unpacker.php <rom_file> <pointer_offset> <palette_offset>
  * 
  * Arguments:
  * - rom_file: Path to the ROM file.
- * - offset: Hexadecimal offset in the ROM where the tileset pointer
+ * - pointer_offset: Hexadecimal offset in the ROM where the tileset pointer
  *   is located.
+ * - palette_offset: Hexadecimal offset in the ROM where the palette data
+ *   belonging to the tilesets is located. Optional.
  */
 
 require_once 'common.php';
 
 if ($argc < 3) {
-    echo "Usage: php tileset_unpacker.php <rom_file> <offset>\n";
+    echo "Usage: php tileset_unpacker.php <rom_file> <pointer_offset> <palette_offset>\n";
     exit(1);
 }
 
 $rom_file = $argv[1];
 $pointer_offset = hexdec($argv[2]);
+$palette_offset = isset($argv[3]) ? hexdec($argv[3]) : null;
 
 if (!file_exists($rom_file)) {
     echo "Error: ROM file does not exist.\n";
@@ -84,6 +87,40 @@ foreach ($header as $index => $tileset) {
         echo "  Tilesets data decompressed successfully: {$tileset_filename}\n";
     } else {
         echo "  Error: Tilesets data decompression failed.\n";
+        exit(1);
+    }
+
+    if ($index == 1) {
+        // Extracting the split tile, to be used later in the insertion process.
+        // The split tile is the first 64 bytes o f the second tileset data.
+        echo "Extracting the split tile...\n";
+        $tile_data = file_get_contents($tileset_filename, false, null, 0, 64);
+        $tile_filename = "data/splt-{$destination_filename_prefix}.bin";
+        file_put_contents($tile_filename, $tile_data);
+
+        if (file_exists($tile_filename)) {
+            echo "  Split tile extracted successfully: {$tile_filename}\n";
+        } else {
+            echo "  Error: Tile extraction failed.\n";
+            exit(1);
+        }
+    }
+}
+
+// Extracting palette data if palette offset is provided.
+if ($palette_offset !== null) {
+    echo "Extracting palette data...\n";
+    $palette_filename = "data/pal-{$destination_filename_prefix}.bin";
+    $palette_size = 0x1A0;
+
+    fseek($rom, $palette_offset);
+    $palette_data = fread($rom, $palette_size);
+    file_put_contents($palette_filename, $palette_data);
+
+    if (file_exists($palette_filename)) {
+        echo "  Palette data extracted successfully: {$palette_filename}\n";
+    } else {
+        echo "  Error: Palette data extraction failed.\n";
         exit(1);
     }
 }

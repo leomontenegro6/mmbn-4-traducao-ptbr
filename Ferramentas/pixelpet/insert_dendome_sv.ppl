@@ -1,6 +1,6 @@
 // Reading palette from PNG file
 Import-Bitmap "pngs/Dendome (SV).pal.png"
-Read-Palettes -ps 200
+Read-Palettes -ps 208
 
 // Generating tilemap from the first Dendome graphic set
 Import-Bitmap "pngs/Dendome1 (SV).png"

@@ -25,3 +25,11 @@
 :: Desempacotando tilemap de "HOT DOG", na área do DenDomo
 :: php .\tilemap_unpacker.php "..\..\Mega Man Battle Network 4 - Red Sun (USA).gba" 283F0
 :: php .\tilemap_unpacker.php "..\..\Mega Man Battle Network 4 - Blue Moon (USA).gba" 283F4
+
+:: Desempacotando gráfico de "ELECTOWN", na área da EletroVila
+:: php .\tileset_unpacker.php "..\..\Mega Man Battle Network 4 - Red Sun (USA).gba" 283C4 5055C4
+:: php .\tileset_unpacker.php "..\..\Mega Man Battle Network 4 - Blue Moon (USA).gba" 283C8
+
+:: Desempacotando tilemap de "ELECTOWN", na área da EletroVila
+:: php .\tilemap_unpacker.php "..\..\Mega Man Battle Network 4 - Red Sun (USA).gba" 283CC 505284
+:: php .\tilemap_unpacker.php "..\..\Mega Man Battle Network 4 - Blue Moon (USA).gba" 283D0
