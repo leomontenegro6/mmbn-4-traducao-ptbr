@@ -414,6 +414,10 @@
     .dw DendomoHotDog
 .org PonteiroDendomoHotDogTM
     .dw DendomoHotDogTM
+.org PonteiroCastillo1Entrada
+    .dw Castillo1Entrada
+.org PonteiroCastillo1EntradaTM
+    .dw Castillo1EntradaTM
 .org PonteiroPaginaDoLanBemVindo
     .dw PaginaDoLanBemVindo
 .org PonteiroAnsaLetreiro
@@ -534,6 +538,22 @@ DendomoHotDogTM:
         .incbin "Graficos/Editados/BGs/DenDomo - Hot Dog (LA) (tm).gba"
     .elseif versao == 0
         .incbin "Graficos/Editados/BGs/DenDomo - Hot Dog (SV) (tm).gba"
+    .endif
+    .align
+
+Castillo1Entrada:
+    .if versao == 1
+        .incbin "Graficos/Editados/BGs/Castillo - Entrada (LA).gba"
+    .elseif versao == 0
+        .incbin "Graficos/Editados/BGs/Castillo - Entrada (SV).gba"
+    .endif
+    .align
+
+Castillo1EntradaTM:
+    .if versao == 1
+        .incbin "Graficos/Editados/BGs/Castillo - Entrada (LA) (tm).gba"
+    .elseif versao == 0
+        .incbin "Graficos/Editados/BGs/Castillo - Entrada (SV) (tm).gba"
     .endif
     .align
 

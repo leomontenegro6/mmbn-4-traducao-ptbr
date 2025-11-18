@@ -1,0 +1,26 @@
+// Reading palette from PNG file
+Import-Bitmap "pngs/Castillo1 (LA).pal.png"
+Convert-Bitmap GBA --sloppy
+Read-Palettes -ps 208
+Convert-Palettes GBA
+
+// Generating tilemap from the first Castillo graphic set
+Import-Bitmap "pngs/Castillo1-1 (LA).png"
+Convert-Bitmap GBA --sloppy
+Generate-Tilemap GBA-8BPP
+
+Serialize-Tilemap
+Export-Bytes "data/tm-028424-0.bin"
+Clear-Tilemap
+
+// Generating tilemap from the first Castillo graphic set
+Import-Bitmap "pngs/Castillo1-2 (LA).png"
+Convert-Bitmap GBA --sloppy
+Generate-Tilemap GBA-8BPP -a
+
+Serialize-Tilemap
+Export-Bytes "data/tm-028424-1.bin"
+
+// Generating combined tilesets from both tilemaps. It'll be splitted later.
+Serialize-Tileset
+Export-Bytes "data/td-02841c.bin"

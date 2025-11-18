@@ -6,3 +6,7 @@
 :: Extraindo backgrounds da entrada da EletroVila para PNG.
 :: .\PixelPet.exe Run-Script .\extract_electown1_sv.ppl
 :: .\PixelPet.exe Run-Script .\extract_electown1_la.ppl
+
+:: Extraindo backgrounds da entrada do Castillo para PNG.
+:: .\PixelPet.exe Run-Script .\extract_castillo1_sv.ppl
+:: .\PixelPet.exe Run-Script .\extract_castillo1_la.ppl

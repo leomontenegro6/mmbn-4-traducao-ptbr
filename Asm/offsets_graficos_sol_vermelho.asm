@@ -174,6 +174,8 @@ PonteiroEletrovilaEntradaTM equ 0x080283CC
 PonteiroLojaHigsbyInterior equ 0x080283B8
 PonteiroDendomoHotDog equ 0x080283E8
 PonteiroDendomoHotDogTM equ 0x080283F0
+PonteiroCastillo1Entrada equ 0x08028418
+PonteiroCastillo1EntradaTM equ 0x08028420
 PonteiroPaginaDoLanBemVindo equ 0x0802858C
 PonteiroAnsaLetreiro equ 0x080284F0
 PonteiroAnsaInformacoes equ 0x080284FC

@@ -172,6 +172,8 @@ PonteiroEletrovilaEntrada equ 0x080283C8
 PonteiroEletrovilaEntradaTM equ 0x080283D0
 PonteiroDendomoHotDog equ 0x080283EC
 PonteiroDendomoHotDogTM equ 0x080283F4
+PonteiroCastillo1Entrada equ 0x0802841C
+PonteiroCastillo1EntradaTM equ 0x08028424
 PonteiroPaginaDoLanBemVindo equ 0x08028590
 PonteiroAnsaLetreiro equ 0x080284F4
 PonteiroAnsaInformacoes equ 0x08028500

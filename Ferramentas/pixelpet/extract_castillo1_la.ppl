@@ -1,0 +1,25 @@
+// Extracting palette as PNG, for later use in the insertion processa0
+Import-Bytes "data/pal-02841c.bin"
+Deserialize-Palettes GBA -ps 208
+Render-Palettes -cw 16
+Export-Bitmap "pngs/Castillo1 (LA).pal.png"
+
+// Extracting the first ElecTown graphic set
+Import-Bytes "data/tm-028424-0.bin"
+Deserialize-Tilemap GBA-8BPP
+
+Import-Bytes "data/td-02841c-0.bin"
+Deserialize-Tileset GBA-8BPP -a
+
+Render-Tilemap 110 72
+Export-Bitmap "pngs/Castillo1-1 (LA).png"
+
+// Extracting the second ElecTown graphic set
+Import-Bytes "data/tm-028424-1.bin"
+Deserialize-Tilemap GBA-8BPP
+
+Import-Bytes "data/td-02841c-1.bin"
+Deserialize-Tileset GBA-8BPP -a
+
+Render-Tilemap 110 72
+Export-Bitmap "pngs/Castillo1-2 (LA).png"

@@ -28,8 +28,16 @@
 
 :: Desempacotando gráfico de "ELECTOWN", na área da EletroVila
 :: php .\tileset_unpacker.php "..\..\Mega Man Battle Network 4 - Red Sun (USA).gba" 283C4 5055C4
-:: php .\tileset_unpacker.php "..\..\Mega Man Battle Network 4 - Blue Moon (USA).gba" 283C8
+:: php .\tileset_unpacker.php "..\..\Mega Man Battle Network 4 - Blue Moon (USA).gba" 283C8 505284
 
 :: Desempacotando tilemap de "ELECTOWN", na área da EletroVila
-:: php .\tilemap_unpacker.php "..\..\Mega Man Battle Network 4 - Red Sun (USA).gba" 283CC 505284
+:: php .\tilemap_unpacker.php "..\..\Mega Man Battle Network 4 - Red Sun (USA).gba" 283CC
 :: php .\tilemap_unpacker.php "..\..\Mega Man Battle Network 4 - Blue Moon (USA).gba" 283D0
+
+:: Desempacotando gráfico de "CafePlaza", na área da Castillo
+:: php .\tileset_unpacker.php "..\..\Mega Man Battle Network 4 - Red Sun (USA).gba" 28418 523544
+:: php .\tileset_unpacker.php "..\..\Mega Man Battle Network 4 - Blue Moon (USA).gba" 2841C 5231E8
+
+:: Desempacotando tilemap de "CafePlaza", na área da Castillo
+:: php .\tilemap_unpacker.php "..\..\Mega Man Battle Network 4 - Red Sun (USA).gba" 28420
+:: php .\tilemap_unpacker.php "..\..\Mega Man Battle Network 4 - Blue Moon (USA).gba" 28424

@@ -5,8 +5,9 @@ script 10 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	NOSSOS TAKYAKIS SÃO
-	OS MAIS CROCANTES!
+	NOSSOS BOLINHOS DE
+	POLVO SÃO OS MAIS
+	CROCANTES!
 	"""
 	keyWait
 		any = false

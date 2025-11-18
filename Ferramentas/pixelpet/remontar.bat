@@ -46,3 +46,13 @@ copy ".\data\img-0283C8.bin" "..\..\Graficos\Editados\BGs\EletroVila - Entrada (
 move ".\data\tm-0283D0.bin" "..\..\Graficos\Editados\BGs\EletroVila - Entrada (SV) (tm).gba"
 copy ".\data\img-0283C4.bin" "..\..\Graficos\Editados\BGs\EletroVila - Entrada (LA).gba"
 move ".\data\tm-0283CC.bin" "..\..\Graficos\Editados\BGs\EletroVila - Entrada (LA) (tm).gba"
+
+:: Remontando gráfico da entrada da Castillo
+php .\tileset_repacker.php 28418
+php .\tileset_repacker.php 2841C
+php .\tilemap_repacker.php 28420
+php .\tilemap_repacker.php 28424
+copy ".\data\img-028418.bin" "..\..\Graficos\Editados\BGs\Castillo - Entrada (SV).gba"
+move ".\data\tm-028420.bin" "..\..\Graficos\Editados\BGs\Castillo - Entrada (SV) (tm).gba"
+copy ".\data\img-02841C.bin" "..\..\Graficos\Editados\BGs\Castillo - Entrada (LA).gba"
+move ".\data\tm-028424.bin" "..\..\Graficos\Editados\BGs\Castillo - Entrada (LA) (tm).gba"
