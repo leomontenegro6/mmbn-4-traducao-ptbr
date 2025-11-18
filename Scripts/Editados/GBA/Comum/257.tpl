@@ -88,8 +88,8 @@ script 2 mmbn4 {
 	clearMsg
 	"""
 	possuem uma taxa
-	alta de sincroniza-
-	ção com seus Navis.
+	alta de sincronização
+	com seus Navis.
 	"""
 	keyWait
 		any = false
@@ -196,8 +196,8 @@ script 12 mmbn4 {
 	clearMsg
 	"""
 	Quanto mais humanos
-	são, melhor os opera-
-	dores se saem.
+	são, melhor os
+	operadores se saem.
 	"""
 	keyWait
 		any = false
@@ -333,14 +333,14 @@ script 32 mmbn4 {
 	msgOpen
 	"""
 	Será possível que
-	simplesmente aumen-
-	tar o desempenho do
+	simplesmente aumentar
+	o desempenho do Navi
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Navi crie um laço
+	crie um laço
 	emocional com ele?
 	"""
 	keyWait
@@ -486,17 +486,17 @@ script 56 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Parece que o Sindi-
-	cato Nebula estava
-	por trás do
+	Parece que o
+	Sindicato Nebula
+	estava por trás do
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	incidente. De onde
-	saem essas organi-
-	zações criminosas?
+	saem essas organizações
+	criminosas?
 	"""
 	keyWait
 		any = false

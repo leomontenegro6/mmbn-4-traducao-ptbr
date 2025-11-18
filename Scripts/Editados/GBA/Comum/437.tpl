@@ -209,9 +209,9 @@ script 130 mmbn4 {
 	mugshotShow
 		mugshot = Django
 	"""
-	Habitantes da escu-
-	ridão conseguem vol-
-	tar inúmeras vezes.
+	Habitantes da escuridão
+	conseguem voltar
+	inúmeras vezes.
 	"""
 	keyWait
 		any = false
@@ -260,9 +260,9 @@ script 130 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Se não corrermos,
-	o ShadeMan desperta-
-	rá de seu sono...
+	Se não corrermos, o
+	ShadeMan despertará
+	de seu sono...
 	"""
 	keyWait
 		any = false
@@ -437,15 +437,15 @@ script 132 mmbn4 {
 		mugshot = Otenko
 	msgOpen
 	"""
-	Que situação lamen-
-	tável... Seguir o
-	Vampiro até aqui só
+	Que situação
+	lamentável... Seguir
+	o Vampiro até aqui
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	pra não conseguir
+	só pra não conseguir
 	usar o Bate-Estacas!
 	"""
 	keyWait
@@ -465,8 +465,8 @@ script 133 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	deve estar nas pro-
-	ximidades da entrada
+	deve estar nas
+	proximidades da entrada
 	da Undernet 2...
 	"""
 	keyWait

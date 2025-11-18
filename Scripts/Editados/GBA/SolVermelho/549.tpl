@@ -18,8 +18,8 @@ script 0 mmbn4 {
 		width = 19
 		height = 3
 	"""
-	mundo sobre o aste-
-	roide e as ações
+	mundo sobre o
+	asteroide e as ações
 	heróicas do Navi.
 	"""
 	keyWait
@@ -84,9 +84,9 @@ script 3 mmbn4 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	O MegaMan está lutan-
-	do, mas o que só um
-	Navi pode fazer?
+	O MegaMan está lutando,
+	mas o que só um Navi
+	pode fazer?
 	"""
 	keyWait
 		any = false

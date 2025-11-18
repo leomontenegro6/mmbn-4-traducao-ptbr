@@ -168,9 +168,9 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Porque ele é o me-
-	lhor NetLutador de
-	ACDC... de DenCity!
+	Porque ele é o melhor
+	NetLutador de ACDC...
+	de DenCity!
 	"""
 	keyWait
 		any = false

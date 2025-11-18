@@ -193,9 +193,9 @@ script 6 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	mas a Princesa Ala-
-	barda usou seu ma-
-	chado para entrar
+	mas a Princesa
+	Alabarda usou seu
+	machado para entrar
 	"""
 	keyWait
 		any = false
@@ -209,9 +209,9 @@ script 6 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Tomahawk fora apri-
-	sionado. Com a força
-	que lhe restava,
+	Tomahawk fora
+	aprisionado. Com a
+	força que lhe restava,
 	"""
 	keyWait
 		any = false
@@ -257,9 +257,9 @@ script 6 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	mas o sorriso calo-
-	roso e vibrante do
-	Príncipe a acalmou.
+	mas o sorriso
+	caloroso e vibrante
+	do Príncipe a acalmou.
 	"""
 	keyWait
 		any = false
@@ -309,8 +309,8 @@ script 8 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Parecia um cão nor-
-	mal, mas, na verdade,
+	Parecia um cão normal,
+	mas, na verdade,
 	era um feiticeiro
 	"""
 	keyWait
@@ -383,9 +383,9 @@ script 10 mmbn4 {
 	mugshotHide
 	msgOpen
 	"""
-	Porém, um certo inci-
-	dente forçou os dois
-	a cooperarem.
+	Porém, um certo
+	incidente forçou os
+	dois a cooperarem.
 	"""
 	keyWait
 		any = false
@@ -866,14 +866,14 @@ script 18 mmbn4 {
 	clearMsg
 	"""
 	Porém, Flandrô havia
-	sido usado em inú-
-	meras guerras, e ao
+	sido usado em
+	inúmeras guerras, e,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	se lembrar de seus
+	ao se lembrar de seus
 	atos horríveis, caiu
 	em grande angústia.
 	"""
@@ -1040,9 +1040,9 @@ script 20 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	e voou em direção a
-	um céu da mais com-
-	pleta escuridão...
+	e voou em direção
+	a um céu da mais
+	completa escuridão...
 	"""
 	keyWait
 		any = false
@@ -1170,17 +1170,17 @@ script 24 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	e lá, Django, se depa-
-	rou com o maligno
+	e lá, Django, se
+	deparou com o maligno
 	Vampiro da cidade.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Dracky, o Super Vam-
-	piro, imune a alho
-	e a cruzes.
+	Dracky, o Super
+	Vampiro, imune a
+	alho e a cruzes.
 	"""
 	keyWait
 		any = false

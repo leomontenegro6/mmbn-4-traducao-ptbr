@@ -123,9 +123,9 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Está no canto supe-
-	rior-direito de um
-	quadrado na área!
+	Está no canto superior-
+	direito de um quadrado
+	na área!
 	"""
 	keyWait
 		any = false

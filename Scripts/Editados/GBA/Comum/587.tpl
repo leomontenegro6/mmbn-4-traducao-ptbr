@@ -6,8 +6,8 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	Senhoras e senhores!
-	Apresentando os com-
-	petidores de hoje!
+	Apresentando os
+	competidores de hoje!
 	"""
 	keyWait
 		any = false
@@ -31,8 +31,8 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	Aposto que ele vai
-	usar a pasta horrí-
-	vel que eu deixei...
+	usar a pasta horrível
+	que eu deixei...
 	"""
 	keyWait
 		any = false
@@ -161,9 +161,9 @@ script 6 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E um certo senhorzi-
-	nho me pediu pra te
-	dar uma surra.
+	E um certo senhorzinho
+	me pediu pra te dar
+	uma surra.
 	"""
 	keyWait
 		any = false

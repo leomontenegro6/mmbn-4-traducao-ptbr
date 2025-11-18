@@ -92,8 +92,8 @@ script 2 mmbn4 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	Quem vai lutar pri-
-	meiro? Quem vai
+	Quem vai lutar
+	primeiro? Quem vai
 	vencer? Quero saber!
 	"""
 	keyWait
@@ -182,8 +182,8 @@ script 8 mmbn4 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Se eu tivesse entra-
-	do no torneio, com
+	Se eu tivesse entrado
+	no torneio, com
 	certeza venceria!
 	"""
 	keyWait
@@ -208,9 +208,9 @@ script 11 mmbn4 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Então, depois da pró-
-	xima luta, acaba o
-	torneio? Poxa...
+	Então, depois da
+	próxima luta, acaba
+	o torneio? Poxa...
 	"""
 	keyWait
 		any = false

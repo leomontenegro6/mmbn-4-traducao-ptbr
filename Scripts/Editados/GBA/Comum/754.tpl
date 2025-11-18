@@ -68,9 +68,9 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	o Sistema de Geren-
-	ciamento do Rio.
-	Vai dar bom!
+	o Sistema de
+	Gerenciamento do
+	Rio. Vai dar bom!
 	"""
 	keyWait
 		any = false
@@ -316,8 +316,8 @@ script 21 mmbn4 {
 	clearMsg
 	"""
 	Primeiro, precisa do
-	programa para con-
-	sertar o DeusÁgua.
+	programa para consertar
+	o DeusÁgua.
 	"""
 	keyWait
 		any = false

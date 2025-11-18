@@ -130,8 +130,8 @@ script 5 mmbn4 {
 		mugshot = Lan
 	"""
 	Beleza!! A gente vai
-	passar nas prelimi-
-	nares, pode apostar!
+	passar nas preliminares,
+	pode apostar!
 	"""
 	keyWait
 		any = false
@@ -146,9 +146,9 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = BusinessMan
 	"""
-	Declaro as prelimi-
-	nares do Torneio de
-	Batalha Den...
+	Declaro as preliminares
+	do Torneio de Batalha
+	Den...
 	"""
 	keyWait
 		any = false
@@ -184,9 +184,9 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = BusinessMan
 	"""
-	Declaro as prelimi-
-	nares do Torneio de
-	Batalha da Cidade...
+	Declaro as preliminares
+	do Torneio de Batalha
+	da Cidade...
 	"""
 	keyWait
 		any = false

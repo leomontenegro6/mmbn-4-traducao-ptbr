@@ -37,8 +37,8 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	Não esperava menos
-	do campeão do Tor-
-	neio de Batalha Den!
+	do campeão do Torneio
+	de Batalha Den!
 	"""
 	keyWait
 		any = false
@@ -159,8 +159,8 @@ script 6 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Bem, você FOI o cam-
-	peão do Torneio de
+	Bem, você FOI o
+	campeão do Torneio de
 	Batalha da Cidade!
 	"""
 	keyWait

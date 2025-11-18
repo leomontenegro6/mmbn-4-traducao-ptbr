@@ -161,8 +161,8 @@ script 8 mmbn4 {
 	clearMsg
 	"""
 	um dos níveis mais
-	profundos da Under-
-	net. Tome cuidado!
+	profundos da Undernet.
+	Tome cuidado!
 	"""
 	keyWait
 		any = false

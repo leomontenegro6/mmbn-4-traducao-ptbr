@@ -144,9 +144,9 @@ script 6 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ninguém quer ver as
-	suas produções ego-
-	maníacas, mesmo!
+	Ninguém quer ver
+	as suas produções
+	egomaníacas, mesmo!
 	"""
 	keyWait
 		any = false
@@ -290,8 +290,8 @@ script 15 mmbn4 {
 	clearMsg
 	"""
 	seria super difícil
-	expressar a satisfa-
-	ção desta vitória!
+	expressar a satisfação
+	desta vitória!
 	"""
 	keyWait
 		any = false

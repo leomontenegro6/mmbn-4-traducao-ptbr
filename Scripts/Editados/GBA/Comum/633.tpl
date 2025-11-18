@@ -183,9 +183,9 @@ script 12 mmbn4 {
 	mugshotShow
 		mugshot = BlackMan
 	"""
-	A localização é óti-
-	ma, em uma área resi-
-	dencial com parque!
+	A localização é ótima,
+	em uma área residencial
+	com parque!
 	"""
 	keyWait
 		any = false
@@ -292,8 +292,8 @@ script 18 mmbn4 {
 	clearMsg
 	"""
 	Ah, cara! Estou tão
-	animado por ser par-
-	te desse projeto!
+	animado por ser
+	parte desse projeto!
 	"""
 	keyWait
 		any = false
@@ -366,9 +366,9 @@ script 23 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Não podem trans-
-	formar a loja numa
-	loja de escovas!
+	Não podem transformar
+	a loja numa loja de
+	escovas!
 	"""
 	keyWait
 		any = false
@@ -404,8 +404,8 @@ script 24 mmbn4 {
 	clearMsg
 	"""
 	Hora de uma super
-	campanha publicitá-
-	ria do Higsby!
+	campanha publicitária
+	do Higsby!
 	"""
 	keyWait
 		any = false

@@ -826,8 +826,8 @@ script 70 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	... Mas não vai es-
-	quecer das energias
+	... Mas não vai
+	esquecer das energias
 	que eu mandei!
 	"""
 	keyWait
@@ -865,8 +865,8 @@ script 72 mmbn4 {
 	clearMsg
 	"""
 	Será que eu devia
-	começar a experimen-
-	tar NetLuta?
+	começar a experimentar
+	NetLuta?
 	"""
 	keyWait
 		any = false
@@ -885,8 +885,8 @@ script 73 mmbn4 {
 	clearMsg
 	"""
 	... mas é tão
-	difícil achar moti-
-	vação pras coisas...
+	difícil achar
+	motivação pras coisas...
 	"""
 	keyWait
 		any = false
@@ -945,9 +945,9 @@ script 100 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	... se não se impor-
-	tar de perder a sua
-	atual! Que tal?
+	... se não se importar
+	de perder a sua atual!
+	Que tal?
 	"""
 	keyWait
 		any = false

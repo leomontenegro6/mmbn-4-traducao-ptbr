@@ -303,9 +303,9 @@ script 19 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Enquanto o seu cora-
-	ção for mais forte
-	que a Alma Sombria,
+	Enquanto o seu coração
+	for mais forte que a
+	Alma Sombria,
 	"""
 	keyWait
 		any = false

@@ -12,8 +12,8 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Primeiro, represen-
-	tando Ni-Hon:
+	Primeiro,
+	representando Ni-Hon:
 	Lan Hikari!
 	"""
 	keyWait

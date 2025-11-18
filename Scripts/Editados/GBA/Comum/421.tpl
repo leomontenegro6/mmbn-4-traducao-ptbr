@@ -715,8 +715,8 @@ script 35 mmbn4 {
 	msgOpen
 	"""
 	Parece que tem algum
-	tipo de plano secre-
-	to sendo executado.
+	tipo de plano secreto
+	sendo executado.
 	"""
 	keyWait
 		any = false

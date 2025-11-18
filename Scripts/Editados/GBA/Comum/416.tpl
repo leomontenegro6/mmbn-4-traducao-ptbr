@@ -149,8 +149,8 @@ script 15 mmbn4 {
 	clearMsg
 	"""
 	Mas sei que eles não
-	gostam da EletroVi-
-	la. Ou de alturas!
+	gostam da EletroVila.
+	Ou de alturas!
 	"""
 	keyWait
 		any = false
@@ -868,8 +868,8 @@ script 240 mmbn4 {
 	clearMsg
 	"""
 	Há um motivo para
-	eu fazer meus ne-
-	gócios na surdina...
+	eu fazer meus
+	negócios na surdina...
 	"""
 	keyWait
 		any = false

@@ -162,9 +162,9 @@ script 2 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Fica esperto, Mega-
-	Man! O dispositivo
-	tá ligado agora!
+	Fica esperto, MegaMan!
+	O dispositivo tá
+	ligado agora!
 	"""
 	keyWait
 		any = false

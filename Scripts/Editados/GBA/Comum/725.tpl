@@ -204,9 +204,9 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Depois que vencer-
-	mos, vamos nos apo-
-	sentar da NetLuta.
+	Depois que vencermos,
+	vamos nos aposentar
+	das NetLutas.
 	"""
 	keyWait
 		any = false
@@ -390,8 +390,8 @@ script 17 mmbn4 {
 		mugshot = Lan
 	"""
 	Parece só Cyber-
-	Futebol! Onde que tá
-	o "até a morte"?
+	Futebol! Onde que
+	tá o "até a morte"?
 	"""
 	keyWait
 		any = false

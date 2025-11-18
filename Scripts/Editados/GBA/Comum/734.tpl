@@ -109,8 +109,8 @@ script 5 mmbn4 {
 	clearMsg
 	"""
 	mansa. Então, papeia
-	aí com o seu opera-
-	dor enquanto pode.
+	aí com o seu operador
+	enquanto pode.
 	"""
 	keyWait
 		any = false

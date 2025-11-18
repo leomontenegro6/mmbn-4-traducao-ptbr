@@ -87,9 +87,9 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	PRECISO DE CONCEN-
-	TRAÇÃO PARA MANTER
-	CONTATO COM
+	PRECISO DE
+	CONCENTRAÇÃO PARA
+	MANTER CONTATO COM
 	"""
 	keyWait
 		any = false

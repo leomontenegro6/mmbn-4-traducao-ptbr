@@ -440,9 +440,9 @@ script 9 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Quer experimentar o
-	famoso chocolate ma-
-	cedônio da Ameropa?
+	Quer experimentar
+	o famoso chocolate
+	macedônio da Ameropa?
 	"""
 	keyWait
 		any = false
@@ -968,7 +968,7 @@ script 18 mmbn4 {
 	clearMsg
 	mugshotAnimation
 		animation = 1
-	"(Saí no prejuízo,\nmas pelo menos ga-\nnhei a negociação!)"
+	"(Saí no prejuízo,\nmas pelo menos\nganhei a negociação!)"
 	keyWait
 		any = false
 	clearMsg
@@ -1079,8 +1079,8 @@ script 21 mmbn4 {
 	msgOpen
 	"""
 	Espero que tenha
-	gostado do chocola-
-	te! Só vende aqui!
+	gostado do chocolate!
+	Só vende aqui!
 	"""
 	keyWait
 		any = false
@@ -1160,8 +1160,8 @@ script 30 mmbn4 {
 	msgOpen
 	"""
 	Incontáveis turistas
-	vieram para o Tor-
-	neio Sol Vermelho!
+	vieram para o Torneio
+	Sol Vermelho!
 	"""
 	keyWait
 		any = false
@@ -1259,9 +1259,9 @@ script 33 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	ligamos pra modi-
-	nhas. Temos nosso
-	próprio estilo!
+	ligamos pra modinhas.
+	Temos nosso próprio
+	estilo!
 	"""
 	keyWait
 		any = false
@@ -1453,15 +1453,15 @@ script 60 mmbn4 {
 		mugshot = OldManAlt
 	msgOpen
 	"""
-	O meu PET foi modi-
-	ficado e virou uma
-	Caixa Oxe, cheia de
+	O meu PET foi modificado
+	e virou uma Caixa Oxe,
+	cheia de vírus!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	vírus! E agora, o meu
+	E agora, o meu
 	Navi desapareceu!
 	Aonde ele foi?!
 	"""

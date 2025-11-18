@@ -111,8 +111,8 @@ script 7 mmbn4 {
 	clearMsg
 	"""
 	Há quanto tempo!
-	Desde que vocês ven-
-	ceram meus servos.
+	Desde que vocês
+	venceram meus servos.
 	"""
 	keyWait
 		any = false
@@ -243,8 +243,8 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Agora vamos, entre-
-	gue-no de uma vez
+	Agora, vamos!
+	Entregue-o de uma vez
 	ou junte-se a nós!
 	"""
 	keyWait
@@ -450,9 +450,9 @@ script 24 mmbn4 {
 	mugshotShow
 		mugshot = ShadeMan
 	"""
-	Insolente! Prepare-
-	se para se juntar
-	às trevas! Hyeeee!!
+	Insolente! Prepare-se
+	para se juntar às
+	trevas! Hyeeee!!
 	"""
 	keyWait
 		any = false

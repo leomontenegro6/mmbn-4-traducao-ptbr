@@ -105,8 +105,8 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Nem um gato tem vi-
-	das o bastante pra
+	Nem um gato tem
+	vidas o bastante pra
 	durar muito lá!
 	"""
 	keyWait
@@ -210,8 +210,8 @@ script 3 mmbn4 {
 	clearMsg
 	"""
 	Dá pra achar esses
-	mercadores escondi-
-	dos pela Rede...
+	mercadores escondidos
+	pela Rede...
 	"""
 	keyWait
 		any = false
@@ -395,8 +395,8 @@ script 6 mmbn4 {
 	msgOpen
 	"""
 	Que tédio...
-	Se, ao menos, eu ti-
-	vesse mais peças...
+	Se, ao menos, eu
+	tivesse mais peças...
 	"""
 	keyWait
 		any = false
@@ -453,9 +453,9 @@ script 7 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mercadores do merca-
-	do negro se escondem
-	pela Rede...
+	Mercadores do mercado
+	negro se escondem pela
+	Rede...
 	"""
 	keyWait
 		any = false
@@ -834,8 +834,8 @@ script 25 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	O criminoso que ar-
-	mou o dispositivo
+	O criminoso que
+	armou o dispositivo
 	ainda está à solta.
 	"""
 	keyWait

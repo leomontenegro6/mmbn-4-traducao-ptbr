@@ -71,8 +71,8 @@ script 5 mmbn4 {
 		mugshot = Chaud
 	"""
 	Estamos investigando
-	uma série de dele-
-	ções de Navis.
+	uma série de deleções
+	de Navis.
 	"""
 	keyWait
 		any = false
@@ -87,8 +87,8 @@ script 5 mmbn4 {
 	clearMsg
 	"""
 	Nós assumimos daqui.
-	Trabalho de Net-
-	Lutador Oficial.
+	Trabalho de
+	NetLutador Oficial.
 	"""
 	keyWait
 		any = false
@@ -151,15 +151,14 @@ script 9 mmbn4 {
 	clearMsg
 	"""
 	Apesar de ser só uma
-	criança, as habili-
-	dades desse
+	criança, as habilidades
+	desse NetLutador
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NetLutador Oficial
-	são quase
+	Oficial são quase
 	lendárias...
 	"""
 	keyWait
@@ -367,9 +366,9 @@ script 20 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Roll, melhor desco-
-	nectar e avisar pra
-	Mayl que cê tá bem!
+	Roll, melhor desconectar
+	e avisar pra Mayl que cê
+	tá bem!
 	"""
 	keyWait
 		any = false
@@ -389,9 +388,9 @@ script 21 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	... Espera. O Shade-
-	Man não deixou cair
-	uma coisa agora...?
+	... Espera. O ShadeMan
+	não deixou cair uma
+	coisa agora...?
 	"""
 	keyWait
 		any = false

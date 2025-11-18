@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Parece que a confu-
-	são é por causa
-	destes vírus!
+	Parece que a confusão
+	é por causa destes
+	vírus!
 	"""
 	keyWait
 		any = false
@@ -35,17 +35,17 @@ script 10 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	EI, MEU JOVEM! MEUS
-	CACHORROS-QUENTES
+	EI, MEU JOVEM!
+	MEUS BOLINHOS DE POLVO
 	SÃO DIVINOS!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SÓ USAMOS AS
-	MELHORES SALSICHAS!
-	EXPERIMENTE!
+	SÃO FEITOS COM
+	PEDAÇÕES DE POLVO
+	FRESQUINHOS! PROVE!
 	"""
 	keyWait
 		any = false
@@ -66,9 +66,8 @@ script 160 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Eu AMO cachorro-
-	quente! Estou
-	visitando diversas
+	Eu AMO bolinhos de polvo!
+	Estou visitando diversas
 	"""
 	keyWait
 		any = false
@@ -119,7 +118,7 @@ script 161 mmbn4 {
 	msgOpen
 	"""
 	Eu... amo...
-	CACHORRO-QUENTE!
+	BOLINHO DE POLVO!
 	"""
 	keyWait
 		any = false
@@ -129,7 +128,7 @@ script 162 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	msgOpen
-	"Cachorro-quente é\nvida!!"
+	"Bolinho de polvo é vida!!"
 	keyWait
 		any = false
 	end

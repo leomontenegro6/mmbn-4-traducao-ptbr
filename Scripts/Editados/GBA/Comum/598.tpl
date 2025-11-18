@@ -154,8 +154,8 @@ script 8 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Verdade. Deixar vi-
-	dência me botar pra
+	Verdade. Deixar
+	vidência me botar pra
 	baixo é besteira.
 	"""
 	keyWait

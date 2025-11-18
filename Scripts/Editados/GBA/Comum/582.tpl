@@ -52,9 +52,9 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Minha alma se harmo-
-	nizou com o coração
-	ardente do FireMan!
+	Minha alma se harmonizou
+	com o coração ardente
+	do FireMan!
 	"""
 	keyWait
 		any = false

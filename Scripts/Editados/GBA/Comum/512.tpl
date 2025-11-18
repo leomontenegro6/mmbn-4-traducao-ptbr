@@ -34,8 +34,8 @@ script 2 mmbn4 {
 	msgOpen
 	"""
 	Foi difícil, mas você
-	concluiu com suces-
-	so. Bom trabalho!
+	concluiu com sucesso.
+	Bom trabalho!
 	"""
 	keyWait
 		any = false

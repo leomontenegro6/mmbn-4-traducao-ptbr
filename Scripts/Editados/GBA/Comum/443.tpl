@@ -167,8 +167,8 @@ script 3 mmbn4 {
 	clearMsg
 	"""
 	Foram esses sonhos
-	que me fizeram
-	querer o trabalho.
+	que me fizeram querer
+	o trabalho, sabe?
 	"""
 	keyWait
 		any = false
@@ -259,7 +259,7 @@ script 7 mmbn4 {
 script 8 mmbn4 {
 	mugshotShow
 		mugshot = SciLabWoman
-	"He he he."
+	"Ah..."
 	keyWait
 		any = false
 	clearMsg
@@ -314,16 +314,16 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Todo mundo aqui tem
-	seus sonhos
+	Todo mundo aqui
+	tem seus sonhos
 	espaciais.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mas já deu! Chega
-	de lero-lero!
+	... Mas já deu!
+	Chega de lero-lero!
 	Trabalho, já!
 	"""
 	keyWait
@@ -428,8 +428,8 @@ script 18 mmbn4 {
 	msgOpen
 	"""
 	Estou vendo! É um
-	asteroide. Indo di-
-	reto para a Terra...
+	asteroide. Indo
+	direto para a Terra...
 	"""
 	keyWait
 		any = false

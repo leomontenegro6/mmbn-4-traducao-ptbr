@@ -300,16 +300,16 @@ script 100 mmbn4 {
 		buffer = 0
 		chip = 34
 	"""
-	" está sen-
-	do útil? Sabe,
+	" está sendo
+	útil? Sabe,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	enquanto eu caçava o
-	ShadeMan na Under-
-	net, senti uma força
+	ShadeMan na Undernet,
+	senti uma força
 	"""
 	keyWait
 		any = false

@@ -67,8 +67,8 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	É um truque frequen-
-	te deles. Eu já o
+	É um truque frequente
+	deles. Eu já o
 	superei antes.
 	"""
 	keyWait

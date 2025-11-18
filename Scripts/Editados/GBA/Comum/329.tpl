@@ -356,8 +356,8 @@ script 15 mmbn4 {
 	msgOpen
 	"""
 	Eu nem imaginava que
-	você era o NetLuta-
-	dor #1 de Ni-Hon!
+	você era o NetLutador
+	nº 1 de Ni-Hon!
 	"""
 	keyWait
 		any = false
@@ -435,8 +435,8 @@ script 20 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Melhor eu desconec-
-	tar antes que chegue
+	Melhor eu desconectar
+	antes que chegue
 	alguma coisa aqui!
 	"""
 	keyWait
@@ -541,8 +541,8 @@ script 27 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	O incidente no exte-
-	rior pode surtir um
+	O incidente no exterior
+	pode surtir um
 	impacto sobre nós.
 	"""
 	keyWait

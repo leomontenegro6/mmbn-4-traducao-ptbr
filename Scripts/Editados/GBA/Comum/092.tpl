@@ -119,9 +119,9 @@ script 7 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Uma fritadeira! Não
-	vai escorregar em
-	mostarda, hein!
+	Uma chapa! Não vai
+	esmagar um bolinho
+	de polvo, viu?
 	"""
 	keyWait
 		any = false
@@ -265,9 +265,9 @@ script 18 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Graças a esta casi-
-	nha, nosso lar está
-	a salvo... talvez.
+	Graças a esta casinha,
+	nossa casa fica
+	protegida... talvez.
 	"""
 	keyWait
 		any = false

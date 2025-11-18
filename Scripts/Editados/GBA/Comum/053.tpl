@@ -47,13 +47,12 @@ script 3 mmbn4 {
 	msgOpen
 	"""
 	Ela mostra o estado
-	emocional do seu
-	Navi.
+	emocional do seu Navi.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Se ficar de olho\nnela,"
+	"Se ficar de olho nela,"
 	keyWait
 		any = false
 	clearMsg
@@ -66,9 +65,8 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	De início, o seu
-	Navi vai estar
-	calmo,
+	De início, o seu Navi
+	vai estar calmo,
 	"""
 	keyWait
 		any = false
@@ -94,9 +92,9 @@ script 4 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	E inversamente, um
-	Navi bem operado en-
-	trará em Sincronia
+	E, inversamente, um
+	Navi bem operado
+	entrará em Sincronia
 	"""
 	keyWait
 		any = false
@@ -119,8 +117,7 @@ script 5 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	E como eu opero
-	isso?
+	E como eu opero isso?
 	"""
 	keyWait
 		any = false
@@ -187,9 +184,9 @@ script 8 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Isso o pega despre-
-	venido e o atordoa
-	por um tempo.
+	Isso o pega
+	desprevenido e o
+	atordoa por um tempo.
 	"""
 	keyWait
 		any = false
@@ -215,9 +212,9 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = Dad
 	"""
-	Na SincTotl, o próxi-
-	mo chip causa o do-
-	bro de dano uma vez.
+	Na SincTotl, o próximo
+	chip causa o dobro de
+	dano uma vez.
 	"""
 	keyWait
 		any = false

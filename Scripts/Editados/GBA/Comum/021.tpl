@@ -10,8 +10,8 @@ script 0 mmbn4 {
 		top = 108
 	"""
 	Bem-vindos ao Fórum
-	de Bate-Papo na pá-
-	gina da Srta. Yai.
+	de Bate-Papo na
+	página da Srta. Yai.
 	"""
 	keyWait
 		any = false
@@ -42,8 +42,8 @@ script 1 mmbn4 {
 		top = 108
 	"""
 	Yai! Parabéns na
-	repaginada da pági-
-	na! Parece que sou
+	repaginada da página!
+	Parece que sou
 	"""
 	keyWait
 		any = false
@@ -57,9 +57,9 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	comprou na Eletro-
-	Vila? Vamos fazer
-	compras lá de novo!
+	comprou na EletroVila?
+	Vamos fazer compras lá
+	de novo!
 	"""
 	keyWait
 		any = false
@@ -120,8 +120,8 @@ script 3 mmbn4 {
 	clearMsg
 	"""
 	Obrigada por postar,
-	Mayl! O secador fun-
-	ciona feito mágica!
+	Mayl! O secador funciona
+	feito mágica!
 	"""
 	keyWait
 		any = false

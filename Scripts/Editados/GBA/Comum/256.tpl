@@ -72,8 +72,8 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	Mas, depois de todo
-	o trabalho que ti-
-	vemos no torneio...
+	o trabalho que
+	tivemos no torneio...
 	"""
 	keyWait
 		any = false
@@ -309,9 +309,9 @@ script 12 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	Achei o meu esconde-
-	rijo! Agora, vou des-
-	cansar um pouco...
+	Achei o meu esconderijo!
+	Agora, vou descansar
+	um pouco...
 	"""
 	keyWait
 		any = false
@@ -383,8 +383,8 @@ script 21 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	Cuidado! Agora é vo-
-	cê quem pode acabar
+	Cuidado! Agora é você
+	quem pode acabar
 	sendo caçado agora!
 	"""
 	keyWait
@@ -396,8 +396,8 @@ script 22 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Estes cachorros-
-	quentes são tão
+	Estes bolinhos
+	de polvo são tão
 	gostosos!
 	"""
 	keyWait
@@ -639,9 +639,9 @@ script 50 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	mas fica meio soli-
-	tário aqui sem toda
-	aquela gente...
+	mas fica meio
+	solitário aqui sem
+	toda aquela gente...
 	"""
 	keyWait
 		any = false
@@ -681,9 +681,9 @@ script 52 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Se você vencer, fare-
-	mos uma celebração
-	em sua honra aqui!
+	Se você vencer, faremos
+	uma celebração em sua
+	honra aqui!
 	"""
 	keyWait
 		any = false

@@ -9,8 +9,8 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Tem uma força som-
-	bria poderosa aqui!
+	Tem uma força sombria
+	poderosa aqui!
 	Não consigo seguir!
 	"""
 	keyWait
@@ -26,16 +26,15 @@ script 1 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	O grande buraco ne-
-	gro leva à "Terra
-	Negra", o mundo da
+	O grande buraco negro
+	leva à "Terra Negra",
+	o mundo da escuridão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	escuridão. Ela
-	expele poder
+	Ela expele poder
 	sombrio, impedindo
 	"""
 	keyWait

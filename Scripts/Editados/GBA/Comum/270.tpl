@@ -18,9 +18,9 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	eu trouxe uns ami-
-	gos! Mas por que o
-	parque tá tão vazio?
+	eu trouxe uns amigos!
+	Mas por que o parque
+	tá tão vazio?
 	"""
 	keyWait
 		any = false
@@ -65,9 +65,9 @@ script 3 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	Se eu ficar esperan-
-	do aqui, talvez 
-	a Mami volte...
+	Se eu ficar esperando
+	aqui, talvez a Mami
+	volte...
 	"""
 	keyWait
 		any = false
@@ -240,8 +240,8 @@ script 20 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	É o popular persona-
-	gem do Castillo, o
+	É o popular personagem
+	do Castillo, o
 	MagoCão!
 	"""
 	keyWait
@@ -266,8 +266,8 @@ script 21 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	É a popular persona-
-	gem do Castillo, a
+	É a popular personagem
+	do Castillo, a
 	Princesa Alabarda!
 	"""
 	keyWait
@@ -603,8 +603,8 @@ script 52 mmbn4 {
 		mugshot = Woman
 	msgOpen
 	"""
-	A minha filha implo-
-	rou pra voltar aqui,
+	A minha filha implorou
+	pra voltar aqui,
 	então, trouxe ela!
 	"""
 	keyWait
@@ -635,8 +635,8 @@ script 55 mmbn4 {
 	msgOpen
 	"""
 	Talvez as pessoas
-	viessem se fizésse-
-	mos outro torneio...
+	viessem se fizéssemos
+	outro torneio...
 	"""
 	keyWait
 		any = false

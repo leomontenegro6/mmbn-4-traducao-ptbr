@@ -67,8 +67,8 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Eu também senti for-
-	te o amor da Sal e
+	Eu também senti
+	forte o amor da Sal e
 	do WoodMan por ela!
 	"""
 	keyWait
@@ -103,16 +103,16 @@ script 5 mmbn4 {
 		mugshot = Sal
 	msgOpen
 	"""
-	Se foi isso que ti-
-	raram da luta, estou
+	Se foi isso que
+	tiraram da luta, estou
 	muito satisfeita.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Promover a conserva-
-	ção do meio ambiente
+	Promover a conservação
+	do meio ambiente
 	É o meu objetivo.
 	"""
 	keyWait

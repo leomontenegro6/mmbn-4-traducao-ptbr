@@ -210,8 +210,8 @@ script 12 mmbn4 {
 		mugshot = Lan
 	"""
 	Maldição...
-	mortífera? O Mega-
-	Man v-vai morrer?
+	mortífera? O MegaMan
+	v-vai morrer?
 	"""
 	keyWait
 		any = false
@@ -388,8 +388,8 @@ script 22 mmbn4 {
 		mugshot = Raoul
 	"""
 	Há uma rota na Área
-	Ameropa que é barra-
-	da por uma porta.
+	Ameropa que é barrada
+	por uma porta.
 	"""
 	keyWait
 		any = false
@@ -460,9 +460,9 @@ script 24 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	mas o MegaMan preci-
-	sa passar por ela
-	se quiser viver!
+	mas o MegaMan precisa
+	passar por ela se
+	quiser viver!
 	"""
 	keyWait
 		any = false

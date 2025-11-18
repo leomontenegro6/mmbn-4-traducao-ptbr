@@ -241,9 +241,9 @@ script 13 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Tem uma ótima barra-
-	quinha de cachorro-
-	quente aqui perto!
+	Tem uma ótima
+	barraquinha de bolinhos
+	de polvo aqui perto!
 	"""
 	keyWait
 		any = false

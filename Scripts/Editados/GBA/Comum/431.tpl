@@ -211,17 +211,17 @@ script 4 mmbn4 {
 	waitSkip
 		frames = 30
 	"""
-	Você é o Mega-
-	Man! Seu pai me
-	falou de você.
+	Você é o MegaMan!
+	Seu pai me falou
+	de você.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Parece que o fugi-
-	tivo está escondido
-	na Área Parque...
+	Parece que o fugitivo
+	está escondido na
+	Área Parque...
 	"""
 	keyWait
 		any = false
@@ -525,8 +525,8 @@ script 15 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	... MAS LIMPAR DE-
-	POIS DE UM EVENTO
+	... MAS LIMPAR
+	DEPOIS DE UM EVENTO
 	DESSES É DUREZA...
 	"""
 	keyWait
@@ -622,8 +622,8 @@ script 18 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	... MAS LIMPAR DE-
-	POIS DE UM EVENTO
+	... MAS LIMPAR
+	DEPOIS DE UM EVENTO
 	DESSES É DUREZA...
 	"""
 	keyWait
@@ -655,8 +655,8 @@ script 26 mmbn4 {
 	msgOpen
 	"""
 	Foi você que abriu
-	aquelas caixas es-
-	tranhas ontem?
+	aquelas caixas
+	estranhas ontem?
 	"""
 	keyWait
 		any = false
@@ -1004,9 +1004,9 @@ script 50 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	FOI VOCÊ QUEM RESOL-
-	VEU O PROBLEMA DOS
-	LINKS CORTADOS? UAU!
+	FOI VOCÊ QUEM RESOLVEU
+	O PROBLEMA DOS LINKS
+	CORTADOS? UAU!
 	"""
 	keyWait
 		any = false
@@ -1153,8 +1153,8 @@ script 130 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	você leva pães ame-
-	ropanos fresquinhos,
+	você leva pães
+	ameropanos fresquinhos,
 	diretos do forno!
 	"""
 	keyWait
@@ -1550,8 +1550,8 @@ script 150 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Credo! Essas crian-
-	ças de hoje e essa
+	Credo! Essas crianças
+	de hoje e essa
 	NetLuta...
 	"""
 	keyWait

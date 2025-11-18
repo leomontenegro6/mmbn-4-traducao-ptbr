@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = OldManAlt
 	msgOpen
 	"""
-	Você ainda não está
-	pronto para repre-
-	sentar Ni-Hon.
+	Você ainda não
+	está pronto para
+	representar Ni-Hon.
 	"""
 	keyWait
 		any = false

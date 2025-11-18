@@ -159,9 +159,9 @@ script 8 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Eu o roteirizei, pro-
-	duzi e dirigi, e você
-	o ridicularizou!
+	Eu o roteirizei,
+	produzi e dirigi, e
+	você o ridicularizou!
 	"""
 	keyWait
 		any = false
@@ -351,8 +351,8 @@ script 23 mmbn4 {
 		mugshot = MegaMan
 	"""
 	Eu não sofri nenhum
-	dano, mas tô me sen-
-	tindo tão estranho.
+	dano, mas tô me
+	sentindo tão estranho.
 	"""
 	keyWait
 		any = false

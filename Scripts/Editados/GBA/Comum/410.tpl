@@ -51,7 +51,7 @@ script 0 mmbn4 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
 	"""
@@ -147,7 +147,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Vamos, leve o
+	Aqui, o seu
 	"
 	"""
 	printItem
@@ -258,8 +258,8 @@ script 11 mmbn4 {
 	msgOpen
 	"""
 	ESTA ROTA ESTÁ
-	FECHADA AGORA.
-	ESTÁ EM MANUTENÇÃO.
+	FECHADA AGORA
+	PARA MANUTENÇÃO.
 	"""
 	keyWait
 		any = false
@@ -330,9 +330,9 @@ script 14 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Agradeço o sentimen-
-	to, mas você não tem
-	o dinheiro!
+	Agradeço o sentimento,
+	mas você não tem o
+	dinheiro!
 	"""
 	keyWait
 		any = false
@@ -547,9 +547,9 @@ script 25 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	EU ESPERAVA QUE ME-
-	NOS GENTE FOSSE USAR
-	A REDE. LEDO ENGANO!
+	EU ESPERAVA QUE MENOS
+	GENTE FOSSE USAR A
+	REDE. LEDO ENGANO!
 	"""
 	keyWait
 		any = false
@@ -588,9 +588,9 @@ script 26 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Estou nas prelimi-
-	nares do Torneio
-	de Batalha Den.
+	Estou nas preliminares
+	do Torneio de Batalha
+	Den.
 	"""
 	keyWait
 		any = false
@@ -609,8 +609,8 @@ script 27 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Estou nas prelimina-
-	res do Torneio de
+	Estou nas preliminares
+	do Torneio de
 	Batalha da Cidade.
 	"""
 	keyWait
@@ -998,8 +998,8 @@ script 160 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	O que foi? Distri-
-	buindo panfletos?
+	O que foi?
+	Distribuindo panfletos?
 	Eu aceito um.
 	"""
 	keyWait

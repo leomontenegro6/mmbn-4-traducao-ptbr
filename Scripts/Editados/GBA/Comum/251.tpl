@@ -286,8 +286,8 @@ script 36 mmbn4 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	Um Oficial ni-
-	honense aí me
+	Um Oficial
+	ni-honense aí me
 	mandou voltar pro
 	"""
 	keyWait

@@ -102,8 +102,8 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ele só vende os me-
-	lhores ingredientes,
+	Ele só vende os
+	melhores ingredientes,
 	mas tanto o lojista
 	"""
 	keyWait

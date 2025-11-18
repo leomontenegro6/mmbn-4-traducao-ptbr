@@ -5,8 +5,8 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Estes fones são in-
-	críveis! Nem escuto
+	Estes fones são
+	incríveis! Nem escuto
 	o raio sônico!
 	"""
 	keyWait

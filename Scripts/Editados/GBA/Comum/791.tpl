@@ -21,9 +21,9 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	A salvação final
-	para mentes mergu-
-	lhadas nas trevas.
+	A salvação final para
+	mentes mergulhadas
+	nas trevas.
 	"""
 	keyWait
 		any = false
@@ -161,8 +161,8 @@ script 9 mmbn4 {
 	clearMsg
 	"""
 	MegaMan, nunca vamos
-	nos render às nos-
-	sas escuridões!
+	nos render às nossas
+	escuridões!
 	"""
 	keyWait
 		any = false

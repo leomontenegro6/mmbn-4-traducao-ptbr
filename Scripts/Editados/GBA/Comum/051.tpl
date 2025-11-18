@@ -30,9 +30,9 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Er... Pra lutar con-
-	tra vírus, primeiro
-	eu tenho que...
+	Er... Pra lutar contra
+	vírus, primeiro eu
+	tenho que...
 	"""
 	keyWait
 		any = false
@@ -110,7 +110,7 @@ script 5 mmbn4 {
 	clearMsg
 	"""
 	Isso aqui é vital:
-	são os PV do vírus!
+	são os PV dos vírus!
 	Os pontos de vida!
 	"""
 	keyWait
@@ -268,15 +268,14 @@ script 12 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Eu até posso lutar
-	só com o meu
-	MegaAtirador,
+	Eu até posso lutar só
+	com o meu MegaTiro,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	mas é melhor ter
+	mas é melhor usar
 	chips pra lutar
 	direito!
 	"""
@@ -306,9 +305,9 @@ script 14 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Beleza! Aí aperto
-	"OK" depois de
-	escolher o chip.
+	Beleza! Agora que eu
+	selecionei os chips,
+	eu aperto "OK".
 	"""
 	keyWait
 		any = false
@@ -411,8 +410,8 @@ script 19 mmbn4 {
 	clearMsg
 	"""
 	minha cabeça.
-	Use eles apertando
-	"A".
+	Pra usar eles,
+	aperte "A".
 	"""
 	keyWait
 		any = false

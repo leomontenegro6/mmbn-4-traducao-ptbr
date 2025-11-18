@@ -119,16 +119,16 @@ script 6 mmbn4 {
 	clearMsg
 	"""
 	Todos nós, os 1500
-	membros da organi-
-	zação de proteção
+	membros da organização
+	de proteção ambiental,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ambiental, queremos
-	ver você fazer
-	bonito lá na arena!
+	queremos ver você
+	fazer bonito lá na
+	arena!
 	"""
 	keyWait
 		any = false

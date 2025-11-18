@@ -65,8 +65,8 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Esta luta foi injus-
-	ta e idiota. Eu vou
+	Esta luta foi injusta
+	e idiota. Eu vou
 	voltar para Sharo!
 	"""
 	keyWait
@@ -105,9 +105,9 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Odeio como crianci-
-	nhas como você per-
-	dem a cabeça rápido!
+	Odeio como criancinhas
+	como você perdem a
+	cabeça rápido!
 	"""
 	keyWait
 		any = false
@@ -272,9 +272,9 @@ script 14 mmbn4 {
 	mugshotShow
 		mugshot = SciLabMan
 	"""
-	Ah, temos uma sala de
-	interrogatório pre-
-	parada para você...
+	Ah, temos uma sala
+	de interrogatório
+	preparada para você...
 	"""
 	keyWait
 		any = false

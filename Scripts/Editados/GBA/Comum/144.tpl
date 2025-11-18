@@ -31,8 +31,8 @@ script 1 mmbn4 {
 	msgOpen
 	"""
 	O botão de desligar
-	do Robô... Não pre-
-	cisa apertar agora.
+	do Robô... Não precisa
+	apertar agora.
 	"""
 	keyWait
 		any = false
@@ -183,14 +183,14 @@ script 14 mmbn4 {
 	clearMsg
 	"""
 	Porém, Flandrô havia
-	sido usado em inú-
-	meras guerras, e ao
+	sido usado em
+	inúmeras guerras, e,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	se lembrar de seus
+	ao se lembrar de seus
 	atos horríveis, caiu
 	em grande angústia.
 	"""

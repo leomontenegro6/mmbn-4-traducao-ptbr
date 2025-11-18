@@ -26,8 +26,8 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Foi feita para pare-
-	cer quebrada, mas é
+	Foi feita para parecer
+	quebrada, mas é
 	novinha em folha.
 	"""
 	keyWait

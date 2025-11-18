@@ -159,8 +159,8 @@ script 120 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Os meuzamigo da bi-
-	rita tão de bobeira
+	Os meuzamigo da
+	birita tão de bobeira
 	na Área Parque...
 	"""
 	keyWait

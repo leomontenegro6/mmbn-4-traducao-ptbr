@@ -278,17 +278,16 @@ script 21 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	possuem são conheci-
-	dos como "Peças
-	Próton". Essas não
+	possuem são conhecidos
+	como "Peças Próton".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	devem ser colocadas
-	sobre a Linha de
-	Comando.
+	Essas não devem ser
+	colocadas sobre a
+	Linha de Comando.
 	"""
 	keyWait
 		any = false
@@ -338,9 +337,9 @@ script 25 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Ótimo. Para termi-
-	nar, vamos instalar
-	um "Rapidz+1"
+	Ótimo. Para terminar,
+	vamos instalar um
+	"Rapidz+1".
 	"""
 	keyWait
 		any = false
@@ -660,9 +659,9 @@ script 37 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Se instalar 5 ou
-	mais, o MegaMan fica-
-	rá sobrecarregado,
+	Se instalar 5 ou mais,
+	o MegaMan ficará
+	sobrecarregado,
 	"""
 	keyWait
 		any = false
@@ -710,8 +709,8 @@ script 38 mmbn4 {
 		mugshot = Dad
 	"""
 	Isso conclui minha
-	explicação do Cus-
-	tomizador de Navi.
+	explicação do
+	Customizador de Navi.
 	"""
 	keyWait
 		any = false

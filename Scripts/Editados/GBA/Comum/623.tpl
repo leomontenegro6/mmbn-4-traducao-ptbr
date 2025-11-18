@@ -35,8 +35,8 @@ script 1 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Uma batalha de co-
-	nhecimento com um
+	Uma batalha de
+	conhecimento com um
 	Navi jovem faz eu me
 	"""
 	keyWait
@@ -1304,8 +1304,8 @@ script 25 mmbn4 {
 	msgOpen
 	"""
 	Ah, coisa boa. Agora
-	não tenho que ir na-
-	quele quiropraxista!
+	não tenho que ir
+	naquele quiropraxista!
 	"""
 	keyWait
 		any = false

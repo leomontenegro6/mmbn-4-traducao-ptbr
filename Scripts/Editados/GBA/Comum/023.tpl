@@ -106,32 +106,32 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	com grama e fissu-
-	ras. Cuidado com os
-	vírus Kilby.
+	com grama e fissuras.
+	Cuidado com os vírus
+	Kilby.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Eles se teletrans-
-	portam para a sua
-	área e atacam com
+	Eles se teletransportam
+	para a sua área e atacam
+	com lanças.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	lanças. Mas se ficar
-	na linha de cima,
-	eles não vão até
+	Mas, se ficar na
+	linha de cima, eles
+	não vão até você.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	você. Eles são vírus
-	de Madeira, então,
+	Eles são vírus de
+	Madeira, então,
 	use chips de Fogo!
 	"""
 	keyWait
@@ -155,15 +155,15 @@ script 3 mmbn4 {
 	clearMsg
 	"""
 	Sharo é uma terra
-	congelada, com qua-
-	dros de gelo na Rede
+	congelada, com quadros
+	de gelo na Rede também,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	também, então tente
-	usar um Repair como
+	então tente usar
+	um Repair como
 	Chip Padrão.
 	"""
 	keyWait
@@ -382,9 +382,8 @@ script 6 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	no mercado perifé-
-	rico. É um Chip das
-	Trevas...?
+	no mercado periférico.
+	É um Chip das Trevas...?
 	"""
 	keyWait
 		any = false

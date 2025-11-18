@@ -40,8 +40,8 @@ script 0 mmbn4 {
 		width = 18
 		height = 3
 	"""
-	No Coliseu da Ame-
-	ropa, uma cerimônia
+	No Coliseu da Ameropa.
+	uma cerimônia
 	tardia é sediada.
 	"""
 	keyWait

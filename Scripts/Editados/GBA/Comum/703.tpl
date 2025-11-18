@@ -250,9 +250,9 @@ script 14 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Ter um espírito fla-
-	mejante é legal, mas
-	isso já é demais.
+	Ter um espírito
+	flamejante é legal,
+	mas isso já é demais.
 	"""
 	keyWait
 		any = false

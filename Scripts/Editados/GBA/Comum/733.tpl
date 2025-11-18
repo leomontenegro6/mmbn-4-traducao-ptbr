@@ -236,11 +236,11 @@ script 14 mmbn4 {
 		mugshot = Lan
 	mugshotAnimation
 		animation = 1
-	"(Será que a persona-\nlidade dele mudou\ncom o choque do"
+	"(Será que a\npersonalidade dele\nmudou com o choque"
 	keyWait
 		any = false
 	clearMsg
-	"acidente? Mas ele tá\nmuito estranho\nsim..."
+	"do acidente? Mas ele\ntá muito estranho\nsim..."
 	keyWait
 		any = false
 	clearMsg

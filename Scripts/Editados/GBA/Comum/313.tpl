@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan, o campo magnéti-
-	co dessa área é
-	instável demais
+	Lan, o campo magnético
+	cdessa área é instável
+	demais
 	"""
 	keyWait
 		any = false

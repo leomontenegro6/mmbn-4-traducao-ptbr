@@ -65,8 +65,8 @@ script 4 mmbn4 {
 		mugshot = Lan
 	"""
 	Só sei que só o
-	Match pode conser-
-	tar, ao que parece.
+	Match pode consertar,
+	ao que parece.
 	"""
 	keyWait
 		any = false

@@ -127,8 +127,8 @@ script 8 mmbn4 {
 	clearMsg
 	"""
 	Eu ainda não sei o
-	que houve, mas preci-
-	so ir à Ameropa.
+	que houve, mas preciso
+	ir à Ameropa.
 	"""
 	keyWait
 		any = false
@@ -256,16 +256,16 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Yai
 	"""
-	A gente vai compen-
-	sar pela viagem do
-	seu pai.
+	A gente vai compensar
+	pela viagem do seu
+	pai.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Porque os seus ami-
-	gos aqui são bons
+	Porque os seus
+	amigos aqui são bons
 	assim, sabe?
 	"""
 	keyWait

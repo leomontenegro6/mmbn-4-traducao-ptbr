@@ -5,17 +5,16 @@ script 10 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	ESTE HERÓI DESCONHE-
-	CIDO MONITORA AS
-	RUÍNAS, SEMPRE
+	ESTE HERÓI DESCONHECIDO
+	MONITORA AS RUÍNAS,
+	SEMPRE DE OLHO
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	DE OLHO PARA VER SE
-	ALGUÉM MEXE COM AS
-	RUÍNAS.
+	PARA VER SE ALGUÉM
+	MEXE COM ELAS.
 	"""
 	keyWait
 		any = false

@@ -295,8 +295,8 @@ script 31 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Já distribuí panfle-
-	tos o bastante.
+	Já distribuí
+	panfletos o bastante.
 	Posso jogar fora!
 	"""
 	keyWait

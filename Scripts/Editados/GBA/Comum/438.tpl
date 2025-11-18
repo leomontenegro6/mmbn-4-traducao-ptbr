@@ -9,8 +9,8 @@ script 0 mmbn4 {
 		jumpIfTrue = 2
 		jumpIfFalse = continue
 	"""
-	... Eu sou o porta-
-	dor de um dos 5
+	... Eu sou o portador
+	de um dos 5
 	Chips do Mal...
 	"""
 	keyWait
@@ -33,8 +33,8 @@ script 0 mmbn4 {
 	clearMsg
 	"""
 	Conquistou a chance
-	de encarar a prova-
-	ção da Muramasa...
+	de encarar a provação
+	da Muramasa...
 	"""
 	keyWait
 		any = false
@@ -255,9 +255,9 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Para agradecer, ofe-
-	reço a você a prova-
-	ção do "
+	Para agradecer,
+	ofereço a você a
+	provação do "
 	"""
 	printChip
 		buffer = 0
@@ -572,17 +572,17 @@ script 13 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas cuidado com a
-	potência da Alma-
-	Somb em você...
+	Mas cuidado com
+	a potência da
+	AlmaSomb em você...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Grandes poderes po-
-	dem desgastar aquele
-	que os possui...
+	Grandes poderes podem
+	desgastar aquele que
+	os possui...
 	"""
 	keyWait
 		any = false

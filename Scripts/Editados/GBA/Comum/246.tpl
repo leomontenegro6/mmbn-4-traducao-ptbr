@@ -118,8 +118,7 @@ script 4 mmbn4 {
 	msgOpen
 	"""
 	A Eletro-Avenida
-	está sendo
-	reformada.
+	está sendo reformada.
 	"""
 	keyWait
 		any = false
@@ -134,8 +133,8 @@ script 4 mmbn4 {
 	clearMsg
 	"""
 	Espera, mas por que
-	é que eu tô recla-
-	mando com um guri?
+	é que eu tô reclamando
+	com um guri?
 	"""
 	keyWait
 		any = false
@@ -147,8 +146,7 @@ script 5 mmbn4 {
 	msgOpen
 	"""
 	Olha só quantas
-	lojas de
-	eletrônicos!
+	lojas de eletrônicos!
 	"""
 	keyWait
 		any = false
@@ -377,9 +375,9 @@ script 35 mmbn4 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Passou nas prelimi-
-	nares? Incrível! Eu
-	nunca conseguiria.
+	Passou nas preliminares?
+	Incrível! Eu nunca
+	conseguiria.
 	"""
 	keyWait
 		any = false

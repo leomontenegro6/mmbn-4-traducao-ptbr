@@ -15,9 +15,9 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Vai. Ele tá desacor-
-	dado, mas logo se
-	recupera.
+	Vai. Ele tá
+	desacordado, mas
+	logo se recupera.
 	"""
 	keyWait
 		any = false

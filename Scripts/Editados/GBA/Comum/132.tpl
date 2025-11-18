@@ -15,8 +15,8 @@ script 1 mmbn4 {
 	msgOpen
 	"""
 	As estátuas parecem
-	existir para prote-
-	ger o Buda maior.
+	existir para proteger
+	o Buda maior.
 	"""
 	keyWait
 		any = false

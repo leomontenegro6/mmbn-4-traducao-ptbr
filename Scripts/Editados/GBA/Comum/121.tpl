@@ -19,9 +19,9 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas as meninas gos-
-	tam bastante dele,
-	por algum motivo.
+	Mas as meninas gostam
+	bastante dele, por
+	algum motivo.
 	"""
 	keyWait
 		any = false
@@ -271,8 +271,8 @@ script 8 mmbn4 {
 	clearMsg
 	"""
 	À frente, um castelo.
-	A PrçMarchen é à di-
-	reita, escada abaixo.
+	A PrçMarchen é à
+	direita, escada abaixo.
 	"""
 	keyWait
 		any = false
@@ -303,7 +303,7 @@ script 9 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	" Evitando armadi-\n lhas, ela chega na\n árvore do Príncipe."
+	" Evitando armadilhas,\n ela chega na\n árvore do Príncipe."
 	keyWait
 		any = false
 	clearMsg
@@ -324,8 +324,8 @@ script 10 mmbn4 {
 	msgOpen
 	"""
 	FireMan e BurnMan
-	estão lutando, ge-
-	rando muita fumaça!
+	estão lutando,
+	gerando muita fumaça!
 	"""
 	keyWait
 		any = false

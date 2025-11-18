@@ -275,8 +275,8 @@ script 12 mmbn4 {
 	msgOpen
 	"""
 	Contemple o domínio
-	das minhas habilida-
-	des! Yuéé! Iáá!
+	das minhas habilidades!
+	Yuéé! Iáá!
 	"""
 	keyWait
 		any = false

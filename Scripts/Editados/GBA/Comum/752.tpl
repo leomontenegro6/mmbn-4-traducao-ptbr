@@ -168,8 +168,8 @@ script 13 mmbn4 {
 	msgOpen
 	"""
 	Este é o MegaMan.
-	O Navi que vou en-
-	frentar no torneio.
+	O Navi que vou
+	enfrentar no torneio.
 	"""
 	keyWait
 		any = false
@@ -245,8 +245,8 @@ script 17 mmbn4 {
 	clearMsg
 	"""
 	tentamos achá-lo.
-	Para se tornar Cam-
-	peão, deve-se trazer
+	Para se tornar Campeão,
+	deve-se trazer
 	"""
 	keyWait
 		any = false
@@ -270,9 +270,9 @@ script 17 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	O Campeão também é
-	coroado nosso Net-
-	Lutador número um!
+	O Campeão também
+	é coroado nosso
+	NetLutador número um!
 	"""
 	keyWait
 		any = false

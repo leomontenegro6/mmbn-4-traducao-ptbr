@@ -372,9 +372,9 @@ script 19 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	É, não dá pra entrar-
-	mos no torneio com
-	uma pasta bloqueada.
+	É, não dá pra entrarmos
+	no torneio com uma
+	pasta bloqueada.
 	"""
 	keyWait
 		any = false

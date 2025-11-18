@@ -6,8 +6,8 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	Mas o quê...?! Tem
-	alguma coisa estra-
-	nha com os leões!
+	alguma coisa estranha
+	com os leões!
 	"""
 	keyWait
 		any = false

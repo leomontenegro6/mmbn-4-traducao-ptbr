@@ -160,9 +160,9 @@ script 9 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	você precisa re-
-	equipar a sua origi-
-	nal antes da luta.
+	você precisa re-equipar
+	a sua original antes
+	da luta.
 	"""
 	keyWait
 		any = false

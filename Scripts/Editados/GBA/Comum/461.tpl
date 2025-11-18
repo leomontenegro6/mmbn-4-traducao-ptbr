@@ -6,8 +6,8 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	Enfim, hora da minha
-	deliciosa sobreme-
-	sa... Hyeeeee!!
+	deliciosa sobremesa...
+	Hyeeeee!!
 	"""
 	keyWait
 		any = false

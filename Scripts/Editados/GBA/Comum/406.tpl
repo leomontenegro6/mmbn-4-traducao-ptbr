@@ -51,8 +51,8 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	e todo mundo tinha
-	algum tipo de habi-
-	lidade especial.
+	algum tipo de
+	habilidade especial.
 	"""
 	keyWait
 		any = false

@@ -20,9 +20,9 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	é o melhor lugar pra
-	julgar o melhor Net-
-	Lutador de Ni-Hon.
+	é o melhor lugar
+	pra julgar o melhor
+	NetLutador de Ni-Hon.
 	"""
 	keyWait
 		any = false

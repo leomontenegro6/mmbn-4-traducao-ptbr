@@ -70,8 +70,8 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	Tome muito cuidado
-	para não deixar ne-
-	nhum cair na panela!
+	para não deixar
+	nenhum cair na panela!
 	"""
 	keyWait
 		any = false
@@ -150,8 +150,7 @@ script 10 mmbn4 {
 	msgOpen
 	"""
 	Certo, enviarei os
-	os ingredientes-
-	dados!
+	ingredientes-dados!
 	"""
 	keyWait
 		any = false

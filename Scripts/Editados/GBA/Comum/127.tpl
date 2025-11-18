@@ -121,8 +121,8 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Essa criação bri-
-	lhante realmente
+	Essa criação
+	brilhante realmente
 	prende sua atenção.
 	"""
 	keyWait

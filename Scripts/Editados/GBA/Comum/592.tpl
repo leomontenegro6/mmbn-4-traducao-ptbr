@@ -210,9 +210,9 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Como colega Net-
-	Lutador, quero achar
-	um jeito de ajudar.
+	Como colega NetLutador,
+	quero achar um jeito
+	de ajudar.
 	"""
 	keyWait
 		any = false

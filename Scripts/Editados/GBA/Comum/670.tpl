@@ -237,8 +237,8 @@ script 13 mmbn4 {
 	clearMsg
 	"""
 	Do jeito que está
-	agora, não tem espí-
-	rito pra nos vencer.
+	agora, não tem
+	espírito pra nos vencer.
 	"""
 	keyWait
 		any = false
@@ -337,8 +337,8 @@ script 17 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Depois que meu mes-
-	tre te aprovar, volte
+	Depois que meu mestre
+	te aprovar, volte
 	aqui. Estarei aqui.
 	"""
 	keyWait
@@ -358,8 +358,8 @@ script 18 mmbn4 {
 	clearMsg
 	"""
 	Porque eu não sei...
-	Ela pareceu que for-
-	çou essa na gente.
+	Ela pareceu que
+	forçou essa na gente.
 	"""
 	keyWait
 		any = false

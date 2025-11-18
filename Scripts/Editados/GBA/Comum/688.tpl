@@ -63,8 +63,8 @@ script 2 mmbn4 {
 	clearMsg
 	"""
 	Mas não quero apelar
-	pra medidas tão hor-
-	ríveis em protesto.
+	pra medidas tão
+	horríveis em protesto.
 	"""
 	keyWait
 		any = false

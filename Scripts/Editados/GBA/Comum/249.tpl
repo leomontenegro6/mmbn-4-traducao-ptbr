@@ -92,8 +92,7 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	Eu vim conferir as
-	novas lojas do
-	pedaço.
+	novas lojas do pedaço.
 	"""
 	keyWait
 		any = false
@@ -140,8 +139,8 @@ script 3 mmbn4 {
 	clearMsg
 	"""
 	Mas talvez seja meio
-	caro demais pra vo-
-	cê... Sem ofensa.
+	caro demais pra você...
+	Sem ofensa.
 	"""
 	keyWait
 		any = false
@@ -1259,9 +1258,9 @@ script 149 mmbn4 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Desculpe, mas essa	
-	senha estava comple-
-	tamente errada.
+	Desculpe, mas
+	essa senha estava
+	completamente errada.
 	"""
 	keyWait
 		any = false

@@ -13,17 +13,17 @@ script 0 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Estou aqui pras pre-
-	liminares do Torneio
-	Sol Vermelho!
+	Estou aqui pras
+	preliminares do
+	Torneio Sol Vermelho!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Não parece, mas eu
-	sou um Lutador for-
-	tão na minha terra!
+	sou um Lutador fortão
+	na minha terra!
 	"""
 	keyWait
 		any = false
@@ -59,17 +59,17 @@ script 2 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Estou aqui pras pre-
-	liminares do Torneio
-	Lua Azul!
+	Estou aqui pras
+	preliminares do
+	Torneio Lua Azul!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Não parece, mas eu
-	sou um Lutador for-
-	tão na minha terra!
+	sou um Lutador fortão
+	na minha terra!
 	"""
 	keyWait
 		any = false
@@ -306,8 +306,8 @@ script 30 mmbn4 {
 	msgOpen
 	"""
 	Tem um dispositivo
-	aí barrando a estra-
-	da pra Ni-Hon...
+	aí barrando a estrada
+	pra Ni-Hon...
 	"""
 	keyWait
 		any = false
@@ -884,8 +884,8 @@ script 153 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Se conseguir reduzi-
-	la a zero dentro do
+	Se conseguir reduzi-la
+	a zero dentro do
 	limite de tempo,
 	"""
 	keyWait

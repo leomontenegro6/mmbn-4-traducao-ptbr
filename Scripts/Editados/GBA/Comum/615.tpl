@@ -66,9 +66,9 @@ script 4 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Eu ainda não termi-
-	nei de tocar o ter-
-	ror aqui! Some!
+	Eu ainda não terminei
+	de tocar o terror
+	aqui! Some!
 	"""
 	keyWait
 		any = false

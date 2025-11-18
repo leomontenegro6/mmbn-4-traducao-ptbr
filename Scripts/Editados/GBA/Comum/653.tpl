@@ -71,9 +71,9 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E-eu sou um cavalei-
-	ro, que vai te prote-
-	ger daquele MegaMan!
+	E-eu sou um cavaleiro,
+	que vai te proteger
+	daquele MegaMan!
 	"""
 	keyWait
 		any = false

@@ -161,9 +161,9 @@ script 21 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Uma máquina de cozi-
-	nhar... O cheiro aí
-	dentro é bom, né?
+	Uma máquina de cozinhar...
+	O cheiro aí dentro
+	é bom, né?
 	"""
 	keyWait
 		any = false
@@ -227,8 +227,8 @@ script 30 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan, vamos mos-
-	trar pra Tamako do
+	MegaMan, vamos
+	mostrar pra Tamako do
 	que somos capazes!
 	"""
 	keyWait

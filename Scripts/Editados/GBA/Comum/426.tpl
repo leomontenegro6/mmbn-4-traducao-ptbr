@@ -72,17 +72,16 @@ script 11 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	UM DIA DESTES, DOIS
-	INTRUSOS FORAM AVIS-
-	TADOS NESTA ÁREA!
+	UM DIA DESTES,
+	DOIS INTRUSOS FORAM
+	AVISTADOS NESTA ÁREA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PARECE QUE PRECISA-
-	MOS REFORÇAR A
-	SEGURANÇA!
+	PARECE QUE PRECISAMOS
+	REFORÇAR A SEGURANÇA!
 	"""
 	keyWait
 		any = false
@@ -251,9 +250,9 @@ script 50 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	É, esta aqui é a
-	minha bebida favo-
-	rita do muuundo...
+	É, esta aqui é a minha
+	bebida favorita do
+	muuundo...
 	"""
 	keyWait
 		any = false
@@ -340,8 +339,8 @@ script 51 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Bom, eu tenho um mon-
-	te lá em casa, então
+	Bom, eu tenho um monte
+	lá em casa, então
 	posso ceder um...
 	"""
 	keyWait
@@ -1147,8 +1146,8 @@ script 141 mmbn4 {
 	msgOpen
 	"""
 	Eu fiquei com tanto
-	medo quando os in-
-	cêndios começaram!
+	medo quando os
+	incêndios começaram!
 	"""
 	keyWait
 		any = false
@@ -1181,9 +1180,9 @@ script 150 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ele tava todo baque-
-	ado... O que será
-	que aconteceu?
+	Ele tava todo
+	baqueado... O que
+	será que aconteceu?
 	"""
 	keyWait
 		any = false

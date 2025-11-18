@@ -222,9 +222,9 @@ script 13 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Está qualificado pra
-	participar do Tor-
-	neio Sol Vermelho.
+	Está qualificado
+	pra participar do
+	Torneio Sol Vermelho.
 	"""
 	keyWait
 		any = false

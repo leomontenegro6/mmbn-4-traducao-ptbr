@@ -224,8 +224,8 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	"Destruindo os arre-
-	dores". Uma grande
+	"Destruindo os
+	arredores". Uma grande
 	explosão, talvez?
 	"""
 	keyWait

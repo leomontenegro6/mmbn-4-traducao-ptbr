@@ -160,16 +160,16 @@ script 14 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Eu sempre quis Net-
-	Lutar contra um Navi
-	forte, gente boa
+	Eu sempre quis
+	NetLutar contra
+	um Navi forte,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	e bonitão como o
-	MegaMan!
+	gente boa e bonitão
+	como o MegaMan!
 	"""
 	keyWait
 		any = false
@@ -324,9 +324,9 @@ script 24 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	mas tô com uma sen-
-	sação estranha quan-
-	to a essa menina.
+	mas tô com uma
+	sensação estranha
+	quanto a essa menina.
 	"""
 	keyWait
 		any = false

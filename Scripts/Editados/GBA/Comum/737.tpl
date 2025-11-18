@@ -149,8 +149,8 @@ script 10 mmbn4 {
 		mugshot = MrFamous
 	"""
 	Ha ha ha!!! Surpre-
-	ender oponentes: uma
-	estratégia minha!
+	ender oponentes:
+	uma estratégia minha!
 	"""
 	keyWait
 		any = false
@@ -247,8 +247,8 @@ script 14 mmbn4 {
 	clearMsg
 	"""
 	Quando me dei conta,
-	já era o represen-
-	tante da Affriq.
+	já era o representante
+	da Affriq.
 	"""
 	keyWait
 		any = false
@@ -281,9 +281,9 @@ script 16 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	estão contando comi-
-	go. Logo, lutarei pe-
-	la Affriq desta vez.
+	estão contando comigo.
+	Logo, lutarei pela
+	Affriq desta vez.
 	"""
 	keyWait
 		any = false
@@ -392,8 +392,8 @@ script 20 mmbn4 {
 	clearMsg
 	"""
 	As pessoas são muito
-	amáveis e as paisa-
-	gens são incríveis.
+	amáveis e as paisagens
+	são incríveis.
 	"""
 	keyWait
 		any = false
@@ -511,8 +511,8 @@ script 27 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	Diga ao líder da or-
-	ganização dos jovens
+	Diga ao líder da
+	organização dos jovens
 	que eu mandei um oi.
 	"""
 	keyWait
@@ -558,8 +558,8 @@ script 30 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Achei que tinha al-
-	guém me observando.
+	Achei que tinha alguém
+	me observando.
 	Acho que me enganei!
 	"""
 	keyWait

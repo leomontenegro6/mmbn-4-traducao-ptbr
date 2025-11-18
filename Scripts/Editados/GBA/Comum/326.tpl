@@ -203,9 +203,9 @@ script 10 mmbn4 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	Parece que tá rolan-
-	do um campeonato
-	mundial de NetLuta.
+	Parece que tá rolando
+	um campeonato mundial
+	de NetLuta.
 	"""
 	keyWait
 		any = false
@@ -255,8 +255,8 @@ script 11 mmbn4 {
 	msgOpen
 	"""
 	Você vai estar no
-	Torneio Sol Verme-
-	lho?! Boa sorte!
+	Torneio Sol Vermelho?!
+	Boa sorte!
 	"""
 	keyWait
 		any = false

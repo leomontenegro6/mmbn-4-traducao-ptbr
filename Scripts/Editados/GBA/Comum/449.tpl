@@ -48,9 +48,8 @@ script 3 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	É só eu instalar
-	os dados do
-	"
+	É só eu instalar os
+	dados do "
 	"""
 	printItem
 		buffer = 0
@@ -104,8 +103,8 @@ script 6 mmbn4 {
 		animation = 26
 	"""
 	Credo, nem parece que
-	foi a gente que com-
-	prou o "
+	foi a gente que comprou
+	o "
 	"""
 	printItem
 		buffer = 0
@@ -167,8 +166,7 @@ script 10 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Esquece isso aí,
-	mãe!
+	Esquece isso aí, mãe!
 	"""
 	keyWait
 		any = false
@@ -177,9 +175,9 @@ script 10 mmbn4 {
 		timer = 0
 		value = 5
 	"""
-	Café da manhã! Eu
-	preciso! Eu tô pra
-	desmaiaaaar!
+	Café da manhã!
+	Eu preciso! Eu tô
+	pra desmaiaaaar!
 	"""
 	keyWait
 		any = false
@@ -205,9 +203,8 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Agora é a vez da
-	sua mãe entrar em
-	cena!
+	Agora é a vez da sua
+	mãe entrar em cena!
 	"""
 	keyWait
 		any = false
@@ -233,8 +230,7 @@ script 13 mmbn4 {
 		mugshot = Lan
 	"""
 	A comida da mamãe
-	realmente é sem
-	igual!
+	realmente é sem igual!
 	"""
 	keyWait
 		any = false
@@ -297,8 +293,7 @@ script 18 mmbn4 {
 		mugshot = Mom
 	"""
 	Até a volta.
-	E não demorem
-	demais!
+	E não demorem demais!
 	"""
 	keyWait
 		any = false

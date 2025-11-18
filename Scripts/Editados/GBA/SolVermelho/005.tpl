@@ -373,9 +373,9 @@ script 16 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	para Baixo e trocar
-	o equipamento aper-
-	tando para Cima!
+	para Baixo e
+	trocar o equipamento
+	apertando para Cima!
 	"""
 	keyWait
 		any = false
@@ -445,9 +445,9 @@ script 16 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	essenciais pra vitó-
-	ria! Por fim, o
-	botão "L"...
+	essenciais pra
+	vitória! Por fim,
+	o botão "L"...
 	"""
 	keyWait
 		any = false

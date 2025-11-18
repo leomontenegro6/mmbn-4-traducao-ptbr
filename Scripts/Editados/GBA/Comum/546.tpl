@@ -76,8 +76,8 @@ script 5 mmbn4 {
 		mugshot = Duo
 	msgOpen
 	"""
-	Sou o Sistema Opera-
-	cional do míssil
+	Sou o Sistema
+	Operacional do míssil
 	anti-planetas.
 	"""
 	keyWait
@@ -155,8 +155,8 @@ script 7 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Devo punir seu pla-
-	neta de acordo com
+	Devo punir seu
+	planeta de acordo com
 	minha programação.
 	"""
 	keyWait

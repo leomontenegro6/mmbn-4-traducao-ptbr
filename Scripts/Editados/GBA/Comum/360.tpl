@@ -32,8 +32,8 @@ script 10 mmbn4 {
 	clearMsg
 	"""
 	EMITO ONDAS SONORAS
-	ESPECIAIS PARA MAN-
-	TÊ-LOS TRANQUILOS.
+	ESPECIAIS PARA
+	MANTÊ-LOS TRANQUILOS.
 	"""
 	keyWait
 		any = false
@@ -64,9 +64,8 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	SINAL NÃO-IDENTI-
-	FICADO! A VILA
-	ESTÁ EM PERIGO!!
+	SINAL NÃO-IDENTIFICADO!
+	A VILA ESTÁ EM PERIGO!!
 	"""
 	keyWait
 		any = false

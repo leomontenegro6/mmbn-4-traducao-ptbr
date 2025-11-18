@@ -30,8 +30,8 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = Roll
 	"""
-	Eu fiquei com a sen-
-	sação de que você
+	Eu fiquei com a
+	sensação de que você
 	não me respeita,
 	"""
 	keyWait

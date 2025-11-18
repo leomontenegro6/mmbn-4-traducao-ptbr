@@ -60,8 +60,8 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Não tem muito Net-
-	Lutador que seria
+	Não tem muito
+	NetLutador que seria
 	páreo pra vocês!
 	"""
 	keyWait
@@ -69,8 +69,8 @@ script 2 mmbn4 {
 	clearMsg
 	"""
 	Mas, ainda assim, por
-	que cê decidiu com-
-	petir assim, do nada?
+	que cê decidiu competir
+	assim, do nada?
 	"""
 	keyWait
 		any = false

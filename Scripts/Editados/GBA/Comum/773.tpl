@@ -53,8 +53,8 @@ script 3 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	O NetLutador prodí-
-	gio de Ni-hon...
+	O NetLutador prodígio
+	de Ni-hon...
 	Inacreditável.
 	"""
 	wait

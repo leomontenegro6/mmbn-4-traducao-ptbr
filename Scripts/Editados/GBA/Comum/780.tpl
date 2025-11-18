@@ -67,8 +67,8 @@ script 5 mmbn4 {
 	msgOpen
 	"""
 	Q-que velocidade!
-	Meus olhos nem con-
-	seguiram acompanhar!
+	Meus olhos nem
+	conseguiram acompanhar!
 	"""
 	keyWait
 		any = false
@@ -161,9 +161,9 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	Não olhe pro Proto-
-	Man. Apenas ouça as
-	minhas direções.
+	Não olhe pro ProtoMan.
+	Apenas ouça as minhas
+	direções.
 	"""
 	keyWait
 		any = false
@@ -361,9 +361,9 @@ script 24 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	Eu não seria um Net-
-	Lutador prodígio se
-	não tomasse riscos!
+	Eu não seria um
+	NetLutador prodígio
+	se não tomasse riscos!
 	"""
 	keyWait
 		any = false

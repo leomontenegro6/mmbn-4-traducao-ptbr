@@ -242,8 +242,8 @@ script 12 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E eu sirvo como sa-
-	cerdotisa do WindMan
+	E eu sirvo como
+	sacerdotisa do WindMan
 	no templo dele.
 	"""
 	keyWait

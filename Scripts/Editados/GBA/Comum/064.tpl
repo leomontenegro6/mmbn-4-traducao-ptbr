@@ -1686,24 +1686,24 @@ script 203 mmbn4 {
 	mugshotShow
 		mugshot = DirectorOzuma
 	"""
-	Um dia desses, en-
-	quanto eu surfava na
-	Rede, um Navi Vampiro
+	Um dia desses, enquanto
+	eu surfava na Rede,
+	um Navi Vampiro
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	apareceu diante do
-	meu. Era assustado-
-	ramente forte, mas
+	apareceu diante do meu.
+	Era assustadoramente
+	forte, mas, quando
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	quando eu achava
-	que nossa deleção
+	eu achava que
+	nossa deleção
 	era certa,
 	"""
 	keyWait

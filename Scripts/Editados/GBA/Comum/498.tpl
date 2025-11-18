@@ -84,9 +84,9 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotHide
 	"""
-	Sou representante da
-	Associação de Net-
-	Luta de Ni-Hon.
+	Sou representante
+	da Associação de
+	NetLuta de Ni-Hon.
 	"""
 	keyWait
 		any = false

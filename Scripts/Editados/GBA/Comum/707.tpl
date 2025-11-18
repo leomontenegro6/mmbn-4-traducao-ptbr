@@ -5,8 +5,8 @@ script 0 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Estava lhe esperan-
-	do, MegaMan.EXE.
+	Estava lhe esperando,
+	MegaMan.EXE.
 	Bem-vindo ao Dojô!
 	"""
 	keyWait

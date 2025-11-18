@@ -311,9 +311,9 @@ script 22 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Uma fritadeira! Não
-	vai escorregar em
-	mostarda, hein!
+	Uma chapa! Não vai
+	esmagar um bolinho
+	de polvo, viu?
 	"""
 	keyWait
 		any = false
@@ -365,8 +365,8 @@ script 26 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Graças a esta casi-
-	nha, nossa casa fica
+	Graças a esta casinha,
+	nossa casa fica
 	protegida... Acho.
 	"""
 	keyWait
@@ -379,8 +379,8 @@ script 27 mmbn4 {
 	msgOpen
 	"""
 	Os fogões também são
-	quentes no ciberné-
-	tico, MegaMan?
+	quentes no cibernético,
+	MegaMan?
 	"""
 	keyWait
 		any = false
@@ -456,7 +456,7 @@ script 31 mmbn4 {
 	printItem
 		buffer = 0
 		item = 2
-	"\" pro\npapai!"
+	"\" pro papai!"
 	keyWait
 		any = false
 	end
@@ -545,8 +545,8 @@ script 37 mmbn4 {
 	msgOpen
 	"""
 	Descobre o que tá
-	pegando na frita-
-	deira e conserta!
+	pegando na chapa
+	e conserta!
 	"""
 	keyWait
 		any = false
@@ -569,9 +569,9 @@ script 39 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Desliga os disposi-
-	tivos de ignição,
-	MegaMan!
+	Desliga os
+	dispositivos de
+	ignição, MegaMan!
 	"""
 	keyWait
 		any = false

@@ -44,8 +44,8 @@ script 132 mmbn4 {
 	msgOpen
 	"""
 	Se eu desconectar, o
-	fogo pode se espa-
-	lhar! Não devemos!
+	fogo pode se espalhar!
+	Não devemos!
 	"""
 	keyWait
 		any = false

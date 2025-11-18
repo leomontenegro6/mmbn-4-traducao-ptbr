@@ -144,8 +144,8 @@ script 6 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Aquele Prog deprimi-
-	do foi demitido de
+	Aquele Prog deprimido
+	foi demitido de
 	onde trabalhava?
 	"""
 	keyWait
@@ -347,17 +347,17 @@ script 31 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	CONCORDAMOS NOS MAN-
-	TER ALEGRES QUANDO
-	AS COISAS VÃO MAL!
+	CONCORDAMOS NOS MANTER
+	ALEGRES QUANDO AS
+	COISAS VÃO MAL!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	TAMBÉM TENHO MEDO!
-	MAS SE FICARMOS JUN-
-	TOS, VAI DAR BOM!
+	MAS SE FICARMOS
+	JUNTOS, VAI DAR BOM!
 	"""
 	keyWait
 		any = false

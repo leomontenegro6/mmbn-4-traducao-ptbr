@@ -233,9 +233,9 @@ script 26 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Conecte-se direta-
-	mente às Redes do
-	mundo e conserte-as!
+	Conecte-se
+	diretamente às Redes
+	do mundo e conserte-as!
 	"""
 	keyWait
 		any = false
@@ -659,9 +659,9 @@ script 125 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Bora pra Área Sabo-
-	rya! Talvez a gente
-	possa ajudar!
+	Bora pra Área Saborya!
+	Talvez a gente possa
+	ajudar!
 	"""
 	keyWait
 		any = false
@@ -865,7 +865,7 @@ script 128 mmbn4 {
 		down = 2
 	space
 		count = 1
-	"Cachorro-quente\n"
+	"Bolinho de polvo\n"
 	positionOptionVertical
 		width = 5
 	option
@@ -1508,8 +1508,8 @@ script 155 mmbn4 {
 	msgOpen
 	"""
 	Treino finalmente
-	terminado! Vamos fa-
-	lar com o KendoMan!
+	terminado! Vamos
+	falar com o KendoMan!
 	"""
 	keyWait
 		any = false
@@ -1989,8 +1989,8 @@ script 189 mmbn4 {
 	msgOpen
 	"""
 	Pro Coliseu! Hora de
-	mostrar pro Search-
-	Man a nossa força!
+	mostrar pro SearchMan
+	a nossa força!
 	"""
 	keyWait
 		any = false
@@ -2020,8 +2020,8 @@ script 191 mmbn4 {
 	msgOpen
 	"""
 	Será que tem alguma
-	pista aqui pra aju-
-	dar a achar o Raika?
+	pista aqui pra ajudar
+	a achar o Raika?
 	"""
 	keyWait
 		any = false
@@ -2113,9 +2113,9 @@ script 196 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Bora procurar o Pro-
-	toMan na Rede! Não
-	pode ter ido longe!
+	Bora procurar o
+	ProtoMan na Rede!
+	Não pode ter ido longe!
 	"""
 	keyWait
 		any = false
@@ -2139,9 +2139,9 @@ script 199 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Bora voltar pra Un-
-	dernet. Tô preocupa-
-	do com o ProtoMan!
+	Bora voltar pra
+	Undernet. Tô preocu-
+	pado com o ProtoMan!
 	"""
 	keyWait
 		any = false

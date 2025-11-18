@@ -203,9 +203,9 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	pulverizado, sem
-	chances de se recu-
-	perar! É brilhante!
+	pulverizado, sem chances
+	de se recuperar!
+	É brilhante!
 	"""
 	keyWait
 		any = false

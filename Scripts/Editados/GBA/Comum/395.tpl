@@ -34,9 +34,9 @@ script 131 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Talvez tenham ataca-
-	do uns aos outros
-	por frustração...
+	Talvez tenham atacado
+	uns aos outros por
+	frustração...
 	"""
 	keyWait
 		any = false
@@ -56,9 +56,9 @@ script 132 mmbn4 {
 script 133 mmbn4 {
 	msgOpen
 	"""
-	Esses Navis descan-
-	sam em paz neste
-	labirinto...
+	Esses Navis
+	descansam em paz
+	neste labirinto...
 	"""
 	keyWait
 		any = false

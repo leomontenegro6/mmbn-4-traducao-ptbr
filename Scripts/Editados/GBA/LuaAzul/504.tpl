@@ -46,8 +46,8 @@ script 3 mmbn4 {
 	soundStopBGM
 	mugshotHide
 	"""
-	É o seu corpo resso-
-	ando com os meus
+	É o seu corpo
+	ressoando com os meus
 	poderes das trevas.
 	"""
 	keyWait
@@ -107,8 +107,8 @@ script 7 mmbn4 {
 		mugshot = LaserMan
 	"""
 	MegaMan, juntos,
-	podemos tornar aque-
-	le mundo completo!
+	podemos tornar aquele
+	mundo completo!
 	"""
 	keyWait
 		any = false
@@ -198,9 +198,9 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = LaserMan
 	"""
-	Nós visamos destru-
-	ir por completo
-	este mundo inútil,
+	Nós visamos destruir
+	por completo este
+	mundo inútil,
 	"""
 	keyWait
 		any = false
@@ -320,9 +320,9 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = AquaMan
 	"""
-	Eu entrei no Cyber-
-	Mundo do castelo e
-	fui com a maré!
+	Eu entrei no
+	CyberMundo do castelo
+	e fui com a maré!
 	"""
 	keyWait
 		any = false
@@ -340,9 +340,9 @@ script 18 mmbn4 {
 		mugshot = LaserMan
 	msgOpen
 	"""
-	Sua lealdade é como-
-	vente. Mas que opor-
-	tunidade perfeita!
+	Sua lealdade é
+	comovente. Mas que
+	oportunidade perfeita!
 	"""
 	keyWait
 		any = false
@@ -356,8 +356,8 @@ script 18 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	A força obscura con-
-	tra a qual lealdade
+	A força obscura
+	contra a qual lealdade
 	não é párea!!
 	"""
 	keyWait

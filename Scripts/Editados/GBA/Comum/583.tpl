@@ -83,8 +83,8 @@ script 5 mmbn4 {
 	clearMsg
 	"""
 	Aquela que você e o
-	papai visitaram es-
-	tes dias. Aqui diz:
+	papai visitaram
+	estes dias. Aqui diz:
 	"""
 	keyWait
 		any = false

@@ -447,9 +447,9 @@ script 21 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	PROGRAMAS DE MÁQUI-
-	NAS DE NETLUTA SÓ
-	VIVEM PRA LUTAR!
+	PROGRAMAS DE MÁQUINAS
+	DE NETLUTA SÓ VIVEM
+	PRA LUTAR!
 	"""
 	keyWait
 		any = false

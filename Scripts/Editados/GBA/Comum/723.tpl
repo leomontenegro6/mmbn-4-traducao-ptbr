@@ -65,9 +65,9 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Agradeço por me aju-
-	dar a salvar o orgu-
-	lho da minha tribo.
+	Agradeço por me ajudar
+	a salvar o orgulho
+	da minha tribo.
 	"""
 	keyWait
 		any = false

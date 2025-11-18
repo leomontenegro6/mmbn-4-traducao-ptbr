@@ -18,8 +18,8 @@ script 0 mmbn4 {
 		width = 19
 		height = 3
 	"""
-	mundo sobre o aste-
-	roide e as ações
+	mundo sobre o
+	asteroide e as ações
 	heróicas do Navi.
 	"""
 	keyWait
@@ -84,9 +84,9 @@ script 3 mmbn4 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	O MegaMan está lutan-
-	do, mas o que só um
-	Navi pode fazer?
+	O MegaMan está lutando,
+	mas o que só um Navi
+	pode fazer?
 	"""
 	keyWait
 		any = false
@@ -209,8 +209,8 @@ script 9 mmbn4 {
 script 10 mmbn4 {
 	mugshotHide
 	"""
-	O nosso fim é prová-
-	vel, mas não podemos
+	O nosso fim é provável,
+	mas não podemos
 	perder a esperança.
 	"""
 	keyWait
@@ -231,9 +231,9 @@ script 12 mmbn4 {
 		mugshot = Sal
 	msgOpen
 	"""
-	O MegaMan está ar-
-	riscando a vida den-
-	tro do asteroide.
+	O MegaMan está
+	arriscando a vida
+	dentro do asteroide.
 	"""
 	keyWait
 		any = false
@@ -255,8 +255,8 @@ script 12 mmbn4 {
 	clearMsg
 	"""
 	Não podemos nos dar
-	por vencidos enquan-
-	to ele está lutando.
+	por vencidos enquanto
+	ele está lutando.
 	"""
 	keyWait
 		any = false
@@ -306,8 +306,8 @@ script 15 mmbn4 {
 	clearMsg
 	"""
 	talvez, de algum jei-
-	to, ele consiga sen-
-	tir o nosso apoio.
+	to, ele consiga sentir
+	o nosso apoio.
 	"""
 	keyWait
 		any = false

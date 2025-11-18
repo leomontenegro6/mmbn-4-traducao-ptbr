@@ -137,8 +137,8 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	PARA TRAZER O CAS-
-	TILLO PARA MAIS
+	PARA TRAZER O
+	CASTILLO PARA MAIS
 	PERTINHO DE VOCÊ,
 	"""
 	keyWait
@@ -494,9 +494,9 @@ script 15 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Ué? Não estou conse-
-	guindo contatar o
-	meu operador...
+	Ué? Não estou
+	conseguindo contatar
+	o meu operador...
 	"""
 	keyWait
 		any = false
@@ -644,8 +644,8 @@ script 25 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Eu não vou partici-
-	par, mas ainda assim
+	Eu não vou participar,
+	mas, ainda assim,
 	estou super animado!
 	"""
 	keyWait
@@ -658,16 +658,16 @@ script 26 mmbn4 {
 	msgOpen
 	"""
 	Parece que o
-	Castillo está ten-
-	tando melhorar sua
+	Castillo está
+	tentando melhorar sua
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	imagem com esse tor-
-	neio, depois do negó-
-	cio dos RobôBrnq...
+	imagem com esse torneio,
+	depois do negócio
+	dos RobôBrnq...
 	"""
 	keyWait
 		any = false
@@ -736,8 +736,8 @@ script 132 mmbn4 {
 	msgOpen
 	"""
 	Se eu desconectar, o
-	fogo pode se espa-
-	lhar! Não devemos!
+	fogo pode se espalhar!
+	Não devemos!
 	"""
 	keyWait
 		any = false

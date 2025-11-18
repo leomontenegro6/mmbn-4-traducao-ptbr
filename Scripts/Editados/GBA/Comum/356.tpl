@@ -13,8 +13,8 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	OPERANDO COMO SIS-
-	TEMA DE OBSERVAÇÃO
+	OPERANDO COMO
+	SISTEMA DE OBSERVAÇÃO
 	ESPACIAL.
 	"""
 	keyWait

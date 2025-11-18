@@ -37,8 +37,8 @@ script 2 mmbn4 {
 		mugshot = Mayl
 	"""
 	OK, Lan! Agora que
-	tomamos sorvete, va-
-	mos nos brinquedos!!
+	tomamos sorvete,
+	vamos nos brinquedos!!
 	"""
 	keyWait
 		any = false
@@ -88,9 +88,9 @@ script 6 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Ah, e olha este bone-
-	quinho aqui. Não é
-	um amor, Lan?
+	Ah, e olha este
+	bonequinho aqui.
+	Não é um amor, Lan?
 	"""
 	keyWait
 		any = false

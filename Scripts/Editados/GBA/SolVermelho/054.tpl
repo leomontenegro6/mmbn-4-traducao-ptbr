@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	A UniAlma requer
+	A UníAlma requer
 	o sacrifício de um
 	chip compatível.
 	"""
@@ -155,7 +155,7 @@ script 10 mmbn4 {
 	msgOpen
 	"""
 	Viu? É assim que se
-	faz uma UniAlma.
+	faz uma UníAlma.
 	Apertar "OK" agora
 	"""
 	keyWait
@@ -163,14 +163,14 @@ script 10 mmbn4 {
 	clearMsg
 	"""
 	vai ativar a
-	UniAlma automatica-
-	mente. A AlmaGuts dá
+	UníAlma automaticamente.
+	A AlmaGuts dá
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	dá +30 de ataque a
+	+30 de ataque a
 	chips [bracket1]Nada[bracket2] e
 	que quebram quadros.
 	"""
@@ -206,7 +206,7 @@ script 11 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Isso é a UniAlma.
+	Isso é a UníAlma.
 	Se dominá-la, você
 	ficará mais forte.
 	"""
@@ -223,8 +223,8 @@ script 11 mmbn4 {
 	clearMsg
 	"""
 	Em primeiro lugar,
-	não se pode sacrifi-
-	car certos chips.
+	não se pode sacrificar
+	certos chips.
 	"""
 	keyWait
 		any = false
@@ -238,7 +238,7 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E terceiro: a União
+	E terceiro: o Uníssono
 	de Alma só dura
 	três turnos.
 	"""

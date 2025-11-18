@@ -20,9 +20,9 @@ script 0 mmbn4 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Parece que tá rolan-
-	do alguma coisa in-
-	teressante na Rede.
+	Parece que tá
+	rolando alguma coisa
+	interessante na Rede.
 	"""
 	keyWait
 		any = false
@@ -380,9 +380,9 @@ script 70 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Um seguidor do Famo-
-	so me pediu pra tes-
-	tar uma nova pasta.
+	Um seguidor do Famoso
+	me pediu pra testar
+	uma nova pasta.
 	"""
 	keyWait
 		any = false
@@ -395,9 +395,9 @@ script 70 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Gostaria de experi-
-	mentar a pasta do
-	seguidor?
+	Gostaria de
+	experimentar a
+	pasta do seguidor?
 	"""
 	keyWait
 		any = false
@@ -652,8 +652,8 @@ script 73 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	A pasta do segui-
-	dor... Ah, cá está...
+	A pasta do seguidor...
+	Ah, cá está...
 	...... Hrmph......
 	"""
 	keyWait

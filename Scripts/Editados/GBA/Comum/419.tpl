@@ -6,8 +6,8 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	A ÁREA VILA TERMINA
-	AQUI. TUDO ALÉM DA-
-	QUI, EM CONSTRUÇÃO.
+	AQUI. TUDO ALÉM
+	DAQUI, EM CONSTRUÇÃO.
 	"""
 	keyWait
 		any = false
@@ -149,8 +149,8 @@ script 12 mmbn4 {
 	msgOpen
 	"""
 	Uma vez registrado,
-	não pode ser muda-
-	do! Confirma nome?
+	não pode ser mudado!
+	Confirma nome?
 	"""
 	keyWait
 		any = false
@@ -626,8 +626,8 @@ script 130 mmbn4 {
 	clearMsg
 	"""
 	Na verdade, um Navi
-	esquisito deixou is-
-	to aqui comigo.
+	esquisito deixou isto
+	aqui comigo.
 	"""
 	keyWait
 		any = false
@@ -822,8 +822,8 @@ script 160 mmbn4 {
 		mugshot = HeelNaviPurple
 	"""
 	Uma loja de chips, é?
-	Eu tava mesmo pen-
-	sando em comprar.
+	Eu tava mesmo pensando
+	em comprar.
 	"""
 	keyWait
 		any = false

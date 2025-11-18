@@ -107,8 +107,8 @@ script 5 mmbn4 {
 	clearMsg
 	"""
 	Eu tenho certeza de
-	que ele vai conse-
-	guir salvar a gente!
+	que ele vai conseguir
+	salvar a gente!
 	"""
 	keyWait
 		any = false

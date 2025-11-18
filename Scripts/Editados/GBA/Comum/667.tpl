@@ -13,9 +13,9 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	para esta sacerdo-
-	tisa NetLutadora
-	da Ilha Shisa...
+	para esta sacerdotisa
+	NetLutadora da Ilha
+	Shisa...
 	"""
 	keyWait
 		any = false

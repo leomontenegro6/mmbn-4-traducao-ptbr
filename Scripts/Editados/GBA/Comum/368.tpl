@@ -26,9 +26,9 @@ script 11 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	EU MANTENHO AS BEBI-
-	DAS GELADAS ESTUPI-
-	DAMENTE GELADAS!
+	EU MANTENHO AS BEBIDAS
+	GELADAS ESTUPIDAMENTE
+	GELADAS!
 	"""
 	keyWait
 		any = false
@@ -47,9 +47,9 @@ script 12 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	EU MANTENHO AS BEBI-
-	DAS GELADAS ESTUPI-
-	DAMENTE GELADAS!
+	EU MANTENHO AS BEBIDAS
+	GELADAS ESTUPIDAMENTE
+	GELADAS!
 	"""
 	keyWait
 		any = false

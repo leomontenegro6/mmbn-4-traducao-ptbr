@@ -46,17 +46,17 @@ script 3 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Essa, sim, foi uma lu-
-	ta entre dois luta-
-	dores de verdade!
+	Essa, sim, foi uma luta
+	entre dois lutadores
+	de verdade!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sem nenhum ressenti-
-	mento, porque demos o
-	nosso melhor!
+	Sem nenhum
+	ressentimento, porque
+	demos o nosso melhor!
 	"""
 	keyWait
 		any = false
@@ -333,8 +333,8 @@ script 17 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Não esqueçam: Pousa-
-	da Unda! Trabalho na
+	Não esqueçam: Pousada
+	Unda! Trabalho na
 	loja de presentes!
 	"""
 	keyWait

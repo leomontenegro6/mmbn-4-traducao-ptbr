@@ -95,8 +95,8 @@ script 21 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Temos que nos conec-
-	tar diretamente à
+	Temos que nos conectar
+	diretamente à
 	Torre! Vamos!
 	"""
 	keyWait
@@ -411,7 +411,7 @@ script 140 mmbn4 {
 	"""
 	Desconecta. Temos
 	que ir pra Barraca
-	de Cachorro-Quente!
+	de Bolinhos de Polvo!
 	"""
 	keyWait
 		any = false
@@ -423,8 +423,7 @@ script 141 mmbn4 {
 	msgOpen
 	"""
 	Bora consertar logo
-	a fritadeira,
-	MegaMan!
+	a chapa, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -450,7 +449,7 @@ script 143 mmbn4 {
 	"""
 	Melhor voltarmos
 	pra Barraca de
-	Cachorro-Quente.
+	Bolinhos de Polvo.
 	"""
 	keyWait
 		any = false
@@ -577,9 +576,9 @@ script 162 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A gente não tem tem-
-	po pra Rede. Vamos
-	pro Parque ACDC!
+	A gente não tem tempo
+	pra Rede. Bora pro
+	Parque ACDC!
 	"""
 	keyWait
 		any = false
@@ -791,8 +790,8 @@ script 181 mmbn4 {
 	msgOpen
 	"""
 	A Yuko tá esperando
-	perto do Domo! De-
-	pois a gente volta!
+	perto do Domo!
+	Depois a gente volta!
 	"""
 	keyWait
 		any = false

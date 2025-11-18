@@ -151,9 +151,9 @@ script 7 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E não esquenta com a
-	grana. A gente eco-
-	nomizou no trabalho.
+	E não esquenta com
+	a grana. A gente
+	economizou no trabalho.
 	"""
 	keyWait
 		any = false

@@ -10,8 +10,8 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	COM A RUA PRINCIPAL,
-	TEMOS MAIS VELOCIDA-
-	DE DE PROCESSAMENTO!
+	TEMOS MAIS VELOCIDADE
+	DE PROCESSAMENTO!
 	"""
 	keyWait
 		any = false
@@ -22,17 +22,17 @@ script 1 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Este negócio barran-
-	do o caminho é um
-	Cubo de Segurança.
+	Este negócio barrando
+	o caminho é um Cubo
+	de Segurança.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Eles bloqueiam aces-
-	so não-autorizado
-	de páginas.
+	Eles bloqueiam acesso
+	não-autorizado de
+	páginas.
 	"""
 	keyWait
 		any = false
@@ -166,8 +166,8 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	acessá-la é se co-
-	nectando diretamente
+	acessá-la é se
+	conectando diretamente
 	do mundo real.
 	"""
 	keyWait
@@ -352,7 +352,7 @@ script 21 mmbn4 {
 	mugshotShow
 		mugshot = PurpleNavi
 	msgOpen
-	"Não boto fé o bas-\ntante nas minhas\nhabilidades pra"
+	"Não boto fé o\nbastante nas minhas\nhabilidades pra"
 	keyWait
 		any = false
 	clearMsg
@@ -814,9 +814,9 @@ script 166 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Isso aí é um panfle-
-	to de uma loja de
-	chips? Que besteira!
+	Isso aí é um panfleto
+	de uma loja de chips?
+	Que besteira!
 	"""
 	keyWait
 		any = false

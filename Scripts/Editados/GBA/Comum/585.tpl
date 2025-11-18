@@ -96,9 +96,9 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = OldMan
 	"""
-	Veja. Este disposi-
-	tivo está interfe-
-	rindo com a pasta.
+	Veja. Este dispositivo
+	está interferindo
+	com a pasta.
 	"""
 	keyWait
 		any = false
@@ -204,8 +204,8 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Argh! Quando eu pu-
-	ser as mãos naquele
+	Argh! Quando eu puser
+	as mãos naquele
 	adolescente...!
 	"""
 	keyWait
@@ -375,8 +375,8 @@ script 21 mmbn4 {
 	clearMsg
 	"""
 	A minha luta tá aí,
-	então tenho que ar-
-	ranjar a senha logo!
+	então tenho que
+	arranjar a senha logo!
 	"""
 	keyWait
 		any = false

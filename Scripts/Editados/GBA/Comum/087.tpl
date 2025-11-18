@@ -213,9 +213,9 @@ script 21 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Temos que nos conec-
-	tar diretamente à
-	Torre! Vamos!
+	Temos que nos conectar
+	diretamente à Torre!
+	Vamos!
 	"""
 	keyWait
 		any = false
@@ -412,8 +412,8 @@ script 131 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Bora decifrar a pis-
-	ta do sequestrador e
+	Bora decifrar a pista
+	do sequestrador e
 	achar o Chisao!
 	"""
 	keyWait
@@ -511,7 +511,7 @@ script 140 mmbn4 {
 	"""
 	Desconecta. Temos
 	que ir pra Barraca
-	de Cachorro-Quente!
+	de Bolinhos de Polvo!
 	"""
 	keyWait
 		any = false
@@ -523,8 +523,7 @@ script 141 mmbn4 {
 	msgOpen
 	"""
 	Bora consertar logo
-	a fritadeira,
-	MegaMan!
+	a chapa, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -550,7 +549,7 @@ script 143 mmbn4 {
 	"""
 	Melhor voltarmos
 	pra Barraca de
-	Cachorro-Quente.
+	Bolinhos de Polvo.
 	"""
 	keyWait
 		any = false
@@ -677,9 +676,9 @@ script 162 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A gente não tem tem-
-	po pra Rede. Vamos
-	pro Parque ACDC!
+	A gente não tem tempo
+	pra Rede. Bora pro
+	Parque ACDC!
 	"""
 	keyWait
 		any = false

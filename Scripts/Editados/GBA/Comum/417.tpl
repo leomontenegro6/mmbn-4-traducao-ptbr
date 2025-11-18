@@ -377,9 +377,9 @@ script 41 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Nossa! Olha só quan-
-	ta coisa legal tem
-	aqui, em Ni-Hon!
+	Nossa! Olha só quanta
+	coisa legal tem aqui,
+	em Ni-Hon!
 	"""
 	keyWait
 		any = false
@@ -416,8 +416,8 @@ script 42 mmbn4 {
 	clearMsg
 	"""
 	Eu amo fazer compras
-	na EletroVila! Tan-
-	to aparelho legal!
+	na EletroVila!
+	Tanto aparelho legal!
 	"""
 	keyWait
 		any = false
@@ -872,9 +872,9 @@ script 240 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Tem um motivo pra
-	eu fazer meus ne-
-	gócios na surdina...
+	Há um motivo para
+	eu fazer meus
+	negócios na surdina...
 	"""
 	keyWait
 		any = false

@@ -259,9 +259,8 @@ script 9 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	os CyberBonecos-
-	DeNeve vão se
-	desfazer.
+	os CyberBonecosDeNeve
+	vão se desfazer.
 	"""
 	keyWait
 		any = false
@@ -301,8 +300,8 @@ script 11 mmbn4 {
 	clearMsg
 	"""
 	Os computadores
-	delas contêm um sis-
-	tema de aquecimento.
+	delas contêm um
+	sistema de aquecimento.
 	"""
 	keyWait
 		any = false
@@ -344,8 +343,8 @@ script 13 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Os CyberBonecos-
-	DeNeve os desativou.
+	Os CyberBonecosDeNeve
+	os desativaram.
 	"""
 	keyWait
 		any = false

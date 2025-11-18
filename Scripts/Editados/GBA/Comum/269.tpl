@@ -19,9 +19,9 @@ script 0 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Parece que as atra-
-	ções tão funcionando
-	de novo...
+	Parece que as atrações
+	tão funcionando de
+	novo...
 	"""
 	keyWait
 		any = false
@@ -317,8 +317,8 @@ script 15 mmbn4 {
 		mugshot = YoungWoman
 	"""
 	Na verdade, sou da
-	organização do tor-
-	neio! Meio-período.
+	organização do torneio!
+	Meio-período.
 	"""
 	keyWait
 		any = false
@@ -350,8 +350,8 @@ script 20 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	É o popular persona-
-	gem do Castillo, o
+	É o popular personagem
+	do Castillo, o
 	MagoCão...
 	"""
 	keyWait
@@ -376,8 +376,8 @@ script 21 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	É a popular persona-
-	gem do Castillo, a
+	É a popular personagem
+	do Castillo, a
 	Princesa Alabarda!
 	"""
 	keyWait
@@ -467,9 +467,9 @@ script 27 mmbn4 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Parece que tá acon-
-	tecendo alguma coi-
-	sa... O que será?
+	Parece que tá
+	acontecendo alguma
+	coisa... O que será?
 	"""
 	keyWait
 		any = false
@@ -651,8 +651,8 @@ script 43 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Eu faltei no traba-
-	lho pra vir aqui.
+	Eu faltei no trabalho
+	pra vir aqui.
 	Tenho que curtir!
 	"""
 	keyWait
@@ -1117,9 +1117,9 @@ script 84 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Eu tô tentando deci-
-	dir em qual brinque-
-	do eu vou. Shiu aí!
+	Eu tô tentando decidir
+	em qual brinquedo eu
+	vou. Shiu aí!
 	"""
 	keyWait
 		any = false
@@ -1185,9 +1185,9 @@ script 120 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E parece que acon-
-	teceu alguma coisa
-	com o WoodMan...
+	E parece que
+	aconteceu alguma
+	coisa com o WoodMan...
 	"""
 	keyWait
 		any = false
@@ -1437,8 +1437,8 @@ script 142 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	ESTA FANTASIA É HOR-
-	RÍVEL. QUENTE DEMAIS
+	ESTA FANTASIA É
+	HORRÍVEL. QUENTE DEMAIS
 	E DIFÍCIL DE ANDAR!
 	"""
 	keyWait
@@ -1609,9 +1609,9 @@ script 160 mmbn4 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	Esta é a minha pri-
-	meira vez em um par-
-	que temático! Legal!
+	Esta é a minha
+	primeira vez em um
+	parque temático! Legal!
 	"""
 	keyWait
 		any = false
@@ -1670,8 +1670,8 @@ script 163 mmbn4 {
 	clearMsg
 	"""
 	Eu fico tão animado
-	quando vou pra luga-
-	res assim...
+	quando vou pra
+	lugares assim...
 	"""
 	keyWait
 		any = false
@@ -1719,8 +1719,8 @@ script 171 mmbn4 {
 	clearMsg
 	"""
 	Quem dera eu fosse
-	bom assim na Net-
-	Luta... Ah, Mami!
+	bom assim na
+	NetLuta... Ah, Mami!
 	"""
 	keyWait
 		any = false
@@ -1795,8 +1795,8 @@ script 174 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	A Mami é o que cha-
-	mamos de "parceira
+	A Mami é o que
+	chamamos de "parceira
 	do evento"...
 	"""
 	keyWait
@@ -1812,8 +1812,8 @@ script 174 mmbn4 {
 	clearMsg
 	"""
 	A Mami serve como
-	anunciante e narra-
-	dora deste evento.
+	anunciante e narradora
+	deste evento.
 	"""
 	keyWait
 		any = false
@@ -1853,9 +1853,9 @@ script 181 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	Que cheiro de fuma-
-	ça... Opa! Falei com
-	a minha voz normal!
+	Que cheiro de fumaça...
+	Opa! Falei com a
+	minha voz normal!
 	"""
 	keyWait
 		any = false
@@ -1897,8 +1897,8 @@ script 184 mmbn4 {
 	msgOpen
 	"""
 	Fumaça! Fumaça! Tá
-	saindo fumaça daque-
-	la coisa! Socorro!
+	saindo fumaça daquela
+	coisa! Socorro!
 	"""
 	keyWait
 		any = false

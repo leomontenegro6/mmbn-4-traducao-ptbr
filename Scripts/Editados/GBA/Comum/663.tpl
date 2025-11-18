@@ -312,9 +312,9 @@ script 15 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Não tem como recupe-
-	rar o controle sobre
-	o WindMan?
+	Não tem como recuperar
+	o controle sobre o
+	WindMan?
 	"""
 	keyWait
 		any = false
@@ -346,8 +346,8 @@ script 16 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas, com a tempesta-
-	de, é perigoso demais
+	Mas, com a tempestade,
+	é perigoso demais
 	entrar na Área.
 	"""
 	keyWait

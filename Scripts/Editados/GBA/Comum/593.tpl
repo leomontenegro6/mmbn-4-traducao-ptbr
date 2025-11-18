@@ -110,8 +110,8 @@ script 6 mmbn4 {
 	msgOpen
 	"""
 	Não consigo recusar
-	o pedido de um meni-
-	no tão bonzinho...
+	o pedido de um menino
+	tão bonzinho...
 	"""
 	keyWait
 		any = false
@@ -242,9 +242,9 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Você terá que achá-
-	los e responder às
-	perguntas deles.
+	Você terá que
+	achá-los e responder
+	às perguntas deles.
 	"""
 	keyWait
 		any = false

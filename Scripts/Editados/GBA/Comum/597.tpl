@@ -54,8 +54,8 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Tensuke
 	"""
-	Pena que eu não ven-
-	ci na frente do meu
+	Pena que eu não venci
+	na frente do meu
 	irmão e do meu neto.
 	"""
 	keyWait
@@ -124,8 +124,8 @@ script 9 mmbn4 {
 		mugshot = OldWoman
 	"""
 	Você é um herói para
-	todos os NetLutado-
-	res idosos!
+	todos os NetLutadores
+	idosos!
 	"""
 	keyWait
 		any = false
@@ -156,9 +156,9 @@ script 12 mmbn4 {
 		mugshot = Kosuke
 	msgOpen
 	"""
-	Você foi demais! Me
-	mostra as suas téc-
-	nicas de NetLuta!
+	Você foi demais!
+	Me mostra as suas
+	técnicas de NetLuta!
 	"""
 	keyWait
 		any = false

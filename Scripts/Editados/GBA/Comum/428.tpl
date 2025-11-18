@@ -35,9 +35,9 @@ script 2 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Er... Poderia arran-
-	jar uns ingredientes
-	pra gente...?
+	Er... Poderia arranjar
+	uns ingredientes pra
+	gente...?
 	"""
 	keyWait
 		any = false
@@ -71,8 +71,8 @@ script 2 mmbn4 {
 	clearMsg
 	"""
 	Primeiro, terá que
-	mostrar sua habili-
-	dade e dedicação!
+	mostrar sua habilidade
+	e dedicação!
 	"""
 	keyWait
 		any = false
@@ -92,9 +92,8 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Enviarei os ingredi-
-	entes para a Praça
-	Marchen.
+	Enviarei os ingredientes
+	para a Praça Marchen.
 	"""
 	keyWait
 		any = false
@@ -839,7 +838,7 @@ script 71 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	msgOpen
-	"\"Tempestade Misteri-\nosa Assola Área\nParque!\""
+	"\"Tempestade Misteriosa\nAssola Área\nParque!\""
 	keyWait
 		any = false
 	clearMsg
@@ -935,7 +934,7 @@ script 81 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	msgOpen
-	"\"Incêndio na Área\nParque Misteriosa-\nmente se Apaga!\""
+	"\"Incêndio na Área\nParque\nMisteriosamente se Apaga!\""
 	keyWait
 		any = false
 	clearMsg
@@ -1082,8 +1081,8 @@ script 91 mmbn4 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	ACHO QUE ESSE WOOD-
-	MAN CRIOU AQUELAS
+	ACHO QUE ESSE
+	WOODMAN CRIOU AQUELAS
 	ÁRVORES NA ÁREA...
 	"""
 	keyWait
@@ -1277,8 +1276,8 @@ script 110 mmbn4 {
 	msgOpen
 	"""
 	PARECE QUE HOUVE UM
-	PROBLEMA NOS SISTE-
-	MAS DAS ATRAÇÕES.
+	PROBLEMA NOS SISTEMAS
+	DAS ATRAÇÕES.
 	"""
 	keyWait
 		any = false

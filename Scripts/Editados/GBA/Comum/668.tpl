@@ -85,8 +85,8 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Um segundo de dis-
-	tração e eu teria
+	Um segundo de
+	distração e eu teria
 	voado pra longe.
 	"""
 	keyWait
@@ -401,8 +401,8 @@ script 21 mmbn4 {
 	msgOpen
 	"""
 	Espero que possamos
-	ter uma revanche só-
-	bria com ela, um dia.
+	ter uma revanche
+	sóbria com ela, um dia.
 	"""
 	keyWait
 		any = false

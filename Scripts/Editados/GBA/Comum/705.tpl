@@ -18,8 +18,7 @@ script 0 mmbn4 {
 	clearMsg
 	"""
 	para preparar um
-	curry ultra-
-	delicioso!
+	curry ultra-delicioso!
 	"""
 	keyWait
 		any = false
@@ -66,17 +65,17 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Eu uso meu Navi so-
-	mado às minhas habi-
-	lidades de operação
+	Eu uso meu Navi somado
+	às minhas habilidades
+	de operação nesta
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	nesta máquina para
-	fazer o melhor curry
-	de Ni-Hon!
+	máquina para fazer
+	o melhor curry de
+	Ni-Hon!
 	"""
 	keyWait
 		any = false

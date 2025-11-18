@@ -733,9 +733,9 @@ script 55 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Depois, fui aterrori-
-	zado pelo Dracky
-	enlouquecido...
+	Depois, fui
+	aterrorizado pelo
+	Dracky enlouquecido...
 	"""
 	keyWait
 		any = false
@@ -767,9 +767,9 @@ script 61 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Ele ainda tá reunin-
-	do coragem! Ele
-	devia desistir logo.
+	Ele ainda tá reunindo
+	coragem! Ele devia
+	desistir logo.
 	"""
 	keyWait
 		any = false

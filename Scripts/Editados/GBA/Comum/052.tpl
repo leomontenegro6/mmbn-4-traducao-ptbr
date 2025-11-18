@@ -78,8 +78,8 @@ script 4 mmbn4 {
 	clearMsg
 	"""
 	Essas letras são o
-	código do chip. Mes-
-	mo chips diferentes
+	código do chip. Mesmo
+	chips diferentes
 	"""
 	keyWait
 		any = false
@@ -110,8 +110,7 @@ script 4 mmbn4 {
 	clearMsg
 	"""
 	Os chips que têm um
-	"*" são tipo
-	curingas.
+	"*" são tipo curingas.
 	"""
 	keyWait
 		any = false
@@ -125,17 +124,17 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas eu vou só com o
-	código "S" porque
-	não tem nenhum "*"!
+	Mas eu vou com o "S"
+	mesmo, porque não tem
+	nenhum "*"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hora de atacar com o
-	AreaGrab e a
-	WideSwrd!
+	Hora de atacar
+	com o AreaGrab
+	e a WideSwrd!
 	"""
 	keyWait
 		any = false
@@ -312,24 +311,24 @@ script 16 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	É só eu usar o
-	AreaGrab apertando
-	"A"
+	É só eu usar
+	o AreaGrab
+	apertando "A"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	que parte da área
-	dos vírus
+	dos vírus vai vir
+	pra gente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	vai vir pra gente,
-	aí a gente vai poder
-	andar mais.
+	Com isso, a gente
+	vai poder andar mais.
 	"""
 	keyWait
 		any = false
@@ -340,9 +339,9 @@ script 17 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Aí poderemos
-	avançar e usar a
-	WideSwrd!
+	E aí poderemos
+	avançar e usar
+	a WideSwrd!
 	"""
 	keyWait
 		any = false

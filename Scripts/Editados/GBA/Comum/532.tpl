@@ -293,8 +293,8 @@ script 16 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	espaço e, com o tem-
-	po, poeira espacial
+	espaço e, com o tempo,
+	poeira espacial
 	se grudou nele.
 	"""
 	keyWait
@@ -307,9 +307,9 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	Mas não temos regis-
-	tros de um foguete
-	esférico que...
+	Mas não temos registros
+	de um foguete esférico
+	que...
 	"""
 	keyWait
 		any = false
@@ -340,8 +340,8 @@ script 18 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Devemos nos concen-
-	trar em mudar o
+	Devemos nos
+	concentrar em mudar o
 	curso do asteroide.
 	"""
 	keyWait
@@ -384,8 +384,8 @@ script 19 mmbn4 {
 		mugshot = Dad
 	"""
 	Se enviarmos um Navi
-	ao asteroide, ele po-
-	deria controlá-lo...
+	ao asteroide, ele
+	poderia controlá-lo...
 	"""
 	keyWait
 		any = false
@@ -476,7 +476,7 @@ script 22 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	é necessário habili-
+	são necessárias habili-
 	dades de operação
 	das mais delicadas.
 	"""

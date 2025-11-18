@@ -195,8 +195,8 @@ script 26 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan! Vamos con-
-	sertar as Redes
+	MegaMan! Vamos
+	consertar as Redes
 	mundo afora!
 	"""
 	keyWait
@@ -724,9 +724,9 @@ script 132 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Bora pra Saborya
-	pedir pra nos conec-
-	tarmos ao CPU Buda!
+	Bora pra Saborya pedir
+	pra nos conectarmos
+	ao CPU Buda!
 	"""
 	keyWait
 		any = false
@@ -1185,8 +1185,8 @@ script 167 mmbn4 {
 		item = 127
 	"""
 	"
-	pro Navi que admi-
-	nistra o festival!
+	pro Navi que
+	administra o festival!
 	"""
 	keyWait
 		any = false
@@ -1293,8 +1293,8 @@ script 178 mmbn4 {
 	msgOpen
 	"""
 	Não temos tempo pra
-	Rede! Temos que con-
-	sertar as antenas!
+	Rede! Temos que
+	consertar as antenas!
 	"""
 	keyWait
 		any = false

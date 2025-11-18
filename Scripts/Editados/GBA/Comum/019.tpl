@@ -25,8 +25,8 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	perguntas sobre Net-
-	Luta e deleção de
+	perguntas sobre
+	NetLuta e deleção de
 	vírus. Perguntem aí!
 	"""
 	keyWait
@@ -99,8 +99,8 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	O Glide tem que fir-
-	mar os pés no chão e
+	O Glide tem que firmar
+	os pés no chão e
 	aturar feito homem!
 	"""
 	keyWait
@@ -231,8 +231,8 @@ script 6 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Estou com dificulda-
-	des com aquela raia
+	Estou com dificuldades
+	com aquela raia
 	estranha de óculos.
 	"""
 	keyWait
@@ -290,8 +290,8 @@ script 7 mmbn4 {
 	clearMsg
 	"""
 	Se usar o Elemento
-	mais forte, seu ata-
-	que dói em dobro!
+	mais forte, seu
+	ataque dói em dobro!
 	"""
 	keyWait
 		any = false
@@ -470,8 +470,8 @@ script 11 mmbn4 {
 	clearMsg
 	"""
 	chip de código "*".
-	Ha! E aí? Adminis-
-	trei legal, foi não?
+	Ha! E aí? Administrei
+	legal, foi não?
 	"""
 	keyWait
 		any = false
@@ -588,16 +588,16 @@ script 14 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	achei que programa-
-	ção era difícil, mas
-	é até meio
+	achei que programação
+	era difícil, mas é
+	até meio divertido.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	divertido. Tipo mon-
-	tar quebra-cabeça!
+	É tipo montar
+	quebra-cabeças!
 	Vou instalar
 	"""
 	keyWait
@@ -656,8 +656,8 @@ script 15 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	fraquezas ou turbi-
-	nar ainda mais seus
+	fraquezas ou turbinar
+	ainda mais seus
 	pontos fortes!
 	"""
 	keyWait
@@ -706,8 +706,8 @@ script 17 mmbn4 {
 		top = 108
 	"""
 	E-eu não entendo!
-	Como pôde uma pro-
-	gramadora prodígio
+	Como pôde uma
+	programadora prodígio
 	"""
 	keyWait
 		any = false
@@ -746,8 +746,8 @@ script 18 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	O meu Navi tem anda-
-	do meio... escuro
+	O meu Navi tem andado
+	meio... escuro
 	ultimamente. Ele se
 	"""
 	keyWait
@@ -914,8 +914,8 @@ script 21 mmbn4 {
 	clearMsg
 	"""
 	Ouvi dizer que um
-	menino do fundamen-
-	tal venceu um deles!
+	menino do fundamental
+	venceu um deles!
 	"""
 	keyWait
 		any = false
@@ -1123,9 +1123,9 @@ script 27 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	chip que meu oponen-
-	te não tinha na Tela
-	de Resultados.
+	chip que meu oponente
+	não tinha na Tela de
+	Resultados.
 	"""
 	keyWait
 		any = false

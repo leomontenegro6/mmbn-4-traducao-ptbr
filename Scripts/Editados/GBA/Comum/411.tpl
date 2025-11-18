@@ -110,9 +110,9 @@ script 6 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Uma expressão per-
-	feita das angústias
-	da classe operária!
+	Uma expressão perfeita
+	das angústias da
+	classe operária!
 	"""
 	keyWait
 		any = false

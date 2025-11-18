@@ -13,9 +13,9 @@ script 0 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	Parece que o Mega-
-	Man adquiriu uma
-	nova habilidade!
+	Parece que o MegaMan
+	adquiriu uma nova
+	habilidade!
 	"""
 	keyWait
 		any = false
@@ -44,14 +44,14 @@ script 0 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"União de Alma!"
+	"Uníssono de Alma!"
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Mandei em anexo um
-	programa de treina-
-	mento. Experimente!
+	programa de treinamento.
+	Experimente!
 	"""
 	keyWait
 		any = false
@@ -434,8 +434,8 @@ script 9 mmbn4 {
 		top = 139
 	"""
 	Estão todos fazendo
-	escaneamentos regu-
-	lares de vírus?
+	escaneamentos
+	regulares de vírus?
 	"""
 	keyWait
 		any = false
@@ -634,8 +634,8 @@ script 12 mmbn4 {
 	clearMsg
 	"""
 	de programação! Em
-	anexo tem uns pro-
-	gramas pra você
+	anexo tem uns
+	programas pra você
 	"""
 	keyWait
 		any = false
@@ -914,16 +914,16 @@ script 17 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	Chips de [bracket1]Fogo[bracket2] ser-
-	vem como sacrifícios
+	Chips de [bracket1]Fogo[bracket2]
+	servem como sacrifícios
 	para a FireAlma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Com a união, o ele-
-	mento do MegaMan
+	Com a união, o
+	elemento do MegaMan
 	vira [bracket1]Fogo[bracket2],
 	"""
 	keyWait
@@ -1035,8 +1035,8 @@ script 18 mmbn4 {
 	clearMsg
 	"""
 	Cura e estratégia
-	coexistem harmonio-
-	samente na RollAlma.
+	coexistem harmoniosamente
+	na RollAlma.
 	"""
 	keyWait
 		any = false
@@ -1076,8 +1076,8 @@ script 19 mmbn4 {
 	clearMsg
 	"""
 	auras dos oponentes!
-	Você também anda so-
-	bre quadros rachados
+	Você também anda
+	sobre quadros rachados
 	"""
 	keyWait
 		any = false
@@ -1216,8 +1216,8 @@ script 21 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	Chips do tipo invi-
-	síveis, como Invis,
+	Chips do tipo
+	invisível, como Invis,
 	são os sacrifícios
 	"""
 	keyWait
@@ -1248,8 +1248,8 @@ script 21 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Também pode reemba-
-	ralhar e trocar
+	Também pode
+	reembaralhar e trocar
 	chips selecionados
 	"""
 	keyWait
@@ -1257,7 +1257,7 @@ script 21 mmbn4 {
 	clearMsg
 	"""
 	na Tela Custom,
-	aumentando as chan-
+	aumentando as chances
 	de usar Programas
 	"""
 	keyWait
@@ -1507,8 +1507,8 @@ script 24 mmbn4 {
 	clearMsg
 	"""
 	selecionados em
-	seguida. Combine is-
-	so com chips [bracket1]Nada[bracket2]
+	seguida. Combine isso
+	com chips [bracket1]Nada[bracket2]
 	"""
 	keyWait
 		any = false
@@ -1537,9 +1537,9 @@ script 24 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	natureza e canali-
-	zando a ferocidade
-	dela com a WoodAlma!
+	natureza e canalizando
+	a ferocidade dela
+	com a WoodAlma!
 	"""
 	keyWait
 		any = false
@@ -1571,8 +1571,8 @@ script 25 mmbn4 {
 	clearMsg
 	"""
 	MetlAlma. Na união,
-	o atirador do Mega-
-	Man age como um
+	o atirador do MegaMan
+	age como um
 	"""
 	keyWait
 		any = false
@@ -1655,9 +1655,9 @@ script 26 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E você pode seleci-
-	onar um "JunkChip"
-	que já tenha sido
+	E você pode selecionar
+	um "JunkChip" que já
+	tenha sido
 	"""
 	keyWait
 		any = false
@@ -1741,8 +1741,8 @@ script 27 mmbn4 {
 	clearMsg
 	"""
 	A ProtAlma fornece
-	ataque e defesa su-
-	periores! Boa sorte!
+	ataque e defesa
+	superiores! Boa sorte!
 	"""
 	keyWait
 		any = false
@@ -2068,9 +2068,9 @@ script 33 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Gostaríamos de pre-
-	sentear os partici-
-	pantes do Torneio
+	Gostaríamos de
+	presentear os
+	participantes do Torneio
 	"""
 	keyWait
 		any = false
@@ -2129,9 +2129,8 @@ script 50 mmbn4 {
 		left = 222
 		top = 139
 	"""
-	Olá. Sou da Associ-
-	ação de NetLuta de
-	Ni-Hon.
+	Olá. Sou da Associação
+	de NetLuta de Ni-Hon.
 	"""
 	keyWait
 		any = false
@@ -2145,17 +2144,16 @@ script 50 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Falcão, para determi-
-	nar quem é o NetLu-
-	tador mais forte de
+	Falcão, para determinar
+	quem é o NetLutador
+	mais forte de Ni-Hon!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ni-Hon! Convidamos
-	você a participar,
-	Lan.
+	Convidamos você a
+	participar, Lan.
 	"""
 	keyWait
 		any = false
@@ -2190,9 +2188,9 @@ script 51 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Gostaríamos de pre-
-	sentear os partici-
-	pantes do Torneio
+	Gostaríamos de
+	presentear os
+	participantes do Torneio
 	"""
 	keyWait
 		any = false

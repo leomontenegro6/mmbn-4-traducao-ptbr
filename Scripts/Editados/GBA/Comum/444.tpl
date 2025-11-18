@@ -50,8 +50,8 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	mugshotHide
 	"""
-	Rápido, se troca
-	logo e desce!
+	Rápido, troca logo
+	de roupa e desce!
 	"""
 	keyWait
 		any = false
@@ -75,9 +75,8 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	mugshotHide
 	"""
-	Ah, é, chegou e-mail.
-	Melhor você ler
-	depois.
+	Ah, é, e chegou e-mail.
+	É bom você ler depois.
 	"""
 	keyWait
 		any = false

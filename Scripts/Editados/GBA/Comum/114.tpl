@@ -71,9 +71,9 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Quando um novo mode-
-	lo sai, o preço do
-	antigo cai.
+	Quando um novo modelo
+	sai, o preço do antigo
+	cai.
 	"""
 	keyWait
 		any = false
@@ -136,9 +136,9 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	msgOpen
 	"""
-	Tem uma bela varie-
-	dade de produtos
-	atrás da vitrine.
+	Tem uma bela variedade
+	de produtos atrás da
+	vitrine.
 	"""
 	keyWait
 		any = false

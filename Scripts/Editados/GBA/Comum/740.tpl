@@ -12,8 +12,8 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Primeiro, represen-
-	tando Ni-Hon:
+	Primeiro,
+	representando Ni-Hon:
 	Lan Hikari!
 	"""
 	keyWait
@@ -228,9 +228,9 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Também acho imprová-
-	vel ele perder a
-	hora da luta assim.
+	Também acho improvável
+	ele perder a hora
+	da luta assim.
 	"""
 	keyWait
 		any = false
@@ -286,9 +286,9 @@ script 15 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Vamos ter que procu-
-	rar com base nas in-
-	formações que temos.
+	Vamos ter que procurar
+	com base nas informações
+	que temos.
 	"""
 	keyWait
 		any = false

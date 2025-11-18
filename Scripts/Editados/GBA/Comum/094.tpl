@@ -212,9 +212,9 @@ script 21 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Uma máquina de cozi-
-	nhar... O cheiro aí
-	dentro é bom, né?
+	Uma máquina de cozinhar...
+	O cheiro aí dentro
+	é bom, né?
 	"""
 	keyWait
 		any = false

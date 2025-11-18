@@ -24,9 +24,9 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	todos os nossos cli-
-	entes. Usem-no à
-	vontade!
+	todos os nossos
+	clientes. Usem-no
+	à vontade!
 	"""
 	keyWait
 		any = false
@@ -57,8 +57,8 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	são wireless e com-
-	pactos. Compramos
+	são wireless e
+	compactos. Compramos
 	dois, um pra cada!
 	"""
 	keyWait
@@ -120,8 +120,8 @@ script 3 mmbn4 {
 	clearMsg
 	"""
 	e foi aí que eu vi
-	que dá pra se conec-
-	tar a esta página
+	que dá pra se conectar
+	a esta página
 	"""
 	keyWait
 		any = false
@@ -156,9 +156,9 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	tentando se conec-
-	tar em tudo! Eu já
-	quero é ir pra casa!
+	tentando se conectar
+	em tudo! Eu já quero
+	é ir pra casa!
 	"""
 	keyWait
 		any = false
@@ -203,17 +203,17 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Estou agora conecta-
-	do à TV na rua. Não
-	dá para chegar nesta
+	Estou agora conectado
+	à TV na rua. Não dá
+	para chegar nesta
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	página a partir do
-	monitor LCD publici-
-	tário lá em cima.
+	página a partir
+	do monitor LCD
+	publicitário lá em cima.
 	"""
 	keyWait
 		any = false
@@ -253,8 +253,8 @@ script 7 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Eu também vejo aque-
-	le tiozinho direto!
+	Eu também vejo aquele
+	tiozinho direto!
 	Ele deve ser o chefe
 	"""
 	keyWait
@@ -317,9 +317,9 @@ script 8 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Peça Próton! Os pro-
-	gramas a gente bota
-	em cima da linha.
+	Peça Próton! Os
+	programas a gente
+	bota em cima da linha.
 	"""
 	keyWait
 		any = false
@@ -399,9 +399,9 @@ script 11 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Parece ser o progra-
-	ma "Piadas". Parece
-	que foi o Sr. Famoso
+	Parece ser o programa
+	"Piadas". Parece que
+	foi o Sr. Famoso
 	"""
 	keyWait
 		any = false
@@ -457,9 +457,9 @@ script 13 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Olá! Aqui é o admi-
-	nistrador do Fórum
-	da JomonElet!
+	Olá! Aqui é o
+	administrador do
+	Fórum da JomonElet!
 	"""
 	keyWait
 		any = false
@@ -474,15 +474,14 @@ script 13 mmbn4 {
 	clearMsg
 	"""
 	vender muitas coisas
-	fora eletrodomésti-
-	cos. Mas não se
+	fora eletrodomésticos.
+	Mas não se preocupe:
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	preocupe: logo
-	disponibilizaremos
+	logo disponibilizaremos
 	mais chips!
 	"""
 	keyWait
@@ -507,8 +506,8 @@ script 14 mmbn4 {
 	clearMsg
 	"""
 	é o que há! Ele até
-	encomenda chips in-
-	disponíveis agora!
+	encomenda chips
+	indisponíveis agora!
 	"""
 	keyWait
 		any = false
@@ -540,8 +539,8 @@ script 15 mmbn4 {
 	clearMsg
 	"""
 	O dono tem esse
-	tique de fala engra-
-	çado, né? Valeu!
+	tique de fala
+	engraçado, né? Valeu!
 	"""
 	keyWait
 		any = false

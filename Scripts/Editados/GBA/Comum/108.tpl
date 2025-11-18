@@ -284,9 +284,8 @@ script 22 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Isso vai sobrescre-
-	ver os dados
-	antigos, tá?
+	Isso vai sobrescrever
+	os dados antigos, tá?
 	"""
 	keyWait
 		any = false
@@ -445,9 +444,9 @@ script 27 mmbn4 {
 	mugshotHide
 	msgOpen
 	"""
-	Os dados foram re-
-	gistrados incorreta-
-	mente. Deu erro.
+	Os dados foram
+	registrados incorre-
+	tamente. Deu erro.
 	"""
 	keyWait
 		any = false

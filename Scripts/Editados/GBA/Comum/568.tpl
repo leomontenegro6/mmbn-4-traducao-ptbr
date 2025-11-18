@@ -6,8 +6,8 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	Oi!
-	Um cachorro-quente,
-	por favor!
+	Uma rodada de bolinhos
+	de polvo, por favor!
 	"""
 	keyWait
 		any = false
@@ -19,7 +19,7 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = HotDogLady
 	"""
-	Um dog, saindo!
+	Saindo!
 	"""
 	keyWait
 		any = false
@@ -30,7 +30,7 @@ script 2 mmbn4 {
 	soundDisableTextSFX
 	soundPlay
 		track = 207
-	"Plosh Tssss..."
+	"Tssss..."
 	wait
 		frames = 120
 	soundEnableTextSFX
@@ -66,7 +66,7 @@ script 4 mmbn4 {
 	"""
 	Olha, tá cheirando.
 	Acho que vou comer
-	um também.
+	uns também.
 	"""
 	keyWait
 		any = false
@@ -139,15 +139,14 @@ script 9 mmbn4 {
 		mugshot = HotDogLady
 	msgOpen
 	"""
-	Um tempo atrás, a
-	minha fritadeira
-	quebrou.
+	Um tempo atrás,
+	a minha chapa quebrou.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	E justo quando eu
+	E, justo quando eu
 	achei que teria que
 	fechar a barraca,
 	"""
@@ -164,8 +163,8 @@ script 9 mmbn4 {
 	clearMsg
 	"""
 	aumentou a potência
-	dela pra fazer comi-
-	da ainda melhor.
+	dela pra fazer comida
+	ainda melhor.
 	"""
 	keyWait
 		any = false
@@ -396,9 +395,9 @@ script 24 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E, Lan, pode comer o
-	cachorro-quente que
-	eu pedi.
+	E, Lan? pode comer
+	a minha leva de
+	bolinhos de polvo também.
 	"""
 	keyWait
 		any = false
@@ -459,8 +458,7 @@ script 29 mmbn4 {
 		mugshot = HotDogLady
 	"""
 	Ai, não! Deixei
-	tempo demais na
-	fritadeira!
+	fritando tempo demais!
 	"""
 	keyWait
 		any = false
@@ -472,7 +470,7 @@ script 30 mmbn4 {
 	msgOpen
 	"""
 	Desculpa. Eu faço
-	outro rapidinho.
+	outra leva rapidinho.
 	"""
 	keyWait
 		any = false
@@ -493,8 +491,8 @@ script 30 mmbn4 {
 	clearMsg
 	"""
 	O Sr. Match se deu
-	ao trabalho de con-
-	sertar ela, e...
+	ao trabalho de
+	consertar ela, e...
 	"""
 	keyWait
 		any = false

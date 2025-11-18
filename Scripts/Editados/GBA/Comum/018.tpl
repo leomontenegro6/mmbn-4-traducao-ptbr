@@ -492,9 +492,9 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Perguntei pro povo
-	lá suas teclas fa-
-	voritas do teclado.
+	Perguntei pro povo lá
+	suas teclas favoritas
+	do teclado.
 	"""
 	keyWait
 		any = false
@@ -693,41 +693,41 @@ script 22 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	O recepcionista co-
-	bra 30 Zennys cada.
+	O recepcionista
+	cobra 30 Zennys cada.
 	Cada um paga 10z.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Depois, o recepcio-
-	nista vê que cobrou
-	extra. Ele dá ao
+	Depois, o recepcionista
+	vê que cobrou extra.
+	Ele dá ao camareiro
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	camareiro 5z para
-	devolver a eles. No
-	caminho, o camareiro
+	5z para devolver a
+	eles. No caminho,
+	o camareiro percebe
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	percebe que não pode
-	dividir o dinheiro
-	igualmente, e fica
+	que não pode dividir
+	o dinheiro igualmente,
+	e fica com 2z
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	com 2z e devolve 1z
-	pra cada. Eles aca-
-	bam pagando só 9z.
+	e devolve 1z pra
+	cada. Eles acabam
+	pagando só 9z.
 	"""
 	keyWait
 		any = false

@@ -203,9 +203,9 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	queria que vencêsse-
-	mos e te ensinásse-
-	mos esta lição.
+	queria que vencêssemos
+	e te ensinássemos
+	esta lição.
 	"""
 	keyWait
 		any = false

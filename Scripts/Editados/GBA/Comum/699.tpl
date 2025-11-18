@@ -82,8 +82,8 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Duvido que ele de-
-	sistiria do torneio
+	Duvido que ele
+	desistiria do torneio
 	por uma briguinha.
 	"""
 	keyWait

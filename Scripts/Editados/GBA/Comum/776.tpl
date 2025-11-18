@@ -77,8 +77,8 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	Descobri que a Nebu-
-	la estava envolvida
+	Descobri que a Nebula
+	estava envolvida
 	naquele incidente.
 	"""
 	keyWait

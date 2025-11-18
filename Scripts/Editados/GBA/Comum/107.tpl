@@ -59,9 +59,9 @@ script 3 mmbn4 {
 		jumpIfBlueMoon = 21
 	msgOpen
 	"""
-	Há pães multicolori-
-	dos no cesto. Pare-
-	cem uma delícia!
+	Há pães multicoloridos
+	no cesto. Parecem
+	uma delícia!
 	"""
 	keyWait
 		any = false
@@ -179,8 +179,7 @@ script 10 mmbn4 {
 	clearMsg
 	"""
 	O cheirinho doce
-	deles é
-	irresistível!
+	deles é irresistível!
 	"""
 	keyWait
 		any = false
@@ -205,8 +204,8 @@ script 21 mmbn4 {
 	msgOpen
 	"""
 	A panela está com
-	uma receita espe-
-	cial da mãe do Lan.
+	uma receita especial
+	da mãe do Lan.
 	"""
 	keyWait
 		any = false

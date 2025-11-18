@@ -22,9 +22,9 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	msgOpen
 	"""
-	Uma placa do Number-
-	Man. Navi do Higsby
-	e mascote de placa.
+	Uma placa do NumberMan.
+	Navi do Higsby e
+	mascote de placa.
 	"""
 	keyWait
 		any = false

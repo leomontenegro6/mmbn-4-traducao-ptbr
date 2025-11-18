@@ -130,8 +130,8 @@ script 8 mmbn4 {
 		mugshot = KendoMan
 	"""
 	Ah, desculpe, então!
-	Eu sou meio impaci-
-	ente, às vezes.
+	Eu sou meio impaciente,
+	às vezes.
 	"""
 	keyWait
 		any = false

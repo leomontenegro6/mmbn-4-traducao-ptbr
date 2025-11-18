@@ -349,9 +349,9 @@ script 52 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Bora pra Área Par-
-	que! Tô preocupado
-	com o Navi do Riki!
+	Bora pra Área Parque!
+	Tô preocupado com o
+	Navi do Riki!
 	"""
 	keyWait
 		any = false
@@ -470,9 +470,9 @@ script 63 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	A Roll deve tá pre-
-	sa! Temos que achar
-	uma pista de onde!
+	A Roll deve tá presa!
+	Temos que achar uma
+	pista de onde!
 	"""
 	keyWait
 		any = false
@@ -755,8 +755,8 @@ script 86 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Se conecta na barra-
-	quinha de sorvete!
+	Se conecta na
+	barraquinha de sorvete!
 	O MetalMan tá lá!
 	"""
 	keyWait
@@ -814,8 +814,8 @@ script 92 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Vamos logo pro cas-
-	telo, ou vamos ser
+	Vamos logo pro
+	castelo, ou vamos ser
 	desqualificados!
 	"""
 	keyWait
@@ -1178,9 +1178,8 @@ script 127 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Pegamos os Ingredi-
-	entes! Vamos pro
-	Dojô Culinário!
+	Pegamos os Ingredientes!
+	Vamos pro Dojô Culinário!
 	"""
 	keyWait
 		any = false

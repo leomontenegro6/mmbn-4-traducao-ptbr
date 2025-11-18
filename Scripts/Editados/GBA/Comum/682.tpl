@@ -85,9 +85,9 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	A luta tá pra come-
-	çar. A gente pode
-	ser desqualificado!
+	A luta tá pra começar.
+	A gente pode ser
+	desqualificado!
 	"""
 	keyWait
 		any = false

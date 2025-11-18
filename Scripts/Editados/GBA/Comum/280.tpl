@@ -124,9 +124,9 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	É até difícil acre-
-	ditar que foi cons-
-	truído há milênios!
+	É até difícil acreditar
+	que foi construído há
+	milênios!
 	"""
 	keyWait
 		any = false
@@ -151,8 +151,8 @@ script 4 mmbn4 {
 	clearMsg
 	"""
 	relíquia da história
-	ancestral e da tec-
-	nologia futurista!
+	ancestral e da
+	tecnologia futurista!
 	"""
 	keyWait
 		any = false
@@ -294,17 +294,17 @@ script 12 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Esculturas da Ame-
-	ropa são todas tão
-	lindas. É impossível
+	Esculturas da Ameropa
+	são todas tão lindas.
+	É impossível não
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	não admirá-las. Ah,
-	vai começar o tor-
-	neio! Ao trabalho!
+	admirá-las. Ah, vai
+	começar o torneio!
+	Ao trabalho!
 	"""
 	keyWait
 		any = false
@@ -424,8 +424,8 @@ script 19 mmbn4 {
 	msgOpen
 	"""
 	É só focar em passar
-	pela primeira roda-
-	da. Limpe a mente!
+	pela primeira rodada.
+	Limpe a mente!
 	"""
 	keyWait
 		any = false
@@ -605,9 +605,9 @@ script 27 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ameropa é pratica-
-	mente como dar uma
-	volta na esquina!
+	Ameropa é praticamente
+	como dar uma volta
+	na esquina!
 	"""
 	keyWait
 		any = false

@@ -467,8 +467,8 @@ script 130 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas permite-me tes-
-	tar tua sabedoria
+	Mas permite-me
+	testar tua sabedoria
 	antes de ceder o
 	"""
 	keyWait
@@ -518,9 +518,9 @@ script 130 mmbn4 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	"""
-	Como ousais postar-
-	se ante mim antes
-	de preparar-se?
+	Como ousais postar-se
+	ante mim antes de
+	preparar-se?
 	"""
 	keyWait
 		any = false
@@ -864,7 +864,7 @@ script 131 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Cachorro-quente"
+	"Bolinhos de polvo"
 	select
 		default = 0
 		noDelay = false
@@ -1091,8 +1091,8 @@ script 161 mmbn4 {
 		mugshot = NormalNaviPink
 	"""
 	É uma loja de chips!
-	"Chips raros e bara-
-	tos"? Adorei!
+	"Chips raros e baratos"?
+	Adorei!
 	"""
 	keyWait
 		any = false

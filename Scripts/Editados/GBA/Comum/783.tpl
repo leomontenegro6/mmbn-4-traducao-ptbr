@@ -234,8 +234,8 @@ script 14 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Eu comecei a enten-
-	der aqueles dois. Eu
+	Eu comecei a entender
+	aqueles dois. Eu
 	senti os verdadeiros
 	"""
 	keyWait

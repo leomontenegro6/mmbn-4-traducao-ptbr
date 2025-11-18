@@ -68,9 +68,9 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Maid
 	"""
-	Surgiram mais clien-
-	tes agora! Os negó-
-	cios tão bombando!
+	Surgiram mais clientes
+	agora! Os negócios
+	tão bombando!
 	"""
 	keyWait
 		any = false

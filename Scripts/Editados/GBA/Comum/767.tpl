@@ -268,9 +268,9 @@ script 18 mmbn4 {
 		mugshot = Raika
 	msgOpen
 	"""
-	Um inimigo aparecen-
-	do antes da luta
-	significa...
+	Um inimigo
+	aparecendo antes
+	da luta significa...
 	"""
 	keyWait
 		any = false

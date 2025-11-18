@@ -138,8 +138,8 @@ script 6 mmbn4 {
 	msgOpen
 	"""
 	He, tá começando a
-	parecer uma compe-
-	tição de verdade.
+	parecer uma competição
+	de verdade.
 	"""
 	keyWait
 		any = false

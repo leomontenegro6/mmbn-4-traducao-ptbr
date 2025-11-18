@@ -173,9 +173,9 @@ script 25 mmbn4 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	Eu fui na Rede tes-
-	tar as minhas habi-
-	lidades de luta,
+	Eu fui na Rede testar
+	as minhas habilidades
+	de luta,
 	"""
 	keyWait
 		any = false

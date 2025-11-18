@@ -30,8 +30,8 @@ script 3 mmbn4 {
 		mugshot = MrFamous
 	"""
 	Modo de treino, um
-	jogador. Lutas se-
-	guidas com Navis.
+	jogador. Lutas
+	seguidas com Navis.
 	"""
 	waitHold
 }
@@ -53,8 +53,8 @@ script 4 mmbn4 {
 		mugshot = MrFamous
 	"""
 	Modo Luta de Rede.
-	Duele contra os Na-
-	vis de seus amigos!
+	Duele contra os Navis
+	de seus amigos!
 	"""
 	waitHold
 }

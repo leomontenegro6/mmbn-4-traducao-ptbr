@@ -62,8 +62,8 @@ script 10 mmbn4 {
 	clearMsg
 	"""
 	Eu não sabia que
-	crianças da sua ida-
-	de podiam competir!
+	crianças da sua
+	idade podiam competir!
 	"""
 	keyWait
 		any = false
@@ -228,8 +228,8 @@ script 41 mmbn4 {
 	clearMsg
 	"""
 	Pode usar isto aqui
-	para apagar os in-
-	cêndios na Rede?
+	para apagar os
+	incêndios na Rede?
 	"""
 	keyWait
 		any = false

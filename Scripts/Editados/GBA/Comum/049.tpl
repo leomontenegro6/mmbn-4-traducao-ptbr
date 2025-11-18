@@ -108,8 +108,8 @@ script 4 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	O inimigo tá trocan-
-	do de estratégia!
+	O inimigo tá trocando
+	de estratégia!
 	
 	"""
 	positionOptionHorizontal
@@ -308,8 +308,8 @@ script 8 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	O inimigo tá trocan-
-	do de estratégia!
+	O inimigo tá trocando
+	de estratégia!
 	
 	"""
 	positionOptionHorizontal
@@ -508,8 +508,8 @@ script 12 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	O inimigo tá trocan-
-	do de estratégia!
+	O inimigo tá trocando
+	de estratégia!
 	
 	"""
 	positionOptionHorizontal
@@ -708,8 +708,8 @@ script 16 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	O inimigo tá trocan-
-	do de estratégia!
+	O inimigo tá trocando
+	de estratégia!
 	
 	"""
 	positionOptionHorizontal
@@ -908,8 +908,8 @@ script 20 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	O inimigo tá trocan-
-	do de estratégia!
+	O inimigo tá trocando
+	de estratégia!
 	
 	"""
 	positionOptionHorizontal
@@ -1108,8 +1108,8 @@ script 24 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	O inimigo tá trocan-
-	do de estratégia!
+	O inimigo tá trocando
+	de estratégia!
 	
 	"""
 	positionOptionHorizontal
@@ -1308,8 +1308,8 @@ script 28 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	O inimigo tá trocan-
-	do de estratégia!
+	O inimigo tá trocando
+	de estratégia!
 	
 	"""
 	positionOptionHorizontal
@@ -1508,8 +1508,8 @@ script 32 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	O inimigo tá trocan-
-	do de estratégia!
+	O inimigo tá trocando
+	de estratégia!
 	
 	"""
 	positionOptionHorizontal
@@ -1908,8 +1908,8 @@ script 40 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	O inimigo tá trocan-
-	do de estratégia!
+	O inimigo tá trocando
+	de estratégia!
 	
 	"""
 	positionOptionHorizontal
@@ -2308,8 +2308,8 @@ script 48 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	O inimigo tá trocan-
-	do de estratégia!
+	O inimigo tá trocando
+	de estratégia!
 	
 	"""
 	positionOptionHorizontal
@@ -2508,8 +2508,8 @@ script 52 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	O inimigo tá trocan-
-	do de estratégia!
+	O inimigo tá trocando
+	de estratégia!
 	
 	"""
 	positionOptionHorizontal

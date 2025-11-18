@@ -6,15 +6,15 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	Senhoras e senhores!
-	Apresentando os com-
-	petidores de hoje!
+	Apresentando os
+	competidores de hoje!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Para começar, a Net-
-	Lutadora pobretona:
+	Para começar, a
+	NetLutadora pobretona:
 	Shuko Kido!
 	"""
 	keyWait

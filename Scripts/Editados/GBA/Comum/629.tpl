@@ -252,9 +252,9 @@ script 17 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E eu não quero sa-
-	ber. Só quero lutar
-	com um Navi forte!
+	E eu não quero saber.
+	Só quero lutar com
+	um Navi forte!
 	"""
 	keyWait
 		any = false

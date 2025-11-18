@@ -159,9 +159,9 @@ script 9 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E, agora, a transmis-
-	são do SEU Navi
-	para o asteroide.
+	E, agora, a transmissão
+	do SEU Navi para o
+	asteroide.
 	"""
 	keyWait
 		any = false
@@ -552,8 +552,8 @@ script 36 mmbn4 {
 		mugshot = Regal
 	"""
 	Esse título já me
-	parece tão ultrapas-
-	sado a esta altura.
+	parece tão ultrapassado
+	a esta altura.
 	"""
 	keyWait
 		any = false
@@ -637,8 +637,8 @@ script 39 mmbn4 {
 	msgOpen
 	"""
 	Já até sinto o
-	cheiro da erradica-
-	ção da Terra!
+	cheiro da erradicação
+	da Terra!
 	"""
 	keyWait
 		any = false

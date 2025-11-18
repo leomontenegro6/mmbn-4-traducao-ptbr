@@ -77,8 +77,8 @@ script 4 mmbn4 {
 		frames = 60
 	clearMsg
 	"""
-	Ainda não me atra-
-	sei pra aula e tô
+	Ainda não me atrasei
+	pra aula e tô
 	fazendo a lição.
 	"""
 	wait

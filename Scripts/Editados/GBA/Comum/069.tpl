@@ -553,9 +553,8 @@ script 131 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	A pista do seques-
-	trador deve nos
-	levar ao Chisao!
+	A pista do sequestrador
+	deve nos levar ao Chisao!
 	"""
 	keyWait
 		any = false
@@ -670,7 +669,7 @@ script 140 mmbn4 {
 	"""
 	Lan, vamos pra
 	Barraca de
-	Cachorro-Quente.
+	Bolinhos de Polvo.
 	"""
 	keyWait
 		any = false
@@ -683,7 +682,7 @@ script 141 mmbn4 {
 	"""
 	Me conecta, Lan.
 	Eu conserto a
-	fritadeira!
+	chapa!
 	"""
 	keyWait
 		any = false
@@ -695,8 +694,8 @@ script 142 mmbn4 {
 	msgOpen
 	"""
 	Parece que só o Sr.
-	Match pode conser-
-	tar. Atrás dele!
+	Match pode consertar.
+	Atrás dele!
 	"""
 	keyWait
 		any = false
@@ -847,9 +846,8 @@ script 162 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Fale com os NetLuta-
-	dores idosos no
-	Parque ACDC!
+	Fale com os NetLutadores
+	idosos no Parque ACDC!
 	"""
 	keyWait
 		any = false
@@ -1018,9 +1016,9 @@ script 175 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Bora procurar a Shu-
-	ko! Será que alguém
-	sabe onde ela tá?
+	Bora procurar a Shuko!
+	Será que alguém sabe
+	onde ela tá?
 	"""
 	keyWait
 		any = false
@@ -1256,9 +1254,9 @@ script 199 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Vamos voltar pra Re-
-	de! Não podemos fi-
-	car sem fazer nada!
+	Vamos voltar pra Rede!
+	Não podemos ficar
+	sem fazer nada!
 	"""
 	keyWait
 		any = false

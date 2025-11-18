@@ -21,8 +21,8 @@ script 0 mmbn4 {
 		width = 19
 		height = 3
 	"""
-	Lan recebeu permis-
-	são da mãe e estava
+	Lan recebeu permissão
+	da mãe e estava
 	pronto para partir.
 	"""
 	keyWait
@@ -59,8 +59,8 @@ script 2 mmbn4 {
 		mugshot = MegaMan
 	"""
 	Mas relaxa, ou estará
-	exausto quando che-
-	garmos na Ameropa.
+	exausto quando chegarmos
+	na Ameropa.
 	"""
 	keyWait
 		any = false
@@ -113,8 +113,8 @@ script 4 mmbn4 {
 		width = 19
 		height = 3
 	"""
-	Lan recebeu permis-
-	são da mãe e estava
+	Lan recebeu permissão
+	da mãe e estava
 	pronto para partir.
 	"""
 	keyWait

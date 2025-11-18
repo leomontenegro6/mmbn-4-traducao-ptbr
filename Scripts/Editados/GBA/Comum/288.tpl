@@ -222,31 +222,31 @@ script 23 mmbn4 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	O vencedor do Tor-
-	neio Sol Vermelho
+	O vencedor do
+	Torneio Sol Vermelho
 	está operando o
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	satélite Sol Verme-
-	lho na outra sala
-	para analisar o
+	satélite Sol Vermelho
+	na outra sala para
+	analisar o asteroide.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	asteroide. Temos de
-	enviar esses dados
-	para a AENA o mais
+	Temos de enviar esses
+	dados para a AENA o
+	mais rápido que
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	rápido que pudermos!
+	pudermos!
 	"""
 	keyWait
 		any = false

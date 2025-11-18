@@ -25,9 +25,9 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	msgOpen
 	"""
-	Uma porta de segu-
-	rança... Tem algo
-	escrito nela.
+	Uma porta de
+	segurança... Tem
+	algo escrito nela.
 	"""
 	keyWait
 		any = false
@@ -102,14 +102,14 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ingredientes à base
-	de dados são trans-
-	feridos daqui para
+	Ingredientes à base de
+	dados são transferidos
+	daqui para a
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"a máquina de\ncozinha."
+	"máquina de cozinha."
 	keyWait
 		any = false
 	end

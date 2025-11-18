@@ -109,8 +109,8 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	"""
-	Então, é só um turis-
-	ta mesmo? Pois volte
+	Então, é só um turista
+	mesmo? Pois volte
 	pro mundo real.
 	"""
 	keyWait

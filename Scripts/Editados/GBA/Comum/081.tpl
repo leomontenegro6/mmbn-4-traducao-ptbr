@@ -127,8 +127,8 @@ script 8 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Se a gente não cor-
-	rer, a Roll vai...!
+	Se a gente não correr,
+	a Roll vai...!
 	Vamos logo!
 	"""
 	keyWait

@@ -149,9 +149,9 @@ script 9 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Eu vou ficar velhi-
-	nha sem nunca conhe-
-	cer a felicidade.
+	Eu vou ficar velhinha
+	sem nunca conhecer
+	a felicidade.
 	"""
 	keyWait
 		any = false

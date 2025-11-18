@@ -98,9 +98,9 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	msgOpen
 	"""
-	Parece que o vende-
-	dor de SubChips tá
-	se escondendo...
+	Parece que o vendedor
+	de SubChips tá se
+	escondendo...
 	"""
 	keyWait
 		any = false

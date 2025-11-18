@@ -92,9 +92,9 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Nosso plano é preve-
-	nir o impacto com a
-	sua ajuda, Lan.
+	Nosso plano é
+	prevenir o impacto
+	com a sua ajuda, Lan.
 	"""
 	keyWait
 		any = false
@@ -136,8 +136,8 @@ script 6 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Se o público soubes-
-	se, o mundo inteiro
+	Se o público soubesse,
+	o mundo inteiro
 	entraria em pânico.
 	"""
 	keyWait

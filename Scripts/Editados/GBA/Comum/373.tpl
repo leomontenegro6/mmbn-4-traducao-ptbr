@@ -13,9 +13,9 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	EU PURIFICO ÁGUA PA-
-	RA MEUS CLIENTES BE-
-	BEREM EM SEGURANÇA!
+	EU PURIFICO ÁGUA
+	PARA MEUS CLIENTES
+	BEBEREM EM SEGURANÇA!
 	"""
 	keyWait
 		any = false

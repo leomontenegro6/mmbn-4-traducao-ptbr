@@ -30,8 +30,8 @@ script 1 mmbn4 {
 	msgOpen
 	"""
 	O botão de desligar
-	do Robô... Não pre-
-	cisa apertar agora.
+	do Robô... Não precisa
+	apertar agora.
 	"""
 	keyWait
 		any = false
@@ -170,9 +170,9 @@ script 14 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	mas a Princesa Ala-
-	barda usou seu ma-
-	chado para entrar
+	mas a Princesa
+	Alabarda usou seu
+	machado para entrar
 	"""
 	keyWait
 		any = false
@@ -186,9 +186,9 @@ script 14 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Tomahawk fora apri-
-	sionado. Com a força
-	que lhe restava,
+	Tomahawk fora
+	aprisionado. Com a
+	força que lhe restava,
 	"""
 	keyWait
 		any = false
@@ -229,9 +229,9 @@ script 14 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	mas o sorriso calo-
-	roso e vibrante do
-	Príncipe a acalmou.
+	mas o sorriso
+	caloroso e vibrante
+	do Príncipe a acalmou.
 	"""
 	keyWait
 		any = false

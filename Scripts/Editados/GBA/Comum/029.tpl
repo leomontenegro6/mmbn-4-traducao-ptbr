@@ -63,17 +63,17 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	quadros deles volta-
-	rem ao normal, eles
-	se enfraquecem.
+	quadros deles voltarem
+	ao normal, eles se
+	enfraquecem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Também dá pra que-
-	brar eles com chips
-	tipo "Geddon".
+	Também dá pra quebrar
+	eles com chips tipo
+	"Geddon".
 	"""
 	keyWait
 		any = false
@@ -386,8 +386,8 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas o Django apare-
-	cer justo quando o
+	Mas o Django aparecer
+	justo quando o
 	ShadeMan apagou...
 	"""
 	keyWait

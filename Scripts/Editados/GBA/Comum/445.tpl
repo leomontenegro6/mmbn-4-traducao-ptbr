@@ -30,9 +30,8 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Bora, MegaMan, hora
-	de deletar uns
-	vírus!
+	Bora, MegaMan! Hora
+	de deletar uns vírus!
 	"""
 	keyWait
 		any = false

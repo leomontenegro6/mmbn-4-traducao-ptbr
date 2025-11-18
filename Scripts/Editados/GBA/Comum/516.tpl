@@ -99,16 +99,16 @@ script 4 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Os dados de narrati-
-	va que faltam estão
+	Os dados de narrativa
+	que faltam estão
 	além desse portal.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Traga-os aqui e co-
-	loque-os na porta
+	Traga-os aqui e
+	coloque-os na porta
 	para abrir a rota!
 	"""
 	keyWait

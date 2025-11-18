@@ -103,8 +103,8 @@ script 7 mmbn4 {
 		animation = 2
 	"""
 	Tá escrito: "Área da
-	Shuko. Peça permis-
-	são para entrar."
+	Shuko. Peça permissão
+	para entrar."
 	"""
 	keyWait
 		any = false

@@ -257,9 +257,9 @@ script 12 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Eu topo qualquer
-	parada pra experi-
-	mentar esse pão!
+	Eu topo qualquer parada
+	pra experimentar esse
+	pão!
 	"""
 	keyWait
 		any = false
@@ -272,8 +272,8 @@ script 13 mmbn4 {
 		mugshot = MegaMan
 	"""
 	A melhor parte de
-	viajar é experimen-
-	tar a comida, né?
+	viajar é experimentar
+	a comida, né?
 	"""
 	keyWait
 		any = false
@@ -486,8 +486,8 @@ script 25 mmbn4 {
 	clearMsg
 	"""
 	Lan Hikari e
-	MegaMan.EXE, repre-
-	sentando Ni-Hon!
+	MegaMan.EXE,
+	representando Ni-Hon!
 	"""
 	keyWait
 		any = false

@@ -62,9 +62,8 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	É do Centro Climá-
-	tico da Ameropa!
-	Eu vou ler!
+	É do Centro Climático
+	da Ameropa! Eu vou ler!
 	"""
 	keyWait
 		any = false

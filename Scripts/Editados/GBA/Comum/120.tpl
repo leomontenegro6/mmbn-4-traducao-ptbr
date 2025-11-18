@@ -22,9 +22,9 @@ script 0 mmbn4 {
 script 1 mmbn4 {
 	msgOpen
 	"""
-	Talvez estejam des-
-	cansando antes de
-	irem para casa,
+	Talvez estejam
+	descansando antes
+	de irem para casa,
 	"""
 	keyWait
 		any = false
@@ -153,9 +153,9 @@ script 6 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Este lugar absoluta-
-	mente grita "ponto
-	de encontro".
+	Este lugar
+	absolutamente grita
+	"ponto de encontro".
 	"""
 	keyWait
 		any = false
@@ -206,9 +206,9 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Este lugar absoluta-
-	mente grita "ponto
-	de encontro".
+	Este lugar
+	absolutamente grita
+	"ponto de encontro".
 	"""
 	keyWait
 		any = false

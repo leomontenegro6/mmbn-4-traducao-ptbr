@@ -62,9 +62,9 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	ACHO QUE VOU PENSAR
-	EM UMA COISA CONS-
-	TRUTIVA PARA FAZER
+	ACHO QUE VOU PENSAR EM
+	UMA COISA CONSTRUTIVA
+	PARA FAZER
 	"""
 	keyWait
 		any = false
@@ -309,8 +309,8 @@ script 30 mmbn4 {
 	msgOpen
 	"""
 	EU ME CUSTOMIZEI COM
-	UM CHIP POTENCIALI-
-	ZADOR PARA FICAR
+	UM CHIP POTENCIALIZADOR
+	PARA FICAR
 	"""
 	keyWait
 		any = false

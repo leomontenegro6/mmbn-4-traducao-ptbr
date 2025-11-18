@@ -391,8 +391,8 @@ script 22 mmbn4 {
 	msgOpen
 	"""
 	ESSE TURISTA É MUITO
-	BOM EM FAZER IMITA-
-	ÇÕES DE ANIMAIS!
+	BOM EM FAZER IMITAÇÕES
+	DE ANIMAIS!
 	"""
 	keyWait
 		any = false
@@ -687,8 +687,8 @@ script 152 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	O que você tá fazen-
-	do? Volte ao seu
+	O que você tá fazendo?
+	Volte ao seu
 	treinamento!
 	"""
 	keyWait

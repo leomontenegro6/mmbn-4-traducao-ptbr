@@ -13,8 +13,8 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Primeiro, represen-
-	tando Ni-Hon:
+	Primeiro,
+	representando Ni-Hon:
 	Lan Hikari!
 	"""
 	keyWait
@@ -72,8 +72,8 @@ script 3 mmbn4 {
 	clearMsg
 	"""
 	Farei todos os Navis
-	mimados por operado-
-	res virarem lixo!
+	mimados por operadores
+	virarem lixo!
 	"""
 	keyWait
 		any = false
@@ -92,8 +92,8 @@ script 4 mmbn4 {
 	msgOpen
 	"""
 	JunkMan, eu quero te
-	falar uma coisa an-
-	tes da gente lutar.
+	falar uma coisa antes
+	da gente lutar.
 	"""
 	keyWait
 		any = false

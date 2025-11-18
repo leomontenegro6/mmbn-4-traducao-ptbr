@@ -28,8 +28,8 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	A identidade do seu
-	operador, esse "Mes-
-	tre Cuca-Mestre"?
+	operador, esse
+	"Mestre Cuca-Mestre"?
 	"""
 	keyWait
 		any = false
@@ -143,8 +143,8 @@ script 6 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	O Flave só quer exi-
-	bir suas habilidades
+	O Flave só quer exibir
+	suas habilidades
 	culinárias.
 	"""
 	keyWait

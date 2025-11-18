@@ -75,8 +75,8 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	Aposto que o sujeito
-	que congelou o sis-
-	tema invadiu!
+	que congelou o
+	sistema invadiu!
 	"""
 	keyWait
 		any = false
@@ -116,8 +116,8 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	msgOpen
 	"""
-	O sistema de contro-
-	le das atrações do
+	O sistema de controle
+	das atrações do
 	Castillo.
 	"""
 	keyWait

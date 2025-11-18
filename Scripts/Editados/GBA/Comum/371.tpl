@@ -5,8 +5,8 @@ script 10 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	SOU O MAIS NOVO MO-
-	DELO DE PROGRAMA DE
+	SOU O MAIS NOVO
+	MODELO DE PROGRAMA DE
 	LEITURA DE CARTÃO!
 	"""
 	keyWait

@@ -142,7 +142,7 @@ script 9 mmbn4 {
 	printItem
 		buffer = 0
 		item = 2
-	"\" pro\npapai!"
+	"\" pro papai!"
 	keyWait
 		any = false
 	end
@@ -188,7 +188,7 @@ script 10 mmbn4 {
 	printItem
 		buffer = 0
 		item = 2
-	"\ne traga aqui pra\nmim, rápido!"
+	"\ne traga aqui pra mim,\nrápido!"
 	keyWait
 		any = false
 	clearMsg
@@ -311,8 +311,8 @@ script 17 mmbn4 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Seu pai está escre-
-	vendo e-mails agora.
+	Seu pai está escrevendo
+	e-mails agora.
 	Não perturbe ele.
 	"""
 	keyWait
@@ -337,8 +337,7 @@ script 18 mmbn4 {
 	msgOpen
 	"""
 	Precisamos pegar
-	dinheiro com o
-	papai.
+	dinheiro com o papai.
 	"""
 	keyWait
 		any = false
@@ -554,9 +553,9 @@ script 50 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Claro, pode partici-
-	par. Só não vá
-	se machucar, tá?
+	Claro, pode participar.
+	Só não vá se machucar,
+	tá?
 	"""
 	keyWait
 		any = false
@@ -583,9 +582,9 @@ script 51 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Claro, pode partici-
-	par. Só não vá
-	se machucar, tá?
+	Claro, pode participar.
+	Só não vá se machucar,
+	tá?
 	"""
 	keyWait
 		any = false
@@ -630,8 +629,8 @@ script 60 mmbn4 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Queria que você es-
-	tudasse com o mesmo
+	Queria que você
+	estudasse com o mesmo
 	afinco com que luta!
 	"""
 	keyWait

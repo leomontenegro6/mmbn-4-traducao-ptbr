@@ -35,9 +35,9 @@ script 2 mmbn4 {
 		mugshot = Regal
 	msgOpen
 	"""
-	O plano originalmen-
-	te envolvia enviar
-	o meu Navi.
+	O plano originalmente
+	envolvia enviar o
+	meu Navi.
 	"""
 	keyWait
 		any = false
@@ -50,17 +50,17 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	É impossível para um
-	Navi como o seu con-
-	trolar um asteroide.
+	É impossível para
+	um Navi como o seu
+	controlar um asteroide.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	O planeta está con-
-	denado graças à sua
-	emotividade tola.
+	O planeta está
+	condenado graças à
+	sua emotividade tola.
 	"""
 	keyWait
 		any = false

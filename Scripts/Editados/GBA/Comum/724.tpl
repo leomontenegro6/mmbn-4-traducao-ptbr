@@ -44,9 +44,8 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Sem contra-
-	argumentos. Foi
-	uma luta justa.
+	Sem contra-argumentos.
+	Foi uma luta justa.
 	"""
 	keyWait
 		any = false
@@ -96,9 +95,9 @@ script 6 mmbn4 {
 		mugshot = Raoul
 	msgOpen
 	"""
-	Lan, MegaMan. O
-	Ancião da minha tri-
-	bo lhes amaldiçoou.
+	Lan, MegaMan. O Ancião
+	da minha tribo lhes
+	amaldiçoou.
 	"""
 	keyWait
 		any = false
@@ -145,8 +144,8 @@ script 9 mmbn4 {
 		mugshot = OldManAlt
 	"""
 	Não queria ver nosso
-	guerreiro ser venci-
-	do diante do mundo.
+	guerreiro ser vencido
+	diante do mundo.
 	"""
 	keyWait
 		any = false
@@ -203,9 +202,9 @@ script 12 mmbn4 {
 		mugshot = OldManAlt
 	msgOpen
 	"""
-	Lan, MegaMan. Eu
-	causei um male ter-
-	rível sobre vocês.
+	Lan, MegaMan.
+	Eu causei um male
+	terrível sobre vocês.
 	"""
 	keyWait
 		any = false

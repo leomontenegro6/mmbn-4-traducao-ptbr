@@ -20,8 +20,8 @@ script 0 mmbn4 {
 	clearMsg
 	"""
 	NO PASSADO, VÁRIOS
-	PROGRAMAS ERAM USA-
-	DOS PARA O DEUS,
+	PROGRAMAS ERAM USADOS
+	PARA O DEUS,
 	"""
 	keyWait
 		any = false

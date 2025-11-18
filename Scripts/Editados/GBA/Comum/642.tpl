@@ -137,8 +137,8 @@ script 5 mmbn4 {
 	msgOpen
 	"""
 	Espera, chefe!
-	Eu não posso compe-
-	tir sem o Crusher!
+	Eu não posso competir
+	sem o Crusher!
 	"""
 	keyWait
 		any = false
@@ -283,8 +283,8 @@ script 12 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Antes que eu me des-
-	se conta, eu tava na
+	Antes que eu me desse
+	conta, eu tava na
 	Máfia! Os bandidões!
 	"""
 	keyWait
@@ -390,8 +390,8 @@ script 18 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	É o meu destino, fi-
-	car cercado de gente
+	É o meu destino,
+	ficar cercado de gente
 	má por toda a vida.
 	"""
 	keyWait

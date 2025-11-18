@@ -83,8 +83,8 @@ script 3 mmbn4 {
 	msgOpen
 	"""
 	Ouvi que um menino
-	tinha parado os ro-
-	bôs... Era você.
+	tinha parado os
+	robôs... Era você.
 	"""
 	keyWait
 		any = false
@@ -132,9 +132,9 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Antes, eles se escon-
-	diam atrás da WWW e
-	da Gospel,
+	Antes, eles se
+	escondiam atrás da
+	WWW e da Gospel,
 	"""
 	keyWait
 		any = false
@@ -190,9 +190,9 @@ script 7 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	mistério, e provavel-
-	mente são até piores
-	que a WWW.
+	mistério, e
+	provavelmente são
+	até piores que a WWW.
 	"""
 	keyWait
 		any = false
@@ -246,8 +246,8 @@ script 9 mmbn4 {
 	clearMsg
 	"""
 	Os PV máximos do
-	Navi caem em 1 sem-
-	pre que são usados.
+	Navi caem em 1 sempre
+	que são usados.
 	"""
 	keyWait
 		any = false
@@ -262,8 +262,8 @@ script 9 mmbn4 {
 	clearMsg
 	"""
 	Duvido que vocês
-	apelariam pra pode-
-	res malignos assim,
+	apelariam pra poderes
+	malignos assim,
 	"""
 	keyWait
 		any = false
@@ -343,9 +343,9 @@ script 13 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas isso nos permi-
-	tiu descobrir algo
-	bem interessante...
+	Mas isso nos permitiu
+	descobrir algo bem
+	interessante...
 	"""
 	keyWait
 		any = false

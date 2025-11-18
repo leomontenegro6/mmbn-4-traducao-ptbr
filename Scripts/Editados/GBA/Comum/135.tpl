@@ -95,8 +95,8 @@ script 4 mmbn4 {
 	clearMsg
 	"""
 	eles são copiados ao
-	sistema de armazena-
-	mento ao lado.
+	sistema de armazenamento
+	ao lado.
 	"""
 	keyWait
 		any = false
@@ -113,8 +113,8 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Um sistema importan-
-	te para o controle
+	Um sistema importante
+	para o controle
 	climático de Sharo.
 	"""
 	keyWait
@@ -125,8 +125,8 @@ script 6 mmbn4 {
 	msgOpen
 	"""
 	Pode-se conferir os
-	estados dos satéli-
-	tes climáticos aqui.
+	estados dos satélites
+	climáticos aqui.
 	"""
 	keyWait
 		any = false
@@ -188,8 +188,8 @@ script 9 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Elas lhe fazem sen-
-	tir o fascínio e o
+	Elas lhe fazem sentir
+	o fascínio e o
 	mistério do espaço.
 	"""
 	keyWait

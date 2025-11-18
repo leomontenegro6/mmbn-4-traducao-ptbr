@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	Parece que as arqui-
-	bancadas já tão
-	lotadas. Droga!
+	Parece que as
+	arquibancadas já
+	tão lotadas. Droga!
 	"""
 	keyWait
 		any = false
@@ -517,8 +517,8 @@ script 27 mmbn4 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	É o grande campeona-
-	to! Eu vi as lutas
+	É o grande campeonato!
+	Eu vi as lutas
 	anteriores, também.
 	"""
 	keyWait
@@ -720,8 +720,8 @@ script 45 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Eu adoro ver crian-
-	ças brincando tão
+	Eu adoro ver crianças
+	brincando tão
 	alegremente.
 	"""
 	keyWait

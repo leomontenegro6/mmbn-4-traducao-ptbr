@@ -120,8 +120,8 @@ script 2 mmbn4 {
 	clearMsg
 	"""
 	cenários naturais,
-	mas tudo é controla-
-	do por uma Rede!
+	mas tudo é controlado
+	por uma Rede!
 	"""
 	keyWait
 		any = false
@@ -139,9 +139,9 @@ script 10 mmbn4 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	Graças a este rio,
-	podemos viver tran-
-	quilamente na vila.
+	Graças a este
+	rio, podemos viver
+	tranquilamente na vila.
 	"""
 	keyWait
 		any = false
@@ -152,8 +152,8 @@ script 11 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	Os jovens aqui cons-
-	truíram esta vila
+	Os jovens aqui
+	construíram esta vila
 	como um modelo da
 	"""
 	keyWait
@@ -173,17 +173,17 @@ script 12 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	A vila é um experi-
-	mento de gerencia-
-	mento da natureza
+	A vila é um experimento
+	de gerenciamento da
+	natureza através de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	através de Redes. Se
-	ela puder ser admi-
-	nistrada desse modo,
+	Redes. Se ela puder
+	ser administrada
+	desse modo,
 	"""
 	keyWait
 		any = false
@@ -473,8 +473,8 @@ script 36 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	mínimo 4 se aproxi-
-	ma. Precisamos fugir
+	mínimo 4 se aproxima.
+	Precisamos fugir
 	para o subsolo!
 	"""
 	keyWait

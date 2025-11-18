@@ -113,8 +113,8 @@ script 20 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	O Torneio Sol Verme-
-	lho deve começar a
+	O Torneio Sol Vermelho
+	deve começar a
 	qualquer momento.
 	"""
 	keyWait
@@ -515,9 +515,9 @@ script 58 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Não posso dar deta-
-	lhes, mas vocês pre-
-	cisam ir embora!
+	Não posso dar
+	detalhes, mas vocês
+	precisam ir embora!
 	"""
 	keyWait
 		any = false

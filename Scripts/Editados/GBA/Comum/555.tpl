@@ -35,16 +35,16 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	Só resta cerca de 30
-	minutos para a en-
-	trada na atmosfera.
+	minutos para a
+	entrada na atmosfera.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	... O quê? Por que
-	a atmosfera está vi-
-	brando dessa forma?
+	a atmosfera está
+	vibrando dessa forma?
 	"""
 	keyWait
 		any = false
@@ -134,9 +134,9 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Eles estão desper-
-	tando algum tipo de
-	poder latente nele!
+	Eles estão despertando
+	algum tipo de poder
+	latente nele!
 	"""
 	keyWait
 		any = false

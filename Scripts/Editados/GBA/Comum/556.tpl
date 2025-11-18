@@ -272,9 +272,9 @@ script 18 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Pagar por meus cri-
-	mes é a última coisa
-	que tenho em mente.
+	Pagar por meus crimes
+	é a última coisa que
+	tenho em mente.
 	"""
 	keyWait
 		any = false
@@ -296,8 +296,8 @@ script 18 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	por acharem que fi-
-	zeram o bem quando
+	por acharem que
+	fizeram o bem quando
 	fizeram o oposto.
 	"""
 	keyWait
@@ -331,8 +331,8 @@ script 20 mmbn4 {
 	mugshotShow
 		mugshot = Regal
 	"""
-	Lan, você não perse-
-	guiu o Navi do meu
+	Lan, você não perseguiu
+	o Navi do meu
 	Sindicato até a Área
 	"""
 	keyWait
@@ -444,8 +444,8 @@ script 26 mmbn4 {
 	clearMsg
 	"""
 	exilaram um certo
-	cientista da robóti-
-	ca, tornando-o mau.
+	cientista da robótica,
+	tornando-o mau.
 	"""
 	keyWait
 		any = false

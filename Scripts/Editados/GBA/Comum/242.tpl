@@ -35,8 +35,8 @@ script 0 mmbn4 {
 	clearMsg
 	"""
 	Posso ir quando eu
-	quiser no meu jati-
-	nho particular! Rá!
+	quiser no meu jatinho
+	particular! Rá!
 	"""
 	keyWait
 		any = false
@@ -69,8 +69,8 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	Posso ir quando eu
-	quiser no meu jati-
-	nho particular! Rá!
+	quiser no meu jatinho
+	particular! Rá!
 	"""
 	keyWait
 		any = false

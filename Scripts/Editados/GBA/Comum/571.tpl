@@ -58,9 +58,9 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	"""
-	Que nada. É só con-
-	tinuar me fazendo
-	cachorros-quentes.
+	Que nada. É só continuar
+	me fazendo bolinhos de
+	polvo deliciosos.
 	"""
 	keyWait
 		any = false
@@ -111,7 +111,7 @@ script 7 mmbn4 {
 	"""
 	Idiota. Eram eles
 	que acendiam o fogo
-	da fritadeira.
+	da chapa.
 	"""
 	keyWait
 		any = false
@@ -295,7 +295,7 @@ script 16 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	cachorro-quente...
+	bolinho de polvo...
 	Nngh...
 	Enfim, tchau!
 	"""
@@ -309,8 +309,8 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = HotDogLady
 	"""
-	Sinto muito por
-	isso. O próximo sai
+	Sinto muito por isso.
+	A próxima leva sai
 	por conta da casa!
 	"""
 	keyWait

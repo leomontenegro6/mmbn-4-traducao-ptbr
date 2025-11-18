@@ -14,9 +14,9 @@ script 0 mmbn4 {
 		width = 19
 		height = 3
 	"""
-	Depois de várias lu-
-	tas ferozes, a pri-
-	meira rodada acabou!
+	Depois de várias
+	lutas ferozes, a
+	primeira rodada acabou!
 	"""
 	keyWait
 		any = false
@@ -38,9 +38,9 @@ script 1 mmbn4 {
 		mugshot = Mami
 	msgOpen
 	"""
-	Agora, eu vou anun-
-	ciar as lutas das
-	semifinais!
+	Agora, eu vou
+	anunciar as lutas
+	das semifinais!
 	"""
 	keyWait
 		any = false

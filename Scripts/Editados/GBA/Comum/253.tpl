@@ -377,8 +377,8 @@ script 50 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Enquanto houver es-
-	perança, devemos
+	Enquanto houver
+	esperança, devemos
 	fazer o que der...
 	"""
 	keyWait

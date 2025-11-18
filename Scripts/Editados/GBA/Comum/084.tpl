@@ -181,9 +181,9 @@ script 20 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Parece que o inci-
-	dente dos RobôBrnq
-	acabou de vez...
+	Parece que o incidente
+	dos RobôBrnq acabou
+	de vez...
 	"""
 	keyWait
 		any = false
@@ -215,9 +215,9 @@ script 30 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Parece que o inci-
-	dente dos RobôBrnq
-	acabou de vez...
+	Parece que o incidente
+	dos RobôBrnq acabou
+	de vez...
 	"""
 	keyWait
 		any = false
@@ -274,9 +274,9 @@ script 33 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Parece que o inci-
-	dente dos RobôBrnq
-	acabou de vez...
+	Parece que o incidente
+	dos RobôBrnq acabou
+	de vez...
 	"""
 	keyWait
 		any = false

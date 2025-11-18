@@ -108,8 +108,8 @@ script 9 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Ei! Estamos no trei-
-	no! Fique quieto!
+	Ei! Estamos no treino!
+	Fique quieto!
 	
 	"""
 	flagSet

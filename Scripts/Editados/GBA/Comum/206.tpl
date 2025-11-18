@@ -282,8 +282,8 @@ script 12 mmbn4 {
 	msgOpen
 	"""
 	Caixa do Higsby:
-	"Dicas de Adminis-
-	tração do Higsby".
+	"Dicas de Administração
+	do Higsby".
 	"""
 	keyWait
 		any = false

@@ -101,9 +101,9 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Eu parti os "Dados-
-	Chave" em 4 e escon-
-	di na Área Ameropa.
+	Eu parti os
+	"Dados-Chave" em 4 e
+	escondi na Área Ameropa.
 	"""
 	keyWait
 		any = false

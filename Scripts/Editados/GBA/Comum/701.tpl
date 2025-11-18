@@ -9,9 +9,9 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Esse foguinho ridí-
-	culo saindo da sua
-	cabeça... Pff!
+	Esse foguinho
+	ridículo saindo da
+	sua cabeça... Pff!
 	"""
 	keyWait
 		any = false
@@ -403,8 +403,8 @@ script 24 mmbn4 {
 	msgOpen
 	"""
 	Eu tinha que falar,
-	ou vocês iam conti-
-	nuar brigando.
+	ou vocês iam
+	continuar brigando.
 	"""
 	keyWait
 		any = false

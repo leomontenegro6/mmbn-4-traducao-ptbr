@@ -40,8 +40,8 @@ script 2 mmbn4 {
 		value = 1
 	"""
 	Inserir, remover,
-	instalar, desinsta-
-	lar. É isso mesmo?!
+	instalar, desinstalar.
+	É isso mesmo?!
 	"""
 	keyWait
 		any = false

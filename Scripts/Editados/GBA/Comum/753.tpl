@@ -51,9 +51,8 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	a força e habilida-
-	des excepcionais
-	dele!
+	a força e habilidades
+	excepcionais dele!
 	"""
 	keyWait
 		any = false

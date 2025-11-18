@@ -42,9 +42,9 @@ script 2 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Para chegar em ACDC
-	3, é só seguir a
-	rua principal.
+	Para chegar em ACDC 3,
+	é só seguir a rua
+	principal.
 	"""
 	keyWait
 		any = false
@@ -660,8 +660,8 @@ script 142 mmbn4 {
 	msgOpen
 	"""
 	Se Tensuke e o Chefe
-	se encontrarem, have-
-	rá uma briga feia!
+	se encontrarem, haverá
+	uma briga feia!
 	"""
 	keyWait
 		any = false

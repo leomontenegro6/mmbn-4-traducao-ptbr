@@ -426,8 +426,8 @@ script 21 mmbn4 {
 		mugshot = MegaMan
 	"""
 	É. Quando sempre se
-	está cercado de ter-
-	nura e felicidade,
+	está cercado de
+	ternura e felicidade,
 	"""
 	keyWait
 		any = false

@@ -56,15 +56,15 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	É. Uma bomba amero-
-	pana tradicional que
-	usamos para ver quem
+	É. Uma bomba ameropana
+	tradicional que usamos
+	para ver quem é o
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	é o melhor
+	melhor
 	FuteBombista!
 	Ela destrói tudo!
 	"""

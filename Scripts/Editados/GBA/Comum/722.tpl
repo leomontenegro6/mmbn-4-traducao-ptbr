@@ -203,8 +203,8 @@ script 13 mmbn4 {
 		mugshot = Raoul
 	"""
 	Imaginem. Não há
-	graça em um adversá-
-	rio enfraquecido.
+	graça em um adversário
+	enfraquecido.
 	"""
 	keyWait
 		any = false

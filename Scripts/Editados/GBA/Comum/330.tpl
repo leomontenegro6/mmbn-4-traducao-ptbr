@@ -128,9 +128,9 @@ script 4 mmbn4 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Você conseguiu avan-
-	çar para a próxima
-	rodada? Que ótimo!
+	Você conseguiu avançar
+	para a próxima rodada?
+	Que ótimo!
 	"""
 	keyWait
 		any = false

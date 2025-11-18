@@ -13,9 +13,9 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Primeiro, o NetLuta-
-	dor do fundamental
-	que praticamente
+	Primeiro, o NetLutador
+	do fundamental que
+	praticamente
 	"""
 	keyWait
 		any = false
@@ -90,8 +90,8 @@ script 4 mmbn4 {
 	mugshotShow
 		mugshot = Sal
 	"""
-	O WoodMan e eu tam-
-	bém somos uma dupla
+	O WoodMan e eu também
+	somos uma dupla
 	incrível. Né?
 	"""
 	keyWait

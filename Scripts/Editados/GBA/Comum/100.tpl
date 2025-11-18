@@ -863,8 +863,8 @@ script 85 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Bora falar pra Tama-
-	ko que terminou o
+	Bora falar pra Tamako
+	que terminou o
 	nosso treinamento!
 	"""
 	keyWait
@@ -876,9 +876,9 @@ script 86 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A Tamako tá espe-
-	rando! Vamos pra
-	Praça Marchen!
+	A Tamako tá esperando!
+	Vamos pra Praça
+	Marchen!
 	"""
 	keyWait
 		any = false
@@ -1339,9 +1339,8 @@ script 127 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Pegamos os Ingredi-
-	entes! Vamos pro
-	Dojô Culinário!
+	Pegamos os Ingredientes!
+	Vamos pro Dojô Culinário!
 	"""
 	keyWait
 		any = false

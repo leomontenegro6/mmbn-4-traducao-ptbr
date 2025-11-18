@@ -310,8 +310,8 @@ script 21 mmbn4 {
 	msgOpen
 	"""
 	Atenção, clientes!
-	Os Oficiais ordena-
-	ram uma evacuação!
+	Os Oficiais ordenaram
+	uma evacuação!
 	"""
 	keyWait
 		any = false

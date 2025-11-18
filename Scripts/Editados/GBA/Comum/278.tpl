@@ -76,8 +76,8 @@ script 5 mmbn4 {
 	msgOpen
 	"""
 	Sei que ninguém iria
-	acreditar, mas Djan-
-	go, o Garoto Solar,
+	acreditar, mas Django,
+	o Garoto Solar,
 	"""
 	keyWait
 		any = false
@@ -165,8 +165,8 @@ script 20 mmbn4 {
 	clearMsg
 	"""
 	lutando contra o
-	mal, e eu vou me jun-
-	tar à luta também!
+	mal, e eu vou me
+	juntar à luta também!
 	"""
 	keyWait
 		any = false

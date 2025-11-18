@@ -36,8 +36,8 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	Dá para deixar alto
-	o bastante para es-
-	tourar os tímpanos.
+	o bastante para
+	estourar os tímpanos.
 	"""
 	keyWait
 		any = false

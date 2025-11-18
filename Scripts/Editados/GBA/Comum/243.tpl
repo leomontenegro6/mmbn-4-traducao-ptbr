@@ -256,9 +256,9 @@ script 16 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Eu ainda tô apren-
-	dendo, mas vou dar
-	tudo de mim!
+	Eu ainda tô
+	aprendendo, mas
+	vou dar tudo de mim!
 	"""
 	keyWait
 		any = false
@@ -520,8 +520,8 @@ script 43 mmbn4 {
 	mugshotShow
 		mugshot = Maid
 	"""
-	Também tem uma se-
-	gunda porta depois,
+	Também tem uma
+	segunda porta depois,
 	trancada com senha.
 	"""
 	keyWait

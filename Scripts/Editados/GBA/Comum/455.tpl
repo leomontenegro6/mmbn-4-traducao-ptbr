@@ -174,9 +174,9 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Decerto irei devo-
-	rar você também,
-	uma outra hora.
+	Decerto irei devorar
+	você também, uma
+	outra hora.
 	"""
 	keyWait
 		any = false

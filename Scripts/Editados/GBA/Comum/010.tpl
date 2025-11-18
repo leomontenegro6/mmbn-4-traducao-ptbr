@@ -16,9 +16,9 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Seu PET, seu Termi-
-	nal Pessoal. É onde
-	eu estou instalado.
+	Seu PET, seu Terminal
+	Pessoal. É onde eu
+	estou instalado.
 	"""
 	waitHold
 }
@@ -130,9 +130,9 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Estes dados contro-
-	lam o sistema sonar
-	no CPUEletTorr!
+	Estes dados controlam
+	o sistema sonar no
+	CPUEletTorr!
 	"""
 	waitHold
 }
@@ -152,9 +152,9 @@ script 6 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Estes dados contro-
-	lam o sistema sonar
-	no CPUEletTorr!
+	Estes dados controlam
+	o sistema sonar no
+	CPUEletTorr!
 	"""
 	waitHold
 }
@@ -596,8 +596,8 @@ script 25 mmbn4 {
 		mugshot = MegaMan
 	"""
 	Cartão de membro pra
-	Associação de NetLu-
-	ta dos velhinhos.
+	Associação de NetLuta
+	dos velhinhos.
 	"""
 	waitHold
 }
@@ -639,9 +639,9 @@ script 27 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Sorvete tão grande
-	que está transbor-
-	dando na castinha!
+	Sorvete tão grande que
+	está transbordando na
+	casquinha!
 	"""
 	waitHold
 }
@@ -925,8 +925,8 @@ script 40 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	São dados de narra-
-	tiva. No rótulo:
+	São dados de narrativa.
+	No rótulo:
 	"Grande Árvore".
 	"""
 	waitHold
@@ -1145,8 +1145,8 @@ script 50 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	São dados de narra-
-	tiva. No rótulo:
+	São dados de narrativa.
+	No rótulo:
 	"LeroLero".
 	"""
 	waitHold
@@ -1717,8 +1717,8 @@ script 76 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	São dados de narra-
-	tiva. No rótulo:
+	São dados de narrativa.
+	No rótulo:
 	"Taiyohhhhhhh...!!"
 	"""
 	waitHold
@@ -2092,9 +2092,9 @@ script 93 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Bebida forte o bas-
-	tante pra expulsar
-	qualquer vírus!
+	Bebida forte o bastante
+	pra expulsar qualquer
+	vírus!
 	"""
 	waitHold
 }
@@ -2144,9 +2144,9 @@ script 95 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Dados do VideoMan
-	que cancelam o efei-
-	to de "rebobinar"!
+	Dados do VideoMan que
+	cancelam o efeito
+	de "rebobinar"!
 	"""
 	waitHold
 }
@@ -2166,9 +2166,9 @@ script 96 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Dados do VideoMan
-	que cancelam o efei-
-	to de "rebobinar"!
+	Dados do VideoMan que
+	cancelam o efeito
+	de "rebobinar"!
 	"""
 	waitHold
 }
@@ -2188,9 +2188,9 @@ script 97 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Dados do VideoMan
-	que cancelam o efei-
-	to de "rebobinar"!
+	Dados do VideoMan que
+	cancelam o efeito
+	de "rebobinar"!
 	"""
 	waitHold
 }
@@ -3463,8 +3463,7 @@ script 179 mmbn4 {
 		delay = 0
 	"""
 	Desativa armadilhas
-	em dados
-	misteriosos!
+	em dados misteriosos!
 	"""
 	waitHold
 }
@@ -3504,7 +3503,7 @@ script 192 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"2: Número de\nCachorros-Quentes"
+	"2: Número de\nbolinhos de polvo."
 	keyWait
 		any = false
 	clearMsg
@@ -3529,9 +3528,9 @@ script 192 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	6: Número de marca-
-	dores de casas na
-	Área ACDC.
+	6: Número de
+	marcadores de casas
+	na Área ACDC.
 	"""
 	keyWait
 		any = false
@@ -3627,7 +3626,7 @@ script 194 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"3: Número de\nCachorros-Quentes"
+	"3: Número de\nbolinhos de polvo."
 	keyWait
 		any = false
 	clearMsg
@@ -3696,9 +3695,9 @@ script 196 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Seu PET, seu Termi-
-	nal Pessoal. É onde
-	eu estou instalado.
+	Seu PET, seu Terminal
+	Pessoal. É onde eu
+	estou instalado.
 	"""
 	waitHold
 }

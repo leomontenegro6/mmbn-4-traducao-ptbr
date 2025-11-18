@@ -280,16 +280,16 @@ script 28 mmbn4 {
 	clearMsg
 	"""
 	Há lendas que dizem
-	que fantasmas se re-
-	únem perto da água.
+	que fantasmas se
+	reúnem perto da água.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	O Sistema de Geren-
-	ciamento do Rio deve
-	estar próximo.
+	O Sistema de
+	Gerenciamento do Rio
+	deve estar próximo.
 	"""
 	keyWait
 		any = false

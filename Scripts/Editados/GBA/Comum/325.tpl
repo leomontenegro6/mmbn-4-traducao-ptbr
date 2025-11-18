@@ -349,9 +349,9 @@ script 15 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas uma cyber cele-
-	bridade como eu não
-	pode ligar pra isso.
+	Mas uma cyber-celebridade
+	como eu não pode ligar
+	pra isso.
 	"""
 	keyWait
 		any = false

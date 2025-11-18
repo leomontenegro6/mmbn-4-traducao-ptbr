@@ -5,16 +5,16 @@ script 10 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	EI, MEU JOVEM! MEUS
-	CACHORROS-QUENTES
+	EI, MEU JOVEM!
+	MEUS BOLINHOS DE POLVO
 	SÃO DIVINOS!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SÓ USAMOS AS
-	MELHORES SALSICHAS!
+	SÓ USAMOS OS POLVOS
+	MAIS FRESQUINHOS!
 	EXPERIMENTE!
 	"""
 	keyWait

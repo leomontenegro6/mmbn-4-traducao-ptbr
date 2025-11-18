@@ -385,9 +385,9 @@ script 50 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Por que tá todo mun-
-	do alvoroçado? É al-
-	gum tipo de evento?
+	Por que tá todo mundo
+	alvoroçado? É algum
+	tipo de evento?
 	"""
 	keyWait
 		any = false
@@ -454,9 +454,9 @@ script 52 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Parece haver um tor-
-	neio só pros melho-
-	res lutadores!
+	Parece haver um
+	torneio só pros
+	melhores lutadores!
 	"""
 	keyWait
 		any = false
@@ -513,15 +513,15 @@ script 54 mmbn4 {
 	clearMsg
 	"""
 	Eu estava entediada,
-	então decidi confe-
-	rir aquele torneio.
+	então decidi conferir
+	aquele torneio.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Foi até interessan-
-	te, eu acho.
+	Foi até interessante,
+	eu acho.
 	"""
 	waitSkip
 		frames = 30

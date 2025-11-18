@@ -444,8 +444,8 @@ script 26 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	ESSA NÃO! A SEGURAN-
-	ÇA EM PARQUE 1 ESTÁ
+	ESSA NÃO! A SEGURANÇA
+	EM PARQUE 1 ESTÁ
 	FRACA AGORA!
 	"""
 	keyWait
@@ -599,8 +599,8 @@ script 37 mmbn4 {
 	msgOpen
 	"""
 	NÃO ACREDITO QUE NÃO
-	PERCEBEMOS QUE TÍ-
-	NHAMOS MUITOS POUCOS
+	PERCEBEMOS QUE
+	TÍNHAMOS MUITOS POUCOS
 	"""
 	keyWait
 		any = false

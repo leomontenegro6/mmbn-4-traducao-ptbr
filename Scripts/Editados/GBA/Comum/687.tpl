@@ -218,17 +218,17 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Temos que transfor-
-	mar isto em algo
-	como a EletroVila.
+	Temos que transformar
+	isto em algo como a
+	EletroVila.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Vamos estudar a pos-
-	sibilidade de refor-
-	mar tudo isto.
+	Vamos estudar a
+	possibilidade de
+	reformar tudo isto.
 	"""
 	keyWait
 		any = false

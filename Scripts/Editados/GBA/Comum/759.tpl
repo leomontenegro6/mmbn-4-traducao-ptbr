@@ -48,9 +48,9 @@ script 3 mmbn4 {
 		mugshot = Chillski
 	msgOpen
 	"""
-	Achei que teriam
-	pelo menos ar condi-
-	cionado, mas não!!
+	Achei que teriam,
+	pelo menos, ar
+	condicionado, mas não!!
 	"""
 	keyWait
 		any = false
@@ -372,9 +372,9 @@ script 21 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	e duvido que o Cold-
-	Man vá fazer alguma
-	coisa drástica.
+	e duvido que o
+	ColdMan vá fazer
+	alguma coisa drástica.
 	"""
 	keyWait
 		any = false

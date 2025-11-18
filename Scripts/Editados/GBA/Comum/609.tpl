@@ -328,8 +328,8 @@ script 19 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Aposto que se eu ti-
-	vesse tido a chance
+	Aposto que se eu
+	tivesse tido a chance
 	de brincar com ele,
 	"""
 	keyWait
@@ -556,8 +556,8 @@ script 25 mmbn4 {
 	clearMsg
 	"""
 	o surto deve dar uma
-	acalmada. Mas mante-
-	nha em mente que até
+	acalmada. Mas mantenha
+	em mente que até
 	"""
 	keyWait
 		any = false

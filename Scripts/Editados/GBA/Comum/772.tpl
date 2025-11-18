@@ -138,8 +138,8 @@ script 7 mmbn4 {
 	clearMsg
 	"""
 	Nossa força não tem
-	limites quando nos-
-	sas almas se unem.
+	limites quando nossas
+	almas se unem.
 	"""
 	keyWait
 		any = false
@@ -180,8 +180,8 @@ script 9 mmbn4 {
 	clearMsg
 	"""
 	Você seria ainda
-	mais forte se ligan-
-	do com o SearchMan.
+	mais forte se ligando
+	com o SearchMan.
 	"""
 	keyWait
 		any = false

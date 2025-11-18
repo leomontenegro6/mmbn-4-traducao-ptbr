@@ -45,8 +45,8 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Se ela foi na fren-
-	te, eu vou ter que
+	Se ela foi na frente,
+	eu vou ter que
 	terminar sozinho.
 	"""
 	keyWait

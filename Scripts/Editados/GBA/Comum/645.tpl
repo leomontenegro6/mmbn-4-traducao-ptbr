@@ -66,9 +66,9 @@ script 4 mmbn4 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Ah, tendi. Eles que-
-	rem me deletar, fazer
-	o Riki virar um
+	Ah, tendi. Eles querem
+	me deletar, fazer o
+	Riki virar um
 	"""
 	keyWait
 		any = false

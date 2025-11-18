@@ -405,9 +405,9 @@ script 35 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	para ser uma área de
-	evacuação. Não per-
-	gunte por quê...
+	para ser uma área
+	de evacuação. Não
+	pergunte por quê...
 	"""
 	keyWait
 		any = false

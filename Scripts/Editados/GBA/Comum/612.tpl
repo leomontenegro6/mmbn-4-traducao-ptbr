@@ -70,8 +70,8 @@ script 4 mmbn4 {
 	msgOpen
 	"""
 	Ô, calminha aí!
-	Cê não vai me eli-
-	minar fácil assim!
+	Cê não vai me
+	eliminar fácil assim!
 	"""
 	keyWait
 		any = false

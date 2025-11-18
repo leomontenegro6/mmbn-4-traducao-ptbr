@@ -156,9 +156,9 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Como oficial do tor-
-	neio, eu queria fazer
-	algo a respeito
+	Como oficial do
+	torneio, eu queria
+	fazer algo a respeito
 	"""
 	keyWait
 		any = false

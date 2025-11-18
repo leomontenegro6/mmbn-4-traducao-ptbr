@@ -160,9 +160,9 @@ script 10 mmbn4 {
 		mugshot = OldWomanAlt
 	msgOpen
 	"""
-	Nunca achei que vo-
-	cês bolariam um pla-
-	no absurdo desses.
+	Nunca achei que
+	vocês bolariam um
+	plano absurdo desses.
 	"""
 	keyWait
 		any = false

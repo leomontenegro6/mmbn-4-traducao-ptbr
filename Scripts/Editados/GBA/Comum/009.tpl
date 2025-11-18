@@ -49,8 +49,8 @@ script 2 mmbn4 {
 	msgOpen
 	"""
 	É preciso um veículo
-	especial pra atra-
-	vessar esse trilho!
+	especial pra atravessar
+	esse trilho!
 	"""
 	keyWait
 		any = false
@@ -68,8 +68,8 @@ script 3 mmbn4 {
 	msgOpen
 	"""
 	É preciso um veículo
-	especial pra atra-
-	vessar esse trilho!
+	especial pra atravessar
+	esse trilho!
 	"""
 	keyWait
 		any = false

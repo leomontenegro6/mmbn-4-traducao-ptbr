@@ -136,8 +136,8 @@ script 6 mmbn4 {
 		delay = 0
 	"""
 	Tá, vou mandar pro
-	NumberMan... Number-
-	Man, nova encomenda!
+	NumberMan... NumberMan,
+	nova encomenda!
 	"""
 	keyWait
 		any = false

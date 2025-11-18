@@ -64,8 +64,8 @@ script 3 mmbn4 {
 	clearMsg
 	"""
 	Senão, não poderia
-	lutar com tudo con-
-	tra você no torneio.
+	lutar com tudo contra
+	você no torneio.
 	"""
 	keyWait
 		any = false

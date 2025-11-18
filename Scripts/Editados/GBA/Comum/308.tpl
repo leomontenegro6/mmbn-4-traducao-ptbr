@@ -1249,8 +1249,8 @@ script 50 mmbn4 {
 	msgOpen
 	"""
 	Grrrrr... Eu nasci
-	pra ser um NetLuta-
-	dor de primeira...
+	pra ser um NetLutador
+	de primeira...
 	"""
 	keyWait
 		any = false

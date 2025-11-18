@@ -57,8 +57,8 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Isso é o que vere-
-	mos! A gente não vai
+	Isso é o que veremos!
+	A gente não vai
 	desistir, nunca!
 	"""
 	keyWait

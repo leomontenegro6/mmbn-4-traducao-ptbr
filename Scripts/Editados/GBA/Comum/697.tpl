@@ -375,17 +375,17 @@ script 16 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Quer provas? Eu pi-
-	lotei o Dirigível do
-	Fogo no Festival das
+	Quer provas? Eu pilotei
+	o Dirigível do Fogo
+	no Festival das Chamas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Chamas da minha
-	cidade por três
-	anos seguidos!
+	da minha cidade
+	por três anos
+	seguidos!
 	"""
 	keyWait
 		any = false
@@ -476,8 +476,8 @@ script 20 mmbn4 {
 	msgOpen
 	"""
 	He, então, você não é
-	só um caipira qual-
-	quer. Interessante.
+	só um caipira qualquer.
+	Interessante.
 	"""
 	keyWait
 		any = false

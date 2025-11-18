@@ -5,17 +5,16 @@ script 10 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	NOSSOS CACHORROS-
-	QUENTES SÃO OS
-	MAIS SAUDÁVEIS!
+	NOSSOS TAKYAKIS SÃO
+	OS MAIS CROCANTES!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	CARNE KOSHER, PÃO
-	NATURAL, VERDURAS
-	FRESCAS! HUMM!
+	A MASSA MAIS
+	DELICIOSAMENTE
+	TEMPERADA DO MUNDO!
 	"""
 	keyWait
 		any = false

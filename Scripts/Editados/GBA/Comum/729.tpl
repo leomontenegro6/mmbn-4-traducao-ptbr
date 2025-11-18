@@ -84,9 +84,9 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Leva essa sua campa-
-	nha do FuteBomba pra
-	outro lugar!
+	Leva essa sua campanha
+	do FuteBomba pra outro
+	lugar!
 	"""
 	keyWait
 		any = false

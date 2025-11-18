@@ -279,8 +279,8 @@ script 16 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	O administrador des-
-	ta página, o GutsMan,
+	O administrador desta
+	página, o GutsMan,
 	talvez? Ele é forte.
 	"""
 	keyWait

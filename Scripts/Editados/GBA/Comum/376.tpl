@@ -33,9 +33,9 @@ script 11 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	TAMBÉM DÁ PARA APRO-
-	VEITAR O CASTILLO SÓ
-	COM UM INGRESSO!
+	TAMBÉM DÁ PARA
+	APROVEITAR O CASTILLO
+	SÓ COM UM INGRESSO!
 	"""
 	keyWait
 		any = false
@@ -49,9 +49,9 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	SE VOCÊ É INTELI-
-	GENTE, O INGRESSO É
-	PARA VOCÊ!
+	SE VOCÊ É INTELIGENTE,
+	O INGRESSO É PARA
+	VOCÊ!
 	"""
 	keyWait
 		any = false

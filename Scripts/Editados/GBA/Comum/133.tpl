@@ -27,8 +27,8 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	Está ventando agora,
-	então está bem gos-
-	toso dentro dela.
+	então está bem
+	gostoso dentro dela.
 	"""
 	keyWait
 		any = false
@@ -183,8 +183,8 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Dá até pra se conec-
-	tar a um sistema de
+	Dá até pra se conectar
+	a um sistema de
 	controle fluvial.
 	"""
 	keyWait

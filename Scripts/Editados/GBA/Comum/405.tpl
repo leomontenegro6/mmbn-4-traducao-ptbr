@@ -128,9 +128,9 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	SÓ UM NAVI MEIO SI-
-	NISTRO QUE ACABOU DE
-	PASSAR POR AQUI...
+	SÓ UM NAVI MEIO
+	SINISTRO QUE ACABOU
+	DE PASSAR POR AQUI...
 	"""
 	keyWait
 		any = false

@@ -23,8 +23,8 @@ script 1 mmbn4 {
 	msgOpen
 	"""
 	Lan! A gente tem que
-	desativar o disposi-
-	tivo de ignição!
+	desativar o dispositivo
+	de ignição!
 	"""
 	keyWait
 		any = false

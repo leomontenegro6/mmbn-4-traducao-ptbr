@@ -388,9 +388,9 @@ script 12 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Uma alma mãe arbó-
-	rea, presa em um
-	coração sombrio...
+	Uma alma mãe arbórea,
+	presa em um coração
+	sombrio...
 	"""
 	keyWait
 		any = false

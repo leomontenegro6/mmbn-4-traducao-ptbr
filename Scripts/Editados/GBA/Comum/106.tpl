@@ -25,17 +25,17 @@ script 2 mmbn4 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	Essa árvore foi
-	cortada no formato
+	Esse arbusto foi
+	cortado no formato
 	de um animal.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	É uma daquelas coi-
-	sas que imediatamen-
-	te nos faz sorrir!
+	É uma daquelas coisas
+	que imediatamente
+	nos faz sorrir!
 	"""
 	keyWait
 		any = false
@@ -232,17 +232,17 @@ script 15 mmbn4 {
 script 16 mmbn4 {
 	msgOpen
 	"""
-	Essa árvore foi
-	cortada no formato
+	Esse arbusto foi
+	cortado no formato
 	de um animal.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	É uma daquelas coi-
-	sas que imediatamen-
-	te nos faz sorrir!
+	É uma daquelas coisas
+	que imediatamente
+	nos faz sorrir!
 	"""
 	keyWait
 		any = false
@@ -263,8 +263,8 @@ script 21 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	O alarme está tocan-
-	do pois esta é uma
+	O alarme está tocando
+	pois esta é uma
 	emergência!
 	"""
 	keyWait

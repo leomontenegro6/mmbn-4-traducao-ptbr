@@ -32,8 +32,8 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Seria bom se as pes-
-	soas fizessem isso,
+	Seria bom se as
+	pessoas fizessem isso,
 	pelo menos...
 	"""
 	keyWait
@@ -93,8 +93,8 @@ script 10 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	O prefeito está dis-
-	cursando lá dentro.
+	O prefeito está
+	discursando lá dentro.
 	Não pode entrar.
 	"""
 	keyWait
@@ -136,8 +136,8 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Então, achei engra-
-	çado quando você
+	Então, achei engraçado
+	quando você
 	interrompeu ele!
 	"""
 	keyWait

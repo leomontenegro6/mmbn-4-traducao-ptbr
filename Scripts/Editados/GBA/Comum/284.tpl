@@ -73,8 +73,8 @@ script 2 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Soube que estão fa-
-	zendo o Torneio Sol
+	Soube que estão
+	fazendo o Torneio Sol
 	Vermelho na Ameropa.
 	"""
 	keyWait
@@ -126,8 +126,8 @@ script 4 mmbn4 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Soube que estão fa-
-	zendo o Torneio Lua
+	Soube que estão
+	fazendo o Torneio Lua
 	Azul na Ameropa.
 	"""
 	keyWait
@@ -212,15 +212,15 @@ script 13 mmbn4 {
 		mugshot = OldManAlt
 	msgOpen
 	"""
-	As ruínas são finan-
-	ciadas pelas vendas
-	de souvenirs, mas
+	As ruínas são
+	financiadas pelas
+	vendas de souvenirs,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	quanto mais turistas
+	mas quanto mais turistas
 	vêm, mais rapidamente
 	as ruínas se
 	"""
@@ -325,8 +325,8 @@ script 23 mmbn4 {
 	clearMsg
 	"""
 	Como agiu antes do
-	terremoto nos atin-
-	gir, há uns anos...
+	terremoto nos atingir,
+	há uns anos...
 	"""
 	keyWait
 		any = false

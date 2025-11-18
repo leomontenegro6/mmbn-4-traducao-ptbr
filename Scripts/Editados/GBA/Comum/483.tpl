@@ -335,9 +335,9 @@ script 21 mmbn4 {
 	mugshotShow
 		mugshot = Mom
 	"""
-	He he he... Lan,
-	isso é o que cha-
-	mamos de "encontro".
+	He he he...
+	Lan, isso é o que
+	chamamos de "encontro".
 	"""
 	keyWait
 		any = false
@@ -350,8 +350,8 @@ script 21 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Se outro bandido en-
-	trar aqui, bato nele
+	Se outro bandido
+	entrar aqui, bato nele
 	com a frigideira!
 	"""
 	keyWait

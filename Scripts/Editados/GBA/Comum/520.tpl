@@ -148,9 +148,9 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Se chama "Sol Verme-
-	lho", e ficaríamos
-	honrados de tê-lo.
+	Se chama "Sol Vermelho",
+	e ficaríamos honrados
+	de tê-lo.
 	"""
 	keyWait
 		any = false

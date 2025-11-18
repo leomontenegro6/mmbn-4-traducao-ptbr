@@ -203,9 +203,9 @@ script 15 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Um festival estran-
-	geiro... Parece
-	interessante.
+	Um festival
+	estrangeiro...
+	Parece interessante.
 	"""
 	keyWait
 		any = false

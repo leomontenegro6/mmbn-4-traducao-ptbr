@@ -42,8 +42,8 @@ script 3 mmbn4 {
 	mugshotShow
 		mugshot = SciLabMan
 	"""
-	Os Robôs de Brinque-
-	do da Praça Marchen
+	Os Robôs de Brinquedo
+	da Praça Marchen
 	deram pane!
 	"""
 	keyWait

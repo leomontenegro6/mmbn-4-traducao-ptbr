@@ -332,8 +332,8 @@ script 14 mmbn4 {
 		mugshot = OldMan
 	"""
 	Terry, isto só mostra
-	o quanto o seu cará-
-	ter está corrupto.
+	o quanto o seu caráter
+	está corrupto.
 	"""
 	keyWait
 		any = false

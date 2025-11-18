@@ -24,9 +24,9 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	... Chaud! O Proto-
-	Man não tá possuído
-	por uma AlmaSomb, tá?
+	... Chaud! O ProtoMan
+	não tá possuído por
+	uma AlmaSomb, tá?
 	"""
 	keyWait
 		any = false
@@ -182,9 +182,9 @@ script 13 mmbn4 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	Ele saiu do contro-
-	le, ignorando as
-	minhas ordens.
+	Ele saiu do controle,
+	ignorando as minhas
+	ordens.
 	"""
 	keyWait
 		any = false
@@ -296,8 +296,8 @@ script 19 mmbn4 {
 		mugshot = Chaud
 	"""
 	Também odeio isso,
-	mas consertar o Pro-
-	toMan vem primeiro.
+	mas consertar o
+	ProtoMan vem primeiro.
 	"""
 	keyWait
 		any = false

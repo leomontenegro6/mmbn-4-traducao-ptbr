@@ -157,8 +157,8 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Talvez seja mais le-
-	gal manter mistérios
+	Talvez seja mais legal
+	manter mistérios
 	como mistérios...
 	"""
 	keyWait
@@ -369,9 +369,9 @@ script 240 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Tem um motivo pra
-	eu fazer meus ne-
-	gócios na surdina...
+	Há um motivo para
+	eu fazer meus
+	negócios na surdina...
 	"""
 	keyWait
 		any = false

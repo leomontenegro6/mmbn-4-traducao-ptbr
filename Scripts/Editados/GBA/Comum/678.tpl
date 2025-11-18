@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = Roll
 	msgOpen
 	"""
-	Eu sabia que conse-
-	guiria, Mega! Mas
-	consegue de novo?
+	Eu sabia que
+	conseguiria, Mega!
+	Mas consegue de novo?
 	"""
 	keyWait
 		any = false

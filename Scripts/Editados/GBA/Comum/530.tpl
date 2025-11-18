@@ -14,9 +14,9 @@ script 0 mmbn4 {
 		width = 19
 		height = 3
 	"""
-	O lutador que supe-
-	rou todos os outros
-	e conquistou o
+	O lutador que superou
+	todos os outros e
+	conquistou o título
 	"""
 	keyWait
 		any = false
@@ -25,9 +25,9 @@ script 0 mmbn4 {
 		width = 20
 		height = 2
 	"""
-	título de Campeão
-	Mundial! O aluno de
-	Ni-Hon, do sexto ano:
+	de Campeão Mundial!
+	O aluno de Ni-Hon,
+	do sexto ano:
 	"""
 	keyWait
 		any = false
@@ -164,8 +164,8 @@ script 10 mmbn4 {
 	msgOpen
 	"""
 	Somos do centro de
-	monitoramento espa-
-	cial da Ameropa!
+	monitoramento espacial
+	da Ameropa!
 	"""
 	keyWait
 		any = false
@@ -225,8 +225,8 @@ script 13 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Sei não... Eu preci-
-	so saber o que tá
+	Sei não... Eu preciso
+	saber o que tá
 	rolando primeiro!
 	"""
 	keyWait

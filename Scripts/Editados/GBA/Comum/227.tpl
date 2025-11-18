@@ -217,8 +217,8 @@ script 10 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	O quê?! Cê vai par-
-	ticipar do Torneio
+	O quê?! Cê vai
+	participar do Torneio
 	Sol Vermelho, Lan?!
 	"""
 	keyWait
@@ -299,8 +299,8 @@ script 14 mmbn4 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	O quê?! Cê vai par-
-	ticipar do Torneio
+	O quê?! Cê vai
+	participar do Torneio
 	Lua Azul, Lan?!
 	"""
 	keyWait
@@ -655,8 +655,8 @@ script 46 mmbn4 {
 	msgOpen
 	"""
 	Sabe o incidente que
-	os Oficiais tão in-
-	vestigando na Rede?
+	os Oficiais tão
+	investigando na Rede?
 	"""
 	keyWait
 		any = false

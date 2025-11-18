@@ -30,8 +30,8 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Somente a organi-
-	zação de elite do
+	Somente a organização
+	espacial de elite do
 	mundo, a AENA,
 	"""
 	keyWait
@@ -113,8 +113,8 @@ script 3 mmbn4 {
 script 4 mmbn4 {
 	msgOpen
 	"""
-	Dados de centros es-
-	paciais mundo afora
+	Dados de centros
+	espaciais mundo afora
 	chegam nesta coisa.
 	"""
 	keyWait
@@ -172,8 +172,8 @@ script 6 mmbn4 {
 	msgOpen
 	"""
 	Está analisando a
-	órbita e outros de-
-	talhes do asteroide.
+	órbita e outros
+	detalhes do asteroide.
 	"""
 	keyWait
 		any = false

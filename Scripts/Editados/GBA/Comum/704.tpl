@@ -124,9 +124,9 @@ script 6 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Só as minhas habili-
-	dades bastam para
-	vencer a luta!
+	Só as minhas
+	habilidades bastam
+	para vencer a luta!
 	"""
 	keyWait
 		any = false
@@ -220,8 +220,8 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E, por sinal, as fun-
-	ções do meu Navi
+	E, por sinal, as
+	funções do meu Navi
 	são customizadas!
 	"""
 	keyWait

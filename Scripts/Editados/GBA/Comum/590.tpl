@@ -57,8 +57,8 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Os nossos pais brin-
-	cavam muito disso
+	Os nossos pais
+	brincavam muito disso
 	quando crianças.
 	"""
 	keyWait

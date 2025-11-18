@@ -44,9 +44,9 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	msgOpen
 	"""
-	Esta atração envol-
-	ve os personagens
-	do parque.
+	Esta atração envolve
+	os personagens do
+	parque.
 	"""
 	keyWait
 		any = false
@@ -108,7 +108,7 @@ script 3 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Mesmo após ser feri-\ndo pelos ataques do\nDracky, Django"
+	"Mesmo após ser ferido\npelos ataques do\nDracky, Django"
 	keyWait
 		any = false
 	clearMsg
@@ -539,9 +539,9 @@ script 20 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	A Esposa do Sr. Que-
-	sola, Cornesso, capri-
-	cha na atuação.
+	A Esposa do Sr. Quesola,
+	Cornesso, capricha
+	na atuação.
 	"""
 	keyWait
 		any = false
@@ -608,9 +608,9 @@ script 22 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	A Esposa do Sr. Que-
-	sola, Cornesso, capri-
-	cha na atuação.
+	A Esposa do Sr. Quesola,
+	Cornesso, capricha
+	na atuação.
 	"""
 	keyWait
 		any = false

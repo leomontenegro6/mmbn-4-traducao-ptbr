@@ -80,9 +80,9 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Fiquei tão preocupa-
-	da quando aquele he-
-	licóptero te levou!
+	Fiquei tão preocupada
+	quando aquele
+	helicóptero te levou!
 	"""
 	keyWait
 		any = false
@@ -105,9 +105,9 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Fiquei tão preocupa-
-	da quando aquele he-
-	licóptero te levou!
+	Fiquei tão preocupada
+	quando aquele
+	helicóptero te levou!
 	"""
 	keyWait
 		any = false

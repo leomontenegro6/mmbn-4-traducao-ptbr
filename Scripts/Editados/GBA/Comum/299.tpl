@@ -529,8 +529,8 @@ script 133 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	DISSERAM QUE EU RE-
-	CEBERIA UM PRESENTE
+	DISSERAM QUE EU
+	RECEBERIA UM PRESENTE
 	LEGAL SE VIESSE...
 	"""
 	keyWait
@@ -767,9 +767,9 @@ script 165 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Esse Navi do pan-
-	fleto, o NumberMan,
-	é tão cafona...
+	Esse Navi do panfleto,
+	o NumberMan, é tão
+	cafona...
 	"""
 	keyWait
 		any = false

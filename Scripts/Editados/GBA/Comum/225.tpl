@@ -213,8 +213,7 @@ script 3 mmbn4 {
 	clearMsg
 	"""
 	do nome da pasta na
-	tela de Editar
-	pasta.
+	tela de Editar pasta.
 	"""
 	keyWait
 		any = false
@@ -222,7 +221,7 @@ script 3 mmbn4 {
 	"""
 	Aí escolha um chip
 	de memória menor que
-	o número.
+	o número lá.
 	"""
 	keyWait
 		any = false
@@ -300,21 +299,21 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	"Deleção de Vírus" é
-	quando você liga o
-	seu PET a uma
+	"Conectar" é quando
+	você liga o seu PET
+	a uma máquina
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"máquina infectada."
+	"infectada."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"Conectar" significa
-	mandar o seu Navi
-	para uma máquina,
+	E "Deleção de Vírus"
+	significa mandar o
+	seu Navi para lá,
 	"""
 	keyWait
 		any = false
@@ -376,8 +375,7 @@ script 6 mmbn4 {
 	clearMsg
 	"""
 	Ah...
-	PETs são tão
-	incríveis!
+	PETs são tão incríveis!
 	"""
 	keyWait
 		any = false
@@ -391,9 +389,9 @@ script 6 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	e para todo o tipo
-	de processo envol-
-	vendo dados!
+	e para todo o
+	tipo de processo
+	envolvendo dados!
 	"""
 	keyWait
 		any = false
@@ -411,8 +409,8 @@ script 6 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Sabe, quando se rece-
-	be um e-mail e se
+	Sabe, quando se recebe
+	um e-mail e se
 	seleciona ele na
 	"""
 	keyWait
@@ -554,9 +552,9 @@ script 17 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Não sei o que acon-
-	teceu, mas você pre-
-	cisa se acalmar!
+	Não sei o que
+	aconteceu, mas você
+	precisa se acalmar!
 	"""
 	keyWait
 		any = false
@@ -637,9 +635,9 @@ script 28 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Não vou poder rela-
-	xar até resolverem
-	esse crime!
+	Não vou poder relaxar
+	até resolverem esse
+	crime!
 	"""
 	keyWait
 		any = false
@@ -1102,8 +1100,8 @@ script 220 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Tenho alguns Sub-
-	Chips para oferecer,
+	Tenho alguns SubChips
+	para oferecer,
 	"""
 	keyWait
 		any = false
@@ -1232,8 +1230,7 @@ script 233 mmbn4 {
 	msgOpen
 	"""
 	A Loja do Higsby
-	é a melhor da
-	cidade,
+	é a melhor da cidade,
 	"""
 	keyWait
 		any = false

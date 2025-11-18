@@ -9,9 +9,9 @@ script 0 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Bem-vindo ao Cyber-
-	Mundo da Princesa
-	Alabarda!
+	Bem-vindo ao
+	Cyber-Mundo da
+	Princesa Alabarda!
 	"""
 	keyWait
 		any = false
@@ -25,8 +25,8 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	... lhe levará atra-
-	vés da história da
+	... lhe levará através
+	da história da
 	Princesa Alabarda!
 	"""
 	keyWait
@@ -752,8 +752,8 @@ script 20 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	É uma viagem tran-
-	quila de jangada.
+	É uma viagem
+	tranquila de jangada.
 	Pronto para zarpar?
 	"""
 	keyWait

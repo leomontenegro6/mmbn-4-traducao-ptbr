@@ -253,8 +253,8 @@ script 11 mmbn4 {
 	clearMsg
 	"""
 	Se o operador for
-	ruim, então não im-
-	porta o Navi usado,
+	ruim, então não
+	importa o Navi usado,
 	"""
 	keyWait
 		any = false
@@ -309,8 +309,8 @@ script 12 mmbn4 {
 	clearMsg
 	"""
 	Os chips são tudo!
-	Quem tiver os melho-
-	res chips, vence!
+	Quem tiver os melhores
+	chips, vence!
 	"""
 	keyWait
 		any = false
@@ -330,8 +330,8 @@ script 15 mmbn4 {
 	clearMsg
 	"""
 	Aprimorar os poderes
-	do Navi em si, de-
-	certo, é importante!
+	do Navi em si decerto
+	é importante!
 	"""
 	keyWait
 		any = false
@@ -378,9 +378,9 @@ script 17 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Essa é a chave pra
-	uma deleção bem-
-	sucedida!
+	Essa é a chave
+	pra uma deleção
+	bem-sucedida!
 	"""
 	keyWait
 		any = false
@@ -391,9 +391,9 @@ script 20 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Hmmm... De fato, eli-
-	minar inimigos rápi-
-	do é importante...
+	Hmmm... De fato,
+	eliminar inimigos
+	rápido é importante...
 	"""
 	keyWait
 		any = false

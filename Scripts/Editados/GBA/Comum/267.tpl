@@ -27,9 +27,9 @@ script 2 mmbn4 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Então este é o pri-
-	meiro parque temáti-
-	co de DenCity...
+	Então este é o
+	primeiro parque
+	temático de DenCity...
 	"""
 	keyWait
 		any = false
@@ -56,9 +56,9 @@ script 4 mmbn4 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Querido! O que foi
-	agora? Vamos apro-
-	veitar o encontro!
+	Querido! O que
+	foi agora? Vamos
+	aproveitar o encontro!
 	"""
 	keyWait
 		any = false
@@ -87,9 +87,9 @@ script 10 mmbn4 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Parece que os melho-
-	res NetLutadores do
-	mundo virão aqui!
+	Parece que os melhores
+	NetLutadores do mundo
+	virão aqui!
 	"""
 	keyWait
 		any = false

@@ -19,8 +19,8 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	Agora que o Torneio
-	de Batalha Den aca-
-	bou, posso relaxar...
+	de Batalha Den acabou,
+	posso relaxar...
 	"""
 	keyWait
 		any = false
@@ -52,8 +52,8 @@ script 5 mmbn4 {
 	msgOpen
 	"""
 	Parece que vai abrir
-	um enorme parque te-
-	mático em breve...
+	um enorme parque
+	temático em breve...
 	"""
 	keyWait
 		any = false
@@ -193,8 +193,8 @@ script 30 mmbn4 {
 	msgOpen
 	"""
 	Já que o torneio
-	acabou, eu posso le-
-	var estas flores, né?
+	acabou, eu posso levar
+	estas flores, né?
 	"""
 	keyWait
 		any = false

@@ -16,8 +16,8 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	Estou de olho em
-	turistas mal-educa-
-	dos. No momento...
+	turistas mal-educados.
+	No momento...
 	"""
 	keyWait
 		any = false

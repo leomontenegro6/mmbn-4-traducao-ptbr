@@ -125,8 +125,8 @@ script 6 mmbn4 {
 	clearMsg
 	"""
 	Não levou nenhum
-	dinheiro, nem encos-
-	tou nos quartos.
+	dinheiro, nem
+	encostou nos quartos.
 	"""
 	keyWait
 		any = false
@@ -143,8 +143,8 @@ script 7 mmbn4 {
 	clearMsg
 	"""
 	A mamãe disse que
-	ouviu o invasor fa-
-	zer alguma coisa...
+	ouviu o invasor
+	fazer alguma coisa...
 	"""
 	keyWait
 		any = false

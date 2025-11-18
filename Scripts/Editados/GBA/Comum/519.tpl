@@ -282,9 +282,9 @@ script 16 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	É necessário 200% da
-	energia para redire-
-	cionar o asteroide.
+	É necessário 200%
+	da energia para
+	redirecionar o asteroide.
 	"""
 	keyWait
 		any = false
@@ -403,9 +403,8 @@ script 24 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	O laser foi dispara-
-	do com 200% de
-	energia!
+	O laser foi disparado
+	com 200% de energia!
 	"""
 	keyWait
 		any = false

@@ -3832,9 +3832,8 @@ script 221 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Só pode compa-
-	rar com amigo
-	do mesmo.
+	Só pode comparar
+	com amigo do mesmo.
 	"""
 	waitHold
 }

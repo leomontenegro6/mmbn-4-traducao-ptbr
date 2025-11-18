@@ -562,9 +562,9 @@ script 161 mmbn4 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Eu sabia que uma lo-
-	ja grande assim te-
-	ria ótima variedade!
+	Eu sabia que uma loja
+	grande assim teria
+	ótima variedade!
 	"""
 	keyWait
 		any = false

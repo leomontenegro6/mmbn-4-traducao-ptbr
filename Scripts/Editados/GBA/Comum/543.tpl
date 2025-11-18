@@ -67,9 +67,9 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Não quer comparti-
-	lhar de seu poder
-	com a Nebula?
+	Não quer compartilhar
+	de seu poder com a
+	Nebula?
 	"""
 	keyWait
 		any = false

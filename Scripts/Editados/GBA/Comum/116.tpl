@@ -24,9 +24,9 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	msgOpen
 	"""
-	Entrada Para Funci-
-	onários Do Torneio
-	e Competidores.
+	Entrada Para
+	Funcionários Do
+	Torneio e Competidores.
 	"""
 	keyWait
 		any = false
@@ -71,9 +71,8 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	msgOpen
 	"""
-	Cachorros-quentes
-	incríveis! É só
-	subir as escadas!
+	Bolinhos de polvo incríveis!
+	É só subir as escadas!
 	"""
 	keyWait
 		any = false
@@ -157,8 +156,8 @@ script 12 mmbn4 {
 	msgOpen
 	"""
 	O doce som de
-	salsichas fritando.
-	Mmmm...
+	bolinhos de polvo
+	fritando. Mmmm...
 	"""
 	keyWait
 		any = false

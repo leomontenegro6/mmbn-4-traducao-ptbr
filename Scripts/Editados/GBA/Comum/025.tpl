@@ -45,17 +45,16 @@ script 1 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Oiê! Estou escreven-
-	do de dentro do
-	Castillo! O lugar
+	Oiê! Estou escrevendo
+	de dentro do Castillo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	é incrível! Conheci
-	os meus personagens
-	favoritos!
+	O lugar é incrível!
+	Conheci os meus
+	personagens favoritos!
 	"""
 	keyWait
 		any = false
@@ -86,9 +85,9 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	e ir na loja de pre-
-	sentes! Quero com-
-	prar a alabarda da
+	e ir na loja de
+	presentes! Quero
+	comprar a alabarda da
 	"""
 	keyWait
 		any = false
@@ -139,9 +138,9 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas é graças a Emo-
-	ções que as pessoas
-	são boas e gentis.
+	Mas é graças a Emoções
+	que as pessoas são boas
+	e gentis.
 	"""
 	keyWait
 		any = false
@@ -201,16 +200,16 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	A minha cena favori-
-	ta é quando ele se
-	alia ao inimigo
+	A minha cena favorita
+	é quando ele se alia
+	ao inimigo dele,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	dele, o MagoMacaco,
-	pra salvar a cidade
+	o MagoMacaco, pra
+	salvar a cidade
 	do feiticeiro do
 	"""
 	keyWait
@@ -231,8 +230,8 @@ script 6 mmbn4 {
 		top = 108
 	"""
 	Eu gosto do Dracky,
-	porque a minha his-
-	tória favorita é
+	porque a minha
+	história favorita é
 	"""
 	keyWait
 		any = false
@@ -276,8 +275,8 @@ script 7 mmbn4 {
 	clearMsg
 	"""
 	Lá tem um monte de
-	cenas do Django lu-
-	tando com Vampiros!
+	cenas do Django
+	lutando com Vampiros!
 	"""
 	keyWait
 		any = false
@@ -292,17 +291,17 @@ script 8 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Parece que as crian-
-	ças adoram "Django,
-	o Garoto Solar".
+	Parece que as crianças
+	adoram "Django, o
+	Garoto Solar".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A arma dele, a Gun-
-	DelSol, agora está a
-	venda como um chip.
+	A arma dele, a
+	GunDelSol, agora está
+	a venda como um chip.
 	"""
 	keyWait
 		any = false
@@ -365,9 +364,9 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	outro dia. Implemen-
-	tamos checagens diá-
-	rias de segurança.
+	outro dia. Implementamos
+	checagens diárias de
+	segurança.
 	"""
 	keyWait
 		any = false
@@ -399,8 +398,8 @@ script 11 mmbn4 {
 	clearMsg
 	"""
 	O Dracky foi o que
-	deu mais medo! Pare-
-	cia até que ele tava
+	deu mais medo! Parecia
+	até que ele tava
 	"""
 	keyWait
 		any = false

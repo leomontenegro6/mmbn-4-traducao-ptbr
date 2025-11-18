@@ -5,8 +5,8 @@ script 0 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Chegou a hora! Ami-
-	gos, os competidores
+	Chegou a hora! Amigos,
+	os competidores
 	finalmente chegaram!
 	"""
 	keyWait

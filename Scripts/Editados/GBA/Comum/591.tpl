@@ -346,9 +346,9 @@ script 14 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Ele é um Navi im-
-	provisado, então está
-	sempre quebrando.
+	Ele é um Navi
+	improvisado, então
+	está sempre quebrando.
 	"""
 	keyWait
 		any = false
@@ -569,8 +569,8 @@ script 24 mmbn4 {
 	mugshotShow
 		mugshot = Tensuke
 	"""
-	Não vou pedir des-
-	culpas assim, como
+	Não vou pedir
+	desculpas assim, como
 	se não fosse nada.
 	"""
 	keyWait
@@ -597,9 +597,9 @@ script 24 mmbn4 {
 	mugshotShow
 		mugshot = Tensuke
 	"""
-	Eu só preciso con-
-	sertar isso. Mas é
-	difícil sozinho!
+	Eu só preciso
+	consertar isso. Mas
+	é difícil sozinho!
 	"""
 	keyWait
 		any = false

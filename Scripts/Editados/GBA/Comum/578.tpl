@@ -54,9 +54,9 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Digamos que guarda-
-	mos os melhores
-	fogos pro final!
+	Digamos que guardamos
+	os melhores fogos
+	pro final!
 	"""
 	keyWait
 		any = false

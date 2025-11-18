@@ -12,9 +12,9 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Esta será uma dispu-
-	ta entre dois alunos
-	do fundamental!
+	Esta será uma disputa
+	entre dois alunos do
+	fundamental!
 	"""
 	keyWait
 		any = false

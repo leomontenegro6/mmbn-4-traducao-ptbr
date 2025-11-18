@@ -44,9 +44,9 @@ script 26 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Conecte-se direta-
-	mente às Redes do
-	mundo e conserte-as!
+	Conecte-se
+	diretamente às Redes
+	do mundo e conserte-as!
 	"""
 	keyWait
 		any = false
@@ -153,8 +153,8 @@ script 34 mmbn4 {
 	msgOpen
 	"""
 	Rápido! A gente tem
-	que mudar a traje-
-	tória do asteroide!
+	que mudar a trajetória
+	do asteroide!
 	"""
 	keyWait
 		any = false

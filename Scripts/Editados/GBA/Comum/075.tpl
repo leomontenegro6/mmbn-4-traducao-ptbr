@@ -189,9 +189,9 @@ script 16 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	A Mayl tá bem anima-
-	da... Vamos pra
-	Mansão do Vampiro!
+	A Mayl tá bem animada...
+	Vamos pra Mansão do
+	Vampiro!
 	"""
 	keyWait
 		any = false
@@ -332,9 +332,9 @@ script 40 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Vamos reunir 50 Pon-
-	tos de Batalha e ir
-	pra Praça Central!
+	Vamos reunir 50 Pontos
+	de Batalha e ir pra
+	Praça Central!
 	"""
 	keyWait
 		any = false
@@ -358,8 +358,8 @@ script 42 mmbn4 {
 	msgOpen
 	"""
 	Devemos voltar aqui
-	após reunir 50 Pon-
-	tos de Batalha, né?
+	após reunir 50 Pontos
+	de Batalha, né?
 	"""
 	keyWait
 		any = false
@@ -441,9 +441,9 @@ script 52 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Bora pra Área Par-
-	que! Tô preocupado
-	com o Navi do Riki!
+	Bora pra Área Parque!
+	Tô preocupado com o
+	Navi do Riki!
 	"""
 	keyWait
 		any = false
@@ -579,9 +579,9 @@ script 63 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	A Roll deve tá pre-
-	sa! Temos que achar
-	uma pista de onde!
+	A Roll deve tá presa!
+	Temos que achar uma
+	pista de onde!
 	"""
 	keyWait
 		any = false
@@ -900,8 +900,8 @@ script 86 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Se conecta na barra-
-	quinha de sorvete!
+	Se conecta na
+	barraquinha de sorvete!
 	O MetalMan tá lá!
 	"""
 	keyWait
@@ -994,9 +994,9 @@ script 92 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Vamos logo pro cas-
-	telo, ou vamos ser
-	desqualificados!
+	Vamos logo pro
+	castelo, ou vamos
+	ser desqualificados!
 	"""
 	keyWait
 		any = false
@@ -1135,9 +1135,9 @@ script 107 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Tá quase na hora
-	da luta! Tô na tor-
-	cida... pela gente!
+	Tá quase na hora da
+	luta! Tô na torcida...
+	pela gente!
 	"""
 	keyWait
 		any = false
@@ -1374,9 +1374,8 @@ script 127 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Pegamos os Ingredi-
-	entes! Vamos pro
-	Dojô Culinário!
+	Pegamos os Ingredientes!
+	Vamos pro Dojô Culinário!
 	"""
 	keyWait
 		any = false

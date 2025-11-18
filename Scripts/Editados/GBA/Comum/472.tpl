@@ -140,8 +140,8 @@ script 7 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Outra salva de pal-
-	mas para os nossos
+	Outra salva de palmas
+	para os nossos
 	campeões, amigos!!
 	"""
 	keyWait
@@ -156,9 +156,9 @@ script 8 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	E agora, o organiza-
-	dor do torneio
-	presenteará Lan
+	E agora, o organizador
+	do torneio presenteará
+	Lan
 	"""
 	keyWait
 		any = false
@@ -177,8 +177,8 @@ script 9 mmbn4 {
 	msgOpen
 	"""
 	Eu fiquei encantado
-	com as suas habili-
-	dades de luta!
+	com as suas habilidades
+	de luta!
 	"""
 	keyWait
 		any = false
@@ -231,8 +231,8 @@ script 12 mmbn4 {
 	msgOpen
 	"""
 	Você e MegaMan devem
-	ter um elo de confi-
-	ança fortíssimo.
+	ter um elo de confiança
+	fortíssimo.
 	"""
 	keyWait
 		any = false
@@ -299,9 +299,9 @@ script 14 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	E agora, o organiza-
-	dor do torneio
-	presenteará Lan
+	E agora, o organizador
+	do torneio presenteará
+	Lan
 	"""
 	keyWait
 		any = false

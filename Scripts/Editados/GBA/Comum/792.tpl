@@ -332,9 +332,9 @@ script 23 mmbn4 {
 	mugshotShow
 		mugshot = Django
 	"""
-	Sim, mas o Bate-
-	Estacas o danificou
-	pesadamente.
+	Sim, mas o
+	Bate-Estacas o
+	danificou pesadamente.
 	"""
 	keyWait
 		any = false
@@ -490,8 +490,8 @@ script 31 mmbn4 {
 	mugshotShow
 		mugshot = Django
 	"""
-	Você poderá enfren-
-	tar habitantes da
+	Você poderá enfrentar
+	habitantes da
 	escuridão de novo,
 	"""
 	keyWait

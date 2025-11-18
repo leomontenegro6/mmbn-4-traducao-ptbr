@@ -62,8 +62,8 @@ script 3 mmbn4 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Ah, vai! Se cê des-
-	qualificar o Lan,
+	Ah, vai! Se cê
+	desqualificar o Lan,
 	eu tô fora também!
 	"""
 	keyWait

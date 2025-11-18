@@ -139,9 +139,9 @@ script 18 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Os melhores lutado-
-	res de Ni-Hon vão
-	estar lá, né?
+	Os melhores lutadores
+	de Ni-Hon vão estar
+	lá, né?
 	"""
 	keyWait
 		any = false
@@ -166,9 +166,9 @@ script 19 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Os melhores lutado-
-	res de Ni-Hon vão
-	estar lá, né?
+	Os melhores lutadores
+	de Ni-Hon vão estar
+	lá, né?
 	"""
 	keyWait
 		any = false

@@ -117,9 +117,9 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Se me cobrarem diá-
-	ria, aquele Oficial
-	vai ver só!
+	Se me cobrarem
+	diária, aquele
+	Oficial vai ver só!
 	"""
 	keyWait
 		any = false

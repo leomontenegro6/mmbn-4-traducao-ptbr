@@ -68,9 +68,9 @@ script 5 mmbn4 {
 	mugshotShow
 		mugshot = FireMan
 	"""
-	Deixem a Barraca de
-	Cachorro-Quente no
-	DenDomo em paz.
+	Deixem a Barraca
+	de Bolinhos de Polvo
+	no DenDomo em paz.
 	"""
 	keyWait
 		any = false
@@ -172,7 +172,7 @@ script 11 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Não, a fritadeira da
+	Não, a chapa da
 	Barraca quebrou.
 	"""
 	keyWait

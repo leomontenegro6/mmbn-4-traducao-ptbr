@@ -119,9 +119,9 @@ script 4 mmbn4 {
 script 20 mmbn4 {
 	msgOpen
 	"""
-	Um quadro dos homens
-	e mulheres da orga-
-	nização do torneio.
+	Um quadro dos homens e
+	mulheres da organização
+	do torneio.
 	"""
 	keyWait
 		any = false

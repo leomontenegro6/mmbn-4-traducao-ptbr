@@ -24,8 +24,8 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Logo, não é um encon-
-	tro com o Glide!
+	Logo, não é um
+	encontro com o Glide!
 	Engole o ciúmes!
 	"""
 	keyWait
@@ -138,9 +138,9 @@ script 4 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Que divertido! Aque-
-	le Navi é mais for-
-	te do que aparenta!
+	Que divertido! Aquele
+	Navi é mais forte
+	do que aparenta!
 	"""
 	keyWait
 		any = false
@@ -240,9 +240,8 @@ script 20 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Então, estou condu-
-	zindo a campanha no
-	lugar dele!
+	Então, estou conduzindo
+	a campanha no lugar dele!
 	"""
 	keyWait
 		any = false
@@ -279,9 +278,9 @@ script 21 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	As regras são sim-
-	ples! Se vencer uma
-	NetLuta,
+	As regras são
+	simples! Se vencer
+	uma NetLuta,
 	"""
 	keyWait
 		any = false

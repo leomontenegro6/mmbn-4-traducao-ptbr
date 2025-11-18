@@ -9,7 +9,7 @@ script 1 mmbn4s {
 	end
 }
 script 2 mmbn4s {
-	"UniAlma"
+	"UníAlma"
 	end
 }
 script 3 mmbn4s {

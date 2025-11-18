@@ -873,9 +873,9 @@ script 110 mmbn4 {
 		mugshot = Glide
 	msgOpen
 	"""
-	MegaMan! Foi infor-
-	mado do que aconte-
-	ceu com a Roll?
+	MegaMan! Foi informado
+	do que aconteceu com a
+	a Roll?
 	"""
 	keyWait
 		any = false

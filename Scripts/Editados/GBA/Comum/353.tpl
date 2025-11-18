@@ -13,8 +13,8 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	PROGS DELAS, PRECISA-
-	MOS ESTAR EM FORMA!
+	PROGS DELAS, PRECISAMOS
+	ESTAR EM FORMA!
 	DAÍ, ESTOU CORRENDO!
 	"""
 	keyWait

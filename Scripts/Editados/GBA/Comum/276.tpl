@@ -67,8 +67,8 @@ script 2 mmbn4 {
 	clearMsg
 	"""
 	Mas, se eu for,
-	posso acabar deco-
-	rando quando as
+	posso acabar
+	decorando quando as
 	"""
 	keyWait
 		any = false
@@ -135,8 +135,8 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Mas quem eram aque-
-	les que apareceram
+	Mas quem eram aqueles
+	que apareceram
 	depois da final?
 	"""
 	keyWait
@@ -492,9 +492,9 @@ script 31 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	Mami, você é a estre-
-	la polar do céu es-
-	curo da minha vida!
+	Mami, você é a estrela
+	polar do céu escuro
+	da minha vida!
 	"""
 	keyWait
 		any = false

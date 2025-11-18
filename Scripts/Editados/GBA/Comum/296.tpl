@@ -375,9 +375,9 @@ script 130 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Ainda estou ajeitan-
-	do os estragos de
-	ontem. Ufa!
+	Ainda estou ajeitando
+	os estragos de ontem.
+	Ufa!
 	"""
 	keyWait
 		any = false
@@ -388,8 +388,8 @@ script 131 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Tantos Navis perde-
-	ram as vidas aqui...
+	Tantos Navis perderam
+	as vidas aqui...
 	Sniff...! Chuif!
 	"""
 	keyWait

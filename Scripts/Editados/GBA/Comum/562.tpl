@@ -23,8 +23,8 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	Só uma mente muito
-	diabólica para plan-
-	tar vírus em dados.
+	diabólica para
+	plantar vírus em dados.
 	"""
 	keyWait
 		any = false

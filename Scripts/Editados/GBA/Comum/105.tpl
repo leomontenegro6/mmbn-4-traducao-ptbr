@@ -297,9 +297,9 @@ script 202 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Deve haver armadi-
-	lhas no caminho,
-	então, cuidado.
+	Deve haver armadilhas
+	no caminho, então,
+	cuidado.
 	"""
 	keyWait
 		any = false
@@ -392,8 +392,8 @@ script 206 mmbn4 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	O ProtoMan com cer-
-	teza está à frente.
+	O ProtoMan com
+	certeza está à frente.
 	Não baixe a guarda.
 	"""
 	keyWait
@@ -455,8 +455,8 @@ script 209 mmbn4 {
 	msgOpen
 	"""
 	A última chave está
-	no canto de um qua-
-	dro com 2 portais.
+	no canto de um quadro
+	com dois portais.
 	"""
 	keyWait
 		any = false

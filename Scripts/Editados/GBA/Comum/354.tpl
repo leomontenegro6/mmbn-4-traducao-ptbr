@@ -32,9 +32,9 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Estamos reunindo di-
-	nheiro para preser-
-	var as RuínasSabo.
+	Estamos reunindo
+	dinheiro para preservar
+	as RuínasSabo.
 	"""
 	keyWait
 		any = false

@@ -285,9 +285,9 @@ script 25 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Agora a Loja do
-	Higsby será mundi-
-	almente famosa!!
+	Agora a Loja
+	do Higsby será
+	mundialmente famosa!!
 	"""
 	keyWait
 		any = false
@@ -346,8 +346,8 @@ script 35 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	a dedicação do Higs-
-	by de manter a loja
+	a dedicação do Higsby
+	de manter a loja
 	aberta nessas horas!
 	"""
 	keyWait

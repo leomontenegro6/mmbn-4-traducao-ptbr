@@ -240,8 +240,8 @@ script 14 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Bom trabalho chegan-
-	do aqui, mesmo com os
+	Bom trabalho chegando
+	aqui, mesmo com os
 	tiros do SearchMan.
 	"""
 	keyWait
@@ -258,9 +258,9 @@ script 15 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Então era o Search-
-	Man que tava ati-
-	rando no MegaMan?!
+	Então era o
+	SearchMan que tava
+	atirando no MegaMan?!
 	"""
 	keyWait
 		any = false
@@ -294,9 +294,9 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = SearchMan
 	"""
-	Vejamos... A proba-
-	bilidade de nós os
-	vencermos é de...
+	Vejamos... A
+	probabilidade de nós
+	os vencermos é de...
 	"""
 	keyWait
 		any = false
@@ -320,8 +320,8 @@ script 18 mmbn4 {
 	clearMsg
 	"""
 	No campo de batalha,
-	esse 1% pode signi-
-	ficar a morte.
+	esse 1% pode
+	significar a morte.
 	"""
 	keyWait
 		any = false

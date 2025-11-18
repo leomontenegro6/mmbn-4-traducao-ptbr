@@ -19,8 +19,8 @@ script 1 mmbn4 {
 	mugshotShow
 		mugshot = MrMatch
 	"""
-	Não desperdice sali-
-	va. Já devem ter ido
+	Não desperdice saliva.
+	Já devem ter ido
 	embora faz tempo.
 	"""
 	keyWait

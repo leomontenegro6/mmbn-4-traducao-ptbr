@@ -73,8 +73,8 @@ script 4 mmbn4 {
 	clearMsg
 	"""
 	Fiquei impressionado
-	com o estilo calcu-
-	lista do NumberMan!
+	com o estilo calculista
+	do NumberMan!
 	"""
 	keyWait
 		any = false

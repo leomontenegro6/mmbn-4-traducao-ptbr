@@ -321,8 +321,8 @@ script 21 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Eu só achei que se-
-	ria uma boa última
+	Eu só achei que
+	seria uma boa última
 	memória... Chuif!
 	"""
 	keyWait
@@ -395,8 +395,8 @@ script 23 mmbn4 {
 	clearMsg
 	"""
 	Será rápido. Você
-	não sofrerá. E de-
-	pois, irei eu... Oh!
+	não sofrerá. E depois,
+	irei eu... Oh!
 	"""
 	keyWait
 		any = false

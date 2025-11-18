@@ -549,8 +549,8 @@ script 21 mmbn4 {
 	clearMsg
 	"""
 	Tem vários números
-	de loteria escondi-
-	dos pela cidade!
+	de loteria escondidos
+	pela cidade!
 	"""
 	keyWait
 		any = false
@@ -567,8 +567,8 @@ script 25 mmbn4 {
 	msgOpen
 	"""
 	Não conta pro Higbsy
-	que eu também traba-
-	lho no Castillo!
+	que eu também trabalho
+	no Castillo!
 	"""
 	keyWait
 		any = false

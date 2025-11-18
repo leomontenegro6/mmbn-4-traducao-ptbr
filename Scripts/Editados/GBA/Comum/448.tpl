@@ -57,8 +57,8 @@ script 4 mmbn4 {
 		mugshot = MrProgGreen
 	"""
 	ACHO QUE MEU SISTEMA
-	DE IGNIÇÃO SE
-	QUEBROU.
+	DE IGNIÇÃO FOI
+	AVARIADO.
 	"""
 	keyWait
 		any = false
@@ -113,8 +113,8 @@ script 7 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Eu poderia consertá-
-	lo se tivesse um
+	Eu poderia consertá-lo
+	se tivesse um
 	"
 	"""
 	printItem
@@ -203,8 +203,8 @@ script 11 mmbn4 {
 	clearMsg
 	"""
 	Mas, primeiro, você
-	vai ter que desco-
-	nectar o MegaMan.
+	vai ter que desconectar
+	o MegaMan.
 	"""
 	keyWait
 		any = false

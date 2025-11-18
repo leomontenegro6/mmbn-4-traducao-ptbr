@@ -154,8 +154,8 @@ script 8 mmbn4 {
 	clearMsg
 	"""
 	Ele teria ficado bem
-	se você não estives-
-	se andando aí!
+	se você não estivesse
+	andando aí!
 	"""
 	keyWait
 		any = false
@@ -186,9 +186,9 @@ script 9 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Essa é a grana que
-	eu faria com o con-
-	trato de beisebol.
+	Essa é a grana
+	que eu faria com o
+	contrato de beisebol.
 	"""
 	keyWait
 		any = false
@@ -201,8 +201,8 @@ script 10 mmbn4 {
 		mugshot = Riki
 	"""
 	Ah, irmão! Acha mesmo
-	que uma criança te-
-	ria essa grana toda?
+	que uma criança teria
+	essa grana toda?
 	"""
 	keyWait
 		any = false
@@ -310,8 +310,8 @@ script 17 mmbn4 {
 	mugshotShow
 		mugshot = Riki
 	"""
-	Cê pode pagar par-
-	celado, se quiser.
+	Cê pode pagar
+	parcelado, se quiser.
 	Por mim, de boa.
 	"""
 	keyWait

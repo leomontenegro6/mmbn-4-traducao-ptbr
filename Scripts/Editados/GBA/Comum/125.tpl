@@ -9,16 +9,16 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	Tem um Vampiro no
-	caixão com um sor-
-	riso horripilante...
+	caixão com um sorriso
+	horripilante...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Seus olhos brilhan-
-	tes olhando para
-	cá são medonhos.
+	Seus olhos brilhantes
+	olhando para cá são
+	medonhos.
 	"""
 	keyWait
 		any = false
@@ -46,9 +46,9 @@ script 1 mmbn4 {
 script 2 mmbn4 {
 	msgOpen
 	"""
-	De repente, um mons-
-	tro estranho sai da
-	boca dele!
+	De repente, um
+	monstro estranho
+	sai da boca dele!
 	"""
 	keyWait
 		any = false
@@ -179,9 +179,8 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Curioso, porém sinis-
-	tro. Sinistro, porém
-	curioso.
+	Curioso, porém sinistro.
+	Sinistro, porém curioso.
 	"""
 	keyWait
 		any = false

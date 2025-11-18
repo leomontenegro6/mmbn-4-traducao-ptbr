@@ -202,9 +202,9 @@ script 8 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Sua reputação é pés-
-	sima, mas sua ciência
-	é sem igual...
+	Sua reputação é péssima,
+	mas sua ciência é sem
+	igual...
 	"""
 	keyWait
 		any = false

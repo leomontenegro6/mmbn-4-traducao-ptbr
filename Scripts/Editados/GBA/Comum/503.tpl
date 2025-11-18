@@ -107,9 +107,9 @@ script 5 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Me tornei o Chefe da
-	Associação de Net-
-	Luta de Ni-Hon.
+	Me tornei o Chefe
+	da Associação de
+	NetLuta de Ni-Hon.
 	"""
 	keyWait
 		any = false
@@ -380,8 +380,8 @@ script 18 mmbn4 {
 	clearMsg
 	"""
 	Lembrem-se: eu posso
-	destruir este caste-
-	lo facilmente...
+	destruir este castelo
+	facilmente...
 	"""
 	keyWait
 		any = false

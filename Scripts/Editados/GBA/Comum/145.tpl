@@ -117,9 +117,9 @@ script 14 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	e voou em direção a
-	um céu da mais com-
-	pleta escuridão...
+	e voou em direção
+	a um céu da mais
+	completa escuridão...
 	"""
 	keyWait
 		any = false
@@ -194,17 +194,17 @@ script 16 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	e lá, Django, se depa-
-	rou com o maligno
+	e lá, Django, se
+	deparou com o maligno
 	Vampiro da cidade.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Dracky, o Super Vam-
-	piro, imune a alho
-	e a cruzes.
+	Dracky, o Super
+	Vampiro, imune a
+	alho e a cruzes.
 	"""
 	keyWait
 		any = false

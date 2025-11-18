@@ -433,9 +433,9 @@ script 25 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	É. Ele tá contro-
-	lando os leões da
-	estátua de leão, né?
+	É. Ele tá controlando
+	os leões da estátua
+	de leão, né?
 	"""
 	keyWait
 		any = false

@@ -13,8 +13,8 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	AS CHAVES SÃO CAR-
-	TÕES. DITO ISSO,
+	AS CHAVES SÃO
+	CARTÕES. DITO ISSO,
 	ESTA PORTA VIVE 
 	"""
 	keyWait

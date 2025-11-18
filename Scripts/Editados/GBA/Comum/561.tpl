@@ -327,7 +327,7 @@ script 17 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	" Se conseguir deci-\n frá-la, o caminho\n será revelado...\""
+	" Se conseguir decifrá-la,\no caminho será\nrevelado...\""
 	keyWait
 		any = false
 	end

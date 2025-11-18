@@ -124,9 +124,9 @@ script 4 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	melhorar as habili-
-	dades de NetLuta dos
-	cidadãos de DenCity
+	melhorar as habilidades
+	de NetLuta dos cidadãos
+	de DenCity
 	"""
 	keyWait
 		any = false

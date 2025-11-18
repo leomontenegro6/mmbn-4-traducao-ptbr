@@ -407,8 +407,8 @@ script 17 mmbn4 {
 	clearMsg
 	"""
 	Minha pesquisa está
-	completamente para-
-	lisada sem eles!
+	completamente paralisada
+	sem eles!
 	"""
 	keyWait
 		any = false
@@ -882,9 +882,9 @@ script 24 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Eles parecem rami-
-	nhos, mas com uma
-	coloração dourada.
+	Eles parecem raminhos,
+	mas com uma coloração
+	dourada.
 	"""
 	keyWait
 		any = false
@@ -1011,9 +1011,9 @@ script 26 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Eles parecem rami-
-	nhos, mas com uma
-	coloração dourada.
+	Eles parecem raminhos,
+	mas com uma coloração
+	dourada.
 	"""
 	keyWait
 		any = false
@@ -1424,9 +1424,9 @@ script 34 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	O meu PET foi infec-
-	tado por um vírus
-	e parou de ligar!
+	O meu PET foi
+	infectado por um
+	vírus e parou de ligar!
 	"""
 	keyWait
 		any = false

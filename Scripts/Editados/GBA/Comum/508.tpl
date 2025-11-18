@@ -88,8 +88,8 @@ script 5 mmbn4 {
 	msgOpen
 	"""
 	Não é nada... Não
-	precisa se preocu-
-	par... He he!
+	precisa se preocupar...
+	He he!
 	"""
 	keyWait
 		any = false

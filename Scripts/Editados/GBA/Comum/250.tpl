@@ -26,8 +26,8 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	NetLutas realmente
-	dependem da habili-
-	dade do operador...
+	dependem da habilidade
+	do operador...
 	"""
 	keyWait
 		any = false

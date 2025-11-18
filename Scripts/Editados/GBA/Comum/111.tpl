@@ -30,8 +30,8 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	Um modelo de luxo
-	que não cabe no bol-
-	so de quase ninguém.
+	que não cabe no bolso
+	de quase ninguém.
 	"""
 	keyWait
 		any = false

@@ -295,8 +295,8 @@ script 4 mmbn4 {
 	clearMsg
 	"""
 	mas nós, adultos,
-	estamos completamen-
-	te incapazes!
+	estamos completamente
+	incapazes!
 	"""
 	keyWait
 		any = false

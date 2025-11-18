@@ -31,8 +31,8 @@ script 1 mmbn4 {
 	msgOpen
 	"""
 	O botão de desligar
-	do Robô... Não pre-
-	cisa apertar agora.
+	do Robô... Não precisa
+	apertar agora.
 	"""
 	keyWait
 		any = false
@@ -86,9 +86,9 @@ script 12 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Parecia um cão nor-
-	mal, mas, na verdade,
-	era um feiticeiro
+	Parecia um cão normal,
+	mas, na verdade, era
+	um feiticeiro
 	"""
 	keyWait
 		any = false
@@ -130,9 +130,9 @@ script 13 mmbn4 {
 	mugshotHide
 	msgOpen
 	"""
-	Porém, um certo inci-
-	dente forçou os dois
-	a cooperarem.
+	Porém, um certo
+	incidente forçou os
+	dois a cooperarem.
 	"""
 	keyWait
 		any = false

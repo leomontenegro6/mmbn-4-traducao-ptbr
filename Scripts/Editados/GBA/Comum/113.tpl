@@ -7,9 +7,9 @@ script 0 mmbn4 {
 		jumpIfFalse = 19
 	msgOpen
 	"""
-	Porta para funcioná-
-	rios adentrarem a
-	cerca...
+	Porta para
+	funcionários
+	adentrarem a cerca...
 	"""
 	keyWait
 		any = false
@@ -45,8 +45,7 @@ script 1 mmbn4 {
 	clearMsg
 	"""
 	Olhando bem, dá para
-	ver uma coisa
-	escrita...
+	ver uma coisa escrita...
 	"""
 	keyWait
 		any = false
@@ -110,8 +109,8 @@ script 4 mmbn4 {
 script 5 mmbn4 {
 	msgOpen
 	"""
-	Uma loja que conser-
-	ta computadores. As
+	Uma loja que conserta
+	computadores. As
 	escadas dão medo...
 	"""
 	keyWait
@@ -176,8 +175,7 @@ script 8 mmbn4 {
 	clearMsg
 	"""
 	Mas que vaca louca
-	é essa que diria
-	isso?!
+	é essa que diria isso?!
 	"""
 	keyWait
 		any = false
@@ -374,9 +372,9 @@ script 18 mmbn4 {
 script 19 mmbn4 {
 	msgOpen
 	"""
-	Porta para funcioná-
-	rios adentrarem a
-	cerca...
+	Porta para
+	funcionários
+	adentrarem a cerca...
 	"""
 	keyWait
 		any = false

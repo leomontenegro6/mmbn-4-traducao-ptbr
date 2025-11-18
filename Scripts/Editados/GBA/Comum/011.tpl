@@ -63,8 +63,8 @@ script 3 mmbn4 {
 		top = 141
 	"""
 	VÍRUS QUE USA ONDAS
-	SÔNICAS PARA DANIFI-
-	CAR MÁQUINAS.
+	SÔNICAS PARA DANIFICAR
+	MÁQUINAS.
 	"""
 	waitHold
 }
@@ -99,9 +99,9 @@ script 5 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	ESTES DADOS CONTRO-
-	LAM O SISTEMA SONAR
-	NO CPUELETTORR!
+	ESTES DADOS CONTROLAM
+	O SISTEMA SONAR NO
+	CPUELETTORR!
 	"""
 	waitHold
 }
@@ -116,9 +116,9 @@ script 6 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	ESTES DADOS CONTRO-
-	LAM O SISTEMA SONAR
-	NO CPUELETTORR!
+	ESTES DADOS CONTROLAM
+	O SISTEMA SONAR NO
+	CPUELETTORR!
 	"""
 	waitHold
 }
@@ -1595,8 +1595,8 @@ script 108 mmbn4 {
 		left = 222
 		top = 141
 	"""
-	PROGRAMA COM O FOR-
-	MATO DE UMA PRANCHA.
+	PROGRAMA COM O FORMATO
+	DE UMA PRANCHA.
 	O QUE SERÁ...?
 	"""
 	waitHold
@@ -2377,7 +2377,7 @@ script 192 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"2: Número de\ncachorros-quentes."
+	"2: Número de\nbolinhos de polvo."
 	keyWait
 		any = false
 	clearMsg
@@ -2496,7 +2496,7 @@ script 194 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"3: Número de\ncachorros-quentes."
+	"3: Número de\nbolinhos de polvo."
 	keyWait
 		any = false
 	clearMsg

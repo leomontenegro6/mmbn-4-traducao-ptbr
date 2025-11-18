@@ -314,8 +314,8 @@ script 46 mmbn4 {
 	msgOpen
 	"""
 	Parece que um Navi
-	aí surrou um fun-
-	cionário do Castillo
+	aí surrou um
+	funcionário do Castillo
 	"""
 	keyWait
 		any = false
@@ -548,9 +548,9 @@ script 70 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Eu estou me dedi-
-	cando à busca, mas
-	tão bem escondidos!
+	Eu estou me dedicando
+	à busca, mas tão bem
+	escondidos!
 	"""
 	keyWait
 		any = false
@@ -725,9 +725,9 @@ script 91 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Primeiro, vou aumen-
-	tar minha resistên-
-	cia caminhando...
+	Primeiro, vou aumentar
+	minha resistência
+	caminhando...
 	"""
 	keyWait
 		any = false

@@ -48,8 +48,8 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E também represen-
-	tando Ni-Hon,
+	E também
+	representando Ni-Hon,
 	Eugene Chaud!!
 	"""
 	keyWait

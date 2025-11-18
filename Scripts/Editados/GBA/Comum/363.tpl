@@ -13,8 +13,8 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	PODE DEIXAR, ALERTA-
-	REI DE QUALQUER
+	PODE DEIXAR,
+	ALERTAREI DE QUALQUER
 	PROBLEMA NA CASA.
 	"""
 	keyWait

@@ -137,9 +137,9 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Tá todo mundo espe-
-	rando a gente! Bora
-	logo pro Coliseu!
+	Tá todo mundo esperando
+	a gente! Bora logo pro
+	Coliseu!
 	"""
 	keyWait
 		any = false

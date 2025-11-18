@@ -5,7 +5,7 @@ script 0 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	A UniAlma requer
+	A UníAlma requer
 	o sacrifício de um
 	chip compatível.
 	"""
@@ -42,7 +42,7 @@ script 2 mmbn4 {
 	"""
 	Logo, ao sacrificar
 	um chip de Água, ele
-	ativa a UniAlma.
+	ativa a UníAlma.
 	"""
 	keyWait
 		any = false
@@ -146,14 +146,14 @@ script 10 mmbn4 {
 	msgOpen
 	"""
 	Viu? É assim que se
-	faz uma UniAlma.
+	faz uma UníAlma.
 	Apertar "OK" agora
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ativará a UniAlma
+	ativará a UníAlma
 	automaticamente. A
 	AlmaAqua tem ataque
 	"""
@@ -188,7 +188,7 @@ script 11 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Isso é a UniAlma.
+	Isso é a UníAlma.
 	Se dominá-la, você
 	ficará mais forte.
 	"""
@@ -205,8 +205,8 @@ script 11 mmbn4 {
 	clearMsg
 	"""
 	Em primeiro lugar,
-	não se pode sacrifi-
-	car Chips Padrão.
+	não se pode sacrificar
+	Chips Padrão.
 	"""
 	keyWait
 		any = false
@@ -220,14 +220,14 @@ script 11 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E terceiro: a União
+	E terceiro: o Uníssono
 	de Alma só dura
 	três turnos.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Lembre-se bem disso\nantes de usar a\nUnião de Alma."
+	"Lembre-se bem disso\nantes de usar o\nUníssono de Alma."
 	keyWait
 		any = false
 	end

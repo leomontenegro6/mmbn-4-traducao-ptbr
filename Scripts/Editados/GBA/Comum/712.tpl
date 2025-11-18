@@ -32,8 +32,8 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Primeiro, o NetLuta-
-	dor do fundamental,
+	Primeiro, o NetLutador
+	do fundamental,
 	Lan Hikari!
 	"""
 	keyWait
@@ -103,8 +103,8 @@ script 4 mmbn4 {
 	clearMsg
 	"""
 	Será uma luta feroz,
-	continuando a compe-
-	tição culinária!
+	continuando a competição
+	culinária!
 	"""
 	keyWait
 		any = false

@@ -49,9 +49,9 @@ script 5 mmbn4 {
 		mugshot = Woman
 	msgOpen
 	"""
-	Por mais que eu lim-
-	pe, parece que o tra-
-	balho nunca termina!
+	Por mais que eu limpe,
+	parece que o trabalho
+	nunca termina!
 	"""
 	keyWait
 		any = false
@@ -166,14 +166,14 @@ script 20 mmbn4 {
 	msgOpen
 	"""
 	O velho trabalha
-	feito louco. Eu es-
-	taria perdida sem a
+	feito louco. Eu
+	estaria perdida sem
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ajuda dele! E, sabe,
+	a ajuda dele! E, sabe,
 	ele é tão familiar.
 	Hmmm...
 	"""

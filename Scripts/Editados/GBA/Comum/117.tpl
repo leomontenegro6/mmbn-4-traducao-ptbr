@@ -65,9 +65,9 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	msgOpen
 	"""
-	Flores. São um pre-
-	sente dos patrocina-
-	dores do torneio.
+	Flores. São um
+	presente dos patroci-
+	nadores do torneio.
 	"""
 	keyWait
 		any = false
@@ -121,9 +121,9 @@ script 6 mmbn4 {
 script 7 mmbn4 {
 	msgOpen
 	"""
-	Um leitor de car-
-	tão. Só funcionários
-	do torneio entram.
+	Um leitor de cartão.
+	Só funcionários do
+	torneio entram.
 	"""
 	keyWait
 		any = false

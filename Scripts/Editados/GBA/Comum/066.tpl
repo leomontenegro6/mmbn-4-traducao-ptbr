@@ -161,7 +161,7 @@ script 10 mmbn4 {
 	printItem
 		buffer = 0
 		item = 2
-	"\" pro\npapai!"
+	"\" pro papai!"
 	keyWait
 		any = false
 	end
@@ -528,9 +528,8 @@ script 131 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	A pista do seques-
-	trador deve nos
-	levar ao Chisao!
+	A pista do sequestrador
+	deve nos levar ao Chisao!
 	"""
 	keyWait
 		any = false
@@ -596,9 +595,9 @@ script 134 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Vamos coletar os da-
-	dos de números e ir
-	pra Pç. EletroVila!
+	Vamos coletar os dados
+	de números e ir pra
+	Pç. EletroVila!
 	"""
 	keyWait
 		any = false
@@ -626,8 +625,8 @@ script 140 mmbn4 {
 	msgOpen
 	"""
 	Lan, vamos pra
-	Barraca de
-	Cachorro-Quente.
+	Barraca de Bolinhos
+	de Polvo.
 	"""
 	keyWait
 		any = false
@@ -640,7 +639,7 @@ script 141 mmbn4 {
 	"""
 	Me conecta, Lan.
 	Eu conserto a
-	fritadeira!
+	chapa!
 	"""
 	keyWait
 		any = false
@@ -652,8 +651,8 @@ script 142 mmbn4 {
 	msgOpen
 	"""
 	Parece que só o Sr.
-	Match pode conser-
-	tar. Atrás dele!
+	Match pode consertar.
+	Atrás dele!
 	"""
 	keyWait
 		any = false
@@ -804,8 +803,8 @@ script 162 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Deve haver uns Net-
-	Lutadores idosos
+	Deve haver uns
+	NetLutadores idosos
 	no parque!
 	"""
 	keyWait
@@ -975,9 +974,9 @@ script 175 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Bora procurar a Shu-
-	ko! Será que alguém
-	sabe onde ela tá?
+	Bora procurar a Shuko!
+	Será que alguém sabe
+	onde ela tá?
 	"""
 	keyWait
 		any = false
@@ -1196,9 +1195,9 @@ script 199 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Vamos voltar pra Re-
-	de! Não podemos fi-
-	car sem fazer nada!
+	Vamos voltar pra
+	Rede! Não podemos
+	ficar sem fazer nada!
 	"""
 	keyWait
 		any = false

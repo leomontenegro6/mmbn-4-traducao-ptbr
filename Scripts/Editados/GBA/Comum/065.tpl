@@ -706,8 +706,8 @@ script 54 mmbn4 {
 	clearMsg
 	"""
 	Os vírus escondidos
-	nos dados misterio-
-	sos foram deletados!
+	nos dados misteriosos
+	foram deletados!
 	"""
 	keyWait
 		any = false
@@ -785,8 +785,8 @@ script 64 mmbn4 {
 	clearMsg
 	"""
 	Os vírus escondidos
-	nos dados misterio-
-	sos foram deletados!
+	nos dados misteriosos
+	foram deletados!
 	"""
 	keyWait
 		any = false

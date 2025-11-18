@@ -11,8 +11,8 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	QUÊ?! O PC que eu
-	comprei tá em promo-
-	ção, metade do preço!
+	comprei tá em promoção,
+	metade do preço!
 	"""
 	keyWait
 		any = false
@@ -28,9 +28,9 @@ script 1 mmbn4 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Soube que já decidi-
-	ram o melhor NetLu-
-	tador de Ni-Hon.
+	Soube que já decidiram
+	o melhor NetLutador
+	de Ni-Hon.
 	"""
 	keyWait
 		any = false
@@ -277,9 +277,9 @@ script 31 mmbn4 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Então você é o cam-
-	peão de Ni-Hon? Como
-	nosso representante,
+	Então você é o campeão
+	de Ni-Hon? Como nosso
+	representante,
 	"""
 	keyWait
 		any = false
@@ -527,9 +527,9 @@ script 55 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	Os Oficiais me man-
-	daram sair do tra-
-	balho e ir pra casa,
+	Os Oficiais me
+	mandaram sair do
+	trabalho e ir pra casa,
 	"""
 	keyWait
 		any = false

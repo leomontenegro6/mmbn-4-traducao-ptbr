@@ -6,15 +6,15 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	Senhoras e senhores!
-	Apresentando os com-
-	petidores de hoje!
+	Apresentando os
+	competidores de hoje!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Primeiro, o NetLuta-
-	dor Flamejante:
+	Primeiro, o NetLutador
+	Flamejante:
 	o Sr. Match!!
 	"""
 	keyWait
@@ -212,8 +212,8 @@ script 11 mmbn4 {
 	clearMsg
 	"""
 	E trouxe os meus
-	cachorros-quentes
-	especiais, também!
+	bolinhos de polvo especiais,
+	também!
 	"""
 	keyWait
 		any = false
@@ -313,9 +313,9 @@ script 16 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Não podemos aban-
-	donar o plano, não
-	importa o motivo.
+	Não podemos abandonar
+	o plano, não importa
+	o motivo.
 	"""
 	keyWait
 		any = false
@@ -420,8 +420,8 @@ script 22 mmbn4 {
 		mugshot = MrMatch
 	"""
 	Droga... Os meus
-	homens me apunhala-
-	ram pelas costas!
+	homens me apunhalaram
+	pelas costas!
 	"""
 	keyWait
 		any = false

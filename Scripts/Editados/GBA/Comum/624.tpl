@@ -120,9 +120,9 @@ script 5 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Era um líder de gan-
-	gue! Achava que isso
-	só tinha em mangá!
+	Era um líder de gangue!
+	Achava que isso só
+	tinha em mangá!
 	"""
 	keyWait
 		any = false

@@ -44,8 +44,8 @@ script 2 mmbn4 {
 	msgOpen
 	"""
 	Talvez, mas é preciso
-	mais que só veloci-
-	dade pra vencer.
+	mais que só velocidade
+	pra vencer.
 	"""
 	keyWait
 		any = false
