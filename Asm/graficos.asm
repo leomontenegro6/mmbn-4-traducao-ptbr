@@ -418,8 +418,22 @@
     .dw Castillo1Entrada
 .org PonteiroCastillo1EntradaTM
     .dw Castillo1EntradaTM
-.org PonteiroPaginaDoLanBemVindo
-    .dw PaginaDoLanBemVindo
+.org PonteiroBemVindo1
+    .dw BemVindo
+.org PonteiroBemVindo2
+    .dw BemVindo
+.org PonteiroBemVindo3
+    .dw BemVindo
+.org PonteiroBemVindo4
+    .dw BemVindo
+.org PonteiroBemVindo5
+    .dw BemVindo
+.org PonteiroBemVindo6
+    .dw BemVindo
+.org PonteiroBemVindo7
+    .dw BemVindo
+.org PonteiroBemVindo8
+    .dw BemVindo
 .org PonteiroAnsaLetreiro
     .dw AnsaLetreiro
 .org PonteiroAnsaInformacoes
@@ -557,7 +571,7 @@ Castillo1EntradaTM:
     .endif
     .align
 
-PaginaDoLanBemVindo:
+BemVindo:
     .incbin "Graficos/Editados/BGs/Pagina do LAN - Bem-vindo.gba"
     .align
 

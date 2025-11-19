@@ -3,5 +3,4 @@
   - Castillo: Placas de "GIFTS", "EXIT", "JUNGLE" e "SNACKS"
   - Castillo: Placas de "Restaurant", "Photo Studio" e "SNACKS"
   - ANSA: Placa de "NTP", pra mudar pra "ATP"
-  - Rede da Ameropa: Letreiro de "Welcome" estático (parecido com o do PC do Lan)
 - Planejar lançamento da versão 1.0

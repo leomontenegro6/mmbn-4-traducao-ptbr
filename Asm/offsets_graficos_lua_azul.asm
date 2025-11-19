@@ -174,7 +174,14 @@ PonteiroDendomoHotDog equ 0x080283EC
 PonteiroDendomoHotDogTM equ 0x080283F4
 PonteiroCastillo1Entrada equ 0x0802841C
 PonteiroCastillo1EntradaTM equ 0x08028424
-PonteiroPaginaDoLanBemVindo equ 0x08028590
+PonteiroBemVindo1 equ 0x08028590
+PonteiroBemVindo2 equ 0x0802859C
+PonteiroBemVindo3 equ 0x080285A8
+PonteiroBemVindo4 equ 0x080285B4
+PonteiroBemVindo5 equ 0x080285C0
+PonteiroBemVindo6 equ 0x080285CC
+PonteiroBemVindo7 equ 0x080285D8
+PonteiroBemVindo8 equ 0x080285E4
 PonteiroAnsaLetreiro equ 0x080284F4
 PonteiroAnsaInformacoes equ 0x08028500
 PonteiroTelaSubchipsNomesDireita equ 0x08031F38
