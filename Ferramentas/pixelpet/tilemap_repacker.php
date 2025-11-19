@@ -12,38 +12,41 @@
  * compression, and writing the repacked data to a new file in the same
  * directory.
  * 
- * Usage: php tilemap_repacker.php <offset>
+ * Usage: php tilemap_repacker.php <offset> <version_suffix>
  * 
  * Arguments:
  * - offset: Hexadecimal offset used to identify the header and tilemap files.
+ * - version_suffix: (optional) Suffix to identify the game version,
+ *   e.g. "sv" or "la".
  */
 
 require_once 'common.php';
 
 // Reading parameters from the command line.
-if ($argc < 2) {
-    echo "Usage: php tilemap_repacker.php <offset>\n";
+if ($argc < 1) {
+    echo "Usage: php tilemap_repacker.php <offset> <version_suffix>\n";
     exit(1);
 }
 
 $pointer_offset = hexdec($argv[1]);
 $pointer_offset = str_pad(dechex($pointer_offset), 6, '0', STR_PAD_LEFT);
+$version_suffix = isset($argv[2]) ? "-{$argv[2]}" : '';
 
-if (!file_exists("data/header-{$pointer_offset}.bin")) {
+if (!file_exists("data/header-{$pointer_offset}{$version_suffix}.bin")) {
     echo "Error: Header file does not exist.\n";
     exit(1);
 }
-if (!file_exists("data/tm-{$pointer_offset}-0.bin")) {
+if (!file_exists("data/tm-{$pointer_offset}{$version_suffix}-0.bin")) {
     echo "Error: Missing first tilemap file.\n";
     exit(1);
 }
-if (!file_exists("data/tm-{$pointer_offset}-1.bin")) {
+if (!file_exists("data/tm-{$pointer_offset}{$version_suffix}-1.bin")) {
     echo "Error: Missing second tilemap file.\n";
     exit(1);
 }
 
 // Create new file "tm-<offset>.bin" to store the repacked tilemaps.
-$destination_filename = "data/tm-{$pointer_offset}.bin";
+$destination_filename = "data/tm-{$pointer_offset}{$version_suffix}.bin";
 
 // Open the destination file in write mode.
 // Delete its previous contents if it exists.
@@ -61,7 +64,7 @@ if (!$destination_file) {
 
 // Adding the header content to the destination file.
 echo "Adding the header content... ";
-$header_filename = "data/header-{$pointer_offset}.bin";
+$header_filename = "data/header-{$pointer_offset}{$version_suffix}.bin";
 $header_content = file_get_contents($header_filename);
 if ($header_content === false) {
     echo "Error: Could not read header file.\n";
@@ -73,8 +76,8 @@ echo " OK.\n";
 
 // Concatenate the two tilemap files into a temporary file.
 echo "Concatenating tilemap files... ";
-$first_tilemap_filename = "data/tm-{$pointer_offset}-0.bin";
-$second_tilemap_filename = "data/tm-{$pointer_offset}-1.bin";
+$first_tilemap_filename = "data/tm-{$pointer_offset}{$version_suffix}-0.bin";
+$second_tilemap_filename = "data/tm-{$pointer_offset}{$version_suffix}-1.bin";
 $first_tilemap_content = file_get_contents($first_tilemap_filename);
 $second_tilemap_content = file_get_contents($second_tilemap_filename);
 if ($first_tilemap_content === false || $second_tilemap_content === false) {

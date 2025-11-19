@@ -1,6 +1,6 @@
 - Gráficos de cenários pra editar:
   - EletroVila: Placas de "New" e "30% off"
-  - Castillo: Placas de "GIFTS", "EXIT", "JUNGLE" e "SNACKS"
+  - Castillo: Placa de "EXIT"
   - Castillo: Placas de "Restaurant", "Photo Studio" e "SNACKS"
   - ANSA: Placa de "NTP", pra mudar pra "ATP"
 - Planejar lançamento da versão 1.0

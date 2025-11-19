@@ -414,10 +414,14 @@
     .dw DendomoHotDog
 .org PonteiroDendomoHotDogTM
     .dw DendomoHotDogTM
-.org PonteiroCastillo1Entrada
-    .dw Castillo1Entrada
-.org PonteiroCastillo1EntradaTM
-    .dw Castillo1EntradaTM
+.org PonteiroCastilloEntrada
+    .dw CastilloEntrada
+.org PonteiroCastilloEntradaTM
+    .dw CastilloEntradaTM
+.org PonteiroCastilloGifts
+    .dw CastilloGifts
+.org PonteiroCastilloGiftsTM
+    .dw CastilloGiftsTM
 .org PonteiroBemVindo1
     .dw BemVindo
 .org PonteiroBemVindo2
@@ -555,7 +559,7 @@ DendomoHotDogTM:
     .endif
     .align
 
-Castillo1Entrada:
+CastilloEntrada:
     .if versao == 1
         .incbin "Graficos/Editados/BGs/Castillo - Entrada (LA).gba"
     .elseif versao == 0
@@ -563,11 +567,27 @@ Castillo1Entrada:
     .endif
     .align
 
-Castillo1EntradaTM:
+CastilloEntradaTM:
     .if versao == 1
         .incbin "Graficos/Editados/BGs/Castillo - Entrada (LA) (tm).gba"
     .elseif versao == 0
         .incbin "Graficos/Editados/BGs/Castillo - Entrada (SV) (tm).gba"
+    .endif
+    .align
+
+CastilloGifts:
+    .if versao == 1
+        .incbin "Graficos/Editados/BGs/Castillo - Gifts (LA).gba"
+    .elseif versao == 0
+        .incbin "Graficos/Editados/BGs/Castillo - Gifts (SV).gba"
+    .endif
+    .align
+
+CastilloGiftsTM:
+    .if versao == 1
+        .incbin "Graficos/Editados/BGs/Castillo - Gifts (LA) (tm).gba"
+    .elseif versao == 0
+        .incbin "Graficos/Editados/BGs/Castillo - Gifts (SV) (tm).gba"
     .endif
     .align
 

@@ -25,3 +25,12 @@ del ".\data\td-028418.bin"
 .\PixelPet.exe Run-Script .\insert_castillo1_la.ppl
 php .\split_tileset.php 02841c
 del ".\data\td-02841c.bin"
+
+:: Inserindo backgrounds do pátio do Castillo, baseado nos PNGs editados.
+.\PixelPet.exe Run-Script .\insert_castillo2_sv.ppl
+php .\split_tileset.php 028424 sv
+del ".\data\td-028424-sv.bin"
+
+.\PixelPet.exe Run-Script .\insert_castillo2_la.ppl
+php .\split_tileset.php 028428
+del ".\data\td-028428.bin"

@@ -34,10 +34,18 @@
 :: php .\tilemap_unpacker.php "..\..\Mega Man Battle Network 4 - Red Sun (USA).gba" 283CC
 :: php .\tilemap_unpacker.php "..\..\Mega Man Battle Network 4 - Blue Moon (USA).gba" 283D0
 
-:: Desempacotando gráfico de "CafePlaza", na área da Castillo
+:: Desempacotando gráfico de "CafePlaza", na área do Castillo
 :: php .\tileset_unpacker.php "..\..\Mega Man Battle Network 4 - Red Sun (USA).gba" 28418 523544
 :: php .\tileset_unpacker.php "..\..\Mega Man Battle Network 4 - Blue Moon (USA).gba" 2841C 5231E8
 
-:: Desempacotando tilemap de "CafePlaza", na área da Castillo
+:: Desempacotando tilemap de "CafePlaza", na área do Castillo
 :: php .\tilemap_unpacker.php "..\..\Mega Man Battle Network 4 - Red Sun (USA).gba" 28420
-:: php .\tilemap_unpacker.php "..\..\Mega Man Battle Network 4 - Blue Moon (USA).gba" 28424
+:: php .\tilemap_unpacker.php "..\..\Mega Man Battle Network 4 - Blue Moon (USA).gba" 28424 true
+
+:: Desempacotando gráfico de "Gifts", na área do Castillo
+:: php .\tileset_unpacker.php "..\..\Mega Man Battle Network 4 - Red Sun (USA).gba" 28424 529428 true
+:: php .\tileset_unpacker.php "..\..\Mega Man Battle Network 4 - Blue Moon (USA).gba" 28428 5290D0
+
+:: Desempacotando tilemap de "Gifts", na área do Castillo
+:: php .\tilemap_unpacker.php "..\..\Mega Man Battle Network 4 - Red Sun (USA).gba" 2842C
+:: php .\tilemap_unpacker.php "..\..\Mega Man Battle Network 4 - Blue Moon (USA).gba" 28430

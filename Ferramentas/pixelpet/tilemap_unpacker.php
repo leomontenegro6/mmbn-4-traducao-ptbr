@@ -7,24 +7,27 @@
  * data using an external tool, and stores both the header and decompressed
  * tilemap data in binary files.
  * 
- * Usage: php tilemap_unpacker.php <rom_file> <offset>
+ * Usage: php tilemap_unpacker.php <rom_file> <offset> <add_version_suffix>
  * 
  * Arguments:
  * - rom_file: Path to the ROM file.
  * - offset: Hexadecimal offset in the ROM where the tilemap pointer
  *   is located.
+ * - add_version_suffix: Boolean flag to indicate if a suffix should be added
+ *   to the output files. Optional.
  */
 
 require_once 'common.php';
 
 // Reading parameters from the command line.
-if ($argc < 3) {
-    echo "Usage: php tilemap_unpacker.php <rom_file> <offset>\n";
+if ($argc < 2) {
+    echo "Usage: php tilemap_unpacker.php <rom_file> <offset> <add_version_suffix>\n";
     exit(1);
 }
 
 $rom_file = $argv[1];
 $pointer_offset = hexdec($argv[2]);
+$add_version_suffix = isset($argv[3]) ? filter_var($argv[3], FILTER_VALIDATE_BOOLEAN) : false;
 
 if (!file_exists($rom_file)) {
     echo "Error: ROM file does not exist.\n";
@@ -45,10 +48,15 @@ $first_tilemap_offset_hex = readDword($rom, 'hex', 'b');
 $second_tilemap_offset_hex = readDword($rom, 'hex', 'b');
 $header = compact('tilemap_dimensions_hex', 'first_tilemap_offset_hex', 'second_tilemap_offset_hex');
 
+// Determine destination filename suffix.
+$destination_filename_suffix = str_pad(dechex($pointer_offset), 6, '0', STR_PAD_LEFT);
+if ($add_version_suffix) {
+    $destination_filename_suffix .= '-' . (str_contains($rom_file, 'Red Sun') ? 'sv' : 'la');
+}
+
 // Storing the header in a binary file.
 echo "Storing header in a binary file...\n";
-$destination_filename_prefix = str_pad(dechex($pointer_offset), 6, '0', STR_PAD_LEFT);
-$header_filename = "data/header-{$destination_filename_prefix}.bin";
+$header_filename = "data/header-{$destination_filename_suffix}.bin";
 $tilemap_dimensions = hex2bin($header['tilemap_dimensions_hex']);
 $first_tilemap_offset = hex2bin($header['first_tilemap_offset_hex']);
 $second_tilemap_offset = hex2bin($header['second_tilemap_offset_hex']);
@@ -84,10 +92,10 @@ $first_tilemap_size = $second_tilemap_offset_dec - $first_tilemap_offset_dec;
 $first_tilemap_data = substr($tilemap_data, 0, $first_tilemap_size);
 $second_tilemap_data = substr($tilemap_data, $first_tilemap_size);
 
-$first_tilemap_filename = "data/tm-{$destination_filename_prefix}-0.bin";
+$first_tilemap_filename = "data/tm-{$destination_filename_suffix}-0.bin";
 file_put_contents($first_tilemap_filename, $first_tilemap_data);
 
-$second_tilemap_filename = "data/tm-{$destination_filename_prefix}-1.bin";
+$second_tilemap_filename = "data/tm-{$destination_filename_suffix}-1.bin";
 file_put_contents($second_tilemap_filename, $second_tilemap_data);
 
 if (!file_exists($first_tilemap_filename)) {

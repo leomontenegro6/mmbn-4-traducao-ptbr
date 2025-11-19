@@ -47,12 +47,22 @@ move ".\data\tm-0283D0.bin" "..\..\Graficos\Editados\BGs\EletroVila - Entrada (S
 copy ".\data\img-0283C4.bin" "..\..\Graficos\Editados\BGs\EletroVila - Entrada (LA).gba"
 move ".\data\tm-0283CC.bin" "..\..\Graficos\Editados\BGs\EletroVila - Entrada (LA) (tm).gba"
 
-:: Remontando gráfico da entrada da Castillo
+:: Remontando gráfico da entrada do Castillo
 php .\tileset_repacker.php 28418
 php .\tileset_repacker.php 2841C
 php .\tilemap_repacker.php 28420
-php .\tilemap_repacker.php 28424
+php .\tilemap_repacker.php 28424 la
 copy ".\data\img-028418.bin" "..\..\Graficos\Editados\BGs\Castillo - Entrada (SV).gba"
 move ".\data\tm-028420.bin" "..\..\Graficos\Editados\BGs\Castillo - Entrada (SV) (tm).gba"
 copy ".\data\img-02841C.bin" "..\..\Graficos\Editados\BGs\Castillo - Entrada (LA).gba"
-move ".\data\tm-028424.bin" "..\..\Graficos\Editados\BGs\Castillo - Entrada (LA) (tm).gba"
+move ".\data\tm-028424-la.bin" "..\..\Graficos\Editados\BGs\Castillo - Entrada (LA) (tm).gba"
+
+:: Remontando gráfico de "Gifts", na área do Castillo
+php .\tileset_repacker.php 28424 sv
+php .\tileset_repacker.php 28428
+php .\tilemap_repacker.php 2842C
+php .\tilemap_repacker.php 28430
+copy ".\data\img-028424-sv.bin" "..\..\Graficos\Editados\BGs\Castillo - Gifts (SV).gba"
+move ".\data\tm-02842C.bin" "..\..\Graficos\Editados\BGs\Castillo - Gifts (SV) (tm).gba"
+copy ".\data\img-028428.bin" "..\..\Graficos\Editados\BGs\Castillo - Gifts (LA).gba"
+move ".\data\tm-028430.bin" "..\..\Graficos\Editados\BGs\Castillo - Gifts (LA) (tm).gba"

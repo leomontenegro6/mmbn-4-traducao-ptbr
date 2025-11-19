@@ -7,7 +7,7 @@
  * data using an external tool, and stores both the header and decompressed
  * tileset data in binary files.
  * 
- * Usage: php tileset_unpacker.php <rom_file> <pointer_offset> <palette_offset>
+ * Usage: php tileset_unpacker.php <rom_file> <pointer_offset> <palette_offset> <add_version_suffix>
  * 
  * Arguments:
  * - rom_file: Path to the ROM file.
@@ -15,18 +15,21 @@
  *   is located.
  * - palette_offset: Hexadecimal offset in the ROM where the palette data
  *   belonging to the tilesets is located. Optional.
+ * - add_version_suffix: Boolean flag to indicate if a suffix should be added
+ *   to the output files. Optional.
  */
 
 require_once 'common.php';
 
 if ($argc < 3) {
-    echo "Usage: php tileset_unpacker.php <rom_file> <pointer_offset> <palette_offset>\n";
+    echo "Usage: php tileset_unpacker.php <rom_file> <pointer_offset> <palette_offset> <add_version_suffix>\n";
     exit(1);
 }
 
 $rom_file = $argv[1];
 $pointer_offset = hexdec($argv[2]);
 $palette_offset = isset($argv[3]) ? hexdec($argv[3]) : null;
+$add_version_suffix = isset($argv[4]) ? filter_var($argv[4], FILTER_VALIDATE_BOOLEAN) : false;
 
 if (!file_exists($rom_file)) {
     echo "Error: ROM file does not exist.\n";
@@ -51,10 +54,15 @@ for ($i = 0; $i < 2; $i++) {
     $header[] = compact('tileset_file_size', 'relative_pointer_offset', 'vram_size');
 }
 
+// Determine destination filename suffix.
+$destination_filename_suffix = str_pad(dechex($pointer_offset), 6, '0', STR_PAD_LEFT);
+if ($add_version_suffix) {
+    $destination_filename_suffix .= '-' . (str_contains($rom_file, 'Red Sun') ? 'sv' : 'la');
+}
+
 // Storing the header in a binary file.
 echo "Storing header in a binary file...\n";
-$destination_filename_prefix = str_pad(dechex($pointer_offset), 6, '0', STR_PAD_LEFT);
-$header_filename = "data/header-{$destination_filename_prefix}.bin";
+$header_filename = "data/header-{$destination_filename_suffix}.bin";
 $header_content = '';
 foreach ($header as $index => $tileset) {
     $tileset_file_size = hex2bin($tileset['tileset_file_size']);
@@ -76,7 +84,7 @@ foreach ($header as $index => $tileset) {
 
     // Run shell command to decompress the tilesets data.
     echo "Decompressing tileset data at offset 0x{$compressed_tileset_offset}...\n";
-    $tileset_filename = "data/td-{$destination_filename_prefix}-{$index}.bin";
+    $tileset_filename = "data/td-{$destination_filename_suffix}-{$index}.bin";
     if (file_exists($tileset_filename)) { 
         unlink($tileset_filename);
     }
@@ -95,7 +103,7 @@ foreach ($header as $index => $tileset) {
         // The split tile is the first 64 bytes o f the second tileset data.
         echo "Extracting the split tile...\n";
         $tile_data = file_get_contents($tileset_filename, false, null, 0, 64);
-        $tile_filename = "data/splt-{$destination_filename_prefix}.bin";
+        $tile_filename = "data/splt-{$destination_filename_suffix}.bin";
         file_put_contents($tile_filename, $tile_data);
 
         if (file_exists($tile_filename)) {
@@ -110,7 +118,7 @@ foreach ($header as $index => $tileset) {
 // Extracting palette data if palette offset is provided.
 if ($palette_offset !== null) {
     echo "Extracting palette data...\n";
-    $palette_filename = "data/pal-{$destination_filename_prefix}.bin";
+    $palette_filename = "data/pal-{$destination_filename_suffix}.bin";
     $palette_size = 0x1A0;
 
     fseek($rom, $palette_offset);

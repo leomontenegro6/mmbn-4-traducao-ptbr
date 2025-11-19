@@ -11,29 +11,32 @@
  * two files: "td-0283e8-0.bin" and "td-0283e8-1.bin", using as a split point
  * the data from the "splt-0283e8.bin" file.
  * 
- * Usage: php split_tileset.php <offset>
+ * Usage: php split_tileset.php <offset> <version_suffix>
  * 
  * Arguments:
  * - offset: The offset used to identify the combined tileset.
+ * - version_suffix: (optional) Suffix to identify the game version,
+ *   e.g. "sv" or "la".
  */
 
 require_once 'common.php';
 
 // Reading parameters from the command line.
 if ($argc < 1) {
-    echo "Usage: php split_tileset.php <offset>\n";
+    echo "Usage: php split_tileset.php <offset> <version_suffix>\n";
     exit(1);
 }
 
 $offset = $argv[1];
+$version_suffix = isset($argv[2]) ? "-{$argv[2]}" : '';
 
-$combined_tileset_filename = "data/td-{$offset}.bin";
+$combined_tileset_filename = "data/td-{$offset}{$version_suffix}.bin";
 if (!file_exists($combined_tileset_filename)) {
     echo "Error: Combined tileset file does not exist.\n";
     exit(1);
 }
 
-$split_point_tile_filename = "data/splt-{$offset}.bin";
+$split_point_tile_filename = "data/splt-{$offset}{$version_suffix}.bin";
 if (!file_exists($split_point_tile_filename)) {
     echo "Error: Split point tilemap file is required.\n";
     echo "Please generate a file at \"$split_point_tile_filename\" with a single ";
@@ -64,8 +67,8 @@ while (!feof($combined_tileset_file)) {
 echo 'Split offset: 0x' . dechex($split_offset) . "\n";
 fseek($combined_tileset_file, 0, SEEK_SET);
 
-$first_splitted_tileset = "data/td-{$offset}-0.bin";
-$second_splitted_tileset = "data/td-{$offset}-1.bin";
+$first_splitted_tileset = "data/td-{$offset}{$version_suffix}-0.bin";
+$second_splitted_tileset = "data/td-{$offset}{$version_suffix}-1.bin";
 $f1 = fopen($first_splitted_tileset, 'wb');
 $f2 = fopen($second_splitted_tileset, 'wb');
 if ($f1 === false || $f2 === false) {
