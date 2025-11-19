@@ -197,8 +197,9 @@ PonteiroTelaRedeTrocaChipsOkYesNoWait equ 0x0803CF14
 PonteiroTelaRedeTrocaProgramasOkYesNoWait equ 0x0803E490
 PonteiroTelasForuns equ 0x08049630
 PonteiroLetreirosTorneios equ 0x08043B30
-PonteiroGet equ 0x08027B9C
 PonteiroBlock equ 0x08028264
+PonteiroGet equ 0x08027B9C
+PonteiroExit equ 0x08027EE8
 PonteiroGameOver equ 0x08048C78
 PonteiroGameOverTM equ 0x08048C84
 PonteiroMetadadosDialogosCreditos equ 0x08110328

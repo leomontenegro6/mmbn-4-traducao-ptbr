@@ -1,6 +1,6 @@
 - Gráficos de cenários pra editar:
-  - EletroVila: Placas de "New" e "30% off"
-  - Castillo: Placa de "EXIT"
+  - PC do Lan: mudar sprite do ícone de INN pra HOTEL
+  - EletroVila: Placas de "New" e "30% off", adicionar "Temos que comprar" ao JOMON.
   - Castillo: Placas de "Restaurant", "Photo Studio" e "SNACKS"
   - ANSA: Placa de "NTP", pra mudar pra "ATP"
 - Planejar lançamento da versão 1.0

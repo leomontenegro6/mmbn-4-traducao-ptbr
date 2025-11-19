@@ -460,10 +460,12 @@
     .dw TelasForuns
 .org PonteiroLetreirosTorneios
     .dw LetreirosTorneios
-.org PonteiroGet
-    .dw Get
 .org PonteiroBlock
     .dw Block
+.org PonteiroGet
+    .dw Get
+.org PonteiroExit
+    .dw Exit
 .org PonteiroGameOver
     .dw GameOver
 .org PonteiroGameOverTM
@@ -647,12 +649,16 @@ LetreirosTorneios:
     .endif
     .align
 
+Block:
+    .incbin "Graficos/Editados/Block.gba"
+    .align
+
 Get:
     .incbin "Graficos/Editados/Get.gba"
     .align
 
-Block:
-    .incbin "Graficos/Editados/Block.gba"
+Exit:
+    .lz77gba "Graficos/Editados/Exit.gba"
     .align
 
 GameOver:

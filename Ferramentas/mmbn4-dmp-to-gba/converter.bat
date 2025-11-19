@@ -9,3 +9,8 @@ copy ".\data\Block.dmp" "..\..\Graficos\Editados\Block.gba"
 
 :: Copiando sprite do "GET" para a pasta de gráficos editados.
 copy ".\data\Get.dmp" "..\..\Graficos\Editados\Get.gba"
+
+:: Copiando sprite do "EXIT" para a pasta de gráficos editados.
+php .\convert.php ".\data\Exit.dmp"
+copy ".\data\Exit.gba" "..\..\Graficos\Editados\Exit.gba"
+del ".\data\Exit.gba"
