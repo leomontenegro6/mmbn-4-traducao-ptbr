@@ -446,6 +446,8 @@
     .dw AnsaLetreiro
 .org PonteiroAnsaInformacoes
     .dw AnsaInformacoes
+.org PonteiroAnsaTopo
+    .dw AnsaTopo
 .org PonteiroTelaSubchipsNomesDireita
     .dw TelaSubchipsNomesDireita
 .org PonteiroTelaEmailNew
@@ -633,6 +635,10 @@ AnsaInformacoes:
     .elseif versao == 0
         .incbin "Graficos/Editados/BGs/ANSA - Informacoes (SV).gba"
     .endif
+    .align
+
+AnsaTopo:
+    .incbin "Graficos/Editados/BGs/ANSA - Topo.gba"
     .align
 
 TelaSubchipsNomesDireita:

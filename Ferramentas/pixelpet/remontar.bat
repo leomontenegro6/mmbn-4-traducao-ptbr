@@ -21,6 +21,10 @@ php .\tileset_repacker.php 28500
 copy ".\data\img-0284FC.bin" "..\..\Graficos\Editados\BGs\ANSA - Informacoes (SV).gba"
 copy ".\data\img-028500.bin" "..\..\Graficos\Editados\BGs\ANSA - Informacoes (LA).gba"
 
+:: Remontando gráfico da "NTP", do topo na ANSA.
+php .\tileset_repacker.php 284E4
+copy ".\data\img-0284E4.bin" "..\..\Graficos\Editados\BGs\ANSA - Topo.gba"
+
 :: Remontando gráfico de dentro da Loja do Higsby, na Cidade ACDC.
 php .\tileset_repacker.php 283B8
 php .\tileset_repacker.php 283BC

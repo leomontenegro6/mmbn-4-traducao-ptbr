@@ -190,6 +190,7 @@ PonteiroBemVindo7 equ 0x080285D4
 PonteiroBemVindo8 equ 0x080285E0
 PonteiroAnsaLetreiro equ 0x080284F0
 PonteiroAnsaInformacoes equ 0x080284FC
+PonteiroAnsaTopo equ 0x080284E4
 PonteiroTelaSubchipsNomesDireita equ 0x08031F34
 PonteiroTelaEmailNew equ 0x08031994
 PonteiroTelaRecordes equ 0x0803BC7C
