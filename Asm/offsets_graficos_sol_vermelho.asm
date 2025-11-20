@@ -200,6 +200,7 @@ PonteiroLetreirosTorneios equ 0x08043B30
 PonteiroBlock equ 0x08028264
 PonteiroGet equ 0x08027B9C
 PonteiroExit equ 0x08027EE8
+PonteiroQuadradosTeleportsLocalidades equ 0x08027E88
 PonteiroGameOver equ 0x08048C78
 PonteiroGameOverTM equ 0x08048C84
 PonteiroMetadadosDialogosCreditos equ 0x08110328

@@ -466,6 +466,8 @@
     .dw Get
 .org PonteiroExit
     .dw Exit
+.org PonteiroQuadradosTeleportsLocalidades
+    .dw QuadradosTeleportsLocalidades
 .org PonteiroGameOver
     .dw GameOver
 .org PonteiroGameOverTM
@@ -659,6 +661,10 @@ Get:
 
 Exit:
     .lz77gba "Graficos/Editados/Exit.gba"
+    .align
+
+QuadradosTeleportsLocalidades:
+    .lz77gba "Graficos/Editados/Quadrados Teleports Localidades.gba"
     .align
 
 GameOver:

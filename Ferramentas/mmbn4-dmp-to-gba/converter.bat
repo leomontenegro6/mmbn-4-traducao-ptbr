@@ -14,3 +14,8 @@ copy ".\data\Get.dmp" "..\..\Graficos\Editados\Get.gba"
 php .\convert.php ".\data\Exit.dmp"
 copy ".\data\Exit.gba" "..\..\Graficos\Editados\Exit.gba"
 del ".\data\Exit.gba"
+
+:: Copiando sprite do "INN" para a pasta de gráficos editados.
+php .\convert.php ".\data\Quadrados Teleports Localidades.dmp"
+copy ".\data\Quadrados Teleports Localidades.gba" "..\..\Graficos\Editados\Quadrados Teleports Localidades.gba"
+del ".\data\Quadrados Teleports Localidades.gba"

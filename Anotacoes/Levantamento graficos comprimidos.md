@@ -3,7 +3,7 @@
 | Offset   | Descrição                                   | Codec | Editado |
 |----------|---------------------------------------------|-------|---------|
 | 0x49C2BC | EXIT                                        | 4bpp  | Sim     |
-| 0x4926F4 | Quadrados Teleports Localidades             | 4bpp  |         |
+| 0x4926F4 | Quadrados Teleports Localidades             | 4bpp  | Sim     |
 | 0x4C3FA0 | Letras Nomes Localidades                    | 4bpp  | Sim     |
 | 0x4BF70C | 88 Points                                   | 4bpp  | Sim     |
 | 0x6F1740 | Move Remove                                 | 4bpp  |         |
