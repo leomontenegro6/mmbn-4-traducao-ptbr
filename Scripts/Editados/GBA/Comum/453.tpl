@@ -39,7 +39,7 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	mugshotShow
 		mugshot = Mayl
-	"Oi, Sr.Hikari."
+	"Oi, Sr. Hikari."
 	keyWait
 		any = false
 	clearMsg
