@@ -66,3 +66,13 @@ copy ".\data\img-028424-sv.bin" "..\..\Graficos\Editados\BGs\Castillo - Gifts (S
 move ".\data\tm-02842C.bin" "..\..\Graficos\Editados\BGs\Castillo - Gifts (SV) (tm).gba"
 copy ".\data\img-028428.bin" "..\..\Graficos\Editados\BGs\Castillo - Gifts (LA).gba"
 move ".\data\tm-028430.bin" "..\..\Graficos\Editados\BGs\Castillo - Gifts (LA) (tm).gba"
+
+:: Remontando gráfico de "Restaurante / Estúdio Foto", na área do Castillo
+php .\tileset_repacker.php 28448
+php .\tileset_repacker.php 2844C
+php .\tilemap_repacker.php 28450
+php .\tilemap_repacker.php 28454
+copy ".\data\img-028448.bin" "..\..\Graficos\Editados\BGs\Castillo - Restaurante (SV).gba"
+move ".\data\tm-028450.bin" "..\..\Graficos\Editados\BGs\Castillo - Restaurante (SV) (tm).gba"
+copy ".\data\img-02844C.bin" "..\..\Graficos\Editados\BGs\Castillo - Restaurante (LA).gba"
+move ".\data\tm-028454.bin" "..\..\Graficos\Editados\BGs\Castillo - Restaurante (LA) (tm).gba"

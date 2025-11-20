@@ -49,3 +49,11 @@
 :: Desempacotando tilemap de "Gifts", na área do Castillo
 :: php .\tilemap_unpacker.php "..\..\Mega Man Battle Network 4 - Red Sun (USA).gba" 2842C
 :: php .\tilemap_unpacker.php "..\..\Mega Man Battle Network 4 - Blue Moon (USA).gba" 28430
+
+:: Desempacotando gráfico de "Restaurant/Photo Studio", na área do Castillo
+:: php .\tileset_unpacker.php "..\..\Mega Man Battle Network 4 - Red Sun (USA).gba" 28448 5382C4
+:: php .\tileset_unpacker.php "..\..\Mega Man Battle Network 4 - Blue Moon (USA).gba" 2844C 5381E8
+
+:: Desempacotando tilemap de "Restaurant/Photo Studio", na área do Castillo
+:: php .\tilemap_unpacker.php "..\..\Mega Man Battle Network 4 - Red Sun (USA).gba" 28450
+:: php .\tilemap_unpacker.php "..\..\Mega Man Battle Network 4 - Blue Moon (USA).gba" 28454

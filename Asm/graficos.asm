@@ -422,6 +422,10 @@
     .dw CastilloGifts
 .org PonteiroCastilloGiftsTM
     .dw CastilloGiftsTM
+.org PonteiroCastilloRestaurante
+    .dw CastilloRestaurante
+.org PonteiroCastilloRestauranteTM
+    .dw CastilloRestauranteTM
 .org PonteiroBemVindo1
     .dw BemVindo
 .org PonteiroBemVindo2
@@ -592,6 +596,22 @@ CastilloGiftsTM:
         .incbin "Graficos/Editados/BGs/Castillo - Gifts (LA) (tm).gba"
     .elseif versao == 0
         .incbin "Graficos/Editados/BGs/Castillo - Gifts (SV) (tm).gba"
+    .endif
+    .align
+
+CastilloRestaurante:
+    .if versao == 1
+        .incbin "Graficos/Editados/BGs/Castillo - Restaurante (LA).gba"
+    .elseif versao == 0
+        .incbin "Graficos/Editados/BGs/Castillo - Restaurante (SV).gba"
+    .endif
+    .align
+
+CastilloRestauranteTM:
+    .if versao == 1
+        .incbin "Graficos/Editados/BGs/Castillo - Restaurante (LA) (tm).gba"
+    .elseif versao == 0
+        .incbin "Graficos/Editados/BGs/Castillo - Restaurante (SV) (tm).gba"
     .endif
     .align
 

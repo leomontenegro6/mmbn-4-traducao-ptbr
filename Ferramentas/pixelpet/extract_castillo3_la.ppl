@@ -1,0 +1,25 @@
+// Extracting palette as PNG, for later use in the insertion process
+Import-Bytes "data/pal-02844C.bin"
+Deserialize-Palettes GBA -ps 208
+Render-Palettes -cw 16
+Export-Bitmap "pngs/Castillo3 (LA).pal.png"
+
+// Extracting the first Castillo graphic set
+Import-Bytes "data/tm-028454-0.bin"
+Deserialize-Tilemap GBA-8BPP
+
+Import-Bytes "data/td-02844C-0.bin"
+Deserialize-Tileset GBA-8BPP -a
+
+Render-Tilemap 100 72
+Export-Bitmap "pngs/Castillo3-1 (LA).png"
+
+// Extracting the second Castillo graphic set
+Import-Bytes "data/tm-028454-1.bin"
+Deserialize-Tilemap GBA-8BPP
+
+Import-Bytes "data/td-02844C-1.bin"
+Deserialize-Tileset GBA-8BPP -a
+
+Render-Tilemap 100 72
+Export-Bitmap "pngs/Castillo3-2 (LA).png"

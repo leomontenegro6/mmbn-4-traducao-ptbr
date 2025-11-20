@@ -176,6 +176,8 @@ PonteiroCastilloEntrada equ 0x0802841C
 PonteiroCastilloEntradaTM equ 0x08028424
 PonteiroCastilloGifts equ 0x08028428
 PonteiroCastilloGiftsTM equ 0x08028430
+PonteiroCastilloRestaurante equ 0x0802844C
+PonteiroCastilloRestauranteTM equ 0x08028454
 PonteiroBemVindo1 equ 0x08028590
 PonteiroBemVindo2 equ 0x0802859C
 PonteiroBemVindo3 equ 0x080285A8

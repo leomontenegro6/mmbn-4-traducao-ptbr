@@ -14,3 +14,7 @@
 :: Extraindo backgrounds do pátio do Castillo para PNG.
 :: .\PixelPet.exe Run-Script .\extract_castillo2_sv.ppl
 :: .\PixelPet.exe Run-Script .\extract_castillo2_la.ppl
+
+:: Extraindo backgrounds do restaurante/estúdio foto do Castillo para PNG.
+:: .\PixelPet.exe Run-Script .\extract_castillo3_sv.ppl
+:: .\PixelPet.exe Run-Script .\extract_castillo3_la.ppl
