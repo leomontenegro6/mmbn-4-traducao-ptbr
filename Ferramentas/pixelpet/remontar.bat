@@ -42,14 +42,24 @@ copy ".\data\img-0283EC.bin" "..\..\Graficos\Editados\BGs\DenDomo - Hot Dog (LA)
 move ".\data\tm-0283F4.bin" "..\..\Graficos\Editados\BGs\DenDomo - Hot Dog (LA) (tm).gba"
 
 :: Remontando gráfico da entrada da área da EletroVila
-php .\tileset_repacker.php 283C8
 php .\tileset_repacker.php 283C4
-php .\tilemap_repacker.php 283D0
+php .\tileset_repacker.php 283C8
 php .\tilemap_repacker.php 283CC
-copy ".\data\img-0283C8.bin" "..\..\Graficos\Editados\BGs\EletroVila - Entrada (SV).gba"
-move ".\data\tm-0283D0.bin" "..\..\Graficos\Editados\BGs\EletroVila - Entrada (SV) (tm).gba"
-copy ".\data\img-0283C4.bin" "..\..\Graficos\Editados\BGs\EletroVila - Entrada (LA).gba"
-move ".\data\tm-0283CC.bin" "..\..\Graficos\Editados\BGs\EletroVila - Entrada (LA) (tm).gba"
+php .\tilemap_repacker.php 283D0 la
+copy ".\data\img-0283C4.bin" "..\..\Graficos\Editados\BGs\EletroVila - Entrada (SV).gba"
+move ".\data\tm-0283CC.bin" "..\..\Graficos\Editados\BGs\EletroVila - Entrada (SV) (tm).gba"
+copy ".\data\img-0283C8.bin" "..\..\Graficos\Editados\BGs\EletroVila - Entrada (LA).gba"
+move ".\data\tm-0283D0-la.bin" "..\..\Graficos\Editados\BGs\EletroVila - Entrada (LA) (tm).gba"
+
+:: Remontando gráfico da loja Jomon da área da EletroVila
+php .\tileset_repacker.php 283D0 sv
+php .\tileset_repacker.php 283D4
+php .\tilemap_repacker.php 283D8
+php .\tilemap_repacker.php 283DC
+copy ".\data\img-0283D0-sv.bin" "..\..\Graficos\Editados\BGs\EletroVila - Jomon (SV).gba"
+move ".\data\tm-0283D8.bin" "..\..\Graficos\Editados\BGs\EletroVila - Jomon (SV) (tm).gba"
+copy ".\data\img-0283D4.bin" "..\..\Graficos\Editados\BGs\EletroVila - Jomon (LA).gba"
+move ".\data\tm-0283DC.bin" "..\..\Graficos\Editados\BGs\EletroVila - Jomon (LA) (tm).gba"
 
 :: Remontando gráfico da entrada do Castillo
 php .\tileset_repacker.php 28418

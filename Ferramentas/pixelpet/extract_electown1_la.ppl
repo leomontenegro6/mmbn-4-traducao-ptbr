@@ -1,25 +1,25 @@
 // Extracting palette as PNG, for later use in the insertion process
-Import-Bytes "data/pal-0283c4.bin"
+Import-Bytes "data/pal-0283c8.bin"
 Deserialize-Palettes GBA -ps 208
 Render-Palettes -cw 16
-Export-Bitmap "pngs/ElecTown (LA).pal.png"
+Export-Bitmap "pngs/ElecTown1 (LA).pal.png"
 
 // Extracting the first ElecTown graphic set
-Import-Bytes "data/tm-0283cc-0.bin"
+Import-Bytes "data/tm-0283d0-la-0.bin"
 Deserialize-Tilemap GBA-8BPP
 
-Import-Bytes "data/td-0283c4-0.bin"
+Import-Bytes "data/td-0283c8-0.bin"
 Deserialize-Tileset GBA-8BPP -a
 
 Render-Tilemap 140 58
-Export-Bitmap "pngs/ElecTown1 (LA).png"
+Export-Bitmap "pngs/ElecTown1-1 (LA).png"
 
 // Extracting the second ElecTown graphic set
-Import-Bytes "data/tm-0283cc-1.bin"
+Import-Bytes "data/tm-0283d0-la-1.bin"
 Deserialize-Tilemap GBA-8BPP
 
-Import-Bytes "data/td-0283c4-1.bin"
+Import-Bytes "data/td-0283c8-1.bin"
 Deserialize-Tileset GBA-8BPP -a
 
 Render-Tilemap 140 58
-Export-Bitmap "pngs/ElecTown2 (LA).png"
+Export-Bitmap "pngs/ElecTown1-2 (LA).png"

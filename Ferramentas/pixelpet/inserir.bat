@@ -10,12 +10,21 @@ del ".\data\td-0283ec.bin"
 
 :: Inserindo backgrounds da entrada da EletroVila, baseado nos PNGs editados.
 .\PixelPet.exe Run-Script .\insert_electown1_sv.ppl
+php .\split_tileset.php 0283c4
+del ".\data\td-0283c4.bin"
+
+.\PixelPet.exe Run-Script .\insert_electown1_la.ppl
 php .\split_tileset.php 0283c8
 del ".\data\td-0283c8.bin"
 
-.\PixelPet.exe Run-Script .\insert_electown1_la.ppl
-php .\split_tileset.php 0283c4
-del ".\data\td-0283c4.bin"
+:: Inserindo backgrounds da loja Jomon da EletroVila, baseado nos PNGs editados.
+.\PixelPet.exe Run-Script .\insert_electown2_sv.ppl
+php .\split_tileset.php 0283d0 sv
+del ".\data\td-0283d0-sv.bin"
+
+.\PixelPet.exe Run-Script .\insert_electown2_la.ppl
+php .\split_tileset.php 0283d4
+del ".\data\td-0283d4.bin"
 
 :: Inserindo backgrounds da entrada do Castillo, baseado nos PNGs editados.
 .\PixelPet.exe Run-Script .\insert_castillo1_sv.ppl

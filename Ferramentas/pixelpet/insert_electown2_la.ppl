@@ -1,26 +1,26 @@
 // Reading palette from PNG file
-Import-Bitmap "pngs/ElecTown1 (LA).pal.png"
+Import-Bitmap "pngs/ElecTown2 (LA).pal.png"
 Convert-Bitmap GBA --sloppy
 Read-Palettes -ps 208
 Convert-Palettes GBA
 
-// Generating tilemap from the first ElecTown graphic set
-Import-Bitmap "pngs/ElecTown1-1 (LA).png"
+// Generating tilemap from the second ElecTown graphic set
+Import-Bitmap "pngs/ElecTown2-1 (LA).png"
 Convert-Bitmap GBA --sloppy
 Generate-Tilemap GBA-8BPP
 
 Serialize-Tilemap
-Export-Bytes "data/tm-0283d0-la-0.bin"
+Export-Bytes "data/tm-0283dc-0.bin"
 Clear-Tilemap
 
-// Generating tilemap from the first ElecTown graphic set
-Import-Bitmap "pngs/ElecTown1-2 (LA).png"
+// Generating tilemap from the second ElecTown graphic set
+Import-Bitmap "pngs/ElecTown2-2 (LA).png"
 Convert-Bitmap GBA --sloppy
 Generate-Tilemap GBA-8BPP -a
 
 Serialize-Tilemap
-Export-Bytes "data/tm-0283d0-la-1.bin"
+Export-Bytes "data/tm-0283dc-1.bin"
 
 // Generating combined tilesets from both tilemaps. It'll be splitted later.
 Serialize-Tileset
-Export-Bytes "data/td-0283c8.bin"
+Export-Bytes "data/td-0283d4.bin"

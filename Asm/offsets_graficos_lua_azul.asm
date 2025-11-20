@@ -170,6 +170,8 @@ PonteiroCidadeACDCHigsbys equ 0x08028374
 PonteiroLojaHigsbyInterior equ 0x080283BC
 PonteiroEletrovilaEntrada equ 0x080283C8
 PonteiroEletrovilaEntradaTM equ 0x080283D0
+PonteiroEletrovilaJomon equ 0x080283D4
+PonteiroEletrovilaJomonTM equ 0x080283DC
 PonteiroDendomoHotDog equ 0x080283EC
 PonteiroDendomoHotDogTM equ 0x080283F4
 PonteiroCastilloEntrada equ 0x0802841C

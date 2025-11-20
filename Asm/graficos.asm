@@ -410,6 +410,10 @@
     .dw EletrovilaEntrada
 .org PonteiroEletrovilaEntradaTM
     .dw EletrovilaEntradaTM
+.org PonteiroEletrovilaJomon
+    .dw EletrovilaJomon
+.org PonteiroEletrovilaJomonTM
+    .dw EletrovilaJomonTM
 .org PonteiroDendomoHotDog
     .dw DendomoHotDog
 .org PonteiroDendomoHotDogTM
@@ -550,6 +554,22 @@ EletrovilaEntradaTM:
         .incbin "Graficos/Editados/BGs/EletroVila - Entrada (LA) (tm).gba"
     .elseif versao == 0
         .incbin "Graficos/Editados/BGs/EletroVila - Entrada (SV) (tm).gba"
+    .endif
+    .align
+
+EletrovilaJomon:
+    .if versao == 1
+        .incbin "Graficos/Editados/BGs/EletroVila - Jomon (LA).gba"
+    .elseif versao == 0
+        .incbin "Graficos/Editados/BGs/EletroVila - Jomon (SV).gba"
+    .endif
+    .align
+
+EletrovilaJomonTM:
+    .if versao == 1
+        .incbin "Graficos/Editados/BGs/EletroVila - Jomon (LA) (tm).gba"
+    .elseif versao == 0
+        .incbin "Graficos/Editados/BGs/EletroVila - Jomon (SV) (tm).gba"
     .endif
     .align
 
