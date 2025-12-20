@@ -3045,7 +3045,7 @@ script 218 mmbn4 {
 		delay = 0
 	"""
 	Espada
-	Reploide
+	reploide
 	corta 3x
 	"""
 	keyWait
