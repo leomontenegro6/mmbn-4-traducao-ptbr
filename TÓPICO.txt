@@ -1,4 +1,4 @@
-[img]CAPAS GIF[/img]
+[img]https://i.imgur.com/eNzA3TK.gif[/img]
 
 —————————————————–
 [b]Informações[/b]
@@ -78,7 +78,7 @@ Graças a todo esse imenso trabalho em equipe, finalizamos essa tradução e lan
 Changelog
 —————————————————–
 
-[b]Versão 1.0[/b]: xx/12/2025
+[b]Versão 1.0[/b]: 20/12/2025
  Primeiro lançamento.
 
 —————————————————–
@@ -97,12 +97,12 @@ Changelog
 [b]Imagens[/b]
 —————————————————–
 
-[img][/img] [img][/img] [img][/img]
-[img][/img] [img][/img] [img][/img]
-[img][/img] [img][/img] [img][/img]
-[img][/img] [img][/img] [img][/img]
-[img][/img] [img][/img] [img][/img]
-[img][/img]
+[img]https://i.imgur.com/Y5EV7wz.png[/img] [img]https://i.imgur.com/BWHTtRC.png[/img] [img]https://i.imgur.com/MEfLaaw.png[/img]
+[img]https://i.imgur.com/BZsqjmV.png[/img] [img]https://i.imgur.com/GMvO879.png[/img] [img]https://i.imgur.com/GOr0RCL.png[/img]
+[img]https://i.imgur.com/K34Vvm3.png[/img] [img]https://i.imgur.com/SdXShMN.png[/img] [img]https://i.imgur.com/TGe4o2w.png[/img]
+[img]https://i.imgur.com/gFNhsJR.png[/img] [img]https://i.imgur.com/lIxsiTw.png[/img] [img]https://i.imgur.com/OIDsjF6.png[/img]
+[img]https://i.imgur.com/aOZ3ogc.png[/img] [img]https://i.imgur.com/JUwVABo.png[/img] [img]https://i.imgur.com/F7gfaVv.png[/img]
+[img]https://i.imgur.com/CWPYoIc.png[/img]
 
 —————————————————–
 [b][i]Patch[/i][/b]

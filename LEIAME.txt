@@ -42,7 +42,7 @@ Graças a todo esse imenso trabalho em equipe, finalizamos essa tradução e lan
 Atualizações da Tradução
 ------------------
 
-Versão 1.0: xx/12/2025
+Versão 1.0: 20/12/2025
  Primeiro lançamento.
 
 ------------------
