@@ -657,7 +657,7 @@ script 26 mmbn4 {
 		mugshot = MegaMan
 	"""
 	Só se pode usar
-	 
+	
 	"""
 	printBuffer
 		buffer = 1
@@ -686,7 +686,7 @@ script 27 mmbn4 {
 		mugshot = MegaMan
 	"""
 	Só se pode usar
-	 
+	
 	"""
 	printBuffer
 		buffer = 1
@@ -1217,7 +1217,7 @@ script 71 mmbn4 {
 	waitHold
 }
 script 73 mmbn4s {
-	"Reg.Mem "
+	"MemPadr "
 	printBuffer
 		buffer = 0
 		minLength = 2

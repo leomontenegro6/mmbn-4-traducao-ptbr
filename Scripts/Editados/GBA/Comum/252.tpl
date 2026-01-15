@@ -587,8 +587,8 @@ script 19 mmbn4 {
 	clearMsg
 	"""
 	Há um Navi na Área
-	ACDC que é especia-
-	lista em Mettaurs.
+	ACDC que é especialista
+	em Mettaurs.
 	"""
 	keyWait
 		any = false

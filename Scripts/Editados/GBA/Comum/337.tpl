@@ -632,17 +632,17 @@ script 30 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	♪JO-JOMON!
+	♪ JO-JOMON!
 	TEMOS QUE COMPRAR!
-	ISSO EU SEI!♪
+	ISSO EU SEI! ♪
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	♪COMPRÁ-LOS EU
+	♪ COMPRÁ-LOS EU
 	TENTAREI! VAI SER
-	TANTA PROMOÇÃO!♪
+	TANTA PROMOÇÃO! ♪
 	"""
 	keyWait
 		any = false

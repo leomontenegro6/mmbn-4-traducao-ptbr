@@ -164,7 +164,7 @@ script 5 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"\"Flandrô é um\n guerreiro de\naço..."
+	"\"Flandrô é um\n guerreiro de\n aço..."
 	keyWait
 		any = false
 	clearMsg
@@ -192,7 +192,7 @@ script 5 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	" Flandrô queria ser\n desmontando e\n virar brinquedos."
+	" Flandrô queria ser\n desmontado e\n virar brinquedos."
 	keyWait
 		any = false
 	clearMsg
@@ -307,7 +307,7 @@ script 9 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	" Ela arranca uma\n Poderosa Espada da\nárvore"
+	" Ela arranca uma\n Poderosa Espada da\n árvore"
 	keyWait
 		any = false
 	clearMsg

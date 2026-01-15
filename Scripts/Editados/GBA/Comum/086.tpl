@@ -22,7 +22,7 @@ script 10 mmbn4 {
 	msgOpen
 	"""
 	MegaMan! Vai atrás
-	do Navi do Dr.Regal!
+	do Navi do Dr. Regal!
 	"""
 	keyWait
 		any = false

@@ -107,9 +107,9 @@ script 6 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	E ele queria tanto
-	ser jogador profis-
-	sional de beisebol!
+	E ele queria tanto ser
+	jogador profissional
+	de beisebol!
 	"""
 	keyWait
 		any = false

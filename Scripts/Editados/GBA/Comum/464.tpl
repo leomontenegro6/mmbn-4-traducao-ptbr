@@ -217,7 +217,7 @@ script 13 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"É um chip demoníaco!"
+	"É um chip diabólico!"
 	keyWait
 		any = false
 	clearMsg
@@ -227,7 +227,7 @@ script 13 mmbn4 {
 script 14 mmbn4 {
 	mugshotShow
 		mugshot = Lan
-	"Um chip demoníaco?"
+	"Um chip diabólico?"
 	keyWait
 		any = false
 	clearMsg

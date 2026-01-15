@@ -133,8 +133,8 @@ script 8 mmbn4 {
 	msgOpen
 	"""
 	Essa é a sala de
-	espera dos funcio-
-	nários do torneio.
+	espera dos funcionários
+	do torneio.
 	"""
 	keyWait
 		any = false

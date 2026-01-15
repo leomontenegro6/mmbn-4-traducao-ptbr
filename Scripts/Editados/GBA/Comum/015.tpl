@@ -201,7 +201,7 @@ script 15 mmbn4 {
 	"""
 	Ótimo. Agora, vamos
 	instalar um
-	"Ataq+1".
+	"Ataque+1".
 	"""
 	keyWait
 		any = false
@@ -218,7 +218,7 @@ script 16 mmbn4 {
 	"""
 	Epa!
 	Esse não é o
-	"Ataq+1"!
+	"Ataque+1"!
 	"""
 	keyWait
 		any = false
@@ -257,7 +257,7 @@ script 20 mmbn4 {
 	"""
 	Agora, a segunda
 	regra. Veja bem o
-	"Ataq+1".
+	"Ataque+1".
 	"""
 	keyWait
 		any = false
@@ -294,7 +294,7 @@ script 21 mmbn4 {
 	clearMsg
 	"""
 	Enfim, vamos instalar
-	o "Ataq+1".
+	o "Ataque+1".
 	"""
 	keyWait
 		any = false
@@ -305,7 +305,7 @@ script 22 mmbn4 {
 		mugshot = Dad
 	msgOpen
 	"""
-	O "Ataq+1" é uma
+	O "Ataque+1" é uma
 	Peça Próton, então,
 	lembre-se de não
 	"""

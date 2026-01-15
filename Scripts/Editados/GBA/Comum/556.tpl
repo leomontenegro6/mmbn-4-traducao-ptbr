@@ -396,7 +396,7 @@ script 23 mmbn4 {
 script 24 mmbn4 {
 	mugshotShow
 		mugshot = Regal
-	"Dr.Hikari,"
+	"Dr. Hikari,"
 	keyWait
 		any = false
 	clearMsg

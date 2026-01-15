@@ -72,7 +72,7 @@ script 11 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	UM DIA DESTES,
+	UM DIA DESSES,
 	DOIS INTRUSOS FORAM
 	AVISTADOS NESTA ÁREA!
 	"""

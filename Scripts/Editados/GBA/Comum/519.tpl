@@ -186,7 +186,7 @@ script 11 mmbn4 {
 	msgOpen
 	"""
 	Por favor,
-	Dr.Hikari, o laser...
+	Dr. Hikari, o laser...
 	"""
 	keyWait
 		any = false
@@ -264,7 +264,7 @@ script 15 mmbn4 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	D-Dr.Hikari!
+	D-Dr. Hikari!
 	Não já é hora de
 	disparar...?
 	"""
@@ -376,7 +376,7 @@ script 22 mmbn4 {
 		mugshot = SciLabYoungMan
 	"""
 	Q-qual o problema,
-	Dr.Hikari?!
+	Dr. Hikari?!
 	"""
 	keyWait
 		any = false
@@ -538,7 +538,7 @@ script 30 mmbn4 {
 	msgOpen
 	"""
 	É-é mesmo?
-	Um plano, Dr.Regal?!
+	Um plano, Dr. Regal?!
 	"""
 	keyWait
 		any = false

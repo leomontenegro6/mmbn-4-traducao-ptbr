@@ -9,8 +9,8 @@ script 0 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Jo-Jo... Jojo...
-	Jooomooon!
+	♪ Jo-Jomon!
+	Temos que comprar! ♪
 	"""
 	keyWait
 		any = false

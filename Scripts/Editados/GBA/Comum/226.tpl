@@ -841,7 +841,7 @@ script 71 mmbn4 {
 	"""
 	Mais uma vitória e
 	você é declarado
-	o #1 de Ni-Hon?
+	o nº 1 de Ni-Hon?
 	"""
 	keyWait
 		any = false

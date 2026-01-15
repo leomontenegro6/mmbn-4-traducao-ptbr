@@ -4,7 +4,7 @@
 [b]Informações[/b]
 —————————————————–
 
-[b]Nome do jogo[/b]: MegaMan Battle Network 3
+[b]Nome do jogo[/b]: MegaMan Battle Network 4
 [b]Versão[/b]: Americana
 [b]Plataforma[/b]: Gameboy Advance
 [b]Desenvolvedora[/b]: Capcom Production Studio 2

@@ -159,6 +159,7 @@ CityBattleTournamentTM equ 0x086C6160
 HawkTournamentTM equ 0x086C6610
 BlueMoonTournamentTM equ 0x086C6AC0
 SparkManPasscodeAnswers equ 0x0808EC10
+JumpCutscenesCode equ 0x0802BDE6
 
 PonteiroLogoTelaTitulo equ 0x08025960
 PonteirosNomesTelaTitulo1 equ 0x08025950

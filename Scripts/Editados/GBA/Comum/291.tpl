@@ -530,7 +530,7 @@ script 30 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan, o Dr.Regal disse
+	Lan, o Dr. Regal disse
 	que tinha uma coisa
 	pra dar pra gente!
 	"""
@@ -563,7 +563,7 @@ script 32 mmbn4 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan, o Dr.Regal disse
+	Lan, o Dr. Regal disse
 	que tinha uma coisa
 	pra dar pra gente!
 	"""

@@ -369,7 +369,7 @@ script 91 mmbn4s {
 	end
 }
 script 92 mmbn4s {
-	"Notícia!"
+	"Toma aqui!"
 	end
 }
 script 93 mmbn4s {

@@ -417,7 +417,7 @@ script 30 mmbn4 {
 	mugshotShow
 		mugshot = BlueShirtBoy
 	msgOpen
-	"Caramba! O astro #1\nde Ni-Hon!"
+	"Caramba! O astro nº 1\nde Ni-Hon!"
 	keyWait
 		any = false
 	clearMsg

@@ -5,23 +5,23 @@ script 30 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	JO, JO, JO...
-	JOMON...!
+	♪ JO-JOMON!
+	TEMOS QUE COMPRAR!
+	ISSO EU SEI! ♪
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	JO, JO, JO...
-	JOMON...!
+	♪ COMPRÁ-LOS EU
+	TENTAREI! JO-JOMON! ♪
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PREÇO BAIXO?
-	SÓ NA JOMON
-	ELETRÔNICOS!
+	♪ JUNTOS TEREMOS QUE
+	ELETRÔNICOS VENDER! ♪
 	"""
 	keyWait
 		any = false

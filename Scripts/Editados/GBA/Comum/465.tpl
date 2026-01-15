@@ -189,7 +189,7 @@ script 8 mmbn4 {
 		mugshot = Dad
 	mugshotAnimation
 		animation = 1
-	"(Dr.Regal..."
+	"(Dr. Regal..."
 	keyWait
 		any = false
 	clearMsg

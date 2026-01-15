@@ -180,7 +180,7 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	É a Regra #7 do
+	É a Regra nº 7 do
 	Clube de NetLutas!
 	"""
 	keyWait

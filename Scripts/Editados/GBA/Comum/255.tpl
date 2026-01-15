@@ -138,14 +138,14 @@ script 5 mmbn4 {
 	"""
 	É um competidor?
 	Que tal comer um
-	dogão delicioso?
+	takoyaki delicioso?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Não dá pra lutar de
-	estômago vazio!
+	Não dá pra lutar
+	de estômago vazio!
 	"""
 	keyWait
 		any = false
@@ -321,8 +321,7 @@ script 12 mmbn4 {
 	msgOpen
 	"""
 	Parece que o público
-	lotou as
-	arquibancadas.
+	lotou as arquibancadas.
 	"""
 	keyWait
 		any = false

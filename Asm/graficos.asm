@@ -388,6 +388,11 @@
 .org SparkManPasscodeAnswers
     .stringn 0x60,0x54,0x63,0x18,0x20,0x26,0x74,0x73,0x50,0x34,0x81,0x96
 
+; Alterando código que muda o botão de pular cutscenes
+; do SELECT pro START.
+.org JumpCutscenesCode
+    .stringn 0x08
+
 ; Gráficos inseridos no final da rom, em sua maioria comprimidos.
 ; Catalogando ponteiros dos gráficos.
 .org PonteiroLogoTelaTitulo

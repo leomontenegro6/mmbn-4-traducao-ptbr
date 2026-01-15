@@ -323,7 +323,7 @@ script 12 mmbn4 {
 	msgOpen
 	"""
 	Ah! É o MegaMan!
-	O Navi #1 de Ni-Hon!
+	O Navi nº 1 de Ni-Hon!
 	"""
 	keyWait
 		any = false

@@ -172,7 +172,7 @@ script 15 mmbn4 {
 	"""
 	Você já chegou longe
 	assim! Agora se
-	torne o #1 do mundo!
+	torne o nº 1 do mundo!
 	"""
 	keyWait
 		any = false

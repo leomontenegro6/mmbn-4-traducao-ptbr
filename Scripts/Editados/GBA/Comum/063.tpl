@@ -601,7 +601,7 @@ script 159 mmbn4s {
 	end
 }
 script 160 mmbn4s {
-	"MemóriHP"
+	"MemóriPV"
 	end
 }
 script 161 mmbn4s {

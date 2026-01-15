@@ -2371,7 +2371,7 @@ script 235 mmbn4 {
 	itemGive
 		item = 160
 		amount = 1
-	"Got MemóriHP"
+	"Got MemóriPV"
 	keyWait
 		any = false
 	end

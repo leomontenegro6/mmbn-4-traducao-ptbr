@@ -678,7 +678,7 @@ script 27 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	O NetLutador #1
+	O NetLutador nº 1
 	de Ni-Hon......
 	"""
 	keyWait

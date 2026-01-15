@@ -85,8 +85,8 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	LIGUE-O E OS MORCE-
-	GOS FICARÃO VISÍVEIS
+	LIGUE-O E OS MORCEGOS
+	FICARÃO VISÍVEIS
 	TEMPORARIAMENTE.
 	"""
 	keyWait
@@ -137,8 +137,8 @@ script 0 mmbn4 {
 		mugshot = MrProgGreen
 	"""
 	POR SINAL, O SONAR SÓ
-	SE ATIVA POR PERÍO-
-	DOS DE 10 SEGUNDOS.
+	SE ATIVA POR PERÍODOS
+	DE 10 SEGUNDOS.
 	"""
 	keyWait
 		any = false

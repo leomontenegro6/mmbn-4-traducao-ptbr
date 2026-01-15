@@ -17,7 +17,7 @@ script 0 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Eu, o Lutador #1 de
+	Eu, o Lutador nº 1 de
 	ACDC, e meu Navi, o
 	GutsMan, vamos ler
 	"""

@@ -20,15 +20,15 @@ script 0 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	TRABALHANDO.
-	TRABALHANDO.
+	♪ TRABALHANDO ♪
+	♪ TRABALHANDO ♪
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TRABALHANDO ATÉ O
-	DIA RAIAR!
+	♪ VOU TRABALHANDO E
+	O DIA VAI RAIANDO! ♪
 	"""
 	keyWait
 		any = false

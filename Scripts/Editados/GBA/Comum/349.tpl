@@ -175,7 +175,7 @@ script 2 mmbn4 {
 script 3 mmbn4 {
 	msgOpen
 	"""
-	Ele balança suas
+	Ele balança sua
 	picareta
 	alegremente.
 	"""

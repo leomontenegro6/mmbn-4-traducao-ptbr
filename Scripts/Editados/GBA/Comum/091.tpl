@@ -154,8 +154,8 @@ script 10 mmbn4 {
 	msgOpen
 	"""
 	É incrível como tem
-	entrada até em coi-
-	sas finas assim...
+	entrada até em coisas
+	finas assim...
 	"""
 	keyWait
 		any = false
