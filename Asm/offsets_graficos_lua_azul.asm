@@ -153,7 +153,7 @@ WorldMapTM equ 0x086C324C
 NewForuns equ 0x086CEE04
 BattleBbsTM equ 0x086FB390
 ChatBbsTM equ 0x086FB3D4
-UnderBbsTM equ 0x086FB34C
+UnderBbsTM equ 0x086FB418
 FreeTournamentTM equ 0x086C6F70
 CityBattleTournamentTM equ 0x086C6160
 HawkTournamentTM equ 0x086C6610

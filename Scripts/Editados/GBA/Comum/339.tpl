@@ -5,23 +5,23 @@ script 30 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	♪NÓS COMPRAMOS 
+	♪ NÓS COMPRAMOS 
 	ELETROS NO JOMON!
-	JO-JOMON!♪
+	JO-JOMON! ♪
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	♪EU QUERO SER O MELHOR
-	DOS COMPRADORES!♪
+	♪ EU QUERO SER O MELHOR
+	DOS COMPRADORES! ♪
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	♪VOU PASSAR NO TESTE
-	E SEREI O MELHOR DOS...♪
+	♪ VOU PASSAR NO TESTE
+	E SEREI O MELHOR DOS...
 	"""
 	keyWait
 		any = false

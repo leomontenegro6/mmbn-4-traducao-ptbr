@@ -301,7 +301,7 @@ script 10 mmbn4s {
 	end
 }
 script 11 mmbn4s {
-	"S/M/G"
+	"P/M/G"
 	end
 }
 script 12 mmbn4s {
