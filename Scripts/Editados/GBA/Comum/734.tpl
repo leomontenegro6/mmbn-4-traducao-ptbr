@@ -289,8 +289,8 @@ script 14 mmbn4 {
 	clearMsg
 	"""
 	Eu tive uma visão de
-	um cara grandão dei-
-	tado, lá no lixo.
+	um cara grandão
+	deitado, lá no lixo.
 	"""
 	keyWait
 		any = false

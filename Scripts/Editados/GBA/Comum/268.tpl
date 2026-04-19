@@ -461,13 +461,7 @@ script 55 mmbn4 {
 	"""
 	Um Oficial veio aqui
 	e saiu dizendo pra
-	todo mundo ir pra
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	casa!
+	todo mundo ir pra casa!
 	"""
 	keyWait
 		any = false

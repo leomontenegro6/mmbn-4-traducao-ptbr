@@ -565,7 +565,7 @@ script 53 mmbn4 {
 	clearMsg
 	mugshotShow
 		mugshot = PurpleNavi
-	"Oh, c'mon!"
+	"Ah, qual é!"
 	keyWait
 		any = false
 	end

@@ -438,12 +438,8 @@ script 12 mmbn4 {
 	"""
 	mas queria que
 	vendessem mais
-	chips de NetLuta
+	chips de NetLuta aqui.
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"aqui."
 	keyWait
 		any = false
 	waitHold

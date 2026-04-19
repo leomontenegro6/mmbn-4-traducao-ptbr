@@ -321,7 +321,7 @@ script 17 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Leve ela pra Vila 4
+	Leve a chave à Vila 4
 	e irá conquistar um
 	espírito de luta
 	"""

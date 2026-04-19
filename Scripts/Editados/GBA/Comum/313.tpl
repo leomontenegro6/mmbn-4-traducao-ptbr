@@ -6,7 +6,7 @@ script 0 mmbn4 {
 	msgOpen
 	"""
 	Lan, o campo magnético
-	cdessa área é instável
+	dessa área é instável
 	demais
 	"""
 	keyWait

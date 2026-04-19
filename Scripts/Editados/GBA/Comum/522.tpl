@@ -158,7 +158,7 @@ script 12 mmbn4 {
 	soundPlay
 		track = 383
 	soundDisableTextSFX
-	"Clicc,"
+	"Clicc, "
 	wait
 		frames = 14
 	soundPlay

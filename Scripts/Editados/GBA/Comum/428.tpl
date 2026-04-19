@@ -174,7 +174,7 @@ script 13 mmbn4 {
 	clearMsg
 	"""
 	AS BATALHAS MAIS
-	MALUCA DO MUNDO!
+	MALUCAS DO MUNDO!
 	"""
 	keyWait
 		any = false

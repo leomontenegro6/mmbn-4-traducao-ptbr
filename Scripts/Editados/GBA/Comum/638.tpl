@@ -149,9 +149,9 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Higsby
 	"""
-	Vocês... nunca com-
-	pram chips. Só vêm
-	pra brincar, é.
+	Vocês... nunca compram
+	chips. Só vêm pra
+	brincar, é.
 	"""
 	keyWait
 		any = false
@@ -254,9 +254,9 @@ script 15 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	A bagunça foi resol-
-	vida. A gente pode
-	lutar sem estresse!
+	A bagunça foi resolvida.
+	A gente pode lutar sem
+	estresse!
 	"""
 	keyWait
 		any = false

@@ -125,24 +125,23 @@ script 6 mmbn4 {
 	clearMsg
 	"""
 	Sou o Chef Superior
-	da secular Associa-
-	ção Ni-Honense de
+	da secular Associação
+	Ni-Honense de Chefs!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Chefs!
 	Só falo que um curry
 	é delicioso se ele
+	realmente for incrível!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	realmente for
-	incrível! Quer mesmo
-	que eu experimente?!
+	Quer mesmo que eu
+	experimente?!
 	"""
 	keyWait
 		any = false

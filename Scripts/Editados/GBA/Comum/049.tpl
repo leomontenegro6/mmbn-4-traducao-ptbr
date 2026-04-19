@@ -807,7 +807,7 @@ script 18 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Use o Atirador!\n"
+	"Use o MegaTiro!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -864,7 +864,7 @@ script 19 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Use o Atirador!\n"
+	"Use o MegaTiro!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -1007,7 +1007,7 @@ script 22 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Use o Atirador!\n"
+	"Use o MegaTiro!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -1064,7 +1064,7 @@ script 23 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Use o Atirador!\n"
+	"Use o MegaTiro!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -1207,7 +1207,7 @@ script 26 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Use o Atirador!\n"
+	"Use o MegaTiro!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -1264,7 +1264,7 @@ script 27 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Use o Atirador!\n"
+	"Use o MegaTiro!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -1407,7 +1407,7 @@ script 30 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Use o Atirador!\n"
+	"Use o MegaTiro!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -1464,7 +1464,7 @@ script 31 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Use o Atirador!\n"
+	"Use o MegaTiro!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -1807,7 +1807,7 @@ script 38 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Use o Atirador!\n"
+	"Use o MegaTiro!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -1864,7 +1864,7 @@ script 39 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Use o Atirador!\n"
+	"Use o MegaTiro!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -2007,7 +2007,7 @@ script 42 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Use o Atirador!\n"
+	"Use o MegaTiro!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -2064,7 +2064,7 @@ script 43 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Use o Atirador!\n"
+	"Use o MegaTiro!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -2207,7 +2207,7 @@ script 46 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Use o Atirador!\n"
+	"Use o MegaTiro!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -2264,7 +2264,7 @@ script 47 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Use o Atirador!\n"
+	"Use o MegaTiro!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -2407,7 +2407,7 @@ script 50 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Use o Atirador!\n"
+	"Use o MegaTiro!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -2464,7 +2464,7 @@ script 51 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Use o Atirador!\n"
+	"Use o MegaTiro!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -2607,7 +2607,7 @@ script 54 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Use o Atirador!\n"
+	"Use o MegaTiro!\n"
 	positionOptionVertical
 		width = 13
 	option
@@ -2664,7 +2664,7 @@ script 55 mmbn4 {
 		down = 1
 	space
 		count = 1
-	"Use o Atirador!\n"
+	"Use o MegaTiro!\n"
 	positionOptionVertical
 		width = 13
 	option

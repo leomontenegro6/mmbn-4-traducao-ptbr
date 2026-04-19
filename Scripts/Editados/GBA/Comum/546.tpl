@@ -102,7 +102,7 @@ script 5 mmbn4 {
 script 6 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
-	"Míssil\nanti-planetas?"
+	"Míssil anti-planetas?"
 	keyWait
 		any = false
 	clearMsg

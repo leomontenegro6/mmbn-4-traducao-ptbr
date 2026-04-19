@@ -154,8 +154,8 @@ script 5 mmbn4 {
 	clearMsg
 	"""
 	Seja lá qual disputa
-	for, eu não vou dei-
-	xar o Lan perder!
+	for, eu não vou deixar
+	o Lan perder!
 	"""
 	keyWait
 		any = false

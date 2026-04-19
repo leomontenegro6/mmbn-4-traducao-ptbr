@@ -1000,9 +1000,9 @@ script 49 mmbn4 {
 		left = 198
 		top = 93
 	"""
-	MegaMan re-
-	cupera to-
-	dos os PV!
+	MegaMan
+	recupera
+	todos os PV!
 	"""
 	keyWait
 		any = false

@@ -271,7 +271,7 @@ script 17 mmbn4 {
 	clearMsg
 	"""
 	O Campeão também
-	é coroado nosso
+	é coroado como nosso
 	NetLutador número um!
 	"""
 	keyWait

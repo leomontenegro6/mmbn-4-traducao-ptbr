@@ -88,15 +88,14 @@ script 10 mmbn4 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	Mesmo se eu cavar,
-	meia hora depois, a
-	neve se acumula de
+	Mesmo se eu cavar, meia
+	hora depois, a neve
+	se acumula de novo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	novo!
 	EU NÃO AGUENTO MAIS
 	CAVAR!
 	"""
@@ -417,8 +416,8 @@ script 30 mmbn4 {
 	msgOpen
 	"""
 	Usamos o satélite
-	climático para bai-
-	xar temporariamente
+	climático para baixar
+	temporariamente
 	"""
 	keyWait
 		any = false

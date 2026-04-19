@@ -95,8 +95,8 @@ script 2 mmbn4 {
 	clearMsg
 	"""
 	Deve ser a casa do
-	prefeito. Ele é mui-
-	to importante aqui.
+	prefeito. Ele é muito
+	importante aqui.
 	"""
 	keyWait
 		any = false

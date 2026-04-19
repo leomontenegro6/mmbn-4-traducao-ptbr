@@ -788,8 +788,8 @@ script 23 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Aliás, falei bestei-
-	ra. Ele é brilhante
+	Aliás, falei besteira.
+	Ele é brilhante
 	demais para isso!
 	"""
 	keyWait

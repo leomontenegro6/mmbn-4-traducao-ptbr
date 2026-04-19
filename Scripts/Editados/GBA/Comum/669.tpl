@@ -63,8 +63,8 @@ script 4 mmbn4 {
 	clearMsg
 	"""
 	Pra ter uma chance,
-	vai precisar de mui-
-	to espírito de luta!
+	vai precisar de muito
+	espírito de luta!
 	"""
 	keyWait
 		any = false

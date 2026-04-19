@@ -168,8 +168,8 @@ script 6 mmbn4 {
 	clearMsg
 	"""
 	Pensei que, talvez,
-	vocês pudessem fazê-
-	lo enxergar isso.
+	vocês pudessem fazê-lo
+	enxergar isso.
 	"""
 	keyWait
 		any = false

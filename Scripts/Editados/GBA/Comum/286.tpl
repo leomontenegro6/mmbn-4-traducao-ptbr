@@ -202,9 +202,9 @@ script 20 mmbn4 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	Ouvi dizer que tem
-	um visitante ni-
-	honense famoso aqui.
+	Ouvi dizer que tem um
+	visitante ni-honense
+	famoso aqui.
 	"""
 	keyWait
 		any = false

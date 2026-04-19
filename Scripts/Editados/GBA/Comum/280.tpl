@@ -144,13 +144,13 @@ script 4 mmbn4 {
 	"""
 	Esse deve ser o
 	famoso "Herói Não
-	Celebrado". Uma
+	Celebrado".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	relíquia da história
+	Uma relíquia da história
 	ancestral e da
 	tecnologia futurista!
 	"""

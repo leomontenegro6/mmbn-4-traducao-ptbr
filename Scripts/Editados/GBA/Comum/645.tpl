@@ -98,7 +98,7 @@ script 4 mmbn4 {
 	clearMsg
 	"""
 	Aí, MegaMan, pode usar
-	o seu Atirador pra
+	o seu MegaTiro pra
 	destroçar ela?
 	"""
 	keyWait

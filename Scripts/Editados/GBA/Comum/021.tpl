@@ -420,8 +420,7 @@ script 12 mmbn4 {
 	clearMsg
 	"""
 	aqui mesmo no meu
-	país, Ni-Hon!
-	Ah, moleque!
+	país! Ah, moleque!
 	"""
 	keyWait
 		any = false
@@ -476,7 +475,7 @@ script 14 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"O coitado do Lan\ndeve estar tão\nsolitário..."
+	"O coitado do Lan\ndeve estar se\nsentindo tão só..."
 	keyWait
 		any = false
 	clearMsg

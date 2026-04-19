@@ -1278,7 +1278,7 @@ script 211 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"panfletos da loja do\nHigsby Redes\nafora!"
+	"panfletos da loja do\nHigsby redes afora!"
 	keyWait
 		any = false
 	end

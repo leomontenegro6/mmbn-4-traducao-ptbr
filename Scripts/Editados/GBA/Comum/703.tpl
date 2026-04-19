@@ -164,7 +164,7 @@ script 9 mmbn4 {
 	mugshotShow
 		mugshot = Atsuki
 	msgOpen
-	"Esse..."
+	"Este..."
 	keyWait
 		any = false
 	clearMsg
@@ -173,7 +173,7 @@ script 9 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Eu vou reduzir ele
+	Vou reduzir ele
 	a cinzas!
 	"""
 	keyWait

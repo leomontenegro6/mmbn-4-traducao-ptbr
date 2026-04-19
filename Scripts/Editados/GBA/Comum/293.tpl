@@ -59,7 +59,7 @@ script 2 mmbn4 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"E-estamos\ncondenados...!"
+	"E-estamos condenados...!"
 	keyWait
 		any = false
 	end

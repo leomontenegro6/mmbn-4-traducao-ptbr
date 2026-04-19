@@ -562,7 +562,7 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Tem o código-P, né?
+	Tem o Código-P, né?
 	"""
 	keyWait
 		any = false
@@ -741,8 +741,7 @@ script 13 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Sou um
-	ex-funcionário
+	Sou um ex-funcionário
 	do Centro Espacial!
 	"""
 	keyWait

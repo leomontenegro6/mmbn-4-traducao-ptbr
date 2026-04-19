@@ -180,8 +180,8 @@ script 6 mmbn4 {
 	clearMsg
 	"""
 	Do jeito que está,
-	sim, o asteroide cai-
-	rá direto na Terra.
+	sim, o asteroide cairá
+	direto na Terra.
 	"""
 	keyWait
 		any = false

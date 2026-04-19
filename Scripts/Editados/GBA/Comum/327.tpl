@@ -284,8 +284,7 @@ script 22 mmbn4 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Um... "Chip das
-	Trevas", é?
+	Um... "Chip das Trevas", é?
 	Interessante... É...
 	"""
 	keyWait

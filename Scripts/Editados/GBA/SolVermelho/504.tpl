@@ -4,7 +4,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Não tem ningúem\naqui..."
+	"Não tem ninguém\naqui..."
 	keyWait
 		any = false
 	clearMsg

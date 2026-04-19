@@ -126,7 +126,7 @@ script 8 mmbn4 {
 	clearMsg
 	"""
 	Escute bem. É só
-	seguir às minhas
+	seguir as minhas
 	instruções!
 	"""
 	keyWait

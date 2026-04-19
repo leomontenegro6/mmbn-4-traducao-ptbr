@@ -542,7 +542,7 @@ script 81 mmbn4 {
 	"""
 	Lan, vamos lá falar
 	com o Mestre! Ele tá
-	em Vila4!
+	em Vila 4!
 	"""
 	keyWait
 		any = false

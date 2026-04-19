@@ -1311,8 +1311,7 @@ script 25 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Adeus,
-	pseudomedicina!
+	Adeus, pseudomedicina!
 	Tome, um agradozinho!
 	"""
 	keyWait
@@ -1521,8 +1520,8 @@ script 29 mmbn4 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	"""
-	O Chefe do Clube de
-	NetLuntas, claro.
+	O Chefe do Clube
+	de NetLutas, claro.
 	Ele pode te ensinar
 	"""
 	keyWait

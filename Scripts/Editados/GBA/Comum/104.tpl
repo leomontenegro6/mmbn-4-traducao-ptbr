@@ -215,11 +215,8 @@ script 27 mmbn4 {
 	"""
 	MegaMan! Bora atrás
 	do Navi Oficial
+	na Área Ameropa!
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"na Área Ameropa!"
 	keyWait
 		any = false
 	end

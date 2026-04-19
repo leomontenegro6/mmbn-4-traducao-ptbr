@@ -556,7 +556,7 @@ script 33 mmbn4 {
 	positionArrow
 		left = 222
 		top = 141
-	"NetPass"
+	"PasspRde"
 	waitHold
 }
 script 34 mmbn4 {

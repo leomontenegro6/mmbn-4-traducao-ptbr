@@ -158,7 +158,7 @@ script 0 mmbn4 {
 	"""
 	"
 	está escondida no
-	meio de 4 ossos!
+	meio de quatro ossos!
 	"""
 	keyWait
 		any = false
@@ -166,7 +166,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	4 ossos...
+	Quatro ossos...
 	Certo!
 	Eu vou lá conferir!
 	"""

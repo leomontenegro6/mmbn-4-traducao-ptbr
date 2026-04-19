@@ -188,15 +188,9 @@ script 8 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Hmm...
-	O e-mail falou de um
-	Central Espacial de
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Sharo, não foi?
+	Hmm... O e-mail falou
+	de um Centro Espacial
+	de Sharo, não foi?
 	"""
 	keyWait
 		any = false

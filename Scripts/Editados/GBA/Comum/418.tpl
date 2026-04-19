@@ -103,7 +103,7 @@ script 6 mmbn4 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Parece que, de Vila4,
+	Parece que, de Vila 4,
 	dá pra acessar um
 	lugar medonho!
 	"""

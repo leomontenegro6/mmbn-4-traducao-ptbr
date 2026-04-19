@@ -330,8 +330,8 @@ script 18 mmbn4 {
 	clearMsg
 	"""
 	Vou ter que usar o
-	truque que eu trei-
-	nei pro torneio.
+	truque que eu treinei
+	pro torneio.
 	"""
 	keyWait
 		any = false

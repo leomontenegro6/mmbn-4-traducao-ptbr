@@ -253,7 +253,7 @@ script 12 mmbn4 {
 	clearMsg
 	"""
 	Você sempre se deixa
-	levar nestas horas!
+	levar nessas horas!
 	"""
 	keyWait
 		any = false

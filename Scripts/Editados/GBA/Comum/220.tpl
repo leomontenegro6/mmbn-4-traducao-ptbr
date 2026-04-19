@@ -17,7 +17,7 @@ script 0 mmbn4 {
 }
 script 1 mmbn4 {
 	msgOpen
-	"O UnderFórum..."
+	"O Fórum da Under..."
 	keyWait
 		any = false
 	startBBS

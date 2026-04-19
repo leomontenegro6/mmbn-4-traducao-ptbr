@@ -347,7 +347,7 @@ script 31 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	CONCORDAMOS NOS MANTER
+	DECIDIMOS NOS MANTER
 	ALEGRES QUANDO AS
 	COISAS VÃO MAL!
 	"""

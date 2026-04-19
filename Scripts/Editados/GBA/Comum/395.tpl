@@ -2,22 +2,18 @@
 
 script 130 mmbn4 {
 	msgOpen
-	"Esses Navis morreram"
-	keyWait
-		any = false
-	clearMsg
 	"""
+	Esses Navis morreram
 	com um olhar de
 	raiva e tristeza...
-	A quem será que
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
+	A quem será que
 	essa emoção estava
-	sendo
-	direcionada...?
+	sendo direcionada...?
 	"""
 	keyWait
 		any = false

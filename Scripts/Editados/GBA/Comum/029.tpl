@@ -9,7 +9,7 @@ script 0 mmbn4 {
 		left = 202
 		top = 108
 	"""
-	Este é o UnderFórum.
+	Este é o Fórum da Under.
 	"""
 	keyWait
 		any = false

@@ -349,7 +349,7 @@ script 25 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Reto, mais
+	Reto, +
 	forte so-
 	bre magma
 	"""
@@ -363,7 +363,7 @@ script 26 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	Reto, mais
+	Reto, +
 	forte so-
 	bre gelo
 	"""

@@ -173,9 +173,9 @@ script 6 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	mas, haja o que hou-
-	ver, não desistam e
-	sigam seus corações.
+	mas, haja o que houver,
+	não desistam e sigam
+	seus corações.
 	"""
 	keyWait
 		any = false

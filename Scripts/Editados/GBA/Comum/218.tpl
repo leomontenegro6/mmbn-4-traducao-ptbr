@@ -83,7 +83,7 @@ script 1 mmbn4 {
 	printItem
 		buffer = 0
 		item = 112
-	" & a\n "
+	" e a "
 	printItem
 		buffer = 0
 		item = 113

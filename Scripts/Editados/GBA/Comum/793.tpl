@@ -348,7 +348,7 @@ script 77 mmbn4s {
 	end
 }
 script 78 mmbn4s {
-	"Eric T.Lawson"
+	"Eric T. Lawson"
 	end
 }
 script 79 mmbn4s {

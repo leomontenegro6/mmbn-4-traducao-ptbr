@@ -156,8 +156,8 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	A NAM emprestou mui-
-	ta grana pro Higsby.
+	A NAM emprestou muita
+	grana pro Higsby.
 	E o retorno? Zero!
 	"""
 	keyWait
@@ -521,7 +521,7 @@ script 32 mmbn4 {
 	printItem
 		buffer = 0
 		item = 90
-	"s\"!!"
+	"\"!!"
 	keyWait
 		any = false
 	waitOWVar

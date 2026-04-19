@@ -1429,9 +1429,9 @@ script 23 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	selecionar de 10
-	chips na Tela de
-	Customização!
+	selecionar dentre
+	10 chips na Tela
+	de Customização!
 	"""
 	keyWait
 		any = false
@@ -1571,7 +1571,7 @@ script 25 mmbn4 {
 	clearMsg
 	"""
 	MetlAlma. Na união,
-	o atirador do MegaMan
+	o MegaTiro do MegaMan
 	age como um
 	"""
 	keyWait

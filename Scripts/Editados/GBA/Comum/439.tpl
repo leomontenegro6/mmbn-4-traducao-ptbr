@@ -136,9 +136,9 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Gostou do meu tesou-
-	ro? Peguei de um
-	cara em Undernet 2.
+	Gostou do meu tesouro?
+	Peguei de um cara
+	em Undernet 2.
 	"""
 	keyWait
 		any = false

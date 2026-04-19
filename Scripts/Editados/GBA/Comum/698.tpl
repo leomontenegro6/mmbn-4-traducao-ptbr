@@ -59,8 +59,8 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	O FireMan do Sr.
-	Match e o BurnMan do
+	O FireMan do Sr. Match
+	e o BurnMan do
 	Atsuki devem estar
 	"""
 	keyWait

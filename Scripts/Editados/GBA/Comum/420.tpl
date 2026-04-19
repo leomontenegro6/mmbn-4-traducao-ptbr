@@ -396,8 +396,8 @@ script 60 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	ESTÃO TODOS PROCU-
-	RANDO POR ELES...
+	ESTÃO TODOS PROCURANDO
+	POR ELES...
 	HE HE HE...
 	"""
 	keyWait

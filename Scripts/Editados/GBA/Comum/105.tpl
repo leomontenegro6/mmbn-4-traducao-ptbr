@@ -266,7 +266,7 @@ script 200 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"4 ossos."
+	"quatro ossos."
 	keyWait
 		any = false
 	end

@@ -133,7 +133,7 @@ script 32 mmbn4s {
 	end
 }
 script 33 mmbn4s {
-	"NetPassp"
+	"PasspRde"
 	end
 }
 script 34 mmbn4s {
@@ -485,7 +485,7 @@ script 120 mmbn4s {
 	end
 }
 script 121 mmbn4s {
-	"NebulaCd"
+	"CódgNebl"
 	end
 }
 script 122 mmbn4s {

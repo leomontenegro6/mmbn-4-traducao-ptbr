@@ -305,9 +305,9 @@ script 15 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	talvez, de algum jei-
-	to, ele consiga sentir
-	o nosso apoio.
+	talvez, de algum jeito,
+	ele consiga sentir o
+	nosso apoio.
 	"""
 	keyWait
 		any = false

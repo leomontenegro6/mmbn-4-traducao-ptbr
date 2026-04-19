@@ -228,7 +228,7 @@ script 84 mmbn4s {
 	end
 }
 script 85 mmbn4s {
-	"CPU CachrQnt■"
+	"CPU BolinPlv■"
 	end
 }
 script 86 mmbn4s {
@@ -516,7 +516,7 @@ script 242 mmbn4s {
 	end
 }
 script 243 mmbn4s {
-	"NAME "
+	"NOME "
 	printShortString
 	" "
 	end

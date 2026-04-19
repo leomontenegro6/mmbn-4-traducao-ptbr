@@ -44,8 +44,7 @@ script 0 mmbn4 {
 	waitSkip
 		frames = 30
 	"""
-	Ah,
-	o código-P...
+	Ah, o Código-P...
 	"""
 	keyWait
 		any = false

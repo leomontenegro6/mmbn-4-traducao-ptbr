@@ -20,7 +20,7 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Um astroide desses,
+	Um asteroide desses,
 	ao cair na Terra,
 	deixaria o planeta
 	"""

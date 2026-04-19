@@ -3,8 +3,8 @@
 script 130 mmbn4 {
 	msgOpen
 	"""
-	Esse Navi foi levado
-	ao desesperado...
+	Esses Navi foram levados
+	ao desespero...
 	"""
 	keyWait
 		any = false

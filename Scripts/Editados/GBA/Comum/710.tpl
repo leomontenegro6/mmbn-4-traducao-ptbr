@@ -71,15 +71,14 @@ script 2 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Centenária Associa-
-	ção de Chefs de
-	Ni-Hon!
+	Centenária Associação
+	de Chefs de Ni-Hon!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	É o Sr.Tabezo,
+	É o Sr. Tabezo,
 	de 70 aninhos!
 	"""
 	keyWait

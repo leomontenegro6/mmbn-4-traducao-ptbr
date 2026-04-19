@@ -128,7 +128,7 @@ script 10 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Apaixonei nela desde
+	Gamei nela desde
 	que pus os olhos!
 	"""
 	keyWait

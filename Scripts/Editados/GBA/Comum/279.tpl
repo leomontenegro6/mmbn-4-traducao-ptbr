@@ -100,7 +100,7 @@ script 0 mmbn4 {
 	mugshotShow
 		mugshot = BlackMan
 	"""
-	É um NetPassaporte,
+	É um Passaporte Rede,
 	seu acesso para as
 	Redes de vários
 	"""

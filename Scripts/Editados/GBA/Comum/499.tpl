@@ -95,7 +95,7 @@ script 3 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	para receber demais
+	para receber mais
 	instruções.
 	"""
 	keyWait

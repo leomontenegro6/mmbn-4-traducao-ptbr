@@ -145,8 +145,7 @@ script 6 mmbn4 {
 	clearMsg
 	"""
 	Darei mais detalhes
-	depois que
-	entrarmos.
+	depois que entrarmos.
 	"""
 	keyWait
 		any = false

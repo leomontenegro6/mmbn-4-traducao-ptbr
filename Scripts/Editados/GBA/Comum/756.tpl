@@ -18,8 +18,7 @@ script 1 mmbn4 {
 		mugshot = Man
 	msgOpen
 	"""
-	Obrigado,
-	jovem Campeão!
+	Obrigado, jovem Campeão!
 	"""
 	keyWait
 		any = false

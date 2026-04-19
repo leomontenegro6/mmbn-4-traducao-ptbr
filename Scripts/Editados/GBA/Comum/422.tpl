@@ -291,7 +291,7 @@ script 123 mmbn4 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Bom,'ntão volta
+	Bom, então volta
 	quando tiver!
 	"""
 	keyWait

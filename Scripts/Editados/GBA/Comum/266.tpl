@@ -21,14 +21,8 @@ script 0 mmbn4 {
 	clearMsg
 	"""
 	Ainda assim, é meio
-	grande demais para
-	eu cuidar de tudo
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	sozinha!
+	grande demais para eu
+	cuidar de tudo sozinha!
 	"""
 	keyWait
 		any = false
