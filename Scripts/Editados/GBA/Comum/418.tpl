@@ -258,8 +258,8 @@ script 25 mmbn4 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	UM VI UM NAVI COM
-	CARA DE MAU!
+	EU VI UM NAVI
+	COM CARA DE MAU!
 	"""
 	keyWait
 		any = false

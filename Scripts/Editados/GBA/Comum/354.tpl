@@ -202,7 +202,7 @@ script 4 mmbn4 {
 	"""
 	Você voltou pra
 	doar 6000 Zennys
-	para as Ruínas Sabo?
+	para as RuínasSabo?
 	"""
 	keyWait
 		any = false

@@ -140,7 +140,7 @@ script 3 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"Após uma batalha\nheróica, Django\nderrota Dracky."
+	"Após uma batalha\nheroica, Django\nderrota Dracky."
 	keyWait
 		any = false
 	clearMsg

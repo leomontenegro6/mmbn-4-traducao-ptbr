@@ -38,9 +38,8 @@ script 1 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Não é só que você
-	se sobressaia nas
-	NetLutas.
+	Não é só que você se
+	sobressai nas NetLutas.
 	"""
 	keyWait
 		any = false
@@ -181,8 +180,8 @@ script 6 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Se o fizerem, de
-	certo o sol do seu
+	Se o fizerem,
+	decerto o sol do seu
 	amanhã brilhará.
 	"""
 	keyWait

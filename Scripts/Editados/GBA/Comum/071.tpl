@@ -754,7 +754,7 @@ script 128 mmbn4 {
 		down = 0
 	space
 		count = 1
-	"Hambúrguer"
+	"Katsu curry"
 	select
 		default = 0
 		noDelay = false
@@ -771,9 +771,9 @@ script 128 mmbn4 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	É, com muita maionese
-	e ketchup! Ah, bateu
-	uma fome...
+	Aham! Costeleta frita
+	na hora com curry
+	cremoso...! Não tem igual!
 	"""
 	keyWait
 		any = false
@@ -955,7 +955,7 @@ script 128 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Pra área Saborya,
+	Pra Área Saborya,
 	agora!
 	"""
 	keyWait
@@ -1090,7 +1090,7 @@ script 129 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Pra área Saborya,
+	Pra Área Saborya,
 	agora!
 	"""
 	keyWait

@@ -5,9 +5,9 @@ script 0 mmbn4 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Boa! Achamos as 4
-	partes dos Dados-
-	Chave. Agora...
+	Boa! Achamos as quatro
+	partes dos Dados-Chave.
+	Agora...
 	"""
 	keyWait
 		any = false

@@ -148,8 +148,8 @@ script 10 mmbn4 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	Ha ha ha!!! Surpre-
-	ender oponentes:
+	Ha ha ha!!!
+	Surpreender oponentes:
 	uma estratégia minha!
 	"""
 	keyWait

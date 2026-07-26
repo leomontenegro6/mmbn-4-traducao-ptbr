@@ -179,7 +179,7 @@ script 9 mmbn4 {
 	keyWait
 		any = false
 	clearMsg
-	"? Que foi?"
+	"Hm? Que foi?"
 	keyWait
 		any = false
 	clearMsg

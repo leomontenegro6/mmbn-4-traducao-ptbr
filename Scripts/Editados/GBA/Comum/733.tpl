@@ -217,14 +217,10 @@ script 13 mmbn4 {
 		any = false
 	clearMsg
 	"""
-	Bora logo sair do
-	torneio de uma vez
-	e só ficar de boa,
+	Bora sair do torneio
+	de uma vez e só ficar
+	de boa, relaxando!
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"relaxando!"
 	keyWait
 		any = false
 	clearMsg

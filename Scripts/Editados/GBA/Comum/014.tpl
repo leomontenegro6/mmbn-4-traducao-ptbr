@@ -112,7 +112,7 @@ script 41 mmbn4s {
 	end
 }
 script 42 mmbn4s {
-	"_Ruínas Sabo■"
+	"__RuínasSabo■"
 	end
 }
 script 43 mmbn4s {

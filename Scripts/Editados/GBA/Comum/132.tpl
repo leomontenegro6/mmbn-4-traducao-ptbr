@@ -119,9 +119,9 @@ script 7 mmbn4 {
 		jumpIfBlueMoon = 10
 	msgOpen
 	"""
-	As expressões deles
-	são realistas e
-	tranquilas.
+	A expressão da
+	estátua é realista
+	e tranquila.
 	"""
 	keyWait
 		any = false
@@ -149,9 +149,9 @@ script 8 mmbn4 {
 script 10 mmbn4 {
 	msgOpen
 	"""
-	As expressões deles
-	são realistas e
-	tranquilas.
+	A expressão da
+	estátua é realista
+	e tranquila.
 	"""
 	keyWait
 		any = false

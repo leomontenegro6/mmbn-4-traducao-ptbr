@@ -670,9 +670,9 @@ script 31 mmbn4 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Urrú! Você tá
-	mandando benzaço
-	lá, Lanny! 
+	Urrú!
+	Você tá mandando
+	benzaço lá, Lanzão!
 	"""
 	keyWait
 		any = false
