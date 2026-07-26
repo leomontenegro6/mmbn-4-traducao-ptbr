@@ -78,6 +78,12 @@ Graças a todo esse imenso trabalho em equipe, finalizamos essa tradução e lan
 Changelog
 —————————————————–
 
+[b]Versão 1.1[/b]: 26/07/2026
+ Segundo lançamento.
+ - Efetuadas diversas correções de revisão
+ - Alterado botão de pular cutscenes do Select pro Start
+ - Efetuadas algumas correções gráficas menores
+
 [b]Versão 1.0[/b]: 20/12/2025
  Primeiro lançamento.
 

@@ -382,7 +382,7 @@ script 16 mmbn4 {
 	clearMsg
 	"""
 	Mas, cuidado: a Barra
-	de Customiza vai se
+	de Customização vai se
 	gastar enquanto você
 	"""
 	keyWait
@@ -423,13 +423,13 @@ script 16 mmbn4 {
 	"""
 	Porém, você só pode
 	usar cada chip um
-	número seleto de
+	número seleto de vezes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	vez. Se você levar
+	Se você levar
 	dano, a sua barra vai
 	se gastar...
 	"""
